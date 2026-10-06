@@ -1,0 +1,812 @@
+> ---
+> title: "영어스피킹 필수 부사 80"
+> aliases: []
+> tags: [english, adverbs, speaking, essential, mcp-extracted]
+> type: document
+> ---
+>
+> # 🗣️ 영어스피킹 필수 부사 80 (Complete Edition)
+>
+> ## 🎯 학습 개요 (Learning Overview)
+>
+> - **주요 학습 테마**: 시간, 장소, 정도, 빈도, 양태를 표현하는 필수 일상 부사 80개 완전 정복
+> - **핵심 수록 표현 수**: 80개 부사 + 파생 표현, 예문, 대화 100+개
+> - **학습 포인트**:
+> 1. 시간 부사(Now, Then, Before, Ago, Later 등)에서 과거/현재/미래 시점 정확히 구분
+> 2. 장소 부사(Here, There, Upstairs, Away, Down, Up, Back)로 위치와 방향 명확하게 표현
+> 3. 정도/빈도 부사(Very, Much, Always, Often, Never, Hardly)로 감정과 사건의 강도와 반복성 표현
+>
+> ---
+>
+> ## 📚 무손실 핵심 표현 & 패턴 마스터 (Core Expressions & Patterns)
+>
+> ### 🔹 1번 `now` : 지금, 현재, 당장
+>
+> - **💡 뉘앙스 & 상황 맥락**:
+> - **'지금 이 시점'**: 문자 그대로 현재 순간을 지칭 (시계상 현재)
+> - **'당장에'**: 즉시성(urgency)을 강조. "즉시, 지금 당장" 뉘앙스
+> - **'방금'**: 아주 얼마 전 직전 순간 (just와 비교하면 now는 덜 강함)
+> - 원어민은 "I'm coming now"에서 '서두르고 있다'는 행동성을 느낌
+>
+> - **🔊 발음 & 연음 팁**:
+> - `/naʊ/` 발음, 'ow' 같은 소리 (mouth처럼 입 둥글게)
+> - "right now"에서 't now'로 연음: '라이나우'처럼 빠르게
+>
+> - **📝 실전 예문**:
+> - 🇺🇸 `It is now over.`
+> - 🇰🇷 이제는 끝났다. (현 상황: 이전에는 계속되고 있었는데, 지금은 완전히 종료됨)
+> - 🇺🇸 `I'm coming now.`
+> - 🇰🇷 지금 당장 갑니다. (행동: 지금 움직이고 있다는 현재진행)
+> - 🇺🇸 `Do it now!`
+> - 🇰🇷 지금 당장 해! (명령: 긴급성, 즉시성 강조)
+>
+> - **⚠️ 주의사항 & 콩글리시 방지**:
+> - ❌ "I do now" (X) → ✅ "I'm doing it now" (O) / "I did it just now" (O)
+> - now는 진행형이나 현재형과 함께 쓰임. "이제 막 시작했다"는 "just now"나 "right now"로 표현
+> - "I come now"는 어색 → "I'm coming now" (자연스러움)
+>
+> ---
+>
+> ### 🔹 2번 `then` : 그때에, 그 다음에, 그리고 나서, 그래서
+>
+> - **💡 뉘앙스 & 상황 맥락**:
+> - **시간적 의미**: "그 당시에" → 과거의 특정 시점 지칭. 화자가 과거를 회상할 때 핵심 단어
+> - **순차적 의미**: "그 다음에, 그리고 나서" → 사건들의 순서를 설명할 때. narrative 느낌
+> - **논리적 결론**: "그래서, 그렇다면" → "if...then" 구문에서 인과관계 표현. "따라서"와 유사
+> - **동시성**: "동시에" → "at the same time"처럼 동시 행동 표현 (rare)
+> - **추가**: "게다가" → 추가 정보 제시 시 사용
+>
+> - **🔊 발음 & 연음 팁**:
+> - `/ðɛn/` 발음, 'ð' 소리는 혀를 윗니와 아랫니 사이에 살짝 물고 (th 발음)
+> - "and then"에서 'd then' 연음: '엔덴'처럼 발음
+> - "by then"에서 'y then' 연음: '바이덴'
+>
+> - **📝 실전 예문**:
+> - 🇺🇸 `Prices were lower then.`
+> - 🇰🇷 그 당시에는 물가가 쌌다. (과거의 특정 시점에서 가격이 저렴했음을 강조)
+> - 🇺🇸 `First came Tom, (and) then Jim.`
+> - 🇰🇷 먼저 톰이 오고 그 다음에 짐이 왔다. (순차적 사건 나열: 1번째 → 2번째)
+> - 🇺🇸 `If you work hard, then you'll succeed.`
+> - 🇰🇷 열심히 일하면, 그러면 성공할 거다. (인과: 조건 → 결과)
+> - 🇺🇸 `He is rich, but then he is unhappy.`
+> - 🇰🇷 그는 부자지만, 그래도 행복하지 않다. (대조: 한편으로는...하지만)
+>
+> - **💬 대화 스크립트**:
+> **A**: "When did you graduate?"
+> ↳ *너는 언제 졸업했어?*
+> **B**: "I graduated in 2015. Back then, the job market was terrible."
+> ↳ *2015년에 졸업했어. 그 당시에는 구직 시장이 최악이었어.*
+>
+> - **🔄 패턴 응용 & 교체 연습**:
+> - `First ____, then ____` = 순차적 사건 설명
+> - First we eat, then we rest. (먼저 먹고, 그 다음 쉰다)
+> - `If ____, then ____` = 조건과 결과
+> - If you ask, then I'll help. (물어보면, 내가 도와줄게)
+>
+> - **⚠️ 주의사항 & 콩글리시 방지**:
+> - ❌ "Then I went home and then I slept" (then 과다 사용) → ✅ "Then I went home and slept" (자연스러움)
+> - "By then"은 "그때쯤에는" → "그때는 이미" (완료 의미)
+> - "Since then" = "그 이후로" (과거에서 현재까지 지속)
+>
+> ---
+>
+> ### 🔹 3번 `before` : 전에, 이전에, 이미, 앞에
+>
+> - **💡 뉘앙스 & 상황 맥락**:
+> - **시간적 '이전'**: "…하기 전에", "과거의 어느 시점" → 시간축에서 앞선 시점
+> - **'이미 경험함'**: 현재완료와 함께 → "전에 본 적 있다" = 과거의 경험이 현재와 연결
+> - **장소적 '앞'**: "앞에, 앞쪽에" → 위치/방향 표현. "in front of"와 유사하지만 before는 문어적
+> - **'더 이전'**: "the night before" = "그 전날 밤" (기준점에서 하루 뒤로)
+>
+> - **🔊 발음 & 연음 팁**:
+> - `/bɪˈfɔr/` 발음, 'bi-FOR' (강세는 뒤에)
+> - "before I"에서 're I' 연음: '비포라이'처럼 부드럽게
+> - "long before"에서 'g b' → 'gbe'로 연음
+>
+> - **📝 실전 예문**:
+> - 🇺🇸 `I've seen that film before.`
+> - 🇰🇷 나는 전에 그 영화를 본 적이 있다. (과거 경험: 지금도 기억하고 있음)
+> - 🇺🇸 `the night before`
+> - 🇰🇷 그 전날 밤에 (그 다음날의 바로 전날 밤. 예: "Christmas Eve"는 Christmas의 night before)
+> - 🇺🇸 `two days before`
+> - 🇰🇷 (그때부터) 2일 전에 (기준점 과거에서 더 뒤로 2일)
+> - 🇺🇸 `I went to see him before I left.`
+> - 🇰🇷 떠나기 전에 그를 만나러 갔다. (시간 순서: 만남 → 출발)
+>
+> - **💬 대화 스크립트**:
+> **A**: "Have you been to Paris before?"
+> ↳ *너는 전에 파리에 가본 적이 있어?*
+> **B**: "Yes, I went there three years ago. The day before I left, it rained heavily."
+> ↳ *네, 3년 전에 갔었어. 떠나기 전날 비가 많이 왔어.*
+>
+> - **🔄 패턴 응용 & 교체 연습**:
+> - `____ before ____` (시간사 연결)
+> - Before dinner, I take a walk. (저녁 전에 산책한다)
+> - Go before you forget! (잊기 전에 가!)
+> - `Have you ever ____ before?` (경험 물음)
+> - Have you spoken English before? (전에 영어를 써본 적 있어?)
+>
+> - **⚠️ 주의사항 & 콩글리시 방지**:
+> - ❌ "Before I went" (단순과거) vs ✅ "Before I had gone" (대과거) - 두 과거 사건 비교할 때는 had gone
+> - ❌ "long time before" (X) → ✅ "long ago" (O) / "a long time ago" (O)
+> - "Before long" = "곧" (부사구, 다음 섹션 참고)
+>
+> ---
+>
+> ### 🔹 4번 `ago` : …전, …이전, 지금부터 전에
+>
+> - **💡 뉘앙스 & 상황 맥락**:
+> - **거꾸로 센 시간**: "현재로부터 거슬러 올라가는 시간" → "5 days ago" = 5일 뒤로
+> - 항상 **단순과거**와 함께 사용 (완료형 안 됨)
+> - **"long, long ago"**: 동화 표현, 아주 먼 과거. 정확한 시간 불명시
+> - 원어민은 "years ago"를 구체적 회상, "long ago"를 막연한 과거로 구분
+>
+> - **🔊 발음 & 연음 팁**:
+> - `/əˈɡoʊ/` 발음, 'a-GO' (강세는 뒤에)
+> - "years ago"에서 's a' 연음: '이얼자고'처럼
+> - "long ago"에서 'g a' → 'ga' 연음
+>
+> - **📝 실전 예문**:
+> - 🇺🇸 `five days ago`
+> - 🇰🇷 5일 전에 (오늘 기준으로 5일을 뒤로 센 시점)
+> - 🇺🇸 `long, long ago`
+> - 🇰🇷 옛날 옛적 (시간 불명확, 동화체)
+> - 🇺🇸 `He left two weeks ago.`
+> - 🇰🇷 그는 2주 전에 떠났다. (현재: 떠난 상태 지속 중)
+> - 🇺🇸 `It was a hundred years ago.`
+> - 🇰🇷 그건 백 년 전이었다. (역사적 과거)
+>
+> - **⚠️ 주의사항 & 콩글리시 방지**:
+> - ❌ "I have seen him three days ago" (X) → ✅ "I saw him three days ago" (O)
+> - ❌ "before three days ago" (X) → ✅ "three days before that" (O) / "two days before" (O)
+> - "ago"는 항상 문장의 끝이나 시간 표현의 끝에 옴
+>
+> ---
+>
+> ### 🔹 5번 `already` : 이미, 벌써, (놀람/의문) 그렇게 빨리, (부정문) 설마
+>
+> - **💡 뉘앙스 & 상황 맥락**:
+> - **긍정문**: "이미 ~했다" → 예상보다 빠른 완료에 대한 객관적 서술
+> - **의문문**: "벌써?" → 화자가 놀람/의외감 표현. "정말? 그렇게 빨리?"
+> - **부정문**: "설마 ~했겠지?" → 회의적/부정적 추측. "아마 아직 안 했을 거야" 뉘앙스
+> - 원어민은 tone에 따라 의미 180도 달라짐 (화자의 예상치 초과 강조)
+>
+> - **🔊
+
+---
+
+영어스피킹 필수 부사 80
+
+1 now
+
+지금, 현재; 오늘날 (지금) 당장에, 즉시(at once); 방금, 막
+
+It is now over. - 이제는 끝났다. / I’m coming now. - 지금 당장 갑니다.
+
+2 then
+
+그때에;그때는 ; 그 다음에, 그리고 나서, 그후에, 그래서 ; 동시에; 게다가, 그렇다면
+
+Prices were lower then. - 그 당시에는 물가가 쌌다.
+
+First came Tom, (and) then Jim. - 먼저 톰이 오고 그 다음에 짐이 왔다.
+
+3 before
+
+전에, 이전에, 일찍이, 이미 ; 전에, 일찍 ; 위치를 나타내어] 앞에, 앞쪽[전방]에;앞면에
+
+the night before - 그 전날밤에 / two days before - (그때부터) 2일 전에
+
+I’ve seen that film before. - 나는 전에 그 영화를 본적이 있다.
+
+4 ago
+
+…전, …이전 ; 지금부터 전에, 이전에
+
+five days ago - 5일 전에 / long, long ago - 옛날 옛적
+
+5 already
+
+[긍정문에]이미, 벌써;[놀람, 의문문에](아니) 벌써, 그렇게 빨리(thus early) ; [부정문에] 설마
+
+I have already seen him. - 벌써 그를 만났다
+
+Is he back already? - 그는 벌써 돌아왔는가? 《놀랐어, 뜻밖이야》
+
+She isn’t up already, is she? - 그녀가 설마 벌써 일어나진 않았겠지?
+
+6 just
+
+바로, 틀림없이, 마침, 꼭(exactly, precisely) ; 오직, 단지 ; 간신히, 겨우 ; 이제 방금, 막
+
+just then=just at that time - 바로 그때 / Just a moment, please. - 잠깐만 기다려 주십시오.
+
+The letter just came[has just come]. - 편지가 지금 막 도착했다.
+
+7 later
+
+뒤에, 나중에 * 형용사: 더 늦은, 더 뒤의;더 최근의
+
+later on - 나중에 / See you later. - 안녕히 가세요, 또 만나요. / sooner or later - 조만간
+
+8 still
+
+아직(도), 지금까지도, 여전히 ; 그럼에도 불구하고, 그래도 (역시) ; 게다가
+
+★형용사: 조용한, 고요한(quiet);소리 없는; 정지(靜止)한, 움직이지 않는
+
+He is still angry. - 그는 아직도 화나 있다. /
+
+He has his faults. Still, I love him. - 그는 결점이 있지만 그래도 나는 그를 좋아한다.
+
+★형용사로쓰일때: The night was very still. - 밤은 아주 고요했다.
+
+9 soon
+
+곧, 이내, 잠시 후, 머지않아 ; (예정보다) 일찍 ; 빨리, 얼른; 기꺼이, 자진하여
+
+She left soon after ten. - 그녀는 10시 좀 지나 집을 나섰다.
+
+You needn’t leave so soon. - 그렇게 일찍 떠날 필요가 없어.
+
+I want to be out of here the soonest I can. - 가능한 빨리 이 곳을 나가고 싶다.
+
+10 yet
+
+[부정문에서] 아직 (…않다), 아직[지금]까지는 (…않다);아직 당분간은 (…않다 )
+
+[의문문에서] (지금 또는 그때에) 이미, 벌써, 이제 ; [긍정문에서] 아직
+
+The work is not yet finished. - 일은 아직 끝나지 않았다.
+
+Have you done your assignment yet? - 벌써 숙제를 다 끝냈니?
+
+11 late
+
+늦게, 뒤늦게;지각하여, 너무 늦어(too late) ; 밤이 깊어[깊도록], 날이 저물어
+
+★형용사늦은, 지각한, 더딘
+
+We arrived an hour[one train] late. - 한 시간[한 열차] 뒤늦게 도착했다.
+
+late in the morning - 아침 느지막이
+
+12 early
+
+일찍이, 일찍부터, 일찌감치;초기에 ; 시간 전에, 늦지 않게
+
+get up early - 아침 일찍이 일어나다
+
+13 here
+
+여기에[서], 이곳에 ; 문두(文頭)에 써서] 자 여기 ; 이곳으로, 이리 ; 여기로
+
+Put your bag here. - 가방을 여기 놓으시오.
+
+Here we are. - 자 왔다. / Come here. - 이리 오너라.
+
+14 there
+
+[장소·방향] 그곳에[에서, 으로]; 거기에, 그곳에 ; 거기, 저기 ;
+
+I soon found a job there. - 나는 그곳에서 곧 일자리를 찾았다.
+
+I see a bird up there. - 저 위쪽에 새가 보인다.
+
+15 upstairs
+
+2층으로[에], 위층으로[에];계단을 올라서 ;
+
+an upstairs room - 2층 방
+
+16 away
+
+떨어져, 떠나 ; 저리로, 저쪽으로 ; 사라져, 없어져
+
+go away - 떠나다, 가버리다 / Come away. - 거기를 떠나서 (이쪽으로) 오너라.
+
+17 far
+
+멀리(에), 아득히, 먼 곳으로 ; 훨씬, 무척, 대단히, 아주, 너무, 크게
+
+far away[off] - 멀리 떨어진 곳에 / How far is it from here? - 여기서 얼마나 멉니까?
+
+18 down
+
+낮은 쪽으로, 아래로[에] ; 내려 놓아 ; 바닥에, 땅바닥에, 지면에 ; 아래층으로
+
+look down - 내려다보다, 아래를 보다 / get down - (차 등에서) 내리다
+
+put[lay] a thing down on the table - 테이블 위에 물건을 내려 놓다
+
+19 up
+
+위쪽으로, 위로[에]; 올라가 ; 수면으로, 땅위로; 몸을 일으켜;(잠자리에서) 일어나
+
+jump up - 뛰어오르다 / The curtain was up. (극장의) 막이 올라가 있었다.
+
+sit up in bed - 침대에서 일어나 앉다 / get up - 일어나다, 기상하다
+
+20 back
+
+(사람의) 등 《등뼈가 있는 부분》;(동물의) 등 부위 ; 뒤, 뒷면, 안쪽
+
+The fall broke his back. - 떨어져서 그의 등뼈가 부러졌다.
+
+21 very
+
+대단히, 몹시, 아주, 무척 ; 충분히, 정말 ;
+
+He walked very carefully. - 그는 몹시 조심스레 걸었다.
+
+Do your very best. - 최선을 다하라.
+
+22 much
+
+매우, 크게, 대단히 ; …정도로 (많이), …(의 정도)까지 ; 매우, 몹시, 아주
+
+Thank you very much. - 매우 감사합니다 /
+
+You don’t know how much I love you. - 내가 얼마나 당신을 사랑하는지 당신은 모른다.
+
+23 enough
+
+필요한 만큼 , 충분히; 그런데로, 꽤 ★ 형용사: 충분한, 필요한 만큼
+
+The meat is done enough. - 고기가 잘 구워졌다.
+
+24 completely
+
+완전히, 완벽하게; 순전히, 철저히
+
+He isn’t completely satisfied. - 그는 완전히 만족한 것은 아니다.
+
+25 well
+
+만족스럽게, 잘 , 훌륭하게, 더할 나위 없이 ; 바르게, 선량하게; 능숙하게, 솜씨 있게
+
+상당히, 꽤;충분히
+
+Business is going well. - 사업은 잘 돌아가고 있다.
+
+speak French well - 프랑스 말을 잘하다
+
+26 often
+
+흔히, 종종, 자주
+
+It very often snows there.=It snows there very often. - 그곳에는 눈이 자주 온다.
+
+27 sometimes
+
+때때로, 때로는, 이따금, 간혹
+
+Sometimes I feel like quitting my job. - 때때로 직장을 그만둘 생각이 난다.
+
+28 always
+
+늘, 항상, 언제나 ; 노상, 끊임없이 ; 언제까지나, 영구히 ; 죽, 내내, 그전부터
+
+He always comes late. - 언제나 늦게 온다.
+
+He is always grumbling. - 그는 노상 투덜댄다.
+
+29 usually
+
+보통, 늘, 일반적으로, 대개, 평소에(는), 통상적으로
+
+She usually comes at seven. - 그녀는 보통 7시에 온다.
+
+30 seldom
+
+드물게(rarely), 좀처럼 …않는
+
+Grandfather seldom goes out. - 할아버지는 외출하시는 일이 드물다.
+
+not seldom 왕왕, 간혹, 이따금: It not seldom happens that …하는 일은 왕왕 있다
+
+31 frequently
+
+자주, 종종, 빈번히, 뻔질나게
+
+write home frequently - 집으로 자주 편지를 쓰다
+
+32 slowly
+
+천천히, 느리게, 느릿느릿, 완만하게
+
+have a quick[slow] mind - 머리가 잘 돌다.
+
+33 safely
+
+안전하게, 무사히(in safety) ; 틀림없이
+
+It may safely be said (that ...) (…이라고) 말해도 좋을 것이다
+
+You are safe from all dangers here. or This place is safe[secure]. - 여기는 안전하다.
+
+34 politely
+
+공손히, 예의 바르게, 점잖게;고상하게, 품위있게
+
+speak politely or talk in polite language - 깍듯한 말씨를 쓰다.
+
+35 suddenly
+
+갑자기, 별안간, 돌연히
+
+What would you do if you suddenly came into a fortune?
+
+만일 너에게 갑자기 큰 재산이 생기면 어떻게 하겠니?
+
+36 late
+
+늦게, 뒤늦게; 지각하여, 너무 늦어(too late); 밤이 깊어[깊도록], 날이 저물어; 최근에, 요즈음
+
+★ 형용사: 늦은, 지각한, 더딘; 최근에
+
+We arrived an hour[one train] late. - 한 시간[한 열차] 뒤늦게 도착했다.
+
+37 lately
+
+요즈음, 최근에, 근래(of late)
+
+Has he been here lately? - 그가 최근에 여기에 왔었나요?
+
+I haven’t seen him lately. - 요즈음은 그를 만나지 못했다.
+
+38 today
+
+오늘, 금일 ; 현재(에는), 현대[최근](에는), 오늘날(은)
+
+Today is my birthday. - 오늘은 내 생일이다.
+
+the world of today - 현대의 세계
+
+39 tomorrow
+
+부사+ 명사 : 내일, 명일 ;(가까운) 장래, 미래
+
+I’m starting tomorrow. - 내일 떠날 예정이다.
+
+People tomorrow will think differently. - 장래의 사람들은 달리 생각할 것이다.
+
+40 the day after tomorrow
+
+모레
+
+So, I can't see you at 5 o'clock today, but I can meet you the day after tomorrow.
+
+그래서 오늘 5시에 너를 만날 수 없어. - 그러나 모레는 만날 수 있어
+
+You mean the day after tomorrow? - 내일 모레란 말이죠?
+
+41 yesterday
+
+어제(는) ; 요즈음에, 최근에, 바로 얼마 전에
+
+It was rainy yesterday. - 어제는 비가 왔다.
+
+I need[want] it yesterday. - 나는 그것이 당장 필요합니다.
+
+42 the day before yesterday
+
+그제(그저께)
+
+leave the day before yesterday - 이틀 전에 떠나다
+
+It was rainy the day before yesterday. - 그저께는 비가 왔다.
+
+He returned from his trip the day before yesterday.
+
+그는 그저께 여행을 마치고 돌아왔다.
+
+43 .. days ago
+
+..틀 전에
+
+five days ago - 5일 전에
+
+He left here a few days ago. - 그는 며칠전에 떠났다.
+
+44 before long
+
+곧, 머지 않아, 오래지 않아, 이윽고
+
+We shall know the truth before long. - 머지않아 진상을 알게 될 것입니다.
+
+45 sooner or later
+
+조만간
+
+You will repent it sooner or later. - 언젠가 후회할 거다
+
+Talents are bound to find luck sooner or later.
+
+재능이 있으면 언젠가는 운도 따르게 마련이다
+
+46 at all times
+
+항상 , 늘, 언제나
+
+Helmets must be worn at the excavation site at all times.
+
+발굴 현장에서는 항상 헬멧을 착용해야 합니다.
+
+47 all day long (= all the day )
+
+하루 종일, 진종일
+
+wait for to come all day long - 하루 종일 꼬박이 기다리다
+
+The old man was looking out on the street all day long.
+
+그 노인은 온종일 거리를 내다보고 있었다.
+
+48 every .. years
+
+..년마다
+
+at this time every year - 해마다 이맘때
+
+We have heavy snow every three years - 3년 마다 폭설이 난다.
+
+49 at this moment
+
+지금, 이때 , 바로 이때
+
+I have no idea at this monent - 지금으로선 아무 대안이 없다.
+
+50 at that time
+
+현 시점[그 시점]에서는, 현재[당시]는
+
+It happened (that) I was not in my house at that time.
+
+마침 그때 나는 집에 없었다.
+
+51 from time to time
+
+때때로 , 이따금
+
+We meet from time to time. - 우리는 이따금씩 만난다.
+
+52 once in a while
+
+때때로, 이따금
+
+I´ll drop you a few lines once in a while. - 가끔 편지로 연락할께.
+
+Once in a while I'll throw a pizza party. - 때때로 피자 파티를 열기도 합니다.
+
+53 at the same time
+
+동시에 ; 그렇지만, 그렇기는 하나
+
+It is just a coincidence that the two events have happened at the same time
+
+( 속담) 까마귀 날자 배 떨어 진다.
+
+His jokes are insulting, but, at the same time, very funny.
+
+그의 농담은 무례 하지만 한편 웃기기도 하다.
+
+54 at the different time
+
+따로
+
+We better go at the different time - 우리는 따로 가는 것이 낮겠다.
+
+55 at one time
+
+한꺼번에, 동시에;일찍이
+
+You´re trying to do too many things at one time.
+
+너는 동시에 너무 많은 일을 하려고 한다
+
+56 all the time
+
+그 동안 줄곧, 시종
+
+Safety is important first, last and all the time.
+
+시종일관하여 안전이 중요하다
+
+57 all through the day(year)
+
+하루종일, 일년 내내
+
+I was sick all through the vacation - 나는 방학 내내 아팠다.
+
+58 every other day
+
+하루 걸러서
+
+No, not every day. I try to exercise every other day, though.
+
+아니, 매일은 아냐. 이틀에 한 번꼴로 운동을 하려고 노력은 하고 있어.
+
+59 a long time ago
+
+먼 옛날, 휠씬 이전에, 까마득한 옛날에 , 오래 전에
+
+I heard the story it is a long time age
+
+나도 그 이야기를 들었다. 그러나 그건 벌써 오래 전이다
+
+60 on purpose
+
+고의로, 일부러 ; 계획 적으로
+
+They loudly and falsely accused me of causing the accident on purpose.
+
+그들은 내가 고의로 사고를 낸거라며 추궁을 했다.
+
+61 constantly
+
+끊임없이, 항상, 노상(continually); 자주, 빈번히(frequently)
+
+That girl is on the phone constantly. - 저 여자는 노상 전화에 매달려 있다.
+
+62 for nothing
+
+부질없이; 까닭없이; 거저, 무료로
+
+He did not go to Oxford for nothing - 역시 옥스퍼드 대학에 다닌 보람은 있었다.
+
+cry for nothing (at all) - 아무 까닭없이 울다 / I got these for nothing. - 거저 얻었다
+
+63 by chance
+
+우연히, 뜻밖에
+
+I met him in Seoul accidentally by chance .
+
+나는 그를 서울에서 우연히 만났다.
+
+64 at least
+
+적어도; 하다 못해 ; 최소한
+
+It will take at least ten times that long to go there on foot
+
+걸어서 그 곳에 가려면 적어도 그 시간의 10배는 걸릴 것이다.
+
+65 by yourself
+
+혼자서, 혼자 힘으로
+
+Will you be able to backpack around Europe by yourself?
+
+너는 혼자 유럽 배낭 여행을 할 수 있겠니?
+
+66 in advance
+
+전방에, 앞에; 선두에 서서 ; 미리, 선금으로
+
+receive[draw] in advance - 가불을 받다.
+
+67 occasionally
+
+때때로, 가끔, 이따금(sometimes); 임시로
+
+I occasionally visit my uncle in the country. - 나는 시골에 계신 숙부님을 가끔 방문한다
+
+68 generally
+
+일반적으로 ; 대개는, 보통(은), 통상(은) ; 개괄적으로, 대체로; 전체적으로; 전체로서
+
+He’s out─as he generally is. - 그는 집에 없다, 늘 그러하지만.
+
+be generally accurate - 대체로 정확하다
+
+be interested in game generally - 게임 전반에 흥미가 있다
+
+69 ever
+
+[의문문에서] 언젠가; 일찍이; 이제[지금]까지(에) ; [조건문에서] 언젠가, 앞으로
+
+[부정문에서] 결코 (…않다);전혀 (…하는 일이 없다)
+
+[긍정문에서] 언제나, 항상, 늘, 줄곧
+
+Shall we ever meet again? - 또 언젠가 우리 만날 일이 있을까?
+
+70 probably
+
+아마(도), 대개는, 십중팔구
+
+I’ll probably be a little late. - 아마 좀 늦을 것이다.
+
+71 almost
+
+거의, 대체로, 대부분, 하마터면
+
+Dinner is almost ready. - 저녁 준비가 거의 다 되었다.
+
+I’d almost forgotten that. - 하마터면 그것을 잊을 뻔했다.
+
+72 scarcely
+
+거의 …않다 ; 간신히, 가까스로, 겨우 ; 분명히 …아닌
+
+I scarcely know him. - 그를 거의 모른다
+
+scarcelyl twenty people - 20명 될까 말까
+
+He can scarcely have been there. - 거기에 있었을 리는 절대 없다
+
+74 never
+
+일찍이 …없다, (일찍이) 한 번도 …않다 ; [never a+명사] 하나[한 사람]도 …않다
+
+결코 …않다 ★ 보통 명령문에서, 또는 never so much as, never do로 쓰임
+
+He never goes abroad. - 그는 한 번도 해외에 가지 않았다.
+
+Never a one of them failed. - 그들 중 단 한 사람도 실패하지 않았다.
+
+Never do things by halves. - 일을 중도에서 절대로 그만두지 마라.
+
+75 hardly
+
+거의 …않다[하지 않다] 《hard ad.와 혼동하지 않도록 주의》
+
+조금도[전혀] …않다, 도저히 …않다 ; 아마도 …않다, 거의 …할 것 같지 않다
+
+맹렬히, 열심히 ; 고되게, 어렵게
+
+There is hardly any time left. - 시간은 거의 남아 있지 않다.
+
+I can hardly demand money from him. - 그에게 도저히 돈을 요구할 수가 없다.
+
+We live hardly. - 우리는 고된 생활을 하고 있다.
+
+76 rarely
+
+드물게, 좀처럼 …하지 않는(seldom)
+
+드물 만큼, 희한하게, 아주, 매우 (잘);훌륭하게(splendidly)
+
+We rarely see him nowadays. - 요즈음은 그를 좀처럼 볼 수가 없다
+
+She was rarely beautiful. - 그녀는 정말로 아름다웠다.
+
+77 seldom
+
+드물게(rarely), 좀처럼 …않는
+
+Grandfather seldom goes out. - 할아버지는 외출하시는 일이 드물다.
+
+78 hard
+
+굳게, 단단히 ; 열심히, 애써서, 노력하여, 힘껏
+
+몹시, 심하게, 지나치게; 가만히, 뚫어지게; 충분히, (잠을) 푹
+
+괴롭게, 간신히, 겨우; 좀처럼 (…않다)
+
+It is frozen hard. - 굳게 얼어 붙었다.
+
+try hard - 힘껏 해보다
+
+He breathes hard. - 그는 가쁘게 숨쉬고 있다.
+
+79 barely
+
+간신히, 겨우, 가까스로 ; 거의 …않다 (scarcely) ; 빈약하게, 불충분하게
+
+barely escape death - 간신히 목숨을 건지다
+
+He showed barely any interest in it. - 그는 그것에 거의 관심을 보이지 않았다.
+
+80 kindly
+
+친절하게, 다정하게, 상냥하게 ; 부디 <…해 주시오>, 진심으로 ; 기꺼이 , 호의 적으로
+
+★형용사: 상냥한, 다정한, 인정 많은(considerate), 친절한(kind)
+
+speak kindly to a person - 남에게 상냥하게 말을 걸다
+
+IBT 무료 영어스피킹 테스트  http://wallstudy.com

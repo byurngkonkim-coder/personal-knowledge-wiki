@@ -1,0 +1,1861 @@
+---
+title: "영어회화_1170문장_English conversation"
+category: "글로벌 어학 & 영어"
+type: "english_learning"
+project: "03_English Materials"
+notebook: "English_txt"
+summary: "title: '영어회화_1170문장_English conversation'"
+decision_status: "accepted"
+source: "영어회화_1170문장_English conversation.md"
+source_path: "03_English Materials/English_txt/영어회화_1170문장_English conversation.md"
+created: 2026-10-02
+converted: 2026-10-02
+status: canonical
+tags:
+  - 영어학습
+  - 영어회화
+aliases: []
+---
+
+> ---
+> title: "영어회화_1170문장_English conversation"
+> aliases: [영어회화 1170문장, English Conversation 1170]
+> tags: [english, speaking, pattern, source, mcp-extracted]
+> type: document
+> ---
+>
+> # 🗣️ 영어회화_1170문장_English conversation
+>
+> ## 📋 요약 (Summary)
+> - **주요 학습 테마**: 일상생활 밀착형 회화 표현, 병원·신체 동작, 교통·길 찾기, 여행(공항·호텔·식당·쇼핑), 비즈니스 및 사회생활, 핵심 구어 이디엄, 기초 필수 영문법 및 구문 패턴
+> - **핵심 수록 표현 수**: 원문 총 1,170개 문장 및 유사 확장 표현 일체
+> - **학습 포인트**:
+>   - 병원 진료 자세, 유통기한, 숙취, 금융 거래 등 원어민이 일상에서 무의식적으로 쓰는 생생한 관용구 마스터
+>   - 출장, 호텔 투숙, 기내 서비스, 식당 주문, 쇼핑, 긴급 상황 등 해외 체류 시 직결되는 실전 기능별 표현 체계화
+>   - 5형식 문장 구조부터 의문사 간접의문문, 감탄문, 명사절 등 실전 스피킹으로 직결되는 뼈대 문법 구문 습득
+>
+> ## 🗺️ 원문 구조 (Document Map)
+> 1. [Part 1: 신체 자세 & 병원·건강 기초 표현] (문장 1~5)
+> 2. [Part 2: 대중교통 배려 & 동행 표현] (문장 6~17)
+> 3. [Part 3: 감탄·등산 & 시도 권유] (문장 18~27)
+> 4. [Part 4: 음식 주문 & 일상 재촉·비용 관용구] (문장 28~38)
+> 5. [Part 5: 현실 직시 & 감정 표현(답답함/좌절)] (문장 39~50)
+> 6. [Part 6: 유통기한 & 통신/휴대폰 & 음주·숙취] (문장 51~64)
+> 7. [Part 7: 음식 식감 & 버스 탑승 & 처신·선거] (문장 65~75)
+> 8. [Part 8: 은행 업무 & 의사소통 장애] (문장 76~85)
+> 9. [Part 9: 스포츠 & 주량 & 건강 이상] (문장 86~95)
+> 10. [Part 10: 출신지 & 소개팅 & 인물 적합성] (문장 96~112)
+> 11. [Part 11: 유효기간 & 카드 연체 & 보행 부주의] (문장 113~123)
+> 12. [Part 12: 취기 & 점술 & 상식·원칙 & 희망] (문장 124~136)
+> 13. [Part 13: 위로 & 복잡한 감정 & 세태 풍자] (문장 137~145)
+> 14. [Part 14: 기간 질문 & 조언 구하기 & 성격·태도] (문장 146~160)
+> 15. [Part 15: 교통 매너 & 정보 부재 & 외모·변화] (문장 161~173)
+> 16. [Part 16: 권한 위임 & 간식 & 불가피한 상황] (문장 174~185)
+> 17. [Part 17: 역전승 & 퇴근 & 나잇값 & 무료 제공] (문장 186~195)
+> 18. [Part 18: 꼴불견·구토 & 휴가 무산 & 주차 매너] (문장 196~210)
+> 19. [Part 19: 섣부른 판단 & 출장/부재 & 면접 대비] (문장 211~222)
+> 20. [Part 20: 말조심 & 체념 & 히치하이킹 & 상대 칭찬] (문장 223~235)
+> 21. [Part 21: 화법 스타일 & 반납 연체 & 아내에게 쥐여살기] (문장 236~246)
+> 22. [Part 22: 복권 & 안도 & 필름 잔여량 & 교대 근무] (문장 247~259)
+> 23. [Part 23: 계란 조리법 & 화제 전환 & 수술 봉합/실밥] (문장 260~277)
+> 24. [Part 24: 결사반대 & 동전 부족 & 오랜만의 재회] (문장 278~283)
+> 25. [Part 25: 경기 실격 & 튀는 성향 & 치열교정기 & 성향] (문장 284~297)
+> 26. [Part 26: 주차 방식 & 성미 & 양다리/외도 & 눈치] (문장 298~313)
+> 27. [Part 27: 겁쟁이 & 엘리베이터 홀/짝수층 & 새해 결심] (문장 314~325)
+> 28. [Part 28: 땡땡이 & 기분 기복 & 미행 & 우정] (문장 326~335)
+> 29. [Part 29: 우천 & 탈출/도망 & 매너 & 예약부도(No-show)] (문장 336~352)
+> 30. [Part 30: 주가 폭락 & 제정신 & 궁금증 & 음치] (문장 353~364)
+> 31. [Part 31: 필수 기초 인사 & 만남 & 감사 & 사과] (문장 365~443)
+> 32. [Part 32: 부탁 & 제안 & 감정 진정 & 시간 묻기] (문장 444~489)
+> 33. [Part 33: 축하 & 덕담 & 날씨 묘사] (문장 490~506)
+> 34. [Part 34: 공항 탑승 수속 & 기내 서비스 요청] (문장 507~558)
+> 35. [Part 35: 입국 심사 & 세관 신고 & 짐 찾기] (문장 559~584)
+> 36. [Part 36: 호텔 예약 & 체크인 & 룸서비스] (문장 585~621)
+> 37. [Part 37: 세탁 서비스 & 시설 불만 & 체크아웃] (문장 622~668)
+> 38. [Part 38: 아파트 렌트 & 식당 추천 및 자리 잡기] (문장 669~685)
+> 39. [Part 39: 식당 메뉴 주문 & 음료 & 디저트] (문장 686~715)
+> 40. [Part 40: 음식 평가 & 주문 오류 & 식사 계산] (문장 716~740)
+> 41. [Part 41: 쇼핑 탐색 & 규격/색상 & 맞춤 의류] (문장 741~784)
+> 42. [Part 42: 카메라/필름 & 잡화 & 가격 흥정 및 결제] (문장 785~842)
+> 43. [Part 43: 관광 일정 & 길 안내 & 공연 관람] (문장 843~890)
+> 44. [Part 44: 분실·도난 긴급신고 & 미용실/이발소 이용] (문장 891~916)
+> 45. [Part 45: 우체국 우편 발송 & 전화 통화] (문장 917~943)
+> 46. [Part 46: 은행 환전 & 병원 증상 설명 및 진료] (문장 944~984)
+> 47. [Part 47: 야영/레저 & 기차 탑승 및 환승] (문장 985~1008)
+> 48. [Part 48: 렌터카 운전 & 대중교통 이용 안내] (문장 1009~1032)
+> 49. [Part 49: 일상 대화 & 전화 예절 & 길 안내] (문장 1033~1054)
+> 50. [Part 50: 생활 속담 & 기본 문장 구조] (문장 1055~1094)
+> 51. [Part 51: 일상 동작 & 시제 & 부정문] (문장 1095~1116)
+> 52. [Part 52: 간접의문문 & 생각/추측 동사 의문문] (문장 1117~1136)
+> 53. [Part 53: 수사의문문 & 명령/사역문] (문장 1137~1148)
+> 54. [Part 54: 감탄문 & 기원문 & 복문 접속사] (문장 1149~1161)
+> 55. [Part 55: 명사구/명사절 주어·보어 문형 마스터] (문장 1162~1170)
+>
+> ## 📚 상세 분해 (Detailed Breakdown) — 무손실 핵심 표현 & 패턴 마스터
+>
+> ### 1. `Lie on your stomach.` : 엎드려 누우세요.
+> - **💡 뉘앙스 & 상황 맥락**: 병원 진료실, 마사지 숍, 물리치료실에서 환자나 손님에게 배를 바닥에 대고 엎드리라고 지시할 때 사용하는 정형화된 표현. 일상 구어에서는 `Lie facedown`이나 `Lie on your front`와 동일하게 쓰인다.
+> - **🔊 발음 & 연음 팁 (Pronunciation Tip)**: `Lie on`이 연음되어 [라이온]처럼 이어지며, `stomach`의 끝소리는 [k] 발음([스토먹])으로 떨어진다.
+> - **📝 실전 예문 (Real Examples)**:
+>   - 🇺🇸 `Lie on your stomach.`
+>     - 🇰🇷 엎드려 누우세요.
+>   - 🇺🇸 `Lie on your front.`
+>     - 🇰🇷 배를 깔고 누우세요.
+>   - 🇺🇸 `Lie facedown.`
+>     - 🇰🇷 얼굴을 바닥으로 향해 엎드리세요.
+> - **💬 대화 스크립트 (Dialogue Context)**:
+>   > **A**: `Could you take off your shirt and lie on your stomach?`
+>   > ↳ *셔츠를 벗고 엎드려 누워 주시겠습니까?*
+>   > **B**: `Like this?`
+>   > ↳ *이렇게요?*
+> - **🔄 패턴 응용 & 교체 연습 (Substitution Drill)**:
+>   - `Lie on your + [신체 부위]`
+>     - `Lie on your back.` = 등을 대고 똑바로 누우세요.
+>     - `Lie on your side.` = 옆으로 누우세요.
+> - **⚠️ 주의사항 & 콩글리시 방지 (Pitfalls & Common Mistakes)**: '눕다'는 자동사 `lie`를 써야 하며 타동사 `lay`와 혼동하지 않도록 주의한다.
+>
+> ---
+>
+> ### 2. `make room for` : ~에게 자리를 양보하다 / 공간을 마련하다
+> - **💡 뉘앙스 & 상황 맥락**: 물리적으로 공간을 좁혀서 다른 사람이 앉거나 들어올 틈을 만들어 주거나, 교통약자에게 자리를 내어줄 때 쓰는 품격 있는 배려 표현.
+> - **🔊 발음 & 연음 팁 (Pronunciation Tip)**: `make`의 [k]와 `room`의 [r]이 맞물려 [메익-룸], `for`는 약화되어 [퍼]로 발음된다.
+> - **📝 실전 예문 (Real Examples)**:
+>   - 🇺🇸 `He made room for a physically handicapped man.`
+>     - 🇰🇷 그는 지체부자유자에게 자리를 양보했다.
+>   - 🇺🇸 `Why don't you make room for him?`
+>     - 🇰🇷 자리를 양보하시는 게 어때요?
+>   - 🇺🇸 `Why don't you give him your seat?`
+>     - 🇰🇷 그분에게 자리를 비켜드리는 게 어때요?
+> - **💬 대화 스크립트 (Dialogue Context)**:
+>   > **A**: `There's an old man getting on the subway. Don't you think he's tired?`
+>   > ↳ *연세 많은 노인께서 전철에 오르고 계셔. 저분이 피곤하다고 생각되지 않니?*
+>   > **B**: `I guess you're right. I'll make room for him.`
+>   > ↳ *네 말이 맞아. 자리를 양보해야겠어.*
+>   > **A**: `You did the right thing.`
+>   > ↳ *옳은 일 했어.*
+> - **🔄 패턴 응용 & 교체 연습 (Substitution Drill)**:
+>   - `Why don't you make room for + [대상]?` = [대상]에게 자리를 마련해 주는 게 어때?
+> - **⚠️ 주의사항 & 콩글리시 방지 (Pitfalls & Common Mistakes)**: 여기서 `room`은 셀 수 없는 명사(불가산)로 '공간, 여유'를 뜻하므로 `a room`이라고 쓰지 않는다.
+>
+> ---
+>
+> ### 3. `take one's breath away` : 숨이 턱 막히게 하다 / 넋을 잃게 만들다
+> - **💡 뉘앙스 & 상황 맥락**: 풍경이나 사람의 미모, 공연 등이 압도적으로 웅장하고 아름다워 숨을 쉴 수 없을 만큼 큰 감동을 줄 때 사용하는 극찬의 표현.
+> - **🔊 발음 & 연음 팁 (Pronunciation Tip)**: `breath`는 [브레스], 동사 `breathe`[브리즈]와 명사 발음을 구분해야 한다. `took my breath away`는 리듬을 타듯 [툭 마이 브레써웨이]로 연음된다.
+> - **📝 실전 예문 (Real Examples)**:
+>   - 🇺🇸 `The view took my breath away.`
+>     - 🇰🇷 경치가 장관이었습니다 (숨이 멎을 지경이었습니다).
+>   - 🇺🇸 `The view was breathtaking.`
+>     - 🇰🇷 숨 막힐 정도로 멋진 풍경이었습니다.
+> - **💬 대화 스크립트 (Dialogue Context)**:
+>   > **A**: `How was your weekend? Did you reach the top of Sorak Mountain?`
+>   > ↳ *주말 어땠어? 설악산 정상까지 올라갔니?*
+>   > **B**: `Yes, and the view took my breath away!`
+>   > ↳ *응, 정말 경치가 장관이었어!*
+>   > **A**: `Why don't you take me next time?`
+>   > ↳ *다음엔 나도 좀 데려가지 그래?*
+>   > **B**: `Sure thing.`
+>   > ↳ *물론이지.*
+> - **🔄 패턴 응용 & 교체 연습 (Substitution Drill)**:
+>   - `[주어] + took my breath away` = [주어]에 넋을 잃었다.
+> - **⚠️ 주의사항 & 콩글리시 방지 (Pitfalls & Common Mistakes)**: '숨이 막히다'는 생리적 질식(suffocate/choke)의 부정적 의미가 아니라 감탄의 긍정적 뉘앙스로 주로 쓰인다.
+>
+> ---
+>
+> ### 4. `It won't hurt to try.` : 해봐서 손해 볼 것 없다 / 밑져야 본전이다
+> - **💡 뉘앙스 & 상황 맥락**: 망설이거나 주저하는 상대방에게 위험부담이 없으니 일단 한번 시도해 보라고 등을 떠밀며 격려할 때 쓰는 실전 명언.
+> - **🔊 발음 & 연음 팁 (Pronunciation Tip)**: `won't hurt`의 [t] 소리가 연속되면서 혀끝이 윗니 뒤에 닿았다가 부드럽게 [원트 헐트 투 트라이] 대신 [원 헐투 트라이]로 압축된다.
+> - **📝 실전 예문 (Real Examples)**:
+>   - 🇺🇸 `It won't hurt to try.`
+>     - 🇰🇷 해봐서 해될 것 없어. / 밑져야 본전이야.
+>   - 🇺🇸 `There's nothing to lose. / You have nothing to lose.`
+>     - 🇰🇷 잃을 게 전혀 없잖아.
+>   - 🇺🇸 `What are you afraid of? It won't hurt to try.`
+>     - 🇰🇷 뭘 두려워해? 해봐서 밑질 건 없잖아.
+>   - 🇺🇸 `Nothing ventured, nothing gained.`
+>     - 🇰🇷 호랑이굴에 들어가야 호랑이를 잡는다.
+> - **💬 대화 스크립트 (Dialogue Context)**:
+>   > **A**: `I'm not touching it! What is this dish called?`
+>   > ↳ *난 손 안 댈래! 이 요리 이름이 뭔데?*
+>   > **B**: `What are you afraid of? It won't hurt to try.`
+>   > ↳ *뭘 겁내? 먹어봐서 손해 볼 건 없잖아.*
+> - **🔄 패턴 응용 & 교체 연습 (Substitution Drill)**:
+>   - `It won't hurt to + [동사원형]` = ~한다고 덧나는 건 아니다.
+>     - `It won't hurt to ask.` = 물어본다고 밑질 건 없잖아.
+> - **⚠️ 주의사항 & 콩글리시 방지 (Pitfalls & Common Mistakes)**: 물리적으로 아프다는 뜻이 아니라 '손해나 피해가 발생하지 않는다'는 확장적 비유 표현이다.
+>
+> ---
+>
+> ### 5. `Money is no object.` : 돈은 문제가 안 된다
+> - **💡 뉘앙스 & 상황 맥락**: 비용에 구애받지 않고 무엇이든 사주거나 추진할 수 있음을 과시하거나 안심시킬 때 쓰는 표현.
+> - **🔊 발음 & 연음 팁 (Pronunciation Tip)**: `object`가 명사로 쓰여 첫 음절 강세 [아-브직트]로 발음된다.
+> - **📝 실전 예문 (Real Examples)**:
+>   - 🇺🇸 `Money is no object.`
+>     - 🇰🇷 돈은 문제가 안 됩니다.
+>   - 🇺🇸 `No matter the cost.`
+>     - 🇰🇷 비용이 얼마가 들든 상관없이.
+>   - 🇺🇸 `Money is no object. I'll buy whatever you want.`
+>     - 🇰🇷 돈은 문제가 안 돼. 원하는 건 뭐든지 사줄게.
+>   - 🇺🇸 `Money is no object. Just name whatever you want to get.`
+>     - 🇰🇷 돈 걱정 말고, 갖고 싶은 거 말만 해.
+> - **💬 대화 스크립트 (Dialogue Context)**:
+>   > **A**: `What do you want to get for your birthday?`
+>   > ↳ *너 생일에 뭐 받고 싶어?*
+>   > **B**: `Notebook computers are too expensive...`
+>   > ↳ *노트북 컴퓨터는 너무 비싸서...*
+>   > **A**: `Don't worry! Money is no object.`
+>   > ↳ *걱정 마! 돈은 문제가 아니야.*
+> - **🔄 패턴 응용 & 교체 연습 (Substitution Drill)**:
+>   - `[명사] + is no object` = [명사]는 전혀 고려 대상이 아니다.
+>     - `Distance is no object.` = 거리는 전혀 문제 되지 않는다.
+> - **⚠️ 주의사항 & 콩글리시 방지 (Pitfalls & Common Mistakes)**: `object`를 '목적'이나 '물건'으로 직역하면 의미 파악이 안 되므로 '장애물/반대 요소가 아니다'라는 어원을 기억한다.
+>
+> ---
+>
+> ### 6. `Get real!` : 현실을 직시해! / 꿈 깨!
+> - **💡 뉘앙스 & 상황 맥락**: 터무니없는 망상에 빠져 있거나 현실성이 전혀 없는 계획을 떠벌리는 친구에게 정신 차리라고 일침을 가할 때 쓰는 직설적인 구어 표현.
+> - **🔊 발음 & 연음 팁 (Pronunciation Tip)**: `Get`의 [t]가 멈칫하는 불파음으로 끊기며 [겟-리얼!]로 강하게 발음한다.
+> - **📝 실전 예문 (Real Examples)**:
+>   - 🇺🇸 `Get real!`
+>     - 🇰🇷 현실을 직시해!
+>   - 🇺🇸 `Wake up! / That's unrealistic!`
+>     - 🇰🇷 정신 차려! / 그건 비현실적이야!
+>   - 🇺🇸 `Are you going to apply to Harvard with such low marks? Get real!`
+>     - 🇰🇷 그런 낮은 점수로 하버드에 지원하겠다고? 현실을 직시해!
+> - **💬 대화 스크립트 (Dialogue Context)**:
+>   > **A**: `What are you doing?`
+>   > ↳ *너 뭐 하고 있니?*
+>   > **B**: `I'm buying a lottery ticket. I might become a billionaire tomorrow!`
+>   > ↳ *복권 사고 있어. 내일 억만장자가 될지도 모르잖아!*
+>   > **A**: `Get real! The odds are terrible.`
+>   > ↳ *꿈 깨! 확률이 끔찍하거든.*
+> - **🔄 패턴 응용 & 교체 연습 (Substitution Drill)**:
+>   - `Come on, get real!` = 제발이지, 현실감각 좀 찾아!
+> - **⚠️ 주의사항 & 콩글리시 방지 (Pitfalls & Common Mistakes)**: 직장 상사나 웃어른에게 쓰면 매우 무례한 표현이므로 친근한 사이에서만 사용한다.
+>
+> ---
+>
+> ### 7. `feel frustrated` : (뜻대로 되지 않아) 가슴이 답답하다
+> - **💡 뉘앙스 & 상황 맥락**: 자신의 언어 능력 부족으로 의사를 표현하지 못하거나, 상대방이 내 말을 들어주지 않아 속이 꽉 막힌 듯 답답하고 안타까운 감정을 정확히 묘사하는 핵심 심리 형용사.
+> - **🔊 발음 & 연음 팁 (Pronunciation Tip)**: `frustrated`는 [프러-스트레이티드]로 강세가 두 번째 음절에 오며, 혀를 굴려 [r] 발음을 살려준다.
+> - **📝 실전 예문 (Real Examples)**:
+>   - 🇺🇸 `I feel frustrated.`
+>     - 🇰🇷 (마음대로 되지 않아) 가슴이 답답하다.
+>   - 🇺🇸 `I feel frustrated because I can't express myself well in English.`
+>     - 🇰🇷 영어로 의사전달을 잘하지 못해 답답하다.
+>   - 🇺🇸 `I feel frustrated because no one listens to me.`
+>     - 🇰🇷 아무도 내 얘기를 안 들어주니 답답하다.
+> - **💬 대화 스크립트 (Dialogue Context)**:
+>   > **A**: `How's business going?`
+>   > ↳ *사업은 어떻게 돼가십니까?*
+>   > **B**: `Not good. I feel frustrated because I can't communicate well with my American clients.`
+>   > ↳ *좋지
+
+---
+
+< English conversation >
+1. Lie on your stomach. _ 엎드려 누우세요.
+비슷한 표현 => Lie on your front.
+Lie facedown.
+2. Lie on your back. _ 드러누우세요.
+비슷한 표현 => Lie back.
+3. Lie on your side. _ 옆으로 누우세요.
+4. Could you take off your shirt? _ 셔츠를 벗으세요.
+5. Like this? _ 이렇게요?
+6. He made room for a physically handicapped man.
+_ 그는 지체부자유자에게 자리를 양보했다.
+7. Why don't you make room for him? _ 자리를 양보하시는 게 어때요?
+비슷한 표현 => Why don't you give him your seat?
+8. I guess you're right. _ 네 말이 맞아.
+9. Don't you think he's tired? _ 저분이 피곤하다고 생각되지 않니?
+10. There's an old man getting on the subway.
+_ 연세 많은 노인께서 전철에 오르고 있어.
+11. You did the right thing. _ 옳은 일 했어.
+12. You're walking too fast. Please come along with me.
+_ 너무 빨리 걷는군요. 함께 가요.
+13. Please come along with me. I need some help with my bag.
+_ 함께 가주세요. 제 가방 좀 들어주세요.
+14. Please accompany me. _ 함께 가요.
+15. Catch up! _ 앞서 가는 사람이 뒤쳐진 사람에게 “어서 와” “빨리 따라붙어”
+16. Where are you going? _ 어디 가십니까?
+17. I need some help carrying this package.
+_ 이 소포를 가져가는데 도움이 좀 필요합니다.
+18. The view took my breath away. _ 경치가 장관이었습니다.
+비슷한 표현 => The view was breathtaking.
+19. How was your weekend? _ 주말 어땠습니까?
+20. It was great! _ 좋았어요!
+21. I went to Sorak Mountain yesterday. _ 저는 어제 설악산에 갔어요.
+22. Did you reach the top? _ 정상까지 갔습니까?
+23. Why don't you take me next time? _ 다음에는 저를 좀 데려가 주세요.
+24. Sure thing. _ 그러죠.
+25. It won't hurt to try. _ 해봐서 해될 것 없어. / 밑져야 본전이야.
+비슷한 표현 => There's nothing to lose.
+You have nothing to lose.
+26. What are you afraid of? It won't hurt to try. _ 뭘 걱정해? 해봐서 해될 것 없어.
+27. Nothing ventured, nothing gained. _ 호랑이굴에 들어가야 호랑이를 잡는다.
+28. What is this dish called? _ 이 음식 이름이 뭡니까?
+29. I'm not touching it! _ 손대지 않을래요!
+30. See! What did I tell you? _ 거 보세요! 제가 뭐랬어요?
+31. Where's the fire? _ 왜 그렇게 급해?
+32. Hurry up! _ 서둘러!
+33. I'm late for a meeting. _ 모임에 늦었어.
+34. Money is no object. _ 돈은 문제가 안 됩니다.
+비슷한 표현 => No matter the cost.
+35. Money is no object. I'll buy whatever you want.
+_ 돈은 문제가 안돼. 원하는 건 뭐든지 사줄게.
+36. Money is no object. Just name whatever you want to get.
+_ 돈은 문제가 안돼. 갖고 싶은 거 말만 해.
+37. What do you want to get for your birthday? _ 너 생일에 뭐 갖고 싶니?
+38. Don't worry! _ 걱정하지마!
+39. Get real! _ 현실을 직시해!
+비슷한 표현 => Wake up!
+That's unrealistic!
+40. Are you going to apply to Havard with such low marks? Get real!
+_ 그런 낮은 점수로 하버드에 지원하겠다고? 현실을 직시해!
+41. What are you doing? _ 너 무엇하고 있니?
+42. I'm buying a lottery ticket. _ 복권 사고 있어.
+43. I feel frustrated.
+_ 영어실력이 모자라 자신이 하고 싶은 말을 제대로 표현하지 못해 “가슴이 답답하다.”
+44. I feel frustrated because I can't express myself well in English.
+_ 영어로 의사전달을 잘 하지 못해 답답하다.
+45. I feel frustrated because no one listens to me.
+_ 아무도 내 얘기를 안 들어주니 답답하다.
+46. How's business going? _ 사업이 어떻게 되어갑니까?
+47. Not good. _ 좋지 않습니다.
+48. I feel frustrated because I can't communicate well with my American clients.
+_ 저의 미국인 고객들에게 의사전달을 잘하지 못해 답답합니다.
+49. Maybe you should take some English lessons at a language school.
+_ 어학원에서 영어수업을 좀 받으셔야겠군요.
+50. That's a great idea! _ 아주 좋은 생각입니다!
+51. The expiration date has passed.
+_ 통조림이나 우유등 상하기 쉬운 음식의 유통기한이 지나 “유효기간이 지났다.”
+52. This milk has gone bad. _ 이 우유는 상했다.
+53. This milk tastes strange. _ 이 우유 맛이 이상해요.
+54. What's wrong with it? _ 뭐가 잘못됐어요?
+55. When was it delivered? _ 언제 배달됐지요?
+56. My cellular only makes outgoing calls. _ 제 휴대폰은 발신만 됩니다.
+비슷한 표현 => My cellular only dials out.
+My cellular can't take incoming calls.
+I can't receive calls on my cellular.
+My cellular phone is only for making calls.
+57. My cellular only receives incoming calls. _ 제 휴대폰은 수신 전용입니다.
+58. I blacked out. _ 술을 많이 마셔 전날 상황을 기억하지 못하는 경우 “필름이 끊겼다.”
+비슷한 표현 => I passed out.
+59. I blacked out last night. Could you tell me what happened?
+_ 어젯밤 필름이 끊겼어. 무슨 일이 있었는지 얘기해 주겠니?
+60. You were completely drunk last night. _ 어젯밤 너 완전히 취했더군.
+61. How do you deal with homesickness? _ 향수를 어떻게 달래십니까?
+비슷한 표현 => What do you do when you get homesick?
+What do you do when you are faced with homesickness?
+62. I sometimes feel homesick. _ 나는 가끔 향수를 느낀다.
+63. How's life in Korea? _ 한국 생활이 어떻습니까?
+64. What do you do when you get lonely? _ 외로울 때는 무엇을 하십니까?
+65. The steamed rice is a little sticky. _ 밥이 좀 질군요.
+66. The steamed rice is too dry. _ 밥이 너무 되다.
+67. Which side should I take the bus on? _ 어느 쪽에서 버스를 타야 합니까?
+68. Just take the bus on this side of the street. _ 이쪽 편에서 버스를 타세요.
+비슷한 표현 => You can take the bus here.
+Just wait here for the bus.
+69. Please get on the bus on the other side of the street.
+_ 길 건너편에서 버스를 타세요.
+비슷한 표현 => Cross the road to take the bus.
+70. You should know your place.
+_ 자신의 처지를 모르고 경솔하게 행동하는 사람에게 “분수를 아세요.”
+비슷한 표현 => You should know where you stand.
+You should stay in line.
+71. Don't make excuses. _ 변명하지 마세요.
+72. He's running for President. _ 그는 대선 출마중이다.
+73. He ran for the mayor of Seoul. _ 그는 서울시장 선거에 출마했다.
+74. Are you going to vote for him? _ 그 후보에게 투표할 거야?
+75. That's a private matter. _ 그건 비밀이지.
+76. I'd like to deposit some money into my account.
+_ 제 계좌에 돈을 좀 입금하고 싶습니다.
+비슷한 표현 => I need to put some money into my account.
+77. I'd like to send some money to his account.
+_ 그의 계좌로 돈을 좀 송금하고 싶습니다.
+78. I'd like to withdraw some money. _ 돈을 좀 인출하고 싶습니다.
+비슷한 표현 => I need to take some money out of my account.
+79. I have to withdraw some money from the ATM.
+_ 현금자동인출기에서 돈을 좀 인출해야 한다.
+☞ ATM : 현금자동인출기_ Automated Teller Machine
+80. Cash or check? _ 현금입니까, 수표입니까?
+81. I can't get my ideas across to him.
+_ 상대방이 이 쪽의 의견을 들으려 하지 않을 때 “그에게 의사를 전달할 수가 없다.”
+비슷한 표현 => I can't get him to understand.
+I can't get my ideas understood.
+82. I can't make myself understood.
+_ 자신의 의사표현 능력이 부족해 남에게 의사전달을 할 수 없을 때.
+비슷한 표현 => I can't express myself.
+83. Have you talked to the boss about your proposals?
+_ 당신의 제안을 상사에게 말씀드렸습니까?
+84. What seems to be the problem? _ 무슨 문제라도 있습니까?
+85. That's terrible. _ 거 참 안됐군요.
+86. He headed the ball into the goal. _ 그는 헤딩슛을 성공시켰다.
+87. We just scored. _ 우리가 막 득점했어.
+88. I'm a light drinker. _ 저는 술이 약합니다.
+89. I don't want to drink anymore. _ 더 이상 마시고 싶지 않습니다.
+90. I drink socially. _ 나는 사교상 술을 마신다.
+91. I'm a moderate drinker. _ 나는 술을 적당히 마신다.
+92. I'm a heavy drinker. _ 나는 술을 많이 마신다.
+93. I have a terrible stomachache. _ 배가 아파 죽겠어요.
+비슷한 표현 => My stomach is terribly upset.
+My stomach hurts badly.
+94. Did you take any medicine? _ 약은 먹었어?
+95. I hope you'll get well soon. _ 곧 낫길 바란다.
+96. I was born and raised here. _ 저는 이곳 토박이입니다.
+비슷한 표현 => I've lived my entire life here.
+I was born and grew up here.
+97. I was born in Pusan, but was raised in Seoul.
+_ 저는 부산에서 태어났지만 서울에서 자랐습니다.
+98. I'm from Mokpo, but I moved to Seoul when I was in the 3rd grade.
+_ 목포가 고향이지만, 초등학교 3학년때 서울로 이사왔습니다.
+99. Where are you from? _ 어디 출신이세요?
+비슷한 표현 => Where do you come from?
+100. I thought so. _ 그렇게 생각했습니다.
+101. Can I set you up on a blind date? _ 미팅 주선해 줄까?
+비슷한 표현 => Can I fix you up with a blind date?
+102. I had a blind date. _ 나는 미팅했다.
+103. What's she like? _ 어떤 여잔데?
+104. She is a career woman who is cultured, pretty and cheerful.
+_ 그녀는 교양 있고, 예쁘고 명랑한 직장 여성이다.
+105. He's cut out for the job. _ 그는 그 일에 적격이다.
+비슷한 표현 => He's a good candidate for the job.
+He's well suited for the job.
+He's the right one for the job.
+He's suitable for the job.
+106. He's cut out for the job and no one can replace him.
+_ 그는 그 일에 적격이라 아무도 그를 대신할 수 없다.
+107. Who do you think is suitable for the new project?
+_ 누가 새 업무에 적합하다고 생각하세요?
+108. I'd like to recommend Jack. _ 잭을 추천합니다.
+109. Why do you think so? _ 왜 그렇게 생각하세요?
+110. He has every quality for the job.
+_ 그는 업무에 필요한 모든 자질을 다 갖추고 있습니다.
+111. Let's give him the job. _ 그에게 업무를 맡깁시다.
+112. I think it's a wonderful decision. _ 훌륭한 결정입니다.
+113. When is it good through?
+_ 카드나 상품권 ? 공연 티켓 등의 유효기간을 물어볼 때 “언제까지 유효합니까?”
+비슷한 표현 => When is it effective through?
+114. The ticket is good for 10 days from June 1.
+_ 그 표는 6월 1일부터 10일간 유효합니다.
+115. What did you receive as a present? _ 선물로 뭘 받았지?
+116. It's good until December 31. _ 그것은 12월 31일까지 유효합니다.
+117. I'm behind in my credit card payments. _ 저는 카드 연체입니다.
+118. I want to buy a notebook computer but I'm short of cash.
+_ 노트북 컴퓨터를 사고 싶지만 현금이 부족해.
+119. How did that happen? _ 어쩌다?
+120. Please be more careful in the future! _ 다음엔 좀 더 신중해라!
+121. I tripped over a stone.
+_ 길을 가다 부주의로 돌부리에 걸려 넘어지는 경우 “돌에 걸려 넘어졌다.”
+비슷한 표현 => I was tripped up by a stone.
+I stumbled on a stone.
+122. Your pants are soiled. _ 네 바지에 흙이 묻었는데.
+123. That's too bad. _ 그거 참 안됐구나.
+124. I'm a little tipsy. _ 술이 기분 좋을 정도로 취했을 경우 “적당히 취했다.”
+비슷한 표현 => I'm a bit drunk.
+I'm slightly drunk.
+125. I'm very drunk. _ 많이 취했다.
+126. Your face looks red. _ 얼굴이 불그스레한데.
+127. I had my fortune told. _ 점을 쳤습니다.
+128. I'm happy with the result. _ 나는 그 결과에 만족한다.
+129. I had my palm read. _ 나는 손금을 보았다.
+130. What did you do last weekend? _ 지난 주말에 뭘 하셨어요?
+131. It doesn't make sense. _ 말이나 글의 앞뒤가 맞지 않을 때 “말이 안된다.”
+비슷한 표현 => It isn't reasonable.
+It isn't logical.
+It doesn't seem right.
+132. Let's go by the book. _ 법대로 합시다.
+비슷한 표현 => Let's stick to the law.
+Let's follow the principle.
+Let's abide by the principle.
+133. Do you know how to make kalbi? _ 갈비 요리 할 줄 아세요?
+134. There's a light at the end of the tunnel. _ 고생 끝에 빛이 보입니다.
+비슷한 표현 => There's hope yet.
+It's still hopeful.
+Be optimistic.
+135. My application for the job was rejected. _ 구직 신청서가 거부됐습니다.
+136. I just hope I get the job. _ 취직이 되기만 하면 좋겠습니다.
+137. Dry your tears. _ 눈물을 닦으세요.
+비슷한 표현 => Dry your eyes.
+Wipe away your tears.
+138. Everything will be OK. _ 모든게 잘 될거야.
+139. Why are you crying, little boy? _ 얘야, 왜 우니?
+140. I lost my mom. _ 엄마를 잃었어요.
+141. I had mixed feelings about it.
+_ 어떤 일에 대해 좋은 기분과 나쁜 기분이 뒤섞여 묘한 감정을 느낄 때 “기분이 교차
+했습니다.”
+비슷한 표현 => I didn't know what to feel.
+142. I was overcome with emotion. _ 감동적인 상황에 직면할 때 “감정에 겨웠습니다.”
+143. I heard you won first prize! _ 1등상을 받았다고 들었습니다.
+144. Korea has virtually advanced to the finals. _ 한국은 사실상 본선에 진출했습니다.
+145. It's a sign of the times. _ 세태를 풍자하면서 “요즘 세상은 그래.” 라고 할 때.
+비슷한 표현 => It's a product of modern times.
+The times have changed rapidly.
+146. How long is it on for?
+_ 세일?공연?영화상영 등과 같이 일정 기간 이뤄지는 일에 대해 그 기간을 물어볼 때
+“얼마 동안 계속됩니까?”
+비슷한 표현 => How long will it go on?
+147. When will it end? _ 그것이 언제 끝납니까?
+148. That sounds like a good idea. _ 좋은 생각이군요.
+149. Why don't you get a second opinion?
+_ 한 사람 의견만으로 결정을 내리지 못하는 사람에게 “다른 사람의 의견을 들어보세
+요.”
+150. I just came back from the doctor's office. _ 막 의사 선생님을 뵙고 왔습니다.
+151. Can you recommend a good doctor? _ 용한 의사를 소개해 주시겠습니까?
+152. He always crams for his exams. _ 그는 항상 시험공부를 벼락치기로 한다.
+비슷한 표현 => He always studies at the last minute.
+153. You're soaked. _ 비에 흠뻑 젖은 사람에게 “흠뻑 젖었군요.”
+154. I forgot to take my umbrella today. _ 오늘 깜빡 잊고 우산을 가져가지 않았어요.
+155. Would you like some soup? _ 수프 좀 먹을래?
+156. Let me get this straight. _ 이건 확실히 짚고 넘어가겠습니다.
+157. I want you to finish this report by three. _ 이 보고서를 3시까지 끝내주게.
+158. He's got a one-track mind. _ 그는 융통성이 없다.
+비슷한 표현 => He doesn't think about anything else.
+159. What do you think of Ted? _ 테드를 어떻게 생각하십니까?
+160. He only thinks about himself and never considers others.
+_ 그는 자신만 생각하고 남 생각은 전혀 하지 않아요.
+161. Don't be a jaywalker.
+_ 신호를 무시하고 횡단보도를 건너거나 횡단보도가 아닌 곳에서 길을 건너는 사람에게
+“무단횡단하지 마세요.”
+비슷한 표현 => Don't cross against the light.
+Cross the road at the pedestrian crossing.
+162. Let's cross the road. _ 길을 건너가자.
+163. There are no cars around here. _ 주위에 차 한 대도 없어.
+164. We're completely in the dark. _ 우리는 까마득히 모르고 있습니다.
+비슷한 표현 => We don't know at all.
+165. Have you heard who's going to be the next manager?
+_ 다음 책임자가 누가 될 건지 들었어?
+166. She has a lot of style. _ 그녀는 아주 품위가 있다.
+비슷한 표현 => She is fashionable.
+She is stylish.
+167. What do you mean? _ 무슨 뜻이야?
+168. She's always on top of the latest trends. _ 그녀는 항상 최신 유행을 좇아가거든.
+169. Everything's back to normal.
+_ 상황이 발생했다가 종료됐을 때 “모든게 정상화됐습니다.”
+비슷한 표현 => Everything's OK.
+The situation is under control.
+170. You've changed beyond all recognition.
+_ 얼굴이 많이 변한 친구를 오랜만에 만났을 때 “몰라보게 변했구나.”
+비슷한 표현 => You've changed completely.
+171. Did you get plastic surgery? _ 성형수술 했니?
+172. You haven't changed a bit. _ 하나도 안 변했구나.
+173. You've aged gracefully. _ 곱게 늙었구나.
+174. I'll give you carte blanche.
+_ 아랫사람에게 어떤 권한이나 업무를 일임할 때 “너에게 모든 권한을 일임하겠다.”
+비슷한 표현 => I'll give you full power.
+I'll give you a free hand.
+175. I'm not standing in your way.
+_ 상대방이 자신의 의도를 관철하려고 할 때 “당신 뜻을 말리지 않겠다.”
+비슷한 표현 => Who's stopping you?
+I don't care.
+176. I'd like to become a lawyer. _ 저는 법관이 되고 싶어요.
+177. It was a total non-event.
+_ “소문난 잔치에 먹을 것 없다.” 라는 말이 있듯 행사 등이 소문만 요란하고 실속없이
+썰렁한 경우 “소문만 요란하더군.”
+비슷한 표현 => It was a failure.
+It failed to meet expectations.
+178. Was it exciting? _ 재미있었니?
+179. I feel like a snack. _ 간식이 먹고 싶어.
+비슷한 표현 => I like eating between meals.
+I feel like eating something light.
+180. What's the matter? _ 무슨 일 있니?
+181. It's quite obvious. _ 어떤 결과가 확실할 경우 “불을 보듯 뻔해.”
+비슷한 표현 => It's very clear.
+182. We must've just missed each other. _ 서로 길이 엇갈린 모양이군요.
+비슷한 표현 => It was unfortunate we couldn't meet.
+183. Do you do deliveries? _ 부피가 큰 물건을 살 경우 “배달해 줍니까?”
+비슷한 표현 => Do you deliver?
+Can you deliver it?
+Can you take it my home?
+184. How much is this computer? _ 이 컴퓨터 얼마입니까?
+185. Your wish is my command. _ 말씀하시는 대로 다 해드리겠습니다.
+비슷한 표현 => I'll do anything for you.
+I'll do whatever you want.
+186. We came from behind to win. _ 우리는 역전승 했습니다.
+187. We snatched victory from the jaws of defeat. _ 우리는 패배 직전에서 승리했다.
+188. Did you watch the soccer match? _ 너 축구경기 봤니?
+189. I'm leaving for the day. _ 퇴근하겠습니다.
+비슷한 표현 => I'm taking off now.
+I'm quitting for today.
+I'm going home now.
+190. It's typical of you to do that. _ 그렇게 하다니 너답다.
+비슷한 표현 => How typical you are!
+That's just like you.
+191. Who broke the window? _ 누가 유리창을 깼니?
+192. It's so special to me. _ 그건 제게 각별합니다.
+비슷한 표현 => It's so significant to me.
+It's so meaningful to me.
+193. The clothes are still damp. _ 아직 옷이 눅눅합니다.
+비슷한 표현 => The clothes are wet.
+The clothes aren't dry yet.
+194. Act your age. _ 철 좀 들어라.
+비슷한 표현 => Stop being so immature!
+You should know better than to do that.
+195. It's on the house.
+_ 술집이나 식당같은 곳에서 손님에게 안주 등을 무료로 내놓는 경우 “무료입니다.”
+비슷한 표현 => There's no cost.
+It's free of charge.
+196. It's a real eyesore. _ 정말 꼴불견이야.
+비슷한 표현 => My eyes are pained by it.
+It's certainly not very attractive to look at.
+197. I threw up. _ 속이 좋지 못해 음식물을 토해 내는 경우 “토했습니다.”
+198. I drank too much last night and threw up. _ 어젯밤 너무 많이 마셔 토해버렸다.
+199. My stomach was upset and I threw up. _ 배탈이 나서 토했다.
+200. We roughed it. _ 우리는 불편한 생활을 했습니다.
+201. Where did you go for your vacation? _ 휴가때 어디 갔습니까?
+202. How long were you there? _ 거기에 얼마나 있었는데요?
+203. He went three for four. _ 그는 4타수 3안타를 쳤다.
+204. Who won the baseball game last night? _ 지난밤 야구경기에서 누가 이겼지?
+205. There goes my vacation. _ 휴가는 물 건너갔군.
+비슷한 표현 => My vacation plans have gone up in smoke.
+My vacation plans are blown.
+206. You have to finish this pile of work by next week.
+_ 다음주까지 이 일더미를 처리해야해.
+207. He's such a daredevil. _ 그는 위험한 모험을 즐긴다.
+208. Is there a landmark nearby? _ 근처에 눈에 잘 띄는 거라도 있니?
+비슷한 표현 => Is there a prominent building nearby?
+209. Do you have the directions to my place? _ 내 집으로 오는 길을 알고 있니?
+210. It's three meters tall. _ 높이가 3m야.
+211. Don't jump to conclusions. _ 섣불리 판단하지 마세요.
+비슷한 표현 => It's too early to be certain.
+Don't get ahead of yourself.
+Don't be rash.
+212. I can't believe it! _ 믿을 수가 없어.
+213. He's away on business. _ 그는 출장중입니다.
+비슷한 표현 => He's on a business trip.
+He's left for a business trip.
+214. He's gone out on business. _ 그는 업무로 외출중이다.
+215. He's out at the moment. _ 그는 자리를 잠시 비웠다.
+비슷한 표현 => He's not at his desk.
+216. He should be back at the beginning of next week.
+_ 그는 다음주 초에 돌아올 겁니다.
+217. Don't overdo the salt. _ 소금 좀 적당히 넣으세요.
+218. Could you pass the salt? _ 소금 좀 건네줄래?
+219. Time's up. _ 시간이 다 됐습니다.
+비슷한 표현 => That's all the time you have.
+There's no more time left!
+220. You have plenty of time. _ 시간이 많이 남아 있다.
+221. Just be yourself. _ 침착하세요.
+비슷한 표현 => Try to be natural.
+Don't worry too much.
+222. I'm so nervous about my job interview. _ 취직 면접 때문에 아주 초조해.
+223. You're putting words in my mouth. _ 하지도 않은 말을 했다고 하는군요.
+224. I'm thinking of buying a new car. _ 새 차를 살까 생각 중이야.
+225. I'm going to keep my old car. _ 헌 차는 갖고 있을 거야.
+226. How far will he go? _ 그의 기록은 어디까지 갈 것인가?
+227. Who's your favorite pitcher? _ 가장 좋아하는 투수는 누구입니까?
+228. It's just one of those things. _ 어쩔 수 없는 일이잖아.
+비슷한 표현 => Don't worry about things you have no control over.
+Life is not always fair.
+229. Tom's grandmother passed away. _ 톰의 할머니가 돌아가셨어.
+230. Can I place a mail order?
+_ 상품의 통신판매가 가능한지 물어 볼 때 “우편 주문할 수 있습니까?”
+비슷한 표현 => Can I order by mail?
+231. Just tell me the item code which is found in the catalog.
+_ 카탈로그에 있는 상품번호를 말씀해주세요.
+232. Let's thumb a ride. _ 무임승차하자.
+233. I don't have any money. Let's thumb a ride. _ 돈이 한 푼도 없어. 무임승차하자.
+234. You made my day. _ 당신 덕택에 살맛 나는군.
+비슷한 표현 => You cheered me up.
+You made me happy.
+235. Thank you for the flowers. You made my day.
+_ 꽃 감사합니다. 저를 기분 좋게 하시는군요.
+236. He's direct in talking. _ 그는 직선적으로 말한다.
+237. He's indirect in talking. _ 그는 말하는데 조심스럽다.
+비슷한 표현 => He's careful in talking.
+238. Are you all set for the meeting? _ 모임에 갈 준비 다 됐습니까?
+239. These books are overdue. _ 이 책들은 반환기한이 지났다.
+비슷한 표현 => These books should have been returned.
+240. This bill is overdue. _ 이 고지서는 납부기한이 지났다.
+241. Where did you get those books? _ 저 책들을 어디서 구했지?
+242. I borrowed those books from the public library.
+_ 나는 저 책들을 공공도서관에서 빌렸다.
+243. He's living under the thumb of his wife. _ 그는 아내에게 쥐여산다.
+244. He's a friend of a friend. _ 그는 내 친구의 친구야.
+비슷한 표현 => He's my friend's friend.
+He's an indirect acquaintance of mine.
+245. Who's that guy standing over there in the corner?
+_ 저쪽 구석에 서 있는 저 남자 누구야?
+246. I've never seen him before. _ 한 번도 본 적 없는데.
+247. I won the lottery. _ 복권에 당첨됐습니다.
+248. I bought a lottery ticket. _ 나는 복권을 샀다.
+249. What are you going to do with the money? _ 그 돈으로 뭘 할거야?
+250. I breathed a sigh of relief. _ 안도의 한숨을 쉬었습니다.
+251. How many exposures are left?
+_ 사진 찍다가 필름이 몇 장 남았는지 확인하고자 할 때 “필름이 몇 장 남았습니까?”
+252. How many exposures does the roll of film have? _ 필름이 몇장짜리입니까?
+253. How many rolls of film did we take? _ 필름 몇 통 찍었습니까?
+254. Can you take a picture of me here? _ 여기서 사진 좀 찍어줄래?
+255. This is not a good place for taking pictures and I'm running out of film.
+_ 여긴 사진 찍기 좋은 곳이 못돼. 필름도 다 떨어져가고.
+256. I do shift work. _ 교대 근무를 합니다.
+257. What shift do you work? _ 근무 교대 조를 묻기 위해 “무슨조 근무입니까?”
+258. I work the night shift. _ 야간조 근무입니다.
+259. I work the day shift. _ 주간조 근무입니다.
+260. How would you like your eggs?
+_ 식당 등에서 계란 요리를 주문하면 식당 측에서 “계란을 어떻게 해드릴까요?”
+261. I'd like my eggs sunny-side up. _ 계란을 반숙으로 해주세요.
+262. I'd like my eggs over easy. _ 계란 양쪽을 다 익혀 주세요.
+263. I'd like my eggs boiled. _ 계란을 삶아 주세요.
+264. I'd like my eggs scrambled. _ 계란을 휘저어 익혀 주세요.
+265. I'd like my eggs poached. _ 계란을 물에 살짝 익혀 주세요.
+266. What would you like for breakfast? _ 아침 식사로 뭘 드시겠어요?
+267. Would you care for a cup of coffee? _ 커피 한 잔 드릴까요?
+268. Don't change the subject. _ 말꼬리 돌리지 마세요.
+비슷한 표현 => Don't avoid the subject.
+269. Did you see the game live? _ 그 경기를 경기장에서 관람하셨나요?
+270. It doesn't work that way.
+_ 규칙 등이 정해져 있는데 편법으로 어떻게 해보려고 하는 사람에게 “그런 식으로는
+안됩니다.”
+비슷한 표현 => That's not how it works.
+271. I'd like to open up an account. _ 계좌를 개설하고 싶습니다.
+272. You can take my word for it. _ 정말입니다.
+비슷한 표현 => Believe me. I'm speaking the truth.
+273. Are you all set to go to school? _ 학교갈 준비 다 됐니?
+비슷한 표현 => Are you all set for school?
+Are you ready to go to school?
+Are you ready for school?
+274. Hear me out. _ 내 말 끝까지 들어봐요.
+비슷한 표현 => Let me finish.
+275. My eyes were glued to the TV. _ TV에서 눈을 뗄 수 없었어요.
+276. I had four stitches.
+_ 외상이 심해 상처 부위를 실로 꿰매는 경우 “네 바늘을 꿰맸습니다.”
+비슷한 표현 => I received four stitches.
+277. My doctor removed stitches.
+_ 꿰맨 부위가 아물면 실을 뽑게 되는데 “의사가 실을 풀었다.”
+비슷한 표현 => My doctor took out stitches.
+278. Over my dead body! _ 절대로 안돼!
+비슷한 표현 => Never!
+No way!
+Not on your life!
+279. I'm short of coins. _ 동전이 부족합니다.
+비슷한 표현 => I don't have enough change.
+280. I'd like to get a cup of coffee from this vending machine, but I'm short of coins.
+_ 이 자동판매기에서 커피 한잔 뽑아 먹으려고 합니다만 동전이 부족합니다.
+☞ vending machine : 자동판매기
+281. I'm returning someone's page.
+_ 삐삐를 받았을 때 삐삐를 친 곳에 전화를 걸어 “삐삐가 와서 전화 드립니다.”
+282. I almost forgot your face.
+_ 오랜만에 만난 친구에게 간단한 인사와 더불어 “네 얼굴 잊어버리겠다.”
+비슷한 표현 => I almost forgot what you looked like.
+283. Long time no see! _ 오랜만이다!
+284. He was disqualified. _ 그는 실격했다.
+비슷한 표현 => He defaulted.
+285. She likes to stand out. _ 그녀는 튀는 걸 좋아한다.
+비슷한 표현 => She likes to appear different.
+286. I was humiliated. _ 창피했습니다.
+비슷한 표현 => I was embarrassed.
+I was humbled.
+287. I was bitten by mosquito. _ 모기에 물렸습니다.
+비슷한 표현 => I have a mosquito bite.
+288. She's wearing braces. _ 그녀는 치열교정기를 하고 있다.
+비슷한 표현 => She has braces on her teeth.
+289. She had her braces removed. _ 그녀는 치열교정기를 풀었다.
+290. He's a real couch potato. _ 그는 종일 TV만 보는 게으름뱅이다.
+291. Where do you ache? _ 어디가 아프십니까?
+비슷한 표현 => Where do you hurt?
+292. This is a bus-only lane. _ 여긴 버스전용차로입니다.
+비슷한 표현 => This lane is for buses only.
+This lane is reserved for buses only.
+Only buses are allowed to use this lane.
+293. It smells foul. _ 냄새 고약하군.
+294. Who's your second favorite? _ 두 번째로 좋아하는 사람은 누구입니까?
+비슷한 표현 => Who's your next favorite?
+295. His mind's on something else. _ 그는 마음이 콩밭에 가 있다.
+비슷한 표현 => His thoughts are preoccupied.
+296. He's a handful.
+_ 어린아이가 장난이 심하고 다루기 힘들 경우 “그는 골치 아픈 아이다.”
+비슷한 표현 => He's hard to control.
+He's hard to manage.
+He has no manners.
+He's very wild.
+297. The baby's very gentle. _ 그 아기는 순둥이다.
+298. Back it in.
+_ 주차장 등에서 주차시킬 때 차가 나중에 빠져나가기 쉽게 하기 위해 “거꾸로 주차하
+세요.”
+비슷한 표현 => Reverse park your car.
+299. Parallel park your car. _ 다른 차와 나란히 주차하세요.
+300. Where should I park my car? _ 제 차를 어디에 주차해야 하나요?
+301. He's short-tempered. _ 그는 성미가 급하다.
+비슷한 표현 => He's quick to anger.
+302. He's slow to anger. _ 그는 성미가 느긋하다.
+비슷한 표현 => He's quite patient.
+303. You look upset. _ 너 기분 상한 것 같다.
+304. What did you fight about? _ 무엇 때문에 싸웠어?
+305. He's sitting on the fence.
+_ 두 가지 대안을 놓고 망설이는 사람을 묘사할 때 “그는 양다리 걸치고 있다.”
+306. He's cheating on his wife. _ 그는 바람피우고 있다.
+비슷한 표현 => He's committing adultery.
+He's having an affair.
+He's two timing on his wife.
+307. He cheated on the test. _ 그는 시험에서 부정행위했다.
+308. He's devoted to his wife. _ 그는 아내에게 헌신적이다.
+비슷한 표현 => He's a faithful husband.
+He's true to his wife.
+309. He was stood up. _ 약속 시간에 상대방이 나타나지 않을 때 “그는 바람맞았다.”
+310. You're slow-witted.
+_ 뭔가를 빨리 이해하지 못하는 사람에게 “머리 회전이 늦구나.”
+비슷한 표현 => You're dumb.
+You're slow.
+You're a slow thinker.
+311. You're quick-witted. _ 너는 머리 회전이 빠르다.
+312. I feel assured when you are around me. _ 당신이 있으니 마음이 든든하다.
+비슷한 표현 => I feel safe with you.
+You make me feel at ease.
+313. I think I must go now. _ 이제 가봐야겠어.
+314. He's chicken. _ 그는 겁쟁이다.
+비슷한 표현 => He's a yellow.
+He's a coward.
+He has no backbone.
+315. It was a real shock. _ 그것은 실로 충격적이었습니다.
+비슷한 표현 => It was surprising.
+316. Who won the chess game between the human and the computer?
+_ 인간과 컴퓨터의 체스 게임에서 누가 이겼나요?
+317. Can you give me a demonstration?
+_ 물품 등을 구입할 때 소비자가 성능이나 사용법을 알 수 있도록 파는 측에 대해 “사
+용법 좀 보여주시겠습니까?”
+비슷한 표현 => Can you demonstrate it for me?
+Show me what it can do.
+318. This elevator is for odd-numbered floors.
+_ 큰 건물의 엘리베이터는 한 개 이상인 경우가 대부분이며 짝수층 전용과 홀수층 전용
+으로 나뉘어 있는 경우가 많다. “이 엘리베이터는 홀수층 전용입니다.”
+비슷한 표현 => This elevator serves odd-numbered floors.
+This elevator makes stops on every other floor.
+319. Please take that elevator for the 10th floor.
+_ 10층에 가시려면 저 엘리베이터를 타세요.
+320. This elevator is for even-numbered floors. _ 이 엘리베이터는 짝수층 전용입니다.
+321. Do you feel burdened? _ 부담스럽니?
+322. He has a tattoo on his arm. _ 그는 팔에 문신을 하고 있다.
+323. He had a tattoo removed. _ 그는 문신을 제거했다.
+324. The soup is boiling over! _ 국이 끓어 넘쳐요!
+325. Are you sticking to your New Year's resolution? _ 새해 결심대로 생활하십니까?
+비슷한 표현 => Are you abiding by your word?
+Are you keeping your oath?
+326. We suffered a crushing defeat. _ 우리는 게임에 참패했다.
+비슷한 표현 => We were crushed.
+We were soundly defeated.
+327. He played hooky. _ 그는 수업을 빼먹었습니다.
+비슷한 표현 => He skipped classes.
+He cut classes.
+328. I'm in high spirits. _ 신바람 납니다.
+329. I'm in low spirits. _ 기분이 푹 가라앉았다.
+330. I'm going to get rid of a mole. _ 점을 빼려고 합니다.
+비슷한 표현 => I'm going to extract a mole.
+331. Who are you trying to please? _ 누구에게 잘 보이려고 해?
+332. Someone is tailing me. _ 누군가 나를 미행하고 있다.
+비슷한 표현 => Someone is following me.
+Someone's on my trail.
+333. What are friends for? _ 친구 좋다는 게 뭐냐?
+334. A friend in need is a friend indeed. _ 위급할 때 친구가 진정한 친구다.
+335. Don't rub it in.
+_ 잊고 싶은 것을 상대방이 계속 말해 상기시키는 경우 “같은 말 여러 번 하지 마라.”
+비슷한 표현 => Don't remind me.
+Don't make me feel bad.
+336. The rain is picking up. _ 빗발이 굵어지고 있다.
+337. You can do what you like. _ 너희들 좋을 대로 해.
+338. There's something in my food.
+_ 식당에서 주문한 음식 속에 이물질이 있는 것을 발견했을 때 “음식에 뭔가 들어 있습
+니다.”
+339. Something is floating in my soup. _ 국에 뭔가 떠 있다.
+340. Why aren't you eating? _ 왜 안 드십니까?
+341. My dog got loose.
+_ 갇혀 있던 사람이나 동물이 ‘달아나다’ 라고 할 때 ‘get loose' 로 표현한다. “제 개가
+달아났어요.”
+비슷한 표현 => My dog escaped.
+My dog got free.
+342. The inmate broke loose.
+_ ‘break loose' 하면 ‘부수고 도망치다’ 라는 뜻인데 “그 수감자는 탈옥했다.”
+343. What are you looking for? _ 무엇을 찾고 계십니까?
+344. Mind your manners! _ 예절 좀 지켜!
+345. Mind your manners and stop pushing me. _ 예절 좀 지켜 밀지 말아요.
+346. He's always prepared. _ 그는 항상 준비성이 있다.
+347. He's always prepared for the worst. _ 그는 항상 최악의 경우에 대비하고 있다.
+348. Why is he carrying an umbrella? _ 그는 왜 우산을 가지고 있죠?
+349. He was a no show!
+_ 모임 등에 참석하기로 한 사람이 나타나지 않았을 때 “그는 오지 않았다.”
+비슷한 표현 => He didn't show up.
+He didn't appear.
+☞ no show : 오기로 예정돼 있으나 오지 않은 사람
+350. We have ten no shows for the 10:30 flight to New York.
+_ 10:30 뉴욕행 비행기에 10명의 예약 손님이 나타나지 않았다.
+351. Some hotels overbook customers, considering the possibility of no shows.
+_ 일부 호텔에서는 예약해 놓고 나타나지 않는 고객을 예상해 정원 이상으로 예약을 받
+는다.
+352. Did everyone attend the meeting? _ 회의에 모두 다 참석했나요?
+353. Your guess is as good as mine.
+_ 상대방이 묻는 말에 이쪽에서도 모르는 경우 “모르기는 나도 마찬가지다.”
+비슷한 표현 => I don't know either.
+354. The stock market crashed! _ 주가가 폭락했습니다!
+355. The stock market crashed, so I regret buying stocks.
+_ 주가가 폭락해 난 주식을 산 것이 후회된다.
+356. Are you in your right frame of mind? _ 당신 제정신이세요?
+비슷한 표현 => Are you crazy?
+Are you mad?
+357. How could you buy such an expensive necklace?
+_ 어떻게 그렇게 값비싼 목걸이를 살 수 있어요?
+358. What breed is your dog? _ 개가 무슨 종입니까?
+359. I'm dying to know. _ 궁금해 죽겠다.
+비슷한 표현 => Don't keep me in suspense.
+I'm really curious.
+360. Tell me what your boyfriend is like. _ 남자 친구가 어떤 사람인지 말해줘.
+361. The game had non-stop action. _ 경기는 시종 박진감 넘쳤습니다.
+비슷한 표현 => The game was terribly exciting.
+362. The game was boring. _ 게임은 지루했다.
+363. You're off key.
+_ 노래부를 때 음높이와 노래가 맞지 않을 경우 “음높이가 맞지 않군요.”
+364. I'm tone-deaf. _ 나는 음치다.
+비슷한 표현 => I can't carry a tune.
+365. Good night. _ 잘 자요.
+366. See you later. _ 다음에 만납시다.
+367. Thank you very much. _ 매우 고맙습니다.
+368. I see. _ 알겠습니다.
+369. That's all right. _ 괜찮습니다.
+370. How far? _ 얼마나 멉니까?
+371. How many? _ 얼마나 많습니까?
+372. How long? _ 얼마나 깁니까? / 얼마나 오래 걸립니까?
+373. Excuse me a moment. _ 잠시 실례하겠습니다.
+374. You're welcome. _ 천만에요.
+375. Here you are. _ 여기 있습니다.
+376. This way. _ 이쪽입니다.
+377. Whom should I ask? _ 누구에게 물어봐야 합니까?
+378. I don't understand. _ 잘 이해가 안 갑니다.
+379. I'm sorry, I didn't catch you. _ 미안합니다. 이해하지 못했습니다.
+380. After you. _ 먼저 하십시오. / 먼저 가십시오.
+381. There's a lot of traffic. _ 교통량이 많습니다.
+382. I would like to do that, thank you. _ 그것으로 하겠습니다. 고맙습니다.
+383. I would like to meet you in the lobby. _ 로비에서 만나고 싶습니다.
+384. I'm glad to see you again. _ 다시 만나서 기쁩니다.
+385. Do you speak Chinese? _ 중국어를 합니까?
+386. I'm lost. _ 길을 잃었습니다.
+387. How are you? _ 요즘 어떠십니까?
+388. It is nice to meet you. _ 만나서 반갑습니다.
+389. I'm married. _ 결혼했습니다.
+390. I'm single. _ 혼자 삽니다.
+391. How are you getting along? _ 어떻게 지냈습니까?
+392. What's new? _ 새로운 것이 있습니까?
+393. We haven't met each other for a long time. _ 오랫동안 서로 만나지 못했지요.
+394. I'm pleased to do so. _ 잘 되었습니다.
+395. May I have your name? _ 이름 좀 알려 주실 수 있습니까?
+396. This is my business card. _ 제 명함입니다.
+397. May I introduce you to my wife? _ 당신을 제 아내에게 소개하겠습니다.
+398. Please give my kind regards to your mother.
+_ 당신의 어머님께 안부 좀 전해주십시오.
+399. Say hello to David for me. _ David 에게 대신 안부 좀 전해주십시오.
+400. Take care of yourself. _ 몸조심하십시오.
+401. Let's keep in touch. _ 계속 연락합시다.
+402. I'm looking forward to seeing you again. _ 다시 만나기를 학수고대하겠습니다.
+403. Make yourself at home. _ 편히 계십시오.
+404. Would you like to come with me? _ 저와 함께 가시겠습니까?
+405. Let's go swimming. _ 수영하러 갑시다.
+406. Won't you go shopping with me? _ 저와 함께 쇼핑하러 가지 않겠습니까?
+407. Would you care for something to eat? _ 무언가 드시겠습니까?
+408. I'd like another cup of coffee. _ 커피 한 잔 더 마시고 싶습니다.
+409. Will you be free tomorrow? _ 내일 한가하십니까?
+410. I'll treat you to a drink. _ 제가 한 잔 사겠습니다.
+411. How about a drink? _ 한 잔하시겠습니까?
+412. Cheers! _ 건배!
+413. Let's take a coffee break. _ 잠시 쉬면서 커피 한 잔합시다.
+414. No smoking. _ 흡연하지 마십시오.
+415. Let's go fifty-fifty on the bill. _ 더치페이 합시다. / 반반씩 지불합시다.
+416. He'll pay the bill. _ 그가 계산할 것입니다.
+417. Have you ever been to Taiwan? _ 대만에 가 봤습니까?
+418. That's very kind of you. _ 매우 친절하시군요.
+419. You're very generous. _ 당신은 매우 친절하시군요.
+420. Your new hairdo is not bad. _ 당신의 새로운 머리모양은 나쁘지 않군요.
+421. You have wonderful taste in clothes.
+_ 당신은 옷에 대한 뛰어난 취향을 갖고 있군요.
+422. What a charming girl you are! _ 당신은 얼마나 매력적인 소녀인가!
+423. Thank you for your compliment. _ 당신의 칭찬에 감사드립니다.
+424. That sounds good. _ 좋습니다.
+425. Thank you for a nice day. _ 좋은 하루를 보내게 해주셔서 감사합니다.
+426. Thank you for picking me up. _ 데리러 와 주셔서 감사합니다.
+427. I'm really grateful to you. _ 정말로 감사합니다.
+428. Thank you for your trouble. _ 당신의 수고에 감사드립니다.
+429. Much obliged. _ 정말로 감사합니다. / 큰 신세를 졌습니다.
+430. I'm very much obliged to you.
+_ 당신에게 큰 신세를 졌습니다. / 정말로 감사합니다.
+431. Am I disturbing you? _ 제가 방해하고 있나요?
+432. Never mind. _ 신경 쓰지 마십시오.
+433. Oh, it's nothing. _ 오, 그것은 별거 아닙니다.
+434. Forget it. _ 잊어 주십시오.
+435. That's my fault. _ 제 잘못입니다.
+436. It was careless of me. _ 제 실수였습니다.
+437. I didn't mean that. _ 제 의도는 그것이 아니었습니다.
+438. Next time I'll get it right. _ 다음에 시정하겠습니다.
+439. Forgive me for being late. _ 늦은 것을 용서해 주십시오.
+440. I'm sorry to have kept you waiting. _ 기다리게 해서 죄송합니다.
+441. I beg your pardon. _ 한번더 말씀해 주십시오.
+442. Please speak more slowly. _ 좀 더 천천히 말씀해 주십시오.
+443. Just a moment, please. _ 잠시만 기다려 주십시오.
+444. What's this? _ 이것은 무엇입니까?
+445. Please write it here. _ 여기에 써 주십시오.
+446. What does this mean? _ 이것은 무엇을 의미합니까?
+447. May I bother you a moment? _ 잠시 방해해도 괜찮습니까?
+448. Can I borrow your pen? _ 펜을 빌릴 수 있습니까?
+449. Come with me! _ 저와 함께 합시다!
+450. May I take a look at it? _ 그것을 볼 수 있을까요?
+451. Let me be your guide. _ 제가 안내해 드리겠습니다.
+452. The sooner the better. _ 빠를수록 좋습니다.
+453. Would you please help me carry this?
+_ 이것을 옮기는 것을 도와주실 수 있습니까?
+454. Will you please post this letter for me? _ 이 편지를 대신 부쳐주시겠습니까?
+455. Will you help me with this problem? _ 이 문제를 해결하는데 도와주시겠습니까?
+456. Will you do me a favor? _ 한가지 부탁 좀 들어주시겠습니까?
+457. May I have your address? _ 당신의 주소를 알려 주실 수 있습니까?
+458. Please call a doctor. _ 의사에게 전화 연락해 주십시오.
+459. May I offer you a drink? _ 당신에게 한 잔을 드려도 괜찮겠습니까?
+460. Where is the rest room? _ 화장실은 어디입니까?
+461. Could you give me a hand with these parcels?
+_ 이 소포들을 옮기는데 도와주실 수 있습니까?
+462. Can you drop me downtown? _ 시내에 내려 주실 수 있습니까?
+463. Say it once more, please. _ 한번 더 말씀해 주십시오.
+464. What a pity! _ 안됐군요!
+465. Take your time. _ 시간을 갖으십시오. / 시간을 갖고 생각하십시오.
+466. I'm not sure. _ 확실하지 않습니다.
+467. I don't think so. _ 저는 그렇게 생각하지 않습니다.
+468. I'm afraid not. _ 그렇지 않을까 봐 걱정입니다. / 죄송하지만 아닙니다.
+469. Calm down, and everything will be OK.
+_ 진정하십시오, 모든 것은 괜찮을 것입니다.
+470. Don't be nervous. _ 긴장하지 마십시오.
+471. It's disgusting. _ 정말 싫습니다. / 역겹습니다.
+472. You make me sick. _ 힘들게 하는군요.
+473. It's incredible. _ 믿을 수 없습니다. / 놀랍군요.
+474. What a surprise! _ 놀랍군요!
+475. You must be kidding! _ 농담이죠!
+476. I'm afraid you've mistaken. _ 당신이 실수했는지 걱정입니다.
+477. Don't bother with what he said. _ 그가 말한 것에 신경 쓰지 마십시오.
+478. Cool it! _ 진정하십시오!
+479. Cheer up! _ 힘냅시다!
+480. I feel blue. _ 우울합니다.
+481. Oh dear, what a mess! _ 오 이런, 엉망이군요!
+482. What time is it? _ 몇 시입니까?
+비슷한 표현 => What time do you have?
+483. It is seven o'clock. _ 7시입니다.
+484. A quarter to eight. _ 7시 45분입니다.
+485. It is ten minutes past four. _ 4시 10분입니다.
+486. It is half past eight. _ 8시 30분입니다.
+487. It's early. _ 이릅니다. / 빠릅니다.
+488. Is it late? _ 늦습니까?
+489. How long will it take to walk over there?
+_ 거기까지 걸어가는데 얼마나 걸립니까?
+490. Congratulations! _ 축하합니다.
+491. Have a nice trip! _ 좋은 여행하십시오!
+492. Best wishes for your birthday. _ 당신의 생일 진심으로 축하합니다.
+493. Best wishes for a happy new year. _ 새해 복 많이 받으십시오.
+494. I wish you many years of happiness. _ 당신의 오랜 행복을 기원합니다.
+495. May you live long and prosper. _ 오래오래 사시고 번창하길 기원합니다.
+496. I hope you'll get over your cold soon. _ 감기가 빨리 낫기를 기원합니다.
+497. Let's meet again! _ 다시 만납시다!
+498. Happy Easter. _ 즐거운 부활절을 지내십시오.
+499. It's a nice day. _ 좋은 하루입니다.
+500. It's hot. _ 덥습니다.
+501. It's getting foggy. _ 안개가 자욱해 집니다.
+502. The sky is clearing up. _ 하늘이 개고 있습니다.
+503. It will be sunny tomorrow. _ 내일은 밝은 하루가 될 것입니다.
+504. It's a nasty day. _ 심술궂은 날이군요.
+505. I wonder if there will be a storm. _ 폭풍이 올지 안 올지 궁금합니다.
+506. What do you think the weather looks like? _ 날씨가 어떨 것 같습니까?
+507. Is that a direct flight? _ 직행 항공편입니까?
+508. Does the flight land somewhere before the final destination?
+_ 이 항공편은 최종 목적지 전에 어딘가에 착륙합니까?
+509. What flights are there to Taiwan? _ 대만까지는 어떤 항공편이 있습니까?
+510. Please check other airlines. _ 다른 회사 항공편을 확인해 주십시오.
+511. Would you please check whether there is room on flight 602?
+_ 602 항공편에 좌석이 있는지 확인해 주시겠습니까?
+512. How frequent are the flights? _ 얼마나 자주 항공편이 있습니까?
+513. How early must I be at the airport? _ 얼마나 일찍 공항에 도착해야 합니까?
+514. How much luggage am I allowed to take?
+_ 얼마나 많은 짐을 갖고 갈 수 있습니까?
+515. I don't have baggage. _ 나는 짐이 없습니다.
+516. How much is the ticket? _ 티켓은 얼마입니까?
+517. Is there any discount? _ 할인은 없습니까?
+518. Please reserve the next flight to Taiwan. _ 대만행 다음 항공편을 예약해 주십시오.
+519. One business class ticket to Hong Kong.
+_ 홍콩행 비즈니스 클래스 티켓 1장을 부탁합니다.
+520. I would like to cancel my ticket to Madrid.
+_ 마드리드행 제 티켓을 취소하고 싶습니다.
+521. Cancel this reservation, please. _ 예약을 취소해 주십시오.
+522. I'd like to reconfirm a reservation. _ 예약을 재확인하고 싶습니다.
+523. I want to change my reservation. _ 예약을 변경하고 싶습니다.
+524. Where is the airport terminal? _ 공항 터미널은 어디에 있습니까?
+525. Where do I check in? _ 어디서 체크인 합니까?
+526. Address the luggage to my hotel in Seoul.
+_ 서울에 있는 제 호텔 앞으로 짐을 부쳐 주십시오.
+527. How much is the excess baggage charge? _ 짐 초과분에 대한 요금은 얼마입니까?
+528. I'd like to send this baggage to Hong Kong. _ 이 짐을 홍콩으로 보내고 싶습니다.
+529. When is boarding time? _ 탑승 개시는 몇 시입니까?
+530. Will this flight leave on time? _ 이 항공편은 정시에 떠납니까?
+531. I would like to reserve a seat in the nonsmoking section.
+_ 금연 구역의 좌석 하나를 예약하고 싶습니다.
+532. Window seat, please. _ 창문쪽 자리 부탁합니다.
+533. Where is this seat? _ 이 자리는 어디에 있습니까?
+534. Could I change seats with you? _ 당신과 자리를 바꿀 수 있습니까?
+535. Do you have a Chinese newspaper? _ 중국 신문이 있습니까?
+536. Would you please get me a blanket? _ 담요를 갖다 주실 수 있습니까?
+537. Could you give me a pillow, please ? _ 베개를 갖다 주시겠습니까?
+538. Would you like a drink? _ 한 잔하시겠습니까?
+539. A bottle of beer, please. _ 맥주 한병 갖다 주십시오.
+540. Can I have another drink? _ 한 잔 더 할 수 있습니까?
+541. Can I have more nuts? _ 땅콩을 더 주실 수 있습니까?
+542. I want to order some drinks. _ 마실 것을 주문하고 싶습니다.
+543. Tea, please. _ 차 부탁합니다.
+544. Please show me how to fill in this form.
+_ 이 양식을 어떻게 작성하는지 보여주십시오.
+545. Is there a stewardess on board who can speak Chinese?
+_ 중국어를 할 수 있는 탑승 여승무원이 있습니까?
+546. Can you translate into Chinese what the captain has just announced?
+_ 기장이 방금 알린 사항을 중국어로 통역할 수 있습니까?
+547. Please don't smoke here. _ 여기서 흡연하지 마십시오.
+548. How long will it be delayed? _ 얼마나 오래 연기되겠습니까?
+549. How long will we stop here? _ 우리는 얼마나 오래 여기 머물 것입니까?
+550. I feel sick. Please give me some pills. _ 몸이 아픕니다. 약 좀 갖다 주십시오.
+551. May I recline my seat? _ 좌석을 눕혀도 괜찮겠습니까?
+552. Do they sell tax-free goods on board? _ 기내에서 면세 상품을 팝니까?
+553. What's the title of the movie? _ 영화의 제목이 무엇입니까?
+554. When do you show the movie? _ 언제 영화를 상영합니까?
+555. I would like some ear phones for the movie. _ 영화 청취 이어폰을 받고 싶습니다.
+556. Which channel do I set to see the movie?
+_ 영화를 보려면 어느 채널로 설정합니까?
+557. It doesn't work. _ 동작되지 않습니다.
+558. What time do we arrive? _ 우리는 몇 시에 도착합니까?
+559. Here's my passport. _ 제 여권 여기 있습니다.
+560. What's the purpose of your visit? _ 귀하의 방문 목적은 무엇입니까?
+561. I'm a tourist. _ 관광객입니다.
+562. I'm on holiday. _ 휴가중입니다.
+563. This is my first visit. _ 이번이 첫 방문입니다.
+564. How long will you stay here? _ 얼마나 오래 여기 머무를 것입니까?
+565. I plan to stay 2 weeks. _ 2주 머무를 계획입니다.
+566. Where is the China airlines counter? _ 중국 항공 카운터는 어디 있습니까?
+567. Would you please stamp my passport? _ 여권에 도장을 찍어 주시겠습니까?
+568. I only have articles for personal use.
+_ 개인적으로 사용할 물건들만을 소지했습니다.
+569. This is a gift for a friend. _ 이것은 친구에게 줄 선물입니다.
+570. This video camera is for my personal use.
+_ 이 비디오 카메라는 개인 용도로 쓸 것입니다.
+571. It costs about 200 American dollars. _ 그것은 미국 달러로 약 200불입니다.
+572. I have nothing to declare. _ 신고할 물건은 없습니다.
+573. I have 1000 dollars in traveler's checks.
+_ 여행자 수표로 1000달러를 갖고 있습니다.
+574. Duty-free shop. _ 면세 상점.
+575. Can we do some shopping in this airport? _ 공항에서 쇼핑 좀 할 수 있습니까?
+576. Do I have to pay duty on the camera I bought here?
+_ 여기서 구입하는 카메라의 세금을 지불해야 합니까?
+577. May I have a receipt? _ 영수증을 받을 수 있을까요?
+578. Where can I find my baggage? _ 어디서 제 짐을 찾을 수 있습니까?
+579. I can't find my baggage. _ 제 짐을 찾을 수 없습니다.
+580. My baggage is broken, and something is missing.
+_ 제 짐이 부서졌고, 무엇인가 없어졌습니다.
+581. This is my baggage. _ 이것은 제 짐입니다.
+582. Please take this baggage to the taxi stand.
+_ 이 짐을 택시 정류장으로 옮겨 주십시오.
+583. It's fragile. Please be careful carrying it.
+_ 그것은 깨지기 쉽습니다. 운반하는데 조심해 주십시오.
+584. May I use this baggage cart? _ 이 짐 손수레를 사용해도 괜찮겠습니까?
+585. Where is the tourist information office?
+_ 여행자 정보 제공 사무실은 어디 있습니까?
+586. Can I reserve a hotel room here? _ 여기서 호텔 방을 예약할 수 있습니까?
+587. Where can I catch the shuttle bus? _ 어디서 순환 버스를 탈 수 있습니까?
+588. Do you have any vacancies? _ 빈방 있습니까?
+589. I would like a room. _ 방을 원합니다.
+590. I'd like a single room. _ 일인용 방을 원합니다.
+591. I'd like a room with a bath. _ 목욕탕 딸린 방을 원합니다.
+592. I'd like a room with 2 beds. _ 침대 2개 있는 방을 원합니다.
+593. We need one double room with an extra bed.
+_ 우리는 여분의 침대가 하나 더 있는 더블룸을 원합니다.
+594. How much is the service charge and tax? _ 봉사료와 세금은 얼마입니까?
+595. Is the service charge included? _ 봉사료가 포함되었습니까?
+596. How much for a room including breakfast? _ 아침식사가 포함된 방은 얼마입니까?
+597. Is breakfast included? _ 아침 식사가 포함되었습니까?
+598. What's the rate? _ 요금이 어떻게 됩니까?
+599. I'll take this room for a week. _ 나는 한 주 동안 이 방을 사용할 것입니다.
+600. Is there anything cheaper? _ 더 싼 것은 없습니까?
+601. I have made a reservation. Here's my confirmation.
+_ 나는 예약을 했습니다. 확인증 여기 있습니다.
+602. Reservations have been made for me and my family.
+_ 나와 내 가족으로 예약이 되어 있습니다.
+603. Would you please show me a better room? _ 더 좋은 방을 보여 주십시오.
+604. A room facing the sea. _ 바다를 마주보는 방.
+605. I'll stay for 2 nights. _ 2박 머무를 것입니다.
+606. Do you need my passport? _ 제 여권이 필요합니까?
+607. Can you recommend another hotel? _ 다른 호텔을 추천해 주시겠습니까?
+608. Where do I sign? _ 어느 곳에 사인을 합니까?
+609. Come in. _ 들어오세요.
+610. I'd like my valuables back. _ 귀중품을 돌려 받고 싶습니다.
+611. Would you please send the luggage to my room?
+_ 제 방으로 짐을 보내 주시겠습니까?
+612. Please send someone for my baggage. _ 제 짐을 들어줄 누군가를 보내 주십시오.
+613. Can you keep this baggage for me? _ 제 짐을 맡아 주실 수 있습니까?
+614. May I have my baggage back? _ 제 짐을 돌려 받을 수 있습니까?
+615. Please bring me some hot water. _ 뜨거운 물 좀 갖다 주십시오.
+616. Would you give me another blanket? _ 담요를 하나 더 주실 수 있습니까?
+617. At what time are meals served? _ 몇 시에 식사가 제공됩니까?
+618. Can I have breakfast in my room? _ 내방에서 아침 식사할 수 있습니까?
+619. I'd like to order breakfast for tomorrow. _ 내일 아침 식사를 주문하고 싶습니다.
+620. Can I walk or should I take a taxi?
+_ 걸을 수 있는 거리입니까? 아니면 택시를 타야 합니까?
+621. Is there a telephone message for me? _ 나에게 남겨진 전화 메시지가 있습니까?
+622. I would like to have this washed. _ 이것을 세탁하고 싶습니다.
+623. Please be careful with it. It is pure silk.
+_ 조심해 주십시오. 그것은 100% 실크입니다.
+624. Would you please send these clothes to the laundry?
+_ 이 옷들을 세탁소로 보내 주실 수 있습니까?
+625. Will you clean and press this suit? _ 이 슈트를 세탁하고 다려 주실 수 있습니까?
+626. Would you please be careful with these blouses?
+_ 이 블라우스를 조심히 다뤄 주시겠습니까?
+627. Can you sew these buttons on? _ 이 단추들을 꿰매주실 수 있습니까?
+628. Can you remove this stain? _ 이 얼룩을 제거해 줄 수 있습니까?
+629. Can you press these trousers while I wait?
+_ 기다릴 동안 이 바지들을 다려 줄 수 있습니까?
+630. Please have this pressed. _ 이것을 다려 주십시오.
+631. When will it be ready? _ 언제 준비됩니까?
+632. Would you please wake me at 7 o'clock? _ 7시에 깨워 주실 수 있습니까?
+633. Would you please call a taxi? _ 택시를 불러 주시겠습니까?
+634. How long does it take to go to the airport by taxi?
+_ 택시로 공항까지 얼마나 걸립니까?
+635. Would you please forward my mail to my home address?
+_ 저의 집 주소로 우편을 발송해 주실 수 있습니까?
+636. I want to leave one day earlier. _ 하루 일찍 떠나고 싶습니다.
+637. The TV doesn't work. _ TV가 동작하지 않습니다.
+638. There's no soap. _ 비누가 없습니다.
+639. The lock is broken. _ 자물쇠가 고장났습니다.
+640. There's no hot running water. _ 뜨거운 물은 나오지 않습니다.
+641. Three years is not much. _ 3년은 긴 세월이 아닙니다.
+642. Ten dollars is not much. _ 10달러는 큰 돈이 아닙니다.
+643. Three runs is not much in baseball. _ 야구에서 3점은 큰 것이 아닙니다.
+644. Bill and I are of the same age. _ 빌과 나는 동갑이다.
+645. We leave home for school in a few minutes.
+_ 우리는 잠시 후에 학교를 향해 집을 떠납니다.
+646. We reach Seoul Station in half an hour. _ 우리는 30분 후에 서울역에 도착합니다.
+647. Get lots of sleep. _ 충분히 수면을 취하십시오.
+648. Drink lots of liquids. _ 음료수를 충분히 드십시오.
+649. I'd like to change my room. _ 방을 바꾸고 싶습니다.
+650. I'm still waiting for the breakfast I ordered.
+_ 주문한 아침을 아직 기다리고 있습니다.
+651. There must be a mistake. These are not mine.
+_ 잘못되었음에 틀림없습니다. 이것들은 제 것이 아닙니다.
+652. The stains have not been removed. _ 얼룩이 제거되지 않았습니다.
+653. This stain is blood. _ 이 얼룩은 피입니다.
+654. This room is too small. Don't you have a bigger one?
+_ 이 방은 너무 작습니다. 더 큰 것은 없습니까?
+655. May I have the bill? _ 계산서를 주시겠습니까?
+656. Do you accept a credit card? _ 신용카드를 받습니까?
+657. What's this bill for? _ 무엇에 대한 계산서입니까?
+658. I'm sorry, this isn't my signature. _ 미안합니다. 이것은 제 사인이 아닙니다.
+659. I'd like to extend my stay for a few days. _ 며칠 더 머물고 싶습니다.
+660. I'm leaving tomorrow. _ 내일 떠날 것입니다.
+661. When do I have to vacate the room? _ 언제 방을 비워야 합니까?
+662. I find it a little expensive. _ 조금 비싼 것 같습니다.
+663. I've enjoyed my stay. _ 즐겁게 보냈습니다.
+664. Where is the dining room? _ 식당은 어디에 있습니까?
+665. Is there a snack bar here? _ 여기에 스낵바가 있습니까?
+666. Do you have a garage? _ 당신은 차고가 있습니까?
+667. Is there a beauty shop? _ 미장원이 있습니까?
+668. Where is the emergency exit? _ 비상 출구는 어디에 있습니까?
+669. I want to find an apartment for rent. _ 임대용 아파트를 찾고 싶습니다.
+670. I'd like to rent a two-room apartment.
+_ 방 두 개 짜리 아파트를 세 얻고 싶습니다.
+671. I would prefer a furnished apartment. _ 가구가 있는 아파트를 원합니다.
+672. How much is the down payment? _ 계약금은 얼마입니까?
+673. How much is the monthly rate? _ 월세는 얼마입니까?
+674. Is it possible to rent a garage? _ 차고를 임대할 수 있습니까?
+675. Can you make reservations for me? _ 저를 위해서 예약해 주실 수 있습니까?
+676. Can you recommend a good place to eat?
+_ 식사하기 좋은 곳을 추천해 주실 수 있습니까?
+677. Do we have to make a reservation? _ 예약을 해야 합니까?
+678. Someplace not too expensive. _ 너무 비싸지 않은 곳.
+679. I'd like to go to a Chinese restaurant. _ 중국식 레스토랑에 가고 싶습니다.
+680. Is there a Chinese restaurant near here?
+_ 여기 가까이에 중국식 레스토랑이 있습니까?
+681. Are there any good restaurants around here?
+_ 여기 근처에 좋은 레스토랑이 있습니까?
+682. I want to eat the best local food. _ 이 지역 최고의 요리를 먹고 싶습니다.
+683. Do you have a table by the window? _ 창가 테이블이 있습니까?
+684. Hello, I would like a table for five. _ 여보세요, 5인용 테이블이 필요합니다.
+685. We are a party of six. _ 저희 일행은 6명입니다.
+686. I would like supper. _ 저녁을 먹고 싶습니다.
+687. What drink would you like before dinner?
+_ 저녁 식사 전에 무엇을 마시고 싶습니까?
+688. I'll have whatever you recommend. _ 당신이 추천해 주는 것을 먹겠습니다.
+689. What do you recommend? _ 무엇을 추천합니까?
+690. What's the specialty of the house? _ 이 집의 특별 요리는 무엇입니까?
+691. Menu, please. _ 메뉴, 부탁드립니다.
+692. Do you serve vegetarian food? _ 채식을 제공합니까?
+693. Is there an English menu? _ 영어 메뉴판이 있습니까?
+694. What kind of soup are you serving today? _ 오늘 어떤 종류의 수프를 제공합니까?
+695. What's the luncheon special today? _ 오늘의 특별 점심은 무엇입니까?
+696. May I take your order? _ 주문 받아도 될까요?
+697. I'll have the same thing. _ 같은 것으로 하겠습니다.
+698. I'll have this. _ 이것으로 하겠습니다.
+699. I would like a continental breakfast. _ 가벼운 아침 식사를 하고 싶습니다.
+700. Well-done, please. _ 잘 익혀 주십시오.
+701. Please show me the wine list. _ 와인 리스트를 보여 주십시오.
+702. What kind of wine do you have? _ 어떤 종류의 와인이 있습니까?
+703. I would like a bottle of white wine. _ 백포도주 한 병 주십시오.
+704. How much is a whole bottle? _ 한 병 전체의 가격은 얼마입니까?
+705. How much is a glass? _ 한 잔의 가격은 얼마입니까?
+706. I would like a cup of coffee. _ 커피 한 잔으로 하겠습니다.
+707. May I have a glass of water? _ 물 한 잔 주시겠습니까?
+708. How about some dessert? _ 후식 하시겠습니까?
+709. I'd like to place an order. _ 주문하고 싶습니다.
+710. Two hamburgers to go, please. _ 햄버거 두 개 포장해 주십시오.
+711. Bring me a triple-decker sandwich and milk, please.
+_ 3단 샌드위치 한 개와 우유를 갖다 주시기 바랍니다.
+712. May I smoke? _ 담배 피워도 될까요?
+713. Would you please pass the salt? _ 소금 좀 건네주시겠습니까?
+714. Can I have it right away? _ 지금 당장 그것을 받을 수 있습니까?
+715. A little more, please. _ 좀 더 주십시오.
+716. It was delicious. _ 맛있었습니다.
+717. How does it taste? _ 맛은 어떻습니까?
+718. A green salad with French dressing. _ 프렌치 드레싱한 야채 샐러드.
+719. This is not my order. _ 제가 한 주문이 아닙니다.
+720. My order hasn't come yet. _ 주문한 요리가 아직 오지 않았습니다.
+721. How do you eat this? _ 이것을 어떻게 먹습니까?
+722. It was more than I could eat. _ 제가 먹을 수 있는 것보다 많았습니다.
+723. It is cold. _ 식었습니다.
+724. It is too sweet. _ 너무 답니다.
+725. This is not cooked enough. _ 이것은 요리가 충분히 되지 않았습니다.
+726. It is tough. _ 질깁니다.
+727. This is not quite fresh. _ 이것은 아주 신선한 것은 아닙니다.
+728. This is not clean enough. _ 이것은 충분히 깨끗하지 않습니다.
+729. I believe the bill is added up wrong. _ 계산이 잘못된 것 같습니다.
+730. The bill is on me. _ 제가 내겠습니다.
+731. I'll treat you to dinner this evening. _ 오늘 저녁 식사는 제가 대접하겠습니다.
+732. Let's split the bill. _ 나눠서 계산합시다.
+733. Let me pay my share. _ 제 몫은 제가 내게 해 주십시오.
+734. How much is the total? _ 전부 해서 얼마입니까?
+735. I would like to pay now, please. _ 지금 계산하고 싶습니다.
+736. Does the bill include the service charge? _ 계산서에 봉사료도 포함되어 있습니까?
+737. Keep the change, please. _ 잔돈은 가지십시오.
+738. Let me buy you a drink. _ 제가 한 잔 사게 해주십시오.
+739. The next round is on me. _ 다음은 제가 내겠습니다.
+740. On ice. _ 얼음 띄워서.
+741. When do you close? _ 언제 닫습니까? / 언제 폐점합니까?
+742. I'm just looking around. _ 그냥 둘러보고 있습니다.
+743. Is this expensive? _ 이것은 비쌉니까?
+744. It's good, but it's a little expensive. _ 그것은 마음에 들지만, 조금 비쌉니다.
+745. Where is the shopping area? _ 쇼핑 지역은 어디에 있습니까?
+746. On which floor is the food department? _ 몇 층에 식당가가 있습니까?
+747. When does this store close? _ 이 상점은 몇 시에 닫습니까?
+748. I will come back later. _ 나중에 다시 오겠습니다.
+749. What are some special products of this town?
+_ 이 마을의 특산물에는 무엇이 있습니까?
+750. Where can I buy it? _ 어디서 그것을 살 수 있습니까?
+751. Do you have one like this? _ 이것과 같은 것을 갖고 있습니까?
+752. Do you have this in another color? _ 다른 색으로 된 것 있습니까?
+753. Do you have one of better quality? _ 더 나은 품질의 것이 있습니까?
+754. Do you have a bigger one? _ 더 큰 것 있습니까?
+755. Do you have a cheaper one? _ 더 싼 것 있습니까?
+756. I would like to see a darker shade. _ 더 어두운 것을 보고 싶습니다.
+757. I'll take this. _ 이것으로 하겠습니다.
+758. Can I buy it tax-free? _ 면세로 구입할 수 있습니까?
+759. Do you think this material is durable? _ 이 재질이 내구성이 있다고 생각하십니까?
+760. Could I have a gift box? _ 포장 박스를 받을 수 있습니까?
+761. I can't afford to buy this. _ 이것을 살만큼 돈을 갖고 있지 않습니다.
+762. Will you send it to the hotel with a receipt?
+_ 그것을 영수증과 함께 호텔로 보내 줄 수 있습니까?
+763. Would you please send it today? _ 그것을 오늘 보내 주시겠습니까?
+764. How long will it take to repair? _ 수리하는데 얼마나 걸립니까?
+765. Will you guarantee the repairs? _ 수리[A/S]를 보증합니까?
+766. I'd like to try this on. _ 이것을 입어 보고 싶습니다.
+767. I would like to try one of these dresses on.
+_ 이 드레스들 중 하나를 입어 보고 싶습니다.
+768. Can you measure me? _ 치수를 재주실 수 있습니까?
+769. I would like a custom-made suit. _ 맞춤 슈트로 하고 싶습니다.
+770. I would like to have a custom-made skirt. _ 맞춤 스커트로 하고 싶습니다.
+771. I wish to look at a cotton nightdress. _ 면으로 된 잠옷을 보고 싶습니다.
+772. Do you have a jacket to match these trousers?
+_ 이 바지들과 어울리는 재킷 있습니까?
+773. I would like to have a pleat in the front. _ 앞쪽에 주름을 잡고 싶습니다.
+774. Do you have a pattern for a men's jumper? _ 남성 점퍼용 패턴이 있습니까?
+775. It's too tight here. _ 여기가 너무 꼭 낍니다.
+776. Can the clothes be finished before next Friday?
+_ 다음주 금요일 전에 옷이 마무리 될 수 있습니까?
+777. Could you show me a selection of silk ties?
+_ 실크 넥타이 상품들을 보여 주실 수 있습니까?
+778. I'm afraid this tie is too plain. _ 이 넥타이는 너무 평범한 것 같습니다.
+779. Do you have it in different colors? _ 다른 색으로 된 것 있습니까?
+780. I would like a silk scarf to match this blouse.
+_ 이 블라우스와 어울리는 실크 스카프로 하고 싶습니다.
+781. Is this genuine leather? _ 이것은 진짜 가죽입니까?
+782. I'd like a leather wallet. _ 가죽 지갑으로 하고 싶습니다.
+783. I would like to try some stronger glasses.
+_ 도수가 높은 다른 안경들을 써보고 싶습니다.
+784. These glasses are too weak for me. _ 이 안경들은 도수가 너무 낮습니다.
+785. Can you recommend something for irritated eyes?
+_ 따끔한 눈에 무엇인가 추천해 줄 수 있습니까?
+786. I would like something for skin irritation. _ 따끔한 피부에 무언가 바르고 싶습니다.
+787. Please show me another one. _ 다른 것을 보여 주십시오.
+788. What material is it made of? _ 그것은 어떤 재료로 만든 것입니까?
+789. I would like to see a camera. _ 카메라를 보고 싶습니다.
+790. I would like film for an 8 millimeter movie camera.
+_ 8mm 무비 카메라용 필름을 원합니다.
+791. Would you please put film in my camera?
+_ 제 카메라에 필름을 넣어 주시겠습니까?
+792. I would like color film. _ 칼라 필름으로 하고 싶습니다.
+793. I would like three prints of each. _ 각각 세장씩 뽑고 싶습니다.
+794. I would like these photographs enlarged. _ 이 사진들을 확대하고 싶습니다.
+795. Do you have hearing aids? _ 보청기 있습니까?
+796. Do you have batteries for hearing aids? _ 보청기용 배터리가 있습니까?
+797. Will you forward my purchases to my home address?
+_ 저의 집 주소로 구입 물품을 발송해 주시겠습니까?
+798. Will you show me how to operate it?
+_ 그것을 어떻게 작동시키는지 보여 주시겠습니까?
+799. When will they be ready? _ 그들은 언제 준비됩니까?
+800. I prefer a simpler style. _ 나는 더 단순한 스타일을 원합니다.
+801. Do you think you can repair it? _ 당신은 그것을 고칠 수 있다고 생각하십니까?
+802. Can you repair this while I wait? _ 제가 기다리는 동안 이것을 고칠 수 있습니까?
+803. How much chocolate can I take out of the country?
+_ 외국으로 얼마나 많은 초콜릿을 가져갈 수 있습니까?
+804. What's in that chocolate? _ 저 초콜릿에는 무엇이 들어 있습니까?
+805. Do you have stamps? _ 우표 있습니까?
+806. I'm interested in Oriental art. _ 나는 동양 예술에 관심이 있습니다.
+807. I'm looking for a painting by a well-known French artist.
+_ 나는 잘 알려진 프랑스 화가가 그린 그림을 찾고 있습니다.
+808. Are these crystals? _ 이것들은 크리스털입니까?
+809. Do you buy old coins? _ 오래된 동전을 삽니까?
+810. May I browse? _ 구경해도 괜찮겠습니까?
+811. I would like to have a picture-book for a seven-year-old girl.
+_ 7살 짜리 소녀가 볼 수 있는 그림책을 원합니다.
+812. Do you have an entertaining book in English? _ 영어로 된 재미있는 책 있습니까?
+813. I would like to have a mystery novel in Chinese.
+_ 중국어로 쓰인 추리소설을 원합니다.
+814. Please give me a Chinese newspaper. _ 중국 신문 한 부 주십시오.
+815. I would like to see some electrical toys.
+_ 전기로 동작하는 장난감을 보고 싶습니다.
+816. Do you have an entertaining game for a child?
+_ 어린이를 위한 재미있는 게임이 있습니까?
+817. What can we give a sick little boy?
+_ 우리는 병든 어린 소년에게 무엇을 줄 수 있습니까?
+818. Do you have any dolls that walk and talk? _ 걷고 말하는 인형이 있습니까?
+819. I would like a packet of cigarettes. _ 담배 한 갑을 원합니다.
+820. Would you give me a light, please? _ 불 좀 빌릴 수 있습니까?
+821. Are these grapes sweet? _ 이 포도들은 답니까?
+822. Would you show me some white china? _ 백색 도자기 좀 보여 주시겠습니까?
+823. Would it be possible for me to have it in a gift box?
+_ 그것을 포장 박스에 넣어 주실 수 있습니까?
+824. Would you please wrap it? _ 그것을 포장해 주시겠습니까?
+825. My watch needs adjusting. _ 제 시계는 조정해야 합니다.
+826. I would like to see a gold necklace. _ 금목걸이를 보고 싶습니다.
+827. I would like to see a lady's ring. _ 여성용 반지를 보고 싶습니다.
+828. I would prefer one in 18 carat gold. _ 저는 18캐럿 금으로 된 것을 선호합니다.
+829. Would you please change the battery in my watch?
+_ 제 시계의 전지를 교체해 주시겠습니까?
+830. May I see a wristwatch that shows the date?
+_ 날짜를 보여주는 손목시계를 볼 수 있습니까?
+831. Where do I pay? _ 어디서 계산합니까?
+832. This is more than I can pay. _ 이것은 제가 지불할 수 있는 가격 이상입니다.
+833. The price is not reasonable. _ 가격이 적당하지 않습니다.
+834. The price is higher than what I had in mind.
+_ 제가 생각했던 것보다 가격이 비쌉니다.
+835. Can I buy it on installment? _ 그것을 할부로 살 수 있습니까?
+836. You gave me the wrong change. _ 당신은 저에게 거스름돈을 잘못 주었습니다.
+837. Can you give me a receipt, please? _ 영수증을 주실 수 있습니까?
+838. I already paid. _ 나는 이미 지불했습니다.
+839. I'd like to return this. _ 이것을 반품하고 싶습니다.
+840. Here's my receipt. _ 영수증 여기 있습니다.
+841. This is broken. _ 이것은 고장났습니다.
+842. Isn't there a mistake in the bill? _ 계산서에 잘못된 것이 있지 않습니까?
+843. I plan to go to Mexico. _ 나는 멕시코로 갈 계획입니다.
+844. How long do you intend to stay in Paris?
+_ 당신은 파리에 얼마나 오래 머무를 예정입니까?
+845. I prefer to go by bus. _ 나는 버스로 가길 원합니다.
+846. I would like to go somewhere to relax. _ 나는 휴식차 어디론가 가고 싶습니다.
+847. Which is the best route? _ 어느 쪽이 최적의 항로입니까?
+848. Would you please arrange the trip for me?
+_ 저를 위해서 여행을 계획해 주시겠습니까?
+849. Can you recommend an interesting tour?
+_ 흥미 있는 투어를 추천해 줄 수 있습니까?
+850. Would you please tell me what museums are here?
+_ 여기에 어떤 박물관이 있는지 말씀해 주시겠습니까?
+851. Shall we find a nice place to go? _ 우리 가 볼만한 장소를 찾아볼까요?
+852. Would you like to go to the opera with me?
+_ 저와 함께 오페라 보러 가시겠습니까?
+853. I'll get the tickets. _ 티켓은 제가 준비하겠습니다.
+854. I'll pick you up at seven o'clock. _ 7시에 당신을 데리러 가겠습니다.
+855. Where is the nearest subway station? _ 가장 가까운 지하철역은 어디에 있습니까?
+856. Where is the taxi stand? _ 택시 정류장은 어디에 있습니까?
+857. Is there a public rest room near here? _ 이 근처에 공중 화장실이 있습니까?
+858. What time does it start? _ 그것은 몇 시에 시작합니까?
+859. Where can I buy a map of this town?
+_ 이 마을의 지도를 어디에서 살 수 있습니까?
+860. What time does the film start? _ 영화는 몇 시에 시작합니까?
+861. When and where can we meet? _ 우리는 언제 어디서 만날 수 있습니까?
+862. How much is the admission? _ 입장료는 얼마입니까?
+863. Is it too far to walk? _ 걷기에는 너무 멉니까?
+864. Will there be an opportunity to take some photographs?
+_ 사진 좀 찍을 기회가 있습니까?
+865. Can anyone here speak English? _ 여기 있는 누군가 영어를 할 수 있습니까?
+866. I want a Chinese-speaking guide. _ 저는 중국어 하는 가이드를 원합니다.
+867. Excuse me. How can I get to this place? _ 실례합니다. 이곳에 어떻게 갑니까?
+868. What's the name of this street? _ 이 거리의 이름은 무엇입니까?
+869. Would you tell me how to get to this hotel?
+_ 어떻게 이 호텔에 도착하는지 말해 줄 수 있습니까?
+870. Is the hotel far from here? _ 그 호텔은 여기서 멉니까?
+871. Will you show me the way to the post office?
+_ 우체국 가는 길을 알려 주시겠습니까?
+872. Please point out where I am on this map.
+_ 지도상에 제가 어디에 있는지 알려 주십시오.
+873. Please draw a map here. _ 여기에 지도를 그려 주십시오.
+874. It's a short walk. _ 가깝네요.
+875. It's not so far. _ 그렇게 멀지 않습니다.
+876. Is it close enough to walk? _ 걸을 만큼 가깝습니까?
+877. Wait here for a moment, please. _ 여기서 잠시 기다려 주십시오.
+878. I get off at the next stop. _ 나는 다음 정거장에서 내립니다.
+879. Let me off here, please. _ 여기서 내려 주십시오.
+880. Stop here, please. _ 여기서 멈춰 주십시오.
+881. Let's go to the movie tonight. _ 오늘밤에 영화 보러 갑시다.
+882. Who are your favorite movie stars? _ 당신이 좋아하는 영화배우는 누구입니까?
+883. When does the movie start? _ 영화는 언제 시작합니까?
+884. Will you take me to my seat, please? _ 제 좌석으로 데려다 주시겠습니까?
+885. What time will the show be over? _ 쇼는 몇 시에 끝납니까?
+886. How soon does the show begin? _ 얼마나 빨리 쇼는 시작합니까?
+887. Are there any good movies on TV? _ TV에서 좋은 영화를 합니까?
+888. Which program is the most instructive? _ 어떤 프로그램이 가장 유익합니까?
+889. May I take pictures here? _ 여기서 사진 찍어도 괜찮습니까?
+890. May I use a flash? _ 플래시를 사용해도 됩니까?
+891. Please write your address here. _ 여기에 당신의 주소를 적어주십시오.
+892. Where is the lost-and-found? _ 분실물 보관소는 어디입니까?
+893. Can I have them reissued? _ 그것들을 다시 발행받을 수 있습니까?
+894. Please make a theft report. _ 도난 신고서를 작성해 주십시오.
+895. My wallet was stolen. _ 지갑을 도난 당했습니다.
+896. I lost my passport. _ 여권을 잃어버렸습니다.
+897. Whom should I inform? _ 누구에게 알려야 합니까?
+898. It's an emergency! _ 응급 상황입니다.
+899. Please call the police immediately. _ 즉시 경찰을 불러 주십시오.
+900. My passport is missing. _ 여권을 찾을 수가 없습니다.
+901. I was robbed of my wallet on the subway. _ 지하철에서 지갑을 도난당했습니다.
+902. I would like to have a haircut. _ 이발을 하고 싶습니다.
+903. I would like to have a shampoo. _ 샴푸하고 싶습니다.
+904. I would like a mild hair lotion. _ 순한 헤어 로션을 원합니다.
+905. Would you please use a hair lotion that isn't oily?
+_ 기름기 많지 않은 헤어 로션을 사용해 주시겠습니까?
+906. Haircut and shave, please. _ 이발과 면도 부탁드립니다.
+907. Just trim it, please. _ 다듬어만 주십시오.
+908. Not too short. _ 너무 짧지 않게 해 주십시오.
+909. I would like to have my hair dyed. _ 머리 염색을 하고 싶습니다.
+910. Would you please part my hair on the right side?
+_ 오른쪽으로 가르마 타 주시겠습니까?
+911. Would you please comb my hair back from the forehead?
+_ 머리를 뒤로 넘겨 주시겠습니까?
+912. I would like to have a shave. _ 면도하고 싶습니다.
+913. I would like to have my nails polished. _ 손톱을 윤내고 싶습니다.
+914. I would like to have a manicure. _ 매니큐어 칠하고 싶습니다.
+915. Is there a place to rest? _ 쉴 곳이 있습니까?
+916. I would like to have my scalp massaged. _ 머리를 마사지하고 싶습니다.
+917. Where is the post office? _ 우체국은 어디에 있습니까?
+918. Please register this letter. _ 이 편지를 등기로 부쳐 주십시오.
+919. I'd like to send this letter by air mail. _ 이 편지를 항공우편으로 보내고 싶습니다.
+920. Please send it by special delivery. _ 그것을 특별운송으로 보내 주십시오.
+921. Will you weigh this parcel, please? _ 이 소포의 무게를 재 주시겠습니까?
+922. Does this weigh too much? _ 이것은 무게가 너무 나갑니까?
+923. How much will it cost to send these letters?
+_ 이 편지들을 보내는데 요금이 얼마나 듭니까?
+924. Where can I get stamps and postcards? _ 어디서 우표와 엽서를 구할 수 있습니까?
+925. I'd like to send this package to Hong Kong.
+_ 이 소포를 홍콩으로 보내고 싶습니다.
+926. Would you please send this parcel to this address as quickly as possible?
+_ 이 소포를 가능한 한 빨리 이 주소로 보내 주시겠습니까?
+927. Would you please forward my mail to my address in Seoul?
+_ 서울에 있는 제 주소로 제 우편을 보내 주시겠습니까?
+928. Can you send it to this address in Hong Kong?
+_ 그것을 홍콩에 있는 이 주소로 보낼 수 있습니까?
+929. Would you please call me back and tell me how much it will cost?
+_ 비용이 얼마나 들지 저에게 다시 전화해서 말씀해 주시겠습니까?
+930. I want to make a collect call to Seoul.
+_ 서울에 수신자 부담으로 전화를 걸고 싶습니다.
+931. I'd like to make an overseas call. _ 국제 전화를 하고 싶습니다.
+932. Where can I find a public phone? _ 어디서 공중전화기를 찾을 수 있습니까?
+933. The line is busy. _ 통화 중입니다.
+934. The number is unlisted. _ 그 번호는 전화번호부에 실려 있지 않습니다.
+935. May I speak to Mr. Park? _ 박씨와 통화할 수 있습니까?
+936. You have the wrong number. _ 당신은 전화를 잘못 거셨습니다.
+937. She's on another line now. _ 그녀는 지금 통화 중입니다.
+938. Hold the line, please. _ 끊지 말고 기다려 주십시오.
+939. I'll call again later. _ 나중에 다시 전화하겠습니다.
+940. Give me extension 212, please. _ 구내 212번 연결해 주십시오.
+941. Who is calling, please? _ 전화 주신 분은 누구입니까?
+942. Could I leave a message? _ 메시지를 남길까요?
+943. Thank you for calling. _ 전화해 주셔서 감사합니다.
+944. How late is the bank open? _ 얼마나 늦게까지 은행을 엽니까?
+945. Where can I change money? _ 어디서 돈을 바꿀 수 있습니까?
+946. How quickly can this be done? _ 이 일은 얼마나 빨리 될 수 있습니까?
+947. This is my identification. _ 이것은 제 신분증입니다.
+948. Could you break this 100 dollar bill? _ 이 100달러 지폐를 바꿔 줄 수 있습니까?
+949. Could you please give me change for this bill?
+_ 이 지폐를 잔돈으로 바꾸어 줄 수 있습니까?
+950. Please change these Hong Kong dollars into U.S. dollars.
+_ 이 홍콩 달러를 미국 달러로 바꾸어 주십시오.
+951. I don't feel well. _ 기분이 좋지 않습니다.
+952. I feel faint. _ 현기증이 납니다.
+953. I have chills. _ 오한이 납니다.
+954. I have pains in my back. _ 등이 아픕니다.
+955. I have a headache. _ 두통이 있습니다.
+956. I'm allergic to fish. _ 나는 물고기 알레르기가 있습니다.
+957. I have high blood pressure. _ 나는 혈압이 높습니다.
+958. I have a fever. _ 열이 있습니다.
+959. I have a cold. _ 감기에 걸렸습니다.
+960. My head is spinning. _ 머리가 어지럽습니다.
+961. I have a severe toothache. _ 심한 치통이 있습니다.
+962. I have something in my eye. _ 눈에 무엇인가 들어갔습니다.
+963. I'm suffering from insomnia. _ 불면증으로 고통받고 있습니다.
+964. I feel like throwing up. _ 토할 것 같습니다.
+965. I've got a heart problem. _ 심장 질환이 있습니다.
+966. I've got a sore throat. _ 목이 따끔합니다.
+967. I have a stuffy nose. _ 코가 막힙니다.
+968. I tripped on the stairs. _ 계단을 헛디디었습니다.
+969. I have previously received treatment for an ulcer.
+_ 전에 저는 궤양 치료를 받았습니다.
+970. I feel a little better. _ 조금 기분이 나아졌습니다.
+971. Would you please call a doctor? _ 의사를 불러 주시겠습니까?
+972. Would you please call an ambulance? _ 구급차를 불러 주시겠습니까?
+973. Please take me to the hospital. _ 저를 병원으로 데려다 주십시오.
+974. How often do I have to take the medicine? _ 얼마나 자주 약을 복용해야 합니까?
+975. How long will it take to recover? _ 회복하는데 얼마나 오래 걸립니까?
+976. How long must I rest? _ 얼마나 오래 쉬어야 합니까?
+977. Do you think it is serious? _ 심각하다고 생각하십니까?
+978. Is it contagious? _ 전염성이 있습니까?
+979. Do I need an operation? _ 수술을 받아야 합니까?
+980. Would you inform my family, please? _ 가족에게 알려 주시겠습니까?
+981. What's my temperature? _ 제 체온은 몇 도입니까?
+982. Can I have something for a cough? _ 기침에 무엇을 좀 주시겠습니까?
+983. How long will the treatment take? _ 치료는 얼마나 걸릴까요?
+984. Can you give me something to stop the pain?
+_ 고통을 멈출 무언가를 좀 주시겠습니까?
+985. May we camp here? _ 저희 여기서 야영해도 됩니까?
+986. Is there a place where we can get water? _ 물을 얻을 수 있는 곳이 있습니까?
+987. Can we spend the night here? _ 저희 여기서 밤을 보낼 수 있을까요?
+988. Is there a camp site nearby? _ 근처에 야영장이 있습니까?
+989. Is fishing allowed here? _ 여기서 낚시할 수 있습니까?
+990. I am interested in fishing. _ 저는 낚시에 관심이 있습니다.
+991. Can I do water-skiing there? _ 거기서 수상스키를 탈 수 있습니까?
+992. I missed the train. When does the next one depart?
+_ 열차를 놓쳤습니다. 다음 출발은 언제입니까?
+993. How long is the delay? _ 얼마나 연착됩니까?
+994. How long does this train stop here? _ 이 열차는 여기서 얼마 동안 정차합니까?
+995. Is this seat taken? _ 이 자리는 예약되었습니까?
+996. Is there a dining car? _ 식당칸이 있습니까?
+997. Is the dining car at the front or rear of the train?
+_ 식당칸은 열차의 앞쪽에 있습니까, 아니면 뒤쪽에 있습니까?
+998. Where should I change trains? _ 어디서 열차를 갈아타야 합니까?
+999. I prefer a seat by the window. _ 창가쪽 자리를 원합니다.
+1000. May I open the window? _ 창문을 좀 열어도 될까요?
+1001. Where are we passing now? _ 지금 우리는 어디를 통과하고 있습니까?
+1002. Which platform does this train depart from?
+_ 이 열차는 어느 플랫폼에서 출발합니까?
+1003. Do I have to change trains? _ 열차를 갈아타야 합니까?
+1004. Which stop should I get off at? _ 어느 정거장에서 내려야 합니까?
+1005. How can I get to this place from here? _ 여기서 이 장소까지 어떻게 갑니까?
+1006. I would like a ticket to London. _ 런던행 티켓을 원합니다.
+1007. What time do we board? _ 몇 시에 탑승합니까?
+1008. What time can I dine? _ 몇 시에 식사를 할 수 있습니까?
+1009. This is my international driving permit. _ 이것은 제 국제 운전 면허증입니다.
+1010. I'd like to rent this car for 2 days. _ 이틀 동안 이 차를 빌리고 싶습니다.
+1011. Please send a car to my hotel tomorrow morning.
+_ 내일 아침 호텔로 차를 보내 주십시오.
+1012. Is there a hotel in this area? _ 이 지역에 호텔이 있습니까?
+1013. Which is the shortest way to the beach?
+_ 해변으로 가는 지름길은 어느 길입니까?
+1014. Something is making a noise. _ 무엇인가 소음을 내고 있습니다.
+1015. There is something wrong with the oil pressure.
+_ 오일 압력에 어떤 문제가 있습니다.
+1016. Would you please charge the battery? _ 배터리를 충전해 주시겠습니까?
+1017. I would like somebody to call the police. _ 누군가 경찰을 불러 주길 바랍니다.
+1018. I would like a round-trip ticket. _ 저는 왕복 티켓을 원합니다.
+1019. How much is the fare to this place? _ 이곳까지의 요금은 얼마입니까?
+1020. What time does the next bus for Seoul leave?
+_ 서울행 다음 버스는 몇 시에 떠납니까?
+1021. Does this bus go to this place? _ 이 버스는 이곳에 갑니까?
+1022. I want to cancel this ticket. _ 이 티켓을 취소하고 싶습니다.
+1023. How late does the subway run? _ 지하철은 얼마나 늦게까지 운행합니까?
+1024. The early bird catches the worm. _ 일찍 일어나는 새가 벌레를 잡는다.
+1025. What bus do I take to get to the zoo?
+_ 동물원에 가려면 어느 버스를 타야 합니까?
+1026. You had better take a number 5 bus. _ 5번 버스를 타는 게 좋겠군요.
+1027. Where do I get off for the zoo? _ 동물원에 가려면 어디에서 내려야 합니까?
+1028. At the third stop from here. _ 여기에서 세 번째 정거장에서 내리세요.
+1029. How often does the bus run? _ 그 버스는 얼마나 자주 옵니까?
+1030. Every fifteen minutes. _ 15분마다 옵니다.
+1031. How long does it take to go from here to the station by subway?
+_ 여기에서부터 역까지 지하철로 얼마나 걸립니까?
+1032. It takes about an hour. _ 약 한 시간 걸립니다.
+1033. What do you think of Korea? _ 한국에 대해 어떻게 생각하세요?
+1034. Would you please answer the phone? _ 전화를 좀 받아주시겠어요?
+1035. May I have your phone number? _ 당신 전화번호 좀 알 수 있을까요?
+1036. You can reach me at 533-0236 after five.
+_ 5시 이후에 533-0236으로 연락하시면 됩니다.
+1037. I called him, but there was no answer.
+_ 제가 그에게 전화를 했지만, 아무도 받지 않았어요.
+1038. Can you give me a discount? _ 할인을 좀 해 주실 수 있습니까?
+1039. Take your time, please. _ 천천히 하세요.
+1040. Mr. Kim, you're wanted on the phone. _ 김 선생님, 전화왔습니다.
+비슷한 표현 => Mr. Kim, there's a call for you.
+Mr. Kim, someone wants you on the phone.
+1041. There's no one here by that name. You have the wrong number.
+_ 그런 사람은 여기에 없는데요. 전화를 잘못 거셨습니다.
+1042. Oh, I'm sorry to have troubled you. _ 폐를 끼쳐 죄송합니다.
+1043. What's the date today? _ 오늘은 며칠입니까?
+1044. What day is today? _ 오늘은 무슨 요일입니까?
+1045. Go straight ahead and turn to the right at the first corner.
+_ 곧장 앞으로 가다가 첫 번째 모퉁이에서 오른쪽으로 도세요.
+1046. Thank you for your kindness. _ 당신의 친절에 감사합니다.
+1047. You're welcome. _ 천만에요.
+비슷한 표현 => Not at all.
+Don't mention it.
+1048. What's the population of your country? _ 당신 나라의 인구는 얼마나 됩니까?
+1049. What do you call this flower in English? _ 영어로 이 꽃을 어떻게 부릅니까?
+1050. What's the weather like? _ 날씨가 어떻습니까?
+비슷한 표현 => How is the weather?
+1051. How about going to the movies? _ 영화보러 가는 게 어때?
+비슷한 표현 => What about going to the movies?
+1052. Why don't you come to my house for dinner tonight?
+_ 오늘밤 우리집에 저녁 식사하러 오는 게 어때요?
+1053. What would you like to do tonight? _ 오늘밤 무엇을 하고 싶으세요?
+1054. How do you do, Mr. Kim? _ 처음 뵙겠습니다, 김씨.
+1055. No pains, no gains. _ 수고하지 않고 무엇을 얻으랴!
+1056. Slow and steady wins the race. _ 천천히 그리고 꾸준히 하는 자가 경주에 이긴다.
+1057. The Korean people are very diligent. _ 한국 사람들은 매우 부지런하다.
+1058. Health is the best wealth. _ 건강은 최상의 재산이다.
+1059. No news is good news. _ 무소식이 희소식이다.
+1060. Flowers bloom. _ 꽃이 핀다.
+1061. Winter is gone and spring has come. _ 겨울이 가고 봄이 왔다.
+1062. My watch is five minutes slow. _ 내 시계는 5분이 늦다.
+1063. Beautiful flowers come out in spring. _ 봄에는 아름다운 꽃들이 핀다.
+1064. All the students in our class work hard.
+_ 우리 학급의 모든 학생들은 열심히 공부한다.
+1065. He made his son a doctor. _ 그는 자기 아들을 의사가 되게 했다.
+1066. She loves her cat very much. _ 그녀는 자기의 고양이를 매우 많이 사랑한다.
+1067. I saw a tall man yesterday. _ 나는 어제 키가 큰 남자를 보았다.
+1068. I asked him a question. _ 나는 그에게 질문을 하나 했다.
+1069. London is the capital of England. _ 런던은 영국의 수도이다.
+1070. This mountain is very high. _ 이 산은 매우 높다.
+1071. The sun rises in the east. _ 해는 동쪽에서 뜬다.
+1072. The cat under the table is sleeping. _ 탁자 밑에 있는 고양이는 자고 있다.
+1073. You and I are good friends. _ 너와 나는 좋은 친구이다.
+1074. He keeps a dog. _ 그는 개를 한 마리 기른다.
+1075. To play the piano is very difficult. _ 피아노를 치는 것은 매우 어렵다.
+1076. He speaks too fast. _ 그는 너무 빨리 말을 한다.
+1077. He went hunting yesterday. _ 그는 어제 사냥하러 갔다.
+1078. They loved each other. _ 그들은 서로 사랑했다.
+1079. The book on the desk is mine. _ 책상 위에 있는 책은 내것이다.
+1080. Tom and Nancy came to see me yesterday.
+_ 탐과 낸시는 어제 나를 만나러 왔다.
+1081. I watch television after dinner. _ 나는 저녁 식사 후에 TV를 본다.
+1082. Be kind to your neighbors. _ 네 이웃 사람들에게 친절해라.
+1083. What kind of ice cream do you like? _ 너는 어떤 종류의 아이스크림을 좋아하니?
+1084. Rabbits are fast animals. _ 토끼는 빠른 동물이다.
+1085. Don't speak so fast. _ 그렇게 빨리 말하지 마라.
+1086. Let's go to the beach today. _ 오늘 해변가에 가자.
+1087. Yesterday they played baseball for an hour.
+_ 어제 그들은 한 시간 동안 야구를 했다.
+1088. The play is going to be very good. _ 그 연극은 매우 훌륭할 것이다.
+1089. I take a walk in the park every Sunday. _ 나는 일요일마다 공원을 산책한다.
+1090. Birds fly high in the sky. _ 새들은 하늘에서 높이 날아다닌다.
+1091. I am free today. _ 나는 오늘 한가하다.
+1092. Tom freed the dog. _ 탐은 그 개를 풀어주었다.
+1093. The house on the hill belongs to him. _ 언덕 위에 있는 그 집은 그의 소유이다.
+1094. All work and no play makes Jack a dull boy.
+_ 공부만 하고 놀지 않으면 바보가 된다.
+1095. Winter comes after fall. _ 겨울은 가을 다음에 온다.
+1096. I'll see him after I get back. _ 내가 돌아온 뒤에 그를 만나겠다.
+1097. She arrived early in the afternoon. _ 그녀는 오후 일찍 도착했다.
+1098. Don't break the branches. _ 가지를 꺾지 마시오.
+1099. We'll soon have a twenty-minute break.
+_ 우리는 곧 20분간의 휴식을 갖게 될 것이다.
+1100. She cooks three meals a day. _ 그녀는 하루에 세 끼를 요리한다.
+1101. His car stopped in front of the building. _ 그의 차는 그 빌딩 앞에 멈추었다.
+1102. I saw a tree at the back of the house.
+_ 나는 그 집 뒤에 있는 나무 한 그루를 보았다.
+1103. The work is very easy. _ 그 일은 매우 쉽다.
+1104. Near the river stands a big hotel. _ 그 강 부근에 큰 호텔이 있다.
+1105. There are some bad men in this town.
+_ 이 마을에는 몇 명의 나쁜 사람들이 있다.
+1106. The old man died last week. _ 그 노인은 지난 주에 죽었다.
+1107. He is a hard worker. _ 그는 근면한 일꾼이다.
+1108. We don't have many foreign friends.
+_ 우리는 외국인 친구들을 많이 갖고 있지 않다.
+1109. He does not have any money on him. _ 그는 돈을 한 푼도 갖고 있지 않다.
+1110. I didn't have breakfast this morning. _ 오늘 아침에 나는 조반을 먹지 않았다.
+1111. We didn't have much trouble solving the problem.
+_ 우리는 그 문제를 푸는 데 큰 어려움이 없었다.
+1112. Who answered this question? _ 누가 이 질문에 대답했습니까?
+1113. What does she do in the evening? _ 그녀는 저녁에 무엇을 합니까?
+1114. What happened yesterday? _ 어제 무슨 일이 일어났습니까?
+1115. Which is larger? _ 어느 것이 더 큽니까?
+1116. Who is he talking to? _ 그는 누구에게 말을 하고 있습니까?
+1117. He has never seen a tiger. _ 그는 호랑이를 본 적이 없다.
+1118. Do you know what he wants? _ 당신은 그가 무엇을 원하는지를 알고 있습니까?
+1119. Please tell me who bought the pen.
+_ 누가 그 펜을 샀는지 저에게 말씀해 주십시오.
+1120. Do you know what he was doing there?
+_ 당신은 그가 거기에서 무엇을 하고 있었는지 알고 있습니까?
+1121. Can you tell me where the post office is?
+_ 우체국이 어디에 있는지 말해 줄 수 있습니까?
+1122. I want to know when she will be back.
+_ 나는 그녀가 언제 돌아올지를 알고 싶습니다.
+1123. I don't know how many books he has.
+_ 그가 얼마나 많은 책을 갖고 있는지 나는 모릅니다.
+1124. I know who sent me this letter.
+_ 나는 이 편지를 누가 나에게 보냈는지 알고 있습니다.
+1125. I don't know if he locked the door. _ 나는 그가 문을 잠궜는지 어떤지를 모른다.
+1126. Can you tell me if he came to Korea yesterday?
+_ 그가 어제 한국에 왔는지 어떤지 말해 줄 수 있습니까?
+1127. I doubt if he got up at six this morning.
+_ 나는 그가 오늘 아침 6시에 일어났는지 어떤지 의심스럽습니다.
+1128. Tell me if he can play soccer.
+_ 그가 축구를 할 수 있는지 어떤지 내게 말해 주시오.
+1129. Who do you think he is? _ 당신은 그가 누구라고 생각합니까?
+1130. Where do you think he went yesterday?
+_ 당신은 그가 어제 어디에 갔다고 생각합니까?
+1131. How old do you think she is? _ 당신은 그녀의 나이가 몇이라고 생각합니까?
+1132. What do you believe they did? _ 당신은 그들이 무엇을 했다고 믿습니까?
+1133. Which way do you suppose they will go?
+_ 당신은 그들이 어느 길로 갈 것이라고 생각합니까?
+1134. Who do you think has broken the window?
+_ 당신은 누가 그 창문을 깼다고 생각합니까?
+1135. How many students do you think there are in this school?
+_ 당신은 얼마나 많은 학생들이 이 학교에 있다고 생각합니까?
+1136. I doubt if it will be fine tomorrow.
+_ 나는 내일 날씨가 좋을지 어떨지 의심스럽습니다.
+1137. Who knows? [ = Nobody knows. ] _ 누가 알겠는가?
+1138. Who can do such a thing? [ = Nobody can do such a thing. ]
+_ 누가 그런 일을 할 수 있겠는가?
+1139. How can I jump so high? [ = I can't jump so high. ]
+_ 어떻게 내가 그렇게 높이 뛸 수 있겠는가?
+1140. What is the use of reading such a book? [ = It is no use reading such a book. ]
+_ 그런 책을 읽는 것이 무슨 소용이 있느냐?
+1141. Who does not desire happiness? [ = Everyone desires happiness. ]
+_ 누가 행복을 바라지 않겠는가?
+1142. Never say such a thing. _ 그런 말을 하지 마라.
+1143. Let him wait for a minute. _ 그에게 잠깐 기다리게 하시오.
+1144. Let her do it at once. _ 그녀에게 그것을 즉시 하도록 시키시오.
+1145. Don't let him go there. _ 그가 거기에 가지 않도록 하시오.
+1146. Let me know as soon as you get there.
+_ 당신이 거기에 도착하는 즉시 나에게 알려 주시오.
+1147. Shall we go to the park after lunch? _ 우리 점심 식사 후에 공원에 갈까요?
+1148. Go back to your seat. _ 네 자리로 돌아가거라.
+1149. How well she speaks English! _ 그녀는 영어를 참 잘하는구나!
+1150. How beautiful she is! _ 그녀는 정말 아름답구나!
+1151. How interesting this story is! _ 이 이야기는 정말 재미있구나!
+1152. How fast he swims! _ 그는 정말로 빨리 수영하는구나!
+1153. What a good camera this is! _ 이것은 얼마나 좋은 카메라인가!
+1154. What kind girls they are! _ 그들은 정말 친절한 소녀들이구나!
+1155. How wise the boy is! _ 그 소년은 얼마나 현명한가!
+1156. May you succeed! _ 부디 성공하기를!
+1157. God bless you! _ 신의 은총이 있기를!
+1158. May she return safe! _ 그녀가 무사히 돌아오기를!
+1159. It was raining and the game was called off. _ 비가 와서 그 게임은 취소되었다.
+1160. Everybody knows that he is honest. _ 그가 정직하다는 것은 모두가 알고 있다.
+1161. I think that she is right, but he says that she is wrong.
+_ 나는 그녀가 옳다고 생각하지만, 그는 그녀가 틀리다고 말한다.
+1162. To tell a lie is wrong. _ 거짓말하는 것은 나쁘다.
+1163. Taking a walk is his only exercise. _ 산책하는 것이 그의 유일한 운동이다.
+1164. Where to build the church is not decided.
+_ 교회를 어디에 지을 것인가는 결정되지 않았다.
+1165. That you are wrong is clear. _ 네가 틀렸다는 것은 명백하다.
+1166. Whether he will come or not does not matter.
+_ 그가 오고 안 오고는 문제가 안 된다.
+1167. To see is to believe. _ 보는 것이 믿는 것이다.
+1168. My aim in life is to become a teacher. _ 내 인생의 목표는 선생님이 되는 것이다.
+1169. This is what I wanted. _ 이것이 내가 원했던 것이다.
+1170. The question is whether we should go or not.
+_ 문제는 우리가 가야 하느냐 가지 말아야 하느냐 하는 것이다.

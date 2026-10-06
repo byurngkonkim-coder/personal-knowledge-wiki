@@ -1,0 +1,394 @@
+---
+title: "[어휘]Vocabulary 22000.md"
+category: "글로벌 어학 & 영어"
+type: "english_learning"
+notebook: "Step-by-Step English Speaking Training Patterns"
+summary: "이 문서는 'Vocabulary 22000'이라는 제목의 포괄적인 **어휘 저장소**로, 영어 단어와 그에 해당하는 한국어 정의 및 동의어를 체계적으로 정리합니다. 이 컬렉션은 두 가지 뚜렷한 섹션으로 구성되어 있습니다. 첫 번째는 **기초 학술 어휘** 목록이며, 이어서 *anthro*, *graph*, *mono*와 같은 **그리스어 및 라틴어 어근**별로 분류된 정교한 단어 분석이 나옵"
+decision_status: "accepted"
+source: "[어휘]Vocabulary 22000.md_소스분석.md"
+source_path: "소스요약/Step-by-Step English Speaking Training Patterns/[어휘]Vocabulary 22000.md_소스분석.md"
+created: 2026-10-02
+converted: 2026-10-02
+status: canonical
+tags:
+  - 영어학습
+  - 영어회화
+  - 영어-어휘-정의
+  - 어원-분석
+  - 한국어-단어-의미
+  - 접두사와-접미사
+  - 학술-언어-연구
+aliases: []
+---
+
+# [어휘]Vocabulary 22000.md
+
+> [!NOTE]
+> **소스 출처**: Step-by-Step English Speaking Training Patterns
+
+---
+
+## 🏷 NotebookLM 자동 태그 (한국어 번역)
+
+**키워드**: 영어 어휘 정의, 어원 분석, 한국어 단어 의미, 접두사와 접미사, 학술 언어 연구
+
+**한줄 요약**
+> 이 문서는 "Vocabulary 22000"이라는 제목의 포괄적인 **어휘 저장소**로, 영어 단어와 그에 해당하는 한국어 정의 및 동의어를 체계적으로 정리합니다. 이 컬렉션은 두 가지 뚜렷한 섹션으로 구성되어 있습니다. 첫 번째는 **기초 학술 어휘** 목록이며, 이어서 *anthro*, *graph*, *mono*와 같은 **그리스어 및 라틴어 어근**별로 분류된 정교한 단어 분석이 나옵니다. **어원학적 접두사와 접미사**를 통해 항목을 분류함으로써, 이 텍스트는 학습자가 근본적인 **언어 구성 요소**를 이해하여 복잡한 용어를 숙달하도록 돕습니다. 궁극적으로 이 자료는 학생의 언어 범위와 고급 영어 산문에 대한 분석적 이해를 확장하도록 설계된 엄격한 **교육 지침서** 역할을 합니다.
+
+---
+
+## 📋 상세 분석 (소스_프롬프트.txt 기반)
+
+---
+title: "[어휘]Vocabulary 22000.md"
+aliases: []
+tags: [source, mcp-extracted]
+type: document
+---
+# 📄 [어휘]Vocabulary 22000.md (Part: 전체)
+
+## 📌 요약 (Executive Summary)
+- 본 문서는 고급 학술 영어 및 공무원․편입․텝스 시험의 필수 관문인 'Vocabulary 22000' 교재의 표제어들과 정확한 한국어 정의, 그리고 괄호 안의 영문 유의어(Synonyms) 정보를 번호순으로 체계화하여 발췌한 고효율 단어록이다 [1-5].
+- 단어 고유의 미세한 뉘앙스를 왜곡 없이 보존하기 위하여 세부 한글 뜻풀이는 물론이고 `astute = shrewd`, `demolish = raze`, `exonerate = clear from accusation` 등 원문 고유의 정밀한 유의어 대칭 매칭 관계를 100% 무손실 상태로 기록하고 있다 [1].
+- 어원과 접두사 및 접미사 규칙에 맞춰 계층화된 단어 분류를 제공하여, 독자가 영단어의 형태학적 결합 구조를 통사적으로 이해하며 자연스럽게 습득할 수 있도록 돕는다 [1-5].
+
+---
+
+## 🧱 상세 분해 (Detailed Breakdown)
+
+### ### 1. 1~65번 표제어 목록 (Words 1 to 65)
+- **핵심 논지**: 일상 사회 활동 묘사, 갈등 관계 조율, 사법 구제 수사, 그리고 집합 및 소집과 관련된 기초 고급 표제어군이다 [1].
+- **근거 및 데이터**:
+  - `1. civilian`: 민간인, 시민 [1]
+  - `2. complicated`: 쉽지 않은, 단순하지 않은 ; 복잡한, 얽히고 설킨(intricate) [1]
+  - `3. concur`: 일치하다(agree) ; 동의하다, 의견이 같다 [1]
+  - `4. confirm`: 사실임을 입증하다; 확인하다(substantiate) [1]
+  - `5. digress`: 길을 잘못 들다; 말하거나 글을 쓸 때 주제에서 벗어나다, 이탈하다 [1]
+  - `6. fragile`: 깨지기 쉬운 (easily broken, breakable); 약한; 무른(frail) [1]
+  - `7. galore`: 많은, 풍부한(plentiful); 풍부한(abundant) [1]
+  - `8. genuine`: 진실한, 정말의 ; 실제의, 진실의; 믿을 만한(authentic) [1]
+  - `9. hostile`: 적의; 적대적인, 비우호적인 [1]
+  - `10. impatient`: 참지 못하는; 조급한; 열망하는 (anxious) [1]
+  - `11. inter`: 묻다(put into the earth or in a grave), 매장하다(bury) [1]
+  - `12. mitigate`: 누그러지게 하다(make less severe); 줄이다(lessen); [1]
+  - `13. novice`: (분야 or 활동에)익숙하지 못한 사람, 초심자(beginner) [1]
+  - `14. original`: n. 원본; a. 초기에 속하는, 맨 처음의, 최초의 [1]
+  - `15. rarity`: 드문 것, 희귀한 것 [1]
+  - `16. resume`: 다시 시작하다, 재개하다 [1]
+  - `17. shrink`: 물러서다(draw back), 퇴각하다(recoil) [1]
+  - `18. sober`: 진지한(serious), 과장하거나 흥분하지 않은 [1]
+  - `19. suffice`: 충분하다(be enough, be adequate, be sufficient) [1]
+  - `20. vacant`: 빈, 공허한(empty); 점유되지 않은(unoccupied), 이용되지 않은 [1]
+  - `21. adjourn`: 회의를 끝내다; 회의를 연기하다; 해산하다(disband) [1]
+  - `22. astute`: 빈틈없는(shrewd); 현명한; 교활한(crafty); 약삭빠른(cunning) [1]
+  - `23. censure`: 비난(act of blaming); 반대(expression of disapproval); 적대적인 비평 [1]
+  - `24. demolish`: 허물다(tear down), 파괴시키다(destroy); 없애다(raze) [1]
+  - `25. discharge`: (짐을) 내리다 (unload) [1]
+  - `26. dissent`: 의견이 다르다, 일치하지 않다, 반대하다(object) [1]
+  - `27. equitable`: (관계된 모든 것에) 공정한 (just) [1]
+  - `28. exonerate`: 비난을 면하게 해주다, 무죄가 되게 하다(clear from accusation) [1]
+  - `29. extemporaneous`: 즉석의(offhand, impromptu), 즉흥적인(improvised) [1]
+  - `30. extricate`: 곤경에서 구해 주다; 엉킨 것을 풀다(disentangle) [1]
+  - `31. forfeit`: (잘못에 대한 벌로)잃다, 포기해하다, 몰수당하다 [1]
+  - `32. illegible`: 읽을 수 없는, 읽기 어려운 [1]
+  - `33. inadvertently`: 고의가 아닌, 무심코, 우연히(unintentionally), 생각 없이(thoughtlessly) [1]
+  - `34. inappropriate`: 어울리지 않는, 부적당한 [1]
+  - `35. lucrative`: 돈벌이가 되는, 유리한 [1]
+  - `36. permanent`: 오래가는(lasting), 지속적인 [1]
+  - `37. prohibit`: 금지하다(forbid), 금하다(ban) [1]
+  - `38. punctual`: 시간대로의(on time), 신속한(prompt) [1]
+  - `39. rebuke`: 불만을 나타내다, 신랄하게 비판하다; 꾸짖다(reprimand) 비난하다(reprove) [1]
+  - `40. transient`: 오래가지 않는(not lasting), 순간적인(momentary); 잠시 머무르는 방문객 [1]
+  - `41. cache`: 은닉처 [1]
+  - `42. commend`: 칭찬하다, 좋게 말하다(mention favorably) [1]
+  - `43. cur`: 쓸모 없는 개, 똥개 [1]
+  - `44. despotic`: 전제군주의(of a despot), 권력을 휘두르는(domineering), 독재적인(dictatorial) [1]
+  - `45. dispute`: 논하다, 토론하다, 문제 삼다(call in question), 반대하다(oppose) [1]
+  - `46. edifice`: (특히 크거나 인상적인) 건물 [1]
+  - `47. era`: 역사상의 시대, 시기(period) [1]
+  - `48. initiate`: 시작하다; (특별한 의식을 거쳐) 입회시키다 [1]
+  - `49. Jolly Roger`: 해적기(pirates' flag) [1]
+  - `50. multitude`: 군중, 다수 [1]
+  - `51. perceive`: (지각을 통해)알게 되다, 깨닫다, 인지하다 [1]
+  - `52. portal`: 문, 입구 [1]
+  - `53. reserved`: 말이나 행동을 삼가는, 말 없는, 내성적인 [1]
+  - `54. restrain`: 말리다, 억제하다(hold back) [1]
+  - `55. retract`: 물러나다, 되찾다, 철회하다(withdraw, take back) [1]
+  - `56. spine`: 등뼈, 척추 [1]
+  - `57. stroll`: 산책 [1]
+  - `58. timorous`: 무서워하는, 겁많은 [1]
+  - `59. tuition`: 교육비, 수업료(payment for instruction) [1]
+  - `60. version`: 설명; 번역(서) (translation) [1]
+  - `61. aggressor`: 싸움을 시작하는 사람 또는 국가, 침략국, 침략자 [1]
+  - `62. altitude`: 높이, 고도 [1]
+  - `63. calamity`: 큰 불행, 큰 재해 [1]
+  - `64. congregate`: 집합하다(assemble), 모이다(gather) [1]
+  - `65. convene`: 소집되다, 특별한 목적 때문에 함께 모여 집단을 이루다. [1]
+- **주요 인용**: > "1. civilian  민간인, 시민
+2. complicated 쉽지 않은, 단순하지 않은 ; 복잡한, 얽히고 설킨(intricate)
+3. concur  일치하다(agree) ; 동의하다, 의견이 같다" [1]
+
+### ### 2. 220~290번 표제어 목록 (Words 220 to 290)
+- **핵심 논지**: 의견의 등가 일치, 사적인 갈등 및 소송, 식생활 및 수량 측정 지표, 강인함과 나태함의 태도 대비와 관련한 기출 어휘군이다 [2].
+- **근거 및 데이터**:
+  - `220. correspond`: 일치하다, 조화를 이루다; 어울리다 [2]
+  - `221. dovetail`: 들어맞다(interlock with) [2]
+  - `222. reconcile`: 화해시키다; 조화를 되찾다 [2]
+  - `223. relent`: 누그러지다(become less harsh, severe or strict); 양보하다(yield) [2]
+  - `224. altercation`: 말다툼, 논쟁, 언쟁(quarrel, wrangle) [2]
+  - `225. antagonize`: 적대시하다, 적대감을 일으키다 [2]
+  - `226. cleavage`: 분열(split, division) [2]
+  - `227. discord`: 불일치, 충돌, 불화(conflict, dissension), 다툼(strife) [2]
+  - `228. discrepancy`: 차이(difference), 불일치(disagreement, variation, inconsistency) [2]
+  - `229. dissent`: 의견이 다르다; 일치하지 않다; 반대하다(object) [2]
+  - `230. embroil`: 분쟁에 끌어들이다 [2]
+  - `231. estrange`: 갈라서다(separate); 이간하다(alienate), 틀어지게 하다 [2]
+  - `232. friction`: (의견)충돌, 불일치, 마찰 [2]
+  - `233. irreconcilable`: 화해할 수 없는, 조화시킬 수 없는(not reconcilable) [2]
+  - `234. litigation`: 소송, 고소(lawsuit) [2]
+  - `235. at variance`: 일치하지 않는, 사이가 좋지 않은(at odds) [2]
+  - `236. wrangle`: (큰소리로)다투다, 싸우다 [2]
+  - `237. condiment`: 조미료, 양념(seasoning) [2]
+  - `238. devour`: 게걸스럽게 먹다(eat up greedily) [2]
+  - `239. edible`: 소화하기에 적합한; 먹을 수 있는; 독이없는 [2]
+  - `240. glutton`: 대식가 [2]
+  - `241. luscious`: 맛좋은(delicious, juicy and sweet) [2]
+  - `242. palatable`: 입맛에 맞는; 만족한 [2]
+  - `243. slake`: (갈증 따위를) 풀다(quench) [2]
+  - `244. succulent`: 즙이 많은 [2]
+  - `245. voracious`: 게걸스럽게 먹는(gluttonous) [2]
+  - `246. colossal`: 거대한, 막대한; 광대한 [2]
+  - `247. commodious`: 널고 편안한; 여유가 있는, 널찍한(roomy, ample) [2]
+  - `248. gamut`: 전 범위, 전역 [2]
+  - `249. infinite`: 무한한(boundless) [2]
+  - `250. infinitesimal`: 극히 작은, 아주 작은(very minute) [2]
+  - `251. inflate`: 부풀게 하다, 팽창시키다(expand, puff up) [2]
+  - `252. inordinate`: 지나친(excessive); 지나치게 큰; 무절제한, 엄청난(immoderate) [2]
+  - `253. iota`: 아주 작은 양, 작은 조각(bit) [2]
+  - `254. magnitude`: 크기, 큼(size); 위대함; 중요함 [2]
+  - `255. picayune`: 사소한(petty) [2]
+  - `256. pittance`: 하찮은 임금이나 수당; 적은 양 [2]
+  - `257. puny`: 약한, 하찮은(insignificant) [2]
+  - `258. superabundance`: 매우 풍부함, 과잉(surplus, excess) [2]
+  - `259. debilitate`: 쇠약하게 하다, 약하게 하다 [2]
+  - `260. decadent`: 쇠퇴해 가는, 쇠퇴하는(falling off, declining, deteriorating) [2]
+  - `261. decrepit`: 낡은(worn out) [2]
+  - `262. dilapidated`: 쇠퇴한, 허물어진 [2]
+  - `263. enervate`: 약화시키다, 약하게 하다(enfeeble) [2]
+  - `264. flimsy`: 약한(frail, unsubstantial) [2]
+  - `265. frail`: 허약한 [2]
+  - `266. incapacitate`: 무능하거나 부적당하게 하다; 쓸모없게 만들다, 무능하게 하다 [2]
+  - `267. infirmity`: 허약, 약함(feebleness); 무름, 약점(frailty) [2]
+  - `268. bulwark`: 방어물(rampart, defense) [2]
+  - `269. citadel`: 요새(fortress); 성채, 아성(stronghold) [2]
+  - `270. cogent`: 강력한(forcible); 강요하는, 강제적인(compelling); 감동시키는, 설득력 있는 [2]
+  - `271. dynamic`: 활동적인, 적극적인; 힘센, 힘이 있는 [2]
+  - `272. formidable`: (힘, 크기, 어려움 따위로 인해)무서운; 극복하기 어려운; 두려워하는 [2]
+  - `273. forte`: 장점; 특기 [2]
+  - `274. impregnable`: 정복할 수 없는(unconquerable, invincible); 난공 불락의 [2]
+  - `275. invigorate`: 격려하다, 고무하다(animate); 강하게 하다, 힘을 돋우다(strengthen) [2]
+  - `276. robust`: 힘있고 강한, 원기 왕성한, 건강한(vigorous);튼튼한, 억센(sturdy);건전한(sound) [2]
+  - `277. tenacious`: 단단하게 붙잡는; 힘센; 격렬한(violent); 사나운, 맹렬한(furious) [2]
+  - `278. vehement`: 강한 감정을 나타내는; 힘센; 격렬한; 사나운 [2]
+  - `279. vigor`: 활력; 힘; 세력; 활기 [2]
+  - `280. default`: 태만(neglect, negligence); 제때 지불하지 않거나 나타내지 않다 [2]
+  - `281. heedless`: 부주의한(inattentive, thoughtless, unmindful); 분별없는, 무모한(reckless) [2]
+  - `282. ignore`: 주의를 기울이지 않다(refuse to take notice of); [2]
+  - `283. inadvertent`: 부주의한(heedless) [2]
+  - `284. neglect`: 주위를 기울이지 않다, 방치하다(leave undone), 무시하다; [2]
+  - `285. remiss`: 부주의한, 태만한; 소홀한, 미지근한(lax) [2]
+  - `286. slovenly`: (옷, 습관, 일하는 태도 따위가) 단정하지 못한(sloppy); 초라한(slipshod) [2]
+  - `287. discreet`: 신중한(wisely caution) [2]
+  - `288. heed`: 주의하다(take notice of), 조심하다(mind) [2]
+  - `289. meticulous`: (사소한 일에 지나치게)주의를 기울이는; 까다로운, 법석을 떠는(fussy) [2]
+  - `290. scrutinize`: 세밀히 조사하다; 검사하다(inspect) [2]
+- **주요 인용**: > "224. altercation 말다툼, 논쟁, 언쟁(quarrel, wrangle)
+225. antagonize  적대시하다, 적대감을 일으키다
+226. cleavage  분열(split, division)" [2]
+
+### ### 3. 436~506번 표제어 목록 (Words 436 to 506)
+- **핵심 논지**: 시간의 순차성(Prefix: ante-, post-), 공간의 기하학적 형태(bi-, semi-), 방향성 제어(ex-, im-), 내부 동향(intra-) 및 반대·대조 작용(contra-, counter-, inter-) 등을 뜻하는 접두사 기준 단어군이다 [3].
+- **근거 및 데이터**:
+  - `436. advent`: 접근, 도착, 도달 [3]
+  - `437. adversary`: 상대자, 대항자(contestant); 적(foe) [3]
+  - `438. adverse`: 불리한, 불길한(unfavorable); 적대적인(hostile) [3]
+  - `439. antecedents`: 조상, 선조 [3]
+  - `440. antedate`: 1. 실재 날짜보다 앞선 날짜를 지정하다 2. 날짜가 앞서다, 선행하다(precede) [3]
+  - `441. postdate`: 날짜를 실제보다 늦추어 정하다 [3]
+  - `442. ante meridiem`: 오전 [3]
+  - `443. post meridiem`: 오후 [3]
+  - `444. anteroom`: 대기실 [3]
+  - `445. postgraduate`: 졸업 후의 [3]
+  - `446. postmortem`: 검시(autopsy), 사체에 대한 철저한 검사 [3]
+  - `447. postscript`: 추신, P.S. [3]
+  - `448. bicameral`: 양원으로 구성되어 있는 [3]
+  - `449. bicentennial`: 2백주년 기념일 [3]
+  - `450. biennial`: 2년마다 일어나는 [3]
+  - `451. semiannual`: 반년마다, 1년에 두 번 일어나는, 반년마다의(semiyearly) [3]
+  - `452. bimonthly`: 두 달마다의 [3]
+  - `453. semimonthly`: 보름마다, 한달에 두 번 일어나는 [3]
+  - `454. bilateral`: 양측의, 두 면이 있는 [3]
+  - `455. bilingual`: 1. 2개 국어를 똑같이 잘 하는 2. 2개 국어로 쓰인 [3]
+  - `456. bipartisan (bipartizan)`: 두 정당을 대표하는 [3]
+  - `457. bisect`: 둘로 똑같이 자르다 [3]
+  - `458. semicircle`: 반원 [3]
+  - `459. semiconscious`: 의식이 완전하지 않은(not fully conscious), 반쯤 의식이 있는 [3]
+  - `460. semidetached`: 부분적으로 떨어진 [3]
+  - `461. semiskilled`: 반숙련의, 부분적으로 숙련된 [3]
+  - `462. emigrate`: 이주하다 [3]
+  - `463. immigrate`: 이주해오다, 외국이나 외지로 들어오다 [3]
+  - `464. eminent`: 현저한, 저명한, 주목할 만한(noteworthy), 두드러진, 눈에 띄는, 특징적인 [3]
+  - `465. imminent`: 임박한, 절박한(impending), 막 일어나려 하는, 급작스럽게 코앞에 닥친 [3]
+  - `466. enervate`: 약화시키다, 약하게 하다, 무기력하게 하다 [3]
+  - `467. erosion`: 부식, 침식 [3]
+  - `468. evoke`: 불러일으키다; 이끌어내다(elicit) [3]
+  - `469. invoke`: 도움이나 보호를 청하다, 지원을 간청하다 [3]
+  - `470. excise`: 잘라내다, 삭제하다(cut out); 베어 없애다 [3]
+  - `471. incise`: 파들어가다(cut into), 새기다(carve), 조각하다(engrave) [3]
+  - `472. exclusive`: 1. 배타적인 2. 독점적인(single), 유일한(sole) [3]
+  - `473. inclusive`: (이미 이야기된 한계 날짜, 숫 등을) 포함하는 [3]
+  - `474. exhibit`: 보이다; 진열하다 [3]
+  - `475. inhibit`: 막다, 저지하다; 제지하다, 금하다(restrain); 억누루다, 억제하다(repress) [3]
+  - `476. expel`: 몰아내다(drive out), 쫓아내다(force out), 추방하다(compel to leave) [3]
+  - `477. impel`: 강요하다(drive on), 억지로 시키다, 강제하다(compel) [3]
+  - `478. implicate`: 관련시키다, 포함하다(involve) [3]
+  - `479. impugn`: 제기하다; 말이나 논증에 의해 공박하다; 배격하다; 반박하다, 부정하다(contradict) [3]
+  - `480. incarcerate`: 감금하다(confine, imprison), 감옥에 넣다 [3]
+  - `481. inscribe`: (영원한 기록을 위해)쓰다․새기다(engrave)․인쇄하다 [3]
+  - `482. insurgent`: 1. 반란자(rebel) 2. 반항적인(rebellious) [3]
+  - `483. extracurricular`: 과외의, 정규과목 이외의 [3]
+  - `484. extraneous`: 비본질적인(not essential), 외부의 [3]
+  - `485. extravagant`: 1. 사리에 맞지 않는, 엉뚱한; 지나친(excessive) [3]
+  - `486. intramural`: 교내의; (학교나 대학 등의)구성원에 한하는 [3]
+  - `487. intraparty`: 당 내늬(within a party) [3]
+  - `488. intrastate`: 주 내의(within a state) [3]
+  - `489. intravenous`: 정맥 내의; 정맥을 경유하여 [3]
+  - `490. con (※contra 의 축약형)`: 1. ～에 반대하여(against), 반대편에서 [3]
+  - `491. contraband`: 밀수품(smuggled goods) [3]
+  - `492. contravene`: 위반하다(violate), 무시하다(disregard), 침해하다(infringe) [3]
+  - `493. controversy`: 논쟁(dispute), 토론(debate), 말다툼 [3]
+  - `494. counter`: 반대로, 반대 방향으로 [3]
+  - `495. countermand`: (반대명령을 내려서 어떤 명령을)취소하다 [3]
+  - `496. incontrovertible`: 확실한 [3]
+  - `497. intercede`: 간섭하다, 중재하다(mediate, intervene); 대신 변론하다 [3]
+  - `498. intercept`: 중간에서 잡다, 멈추게하다, 붙잡다 [3]
+  - `499. interlinear`: 행간에 쓴, 이미 인쇄되었거나 쓰여진 줄 사이에 적어 넣은 [3]
+  - `500. interlude`: 두 사건 중간의 시간을 메우는 것; 틈, 막간(interval) [3]
+  - `501. intermediary`: 매개자, 중재자(mediator) [3]
+  - `502. intermission`: (활동 시간 사이의)휴식, 휴지기; 중단, 중지(interruption) [3]
+  - `503. intersect`: 횡단하다, 교차하다(cross), 가르다(divide) [3]
+  - `504. interurban`: 도시 사이에 [3]
+  - `505. intervene`: 1. 사이에 오다 2. 중재하다(intercede), 조정하다 [3]
+  - `506. illegible`: 읽기 어려운(not legible), 판독할 수 없는 [3]
+- **주요 인용**: > "464. eminent 현저한, 저명한, 주목할 만한(noteworthy), 두드러진, 눈에 띄는, 특징적인
+465. imminent 임박한, 절박한(impending), 막 일어나려 하는, 급작스럽게 코앞에 닥친" [3]
+
+### ### 4. 648~734번 표제어 목록 (Words 648 to 734)
+- **핵심 논지**: 언어 기호(liter-), 가독성(luc-), 가치 판정(pend-), 조화 및 유동성(sol-, solv-), 진실 증명(ver-) 및 정체 통치 체계(cracy)를 구조화한 핵심 단어장 종결 목록이다 [4, 5].
+- **근거 및 데이터**:
+  - `648. unilateral`: 일방적인, 한쪽으로 치우친 [4]
+  - `649. alliteration`: 두운(법), 뒤따라오는 단어들의 첫머리에 같은 철자나 자음이 반복되는 것 [4]
+  - `650. literacy`: 읽고 쓰는 능력 [4]
+  - `651. literal`: 문자 그대로의 [4]
+  - `652. literary`: 문학의, 글이나 문학에 관련있는 [4]
+  - `653. literate`: 학식 있는, 읽고 쓸 수 있는, 교육을 받은 [4]
+  - `654. elucidate`: 설명하다, 명백히 하다 [4]
+  - `655. lucid`: 명백한; 이해하기 쉬운 [4]
+  - `656. luminary`: 유명한 사람 [4]
+  - `657. luminous`: 빛나는, 밝은 [4]
+  - `658. translucent`: 반투명의 [4]
+  - `659. emancipate`: 벗어나게 하다, 해방하다(liberate, set free) [4]
+  - `660. manacle`: 수갑, 구속, 속박(handcuff) [4]
+  - `661. mandate`: 1. 위임 통치령, 다른나라의 통치에 맡겨진 영토 2. 명령, 지령 [4]
+  - `662. manipulate`: 손으로 조작하다, 솜씨 있게 다루거나 처리하다 [4]
+  - `663. manual`: 1. 손에 들고 다닐 수 있는 작고 유용한 책, 소책자, 편람, 안내서(handbook) [4]
+  - `664. manuscript`: 원고, 손으로 쓰여졌거나 타자된 서류 [4]
+  - `665. append`: 붙이다(attach); 보충하다 [4]
+  - `666. appendix`: 부록, 부속물 [4]
+  - `667. impending`: 임박한(imminent), 절막한 [4]
+  - `668. pendant`: 장신구 [4]
+  - `669. pending`: 1. 미결의, 아직 결정되지 않은, 해결되기를 기다리는 2.～할 때까지(untill) [4]
+  - `670. suspend`: 1. (어떤 것에 붙어서)매달리다 2. 일시적으로 멈추다, 한동안 중단시키다, 보류하다 [4]
+  - `671. suspense`: 정신적인 불안, 걱정(anxiety) [4]
+  - `672. depose`: 내쫓다, 해고하다, 폐위시키다(dethrone) [4]
+  - `673. impose`: 과하다, 맡기다, 강요하다(inflict); 짐․세금․의무 따위를 부과하다 [4]
+  - `674. postpone`: 연기하다, 지연시키다 (defer, delay) [4]
+  - `675. superimpose`: 꼭대기나 위에 놓다, 추가로 붙이다, 첨가하다 [4]
+  - `676. transpose`: (순서를) 바꾸다, 교체하다 [4]
+  - `677. conscript`: 뽑다, 선발하다, 징집하다(draft); 강제로 병적에 올리다(기록하다) [4]
+  - `678. inscription`: 비석․동전 따위에 새기진(써 넣은) 것, 비문 [4]
+  - `679. prescribe`: 1. 명령하다, 규정하다 지시하다(dictate) 2. 처방하다(order as a remidy) [4]
+  - `680. scribe`: 글을 쓰는 사람, 저자(author); 기자, 작가 [4]
+  - `681. script`: 각본, 대본 [4]
+  - `682. subscriber`: 서명자, 찬성자, 응모자 [4]
+  - `683. assimilate`: 1. 동화하다 2. 흡수하다(absorb) [4]
+  - `684. dissimilar`: 다른(different), 같지 않은(heterogeneous) [4]
+  - `685. similarity`: 비슷함, 같음(likeness) [4]
+  - `686. simile`: 직유(“～같은”또는“～처럼”을 사용해서 비유함) [4]
+  - `687. simulate`: ～인 체하다, 가장하다(feign), 모방하다(imitate) [4]
+  - `688. simultaneous`: 동시의(concurrent), 동시에 존재하거나 발생하는 [4]
+  - `689. desolate`: 1. 외롭게 하다; 주민을 없애다(deprive of inhabitants); 황폐하게 하다 [4]
+  - `690. sole`: 오직 하나의, 유일한 [4]
+  - `691. soliloquy`: 독백 [4]
+  - `692. solitary`: 외로운 [4]
+  - `693. solitude`: 혼자 있음, 외로움(loneliness), 은둔(seclusion) [4]
+  - `694. solo`: 독창, 독주곡 [4]
+  - `695. absolute`: 절대적인; 독재적인(autocratic); 전제의, 횡포한(despotic) [4]
+  - `696. dissolution`: 분열, 분해(disintegration); 파멸, 몰락(ruin); 파괴, 분쇄 [4]
+  - `697. dissolve`: 1. 해산시키다, 분해시키다 2. 사라지게 하다, 끝내다 [4]
+  - `698. resolution`: 해결, 해명, 해답 [4]
+  - `699. resolve`: 해체하다, 해산시키다; 풀다, 해결하다(solve); 설명하다(explain); [4]
+  - `700. soluble`: 1. 해결할 수 있는 2. 분해되거나 액체로 될 수 있는 [4]
+  - `701. solvent`: 1. 용매 *solution: 용액, solute: 용질 2. 지불능력이 있는 [4]
+  - `702. abound`: 풍부하다, 충만하다 (teem) [4]
+  - `703. abundant`: 충분한 것 이상의, 풍부한(plentiful) [4]
+  - `704. inundate`: 범람하다(flood), 넘쳐 흐르다(overflow), 홍수나게 하다(deluge); [4]
+  - `705. redound`: 결과로서 되돌아오다; 이바지하다, 기부하다(contribute) [4]
+  - `706. redundant`: 불필요한, 남는 (superfluous); 과잉의 [4]
+  - `707. aver`: 사실이라고 진술하다, 자신있게 증언하다; 단언하다, 주장하다(assert) [4]
+  - `708. veracity`: (사람들의) 진실성, 정직성 [4]
+  - `709. verdict`: (배심원의) 결정, 평결, 의견, 판단 [4]
+  - `710. verify`: 진실임을 입증하다, 확증하다(confirm), 구체화하다(substantiate), 확실히 하다(corroborate) [4]
+  - `711. veritable`: 진실의(true), 실제의(actual), 사실의; 믿을 만한, 진정한 (authentic) [4]
+  - `712. verity`: 진실, 진실한 말, 사실 [4]
+  - `713. envision`: 예견하다(foresee), 상상하다(envisage) [4]
+  - `714. improvise`: 즉석에서(즉흥적으로) 짓다, 얘기하다, 노래하다 [5]
+  - `715. invisible`: 보이지 않는 [5]
+  - `716. revise`: 개정하다, 검토해서 좋게 하다, 교정하다 [5]
+  - `717. video`: 영상의(having to do with the transmission or reception of what is seen) [5]
+  - `718. visibility`: 맑은 정도, 투시도, 가시도 [5]
+  - `719. visual`: 시각의, 시각과 관계 있는 [5]
+  - `720. authentic`: 진짜의(genuine), 확실한(reliable), 진실의 [5]
+  - `721. autobiography`: 자서전 [5]
+  - `722. autocrat`: 전제군주, 독재자 (despot) [5]
+  - `723. autograph`: 자필 서명 [5]
+  - `724. automatic`: 자동의, 스스로 조절하는 [5]
+  - `725. automation`: 자동(화), 어떤 과정을 자동으로 조작되게 하는 기술 [5]
+  - `726. autonomous`: 자치의, 자율의 (self-governing); 독립의 [5]
+  - `727. autonomy`: 자치(권) [5]
+  - `728. autopsy`: 사체검사, 검시(postmortem examination) [5]
+  - `729. aristocracy`: 1. 귀족국가 2. 귀족(nobility), 특권층(privileged class) [5]
+  - `730. autocracy`: 독재정치 [5]
+  - `731. bureaucracy`: 관료정치 [5]
+  - `732. democracy`: 민주정치 [5]
+  - `733. plutocracy`: 금권정치, 부호정치(government by the rich) [5]
+  - `734. technocracy`: 기술가 정치, 기술 전문가에 의해 통치되는 정치나 국가 [5]
+- **주요 인용**: > "726. autonomous 자치의, 자율의 (self-governing); 독립의
+727. autonomy  자치(권)
+728. autopsy  사체검사, 검시(postmortem examination)" [5]
+
+---
+
+## 💡 주요 용어 (Key Terminology)
+
+- **Civilian**: 민간인, 시민. 군대나 경찰 등의 공무 조직에 소속되어 있지 않은 순수 무력 행사 비 대상자 [1].
+- **Astute**: 빈틈없는(shrewd), 현명한, 교활한(crafty) 상태. 사리 판단 능력이 날카롭고 교묘하여 실리가 밝은 성품을 뜻함 [1].
+- **Censure**: 비난(act of blaming). 어떠한 행위나 이념에 반대하는 강력한 비평적 표현이자 공적인 공식 비토 [1].
+- **Exonerate**: 무죄 선고하다. 법적인 비난이나 공소 제기(accusation) 상태에서 피의자의 혐의를 말끔히 벗겨 주는 조치 [1].
+- **Bipartisan**: 양당(兩黨)을 대표하는. 상반되는 정견을 지닌 두 개의 유력 정치 연합이 초당파적으로 연대하는 양상 [3].
+- **Incarcerate**: 감금하다. 특정한 신체를 감옥(imprison)에 수감하여 이동 능력을 물리적으로 격리 제어하는 것 [3].
+- **Autonomy**: 자치(권), 자율. 타자의 직접적인 간섭에서 탈피하여 주체적으로 조직이나 지리를 독자 운영할 권리 [5].
+
+---
+
+*source: NotebookLM / Step-by-Step English Speaking Training Patterns*

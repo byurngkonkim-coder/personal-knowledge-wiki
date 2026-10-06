@@ -1,0 +1,800 @@
+# Adjective expressions and corresponding examples.md
+
+> [!NOTE]
+> **소스 출처**: Step-by-Step English Speaking Training Patterns
+
+---
+
+## 🏷 NotebookLM 자동 태그 (한국어 번역)
+
+**키워드**: 형용사 어휘, 영어 예시, 한국어 번역, 묘사적 언어, 문맥상 용법
+
+**한줄 요약**
+> 이 문서는 필수적인 영어 형용사 표현과 그에 상응하는 한국어 의미 및 실제 대화 예시를 짝지어 놓은 포괄적인 어휘 가이드 역할을 합니다. 이 텍스트는 신체적 묘사 및 성격 특성부터 빈도, 신뢰성, 감정 상태와 같은 더 추상적인 개념에 이르기까지 범주화된 어휘 목록으로 구성되어 있습니다. "skinny", "slim", "slender"를 구별하는 것과 같이 미묘한 동의어를 제공함으로써, 이 자료는 학습자들이 일상생활에서 사용되는 단어의 미묘한 함축적 의미를 숙달하도록 돕는 것을 목표로 합니다. 궁극적으로 이 자료의 목적은 특정 형용사가 일상 대화 및 사회적 상호 작용의 맥락에서 자연스럽게 기능하는 방식을 보여줌으로써 언어 유창성을 향상시키는 것입니다.
+
+---
+
+## 📋 상세 분석 (소스_프롬프트.txt 기반)
+
+---
+title: "Adjective expressions and corresponding examples.md"
+aliases: []
+tags: [source, mcp-extracted]
+type: document
+---
+# 📄 Adjective expressions and corresponding examples.md (Part: 전체)
+
+## 📌 요약 (Executive Summary)
+- 본 문서는 일생활 영어 회화에서 원어민들이 상태, 성격, 형상, 규범, 시간, 공간, 가치 등을 명료하고 미세하게 형용하기 위해 가장 상시적으로 구사하는 핵심 형용사 표현 240여 개와 그에 상응하는 실제 대화형 한영 번역 정위 예문쌍을 총망라한 실무 사교 영어 데이터베이스이다.
+- 단순 어휘의 기계적 암기를 지양하고, 'slim'과 'skinny'의 미묘한 어감 차이, 'decent'의 다각적 문맥 의미, 'corny'와 'cheesy'의 오글거리는 정서 지칭, 'fussy'와 'picky'의 성격상 까다로움 분기, 그리고 'used'와 'secondhand' 등의 실전 회화용 구어 정합 규칙을 풍성하고 조밀한 실전 대화 가이드를 통해 상세히 규명한다.
+- 무손실 추출 엔진 원칙에 철저히 기하여 원형 원고가 소지한 특유의 자형 일탈, 누락, 기호 및 비정형적 타이포 오타 정위쌍(예: 'what'size', 'are you serious?', 'please make it rare!', 'clumsy?'의 물음표, 'i feel a littley after an intense work'의 뻐근한 느낌 오타, 'don't be so clumsy?', 'friend (casual friend의 일부)', 'is (this is complex problem의 일부)', 'mind (narrow mind의 일부)', 'chicky' 등의 원어 오탈자)을 일절 왜곡하거나 누락하지 않고 100% 원형대로 고수하여 보존 전사한다.
+
+---
+
+## 🧱 상세 분해 (Detailed Breakdown)
+
+### ### 1. 신체 성격 및 감정/인성 특성 형용 표현군 (Physique, Personality & Emotional Traits)
+- **핵심 논지**: 사람의 유일무이한 신체적 고유성, 체형의 마르고 날씬함, 성격적 까다로움과 인내성, 그리고 다차원적인 감정적 기복 상태를 규명하는 영한 발화쌍을 정립한다.
+- **근거 및 데이터**:
+  - **(고유한) unique**
+    - 사람은 누구나 고유한 지문을 갖고 있습니다. / *everyone has a unique fingerprint* [22, 298, 335]
+  - **(날씬) slim**
+    - 어떻게 그렇게 날씬한 몸매를 유지하세요? / *How do you manage to stay so slim!* [22, 298, 335]
+    - (대화 형태) A: 슬한테 딱 어울리는 옷이네. B: 너무 날씬해 보여. / A: *it's just perfect for you* B: *you look so slim* [22, 298, 335]
+  - **(까다로운) picky**
+    - (대화 형태) A: 저녁으로 뭐 드시고 싶으세요? B: 아무거나요. 전 입맛이 까다롭지 않거든요. / A: *what would you like for dinner?* B: *anything i'm not picky* [22, 298, 335]
+  - **(마른) skinny**
+    - 그녀는 편식을 해서 마른 편이에요. / *She's picky about food and she's kind of skinny* [23, 299, 336]
+    - (대화 형태) A: 체중을 좀 늘려야 할 것 같습니다. B: 너무 마르신 것 같아요. / A: *you should put on some weight* B: *you look a little too skinny* [23, 299, 336]
+  - **(까탈스러운) fussy**
+    - 그는 참 까탈스러운 성격이에요. / *He is so fussy!* [23, 299, 336]
+  - **(치명적인) fatal**
+    - 그는 치명적인 교통 사고에서 살아남았어요. / *Survived a fatal car crash* [23, 299, 336]
+  - **(기분 좋은) agreeable**
+    - 그는 함께 일하기 좋은 사람이에요. / *He is an agreeable person to work with* [23, 299, 336]
+  - **(기쁜) Glad, Happy**
+    - 뵙게 돼서 정말 기뻐요. / *I'm so glad to see you* [23, 299, 336]
+    - 얼마나 기쁜지 말로 표현할 수가 없어. / *I can't tell you how happy I am* [23, 299, 336]
+    - (대화 형태) A: 됐네. B: 내가 다 기쁘다. / A: *that's great* B: *i'm so happy for you!* [23, 299, 336]
+  - **(더 좋은) better**
+    - (대화 형태) A: 서둘러야 해. B: 안 그러면 늦을 거야. / A: *you'd better hurry* B: *or you'll be late?* [24, 300, 336] (※ 물음표 기호 원형 보존)
+  - **(죽은) dead**
+    - 배터리가 다 됐어요. / *My battery is dead* / *The battery is dead* [24, 300, 336, 337]
+  - **(중고의) used**
+    - 저는 작년에 중고차를 샀어요. / *I bought a used car last year* [24, 300, 337]
+  - **(모든) entire**
+    - 하루 종일 집 청소를 했어요. / *I spent the entire day cleaning my house* [24, 300, 337]
+  - **Dignified**
+    - 이건 품이 없는 행동이에요. / *This is not dignified behavior* [24, 300, 337]
+  - **Filthy**
+    - 그의 거실은 정말 지저분했어요. / *His living room was really filthy* [24, 300, 337]
+    - (Filthy rich) 그는 엄청난 부자예요. / *He is filthy rich* [24, 300, 337]
+  - **(이상한) odd, weird, nutty**
+    - 그냥 기분이 참 이상해요. / *It just feels really odd* [24, 300, 337]
+    - (대화 형태) A: 그 여자 정말 깬다. B: *she's really weird* [24, 300]
+    - (대화 형태) A: 이거 맛이 정말 이상해. B: *this tastes really weird* [25, 301]
+    - 지금 기분 되게 이상하네요. / *I feel weird now* [25, 301]
+    - 그는 약간 괴자예요. / *He's a little nutty* [25, 301] (※ '괴자' 타이포 보존)
+  - **(어떤) any**
+    - (대화 형태) A: 질문 있으신가요? B: *do you have any questions?* [25, 301, 337]
+  - **(푹신푹신한) fluffy**
+    - 소파가 푹신푹신해요. / *The sofa is so fluffy* [25, 301, 337]
+  - **(우아한) graceful, Elegant**
+    - 그녀는 춤출 때 정말 우아해요. / *She is so graceful when she dances* [25, 301, 337]
+    - (대화 형태) A: 그렇게 입으니까 우아해 보여. B: *you look elegant dressed like that* [25, 301, 338]
+  - **Stylish**
+    - (대화 형태) A: 그렇게 입으니까 정말 세련돼 보여. B: *it makes you look very stylish* [25, 301, 338]
+  - **(너그러운) generous**
+    - 그는 정말 마음이 넓은 사람이에요. / *He is very generous* [25, 301, 338]
+  - **(큰) large, gigantic, giant, huge, big**
+    - (대화 형태) A: 어떤 사이즈로 할까요? B: 큰 거로 주세요. / A: *what'size would you like?* B: *i'll take a large* [25, 301, 338] (※ 'what'size' 오기 유지)
+    - 도시에 거대한 괴물이 나타났어요. / *a gigantic monster appears in the city* [55, 342, 711]
+    - 바다에 거대한 고래가 나타났어요. / *a giant whale appeared in the ocean* [170, 620]
+    - (대화 형태) A: 진짜 크네요. B: *it's really huge* [170, 620]
+    - 그들은 큰 개를 입양했어요. / *they adopted a big dog* [170, 621]
+    - (대화 형태) A: 걱정하지 마. B: 별거 아니야. / A: *don't worry* B: *that's not a big deal* [170, 621]
+  - **(진지한) serious, Intense**
+    - (대화 형태) A: 진심이야? B: *are you serious?* [26, 302, 338]
+    - (대화 형태) A: 너무 심각해 하지 마. B: 너 진지한 것 같아. / A: *lighten up* B: *your to intense* [26, 302] (※ 'your to intense' 오기 유지)
+    - 격한 운동을 했더니 몸이 좀 뻐그해요. / *i feel a littley after an intense work* [26, 302] (※ '뻐그해요', 'littley' 타이포 복구 전사)
+    - (대화 형태) A: 굉장하네요. B: *intense* [26, 302]
+    - 완전 힘들었어요. / *it's been intense* [26, 302]
+  - **(좋은) good, nice, fine, cool**
+    - 좋은 소식이 있어. / *I've got good news* [26, 302, 338]
+    - 그는 정말 좋은 사람이에요 항상 남을 도울 준비가 되어 있어요. / *He is a very nice person always ready to help others* [26, 302, 340]
+    - (대화 형태) A: 오늘 좀 어때요? B: 괜찮아요. / A: *how are you feeling today?* B: *i'm feeling fine thank you* [26, 302]
+    - 그녀는 수술 후에 괜찮아 보였어요. / *She looked fine after the surgery* [26, 302]
+    - 의사는 아기가 건강하다고 말했어요. / *The doctor said the baby is fine* [26, 302]
+    - 오늘 날씨가 좋네요. / *Weather is fine today* [27, 303]
+    - (대화 형태) A: 너 오늘 정말 멋져 보여. B: *you look fine today* [27, 303]
+    - (대화 형태) A: 아주 좋아. B: 마음에 들어. / A: *that's cool* B: *I love it* [27, 303]
+    - (침착한 의미로) 침착하세요. / *Keep a cool head* [27, 303]
+  - **(확실한) sure, certain**
+    - (대화 형태) A: 확실해? B: *are you sure?* [27, 303, 338]
+    - 확실진 않아요. / *I can't be certain* [27, 303] (※ '확실진' 오기 유지)
+    - (대화 형태) A: 확신할 수 있어요. B: *i'm certain of it* [27, 303]
+  - **Patient**
+    - (대화 형태) A: 인내심을 가져야 될 거야. B: *please be patient* B: *everything will work out* [27, 303, 338]
+  - **(사랑스러운) adorable**
+    - 그녀는 정말로 사랑스러워요. / *She's so adorable* [27, 303, 339]
+  - **(드문) rare**
+    - 이렇게 눈이 많이 내리는 건 드문 일이에요. / *It's rare to have such heavy snowfall* [27, 303, 339]
+  - **(살짝 익힌) rare**
+    - (대화 형태) A: 스테이크는 어떻게 해 드릴까요? B: 살짝 익혀 주세요. / A: *how would you like your steak cooked?* B: *please make it rare* [27, 303, 339]
+  - **(결석한) absent**
+    - 어제는 열이 나서 결석했어요. / *i was absent yesterday because I had a fever* [52, 339]
+  - **(비어 있는) empty, vacant**
+    - 그는 절대 빈말을 할 사람이 아니에요. / *He never says empty words* [52, 339]
+    - 비 때문에 경기장이 텅 비었어요. / *the stadium was empty because of the rain* [52, 339]
+    - 이 집은 1년 동안 비어 있었어요. / *this house has been vacanted for a year* [55, 327] (※ 'vacanted' 오기 유지)
+  - **(혼잡한) crowded, busy**
+    - 출퇴근 시간에는 지하철이 너무 혼잡해요. / *the subway is so crowded during rush hour* [52, 339]
+    - 지하철은 출근 시간에 항상 붐벼요. / *the subway is always crowded during rush hour* [53, 340]
+    - 오늘 하루 종일 바빴어요. / *i've been busy all day* [170, 620]
+  - **(많은) many, abundant**
+    - 저는 유럽의 많은 나라들을 방문했어요. / *i have visited many countries in Europe* [53, 340]
+    - 이 지역은 풍부한 천연 자원으로 유명해요. / *this region is known for its abundant natural resources* [177, 943]
+  - **(둘 다) both**
+    - 저는 동생 둘 다 외국에 살아요. / *both of my siblings live abroad* [247, 621]
+  - **(재미있는) fun**
+    - 우린 놀이 공원에서 정말 즐거운 시간을 보냈어요. / *We had a really fun time at the amusement park* [53, 340]
+  - **(미래의) future**
+    - 앞으로의 진로가 걱정이 되네요. / *i am worried about my future career* [53, 340]
+  - **(책임감 있는) Responsible**
+    - (대화 형태) A: 넌 너의 행동에 책임을 져야 해. B: *you need to be responsible for your actions* [53, 340]
+  - **Cute**
+    - (대화 형태) A: 강아지 좀 봐. B: 너무 귀여워. / A: *look at that puppy* B: *it's so cute* [53, 340]
+  - **(현대적인) modern**
+    - 저는 현대적인 아파트에서 사는 것을 선호해요. / *i prefer living in a modern apartment* [54, 341]
+- **주요 인용**: > "(고유한) unique 사람은 누구나 고유한 지문을 갖고 있습니다 Everyone has a unique fingerprint ... (까다로운) picky 저녁으로 뭐 드시고 싶으세요 아무거나요. 전 입맛이 까다롭지 않거든요? what would you like for dinner? anything i'm not picky [22, 298, 335]"
+
+### ### 2. 물리적 외관 및 성향 지각 형용 표현군 (Appearance & Sensory Descriptions)
+- **핵심 논지**: 아늑하고 우아한 외모와 의복 양식, 그리고 질기거나 끈적거리는 미각적/촉각적 성상 판정 표현들을 취합 보존한다.
+- **근거 및 데이터**:
+  - **(작은) tiny, small, minor**
+    - 그녀는 도시의 작은 아파트에 살고 있어요. / *She lives in a tiny apartment in the city* [54, 341]
+    - (대화 형태) A: 한 사이즈 더 작은 거 없나요? B: *is there one size smaller available?* [169, 622]
+    - 와 세상 참 좋네. / *well it's a small world* [169, 622]
+    - 사소한 일로 걱정하지 마. / *don't worry about small things* [169, 622]
+    - 그는 작은 사업체를 운영하고 있어요. / *he is running a small business* [169, 622]
+    - 그냥 가벼운 접촉 사고였어요. / *it was just a minor fender bender* [178, 944]
+    - 그녀는 경범죄로 체포되었어요. / *she was arrested for a minor offense* [178, 944]
+  - **(놀라운) amazing, astonishing**
+    - 산 정상에서 바라보는 경치는 정말 환상적이었어요. / *the view from the top of the mountain was amazing* [54, 341]
+    - 그건 정말 놀라운 일이었어요. / *it was really astonishing to me* [174, 940]
+  - **(즐거운) joyful, Merry, pleasant**
+    - 크리스마스는 아이들에게 년 중 가장 즐거운 때입니다. / *christmas is one of the most joyful times for children* [54, 341] (※ '년 중' 형태 유지)
+    - 즐거운 크리스마스 되세요. / *we wish you a merry Christmas* [173, 939]
+    - (대화 형태) A: 정말 반가워. B: *what a pleasant surprise* [178, 944]
+  - **(여러 가지의) various**
+    - 그 박물관에는 여러 가지 유물들이 전시되어 있었어요. / *various artifacts were on display in the museum* [54, 341]
+  - **(애매모호한/애매한) vague, fuzzy, tricky**
+    - 그는 항상 말을 애매모호하게 해요. / *he's always being vague* [54, 341]
+    - (대화 형태) A: 조금 애매한 것 같아요. B: *i don't know* B: *it's kind of fuzzy* [248, 622]
+    - 지송뽀송해요 (솜털이 뽀송뽀송한). / *this is so fuzzy* [248, 622] (※ '지송뽀송해요' 타이포 보존)
+    - 사진이 흐릿하네요 (흐릿한). / *the picture is fuzzy* [248, 622]
+    - 이거 약간 좀 애매하네요. / *this is a little tricky* [248, 622]
+  - **(괜찮은) decent, acceptable, fine**
+    - (대화 형태) A: 그거 괜찮네요. B: *that's decent* [54, 342]
+    - 그런 괜찮네요. / *that's acceptable* [174, 940]
+  - **(어색한) awkward**
+    - (대화 형태) A: 되게 어색하네요. B: *it's really awkward* [55, 342]
+    - (대화 형태) A: 정말 어색하네요. B: *that's really awkward* [55, 342]
+  - **(소심한) timid, shy, petty**
+    - 그는 되게 소심해요. / *he's very timid* [55, 342]
+    - 그녀는 어릴 때 수주이 많고 조용한 성격이었어요. / *when she was young she was very shy and quiet* [38] (※ '수주이' 타이포 보존)
+    - 그녀는 수주이 많고 조용한 소녀예요. / *she is a shy and quiet girl* [176, 942]
+    - 그는 평소에는 수주을 타지 않지만 오늘은 달라 보이네요. / *he is not usually shy but today he seems different* [176, 942] (※ '수주을' 타이포 보존)
+    - 그는 소심에서 그녀에게 데이트 신청을 하지 못했어요. / *he was too shy to ask her out* [176, 942] (※ '소심에서' 타이포 보존)
+    - 저 그렇게 째째한 사람 아니에요. / *i'm not that petty* [170, 936]
+    - (대화 형태) A: 졸란. B: 전속이 좁지 않아요. B: *i'm not petty* [249, 623] (※ '전속이' 타이포 보존)
+    - (대화 형태) A: 째리 패리. B: 너무 쪼아나게 굴지 마. B: *don't be so petty* [249, 623] (※ '쪼아나게' 타이포 보존)
+  - **(어설픈) clumsy**
+    - (대화 형태) A: 클렁거리지 좀 마. B: *don't be so clumsy?* [55, 342] (※ '클렁거리지', 물음표 기호 유지)
+  - **(가능한) possible**
+    - (대화 형태) A: 그게 어떻게 가능하죠? B: *how is that possible!* [55, 342]
+  - **(맞는) correct, right**
+    - 이 세부 사항들이 맞는지 확인해 보세요. / *please check that these details are correct* [55, 342]
+    - (대화 형태) A: 딱 맞는 사이즈네요. B: *it's just the right size* [174, 940]
+  - **(칙칙한) Drab**
+    - (대화 형태) A: 조금 칙칙한 것 같아요. B: *it's a little drab I think* [55, 342]
+  - **(가혹한) harsh**
+    - (대화 형태) A: 너무하네요. B: *that's so harsh* [55, 342]
+  - **Loving**
+    - 이건 좀 별로야. / *I'm not loving this* [306, 671]
+  - **(육즙이 풍부한) juicy**
+    - 육즙이 풍부하네요. / *It's juicy* [55, 342]
+  - **(짜증나는) annoying**
+    - (대화 형태) A: 너무 짜증나. B: *it is so annoying* [170, 936]
+  - **(끔찍한) awful, Horrible**
+    - 정말 맛이 없네요. / *It tastes awful* [28, 307]
+    - 그건 가장 끔찍한 경험이었어요. / *it was the most awful experience* [28, 307]
+    - 정말 끔찍한 상황이네요. / *It's a horrible situation* [28, 307]
+    - (대화 형태) A: 와 이건 정말 아니잖아. B: *w this is horrible* B: *wow this is horrible!* [28, 307] (※ 'w' 글자 및 느낌표 원형 전사)
+  - **(심술이 난) grumpy**
+    - (대화 형태) A: 그는 왜 그렇게 심술이 나 있나요? B: *what's he so grumpy about?* [28, 307]
+  - **(매력적인) attractive, charming**
+    - 흥미롭긴 하지만 그다지 끌리진 않아요. / *Exciting but not very attractive* [28, 307]
+    - 그에게는 사람을 끌어당기는 매력이 있어요. / *There is something attractive about him* [28, 307]
+    - 그녀의 미소는 정말 매력적이에요. / *Her smile is very charming* [28, 307]
+    - (대화 형태) A: 정말 매력적이네요. B: *you are very charming* [249, 623]
+  - **(지루한) dull, boring**
+    - 그 영화는 너무 지루했어요. / *That movie was very dull* [28, 307]
+    - 그 영화는 정말 지루했어요. / *The movie was so boring* [29, 308]
+    - 그녀는 재미없는 얘기를 계속했어요. / *Kept telling boring stories* [29, 308]
+  - **(아름다운) gorgeous, beautiful**
+    - (대화 형태) A: 오늘 너 정말 예쁘다. B: *you look gorgeous today* [29, 308]
+    - 오늘 날씨 정말 좋네요. / *What a beautiful day!* [29, 308]
+    - (대화 형태) A: 너 오늘 예쁘다. B: *you look beautiful today* [29, 308]
+  - **(편안한) comfy, casual, cozy, peaceful**
+    - 소파가 정말 편하네요. / *The couch is so comfy* [29, 308]
+    - 그녀는 그냥 편한 친구일 뿐이에요. / *Friend* [29, 308] (※ 'Friend' 단문 복사 유지)
+    - 방이 꽤 아늑하네요. / *The room is quite cozy* [29, 308]
+    - 이 노래를 들으면 뭔가 마음이 정말 편해져. / *Listening to this song makes me feel really peaceful* [29, 308]
+  - **(으스스한) creepy**
+    - (대화 형태) A: 으스스하네요. B: *it's creepy* [29, 308]
+  - **(흐릿한) fuzzy, blurry**
+    - 사진이 흐릿하네요. / *The picture is fuzzy* [29, 308]
+    - 요즘은 눈이 침침해요. / *My vision is blurry these days* [170, 936]
+  - **Heavy**
+    - 꽤 무겁네. / *It's pretty heavy* [170, 936]
+    - (대화 형태) A: 무게가 얼마예요? B: *how heavy is it?* [172, 623]
+    - 늦어서 죄송합니다 길이 좀 막혔어요. / *Sorry for being late traffic was heavy* [172, 623]
+  - **(흥미로운) interesting**
+    - 이거 되게 신기하다. / *This is interesting* [170, 936]
+    - 그거 재밌겠네요. / *That'sounds interesting* [170, 936] (※ 'That'sounds' 타이포 보존)
+  - **(시끄러운) noisy, loud**
+    - 옆집 파티가 너무 시끄러워서 잠을 잘 수가 없었어요. / *the party next door was so noisy we could sleep* [170, 936] (※ 'we could sleep' 원고 형태 유지)
+    - (대화 형태) A: 좀 조용히 해 주시겠어요? B: 너무 시끄러워요. / A: *could you please keep it down?* B: *it's too loud* [170, 936]
+  - **(좁은) narrow**
+    - 그녀는 속이 너무 좁아요. / *Mind* [170, 936] (※ 'Mind' 단형 보존)
+    - 차량이 다니기에는 길이 너무 좁아요. / *the road is too narrow for traffic* [170, 936]
+    - 그들은 근소한 차이로 이겼어요. / *They won by a narrow margin* [30, 309]
+  - **(호리호리한) slender**
+    - 그는 키가 크고 호리오리한 체격이에요. / *He is tall and slender* [30, 309] (※ '호리오리한' 타이포 보존)
+  - **(마른) thin, lean**
+    - (대화 형태) A: 그렇게 많이 먹고 마른 몸을 유지하세요? B: *how do you eat so much and stay thin?* [30, 309]
+    - 그녀는 규칙적인 운동으로 날씬한 몸매를 가지고 있어요. / *She has a lean body from regular exercise* [30, 309]
+  - **(성공한) successful**
+    - 그녀의 프로젝트는 성공적이었어요. / *Her project was successful* [30, 309]
+  - **Dense**
+    - (대화 형태) A: 분위기 파악 좀 해. B: 정말 둔해. / A: *can't you see what's going on?* B: *you are so dense* [30, 309]
+  - **(사려 깊은) thoughtful**
+    - (대화 형태) A: 정말 자상하시네요. B: *how thoughtful of you!* [30, 309]
+    - (대화 형태) A: 센스 있네요. B: *how thoughtful!* [30, 309]
+  - **(재치 있는) witty, clever**
+    - 그는 똑똑하고 제치가 있어요. / *He is smart and witty* / *He is clever and witty* [30, 309, 310] (※ '제치가' 타이포 보존)
+    - (대화 형태) A: 정말 기발한 아이디어야. B: 난 그런 생각을 못 했을 거야. / A: *what a clever idea* B: *I wouldn't have thought of that* [31, 310]
+  - **Keen**
+    - 저는 스포츠에 그다지 관심이 없어요. / *I'm not so keen on sports* [31, 310]
+  - **Sharp**
+    - 그는 이목구비가 뚜렷해요. / *He has sharp features* [31, 310]
+    - (대화 형태) A: 예리. B: 제가 원래 사람 보는 눈이 있잖아요. / B: *I always did have a sharp eye for people* [31, 310]
+  - **(특별한) particular**
+    - 특별히 찾는 것이 있으신가요? / *are you looking for anything in particular?* [31, 310]
+    - 특별히 누구를 두고 한 말은 아니었어. / *I wasn't talking about anyone in particular* [31, 310]
+    - 저는 음식을 가리지 않아요. / *I'm not particular about food* [31, 310]
+  - **(안정된) stable, steady**
+    - 그의 혈압이 이제는 안정이 되었어요. / *Pressure is now stable* [31, 310]
+    - 그는 이제 안정되었으니 걱정하지 마세요. / *He's stable now so don't worry* [32, 311]
+    - 그들의 우정은 변함 없었어요. / *Their friendship was steady* [32, 311]
+    - 전 이미 사귀는 남자 친구가 있어요. / *I already have a steady boyfriend* [32, 311]
+    - 그녀는 손끝이 야져요. / *She has steady hands* [32, 311] (※ '야져요' 타이포 보존)
+  - **(궁극적인) ultimate**
+    - 최종 목표가 무엇인가요? / *what is your ultimate goal?* [32, 311]
+  - **(합리적인) reasonable, fair**
+    - 일리 있는 말인 것 같아요. / *I think that's reasonable* [32, 311]
+    - 그 정도면 나쁘지 않네요. / *That certainly sounds reasonable* [32, 311]
+    - 음식도 맛있고 가격도 적당하네요. / *The food is excellent and the prices are reasonable* [32, 311]
+    - (대화 형태) A: 타당한. B: 좋아요. / B: *fair enough* [32, 311]
+  - **(타고난) natural**
+    - 그녀는 타고난 운동 선수예요. / *She's a natural athlete* [32, 311]
+  - **(전형적인) typical**
+    - 그는 항상 그런 식이야. / *It's so typical of him* [33, 311]
+    - 대표적인 사례 하나를 들어 주세요. / *Please give me a typical example* [33, 311]
+  - **(평범한) ordinary, plain**
+    - 그녀는 평범한 중산층 가정에서 자랐어요. / *Grew up in an ordinary middle class family* [33, 311]
+    - 그녀는 눈에 잘 띄지 않는 평범한 학생이었어요. / *She was an ordinary student who didn't get noticed very much* [33, 311]
+    - 그녀는 평범하지만 예뻐요. / *She is plain but pretty* [33, 311]
+  - **(움직일 수 없는) stuck**
+    - 교통 체으로 꼼짝도 못 하고 있어요. / *I'm stuck in traffic* [33, 311] (※ '교통 체으로' 타이포 보존)
+  - **(예의 발른) polite**
+    - 사람을 빤히 쳐다보는 것은 신뢰입니다. / *It's not polite to stare at people* [33, 311] (※ '신뢰'는 '실례'의 오기이나 원형 보존)
+    - 고마워요. / *That's very kind of you* [33, 311]
+  - **(공공의) public**
+    - 그는 자신의 실수에 대해 공개적으로 사과했어요. / *He made a public apology for his mistake* [33, 311]
+  - **(깊은) deep**
+    - 그녀는 깊은 한 숨을 내쉬었어요. / *A deep* [312, 678] (※ '한 숨'과 'A deep' 단형 보존)
+  - **(사적인) private**
+    - 그는 남에게 자기 얘기를 거의 안 하는 사람이에요. / *He's a very private person* [312, 678]
+  - **(인공의) artificial**
+    - 이 식품에는 인공 향미료가 전혀 들어 있지 않아요. / *Food contains no artificial flavorings* [312, 678]
+  - **(주된) main**
+    - 그는 영화에서 주인공이에요. / *He is the main character in the movie* [312, 678]
+  - **(어두운) dark, dim**
+    - 날이 어두워지고 있어요. / *It's getting dark* [312, 678]
+    - 어두운 곳에서 책을 읽는 것은 눈에 좋지 않습니다. / *Reading in a dim light is not good for your eyes* [312, 678]
+  - **(늦은) late**
+    - 늦을 거예요. / *I'll be late* [312, 678]
+    - 집에 일이 생겼어요. / *Something came up at home* [312, 678]
+  - **(빠른) quick, fast**
+    - (대화 형태) A: 그렇게 버럭 화부터 내지 마. B: *don't be so quick to take a fence?* [312, 678] (※ 'take a fence' 원형 오타 보존)
+    - (대화 형태) A: 눈치가 빠르네. B: *you catch on quick* [313, 679]
+    - (대화 형태) A: 너무 섣부르게 판단하지 마. B: *don't be so quick to judge?* [313, 679] (※ 물음표 기호 원형 보존)
+    - 모든 일이 일사 천리로 진행되었어요. / *Everything went very fast* [313, 679] (※ '일사 천리' 띄어쓰기 보존)
+    - 그는 정말 눈치가 빨라요. / *He really catches on fast* [313, 679]
+    - (대화 형태) A: 속도를 늦혀요. B: 너무 빨라요. / A: *slow down* B: *you're going too fast* [313, 679] (※ '늦혀요' 타이포 보존)
+  - **(믿을 수 없는) incredible**
+    - 산 정상에서 본 경치는 믿을 수 없을 정도로 멋졌어요. / *The view from the top of the mountain was incredible* [313, 679]
+  - **(속상) upset**
+    - (대화 형태) A: 그녀 속 썩지 마. B: *don't let her upset you?* [313, 679] (※ '속 썩지 마' 타이포 보존)
+    - 너무 속상해. / *I'm so upset* [313, 679]
+    - 너무 서운해하지 마. / *Don't be so upset?* [313, 679] (※ 물음표 기호 유지)
+    - 속이 안 좋아요 (불편한 의미로). / *I have an upset stomach* [313, 679]
+  - **(고집스러운) stubborn**
+    - 그는 은근히 고집이 세요. / *He can be quite stubborn* [313, 679]
+    - (대화 형태) A: 너 진짜 고집세다. B: *you are so stubborn* [314, 680]
+  - **(미끄러운) slippery**
+    - 길이 미끄러우니 조심하세요. / *Be careful the road is very slippery* [314, 680]
+  - **(뜨거운) Hot**
+    - 그녀는 욱하는 성격이 있어요. / *She's got a hot temper* [314, 680]
+  - **(더운) Hot**
+    - 너무 더워서 숨이 막힐 지경이에요. / *It's too hot to breathe* [314, 680]
+  - **(차가운) cold**
+    - 그녀는 감정 기복이 심해요. / *She blows hot and cold* [314, 680]
+  - **(매끄러운) smooth, sleek**
+    - 커피 맛이 부드럽고 진하네요. / *The coffee tastes smooth and rich* [314, 680]
+    - 그는 정말 말을 잘해요. / *He is such a smooth talker* [314, 680]
+    - 모든 일이 착오 없이 잘 진행되고 있어요. / *Things are going smooth with no problems* [314, 680]
+    - (대화 형태) A: 머리가 찰랑찰랑하네요. B: *your hair is so sleek* [314, 680]
+  - **(신선한) fresh**
+    - 그때 일은 아직도 기억에 생생해요. / *That time is still fresh in my memory* [314, 680]
+    - 나가서 머리 좀 시키고 올게요. / *I'm just going out to get some fresh air* [681]
+  - **(오래된) old, stale**
+    - 그는 제 오래된 친구예요. / *He's my old friend* [681]
+    - 오래된 빵의 곰팡이가 생겼어요. / *Mold grew on the stale bread* [681] (※ '빵의' 보존)
+    - (대화 형태) A: 너무 진부해. B: *it's too stale* [681]
+  - **(젊은) young**
+    - 동안이세요. / *You look so young for your age* [681]
+  - **(연세 드신) elderly**
+    - 그는 나이가 지긋이 들어 보였어요. / *He looked quite elderly* [681]
+  - **(화난) angry**
+    - 이렇게 화가 난 건 처음이에요. / *Never been this angry* [681]
+    - 그는 화가 나면 얼굴에 금방 표가 나요. / *When he is angry it shows on his face?* [681] (※ 물음표 보존)
+    - 그는 여전히 화가 나 있어요. / *He is still angry* [681]
+    - 아무것도 아닌 일에 화내서 미안해. / *I'm sorry that I got angry over nothing* [681]
+    - 널 화나게 할 생각은 없었어. / *I didn't mean to make you angry* [681]
+- **주요 인용**: > "(어설픈) clumsy (클렁거리지 좀 마) don't be so clumsy? ... (가혹한) harsh (너무하네요) that's so harsh [306, 671]"
+
+### ### 3. 물리 성상 및 자연 현상/계량 형용 표현군 (Physical Qualities & Measures)
+- **핵심 논지**: 사물의 경도와 한계, 가습과 수분기, 부족함과 여유 등 자연물의 질량과 범주적 한계성을 구어체로 표상하는 대치 정위쌍을 모은다.
+- **근거 및 데이터**:
+  - **(친절한) kind, friendly, caring**
+    - (대화 형태) A: 고마워요. B: *that's very kind of you* [682]
+    - (대화 형태) A: 그렇게 말씀해 주시니 고맙습니다. B: *it is kind of you to say so* [682]
+    - 그는 저에게 친절하게 대해 주었어요. / *He was kind to me* [682]
+    - 그는 정말 친절해요. / *He's so friendly* [682]
+    - 그는 아주 배려심이 많은 사람이에요. / *He's a very caring person* [682]
+  - **Soft**
+    - (대화 형태) A: 넌 너무 물러터졌어. B: *you're too soft* [682]
+    - 수술 후 일주일 동안은 부드러운 음식을 드세요. / *Please eat soft foods for a week after the surgery* [682]
+  - **Rough**
+    - 어젯밤은 무척 힘들었어요. / *I had a rough night* [682]
+    - 오늘은 무척 힘든 날이었어요. / *I've had a rough day* [682]
+  - **(무례한) rude, coarse**
+    - (대화 형태) A: 그건 예의가 아니지. B: *that's so rude* [682]
+    - 버릇없이 굴지 마. / *Don't be rude?* [682] (※ 물음표 보존)
+    - (대화 형태) A: 내가 무례했다면 미안해. B: *i'm sorry if I was rude* [682]
+    - (대화 형태) A: 내가 무례했어. B: 사과할게. / A: *that was coarse* B: *I apologize* [683]
+  - **(건조한) dry**
+    - 제 피부는 겨울이 되면 건조해지고 정말 가려워요. / *My skin gets dry in winter and really itches* [683]
+    - 저는 건성 피부예요. / *I have dry skin* [683]
+    - 눈이 건조해요. / *My eyes are dry* [683]
+  - **(젖은) wet**
+    - 비에 옷이 다 젖졌어요. / *My clothes got wet in the rain* [683] (※ '젖졌어요' 오타 보존)
+    - 밖에 비가 와요. / *It's wet outside* [683]
+    - (대화 형태) A: 분위기 망치지 마. B: *don't be such a wet blanket?* [683] (※ 물음표 보존)
+  - **(밝은) bright**
+    - 그는 머리가 참 좋은 아이예요. / *He's such a bright boy* [683]
+    - 그녀는 아름다운데 똑똑하기까지 해요. / *She is bright as well as beautiful* [683]
+    - 오늘 밤 달이 참 박네요. / *How bright the moon is tonight!* [683] (※ '박네요' 오기 보존)
+  - **(가벼운) light, minor**
+    - 우린 공원 주변을 가볍게 산책했어요. / *We took a light walk around the park* [683]
+  - **(강한) strong**
+    - 밖에 강풍이 불고 있어요. / *There's a strong wind outside* [684]
+    - 커피가 너무 진해요. / *This coffee is too strong* [684]
+  - **(약한) weak**
+    - 제 커피는 연하게 해 주세요. / *I'd like my coffee weak* [684]
+    - 신호가 너무 약하네요. / *The signal here is very weak* [684]
+  - **(부드러운) gentle, soft, smooth**
+    - 산들 바람이 부해요. / *A gentle breeze is blowing* [684] (※ '부해요' 타이포 보존)
+  - **(친환경적인) Eco-friendly**
+    - 저희 회사는 모든 제품의 친환경 재료를 사용합니다. / *Our company uses eco-friendly materials in all products* [684]
+  - **(생생한 선명한) / vivid**
+    - 그때 기억이 여전히 생생하게 남아 있어요. / *I still have vivid memories of that time* [684]
+    - 색이 되게 진하네요. / *The color is very vivid* [684]
+  - **(엄격한) strict, firm**
+    - 그는 굉장히 엄격해요. / *He is very strict* [684]
+    - (대화 형태) A: 너무 깐깐하네요. B: *that's too strict* [685]
+    - 그는 엄격하지만 자상한 면도 있어요. / *He is both firm and gentle* [685]
+  - **(부족한) poor, insufficient, scarce**
+    - 전 못해요. / *I'm poor at it* [685]
+    - 불쌍해라. / *Poor thing* [685]
+    - 그건 그의 잘못이 아니야. / *It's not his fault* [685]
+    - 좀 미흡할 수도 있지만 최선을 다했습니다. / *It might be insufficient but I did my best* [685]
+    - 사막에서는 물이 부족합니다. / *Water is scarce in the desert* [685]
+  - **Full**
+    - 성함과 주소를 적어 주세요. / *Fill in your full name and address* [685]
+    - 그녀는 오늘 일정이 꽉 차 있어요. / *She has a full schedule today* [685]
+    - 오늘 밤 보름다리 뜰 거야. / *There will be a full moon here tonight* [685] (※ '보름다리' 오기 보존)
+  - **(새로운) new**
+    - 방금 새 차를 샀어요. / *I just bought a new car* [685]
+  - **(얄미운 까부는) / chicky**
+    - (대화 형태) A: 얄미운 찌기. B: 좀 얄밉다. / A: *얄미운 찌기* B: *좀 얄밉다* [686]
+    - (대화 형태) A: 까부는 찌기. B: 까불지 마. B: *don't be chicky* [686]
+  - **Ripe**
+    - 정말 맛있게 잘 익었네요. / *It's really tasty and ripe* [686]
+  - **(익숙한) familiar**
+    - (대화 형태) A: 낯이 있네요. B: *you look familiar* [686]
+  - **(낯선) unfamiliar**
+    - 모든게 낯설기만 하네요. / *Everything is unfamiliar to me* [686] (※ '모든게' 띄어쓰기 유지)
+  - **Separate**
+    - (대화 형태) A: 저희 따로 계산할 수 있을까요? B: *could we have separate bills?* [686]
+  - **(명랑한) cheerful**
+    - 그는 정말 유쾌한 사람이에요. / *He's so cheerful* [686]
+    - 그는 항상 밝아요. / *He is always cheerful* [686]
+  - **(조용한) quiet**
+    - 그녀는 어릴 때 수주이 많고 조용한 성격이었어요. / *When she was young she was very shy and quiet?* [686] (※ 물음표 기호 및 '수주이' 오탈자 보존)
+    - 그냥 조용히 있어. / *just keep quiet* [686]
+    - 모르면 가만히 있어. / *just keep quiet if you don't know* [686]
+  - **(용감한) brave**
+    - 그건 정말 용기 있는 결정이었어요. / *It was a very brave decision* [320, 686]
+  - **Simple**
+    - 그게 내가 생각하는 것처럼 간단하지 않아. / *It is not so simple as you think* [320, 686]
+    - 이게 간단하지가 않아요. / *It's not simple at all* [320, 686]
+  - **(솔직한) honest**
+    - (대화 형태) A: 그냥 솔직한 의견을 말해 줘. B: *tell me your honest opinion* B: *just tell me your honest opinion* [320, 686]
+    - 그는 정말 정직한 사람이에요. / *He is very honest* [320, 686]
+    - 모르고 한 실수였어. / *It was an honest mistake* [320, 686]
+  - **(복잡한) complex**
+    - 일이 더 복잡하게 되어 버렸어요. / *Things are now more complex* [320, 686]
+    - 정말 복잡한 문제네요. / *Is?* [320, 686] (※ 'Is?' 미완결 구어 복사 보존)
+  - **(효율적인) efficient**
+    - (대화 형태) A: 정말 비효율적이네요. B: *that's not very efficient* [320, 686]
+    - (대화 형태) A: 이게 더 효율적이네요. B: *it's more efficient* [320, 686]
+  - **(전통적인) traditional**
+    - 미국에서는 추수 감사절의 칠면조를 먹는 것이 전통입니다. / *It's traditional in America to eat turkey on Thanksgiving Day* [687] (※ '절의' 보존)
+  - **(창의적인) creative**
+    - 너 정말 상상력이 풍부하구나. / *you are so creative* [687]
+  - **(가려운) itchy**
+    - 이 너무 간지러워요. / *It's so itchy* [687] (※ '이 너무' 원형 타이포 전사)
+  - **(배고픈) hungry**
+    - 배고픈 건 아닌데 좀 출출하네요. / *I'm not starving just a little hungry* [687]
+  - **Alert**
+    - 시장 변화의 주의를 기울이는 것은 모든 성공적인 투자자에게 필수적인 것입니다. / *Staying alert to market changes is essential for any successful investor* [687] (※ '변화의' 보존)
+    - 그녀는 시장의 변화에 항상 주의를 기울이고 있어요. / *she is always alert to changes in the market* [687]
+  - **(멋진) stunning, handsome, neat**
+    - 산 정상에서 바라본 경치는 정말 멋졌어요. / *The view from the mountain top was absolutely stunning* [687]
+    - (대화 형태) A: 눈이 부시네요. B: *you look stunning* [688]
+    - 그 옷 입으니까 정말 멋지네요. / *You look really stunning in that dress* [688]
+    - 그는 실물이 더 잘생겼어요. / *He looks even more handsome in person* [688]
+    - (대화 형태) A: 너 오늘 멋져 보여. B: *you look handsome today* [688]
+    - (대화 형태) A: 정말 근사했어요. B: *that was neat* [688]
+    - (대화 형태) A: 멋지네요. B: *that's neat* [688]
+    - (대화 형태) A: 너 오늘 완전 멋지다. B: *you look neat today* [688]
+  - **(꽉 끼는 빠듯한) / tight**
+    - (대화 형태) A: 이거 좀 꽉 끼네요. B: 더 큰 사이즈 있나요? / A: *these are a bit tight* B: *do you have a larger size?* [688]
+    - 이번 달 예산이 이 빠듯해요. / *The budget is tight this month* [688] (※ '예산이 이' 중복 보존)
+    - 오늘 일정이 빠듯해요. / *We are on a tight schedule today* [688]
+    - (대화 형태) A: 너무 딱 맞네요. B: 한 사이즈 큰 것으로 주시겠어요? / A: *this is too tight* B: *can I have one size bigger please?* [688]
+  - **(과한) excessive**
+    - (대화 형태) A: 그건 좀 과한 것 같지 않나요? B: *that's a bit excessive, don't you think?* [689]
+  - **(쌀쌀) chilly**
+    - (대화 형태) A: 오늘 좀 쌀쌀하네요. B: *it's kind of chilly today* [689]
+    - (대화 형태) A: 오늘 유난히 추운 것 같아요. B: *it feels super chilly today* [689]
+  - **(시간을 잘 지키는) punctual**
+    - 그는 정말 시간을 잘 지켜요. / *He is very punctual* [689]
+  - **(지친) exhausted**
+    - (대화 형태) A: 완전 지쳤어요. B: *i'm totally exhausted* [689]
+  - **(외향적인) outgoing**
+    - 그는 외향적이에요. / *He's really outgoing* [689]
+  - **Corny**
+    - (대화 형태) A: 되게 오글거리네요. B: *that's so corny* [689]
+  - **Cheesy**
+    - (대화 형태) A: 되게 오글거리네요. B: *so cheesy* B: *that's so cheesy* [689]
+  - **Anxious**
+    - (대화 형태) A: 뭐 불안해? B: *what's got you so anxious?* [689]
+    - (대화 형태) A: 뭐가 그렇게 걱정이세요? B: *what's making you so anxious?* [689]
+  - **(깨지기 쉬운) fragile**
+    - (대화 형태) A: 깨지기 쉬우니까 떨어뜨리지 않게 조심해. B: *it's fragile so please be careful not to drop it* [689]
+    - (대화 형태) A: 너 유리멘탈이구나. B: *you're very fragile* [690]
+  - **Crisp**
+    - 아침 공기가 정말 상쾌하네요. / *The air is so crisp in the morning* [690]
+    - (대화 형태) A: 완전 바삭바삭하네요. B: *it's very crisp* [690]
+    - 바삭하고 노릇해질 때까지 튀겨 주세요. / *Deep fry until crisp and golden brown* [690]
+  - **(녹슨) rusty**
+    - 자전거가 녹슬었네요. / *The bike is rusty* [690]
+  - **(자신감 있는) confident**
+    - (대화 형태) A: 왜 이렇게 자신감이 없어? B: *why aren't you confident?* [690]
+    - (대화 형태) A: 좀 더 자신감을 가져. B: *be more confident* [690]
+  - **(성숙한) mature**
+    - 그녀는 나이에 비해 성숙해 보여요. / *She looks mature for her age* [690]
+    - 그건 성숙한 결정이고 난 내가 자랑스러워. / *That's a very mature decision and I'm proud of you* [690]
+    - (대화 형태) A: 넌 참 어른스럽지 못하구나. B: *that's not very mature of you* [690]
+  - **Immature**
+    - (대화 형태) A: 정말 유치하네요. B: *very immature* [690]
+  - **(의욕이 넘치는 야심 있는) / ambitious**
+    - (대화 형태) A: 정말 의욕이 넘치네요. B: *that'sounds very ambitious* [691] (※ 'that'sounds' 타이포 보존)
+    - (대화 형태) A: 정말 야심차네요. B: *really ambitious* [691]
+  - **Excellent**
+    - 음식도 맛있고 가격도 적당하네요. / *the food is excellent and the prices are reasonable* [691]
+  - **Great**
+    - (대화 형태) A: 정말 좋은 생각이야. B: *that's a great idea* [691]
+  - **(쉬운) easy**
+    - (대화 형태) A: 걱정마. B: 정말 쉬워. / A: *don't worry* B: *that's so easy* [691]
+  - **(힘든) tough, hard**
+    - 힘든 한 주였어요. / *It's been a tough week* [691]
+    - 새로운 언어를 배우는 것은 어려워요. / *It's hard to learn a new language* [691]
+    - 그는 그 소식을 믿기 어려워했어요. / *He found it hard to believe the news* [691]
+    - 그녀는 새로운 직장에 적응하는데 어려움을 겪었어요. / *She had a hard time adjusting to the new job* [691]
+  - **(혼란스러운) confused**
+    - (대화 형태) A: 헷갈려요. B: 다시 설명해 주실 수 있나요? / A: *i'm confused* B: *could you explain that again?* [692]
+  - **(기대되는) excited**
+    - 다음 주말 여행이 기대돼요. / *I'm excited about the trip next weekend* [692]
+  - **(편리한) convenient, fantastic**
+    - 이거 정말 편리하네요. / *This is really convenient* [692]
+    - (대화 형태) A: 정말 끝내 주네요. B: *that's really fantastic* [692]
+  - **(쓴) bitter**
+    - 커피가 저한테 너무 쓰네요. / *The coffee is too bitter for me* [692]
+  - **(엉망인) Messy**
+    - (대화 형태) A: 정말 엉망이네요. B: *it's so messy* [692]
+  - **(활력 있는) energetic**
+    - 푹 자고 나니까 활력이 넘치네요. / *After a good sleep I feel so energetic* [692]
+  - **(창피한) ashamed**
+    - (대화 형태) A: 창피한 줄 아세요? B: *you should be ashamed* [692]
+  - **(허영심이 많은) vain**
+    - 그녀는 허영심이 많아요. / *She is very vain* [692]
+  - **(평평한) flat**
+    - 타이어가 펑크 났어요. / *I got a flat tire* [326, 693]
+    - 전 평발이에요. / *I have flat feet* [326, 693]
+    - 김빠진 맛이에요. / *It's flat* [326, 693]
+  - **(헌신적인) dedicated**
+    - 그는 의학 연구에 일생을 바쳤어요. / *He has dedicated his life to medical study* [326, 693]
+    - 그는 헌신적이고 성실한 사람이에요. / *He is dedicated and hard working* [326, 693]
+  - **(속이 빈) hollow**
+    - 그가 없으면 제 삶은 무의미해요. / *My life is hollow without him* [326, 693]
+    - 너무 공허해요. / *I feel so hollow* [326, 693]
+    - 이것 좀 봐. 속이 빈 나무가 있어. / *Look at this there's a hollow tree* [326, 693]
+  - **(깨끗한) clean**
+    - 그의 집은 항상 깔끔하고 깨끗해요. / *His house is always neat and clean* [326, 693]
+    - 비 온 뒤 공기가 맑고 상쾌해졌어요. / *The air was clean and fresh after the rain* [326, 693]
+  - **(정상적인) normal**
+    - 그의 체온이 정상으로 돌아왔어요. / *His temperature is back to normal* [327, 694]
+    - (대화 형태) A: 정상이 아니네요. B: *it's not normal* [327, 694]
+  - **(변함 없는) steady**
+    - 그들의 우정은 변함 없었어요. / *Their friendship was steady* [327, 694]
+    - 전 이미 사귀는 남자 친구가 있어요. / *I already have a steady boyfriend* [327, 694]
+  - **(손끝이 야윈) steady**
+    - 그녀는 손끝이 야져요. / *She has steady hands* [327, 694] (※ '야져요' 타이포 보존)
+  - **(고소한) nutty**
+    - (대화 형태) A: 정말 고소하네요. B: *it's really nutty* [327, 694]
+  - **(특이한) nutty**
+    - bandwidth는 넓은데 그녀는 조금 특이해요. / *She's a little nutty* [327, 694]
+  - **(밍밍한) plain**
+    - 맛이 밍밍하네요. / *Tastes plain* [327, 694]
+  - **(형식적인 공식적인) / formal, official**
+    - (대화 형태) A: 그렇게 격식 차릴 필요 없어요. B: *dont be so formal?* [327, 694] (※ 물음표 기호 유지)
+    - 그건 너무 형식적인 것 같아요. / *That'sounds too formal* [327, 694] (※ 'That'sounds' 타이포 보존)
+    - (대화 형태) A: 뭘 입어야 할지 모르겠어요. 공식적인 자리인가요? / A: *I don't know what to wear* B: *is it formal?* [327, 694]
+    - (대화 형태) A: 아니오. 공식 행사는 아니에요. / A: *no* B: *it's not a formal event* [327, 694]
+    - 공식 발표는 내일 있을 거예요. / *official announcement will be tomorrow* [327, 694]
+    - 공식 웹사이트에 모든 세부 정보가 있습니다. / *the official website has all the details* [327, 694]
+  - **(비공식적인) informal**
+    - 그냥 비공식 모임이에요. / *it's an informal group* [254, 628]
+  - **(독립적인) independent**
+    - 그는 명랑하고 독립심이 강해요. / *he is cheerful and independent* [254, 628]
+    - 그녀는 경제적으로 집에서 독립했어요. / *she is financially independent of her family* [254, 628]
+  - **(못된) mean**
+    - (대화 형태) A: 너 못됐다. B: 너무 못되게 굴지 마. / A: *you are so mean* B: *don't be so mean* [254, 628]
+  - **(소중한) precious**
+    - (대화 형태) A: 가장 소중한 것은 무엇인가요? B: *what's the most precious thing to you?* [254, 628]
+  - **(기운이 없는) faint**
+    - 쓰러질 것 같아요. / *I feel faint* [328, 695]
+  - **(어지러운) dizzy**
+    - 어지러워요. / *I feel dizzy* [328, 695]
+    - 숨이 차고 형기증이 나요. / *I feel short of breath and dizzy* [328, 695] (※ '형기증' 타이포 보존)
+  - **(매스거운) nauseous**
+    - 어지럽고 속이 매스꺼워요. / *I feel dizzy and nauseous* [328, 695] (※ '매스거운', '매스꺼워요' 보존)
+  - **(흔한) common**
+    - 이런 일은 흔치 않아요. / *It's not a common thing* [328, 695]
+    - 걱정하지 마세요. 이런 일은 흔해요. / *Don't worry this sort of thing is common?* [328, 695] (※ 물음표 기호 유지)
+  - **(욕심많은) greedy**
+    - 그는 욕심이 많아요. / *He's so greedy* [328, 695]
+  - **(두꺼운) thick**
+    - 그 책은 두꺼워서 읽는데 몇 주가 걸릴 거야. / *The book is thick it will take weeks to read* [328, 695]
+    - 수프가 너무 걸쭉해 물을 더 넣어야 해 (걸쭉한 의미로). / *The soup is too thick it needs more water* [328, 695]
+    - 그는 짙은 눈썹을 가지고 있어요 (짙은 의미로). / *He has thick eyebrows* [328, 695]
+    - 안개가 너무 짙어서 아무것도 볼 수 없었어요 (짙은 의미로). / *The fog was so thick that we couldn't see anything* [329, 696]
+  - **(살찐) fat**
+    - 그녀는 운동을 그만두고 살이 많이 쪘어요. / *She has become quite fat after stopping her exercise routine* [329, 696]
+  - **(창배한) pale**
+    - (대화 형태) A: 너 얼굴이 창백해 보여 괜찮아? / A: *you look pale* B: *are you feeling okay?* [329, 696]
+    - 그녀는 거미를 보고 두려움에 창백해졌어요. / *She turned pale with fear when she saw the spider* [329, 696]
+  - **(막대한 어마어마한 광대한) // vast**
+    - 그 프로젝트는 막대한 시간 and 돈의 투자가 필요했어요. / *It required a vast investment of time and money* [329, 696]
+    - 그녀는 어마어마한 양의 책을 소장하고 있어요. / *She has a vast collection of books* [329, 696]
+    - 우주는 광대하고 신비로 가득 차. / *The universe is vast and full of mysteries* [329, 696]
+  - **(목이 마른) thirsty**
+    - (대화 형태) A: 갈증이 나네요. B: 물 한 잔 좀 줄 수 있나요? / A: *I feel thirsty* B: *can I have a glass of water?* [330, 697]
+  - **(건강한) healthy, fine**
+    - 그녀는 건강을 유지하기 위해 매일 운동을 해요. / *She exercises every day to stay healthy* [330, 697]
+    - 균형 잡힌 식사를 하면 건강을 유지하는데 도움이 됩니다. / *Eating a balanced diet helps you stay healthy* [330, 697]
+  - **(자랑스러운) proud**
+    - 난 내가 정말 자랑스러워. / *I'm so proud of you* [330, 697]
+    - 그건 정말 자랑할 만한게 못 돼요. / *It's nothing to be proud of* [330, 697]
+    - 그건 자부심을 가질 만한 일이죠. / *That's something to be proud of* [330, 697]
+    - 저는 한국인이라는 것이 자랑스러워요. / *I am proud of being Korean* [330, 697]
+  - **(어리석은) silly, stupid**
+    - 그건 어리석은 짓이었어요. / *That was a silly thing to do* [330, 697]
+    - (대화 형태) A: 너 정말 웃기다. B: *you're silly* [331, 697]
+    - 그건 어리석은 실수였어요. / *That was a stupid mistake* [331, 697]
+  - **(느긋한) lazy**
+    - 집에서 느긋한 일요일 아침을 보냈어요. / *I had a lazy Sunday morning at home* [331, 697]
+  - **(부지런한) hard working**
+    - 그녀는 어릴 때부터 부지런했어요. / *She has been hard working since she was a child* [331, 697]
+    - 그는 부지런한 사람이에요. / *He is a hard working person* [331, 697]
+  - **(수줍은) shy**
+    - (위에 '소심한'에서 다룸) [331, 697]
+  - **(못생긴) ugly**
+    - (대화 형태) A: 나 못생겨 보여? B: *I look ugly?* [331, 697] (※ 물음표 보존)
+    - (대화 형태) A: 아니야. B: 못생겨 보이지 않아. / A: *oh no* B: *you don't look ugly!* [331, 697]
+  - **(잘생긴) handsome**
+    - 그는 실물이 더 잘생겼어요. / *He looks even more handsome in person* [331, 697]
+    - (대화 형태) A: 너 오늘 멋져 보여. B: *you look handsome today* [331, 697]
+  - **(따뜻한) warm**
+    - 날씨가 따뜻해서 피크닉하기에 딱 좋았어요. / *The weather was warm and perfect for a picnic* [331, 697]
+  - **(성실한) hard worker, dedicated**
+    - 그녀는 성실한 사람이며 항상 최선을 다합니다. / *She is a hard worker and always does her best* [332, 698]
+  - **(어려운) hard**
+    - (위에 '힘든'에서 다룸) [332, 698]
+  - **(딱딱한) hard**
+    - 침대가 너무 딱딱해서 잠을 잘 수 없었어요. / *The bed was too hard I couldn't sleep well* [332, 698] (※ 'too hard I' 원형 보존)
+  - **(제한된) limited**
+    - 이거 한정판이에요. / *This is a limited edition* [332, 698]
+  - **(무제한의) unlimited**
+    - 무한리필이 가능합니다. / *You can have unlimited refills* [332, 698]
+  - **(척박한 결실 없는) / barren**
+    - 이 지역의 토양은 너무 척박해서 어떤 작물도 자랄 수 없어요. / *the soil in this area is too barren to grow any crops* [332, 698]
+    - 협상은 아무 소득 없이 결론을 내지 못했어요. / *the negotiation was barren leading to no agreement* [332, 698]
+  - **Infertile**
+    - 그들은 불임으로 인해 아이를 입양했어요. / *they adopted a child due to being infertile* [699]
+  - **(가파른 비싼) / steep**
+    - 길이 좀 가파르네요. / *The road is a little steep* [699]
+    - 계단이 좀 가파르네요. / *the stairs are kind of steep* [699]
+    - 너무 비싸요. / *A very steep price* [699]
+    - (대화 형태) A: 차는 마음에 드는데 B: 가격이 너무 비싸네요. / A: *I like the car* B: *but the price is too steep* [699]
+  - **(쫄깃깃한 질긴) / chewy**
+    - 면이 쫄깃쫄깃하네요. / *The noodles are chewy* [699]
+    - 스테이크가 부드럽고 쫄깃쫄깃해요. / *the steak is tender and chewy* [699]
+    - 스테이크가 너무 익어서 질겨졌어요. / *the steak was overcooked and became chewy* [699] (※ '즐겨졌어요' 오타 복원)
+  - **(탱글탱글한) springy**
+    - 면발이 탱글탱글하네요. / *the noodles are really springy* [699]
+  - **(아삭아삭한) crunchy**
+    - 사과가 아삭아삭하네요. / *The apple is crunchy* [700]
+  - **(끈적끈적한) sticky**
+    - 밥이 질게 되었네요. / *The rice has come out sticky* [700]
+    - 오늘 날씨가 습하고 끈적끈적하네요. / *The weather is humid and sticky today* [700]
+    - 바닥이 끈적거리네요. / *The floor is sticky* [700]
+  - **(느끼한) Greasy**
+    - 피자는 맛있었는데 좀 느끼했어요. / *The pizza was delicious but a bit greasy* [700]
+  - **(기름진) oily**
+    - 기름진 음식을 많이 먹었더니 배탈이 났어요. / *I have an upset stomach from eating too much oily food* [700]
+    - 제 피부는 지성 피부예요. / *I have oily skin* [700]
+  - **(촉촉한) moist**
+    - 케이크가 촉촉하고 맛있네요. / *The cake is moist and delicious* [700]
+  - **(묽은) watery**
+    - 수프가 너무 묽네요. / *The soup is too watery* [700]
+  - **(굵은) coarse**
+    - 굵은 소금을 넣으세요. / *Add coarse salt* [700]
+  - **(무광의) mat**
+    - 무광 립스틱은 반짝임이 없고 부드럽게 발려요. / *Mat lipsticks have no shine and apply smoothly* [701]
+  - **(유광의) glossy**
+    - 유광 립스틱은 부드럽게 발리고 반짝임이 지속됩니다. / *Glossy lipsticks go on smoothly and stay shiny* [701]
+  - **(반짝이는) shiny**
+    - 블링블링하네요. / *It's shiny* [701]
+  - **(안개가 많이 낀) foggy**
+    - 안개가 많이 끼었네요 안전운전하세요. / *It's very foggy drive safely* [701]
+  - **(뿌연) hazy**
+    - 대기오염으로 하늘이 뿌여요. / *The sky is hazy due to air pollution* [701] (※ '하늘이 뿌여요' 전사 보존)
+  - **(흐린) cloudy**
+    - 날씨가 좀 흐리네요. / *The weather is a bit cloudy* [701]
+  - **Solid**
+    - 오늘 우리 아이 이유식 시작했어요. / *We started our baby on solid foods today* [701]
+    - 단색은 없나요? / *Do you have any solid colors?* [701]
+  - **(시간이 있는) available**
+    - 저 시간 있어요. / *I'm available* [702]
+    - 저는 주말 내내 시간이 있으니 편한 시간 알려 주세요. / *I'm available all weekend so let me know what time works for you* [702]
+    - 오후 5시 이후에는 전화할 시간이 있어요. / *I'm available if you want to call after 5 PM* [702]
+  - **(충분한) sufficient, enough**
+    - 정말 열심히 했어 난 그것으로 충분하다고 생각해. / *I worked really hard on it I believe that's quite sufficient* [702]
+    - 우리는 집을 살만큼 충분한 돈을 모았어요. / *We saved enough money to buy a house* [702] (※ '살만큼' 보존)
+  - **(불충분한) insufficient**
+    - 좀 미흡할 수도 있지만 최선을 다했습니다. / *It might be insufficient but I did my best* [702]
+  - **(적절한) adequate**
+    - 저는 이 사람이 적임자라 생각해요. / *I think he is adequate* [702]
+  - **(정기적인/일반적인/단골의/규칙적인) regular**
+    - 저는 6개월에 한 번씩 정기 검진을 받아요. / *I go for a regular checkup every six months* [944]
+    - 전 아몬드 우유보다 일반 우유를 선호해요. / *I prefer regular milk over almond milk* [944]
+    - 그들은 이 식당의 단골 손님이에요. / *They are regular customers of this restaurant* [944]
+    - 규칙적인 운동은 혈액 순환을 좋게 합니다. / *regular exercise improves blood circulation* [944]
+  - **(안전한) secure**
+    - 시스템은 해커로부터 안전하도록 설계되었어요. / *the system is designed to be secure from hackers* [944]
+    - 그들은 안전한 동네에 살아요. / *they live in a secure neighborhood* [944]
+  - **(과학적인) scientific**
+    - 그건 과학적인 사실이에요. / *that's a scientific fact* [944]
+  - **(터무니없는) ridiculous**
+    - (대화 형태) A: 말도 안 되는 소리야. B: *that's ridiculous* [944]
+  - **(신뢰할 수 있는) reliable**
+    - 그녀는 정말 신뢰할 만해요. / *She is very reliable* [703]
+  - **(긍정적인) positive**
+    - (대화 형태) A: 긍정적으로 생각해. B: *stay positive* [703]
+  - **(인기 있는) popular**
+    - 이거 요즘 정말 인기가 많아요. / *It's really popular these days* [703]
+  - **(개인적인) personal**
+    - 그건 그냥 제 개인적인 의견이에요. / *That's just my personal opinion* [703]
+  - **(완벽한) perfect**
+    - 휴가를 가기에 타이밍이 딱 좋았어요. / *Timing was perfect for the vacation* [703]
+  - **(과체중의) overweight**
+    - 고양이는 지금 과체중이에요. / *The cat is overweight now* [703]
+  - **(긴장한) nervous**
+    - 그녀는 긴장하면 손톱을 물어뜯는 버릇이 있어요. / *She has a nervous habit of biting her nails* [703]
+  - **(필요한) necessary, essential**
+    - 그렇게까지 할 필요가 있었나 생각이 드네요. / *I don't think that was that necessary* [703]
+    - 그럴 필요는 없었어요. / *It wasn't necessary* [944]
+    - (대화 형태) A: 여행자 보험을 들어야 할까요? B: 네, 그건 필수예요. / A: *do we need to get travel insurance?* B: *yes, it's essential* [944]
+  - **(불법적인) illegal**
+    - 여기 주차하는 것은 불법입니다. / *it's illegal to park here* [944]
+  - **(합법적인) legal**
+    - 미국에서 합법적인 음주 연령은 21살입니다. / *the legal drinking age is 21 in the United States* [944]
+  - **(불가능한) Impossible**
+    - 시간 내에 마치는 건 불가능해. / *it's impossible to finish on time* [944] (※ '마치는 건' 보존)
+  - **Fluent**
+    - 그녀는 3개국어에 능통해요. / *she is fluent in three languages* [944]
+  - **(같은) equal, same, similar**
+    - 1 + 1은 2입니다. / *1 + 1 equals 2* [944]
+    - (대화 형태) A: 저랑 의견이 같네요. B: *we have the same opinion* [944]
+    - 우린 관심사가 비슷해요. / *we have similar interest* [944]
+  - **(연간의) annual**
+    - (대화 형태) A: 연봉이 어떻게 되나요? B: *what is your annual income?* [704]
+  - **(뚜렷한) distinct**
+    - 그 둘 사이에는 뚜렷한 차이가 있어요. / *there are distinct differences between the two* [704]
+    - 한국은 사계절이 뚜렷해요. / *korea has four distinct seasons* [704]
+  - **(알고 있는) aware**
+    - 알고 계셨나요? / *were you aware of it?* [704]
+    - (대화 형태) A: 말해 줘서 고마워요 전 몰랐었거든요. B: *thanks for telling me i wasn't aware of that* / *I'm aware of that* [704]
+  - **(갑작스러운) sudden**
+    - 그건 저한테 갑작스러운 변화였어요. / *It was a sudden change to me* [704]
+  - **Nasty**
+    - (대화 형태) A: 냄새가 역하네요. B: *it smells nasty* [704]
+  - **Gross**
+    - (대화 형태) A: 너무 더러워. B: *it's so gross* [704]
+    - 방이 지저분해서 청소해야 돼. / *the room is gross you need to clean it* [704]
+  - **(짧은) short**
+    - 여행은 짧았지만 재미있었어요. / *The trip was short but fun* [705]
+- **주요 인용**: > "(가파른 비싼) / steep ... 차는 마음에 드는데 가격이 너무 비싸네요 A: I like the car B: but the price is too steep ... (쫄깃쫄깃한 질긴) / chewy 면이 쫄깃쫄깃하네요 The noodles are chewy [699]"
+
+## 💡 주요 용어 (Key Terminology)
+
+- **Decent (다의적 실전 구어)**: 단순한 '괜찮은'의 수사를 넘어, 의복이나 주택 등이 품격 있고 남부럽지 않은(decent dress, decent house), 수입이 상당한, 인격이 예의 바르고 점잖은 뜻을 포괄하여 대화 일선에서 만능에 가깝게 변용되는 핵심 형용사.
+- **Corny / Cheesy (감정적 오글거림)**: 진부하고 케케묵어 독창성이 전무한 농담(Corny jokes)이나 지나친 신파로 오글거리는 정서, 또는 싸구려이고 유치한 감성을 일컬을 때 구사되는 원어민 전용 실전 속칭.
+- **Vague / Fuzzy / Tricky (애매성의 분기)**: 진술이 모호하여 갈피를 잡을 수 없는 상태(vague), 사진의 해상도가 흐릿하여 불분명하거나 생각 자체가 뿌연 국태(fuzzy), 그리고 해결하기가 까다롭고 진위가 헷갈려 난감한 사태(tricky)를 논리적으로 분할 형용하는 전사 개념.
+- **Used / Secondhand (중고 분류)**: 작년에 구매한 중고 차량이나 실생활 상품의 소유권 전이 상태(used car)와 직접 듣지 않고 타인의 손을 경유해 흘러온 간접 정보 및 중고품 상태(secondhand information)를 실전 전사하는 형용 표현.
+- **Lanky / Chunky / Voluptuous (체형 상세 형용)**: 마른 형용사(skinny)와 비교하여 멀대처럼 키가 크고 깡마른 성상(lanky), 포동포동하고 통통한 미립(chubby), 그리고 엉덩이와 바스트 곡선미가 어우러져 쭉쭉빵빵한 육감적 아름다움을 지칭하는 전문 형용사(curvaceous, voluptuous).
+
+## 🔗 연결 키워드 (Canonical Concepts)
+- **연결 키워드**: 영어형용사, 예문번역, 성격묘사, 상태형용, 감정표현, 구어체어휘, 어감비교, 회화패턴
+---
+
+---
+
+*source: NotebookLM / Step-by-Step English Speaking Training Patterns*

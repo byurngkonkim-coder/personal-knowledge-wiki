@@ -1,0 +1,1180 @@
+---
+title: "Grammar in Use(intermediate) Sh - Byurngkon Kim"
+category: "글로벌 어학 & 영어"
+type: "english_learning"
+project: "03_English Materials"
+notebook: "English_Epub"
+summary: "본 문서는 영어 문법 학습을 위한 30일 섀도잉(Shadowing) 연습 가이드로, 현재, 과거, 현재완료, 과거완료, 미래 시제 및 조동사, 가정법, 'used to', 요청/제안 등 주요 문법 요소를 실제 예문을 통해 반복 학습하여 Grammar, Speaking, Listening 능력을 동시에 향상시키는 것을 목표로 합니다"
+decision_status: "accepted"
+source: "Grammar in Use(intermediate) Sh - Byurngkon Kim.md"
+source_path: "03_English Materials/English_Epub/Grammar in Use(intermediate) Sh - Byurngkon Kim.md"
+created: 2026-10-02
+converted: 2026-10-02
+status: canonical
+tags:
+  - 영어학습
+  - 영어회화
+  - 영어-학습
+  - 섀도잉
+  - 문법
+  - 시제
+  - 조동사
+  - 가정법
+  - 회화
+  - 리스닝
+  - 발음
+  - 억양
+aliases: []
+---
+
+> ---
+> title: "Grammar in Use(intermediate) Sh - Byurngkon Kim"
+> aliases: []
+> tags: [english, speaking, pattern, source, mcp-extracted]
+> type: document
+> ---
+> # 🗣️ Grammar in Use(intermediate) Sh - Byurngkon Kim (Part: 전체)
+>
+> ## 🎯 학습 개요 (Learning Overview)
+> - **주요 학습 테마**: 30일 섀도잉을 통한 핵심 영어 문법(시제, 조동사, 가정법, used to, 요청/제안) 및 회화 능력 향상
+> - **핵심 수록 표현 수**: 40개 이상 (예문 기준)
+> - **학습 포인트**:
+> - 다양한 문법 요소를 실제 예문을 통해 반복 학습하여 자연스러운 습득 유도.
+> - 섀도잉 기법을 활용하여 발음, 억양, 유창성 등 스피킹 및 리스닝 능력 동시 강화.
+> - 현재, 과거, 완료, 미래 시제 및 조동사, 가정법, 'used to' 등 핵심 문법의 뉘앙스 차이 이해.
+>
+> ## 📚 무손실 핵심 표현 & 패턴 마스터 (Core Expressions & Patterns)
+>
+> ### 🔹 1. `Water boils at 100° C.` : 물은 100도에서 끓어요.
+> - **💡 뉘앙스 & 상황 맥락**: 변하지 않는 과학적 사실이나 일반적인 진리를 나타낼 때 사용하는 현재 시제.
+> - **🔊 발음 & 연음 팁 (Pronunciation Tip)**: `boils at`은 [보일스 앳]으로 자연스럽게 연결됩니다.
+> - **📝 실전 예문 (Real Examples)**:
+> - 🇺🇸 `The sun rises in the east.`
+> - 🇰🇷 태양은 동쪽에서 뜹니다.
+>
+> ### 🔹 2. `I get up at 8 o'clock every morning.` : 저는 매일 아침 8시에 일어나요.
+> - **💡 뉘앙스 & 상황 맥락**: 반복되는 습관이나 일상적인 루틴을 나타낼 때 사용하는 현재 시제.
+> - **🔊 발음 & 연음 팁 (Pronunciation Tip)**: `get up`은 [게럽]으로, `at 8`은 [애데잇]으로 연음됩니다.
+> - **📝 실전 예문 (Real Examples)**:
+> - 🇺🇸 `She goes to work by bus every day.`
+> - 🇰🇷 그녀는 매일 버스로 출근해요.
+>
+> ### 🔹 3. `I'm busy. What are you doing?` : 바빠요. 너는 뭐 하고 있어?
+> - **💡 뉘앙스 & 상황 맥락**: 지금 이 순간 일어나고 있는 행동이나 진행 중인 일을 나타내는 현재 진행 시제.
+> - **🔊 발음 & 연음 팁 (Pronunciation Tip)**: `What are you`는 [워러유] 또는 [워츄]로 축약될 수 있습니다.
+> - **📝 실전 예문 (Real Examples)**:
+> - 🇺🇸 `They are watching a movie right now.`
+> - 🇰🇷 그들은 지금 영화를 보고 있어요.
+>
+> ### 🔹 4. `I'm living with some friends until I find a place of my own.` : 저는 따로 살 곳을 찾을 때까지 친구들과 함께 살고 있어요.
+> - **💡 뉘앙스 & 상황 맥락**: 일시적인 상황이나 한정된 기간 동안 진행되는 일을 나타내는 현재 진행 시제.
+> - **🔊 발음 & 연음 팁 (Pronunciation Tip)**: `place of my own`은 [플레이서브 마이 오운]으로 자연스럽게 연결됩니다.
+> - **📝 실전 예문 (Real Examples)**:
+> - 🇺🇸 `He's working at a coffee shop this summer.`
+> - 🇰🇷 그는 이번 여름에 커피숍에서 일하고 있어요.
+>
+> ### 🔹 5. `The population of the world is increasing very quickly.` : 세계 인구는 매우 빠르게 증가하고 있어요.
+> - **💡 뉘앙스 & 상황 맥락**: 변화하고 있는 상황이나 추세를 나타낼 때 사용하는 현재 진행 시제.
+> - **🔊 발음 & 연음 팁 (Pronunciation Tip)**: `is increasing`에서 [이즈 인크리싱]으로, 강세는 `in-CREAS-ing`에 있습니다.
+> - **📝 실전 예문 (Real Examples)**:
+> - 🇺🇸 `The climate is changing rapidly.`
+> - 🇰🇷 기후가 빠르게 변하고 있어요.
+>
+> ### 🔹 6. `Kate wants to work in Italy so she's learning Italian.` : 케이트는 이탈리아에서 일하고 싶어 해요. 그래서 그녀는 이탈리아를 배우고 있어요.
+> - **💡 뉘앙스 & 상황 맥락**: 특정 목적을 가지고 지금 진행 중인 행동을 나타내는 현재 진행 시제.
+> - **🔊 발음 & 연음 팁 (Pronunciation Tip)**: `wants to`는 [원츠투] 또는 [워너]로 발음될 수 있습니다. `she's learning`은 [쉬즈 러닝]으로.
+> - **📝 실전 예문 (Real Examples)**:
+> - 🇺🇸 `He's saving money because he's planning a trip to Europe.`
+> - 🇰🇷 그는 유럽 여행을 계획하고 있어서 돈을 모으고 있어요.
+>
+> ### 🔹 7. `It was very cold yesterday.` : 어제는 매우 추웠어요.
+> - **💡 뉘앙스 & 상황 맥락**: 과거의 특정 시점에 발생하여 끝난 행동이나 상태를 나타내는 과거 시제.
+> - **🔊 발음 & 연음 팁 (Pronunciation Tip)**: `was very`는 [워즈 베리]로 자연스럽게 이어집니다.
+> - **📝 실전 예문 (Real Examples)**:
+> - 🇺🇸 `I went to the park last weekend.`
+> - 🇰🇷 저는 지난 주말에 공원에 갔어요.
+>
+> ### 🔹 8. `Paul and Lucy arrived 10 minutes ago.` : 폴과 루시는 10분 전에 도착했어요.
+> - **💡 뉘앙스 & 상황 맥락**: 과거의 명확한 시점(`10 minutes ago`)에 발생한 일을 나타내는 과거 시제.
+> - **🔊 발음 & 연음 팁 (Pronunciation Tip)**: `arrived`의 `ed`는 [드]로 발음됩니다. `minutes ago`는 [미닛츠 어고우]로.
+> - **📝 실전 예문 (Real Examples)**:
+> - 🇺🇸 `The train left an hour ago.`
+> - 🇰🇷 기차는 한 시간 전에 출발했어요.
+>
+> ### 🔹 9. `Did you eat a lot of sweets when you were a child?` : 어렸을 때 사탕을 많이 먹었나요?
+> - **💡 뉘앙스 & 상황 맥락**: 과거의 습관이나 상태에 대해 질문할 때 사용하는 과거 시제.
+> - **🔊 발음 & 연음 팁 (Pronunciation Tip)**: `Did you`는 [디쥬]로, `eat a lot of`는 [이러 랏옵]으로 연음됩니다.
+> - **📝 실전 예문 (Real Examples)**:
+> - 🇺🇸 `Did you live in New York before?`
+> - 🇰🇷 전에 뉴욕에 살았었나요?
+>
+> ### 🔹 10. `I fixed the washing machine.` : 세탁기를 고쳤어요.
+> - **💡 뉘앙스 & 상황 맥락**: 과거에 완료된 행동을 나타내는 과거 시제. 결과보다는 행동 자체에 초점.
+> - **🔊 발음 & 연음 팁 (Pronunciation Tip)**: `fixed`의 `ed`는 [트]로 발음됩니다.
+> - **📝 실전 예문 (Real Examples)**:
+> - 🇺🇸 `She cleaned her room yesterday.`
+> - 🇰🇷 그녀는 어제 방을 청소했어요.
+>
+> ### 🔹 11. `Who invented the telephone?` : 누가 전화기를 발명했어요?
+> - **💡 뉘앙스 & 상황 맥락**: 과거의 특정 사건이나 발명에 대해 질문할 때 사용하는 과거 시제.
+> - **🔊 발음 & 연음 팁 (Pronunciation Tip)**: `invented`의 `ed`는 [티드]로 발음됩니다.
+> - **📝 실전 예문 (Real Examples)**:
+> - 🇺🇸 `When did they build this bridge?`
+> - 🇰🇷 그들은 언제 이 다리를 건설했나요?
+>
+> ### 🔹 12. `I got home late last night.` : 어젯밤 늦게 집에 도착했어요.
+> - **💡 뉘앙스 & 상황 맥락**: 과거의 특정 시점(`last night`)에 발생한 일을 나타내는 과거 시제.
+> - **🔊 발음 & 연음 팁 (Pronunciation Tip)**: `got home`은 [가톰]으로, `last night`은 [래스 나잇]으로 자연스럽게 이어집니다.
+> - **📝 실전 예문 (Real Examples)**:
+> - 🇺🇸 `We watched a movie until midnight.`
+> - 🇰🇷 우리는 자정까지 영화를 봤어요.
+>
+> ### 🔹 13. `Paul is in hospital. He's been in hospital since Monday.` : 폴은 병원에 있어요. 그는 월요일부터 병원에 있었어요.
+> - **💡 뉘앙스 & 상황 맥락**: 과거에 시작된 상태가 현재까지 지속되고 있음을 나타내는 현재 완료 시제. `since`는 시작 시점을 나타냅니다.
+> - **🔊 발음 & 연음 팁 (Pronunciation Tip)**: `He's been`은 [히즈 빈]으로 축약됩니다. `since Monday`는 [신스 먼데이]로.
+> - **📝 실전 예문 (Real Examples)**:
+> - 🇺🇸 `I've lived in Seoul since 2015.`
+> - 🇰🇷 저는 2015년부터 서울에 살고 있어요.
+>
+> ### 🔹 14. `We know each other very well. We've known each other for a long time.` : 우리는 서로를 아주 잘 알아요. 오랫동안 알고 지냈어요.
+> - **💡 뉘앙스 & 상황 맥락**: 과거에 시작된 관계가 현재까지 지속되고 있음을 나타내는 현재 완료 시제. `for`는 기간을 나타냅니다.
+> - **🔊 발음 & 연음 팁 (Pronunciation Tip)**: `We've known`은 [위브 노운]으로 축약됩니다. `for a long time`은 [포러 롱 타임]으로.
+> - **📝 실전 예문 (Real Examples)**:
+> - 🇺🇸 `They've been married for ten years.`
+> - 🇰🇷 그들은 10년 동안 결혼 생활을 해왔어요.
+>
+> ### 🔹 15. `Richard has been doing the same job for 20 years.` : 리처드는 20년 동안 같은 일을 해오고 있어요.
+> - **💡 뉘앙스 & 상황 맥락**: 과거에 시작된 행동이 현재까지 계속 진행되고 있음을 강조하는 현재 완료 진행 시제.
+> - **🔊 발음 & 연음 팁 (Pronunciation Tip)**: `has been doing`은 [해즈 빈 두잉]으로, `for 20 years`는 [포 트웨니 이어즈]로.
+> - **📝 실전 예문 (Real Examples)**:
+> - 🇺🇸 `She has been studying English for five hours.`
+> - 🇰🇷 그녀는 5시간 동안 영어를 공부하고 있어요.
+>
+> ### 🔹 16. `I've been learning English since January.` : 나는 1월부터 영어를 배우고 있어요.
+> - **💡 뉘앙스 & 상황 맥락**: 과거 특정 시점(`January`)부터 현재까지 계속 진행 중인 행동을 나타내는 현재 완료 진행 시제.
+> - **🔊 발음 & 연음 팁 (Pronunciation Tip)**: `I've been learning`은 [아이브 빈 러닝]으로 축약됩니다.
+> - **📝 실전 예문 (Real Examples)**:
+> - 🇺🇸 `We've been waiting for the bus since 9 AM.`
+> - 🇰🇷 우리는 오전 9시부터 버스를 기다리고 있어요.
+>
+> ### 🔹 17. `It's been raining all morning.` : 아침 내내 비가 내리고 있어요.
+> - **💡 뉘앙스 & 상황 맥락**: 과거부터 현재까지 계속 진행된 날씨와 같은 상황을 나타내는 현재 완료 진행 시제.
+> - **🔊 발음 & 연음 팁 (Pronunciation Tip)**: `It's been raining`은 [이츠 빈 레이닝]으로 축약됩니다. `all morning`은 [올 모닝]으로.
+> - **📝 실전 예문 (Real Examples)**:
+> - 🇺🇸 `The baby has been crying for an hour.`
+> - 🇰🇷 아기가 한 시간 동안 울고 있어요.
+>
+> ### 🔹 18. `How long has it been raining?` : 비가 얼마나 오래 내리고 있어요?
+> - **💡 뉘앙스 & 상황 맥락**: 과거부터 현재까지 어떤 행동이 얼마나 오랫동안 진행되었는지 묻는 현재 완료 진행 시제 의문문.
+> - **🔊 발음 & 연음 팁 (Pronunciation Tip)**: `How long has it been`은 [하우 롱 해즈 잇 빈]으로 자연스럽게 이어집니다.
+> - **📝 실전 예문 (Real Examples)**:
+> - 🇺🇸 `How long have you been working here?`
+> - 🇰🇷 여기서 얼마나 오래 일하고 계세요?
+>
+> ### 🔹 19. `They've known each other since they were at school.` : 조와 케이트는 학교 다닐 때부터 서로를 알고 있었어요.
+> - **💡 뉘앙스 & 상황 맥락**: 과거의 특정 시점(`when they were at school`)부터 현재까지 지속된 관계를 나타내는 현재 완료 시제.
+> - **🔊 발음 & 연음 팁 (Pronunciation Tip)**: `They've known`은 [데이브 노운]으로 축약됩니다. `at school`은 [앳 스쿨]로.
+> - **📝 실전 예문 (Real Examples)**:
+> - 🇺🇸 `She's been a doctor since she graduated.`
+> - 🇰🇷 그녀는 졸업한 이후로 의사였어요.
+>
+> ### 🔹 20. `It's been two years since I last saw Jo.` : 마지막으로 조를 본지 2년이 지났어요.
+> - **💡 뉘앙스 & 상황 맥락**: 특정 과거 시점 이후로 얼마나 시간이 흘렀는지 나타내는 표현.
+> - **🔊 발음 & 연음 팁 (Pronunciation Tip)**: `It's been`은 [이츠 빈]으로 축약됩니다. `last saw`는 [래스트 쏘]로.
+> - **📝 실전 예문 (Real Examples)**:
+> - 🇺🇸 `It's been a long time since we met.`
+> - 🇰🇷 우리가 만난 지 오래되었어요.
+>
+> ### 🔹 21. `I haven't seen Lisa.` : 저는 리사를 보지 못했어요.
+> - **💡 뉘앙스 & 상황 맥락**: 과거의 어떤 시점부터 현재까지 특정 행동을 하지 않았음을 나타내는 현재 완료 시제.
+> - **🔊 발음 & 연음 팁 (Pronunciation Tip)**: `haven't seen`은 [해븐트 씬]으로 발음됩니다.
+> - **📝 실전 예문 (Real Examples)**:
+> - 🇺🇸 `He hasn't finished his homework yet.`
+> - 🇰🇷 그는 아직 숙제를 끝내지 못했어요.
+>
+> ### 🔹 22. `I've never ridden a horse.` : 저는 말을 타 본 적이 없어요.
+> - **💡 뉘앙스 & 상황 맥락**: 과거부터 현재까지의 경험 유무를 나타내는 현재 완료 시제. `never`는 부정적인 경험을 강조합니다.
+> - **🔊 발음 & 연음 팁 (Pronunciation Tip)**: `I've never`는 [아이브 네버]로 축약됩니다. `ridden a`는 [리든 어]로 연음됩니다.
+> - **📝 실전 예문 (Real Examples)**:
+> - 🇺🇸 `She has never traveled abroad.`
+> - 🇰🇷 그녀는 해외여행을 해본 적이 없어요.
+>
+> ### 🔹 23. `Somebody has invented a new type of washing machine.` : 누군가 새로운 종류의 세탁기를 발명했어요.
+> - **💡 뉘앙스 & 상황 맥락**: 과거에 일어난 일이 현재와 관련이 있거나, 그 결과가 현재에 영향을 미칠 때 사용하는 현재 완료 시제. 발명 시점은 중요하지 않고, 발명했다는 사실 자체가 현재의 뉴스.
+> - **🔊 발음 & 연음 팁 (Pronunciation Tip)**: `has invented`는 [해즈 인벤티드]로 발음됩니다. `type of`는 [타입 옵]으로 연음됩니다.
+> - **📝 실전 예문 (Real Examples)**:
+> - 🇺🇸 `The company has launched a new product.`
+> - 🇰🇷 그 회사는 신제품을 출시했어요.
+>
+> ### 🔹 24. `I've fixed the washing machine. It works well now.` : 세탁기를 고쳤어요. 이제 잘 작동하고 있어요.
+> - **💡 뉘앙스 & 상황 맥락**: 과거의 행동 결과가 현재에 직접적인 영향을 미치거나 현재 상태를 설명할 때 사용하는 현재 완료 시제.
+> - **🔊 발음 & 연음 팁 (Pronunciation Tip)**: `I've fixed`는 [아이브 픽스트]로 축약됩니다. `works well`은 [웍스 웰]로.
+> - **📝 실전 예문 (Real Examples)**:
+> - 🇺🇸 `I've cleaned the kitchen. It's sparkling.`
+> - 🇰🇷 부엌을 청소했어요. 반짝반짝 빛나요.
+>
+> ### 🔹 25. `Hannah has had a baby. It's a boy. That's great news.` : 해나는 아기를 낳았어요. 남자아이예요. 정말 좋은 소식이에요.
+> - **💡 뉘앙스 & 상황 맥락**: 과거에 일어난 사건이 현재와 관련이 있거나, 현재의 소식으로 전달될 때 사용하는 현재 완료 시제.
+> - **🔊 발음 & 연음 팁 (Pronunciation Tip)**: `has had`는 [해즈 해드]로 발음됩니다. `That's great news`는 [댓츠 그레잇 뉴스]로.
+> - **📝 실전 예문 (Real Examples)**:
+> - 🇺🇸 `My sister has bought a new house.`
+> - 🇰🇷 제 여동생이 새 집을 샀어요.
+>
+> ### 🔹 26. `It began raining two hours ago and it's still raining.` : 두 시간 전에 비가 오기 시작했고 지금도 계속 내리고 있어요.
+> - **💡 뉘앙스 & 상황 맥락**: 과거 특정 시점에 시작되어 현재까지 지속되는 행동을 설명할 때, 과거 시제와 현재 진행 시제를 함께 사용하여 명확히 표현.
+> - **🔊 발음 & 연음 팁 (Pronunciation Tip)**: `began raining`은 [비갠 레이닝]으로, `still raining`은 [스틸 레이닝]으로.
+> - **📝 실전 예문 (Real Examples)**:
+> - 🇺🇸 `He started learning French last year and he's still studying it.`
+> - 🇰🇷 그는 작년에 프랑스어를 배우기 시작했고 지금도 계속 공부하고 있어요.
+>
+> ### 🔹 27. `Where have you been? I've been looking for you for the last half hour.` : 어디 있었어요? 지난 30분 동안 당신을 찾고 있었어요.
+> - **💡 뉘앙스 & 상황 맥락**: 과거부터 현재까지 일정 기간 동안 계속된 행동을 나타내는 현재 완료 진행 시제. 상대방의 부재에 대한 질문과 그에 대한 자신의 행동 설명.
+> - **🔊 발음 & 연음 팁 (Pronunciation Tip)**: `Where have you been`은 [웨어 해뷰 빈]으로, `I've been looking for you`는 [아이브 빈 루킹 포 유]로 축약 및 연음됩니다. `last half hour`는 [래스트 해프 아워]로.
+> - **📝 실전 예문 (Real Examples)**:
+> - 🇺🇸 `What have you been doing? I've been cleaning the garage.`
+> - 🇰🇷 뭐 하고 있었어요? 차고를 청소하고 있었어요.
+>
+> ### 🔹 28. `It's good to see you again. We haven't seen each other for a long time.` : 다시 만나서 반가워요. 우리 정말 오랜만이에요.
+> - **💡 뉘앙스 & 상황 맥락**: 오랜 기간 동안 서로를 보지 못했음을 나타내는 현재 완료 시제.
+> - **🔊 발음 & 연음 팁 (Pronunciation Tip)**: `haven't seen each other`는 [해븐트 씬 이치 아더]로 연음됩니다. `for a long time`은 [포러 롱 타임]으로.
+> - **📝 실전 예문 (Real Examples)**:
+> - 🇺🇸 `I haven't heard from him since last year.`
+> - 🇰🇷 작년 이후로 그에게서 소식을 듣지 못했어요.
+>
+> ### 🔹 29. `I've drunk four cups of coffee today.` : 오늘 커피 네 잔 마셨어요.
+> - **💡 뉘앙스 & 상황 맥락**: 아직 끝나지 않은 기간(`today`) 동안의 경험이나 완료된 행동을 나타내는 현재 완료 시제.
+> - **🔊 발음 & 연음 팁 (Pronunciation Tip)**: `I've drunk`는 [아이브 드렁크]로 축약됩니다. `four cups of`는 [포 컵스 옵]으로 연음됩니다.
+> - **📝 실전 예문 (Real Examples)**:
+> - 🇺🇸 `She has read two books this week.`
+> - 🇰🇷 그녀는 이번 주에 책 두 권을 읽었어요.
+>
+> ### 🔹 30. `When Sarah arrived at the party, Paul had already gone home.` : 사라가 파티에 도착했을 때 폴은 이미 집에 가고 없었어요.
+> - **💡 뉘앙스 & 상황 맥락**: 과거의 특정 시점(`Sarah arrived`) 이전에 이미 완료된 행동(`Paul had already gone home`)을 나타내는 과거 완료 시제.
+> - **🔊 발음 & 연음 팁 (Pronunciation Tip)**: `had already gone`은 [해드 올레디 곤]으로 발음됩니다. `arrived at`은 [어라이브드 앳]으로 연음됩니다.
+> - **📝 실전 예문 (Real Examples)**:
+> - 🇺🇸 `By the time I got to the station, the train had already left.`
+> - 🇰🇷 내가 역에 도착했을 때, 기차는 이미 떠났었다.
+>
+> ### 🔹 31. `When we got home last night, we found that somebody had broken into the flat.` : 어젯밤 집에 도착했을 때 누군가 집에 침입한 걸 발견했어요.
+> - **💡 뉘앙스 & 상황 맥락**: 과거의 특정 시점(`we got home`) 이전에 발생한 사건(`somebody had broken into the flat`)을 나타내는 과거 완료 시제.
+> - **🔊 발음 & 연음 팁 (Pronunciation Tip)**: `had broken into`는 [해드 브로큰 인투]로 발음됩니다. `got home`은 [가톰]으로 연음됩니다.
+> - **📝 실전 예문 (Real Examples)**:
+> - 🇺🇸 `I realized I had forgotten my keys after I left the house.`
+> - 🇰🇷 집을 나선 후에 열쇠를 잊었다는 것을 깨달았다.
+>
+> ### 🔹 32. `Karen didn't come with us to the cinema. She had already seen the movie.` : 카레는 우리와 함께 영화관에 가지 않았어요. 그녀는 이미 그 영화를 봤어요.
+> - **💡 뉘앙스 & 상황 맥락**: 과거의 어떤 행동(`didn't come`)의 이유가 그 이전에 완료된 다른 행동(`had already seen`) 때문임을 설명할 때 사용하는 과거 완료 시제.
+> - **🔊 발음 & 연음 팁 (Pronunciation Tip)**: `had already seen`은 [해드 올레디 씬]으로 발음됩니다. `didn't come with us`는 [디든 컴 위더스]로.
+> - **📝 실전 예문 (Real Examples)**:
+> - 🇺🇸 `He couldn't join us for dinner because he had already eaten.`
+> - 🇰🇷 그는 이미 식사를 했기 때문에 우리와 저녁 식사를 함께 할 수 없었다.
+>
+> ### 🔹 33. `The people sitting next to me on the plane were nervous. They hadn't flown before.` : 그 비행기에서 내 옆에 앉아 있던 사람들은 긴장했어요. 그들은 비행기를 타본 적이 없었어요.
+> - **💡 뉘앙스 & 상황 맥락**: 과거의 특정 시점(`were nervous`) 이전에 경험이 없었음을 나타내는 과거 완료 시제.
+> - **🔊 발음 & 연음 팁 (Pronunciation Tip)**: `hadn't flown`은 [해든트 플로운]으로 발음됩니다. `sitting next to me`는 [시팅 넥스트 투 미]로.
+> - **📝 실전 예문 (Real Examples)**:
+> - 🇺🇸 `She was scared because she had never seen a ghost before.`
+> - 🇰🇷 그녀는 전에 유령을 본 적이 없었기 때문에 무서워했다.
+>
+> ### 🔹 34. `Kate had just got home when I phoned. She had been at her mother's house.` : 제가 전화했을 때 케이트는 막 집에 도착했어요. 그녀는 어머니 집에 있었어요.
+> - **💡 뉘앙스 & 상황 맥락**: 과거의 특정 시점(`I phoned`) 이전에 막 완료된 행동(`had just got home`)과 그 이전부터 지속된 상태(`had been at her mother's house`)를 동시에 설명하는 과거 완료 시제.
+> - **🔊 발음 & 연음 팁 (Pronunciation Tip)**: `had just got home`은 [해드 저스트 갓 홈]으로, `had been at`은 [해드 빈 앳]으로 연음됩니다.
+> - **📝 실전 예문 (Real Examples)**:
+> - 🇺🇸 `He had just finished eating when I arrived. He had been cooking all afternoon.`
+> - 🇰🇷 내가 도착했을 때 그는 막 식사를 마쳤었다. 그는 오후 내내 요리하고 있었다.
+>
+> ### 🔹 35. `My hands were dirty because I'd been repairing my bike.` : 자전거를 고치고 있었기 때문에 손이 더러웠어요.
+> - **💡 뉘앙스 & 상황 맥락**: 과거의 특정 시점(`My hands were dirty`) 이전에 어떤 행동이 계속 진행되고 있었음을 나타내는 과거 완료 진행 시제. 결과(`dirty hands`)의 원인을 설명.
+> - **🔊 발음 & 연음 팁 (Pronunciation Tip)**: `I'd been repairing`은 [아이드 빈 리페어링]으로 축약됩니다. `dirty because`는 [더티 비코즈]로 연음됩니다.
+> - **📝 실전 예문 (Real Examples)**:
+> - 🇺🇸 `She was tired because she had been working hard.`
+> - 🇰🇷 그녀는 열심히 일하고 있었기 때문에 피곤했다.
+>
+> ### 🔹 36. `Tom was tired when he got home. He had been working hard all day.` : 톰은 집에 도착했을 때 피곤했어요. 그는 하루 종일 열심히 일하고 있었어요.
+> - **💡 뉘앙스 & 상황 맥락**: 과거의 특정 시점(`he got home`) 이전에 어떤 행동이 계속 진행되고 있었음을 나타내는 과거 완료 진행 시제. 상태(`tired`)의 원인을 설명.
+> - **🔊 발음 & 연음 팁 (Pronunciation Tip)**: `had been working`은 [해드 빈 워킹]으로 발음됩니다. `all day`는 [올 데이]로.
+> - **📝 실전 예문 (Real Examples)**:
+> - 🇺🇸 `His eyes were red because he had been crying.`
+> - 🇰🇷 그의 눈은 빨개져 있었다. 그는 울고 있었기 때문이었다.
+>
+> ### 🔹 37. `I'll just make a quick call. Can you wait for me?` : 잠깐 전화 좀 할게요. 기다려 줄 수 있어요?
+> - **💡 뉘앙스 & 상황 맥락**: 즉흥적인 결정이나 의지를 나타낼 때 사용하는 `will`.
+> - **🔊 발음 & 연음 팁 (Pronunciation Tip)**: `I'll just`는 [아일 저스트]로 축약됩니다. `make a quick call`은 [메이커 퀵 콜]로.
+> - **📝 실전 예문 (Real Examples)**:
+> - 🇺🇸 `Oh, I'm thirsty. I'll get some water.`
+> - 🇰🇷 아, 목마르다. 물 좀 가져올게.
+>
+> ### 🔹 38. `This cheese smells horrible. I'm not going to eat it.` : 이 치즈 냄새가 끔찍해요. 먹지 않을 거예요.
+> - **💡 뉘앙스 & 상황 맥락**: 이미 결정된 계획이나 의도를 나타내거나, 현재 상황을 근거로 한 예측을 나타낼 때 사용하는 `be going to`.
+> - **🔊 발음 & 연음 팁 (Pronunciation Tip)**: `smells horrible`은 [스멜스 호러블]로, `going to`는 [고너]로 축약될 수 있습니다.
+> - **📝 실전 예문 (Real Examples)**:
+> - 🇺🇸 `I'm going to visit my grandparents next weekend.`
+> - 🇰🇷 저는 다음 주말에 할머니 댁에 갈 거예요.
+>
+> ### 🔹 39. `I'm leaving next week. I've booked my flight.` : 다음 주에 떠나요. 비행기표는 예약했어요.
+> - **💡 뉘앙스 & 상황 맥락**: 가까운 미래의 확정된 계획이나 일정을 나타낼 때 사용하는 현재 진행 시제. 이미 준비가 완료된 상태를 암시.
+> - **🔊 발음 & 연음 팁 (Pronunciation Tip)**: `I'm leaving`은 [아임 리빙]으로 축약됩니다. `booked my flight`은 [북트 마이 플라잇]으로.
+> - **📝 실전 예문 (Real Examples)**:
+> - 🇺🇸 `We're having dinner with friends tonight.`
+> - 🇰🇷 우리는 오늘 밤 친구들과 저녁을 먹을 거예요.
+>
+> ### 🔹 40. `I have a driving lesson tomorrow.` : 저는 내일 운전 연습이 있어요.
+> - **💡 뉘앙스 & 상황 맥락**: 확정된 일정이나 스케줄을 나타낼 때 사용하는 현재 시제.
+> - **🔊 발음 & 연음 팁 (Pronunciation Tip)**: `driving lesson`은 [드라이빙 레슨]으로 발음됩니다.
+> - **📝 실전 예문 (Real Examples)**:
+> - 🇺🇸 `The concert starts at 7 PM.`
+> - 🇰🇷 콘서트는 저녁 7시에 시작해요.
+>
+> ### 🔹 41. `The meeting is at 9:00 tomorrow.` : 회의는 내일 9시에 있어요.
+> - **💡 뉘앙스 & 상황 맥락**: 정해진 일정이나 공식적인 스케줄을 나타낼 때 사용하는 현재 시제.
+> - **🔊 발음 & 연음 팁 (Pronunciation Tip)**: `meeting is at`은 [미팅 이즈 앳]으로 연음됩니다.
+> - **📝 실전 예문 (Real Examples)**:
+> - 🇺🇸 `My flight departs at 10 AM.`
+> - 🇰🇷 제 비행기는 오전 10시에 출발해요.
+>
+> ### 🔹 42. `I hear Sarah won the lottery. What is she going to do with the money? She's going to buy a new car.` : 사라가 복권에 당첨됐대요. 그녀는 그 돈으로 무엇을 할 예정이에요? 그녀는 새 차를 살 예정이에요.
+> - **💡 뉘앙스 & 상황 맥락**: 미래의 계획이나 의도를 묻고 답할 때 사용하는 `be going to`.
+> - **🔊 발음 & 연음 팁 (Pronunciation Tip)**: `going to do`는 [고너 두]로, `going to buy`는 [고너 바이]로 축약될 수 있습니다.
+> - **📝 실전 예문 (Real Examples)**:
+> - 🇺🇸 `What are you going to do this weekend? I'm going to relax at home.`
+> - 🇰🇷 이번 주말에 뭐 할 거예요? 집에서 쉴 거예요.
+>
+> ### 🔹 43. `Look at those black clouds. It's going to rain.` : 검은 구름 좀 봐요. 비가 올 거 같아요.
+> - **💡 뉘앙스 & 상황 맥락**: 현재 상황을 근거로 한 확실한 미래 예측을 나타낼 때 사용하는 `be going to`.
+> - **🔊 발음 & 연음 팁 (Pronunciation Tip)**: `Look at those`는 [루캣 도우즈]로 연음됩니다. `going to rain`은 [고너 레인]으로.
+> - **📝 실전 예문 (Real Examples)**:
+> - 🇺🇸 `Be careful! You're going to drop that glass.`
+> - 🇰🇷 조심해! 그 유리잔 떨어뜨릴 것 같아.
+>
+> ### 🔹 44. `I feel terrible. I think I'm going to be sick.` : 몸이 너무 안 좋아요. 토할 것 같아요.
+> - **💡 뉘앙스 & 상황 맥락**: 현재의 몸 상태를 근거로 한 미래 예측을 나타낼 때 사용하는 `be going to`.
+> - **🔊 발음 & 연음 팁 (Pronunciation Tip)**: `feel terrible`은 [필 테러블]로, `going to be sick`은 [고너 비 씩]으로.
+> - **📝 실전 예문 (Real Examples)**:
+> - 🇺🇸 `My head hurts. I think I'm going to have a fever.`
+> - 🇰🇷 머리가 아파요. 열이 날 것 같아요.
+>
+> ### 🔹 45. `The economic situation is bad now and things are going to get worse.` : 지금 경제 상황이 안 좋고 더 나빠질 거예요.
+> - **💡 뉘앙스 & 상황 맥락**: 현재의 추세나 상황을 바탕으로 한 미래 예측을 나타낼 때 사용하는 `be going to`.
+> - **🔊 발음 & 연음 팁 (Pronunciation Tip)**: `economic situation`은 [이커나믹 시츄에이션]으로, `going to get worse`는 [고너 겟 워스]로.
+> - **📝 실전 예문 (Real Examples)**:
+> - 🇺🇸 `The company is losing money. It's going to go bankrupt.`
+> - 🇰🇷 그 회사는 돈을 잃고 있어요. 파산할 것 같아요.
+>
+> ### 🔹 46. `I don't know what I'm going to do about the problem.` : 그 문제에 대해 어떻게 해야 할지 모르겠어요.
+> - **💡 뉘앙스 & 상황 맥락**: 미래에 대한 계획이나 의도가 불분명하거나 고민 중일 때 사용하는 `be going to`.
+> - **🔊 발음 & 연음 팁 (Pronunciation Tip)**: `don't know what I'm`은 [돈 노우 워라임]으로 연음됩니다. `going to do`는 [고너 두]로.
+> - **📝 실전 예문 (Real Examples)**:
+> - 🇺🇸 `I'm not sure where I'm going to live next year.`
+> - 🇰🇷 내년에 어디서 살지 확실하지 않아요.
+>
+> ### 🔹 47. `We were going to travel by train but we decided to drive instead.` : 우리는 기차로 여행할 예정이었지만 대신 운전해서 가기로 했어요.
+> - **💡 뉘앙스
+
+---
+
+> ### 💡 AI Executive Summary & 비즈니스 인사이트
+> 📌 **핵심 요약 (Executive Summary):** 본 문서는 영어 문법 학습을 위한 30일 섀도잉(Shadowing) 연습 가이드로, 현재, 과거, 현재완료, 과거완료, 미래 시제 및 조동사, 가정법, 'used to', 요청/제안 등 주요 문법 요소를 실제 예문을 통해 반복 학습하여 Grammar, Speaking, Listening 능력을 동시에 향상시키는 것을 목표로 합니다.
+>
+> 🎯 **추진 배경 및 핵심 과제:**
+> - 영어 문법 및 회화 능력 향상을 위한 효과적인 학습 방법론 부재
+> - 다양한 문법 요소를 자연스럽게 습득하고 실제 의사소통에 적용하는 능력 부족
+> - 학습자가 스스로 발음, 억양, 유창성을 개선할 수 있는 체계적인 연습 가이드 필요
+>
+> 🚀 **핵심 추진 모델 및 실행 체계:**
+> - **30일 섀도잉 연습**: 제공된 문법 예문을 활용하여 매일 꾸준히 섀도잉 연습을 진행합니다.
+> - **단계별 섀도잉 팁**:
+>   1. **작게 시작**: 짧은 문장에서 긴 문장으로 점진적 확장.
+>   2. **소리만 듣고 따라하기**: 스크립트 없이 원어민 발음, 억양 모방.
+>   3. **스크립트 보며 따라하기**: 스크립트를 보며 발음, 억양, 끊어 읽기 확인 및 교정.
+>   4. **의미 이해**: 한국어 해석을 활용하여 문장의 의미를 이해하며 연습.
+>   5. **반복 학습**: 동일 문장/단락을 여러 번 반복하여 패턴 숙달.
+>   6. **녹음 및 비교**: 자신의 목소리를 녹음하여 원어민과 비교, 개선점 파악.
+>   7. **매일 꾸준히**: 30일 동안 매일 15분 또는 30분씩 정해진 시간 연습.
+> - **주요 문법 요소 학습**: 현재/현재 진행 시제, 과거 시제, 현재 완료, 과거 완료, 미래 시제(will, be going to, Present Continuous), 조동사(Can, Could, Be able to, Must, Can't), 가정법, Wish/If only, Used to, 요청 및 제안(Can, Could, Would, Shall, May) 등 핵심 문법 예문 활용.
+>
+> 📊 **핵심 정량 데이터 & 근거 (Key Figures & Metrics):**
+> - **연습 기간**: 30일
+> - **일일 연습 시간**: 15분 또는 30분
+> - **학습 목표**: Grammar, Speaking, Listening 능력 동시 향상
+> - **문법 항목**: 현재 시제, 현재 진행 시제, 과거 시제, 현재 완료, 과거 완료, 미래 시제(will, be going to, Present Continuous), 조동사(Can, Could, Be able to, Must, Can't), 가정법, Wish/If only, Used to, 요청 및 제안(Can, Could, Would, Shall, May)
+>
+> 💡 **주요 전문 용어 및 비즈니스 개념 (Key Terminology):**
+> - **섀도잉(Shadowing)**: 원어민의 음성을 그림자처럼 즉시 따라 말하며 발음, 억양, 리듬을 익히는 언어 학습 기법입니다.
+> - **현재 시제 (Present Simple)**: 사실, 습관, 반복적인 행동을 나타내는 문법 시제입니다.
+> - **현재 진행 시제 (Present Continuous)**: 지금 일어나고 있는 일이나 일시적인 상황을 나타내는 문법 시제입니다.
+> - **과거 시제 (Past Simple)**: 과거에 시작되어 과거에 끝난 특정 시점의 행동이나 상태를 나타내는 문법 시제입니다.
+> - **현재 완료 (Present Perfect)**: 과거에 시작된 행동이 현재까지 영향을 미치거나 계속되거나, 경험을 나타내는 문법 시제입니다.
+> - **과거 완료 (Past Perfect)**: 과거의 특정 시점 이전에 일어난 일을 나타내는 문법 시제입니다.
+> - **미래 시제 (Future Forms)**: 'will', 'be going to', 현재 진행 시제 등을 활용하여 미래의 계획, 의도, 예측을 나타내는 문법 시제입니다.
+> - **조동사 (Modal Verbs)**: 능력, 의무, 가능성, 추측, 제안 등 다양한 의미를 나타내는 동사입니다.
+> - **가정법 (Conditional Sentences)**: 특정 조건이 충족될 경우 발생할 수 있는 상황이나 과거 사실과 다른 가상 상황을 나타내는 문법 형식입니다.
+> - **Used to**: 과거의 습관이나 상태를 나타내며, 현재는 더 이상 그렇지 않다는 의미를 내포하는 표현입니다.
+>
+> 🔗 **지식위키 연결 키워드 (Canonical Concepts):**
+> 영어 학습, 섀도잉, 문법, 시제, 조동사, 가정법, 회화, 리스닝, 발음, 억양
+
+### 페이지 2
+
+다음은 제공된 소스에서 발췌한 예문들로, 30일간의 Shadowing 연습
+에 활용하시면 좋을 내용들입니다. 각 예문은 특정 문법 또는 표현 방식
+을 보여주며, 이를 반복적으로 따라 말함으로써 해당 패턴을 자연스럽게
+익힐 수 있습니다. 중요한 부분은 굵게 표시하겠습니다.
+1. 현재 시제와 현재 진행 시제 (Present Simple and Continuous)
+현재 시제는 사실, 습관, 반복적인 행동 등을 나타내고, 현재 진행 시제는
+지금 일어나고 있는 일이나 일시적인 상황을 나타냅니다. 이 둘의 차이
+를 Shadowing으로 익히는 것이 중요합니다.
+•  물은 100도에서 끓어요 (Water boils at 100° C). (불변의
+사실)
+•  저는 매일 아침 8시에 일어나요 (I get up at 8 o'clock
+every morning). (습관)
+•  바빠요 너는 뭐 하고 있어 (I'm busy. What are you
+doing?). (지금 하고 있는 일)
+•  저는 따로 살 곳을 찾을 때까지 친구들과 함께 살고 있어요
+(I'm living with some friends until I find a place of my
+own). (일시적인 상황)
+•  세계 인구는 매우 빠르게 증가하고 있어요 (The
+population of the world is increasing very quickly).
+(변화하는 상황)
+•  케이트는 이탈리아에서 일하고 싶어 해요 그래서 그녀는
+이탈리아를 배우고 있어요 (Kate wants to work in Italy
+so she's learning Italian). (목적을 가지고 지금 하고 있
+는 일)
+2. 과거 시제 (Past Simple)
+과거에 시작되어 과거에 끝난 특정 시점의 행동이나 상태를 나타낼 때
+사용합니다.
+•  어제는 매우 추웠어요 (It was very cold yesterday).
+•  폴과 루시는 10분 전에 도착했어요 (Paul and Lucy
+arrived 10 minutes ago).
+•  어렸을 때 사탕을 많이 먹었나요 (Did you eat a lot of
+sweets when you were a child?).
+•  세탁기를 고쳤어요 (I fixed the washing machine).
+•  누가 전화기를 발명했어요 (Who invented the
+telephone?).
+
+### 페이지 3
+
+•  어젯밤 늦게 집에 도착했어요 (I got home late last
+night).
+3. 현재 완료 (Present Perfect)
+과거에 시작된 행동이 현재까지 영향을 미치거나 계속되거나, 또는 경험
+을 나타낼 때 사용합니다. 'for'와 'since'와 함께 기간을 나타내는 경우
+가 많습니다.
+•  폴은 병원에 있어요 그는 월요일부터 병원에 있었어요
+(Paul is in hospital. He's been in hospital since
+Monday).
+•  우리는 서로를 아주 잘 알아요 오랫동안 알고 지냈어요
+(We know each other very well. We've known each
+other for a long time).
+•  리처드는 20년 동안 같은 일을 해오고 있어요 (Richard
+has been doing the same job for 20 years). (현재 완료
+진행 시제)
+•  나는 1월부터 영어를 배우고 있어요 (I've been learning
+English since January). (현재 완료 진행 시제)
+•  아침 내내 비가 내리고 있어요 (It's been raining all
+morning). (현재 완료 진행 시제)
+•  비가 얼마나 오래 내리고 있어요 (How long has it been
+raining?). (현재 완료 진행 시제)
+•  조와 케이트는 학교 다닐 때부터 서로를 알고 있었어요
+(They've known each other since they were at
+school).
+•  마지막으로 조를 본지 2년이 지났어요 (It's been two
+years since I last saw Jo).
+•  저는 2010년부터 여기서 일하고 있어요 (I've been
+working here since 2010). (현재 완료 진행 시제)
+•  저는 리사를 보지 못했어요 (I haven't seen Lisa).
+•  저는 말을 타 본 적이 없어요 (I've never ridden a
+horse). (경험)
+•  누군가 새로운 종류의 세탁기를 발명했어요 (Somebody
+has invented a new type of washing machine). (과거
+의 일이 현재와 관련됨)
+•  세탁기를 고쳤어요 이제 잘 작동하고 있어요 (I've fixed
+
+### 페이지 4
+
+the washing machine. It works well now). (과거의 행
+동 결과가 현재에 영향을 미침)
+•  해나는 아기를 낳았어요 남자아이예요 정말 좋은 소식이
+에요 (Hannah has had a baby. It's a boy. That's great
+news). (과거의 사건이 현재와 관련됨)
+•  얼마 동안 비가 내리고 있어요 (How long has it been
+raining?).
+•  두 시간 동안 비가 내리고 있어요 (It's been raining for
+two hours).
+•  얼마 동안 영어를 배우고 있었어요 (How long have you
+been learning English?).
+•  두 시간 전에 비가 오기 시작했고 지금도 계속 내리고 있어
+요 (It began raining two hours ago and it's still
+raining). (비교: 과거 특정 시점 시작 - 현재까지 지속)
+•  오디 있었어요 지난 30분 동안 당신을 찾고 있었어요
+(Where have you been? I've been looking for you for
+the last half hour). (현재 완료 진행 시제 - 일정 기간 동
+안 계속된 행동)
+•  다시 만나서 반가워요 우리 정말 오랜만이에요 (It's good
+to see you again. We haven't seen each other for a
+long time). (오랜 기간 동안 보지 못함)
+•  오늘 커피 네 잔 마셨어요 (I've drunk four cups of
+coffee today). (오늘이라는 아직 끝나지 않은 기간 동안
+의 행동)
+4. 과거 완료 (Past Perfect)
+과거의 특정 시점 이전에 일어난 일을 나타낼 때 사용합니다.
+•  사라가 파티에 도착했을 때 폴은 이미 집에 가고 없었어요
+(When Sarah arrived at the party, Paul had already
+gone home). (사라가 도착한 과거 시점 이전에 폴이 집에
+갔음)
+•  어젯밤 집에 도착했을 때 누군가 집에 침입한 걸 발견했어
+요 (When we got home last night, we found that
+somebody had broken into the flat). (집에 도착한 과거
+시점 이전에 침입 사건이 발생했음)
+•  카레는 우리와 함께 영화관에 가지 않았어요 그녀는 이미
+그 영화를 봤어요 (Karen didn't come with us to the
+
+### 페이지 5
+
+cinema. She had already seen the movie). (우리와 영
+화관에 간 과거 시점 이전에 영화를 봤음)
+•  그 비행기에서 내 옆에 앉아 있던 사람들은 긴장했어요 그
+들은 비행기를 타본 적이 없었어요 (The people sitting
+next to me on the plane were nervous. They hadn't
+flown before). (긴장했던 과거 시점 이전에 비행 경험이
+없었음)
+•  제가 전화했을 때 케이트는 막 집에 도착했어요 그녀는 어
+머니 집에 있었어요 (Kate had just got home when I
+phoned. She had been at her mother's house). (전화
+한 과거 시점 이전에 어머니 집에 있었음, 집에 막 도착한
+것도 전화 시점과 거의 동시에 발생)
+•  자전거를 고치고 있었기 때문에 손이 더러웠어요 (My
+hands were dirty because I'd been repairing my
+bike). (손이 더러웠던 과거 시점 이전에 자전거를 고치는
+행동이 계속되고 있었음 - 과거 완료 진행)
+•  톰은 집에 도착했을 때 피곤했어요 그는 하루 종일 열심히
+일하고 있었어요 (Tom was tired when he got home.
+He had been working hard all day). (집에 도착했던 과
+거 시점 이전에 하루 종일 일하는 행동이 계속되고 있었음
+- 과거 완료 진행)
+5. 미래 시제 (Future Forms: will, be going to, Present Continuous)
+•  'will'은 즉흥적인 결정, 예측, 약속 등을 나타냅니다.
+○  oh 나 화상을 입었어요 어떻게 그렇게 됐어요 (Oh,
+I've burnt myself. How did you do that?) 접시
+를 집었어요 (I picked up a hot dish.) 잠깐 전화
+좀 할게요 기다려 줄 수 있어요 (I'll just make a
+quick call. Can you wait for me?). (즉흥적인 결
+정)
+○  이 치즈 냄새가 끔찍해요 먹지 않을 거예요 (This
+cheese smells horrible. I'm not going to eat
+it). (의도/계획 또는 예측) (여기서는 'be going to'
+사용)
+○  다음 주에 떠나요 비행기표는 예약했어요 (I'm
+leaving next week. I've booked my flight). (확
+정된 계획 - 현재 진행 시제 사용)
+○  저는 내일 운전 연습이 있어요 (I have a driving
+lesson tomorrow). (확정된 일정 - 현재 시제 또는
+
+### 페이지 6
+
+'have got' 사용)
+○  회의는 내일 9시에 있어요 (The meeting is at
+9:00 tomorrow). (정해진 일정 - 현재 시제 사용)
+○  사라가 복권에 당첨됐대요 그녀는 그 돈으로 무엇
+을 할 예정이에요 그녀는 새 차를 살 예정이에요 (I
+hear Sarah won the lottery. What is she going
+to do with the money? She's going to buy a
+new car). (의도/계획)
+○  검은 구름 좀 봐요 비가 올 거 같아요 (Look at
+those black clouds. It's going to rain). (현재 상
+황을 근거로 한 예측)
+○  몸이 너무 안 좋아요 토할 것 같아요 (I feel
+terrible. I think I'm going to be sick). (현재 몸
+상태를 근거로 한 예측)
+○  지금 경제 상황이 안 좋고 더 나빠질 거예요 (The
+economic situation is bad now and things are
+going to get worse). (현재 상황을 근거로 한 예
+측)
+○  그 문제에 대해 어떻게 해야 할지 모르겠어요 (I
+don't know what I'm going to do about the
+problem). (의도/계획이 불분명할 때)
+○  그녀는 새 차를 살 예정이에요 (She's going to
+buy a new car). (계획)
+○  제가 전화했을 때 케이트는 막 집에 도착했어요 그
+녀는 어머니 집에 있었어요 (Kate had just got
+home when I phoned. She had been at her
+mother's house). (과거 시점에서의 계획/의도)
+○  우리는 기차로 여행할 예정이었지만 대신 운전해
+서 가기로 했어요 (We were going to travel by
+train but we decided to drive instead). (과거
+시점에서의 계획 - 실현되지 않음)
+○  비가 올 줄 알았는데 오지 않았어요 (I thought it
+was going to rain but it didn't). (과거 시점에서
+의 예측 - 실현되지 않음)
+•  'be going to'는 계획이나 의도를 나타내거나, 현재 상황을
+근거로 미래를 예측할 때 사용합니다.
+•  현재 진행 시제는 가까운 미래의 확정된 계획이나 일정을
+
+### 페이지 7
+
+나타낼 때 사용합니다.
+6. 조동사 (Modal Verbs)
+능력, 의무, 가능성, 추측, 제안 등 다양한 의미를 나타냅니다.
+•  Can / Could / Be able to: 능력 또는 가능성.
+○  당신은 어떤 외국어도 말할 수 있나요 (Can you
+speak any foreign languages?). (현재 능력)
+○  파리에 살고 있을 때 차가 있었나요 (Did you have
+a car when you were living in Paris?) 아니요 핸
+드폰이 없어서 당신에게 전화할 수 없었어요 (No, I
+didn't have my phone so I couldn't call you).
+(과거 능력의 부재)
+○  우리는 호텔에서 좋은 방을 가지고 있어요 호수를
+볼 수 있었어요 (We had a lovely room in the
+hotel. We could see the lake). (과거 특정 상황
+에서의 능력 - 감각 동사)
+○  방에 들어서자마자 가스 냄새를 맡을 수 있었어요
+(As soon as I walked into the room, I could
+smell gas). (과거 특정 상황에서의 능력 - 감각 동
+사)
+○  할아버지는 다섯 개의 언어를 말할 수 있었어요
+(My grandfather could speak five languages).
+(과거 전반적인 능력)
+○  화재가 빨리 번졌지만 모두 탈출할 수 있었어요
+(The fire spread quickly but everybody was
+able to escape). (과거 특정 상황에서의 능력 - 특
+히 어려움을 극복하고 해낸 일)
+○  그를 찾기 위해 사방을 찾아다녔지만 찾을 수 없었
+어요 (I looked for Max everywhere but I
+couldn't find him). (과거 특정 상황에서 능력이
+없었음)
+○  저는 큰 도시에 살 수 없어요 싫을 거예요 (I
+couldn't live in a big city. I'd hate it). (가상적인
+상황에서의 능력 부재)
+○  모든 것이 지금 좋아요 상황이 더 좋을 수 없어요
+(Everything is fine right now. Things couldn't
+be better). (극찬)
+
+### 페이지 8
+
+○  우리는 정말 좋은 휴가를 보냈어요 더 좋을 수 없었
+어요 (We had a really good holiday. It couldn't
+have been better). (과거 경험에 대한 극찬)
+○  나는 지금 10km를 뛸 수 없어요 충분히 건강하지
+않아요 (I couldn't run 10 km now. I'm not fit
+enough). (현재 능력 부재)
+○  어제 다리를 다쳐서 뛸 수 없었어요 (I couldn't
+run yesterday because I'd hurt my leg). (과거
+특정 상황에서의 능력 부재)
+○  제인에게 도움을 줄 수 있을지도 몰라요 (Jane
+might be able to help you / Jane may be able
+to help you). (미래의 가능성)
+•  Could (suggestion/possibility): 제안 또는 가능성.
+○  오늘 밤 뭐 할까요 (What shall we do tonight?)
+우리는 영화 보러 갈 수 있어요 (We could go to
+the cinema). (제안)
+○  다음 달에 파리에 가면 사라와 함께 지낼 수 있어요
+(When you go to Paris next month, you could
+stay with Sarah). (제안)
+○  이야기가 사실일 수도 있지만 저는 그렇게 생각하
+지 않아요 (The story could be true but I don't
+think it is). (가능성)
+○  리사가 몇 시에 오는지 몰라요 언제든지 올 수 있어
+요 (I don't know what time Lisa is coming. She
+could get here at any time). (가능성)
+○  날씨가 지금 좋지만 나중에 바뀔 수 있어요 (The
+weather is nice now but it could change
+later). (미래의 가능성)
+•  Could have + 과거분사: 과거에 가능했지만 일어나지 않
+은 일 또는 과거에 대한 추측.
+○  너무 피곤해서 일주일 내내 잘 수 있었어요 (I was
+so tired I could have slept for a week). (과거에
+대한 강한 가능성/과장)
+○  상황이 나빴지만 더 나쁠 수도 있었어요 (The
+situation was bad but it could have been
+worse). (과거에 일어나지 않은 더 나쁜 가능성)
+
+### 페이지 9
+
+○  왜 호텔에 머물렀어요 저와 함께 지낼 수도 있었잖
+아요 (Why did you stay at a hotel? You could
+have stayed with me). (과거에 가능했지만 하지
+않은 일 - 아쉬움/비판)
+○  데이비드는 운이 좋았어요 넘어졌을 때 다칠 수도
+있었지만 괜찮아요 (David was lucky. He could
+have hurt himself when he fell but he's all
+right). (과거에 일어날 수 있었던 위험)
+•  Must / Can't: 추측 (틀림없이 ~일 것이다 / ~일리가 없다).
+○  하루 종일 여행하셨으니 피곤하실 거예요 (You've
+been traveling all day. You must be tired). (현
+재 상황에 대한 강한 추측)
+○  루이즈는 분명 일에 매우 지루해할 거예요 매일 같
+은 일을 하거든요 (Louise must get very bored
+in her job. She does the same thing every
+day). (현재 상황에 대한 강한 추측)
+○  방금 점심을 드셨으니 벌써 배고플 리가 없어요
+(You've just had lunch. You can't be hungry
+already). (현재 상황에 대한 부정적인 강한 추측)
+○  그들은 여기 오래 살지 않았으니 많은 사람들을 알
+리가 없어요 (They haven't lived here for very
+long. They can't know many people). (현재 상
+황에 대한 부정적인 강한 추측)
+•  Must have + 과거분사 / Can't have + 과거분사: 과거에
+대한 추측 (틀림없이 ~했었을 것이다 / ~했었을 리가 없
+다).
+○  집에 아무도 없어요 외출했나 봐요 (There's
+nobody at home. They must have gone out).
+(과거 행동에 대한 강한 추측)
+○  장갑 하나를 잃어버렸어요 어딘가에 떨어뜨렸나
+봐요 (I lost one of my gloves. I must have
+dropped it somewhere). (과거 행동에 대한 강한
+추측)
+○  우리는 고속도로 아주 가까이에 살았었어요 시끄
+러웠을 거예요 (We used to live very near the
+motorway. It must have been noisy). (과거 상
+황에 대한 강한 추측)
+○  사라가 저에게 연락하지 않았어요 제 메시지를 받
+
+### 페이지 10
+
+지 못했나 봐요 (Sarah hasn't contacted me.
+She can't have got my message). (과거 행동에
+대한 부정적인 강한 추측)
+○  맥스가 벽에 부딪혔어요 그가 가는 곳을 보고 있었
+을 리가 없어요 (Max walked into a wall. He
+can't have been looking where he was going).
+(과거 행동에 대한 부정적인 강한 추측)
+•  May / Might: 가능성 또는 불확실성.
+○  그것은 사실일 수도 있어요 (It may be true. / It
+might be true). (가능성)
+○  그녀는 알 수도 있어요 (She might know. / She
+may know). (가능성)
+○  그것은 사실이 아닐 수도 있어요 (It may not be
+true). (부정적인 가능성)
+○  그녀는 모를 수도 있어요 (She might not know).
+(부정적인 가능성)
+○  케이트가 왜 전화를 받지 않았는지 궁금해요 그녀
+는 잠들어 있었을 수도 있어요 (I wonder why
+Kate didn't answer her phone. She may have
+been asleep). (과거 상황에 대한 가능성)
+○  우산을 가져가세요 나중에 비가 올 수도 있어요
+(Take an umbrella with you. It might rain
+later). (미래의 가능성)
+○  버스가 항상 정시에 오지 않아요 몇 분 기다려야 할
+수도 있어요 (The bus isn't always on time. We
+might have to wait a few minutes). (미래의 가
+능성)
+○  에이미는 오늘 밤 외출하지 않을 수도 있어요 몸이
+안 좋아요 (Amy may not go out tonight. She
+isn't feeling well). (미래 가능성 부재)
+○  회의에서 모든 것을 논의할 충분한 시간이 없을 수
+도 있어요 (There might not be enough time to
+discuss everything at the meeting). (미래 가능
+성 부재)
+○  저는 차를 살지도 몰라요 (I may buy a car. / I
+might buy a car). (불확실한 계획)
+
+### 페이지 11
+
+○  만약 그들이 저에게 더 잘 지불한다면 저는 더 열심
+히 일할지도 몰라요 (If they paid me better, I
+might work harder). (가상 상황에서의 가능성)
+•  May have + 과거분사 / Might have + 과거분사: 과거의
+불확실한 가능성 또는 추측.
+○  폰을 찾을 수 없어요 직장에 두고 왔을 수도 있어요
+(I can't find my phone anywhere. You might
+have left it at work). (과거 행동에 대한 불확실한
+추측)
+○  에이미가 왜 어제 회의에 없었죠 그녀는 그것에 대
+해 몰랐을 수도 있어요 (Why wasn't Amy at the
+meeting yesterday? She might not have
+known about it). (과거 상황에 대한 불확실한 추
+측)
+○  데이비드가 왜 어제 그렇게 기분이 안 좋았는지 궁
+금해요 몸이 안 좋았을 수도 있어요 (I wonder
+why David was in such a bad mood
+yesterday. He may not have been feeling
+well). (과거 상황에 대한 불확실한 추측)
+•  Have to / Must / Need to: 의무 또는 필요.
+○  여기서 우회전할 수 없어요 좌회전해야 해요 (You
+can't turn right here. You have to turn left). (규
+칙/법규에 의한 의무)
+○  저는 독서를 위해 안경을 써야 해요 (I have to
+wear glasses for reading). (개인적인 필요)
+○  수에게 오랫동안 말을 안 했어요 전화해야 해요 (I
+haven't spoken to Sue for ages. I must phone
+her. / I have to phone her). (필요성)
+○  마크는 정말 좋은 사람이에요 만나봐야 해요
+(Mark is a really nice person. You must meet
+him. / You have to meet him). (강력한 추천)
+○  입사 지원서는 5월 18일까지 접수되어야 합니다
+(Applications for the job must be received by
+the 18th of May). (공식적인 규칙/지시)
+○  안전벨트는 착용해야 합니다 (Seat belts must be
+worn). (일반적인 규칙/법규)
+○  회의에 갔지만 일찍 떠나야 했어요 (I went to the
+
+### 페이지 12
+
+meeting yesterday but I had to leave early).
+(과거의 필요/의무)
+○  이것을 비밀로 지켜야 해요 아무에게도 말하면 안
+돼요 (You must keep this a secret. You mustn't
+tell anyone). (강한 금지)
+○  늦지 않겠다고 약속했어요 늦으면 안 돼요 (I
+promised I would be on time. I mustn't be
+late). (개인적인 강한 의무)
+○  우리에게는 시간이 많아요 서두를 필요 없어요
+(We have plenty of time. We needn't hurry).
+(불필요)
+○  스티브에게 말할 필요 없어요 제가 직접 말할 수 있
+어요 (You needn't tell Steve. I can tell him
+myself). (불필요)
+○  스티브에게 말하면 안 돼요 그가 알기를 원치 않아
+요 (You mustn't tell Steve. I don't want him to
+know). (강한 금지)
+•  Don't have to / Needn't: ~할 필요가 없다 (의무/필요의
+부재).
+○  저와 함께 올 필요 없어요 혼자 갈 수 있어요 (You
+don't have to come with me. I can go alone).
+○  회의에 갈 필요 없지만 어쨌든 갈 거예요 (I don't
+have to be at the meeting but I'm going
+anyway).
+•  Needn't have + 과거분사: 과거에 어떤 행동을 했지만 그
+것이 불필요했음을 나타냅니다.
+○  모든 것이 괜찮을 거예요 걱정할 필요 없어요
+(Everything will be okay. You needn't worry).
+(현재/미래의 불필요)
+○  모든 것이 괜찮았어요 걱정할 필요 없었는데
+(Everything was okay. You needn't have
+worried). (과거에 불필요했던 행동)
+○  왜 5시에 일어났어요 그렇게 일찍 일어날 필요 없
+었는데 더 오래 침대에 있을 수 있었어요 (Why did
+he get up at 5:00? He needn't have got up so
+early. He could have stayed in bed longer).
+(과거에 불필요했던 행동)
+
+### 페이지 13
+
+•  Should / Ought to: 조언 또는 권고.
+○  피곤해 보여요 자러 가야 해요 (You look tired.
+You should go to bed. / You look tired. You
+should go to bed now). (조언)
+○  정부는 학교 개선에 더 많은 노력을 해야 해요 (The
+government should do more to improve
+schools). (의견/권고)
+○  오토바이 탄 남자는 헬멧을 착용해야 해요 (The
+man on the motorbike should be wearing a
+helmet). (기대/당연함)
+○  신문에서 읽는 모든 것을 믿어서는 안 돼요 (You
+shouldn't believe everything you read in
+newspapers). (부정적인 조언)
+○  이 일자리에 지원해야 할까요 네 그래야 한다고 생
+각해요 (Do you think I should apply for this
+job? Yes, I think you should). (의견 묻고 답하
+기)
+○  사과해야 해요 (You should apologize). (조언)
+○  이 소포의 가격이 잘못됐어요 3.50파운드가 아니
+라 2.50파운드여야 해요 (The price on this
+packet is wrong. It should be £2.50 not
+£3.50). (예상/기대 - 사실과 다름)
+○  헬렌은 시험 공부를 열심히 했으니 합격할 거예요
+(Helen has been studying hard for the exam
+so she should pass). (예상/기대)
+○  마을에는 호텔이 많으니 머물 곳을 찾는 것이 어렵
+지 않을 거예요 (There are plenty of hotels in
+the town. It shouldn't be hard to find a place
+to stay). (부정적인 예상/기대)
+•  Should have + 과거분사 / Ought to have + 과거분사: 과
+거에 했어야 했지만 하지 않은 일 (후회 또는 비판).
+○  어젯밤 멋진 파티를 놓쳤어요 왔어야 했는데 왜 안
+왔어요 (You missed a great party last night.
+You should have come. Why didn't you?). (과
+거에 하지 않은 일에 대한 비판/후회)
+○  왜 그렇게 늦는지 궁금해요 오래전에 여기 왔어야
+했는데 (I wonder why they're so late. They
+
+### 페이지 14
+
+should have been here long ago). (과거에 대한
+예상과 다름)
+○  속이 안 좋아요 그렇게 많이 먹지 말았어야 했는데
+(I'm feeling sick. I shouldn't have eaten so
+much). (과거에 한 일에 대한 후회)
+○  그녀는 우리 대화를 듣지 말았어야 했어요 사적인
+것이었어요 (She shouldn't have been listening
+to our conversation. It was private). (과거에 한
+일에 대한 비판 - 진행 중인 행동)
+○  어젯밤 아주 늦게 잤어요 더 일찍 잤어야 했는데
+(You went to bed very late last night. You
+should have gone to bed earlier). (과거에 하지
+않은 일에 대한 조언/비판)
+•  Had better: ~하는 편이 낫다 (강한 조언, 안 하면 문제가
+생길 수 있음).
+○  에이미를 10분 안에 만나야 해요 지금 가는 편이
+낫겠어요 아니면 늦을 거예요 (I have to meet
+Amy in 10 minutes. I'd better go now or I'll be
+late). (안 하면 늦는다는 문제 상황이 있음)
+○  우산을 가져갈까요 네 그래야 할 거예요 비가 올 수
+도 있어요 (Shall I take an umbrella? Yes, you'd
+better. It might rain). (문제가 생길 가능성을 막
+기 위한 조언)
+○  곧 주유소에 들르는 편이 낫겠어요 탱크가 거의 비
+었어요 (We'd better stop for petrol soon. The
+tank is almost empty). (안 하면 멈춰 설 수 있다
+는 문제 상황이 있음)
+○  컨디션이 별로 안 좋아 보여요 오늘 밤 외출하지 않
+는 편이 낫겠어요 (You don't look very well.
+You'd better not go out tonight). (안 하면 건강
+이 더 나빠질 수 있다는 문제 상황)
+○  크리스에게 전화하는 편이 낫겠죠 안 그래요? (I'd
+better phone Chris, hadn't I?). (부가 의문문 형
+태로 확인)
+○  늦었어요 이제 가는 편이 낫겠어요 (It's late.
+You'd better go). (안 가면 문제가 생길 수 있다는
+의미 내포)
+7. 가정법 (Conditionals) 및 Wish
+
+### 페이지 15
+
+•  Type 1 (현실 또는 가능한 상황): If + 현재 시제, will + 동
+사 원형.
+○  비가 그치면 외출할 거예요 (We'll go out when it
+stops raining). (When도 비슷한 미래 조건/시간
+의미)
+○  당신이 다시 여기 오면 우리를 보러 와야 해요
+(When you are here again, you must come
+and see us).
+○  외출할 때 문 잠그는 것을 잊지 마세요 (Don't
+forget to lock the door when you go out).
+○  이것이 다시 일어난다면 저는 화가 날 거예요 (I'll
+be angry if it happens again).
+○  서둘러요 서두르지 않으면 늦을 거예요 (Hurry up.
+If we don't hurry, we'll be late).
+○  오늘 저녁에 비가 온다면 외출하지 않을 거예요 (If
+it is raining this evening, I won't go out).
+○  제가 늦더라도 걱정하지 마세요 (Don't worry if
+I'm late tonight).
+○  곧 오지 않으면 그들을 기다리지 않을 거예요 (I'm
+not going to wait for them if they don't come
+soon).
+○  외출하면 빵을 좀 살 거예요 (If I go out, I'll get
+some bread).
+○  원하신다면 내일 와서 만날 수 있어요 (I can come
+and see you tomorrow if you like).
+○  제가 당신 집에 시계를 두고 온 것 같아요 만약 그
+것을 찾으면 전화해 줄 수 있나요 (I think I left my
+watch at your house. If you find it, can you
+call me?).
+•  Type 2 (현재 또는 미래의 비현실적인 상황): If + 과거 시
+제, would + 동사 원형.
+○  만약 많은 돈에 당첨된다면 무엇을 할 건가요
+(What would you do if you won a lot of
+money?). (현재 가능성이 낮은 가상 상황)
+○  만약 내일 선거가 있다면 누구에게 투표할 건가요
+(If there was an election tomorrow, who
+
+### 페이지 16
+
+would you vote for?). (현재 비현실적인 상황)
+○  만약 길에서 지갑을 찾는다면 그것으로 무엇을 할
+건가요 (If you found a wallet in the street,
+what would you do with it?). (현재 가능성이 낮
+은 가상 상황)
+○  만약 누군가 저에게 총을 겨눈다면 저는 매우 무서
+울 거예요 (I'd be very scared if somebody
+pointed a gun at me). (현재 비현실적인 상황)
+○  만약 버스를 타고 간다면 더 쌀 거예요 (If we went
+by bus, it would be cheaper). (현재 상황과 다른
+가상 상황)
+○  지금 자러 간다면 잠들지 못할 거예요 (If I went to
+bed now, I wouldn't sleep). (현재 상황과 다른
+가상 상황 - 피곤하지 않음)
+○  만약 뱀에 물린다면 무엇을 할 건가요 (What
+would you do if you were bitten by a snake?).
+(현재 비현실적인 상황)
+○  만약 많은 돈을 번다면 집을 살지도 몰라요 (If I
+won a lot of money, I might buy a house). (가
+상 상황에서의 가능성 - 'might' 사용)
+○  만약 비가 그친다면 우리는 외출할 수 있어요 (If it
+stopped raining, we could go out). (가상 상황
+에서의 능력/가능성 - 'could' 사용)
+○  만약 시간이 더 있다면 하고 싶은 일이 많아요
+(There are many things I'd like to do if I had
+more time). (현재 상황과 다른 가상 상황 - 시간이
+부족함)
+○  만약 당신이 제 입장이었다면 무엇을 할 건가요 (If
+you were in my position, what would you do?).
+(가상 상황에서의 조언 요청)
+○  운전을 못하는 것이 안타까워요 만약 그가 할 수 있
+다면 유용할 텐데요 (It's a pity he can't drive. It
+would be useful if he could). (현재 사실과 다른
+가상 상황)
+•  Type 3 (과거의 비현실적인 상황): If + 과거 완료, would
+have + 과거분사.
+○  거리에서 당신을 지나칠 때 보지 못했어요 만약 봤
+
+### 페이지 17
+
+다면 인사를 했을 거예요 (I didn't see you when
+you passed me in the street. If I'd seen you, I
+would have said hello). (과거 사실과 다른 가상
+상황)
+○  어젯밤 그들은 외출하지 않았어요 너무 피곤하지
+않았다면 외출했을 거예요 (They didn't go out
+last night. They would have gone out if they
+hadn't been so tired). (과거 사실과 다른 가상 상
+황)
+○  만약 가는 곳을 보고 있었다면 벽에 부딪히지 않았
+을 거예요 (If you'd been looking where you
+were going, you wouldn't have walked into
+the wall). (과거 사실과 다른 가상 상황 - 진행 중인
+행동)
+○  풍경이 정말 멋졌어요 만약 카메라가 있었다면 사
+진을 찍었을 거예요 (The view was wonderful. I
+would have taken some pictures if I'd had a
+camera with me). (과거 사실과 다른 가상 상황)
+○  배가 고프지 않았어요 만약 배가 고팠다면 무엇인
+가 먹었을 거예요 (I wasn't hungry. If I had been
+hungry, I would have eaten something). (과거
+사실과 다른 가상 상황)
+•  Wish / If only: 현재나 과거의 사실에 반대되는 소망이나
+후회.
+○  폴의 전화번호를 알았으면 좋겠어요 (I wish I
+knew Paul's phone number). (현재 사실에 대한
+아쉬움 - 모른다)
+○  날 수 있으면 좋겠다고 생각한 적 있나요 (Do you
+ever wish you could fly?). (현재 능력에 대한 소
+망 - 날 수 없다)
+○  여기가 매우 붐벼요 이렇게 사람이 많지 않았으면
+좋겠어요 (It's very crowded here. I wish there
+weren't so many people). (현재 사실에 대한 아
+쉬움 - 사람이 많다)
+○  내일 일할 필요가 없었으면 좋겠어요 하지만 유감
+스럽게도 해야 해요 (I wish I didn't have to work
+tomorrow but unfortunately I do). (현재 사실에
+대한 아쉬움 - 일해야 한다)
+
+### 페이지 18
+
+○  여기 살아서 기뻐요 (I'm glad I live here). vs. 여
+기 살았으면 좋겠어요 (I wish I lived here). (현재
+사실 vs. 현재 소망)
+○  애나가 여기에 있었으면 좋겠어요 (I wish Anna
+were here. / I wish Anna was here). (현재 사실
+에 대한 소망 - 애나는 여기에 없다)
+○  게리가 아프다는 것을 알았으면 좋았을 텐데요 그
+를 보러 갔을 거예요 (I wish I'd known that Gary
+was ill. I would have gone to see him). (과거 사
+실에 대한 후회 - 몰랐다)
+○  속이 안 좋아요 그렇게 많이 먹지 말았어야 했는데
+(I feel sick. I wish I hadn't eaten so much). (과
+거 행동에 대한 후회 - 너무 많이 먹었다)
+○  언어 대신 과학을 공부했으면 좋겠다고 생각한 적
+있나요 (Do you wish you'd studied science
+instead of languages?). (과거 선택에 대한 후회)
+○  그를 만나서 기뻐요 (I'm glad I saw him). vs. 그
+를 만났으면 좋았을 텐데요 (I wish I'd seen him).
+(과거 사실 vs. 과거 후회)
+○  날씨가 추웠어요 더 따뜻했으면 좋았을 텐데요
+(The weather was cold. I wish it had been
+warmer). (과거 사실에 대한 후회 - 춥다)
+8. Used to
+과거의 습관이나 상태를 나타내며, 현재는 더 이상 그렇지 않다는 의미
+를 내포합니다.
+•  저는 예전에는 테니스를 자주 쳤지만 지금은 많이 치지 않
+아요 (I used to play tennis a lot but I don't play very
+often now).
+•  데이비드는 예전에 옷에 돈을 많이 썼어요 요즘은 그럴 여
+유가 없어요 (David used to spend a lot of money on
+clothes. These days he can't afford it).
+•  영화 자주 보러 가요 지금은 아니지만 예전엔 그랬어요
+(Do you go to the cinema much? Not now, but I used
+to).
+•  이 건물은 지금은 가구점이에요 예전에는 영화관이었어요
+(This building is a furniture shop now. It used to be a
+cinema).
+
+### 페이지 19
+
+•  저는 예전에는 마크가 불친절하다고 생각했는데 지금은
+그가 아주 좋은 사람이라는 걸 알아요 (I used to think
+Mark was unfriendly but now I think he's a very nice
+person).
+•  리사는 어렸을 때 머리가 아주 길었어요 (Lisa used to
+have very long hair when she was a child).
+•  우리는 예전에 작은 마을에 살았지만 지금은 도시에 살고
+있어요 (We used to live in a small village but now we
+live in a city).
+•  이 도시에 예전에는 영화관이 네 개 있었어요 지금은 하나
+뿐이에요 (There used to be four cinemas in this town.
+Now there is only one).
+•  어렸을 때 사탕을 많이 먹었나요 (Did you use to eat a
+lot of sweets when you were a child?).
+•  저는 그를 좋아하지 않았어요 (I didn't use to like him).
+•  저는 예전에 TV를 많이 봤어요 (I used to watch TV a
+lot).
+•  저는 예전에 혼자 살았어요 (I used to live alone).
+•  리처드가 화날 때마다 그는 방에서 걸어 나가곤 했어요
+(Whenever Richard was angry, he would walk out of
+the room. / Whenever Richard was angry, he used to
+walk out of the room). (과거 반복적인 행동 - 'would'와
+'used to' 둘 다 가능)
+9. 요청 및 제안 (Requests and Offers)
+'Can', 'Could', 'Would', 'Shall', 'May' 등을 사용하여 정중하게 요청하
+거나 제안할 수 있습니다.
+•  잠깐 기다려 주실 수 있나요 (Can you wait a moment,
+please? / Could you wait a moment, please?). (요청)
+•  헬렌, 부탁 좀 들어줄 수 있나요 (Helen, can you do me a
+favor?). (요청)
+•  실례합니다 버스 정류장에 어떻게 가는지 알려주실 수 있
+나요 (Excuse me, could you tell me how to get to the
+bus station?). (정중한 요청)
+•  저를 공항까지 데려다 주실 수 있나요 (Do you think you
+could take me to the airport?). (정중한 요청)
+
+### 페이지 20
+
+•  이 엽서들을 살 수 있을까요 (Can I have these
+postcards, please? / Can I get these postcards,
+please? / May I have these postcards, please?). (물건
+요청)
+•  메뉴 좀 주실 수 있나요 (Could we have the menu,
+please? / Can we have the menu, please?). (요청)
+•  스티브와 통화할 수 있을까요 (Hello. Can I speak to
+Steve, please?). (전화 요청)
+•  휴대폰 충전기를 사용해도 될까요 (Could I use your
+phone charger? / Do you think I could borrow your
+bike? / May I ask you a question?). (허락 요청)
+•  제가 여기 앉아도 괜찮을까요 (Is it all right if I sit
+here?). (허락 요청)
+•  도와드릴까요 (Can I help you?). (제안)
+•  커피 좀 드릴까요 (Can I get you some coffee?). (제안)
+•  커피 좀 드시겠어요 (Would you like some coffee?). (제
+안/권유)
+•  오늘 밤 우리와 함께 식사하시겠어요 (Would you like to
+eat with us tonight?). (초대/제안)
+•  창문을 열까요 (Shall I open the window?). (제안 - 나 자
+신에 대한)
+•  우리 갈까요 (Shall we go?). (제안 - 함께 하는 행동)
+•  점심 어디서 먹을까요 (Where shall we have lunch?).
+(제안 - 함께 하는 행동)
+Shadowing 연습 팁:
+1. 작게 시작하세요: 처음에는 짧은 문장부터 시작하여 점차
+긴 문장으로 늘려가세요.
+2. 소리만 듣고 따라하세요: 스크립트를 보지 않고 소리만 듣
+고 최대한 비슷하게 따라 말하는 연습을 해보세요.
+3. 스크립트를 보면서 따라하세요: 소리를 들으면서 스크립
+트를 보고, 발음, 억양, 끊어 읽기 등을 확인하며 따라하세
+요.
+4. 의미를 이해하세요: 단순히 소리만 따라 하는 것이 아니라,
+각 문장의 의미를 이해하면서 연습하면 더 효과적입니다.
+
+### 페이지 21
+
+위에 제공된 한국어 해석을 활용하세요.
+5. 반복이 중요합니다: 같은 문장이나 단락을 여러 번 반복해
+서 Shadowing하세요.
+6. 녹음하고 들어보세요: 자신의 목소리를 녹음하여 원어민
+의 발음과 비교해보세요. 개선할 부분을 파악하는 데 도움
+이 됩니다.
+7. 매일 꾸준히: 30일 동안 매일 정해진 시간(예: 15분 또는
+30분) 동안 꾸준히 연습하는 것이 중요합니다.
+제공해주신 소스에는 다양한 문법과 표현들이 풍부하게 담겨 있습니다.
+위에 정리된 예문들을 활용하여 매일 꾸준히 Shadowing 연습을 하시면
+Grammar, Speaking, Listening 능력을 동시에 향상시키는 데 큰 도움
+이 될 것입니다. 계획하신 30일간의 연습을 통해 좋은 성과 있으시길 바
+랍니다!

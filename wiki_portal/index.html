@@ -1,0 +1,383 @@
+<!DOCTYPE html>
+<html lang="ko" class="scroll-smooth">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>개인지식위키 지식 위키 포털 | AI Q&A & Knowledge Hub</title>
+  <link rel="icon" type="image/svg+xml" href="assets/favicon.svg">
+  
+  <!-- Tailwind CSS -->
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script>
+    tailwind.config = {
+      darkMode: 'class',
+      theme: {
+        extend: {
+          colors: {
+            brand: {
+              50: '#eff6ff',
+              100: '#dbeafe',
+              500: '#3b82f6',
+              600: '#2563eb',
+              700: '#1d4ed8',
+            }
+          }
+        }
+      }
+    }
+  </script>
+
+  <!-- Highlight.js (Code Highlighting) -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/styles/github-dark.min.css">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/highlight.min.js"></script>
+
+  <!-- Marked.js (Markdown Parser) -->
+  <script src="https://cdn.jsdelivr.net/npm/marked@15.0.12/marked.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/dompurify/3.2.6/purify.min.js"></script>
+  <script>
+    // 09-29 (카드대시보드와 같은 수정, _tools/viewer/_viewer_template.html)
+    // 1) CommonMark 는 닫는 ** 앞이 문장부호·뒤가 글자면 닫힘으로 보지 않아 '**언어 훈련(drill)**을' 에서 ** 가 그대로 보였다.
+    //    한 줄 안 비공백 **…** 를 굵게로 먼저 처리한다(코드 스팬 안은 marked 가 먼저 소비한다).
+    // 2) 수집 문서에 <script>·onerror= 가 든 것이 있어 marked.parse 결과를 DOMPurify 로 거른다(app.js 호출부 4곳 공통).
+    if (window.marked) {
+      marked.use({ extensions: [{
+        name: 'kstrong', level: 'inline',
+        start(src) { const i = src.indexOf('**'); return i < 0 ? undefined : i; },
+        tokenizer(src) {
+          const m = /^\*\*(?![\s*])([^\n]*?[^\s*])\*\*(?!\*)/.exec(src);
+          if (m) return { type: 'kstrong', raw: m[0], tokens: this.lexer.inlineTokens(m[1]) };
+        },
+        renderer(t) { return '<strong>' + this.parser.parseInline(t.tokens) + '</strong>'; }
+      }] });
+      // marked.parse 를 바꿔 끼우는 방식은 UMD 빌드에서 읽기 전용이라 조용히 무시된다(실측) — 공식 후처리 훅을 쓴다.
+      const escText = s => String(s || '').replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
+      marked.use({ hooks: { postprocess(html) {
+        return window.DOMPurify ? DOMPurify.sanitize(html) : '<pre>' + escText(html) + '</pre>';
+      } } });
+    }
+  </script>
+
+  <!-- Lucide Icons -->
+  <script src="https://unpkg.com/lucide@latest"></script>
+
+  <!-- Custom Styles -->
+  <link rel="stylesheet" href="style.css?v=20260923_reader_redesign">
+</head>
+<body class="min-h-screen flex flex-col antialiased selection:bg-blue-500 selection:text-white">
+
+  <!-- Top Navigation Bar -->
+  <header class="sticky top-0 z-40 w-full border-b border-slate-200 dark:border-slate-800 bg-white/90 dark:bg-slate-900/90 backdrop-blur-md transition-colors">
+    <div class="max-w-[1600px] mx-auto px-3 sm:px-4 h-14 flex items-center justify-between gap-3">
+      
+      <!-- Logo & Brand -->
+      <div class="flex items-center gap-4">
+        <button id="mobile-menu-btn" class="md:hidden p-2 rounded-lg text-slate-600 dark:text-slate-300 hover:bg-slate-100 dark:hover:bg-slate-800">
+          <i data-lucide="menu" class="w-5 h-5"></i>
+        </button>
+
+        <a href="#/" class="flex items-center gap-3 group">
+          <img src="assets/favicon.svg" alt="개인지식위키 지식위키 로고" class="w-7 h-7 rounded-lg">
+          <div class="hidden sm:block font-extrabold text-base tracking-tight text-slate-900 dark:text-white whitespace-nowrap">개인지식위키 지식위키</div>
+        </a>
+      </div>
+
+      <!-- Center Inline Search Input -->
+      <div class="flex-1 max-w-2xl mx-1 md:mx-3">
+        <div class="relative flex items-center group">
+          <i data-lucide="search" class="absolute left-3 w-4 h-4 text-slate-400 group-focus-within:text-blue-500 dark:group-focus-within:text-blue-400 transition pointer-events-none"></i>
+          <input 
+            id="header-search-input" 
+            type="text" 
+            placeholder="지식 위키 검색... (예: 스마트무역원정, 물류비 절감)" 
+            class="w-full pl-9 pr-16 py-2 rounded-xl bg-slate-100 dark:bg-slate-800 text-slate-800 dark:text-slate-100 placeholder-slate-400 border border-slate-200 dark:border-slate-700/80 focus:border-blue-500 dark:focus:border-blue-500 focus:bg-white dark:focus:bg-slate-900 focus:outline-none focus:ring-2 focus:ring-blue-500/20 text-sm transition"
+            autocomplete="off"
+          >
+          <div class="absolute right-2.5 flex items-center gap-1">
+            <button id="header-search-clear" type="button" class="hidden p-0.5 text-slate-400 hover:text-slate-600 dark:hover:text-slate-200 rounded transition" title="검색어 지우기">
+              <i data-lucide="x" class="w-3.5 h-3.5"></i>
+            </button>
+            <kbd id="header-search-kbd" class="hidden sm:inline-block px-1.5 py-0.5 text-[10px] font-mono text-slate-400 bg-slate-200 dark:bg-slate-700 rounded border border-slate-300 dark:border-slate-600 select-none">Ctrl K</kbd>
+          </div>
+        </div>
+      </div>
+
+      <!-- Right Actions: AI Q&A, Ingest, History, Quick Links & Theme Toggle -->
+      <div class="flex items-center gap-2">
+        <a href="#/qa" class="inline-flex items-center gap-1.5 px-3 py-2 rounded-xl bg-purple-50 dark:bg-purple-950/40 text-purple-700 dark:text-purple-300 border border-purple-200 dark:border-purple-800 text-xs font-bold shadow-sm hover:bg-purple-100 dark:hover:bg-purple-900/60 transition">
+          <i data-lucide="message-square" class="w-4 h-4 text-purple-600 dark:text-purple-400"></i>
+          <span class="hidden sm:inline">AI 묻고 답하기</span>
+        </a>
+
+        <a href="#/ingest" class="inline-flex items-center gap-1.5 px-3 py-2 rounded-xl bg-gradient-to-r from-blue-600 to-indigo-600 text-white text-xs font-bold shadow hover:from-blue-700 hover:to-indigo-700 transition">
+          <i data-lucide="plus-circle" class="w-4 h-4"></i>
+          <span class="hidden sm:inline">새 지식 등록</span>
+        </a>
+
+        <a href="#/coverage" id="header-coverage-btn" class="hidden md:inline-flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-xs font-semibold text-emerald-600 dark:text-emerald-400 hover:bg-emerald-50 dark:hover:bg-emerald-950/40 transition" title="원천 소스 동기화 및 커버리지">
+          <i data-lucide="refresh-cw" class="w-4 h-4 text-emerald-500"></i>
+          <span id="header-coverage-text">동기화 & 커버리지</span>
+        </a>
+
+        <div class="h-4 w-px bg-slate-200 dark:bg-slate-700 mx-1 hidden md:block"></div>
+
+        <!-- Dark/Light Theme Toggle Button -->
+        <button id="theme-toggle" class="p-2 rounded-xl text-slate-600 dark:text-slate-300 hover:bg-slate-100 dark:hover:bg-slate-800 border border-slate-200 dark:border-slate-700/80 transition" title="테마 변경">
+          <i data-lucide="moon" class="w-4 h-4"></i>
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <!-- Main Body Layout -->
+  <div class="flex-1 max-w-[1600px] w-full mx-auto flex">
+    
+    <!-- Left Navigation Sidebar -->
+    <aside id="main-sidebar" class="fixed md:sticky top-14 z-30 h-[calc(100dvh-3.5rem)] w-60 shrink-0 bg-slate-50/95 dark:bg-slate-900/95 backdrop-blur-md border-r border-slate-200 dark:border-slate-800 overflow-y-auto p-3 space-y-4 hidden md:block">
+      
+      <!-- Primary Navigation -->
+      <div class="space-y-1">
+        <a href="#/qa" class="sidebar-nav-link flex items-center gap-2.5 px-3 py-2 rounded-lg text-xs font-bold text-purple-700 dark:text-purple-300 bg-purple-50/90 dark:bg-purple-950/50 border border-purple-200/60 dark:border-purple-800/60 hover:bg-purple-100 dark:hover:bg-purple-900/60 transition mb-1.5">
+          <i data-lucide="bot" class="w-4 h-4 text-purple-600 dark:text-purple-400"></i>
+          <span>AI 지식 묻고 답하기 (RAG)</span>
+        </a>
+
+        <a href="#/ingest" class="sidebar-nav-link flex items-center gap-2.5 px-3 py-2 rounded-lg text-xs font-bold text-blue-600 dark:text-blue-400 bg-blue-50/80 dark:bg-blue-950/40 hover:bg-blue-100 dark:hover:bg-blue-900/60 transition mb-2">
+          <i data-lucide="plus-circle" class="w-4 h-4"></i>
+          <span>지식 수집 / 스크랩 등록</span>
+        </a>
+
+        <a href="#/hubs" class="sidebar-nav-link flex items-center gap-2.5 px-3 py-2 rounded-lg text-xs font-bold text-emerald-700 dark:text-emerald-300 bg-emerald-50/80 dark:bg-emerald-950/40 hover:bg-emerald-100 dark:hover:bg-emerald-900/60 transition mb-2">
+          <i data-lucide="layers" class="w-4 h-4"></i>
+          <span>🧩 주제허브</span>
+        </a>
+
+        <a href="#/" class="sidebar-nav-link flex items-center gap-2.5 px-3 py-2 rounded-lg text-xs font-bold text-slate-600 dark:text-slate-400 hover:bg-slate-200/60 dark:hover:bg-slate-800 transition">
+          <i data-lucide="home" class="w-4 h-4"></i>
+          <span>대시보드 홈</span>
+        </a>
+        <a href="#/coverage" class="sidebar-nav-link flex items-center gap-2.5 px-3 py-2 rounded-lg text-xs font-medium text-slate-600 dark:text-slate-400 hover:bg-slate-200/60 dark:hover:bg-slate-800 transition">
+          <i data-lucide="refresh-cw" class="w-4 h-4 text-emerald-500"></i>
+          <span>원천 동기화 & 커버리지</span>
+        </a>
+        <a href="#/evolution" class="sidebar-nav-link flex items-center gap-2.5 px-3 py-2 rounded-lg text-xs font-medium text-slate-600 dark:text-slate-400 hover:bg-slate-200/60 dark:hover:bg-slate-800 transition">
+          <i data-lucide="git-commit" class="w-4 h-4 text-amber-500"></i>
+          <span>시계열 의사결정 변천사</span>
+        </a>
+        <a href="#/history" class="sidebar-nav-link flex items-center gap-2.5 px-3 py-2 rounded-lg text-xs font-medium text-slate-600 dark:text-slate-400 hover:bg-slate-200/60 dark:hover:bg-slate-800 transition">
+          <i data-lucide="history" class="w-4 h-4"></i>
+          <span>최근 열람 히스토리</span>
+        </a>
+        <a href="#/explorer" class="sidebar-nav-link flex items-center gap-2.5 px-3 py-2 rounded-lg text-xs font-medium text-slate-600 dark:text-slate-400 hover:bg-slate-200/60 dark:hover:bg-slate-800 transition">
+          <i data-lucide="compass" class="w-4 h-4"></i>
+          <span>전체 문서 탐색</span>
+        </a>
+        <a href="#/graph" class="sidebar-nav-link flex items-center gap-2.5 px-3 py-2 rounded-lg text-xs font-medium text-slate-600 dark:text-slate-400 hover:bg-slate-200/60 dark:hover:bg-slate-800 transition">
+          <i data-lucide="network" class="w-4 h-4"></i>
+          <span>지식 관계망 그래프</span>
+        </a>
+      </div>
+
+      <!-- Categories Section -->
+      <div class="space-y-2">
+        <div class="px-3 text-[11px] font-bold uppercase tracking-wider text-slate-400">
+          분야별 카테고리
+        </div>
+        <ul id="sidebar-categories" class="space-y-1">
+          <!-- Dynamic category list injected here -->
+        </ul>
+      </div>
+
+      <!-- Q&A Compounding History Section -->
+      <div class="space-y-2">
+        <div class="px-3 text-[11px] font-bold uppercase tracking-wider text-indigo-600 dark:text-indigo-400 flex items-center justify-between">
+          <span>AI Q&A 복리축적 지식</span>
+          <i data-lucide="layers" class="w-3.5 h-3.5 text-indigo-500"></i>
+        </div>
+        <ul id="sidebar-qa-history" class="space-y-0.5">
+          <!-- Dynamic Q&A History list -->
+        </ul>
+      </div>
+
+      <!-- Recently Ingested Knowledge Section -->
+      <div class="space-y-2">
+        <div class="px-3 text-[11px] font-bold uppercase tracking-wider text-purple-600 dark:text-purple-400 flex items-center justify-between">
+          <span>최근 등록된 지식</span>
+          <i data-lucide="sparkles" class="w-3.5 h-3.5 text-purple-500"></i>
+        </div>
+        <ul id="sidebar-ingested" class="space-y-0.5">
+          <!-- Dynamic recently registered knowledge list -->
+        </ul>
+      </div>
+
+      <!-- Bookmarks Section -->
+      <div class="space-y-2">
+        <div class="px-3 text-[11px] font-bold uppercase tracking-wider text-slate-400 flex items-center justify-between">
+          <span>북마크 (즐겨찾기)</span>
+          <i data-lucide="star" class="w-3.5 h-3.5 text-amber-500"></i>
+        </div>
+        <ul id="sidebar-bookmarks" class="space-y-0.5">
+          <!-- Dynamic bookmarks list -->
+        </ul>
+      </div>
+
+      <!-- Recent Documents Section -->
+      <div class="space-y-2">
+        <div class="px-3 text-[11px] font-bold uppercase tracking-wider text-slate-400 flex items-center justify-between">
+          <span>최근 열람한 문서</span>
+          <a href="#/history" class="text-[10px] text-blue-600 dark:text-blue-400 hover:underline">전체보기 &rarr;</a>
+        </div>
+        <ul id="sidebar-recents" class="space-y-0.5">
+          <!-- Dynamic recents list -->
+        </ul>
+      </div>
+
+      <!-- Footer Info -->
+      <div class="pt-4 border-t border-slate-200 dark:border-slate-800 text-[11px] text-slate-400 px-3">
+        <div>개인지식위키 Knowledge Engine</div>
+        <div class="text-[10px] text-slate-500 mt-0.5">RAG Multi-AI Compounding Hub</div>
+      </div>
+    </aside>
+
+    <!-- Main Workspace Container with Multi-Tabs -->
+    <main class="flex-1 min-w-0 flex flex-col bg-slate-50/50 dark:bg-slate-950/40 min-h-[calc(100dvh-3.5rem)]">
+
+      <!-- Multi-Tab System Bar -->
+      <div class="sticky top-14 z-20 bg-slate-100/90 dark:bg-slate-900/90 backdrop-blur-md border-b border-slate-200 dark:border-slate-800 flex items-center justify-between px-2 sm:px-4">
+        <div id="tabs-list-container" class="tab-bar-container flex-1">
+          <!-- Dynamic Tabs Injected by app.js -->
+        </div>
+
+        <div class="flex items-center gap-1 pl-2 border-l border-slate-200 dark:border-slate-800 shrink-0">
+          <button id="btn-close-all-tabs" class="p-1.5 rounded-lg text-slate-400 hover:text-slate-700 dark:hover:text-slate-200 hover:bg-slate-200/60 dark:hover:bg-slate-800 text-[11px] font-medium" title="다른 모든 탭 닫기">
+            <i data-lucide="x-circle" class="w-3.5 h-3.5"></i>
+          </button>
+        </div>
+      </div>
+
+      <!-- Dynamic Router View Container -->
+      <div class="flex-1 p-3 sm:p-4 lg:p-5">
+        <div id="app-content" class="max-w-[1320px] mx-auto">
+          <!-- Content will be injected by app.js -->
+          <div class="flex items-center justify-center py-20 text-slate-400">
+            <div class="flex items-center gap-2">
+              <i data-lucide="loader-2" class="w-5 h-5 animate-spin"></i>
+              <span>지식 위키 데이터를 불러오는 중...</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </main>
+  </div>
+
+  <!-- Global Full-Text Search Modal -->
+  <div id="search-modal" class="fixed inset-0 z-50 bg-slate-900/60 backdrop-blur-sm flex items-start justify-center pt-16 px-4 hidden">
+    <div class="bg-white dark:bg-slate-900 w-full max-w-2xl rounded-2xl shadow-2xl border border-slate-200 dark:border-slate-700 overflow-hidden flex flex-col max-h-[80vh] animate-fade-in">
+      <div class="p-4 border-b border-slate-200 dark:border-slate-800 flex items-center gap-3">
+        <i data-lucide="search" class="w-5 h-5 text-slate-400"></i>
+        <input 
+          id="search-input" 
+          type="text" 
+          placeholder="검색어 또는 자연어 질문 입력... (예: 스마트무역원정, 물류비 절감) [Ctrl + K]" 
+          class="flex-1 bg-transparent text-sm md:text-base text-slate-800 dark:text-white placeholder-slate-400 outline-none"
+          autocomplete="off"
+        >
+        <kbd class="text-xs">ESC</kbd>
+      </div>
+
+      <div id="search-results" class="flex-1 overflow-y-auto min-h-[200px]">
+        <div class="p-8 text-center text-xs text-slate-400">
+          검색어를 입력하면 실시간으로 문서를 검색합니다.
+        </div>
+      </div>
+
+      <div class="p-3 bg-slate-50 dark:bg-slate-950/80 border-t border-slate-200 dark:border-slate-800 text-[11px] text-slate-400 flex items-center justify-between">
+        <div class="flex items-center gap-2">
+          <span><kbd>&uarr;&darr;</kbd> 이동</span>
+          <span><kbd>Enter</kbd> 선택</span>
+        </div>
+        <div class="flex items-center gap-2">
+          <span class="inline-flex items-center gap-1.5 text-[10px] text-purple-600 dark:text-purple-400 bg-purple-50 dark:bg-purple-950/60 px-2 py-0.5 rounded border border-purple-200/50 dark:border-purple-800/40 font-medium">
+            <span class="w-1.5 h-1.5 rounded-full bg-purple-500 animate-pulse"></span>
+            Ollama bge-m3 하이브리드 RRF
+          </span>
+          <span class="hidden sm:inline text-slate-400">| 개인지식위키 Portal</span>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Global Document Viewer Popup Modal -->
+  <div id="doc-popup-modal" class="fixed inset-0 z-50 bg-slate-900/60 backdrop-blur-sm flex items-center justify-center p-3 sm:p-6 hidden">
+    <div class="bg-white dark:bg-slate-900 w-full max-w-5xl max-h-[92dvh] rounded-2xl shadow-2xl border border-slate-200 dark:border-slate-800 flex flex-col overflow-hidden animate-fade-in">
+
+      <!-- Modal Header -->
+      <div class="px-4 py-3 sm:px-5 border-b border-slate-200 dark:border-slate-800 flex items-center justify-between gap-3 bg-slate-50/70 dark:bg-slate-950/50">
+        <div class="flex items-center gap-2.5 min-w-0 flex-1">
+          <button id="doc-popup-back-btn" type="button" class="hidden p-1.5 rounded-lg text-slate-500 hover:text-slate-800 dark:hover:text-slate-100 hover:bg-slate-200/70 dark:hover:bg-slate-800 transition shrink-0" title="이전 문서로 (Backspace)">
+            <i data-lucide="arrow-left" class="w-4 h-4"></i>
+          </button>
+          <div id="doc-popup-icon-wrapper" class="w-8 h-8 rounded-lg bg-purple-100 dark:bg-purple-900/50 text-purple-600 dark:text-purple-300 flex items-center justify-center shrink-0">
+            <i id="doc-popup-icon" data-lucide="file-text" class="w-4 h-4"></i>
+          </div>
+          <div class="min-w-0 flex-1">
+            <div class="flex items-center gap-2 flex-wrap">
+              <span id="doc-popup-category" class="text-[10px] font-bold px-2 py-0.5 rounded-full bg-purple-100 dark:bg-purple-900/40 text-purple-700 dark:text-purple-300">카테고리</span>
+              <span id="doc-popup-type" class="text-[10px] font-bold px-2 py-0.5 rounded-full bg-blue-100 dark:bg-blue-900/40 text-blue-700 dark:text-blue-300">정본</span>
+            </div>
+            <h2 id="doc-popup-title" class="text-sm sm:text-base font-bold text-slate-900 dark:text-white truncate mt-0.5">문서 제목</h2>
+          </div>
+        </div>
+
+        <div class="flex items-center gap-1.5 shrink-0">
+          <a id="doc-popup-open-tab-btn" href="#" class="px-2.5 py-1.5 rounded-lg bg-slate-100 dark:bg-slate-800 hover:bg-slate-200 dark:hover:bg-slate-700 text-slate-600 dark:text-slate-300 text-xs font-semibold flex items-center gap-1.5 transition" title="새 탭 또는 전체 페이지로 열기">
+            <i data-lucide="external-link" class="w-3.5 h-3.5"></i>
+            <span class="hidden sm:inline">전체 페이지로 열기</span>
+          </a>
+          <button id="doc-popup-close-btn" class="p-1.5 rounded-lg text-slate-400 hover:text-slate-700 dark:hover:text-slate-200 hover:bg-slate-200/60 dark:hover:bg-slate-800 transition" title="팝업 닫기 (ESC)">
+            <i data-lucide="x" class="w-5 h-5"></i>
+          </button>
+        </div>
+      </div>
+
+      <!-- Modal Meta Info Bar -->
+      <div id="doc-popup-meta" class="px-4 sm:px-5 py-1.5 bg-slate-100/60 dark:bg-slate-800/40 border-b border-slate-200/60 dark:border-slate-800/60 flex items-center justify-between text-[11px] text-slate-500 dark:text-slate-400 flex-wrap gap-2">
+        <div class="flex items-center gap-3 flex-wrap">
+          <span id="doc-popup-date" class="flex items-center gap-1"><i data-lucide="calendar" class="w-3 h-3"></i><span>-</span></span>
+          <span id="doc-popup-source" class="flex items-center gap-1"><i data-lucide="database" class="w-3 h-3"></i><span>-</span></span>
+        </div>
+        <div id="doc-popup-tags" class="flex items-center gap-1 flex-wrap"></div>
+      </div>
+
+      <!-- Modal Body (Content) -->
+      <div id="doc-popup-body" class="flex-1 overflow-y-auto px-4 py-4 sm:px-7 sm:py-5 wiki-prose min-h-[250px]">
+        <!-- Dynamic Content -->
+      </div>
+
+      <!-- Modal Footer -->
+      <div class="py-2 bg-slate-50 dark:bg-slate-950/80 border-t border-slate-200 dark:border-slate-800 text-[11px] text-slate-400 flex items-center justify-between px-4 sm:px-5">
+        <span id="doc-popup-doc-id" class="font-mono truncate max-w-[300px] sm:max-w-md"></span>
+        <div class="flex items-center gap-3">
+          <span><kbd class="px-1.5 py-0.5 rounded bg-slate-200 dark:bg-slate-800 text-[10px]">Backspace</kbd> 이전</span>
+          <span><kbd class="px-1.5 py-0.5 rounded bg-slate-200 dark:bg-slate-800 text-[10px]">ESC</kbd> 닫기</span>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Mobile Sidebar Script -->
+  <script>
+    const mobileMenuBtn = document.getElementById('mobile-menu-btn');
+    const mainSidebar = document.getElementById('main-sidebar');
+    if (mobileMenuBtn && mainSidebar) {
+      mobileMenuBtn.addEventListener('click', () => {
+        mainSidebar.classList.toggle('hidden');
+      });
+    }
+  </script>
+
+  <!-- Data Bundle and Application Logic -->
+  <script src="assets/wiki_data.js?v=20260907_lite"></script>
+  <script src="assets/graph.js?v=20260905_1"></script>
+  <script src="app.js?v=20260928_pctfix"></script>
+</body>
+</html>

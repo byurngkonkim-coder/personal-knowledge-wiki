@@ -1,0 +1,498 @@
+# listening patterns and speaking patterns.md
+
+> [!NOTE]
+> **소스 출처**: Step-by-Step English Speaking Training Patterns
+
+---
+
+## 🏷 NotebookLM 자동 태그 (한국어 번역)
+
+**키워드**: 영어 듣기 패턴, 말하기 연습 유형, 일반적인 동사 구문, 영어 문법 사용법, 회화 문장 예시
+
+**한줄 요약**
+> 이 문서는 학습자가 자연스러운 대화를 익힐 수 있도록 일반적인 영어 표현을 명확한 **듣기 및 말하기 패턴**으로 분류한 포괄적인 언어 가이드입니다. "be about to"와 "be going to"를 사용한 **의도 및 미래 계획**, 또는 "be supposed to"를 통한 **의무 및 기대**와 같은 핵심 기능 구조를 중심으로 언어를 구성함으로써, 이 텍스트는 원어민 수준의 구문을 이해하기 위한 로드맵을 제공합니다. 자료의 상당 부분은 **습관화 및 과거 상태**의 뉘앙스에 할애되어 있으며, 광범위한 문맥적 예시를 통해 "be used to", "get used to", "used to"를 대조합니다. 궁극적으로 이 자료는 **수동적 인식과 능동적 생산** 사이의 간극을 메우기 위해 고안된 실용적인 훈련 도구로서, 반복적인 노출과 이중 언어 번역을 통해 이러한 고빈도 구문을 강화합니다.
+
+---
+
+## 📋 상세 분석 (소스_프롬프트.txt 기반)
+
+---
+title: "listening patterns and speaking patterns.md"
+aliases: []
+tags: [source, mcp-extracted]
+type: document
+---
+# 📄 listening patterns and speaking patterns.md (Part: 전체)
+
+## 📌 요약 (Executive Summary)
+- 본 문서는 원어민이 일상 회화 및 드라마(미드), 영화 등 실제 소통 환경에서 가장 자주 구사하는 영어 패턴들을 '듣기 패턴 유형(Listening Patterns)'과 '말하기 패턴 유형(Speaking Patterns)'으로 체계적으로 양분하여 수록한 실전 어휘/청취 교재이다.
+- 핵심 조동사 및 다양한 시점·상태 표현(look forward to, be about to, be going to, be supposed to, be used to, get used to, used to, get to, what if, want + 목적어 + to)의 입체적 의미 차이와 실제 대화 예문들을 긍정문, 부정문, 의문문 형태로 상세히 수집해 정리하고 있다.
+- 무손실 정보 보존 원칙에 기초하여, 원문에 등재된 인명(David, Serena 등) 및 특정 비유 표현(Enterprise, Mississippi River, Miles Davis pissed on it 등), 그리고 원고 고유의 독특한 오탈자 및 번역 결함(예: "위험한 익숙하지", "그것의 익숙해지지", "빛의 익숙해져요", "무엇을 하고 냈나요" 등)을 단 하나의 왜곡 없이 원형 그대로 100% 박제 수록한다.
+
+---
+
+## 🧱 상세 분해 (Detailed Breakdown)
+
+### ### 1. 듣기 패턴 유형 (Listening Patterns) - Look forward to (~을 기대하다)
+- **핵심 논지**: 다가올 기쁘고 유쾌한 일에 대해 기대하거나 고대하는 감정을 표현하는 패턴으로, 다양한 주어, 인칭, 시제(현재, 과거, 미래, 현재완료 등)에 따른 세부 발음 변화와 문맥을 듣기 중심으로 훈련한다.
+- **근거 및 데이터**:
+  - `I look forward to it` (나는 그것을 기대한다)
+  - `I am looking forward to it` (나는 그것을 기대하고 있다)
+  - `I look forward to the party tomorrow` (나는 내일 파티를 기대한다)
+  - `I am looking forward to the party tomorrow` (나는 내일 파티를 기대하고 있다)
+  - `I was looking forward to it` (나는 그것을 기대하고 있었다)
+  - `I was looking forward to the concert but it got cancelled` (나는 콘서트를 기대하고 있었지만 취소되었다)
+  - `I'll look forward to it` (나는 그것을 기대할 것이다)
+  - `I've been looking forward to it` (나는 그것을 기대해 왔다)
+  - `I've been looking forward to the vacation for months` (나는 몇 달 동안 휴가를 기대해 왔다)
+  - `I don't look forward to it` (나는 그것을 기대하지 않는다)
+  - `I am not looking forward to it` (나는 그것을 기대하고 있지 않다)
+  - `look forward to our future` (우리의 미래를 기대하다)
+  - `looking forward to our date` (우리의 데이트를 기대하며)
+  - `looking forward to this evening` (오늘 저녁을 기대하며)
+  - `something to look forward to` (기대할 만한 것)
+  - `give me something to look forward to` (내가 기대할 만한 것을 줘)
+  - `I look forward to this journey` (나는 이 여정을 기대한다)
+  - `I look forward to meeting him` (나는 그를 만나기를 기대한다)
+  - `I don't look forward to that` (나는 그것을 기대하지 않는다)
+  - `look forward to hearing from you` (당신에게서 소식을 듣기를 기대한다)
+  - `I look forward to a letter of apology` (나는 사과 편지를 기대한다)
+  - `I'm quite looking forward to it` (나는 그것을 꽤 기대하고 있다)
+  - `we're looking forward to productive talks` (우리는 생산적인 대화를 기대하고 있다)
+  - `tell her I look forward to helping her` (그녀에게 내가 그녀를 돕기를 기대한다고 말해)
+  - `don't worry I'm not looking forward to it either` (걱정 마, 나도 그것을 기대하고 있지 않아)
+  - `I'm not looking forward to seeing that` (나는 그것을 보는 것을 기대하고 있지 않다)
+  - `this is why I'm looking forward to retirement` (이것이 바로 내가 은퇴를 기대하는 이유이다)
+  - `he's looking forward to some relaxation` (그는 약간의 휴식을 기대하고 있다)
+  - `I was looking forward to getting scorched` (나는 타는 것을 기대하고 있었다)
+  - `I was looking forward to getting all this behind me` (나는 이 모든 것을 뒤로 하기를 기대하고 있었다)
+  - `I was really looking forward to never seeing you again` (나는 정말로 너를 다시는 보지 않기를 기대하고 있었다)
+  - `I guess I was really looking forward to seeing her` (나는 그녀를 정말로 만나기를 기대하고 있었던 것 같다)
+  - `I will look forward to that` (나는 그것을 기대할 것이다)
+  - `I will look forward to sending it` (나는 그것을 보내기를 기대할 것이다)
+  - `I'll look forward to receiving a copy of that recording from your office` (나는 당신 사무실로부터 그 녹음의 복사본을 받기를 기대할 것이다)
+  - `are you looking forward to yours` (당신은 당신의 것을 기대하고 있나요)
+  - `are you looking forward to the wedding` (결혼식을 기대하고 있나요)
+  - `what are you most looking forward to in America` (미국에서 무엇을 가장 기대하고 있나요)
+  - `what are we even looking forward to` (우리는 도대체 무엇을 기대하고 있는가)
+  - `I've been looking forward to this` (나는 이것을 기대해 왔다)
+  - `I've been looking forward to that concert for months` (나는 몇 달 동안 그 콘서트를 기대해 왔다)
+  - `he's been looking forward to meeting you` (그는 당신을 만나기를 기대해 왔다)
+  - `I've been looking forward to saying something to you for 12 years` (나는 12년 동안 당신에게 무언가를 말하기를 기대해 왔다)
+  - `she's been looking forward to this holiday for months` (그녀는 몇 달 동안 이 휴가를 기대해 왔다)
+  - `I feel like I've got something to look forward to` (기대할 만한 것이 있는 것 같다)
+  - `I've never done one of those so I'm looking forward to it` (나는 그런 것을 해본 적이 없어서 그것을 기대하고 있다)
+  - `which is why I'm not looking forward to jumping in there after you` (그것이 바로 내가 당신 뒤에 거기에 뛰어드는 것을 기대하고 있지 않은 이유이다)
+  - `I'm really not looking forward to going to the depressing restaurant liquidation auction` (나는 정말로 그 우울한 레스토랑 청산 경매에 가는 것을 기대하고 있지 않다)
+  - `watching you marry another isn't exactly something I was looking forward to` (당신이 다른 사람과 결혼하는 것을 보는 것은 내가 기대했던 것이 전혀 아니다)
+  - `I've been looking forward to being a big fish` (나는 큰 물고기가 되기를 기대해 왔다)
+  - `I look forward to meeting you` (나는 당신을 만나기를 기대한다)
+- **주요 인용**: > "I was really looking forward to never seeing you again (나는 정말로 너를 다시는 보지 않기를 기대하고 있었다)"
+
+### ### 2. 듣기 패턴 유형 (Listening Patterns) - Be about to (막 ~하려고 하다) & Be going to (~할 것이다)
+- **핵심 논지**: 미래의 매우 임박하여 직전에 놓인 돌발적 상태(be about to)와 미래 지향적인 확고한 예측 및 계획(be going to)의 구조적 속성을 분별하고 감상한다.
+- **근거 및 데이터**:
+  - `be about to (막 ~하려고 하다)` 예문 리스트:
+    - *we're about to arrive* (우리는 막 도착하려고 한다)
+    - *we're about to die* (우리는 막 죽으려고 한다)
+    - *I was about to go home* (나는 막 집에 가려고 했었다)
+    - *we're about to publish* (우리는 막 출판하려고 한다)
+    - *they're about to publish* (그들은 막 출판하려고 한다)
+    - *I was about to cry* (나는 막 울려고 했었다)
+    - *it's about to be* (막 ~가 되려고 한다)
+    - *ceremony is about to begin* (의식이 막 시작하려고 한다)
+    - *I was just about to leave* (나는 막 떠나려고 했었다)
+    - *I was just about to call you* (나는 막 당신에게 전화하려고 했었다)
+    - *I'm not about to talk about this* (나는 이것에 대해 말하려고 하지 않는다)
+    - *you're not about to use* (당신은 막 사용하려고 하지 않는다)
+    - *we're about to have dinner* (우리는 막 저녁을 먹으려고 한다)
+    - *I heard you're about to retire* (당신이 막 은퇴하려고 한다는 것을 들었다)
+    - *the girl was about to confess* (그 소녀는 막 고백하려고 했었다)
+    - *the ship's about to leave* (그 배는 막 떠나려고 한다)
+    - *we're about to roll* (우리는 막 나아가려고 한다)
+    - *something exciting is about to happen* (무언가 신나는 일이 막 일어나려고 한다)
+    - *somebody's life's about to change* (누군가의 인생이 막 바뀌려고 한다)
+    - *looks like they're about to have theirs* (그들이 막 그들의 것을 가지려고 하는 것 같다)
+    - *I can't believe I'm about to say this* (내가 막 이것을 말하려고 한다는 것을 믿을 수 없다)
+    - *it's about to attack the Enterprise* (그것이 막 엔터프라이즈를 공격하려고 한다)
+    - *we were about to give up* (우리는 막 포기하려고 했었다)
+    - *what's about to happen* (무슨 일이 막 일어나려고 하는가)
+    - *they're about to go bad* (그것들이 막 상하려고 한다)
+    - *nothing was about to happen until something happened* (무언가 일이 일어나기 전까지는 아무 일도 막 일어나려고 하지 않았다)
+    - *your results are about to come in* (당신의 결과가 막 나오려고 한다)
+    - *they're about to call this* (그들은 이것을 막 부르려고 한다)
+    - *today's about to go off the rails* (오늘은 막 엉망이 되려고 한다)
+    - *they're about to go extinct* (그들은 막 멸종하려고 한다)
+    - *it's about to cross the Mississippi River* (그것은 막 미시시피 강을 건너려고 한다)
+  - `be going to (~할 것이다, ~할 예정이다)` 예문 리스트:
+    - *Were you seriously not going to tell me* (정말로 나에게 말하지 않으려고 했었나요)
+    - *There were certain people that were going to benefit* (혜택을 받을 특정 사람들이 있었다)
+    - *When am I going to meet your friends and your brothers* (언제 당신 친구들과 형제들을 만날 계획인가요)
+    - *That's not what you said you were going to wear* (그것은 당신이 입을 것이라고 말했던 것이 아니다)
+    - *That's not what we said we were going to do* (그것은 우리가 하기로 말했던 것이 아니다)
+- **주요 인용**: > "I can't believe I'm about to say this (내가 막 이것을 말하려고 한다는 것을 믿을 수 없다)"
+
+### ### 3. 듣기 패턴 유형 (Listening Patterns) - Be supposed to (~하기로 되어 있다)
+- **핵심 논지**: 도덕적 의무, 기약된 약속, 규칙과 금지 사항, 과거의 아쉬운 약속 불이행(was/were supposed to)에 대해 원어민 특유의 감정과 문형 구조를 파악해 훈련한다.
+- **근거 및 데이터**:
+  - `be supposed to (~하기로 되어 있다, ~해야 한다)` 예문 리스트:
+    - *I'm supposed to walk* (나는 걸어야 한다)
+    - *it wasn't supposed to* (그것은 ~하도록 되어 있지 않았다)
+    - *supposed to be* (~이어야 한다/하기로 되어 있다)
+    - *I'm supposed to tell her* (나는 그녀에게 말해야 한다)
+    - *are we supposed to sing* (우리는 노래해야 하나요)
+    - *was I supposed to* (나는 ~해야 했었나요)
+    - *you're supposed to do good things* (당신은 좋은 일을 해야 한다)
+    - *I'm supposed to see somebody* (나는 누군가를 만나야 한다)
+    - *we're supposed to help her* (우리는 그녀를 도와야 한다)
+    - *how am I supposed to feel about this* (이것에 대해 어떻게 느껴야 하나요)
+    - *I'm supposed to be invisible* (나는 보이지 않아야 한다)
+    - *I'm supposed to be getting married David* (데이비드, 나는 결혼하기로 되어 있어)
+    - *and she's not supposed to move at all* (그리고 그녀는 전혀 움직이면 안 된다)
+    - *you're supposed to break up now* (당신은 지금 헤어져야 한다)
+    - *we were supposed to meet here tonight* (우리는 오늘 밤 여기서 만나기로 되어 있었다)
+    - *you're supposed to be together* (당신들은 함께 있어야 한다)
+    - *how am I supposed to believe that* (그것을 어떻게 믿어야 하나요)
+    - *what's that supposed to mean* (그것은 무엇을 의미하나요)
+    - *considering we're not supposed to be in here* (우리가 여기 안에 있으면 안 된다는 것을 고려하면)
+    - *I'm not supposed to bring a guest* (나는 손님을 데려오면 안 된다)
+    - *I'm not supposed to drink my calories dad* (아빠, 저는 칼로리를 마시면 안 돼요)
+    - *how am I supposed to get over that* (그것을 어떻게 극복해야 하나요)
+    - *who I'm supposed to be and what I'm supposed to be doing* (내가 어떤 사람이 되어야 하는지 그리고 내가 무엇을 해야 하는지)
+    - *they're supposed to accept me* (그들은 나를 받아들여야 한다)
+    - *they's supposed to support me* (그들은 나를 지지해야 한다)
+    - *they's supposed to love me* (그들은 나를 사랑해야 한다)
+    - *aren't you supposed to keep them* (그것들을 보관해야 하는 것 아닌가요)
+    - *you were supposed to drive tonight* (당신은 오늘 밤 운전하기로 되어 있었다)
+    - *what am I supposed to do* (내가 무엇을 해야 하나요)
+    - *I wasn't supposed to be there* (나는 거기에 있으면 안 됐었다)
+    - *you're not supposed to be* (당신은 있으면 안 된다)
+    - *you're not supposed to be here* (당신은 여기 있으면 안 된다)
+    - *I'm not even supposed to be here with you* (나는 심지어 당신과 함께 여기 있으면 안 된다)
+    - *we're not even supposed to look in there* (우리는 심지어 저 안을 들여다보면 안 된다)
+    - *you're supposed to teach and I'm supposed to learn* (당신은 가르치고 나는 배워야 한다)
+    - *I'm not supposed to guess I'm just supposed to listen* (나는 추측하면 안 되고 그냥 들어야 한다)
+    - *not even what we're legally supposed to* (심지어 법적으로 해야 하는 것도 아니다)
+    - *they're not supposed to move until dark* (그들은 어두워질 때까지 움직이면 안 된다)
+    - *so I'm not supposed to mention his lip at all* (그래서 나는 그의 입술에 대해 전혀 언급하면 안 된다)
+    - *how am I not supposed to mention this over an entire weekend* (주말 내내 이것을 어떻게 언급하지 않을 수 있나요)
+- **주요 인용**: > "What's that supposed to mean (그것은 무엇을 의미하나요)"
+
+### ### 4. 듣기 패턴 유형 (Listening Patterns) - Be used to (~에 익숙하다) & Get used to (~에 익숙해지다) & Used to (~하곤 했다)
+- **핵심 논지**: 과거부터 길들어 완전히 편해진 상태(be used to), 어색한 상태를 극복하고 단단해지는 변화의 역동적 과정(get used to), 그리고 대조적으로 현재는 전면 중단된 과거의 습관(used to)의 인과적 차이를 독파한다.
+- **근거 및 데이터**:
+  - `be used to (~에 익숙하다)` 예문 리스트:
+    - *I'm used to the noise* (나는 소음에 익숙하다)
+    - *be used to waking up early* (일찍 일어나는 것에 익숙하다)
+    - *I'm used to knowing* (나는 아는 것에 익숙하다)
+    - *I'm just not used to that* (나는 그것에 익숙하지 않다)
+    - *I'm not used to doing this* (나는 이것을 하는 것에 익숙하지 않다)
+    - *I'm used to being let down* (나는 실망하는 것에 익숙하다)
+    - *he's used to risk* (그는 위험에 익숙하다)
+    - *the seniors are used to hardship* (고참들은 고난에 익숙하다)
+    - *the neighbors are used to screaming* (이웃들은 소리 지르는 것에 익숙하다)
+    - *I'm not used to holding nephews* (나는 조카를 안는 것에 익숙하지 않다)
+    - *I'm not used to this kind of thing* (나는 이런 종류의 것에 익숙하지 않다)
+    - *I'm just not used to obstacles* (나는 장애물에 익숙하지 않다)
+    - *are you used to it* (그것에 익숙한가요)
+    - *what are you used to* (무엇에 익숙한가요)
+    - *I'm not used to being tickled* (나는 간지럽힘 당하는 것에 익숙하지 않다)
+    - *These Girls Aren't used to Couture* (이 소녀들은 쿠튀르에 익숙하지 않다)
+    - *I'm used to playing for grown-ups* (나는 어른들을 위해 연주하는 것에 익숙하다)
+    - *I'm used to getting my own way* (나는 내 뜻대로 하는 것에 익숙하다)
+    - *I'm used to different smells* (나는 다른 냄새에 익숙하다)
+    - *are you just used to saying that* (그냥 그렇게 말하는 것에 익숙한가요)
+    - *Dobby is used to Death Grips* (도비는 데스 그립에 익숙하다)
+    - *different from what you're used to* (당신이 익숙한 것과 다르다)
+    - *most of you are used to listening to a very different kind of music* (대부분의 당신들은 매우 다른 종류의 음악을 듣는 것에 익숙하다)
+    - *I'm kind of used to being stared at* (나는 약간 쳐다보이는 것에 익숙하다)
+    - *I'm used to being way out but this is ridiculous* (나는 한참 벗어나는 것에 익숙하지만 이것은 우스꽝스럽다)
+    - *which I'm sure that you're used to but* (당신이 익숙하다는 것을 확신하지만)
+    - *you're not used to being given orders are you* (당신은 명령받는 것에 익숙하지 않죠, 그렇죠)
+    - *you're just not used to kissing men you know* (당신은 그냥 남자에게 키스하는 것에 익숙하지 않은 거예요)
+    - *animals that are used to running as hard as fast as they can* (가능한 한 열심히 빨리 달리는 것에 익숙한 동물들)
+    - *who are used to working as a team* (팀으로 일하는 것에 익숙한 사람들)
+    - *certain things that you are used to getting* (당신이 얻는 것에 익숙한 특정 것들)
+    - *I'm used to the way this universe works* (나는 이 우주가 작동하는 방식에 익숙하다)
+    - *I'm guessing you girls are used to being in places you're not supposed to be* (너희 여자들은 있으면 안 되는 장소에 있는 것에 익숙한 것 같네)
+    - *but you have to understand what these people are used to* (하지만 이 사람들이 무엇에 익숙한지 이해해야 합니다)
+    - *people like you are just way too used to getting your own way* (당신 같은 사람들은 너무도 제멋대로 하는 것에 익숙하다)
+    - *my workers are used to an extremely hot climate* (내 노동자들은 극도로 더운 기후에 익숙하다)
+  - `get used to (~에 익숙해지다)` 예문 리스트:
+    - *get used to him* (그에게 익숙해지다)
+    - *don't get used to it* (그것에 익숙해지지 마)
+    - *you get used to it* (당신은 그것에 익숙해질 것이다)
+    - *first of all you do get used to his face* (우선, 당신은 정말로 그의 얼굴에 익숙해진다)
+    - *you'll get used to you* (당신은 당신 자신에게 익숙해질 것이다)
+    - *you'll get used to the pain* (당신은 고통에 익숙해질 것이다)
+    - *you'll get used to me in time* (당신은 시간이 지나면 나에게 익숙해질 것이다)
+    - *you're going to have to get used to that* (당신은 그것에 익숙해져야 할 것이다)
+    - *I'm a lot to get used to* (나는 익숙해지기 어려운 점이 많다)
+    - *better get used to disappointment* (실망에 익숙해지는 것이 낫다)
+    - *you better get used to that* (당신은 그것에 익숙해지는 것이 좋을 것이다)
+    - *I could get used to this* (나는 이것에 익숙해질 수 있을 것 같다)
+    - *I just could not get used to sleeping alone* (나는 혼자 자는 것에 익숙해질 수 없었다)
+    - *do you get used to that* (그것에 익숙해지나요)
+    - *can someone get used to that* (누군가 그것에 익숙해질 수 있나요)
+    - *you should get used to it* (당신은 그것에 익숙해져야 한다)
+    - *they should get used to being unemployed* (그들은 실업 상태에 익숙해져야 한다)
+    - *I'll never get used to him* (나는 그에게 절대 익숙해지지 않을 것이다)
+    - *oh how will we ever get used to the new you* (오, 우리가 어떻게 당신의 새로운 모습에 익숙해질 수 있을까)
+    - *guess I'll have to get used to folding a fitted sheet* (나는 아마도 시트를 접는 것에 익숙해져야 할 것 같다)
+    - *I kind of got used to being a commander* (나는 약간 사령관이 되는 것에 익숙했다)
+    - *I've gotten used to you* (나는 당신에게 익숙해졌다)
+    - *I've gotten used to keeping people at arms length* (나는 사람들을 멀리하는 것에 익숙해졌다)
+    - *I had just gotten used to the Catwoman suit* (나는 막 캣우먼 수트에 익숙해졌었다)
+    - *that's what I'm trying to get used to* (그것이 바로 내가 익숙해지려고 노력하는 것이다)
+    - *I'm still trying to get used to it myself* (나는 아직 그것에 나 스스로 익숙해지려고 노력하고 있다)
+    - *but there are certain things you must get used to* (하지만 당신이 익숙해져야 하는 특정 것들이 있다)
+    - *they have to get used to doing it my way* (그들은 내 방식대로 하는 것에 익숙해야 한다)
+    - *right now they're getting very used to it* (지금 그들은 그것에 매우 익숙해지고 있다)
+    - *I suppose we'll get used to it* (나는 우리가 그것에 익숙해질 것이라고 생각한다)
+    - *I don't want to get used to it* (나는 그것에 익숙해지고 싶지 않다)
+    - *might as well get used to it* (~에 익숙해지는 게 나을 것이다)
+    - *I never thought I'd get used to a girl* (나는 여자에게 익숙해질 거라고 생각하지 못했다)
+    - *girls are easier to get used to than boys* (여자들은 남자들보다 익숙해지기 더 쉽다)
+    - `I'm really getting used to talking to patience` (나는 환자들과 이야기하는 것에 정말로 익숙해지고 있다) *※ 원형 'patience' 오타 그대로 복제 수록*
+    - *I take a little getting used to* (익숙해지는 데 시간이 좀 걸린다)
+    - *I'm still getting used to me* (나는 아직 나 자신에게 익숙해지고 있다)
+    - *it's going to take me a few minutes to get used to being on the outside* (바깥에 있는 것에 익숙해지는 데 몇 분 걸릴 것이다)
+  - `used to (~하곤 했다, 예전에 ~였다)` 예문 리스트:
+    - *we used to go out* (우리는 예전에 데이트하곤 했다)
+    - *I Used to Know Her Mind* (나는 예전에 그녀의 마음을 알았다)
+    - *I used to play with this guy* (나는 예전에 이 사람과 놀았다)
+    - *I used to paint all the time* (나는 예전에 항상 그림을 그렸다)
+    - *we used to use parakeets* (우리는 예전에 앵무새를 사용하곤 했다)
+    - *it used to be right there* (그것은 예전에 바로 거기에 있었다)
+    - *my father used to come here* (나의 아버지는 예전에 여기에 오시곤 했다)
+    - *I used to throw up all the time* (나는 예전에 항상 토하곤 했다)
+    - *I used to come here as a kid* (나는 어렸을 때 여기에 오곤 했다)
+    - *I used to be kind* (나는 예전에 친절했다)
+    - *I used to be caring* (나는 예전에 배려심이 있었다)
+    - *I used always to dream of the future* (나는 항상 미래를 꿈꾸곤 했다)
+    - *you know I used to play football* (알다시피, 나는 예전에 축구를 했다)
+    - *there used to be a trail here* (예전에는 여기에 오솔길이 있었다)
+    - *we used to spend every Sunday together* (우리는 예전에 매주 일요일을 함께 보냈다)
+    - *I used to come over to the house all the time* (나는 예전에 항상 집에 오곤 했다)
+    - *my father used to have blackouts when he drank* (나의 아버지는 술을 마시면 예전에 기억을 잃곤 했다)
+    - *that my mother used to recite to me* (나의 어머니가 예전에 나에게 낭송해 주시던 것)
+    - *I used to come out here and talk to them* (나는 예전에 여기에 나와 그들에게 이야기하곤 했다)
+    - *which used to be there* (예전에 거기에 있었던 것)
+    - *all the things that we used to dream about* (우리가 예전에 꿈꾸곤 했던 모든 것)
+    - *it used to be it was a hierarchy* (예전에는 그것이 계층 구조였다)
+    - *Did he used to work there* (그는 예전에 거기서 일했었나요)
+    - *Guy that used to make movies* (예전에 영화를 만들곤 했던 사람)
+    - *Wanna know where I used to hide when I get scared* (내가 무서워할 때 예전에 어디 숨었는지 알고 싶나요)
+    - *You used to say this was just a job* (당신은 예전에 이것은 그냥 일이라고 말하곤 했다)
+- **주요 인용**: > "animals that are used to running as hard as fast as they can (가능한 한 열심히 빨리 달리는 것에 익숙한 동물들)"
+
+### ### 5. 말하기 패턴 유형 (Speaking Patterns) - Look forward to & Be about to & Be going to
+- **핵심 논지**: 의미 기반으로 학습한 패턴을 바탕으로, 한국어 예문을 영어식 결착 구조에 맞춰서 유연하게 즉각 변환하여 발화하는 능력을 훈련한다.
+- **근거 및 데이터**:
+  - `look forward to (~을 기대하다)` 패턴 영작 연습 문장:
+    - *저는 그녀의 반응을 기다려요 - I look forward to her response.*
+    - *저도 당신을 뵙기를 기대합니다 - I look forward to seeing you.*
+    - *저는 발견하기를 기대해요 - I look forward to finding it.*
+    - *춤이 기대돼 - I'm looking forward to the dance.*
+    - *집에 가길 기대하고 있어 - I'm looking forward to going home.*
+    - *전 정말로 저녁 식사가 기대되어 - I'm really looking forward to dinner.*
+    - *글쎄 난 그건 기대하지 않아 - Well, I don't look forward to that.*
+    - *야 너 무도회 기대돼 - Are you looking forward to the ball?*
+    - *당신은 숙녀분들 보기를 기대하고 계신가요 - Are you looking forward to seeing the ladies?*
+    - *기대할게요 - I'll look forward to it.*
+    - *내 전화 기다릴게 - I'll look forward to your call.*
+    - *나는 그것을 나누는 걸 기대했어요 - I was looking forward to sharing it.*
+    - *저는 뭔가를 포스팅 하는 걸 기대했어요 - I was looking forward to posting something.*
+    - *저는 이것을 기대하고 있었어요 - I was looking forward to this.*
+    - *당신을 만나기를 고대해 왔습니다 - I've been looking forward to meeting you.*
+    - *그건 기대되는 일이네요 - That's something to look forward to.*
+    - *기대할게 없어 - There's nothing to look forward to.*
+  - `be about to (막 ~하려고 하다)` 패턴 영작 연습 문장:
+    - *나 지금 울 것 같아 - I'm about to cry.*
+    - *우리 지금 시작할 거야 - We're about to start now.*
+    - *그들은 지금 막 떠나려고 해 - They're about to leave now.*
+    - *영화가 곧 시작할 거야 - The movie is about to start soon.*
+    - *우리는 이제 곧 알게 될 거야 - We're about to find out soon.*
+    - *나 지금 점심 먹으려고 해 - I'm about to eat lunch now.*
+    - *내 비행기 탑승이 곧 시작해 - My plane is about to board soon.*
+    - *그녀는 곧 결혼할 예정이야 - She's about to get married soon.*
+    - *곧 무슨 일이 일어날 것 같아 - Something is about to happen soon.*
+    - *난 아무에게도 말하지 않을 생각이야 - I'm not about to tell anyone.*
+    - *나 지금 막 너에게 전화하려고 했어 - I was just about to call you.*
+    - *블랙 프라이데이가 곧 열릴 예정이야 - Black Friday is about to start soon.*
+    - *누군가의 인생이 바뀌려고 해요 - Somebody's life is about to change.*
+    - *너는 곧 놀라운 걸 볼 예정이야 - You're about to see something amazing.*
+    - *나는 이제 더 이상 연애 조언 받는 걸 시작하지 않을 거야 - I'm not about to start getting dating advice anymore.*
+    - *무슨 일이 일어나려는 거야 - What's about to happen?*
+    - *그게 바로 내가 말하려고 했던 거야 - That's what I was about to say.*
+  - `be going to (~할 것이다, ~할 예정이다)` 패턴 영작 연습 문장:
+    - *남 바꿀 거야 - I'm going to change it.*
+    - *그건 작동할 거야 - It's going to work.*
+    - *비가 올 것 같아 - It's going to rain.*
+    - *그녀는 이걸 이겨낼 거야 - She's going to get over this. / 그녀는 살아남을 거야 - She's going to survive.*
+    - *그는 우리를 도와줄 거예요 - He's going to help us.*
+    - *이건 너한테 좋을 거야 - This is going to be good for you.*
+    - *일어날 일은 일어날 거야 - What's going to happen is going to happen.*
+    - *난 울지 않을 거야 - I'm not going to cry.*
+    - *넌 죽지 않을 거야 - You're not going to die.*
+    - *그 일은 일어나지 않을 거예요 - That's not going to happen.*
+    - *그 일은 일어나지 않을 거야 왜냐하면 네가 질 거거든 - That's not going to happen because you're going to lose.*
+    - *나 프로포즈 하려고 했었어 - I was going to propose.*
+    - *나 커피 마시려고 했었어 - I was going to get coffee. / 나 샤워도 하려고 했었어 - I was going to take a shower too.*
+    - *그는 괜찮아질 예정이었어요 - He was going to be fine.*
+    - *엄마에게 손자 손녀가 생길 예정이었어 - Mom was going to have grandchildren.*
+    - *우리는 시도해 보려고 했었어 - We were going to try.*
+    - *여보 우리는 그걸 하기로 했다고 말했어 - Honey, we said we were going to do that.*
+    - *그 일은 다시는 일어나지 않을 거예요 - That's not going to happen again.*
+    - *그녀가 그것을 사려고 했었나요 - Was she going to buy it?*
+    - *당신은 언제쯤 애들을 보러 갈 계획이야 - When are you going to see the kids?*
+    - *너 뭐 하려고 했는데 - What were you going to do?*
+    - *너 무슨 말 하려고 했는데 - What were you going to say?*
+    - *너 언제 배우려고 했는데 - When were you going to learn?*
+- **주요 인용**: > "내 전화 기다릴게 - I'll look forward to your call."
+
+### ### 6. 말하기 패턴 유형 (Speaking Patterns) - Be supposed to (~하기로 되어 있다) & Be used to (~에 익숙하다) & Get used to (~에 익숙해지다) & Used to (~하곤 했다)
+- **핵심 논지**: 의무와 허용 한계, 상태 및 변화의 주관적 정서 차이를 엄격한 문장 전환 연습을 통해 체득한다.
+- **근거 및 데이터**:
+  - `be supposed to (~하기로 되어 있다, ~해야 한다)` 패턴 영작 연습 문장:
+    - *나 오늘 일해야 해 - I'm supposed to work today.*
+    - *나 학교 가야 해 - I'm supposed to go to school.*
+    - *당신은 노크를 해야 해요 - You're supposed to knock.*
+    - *너는 사과해야 해 - You're supposed to apologize.*
+    - *우리는 파트너야 해 - We're supposed to be partners. / 우리는 팀이어야 해 - We're supposed to be a team.*
+    - *아무도 들어가면 안 돼요 - Nobody is supposed to go in.*
+    - *나는 너에게 말하면 안 돼 - I'm not supposed to tell you.*
+    - *그들은 같이 있으면 안 돼요 - They're not supposed to be together.*
+    - *너는 그걸 듣고 있으면 안 돼 - You're not supposed to be listening to that. / 너는 자고 있어야 해 - You're supposed to be sleeping.*
+    - *너는 떠났어야 해 - You were supposed to leave.*
+    - *너는 사라졌어야 해 - You were supposed to disappear.*
+    - *그녀는 전화를 했어야 해요 - She was supposed to call.*
+    - *우리는 아침 먹으러 만났어야 해 - We were supposed to meet for breakfast.*
+    - *제가 대답해야 하나요 - Am I supposed to answer?*
+    - *내가 뭘 어떻게 해야 하는데 - What am I supposed to do?*
+    - *제가 뭘 먹어야 하죠 - What am I supposed to eat? / 어디서 자야 하는 거예요 - Where am I supposed to sleep?*
+    - *그게 무슨 뜻이야 - What's that supposed to mean?*
+    - *내가 저기로 줄을 타고 어떻게 건너가 - How am I supposed to get across there on a rope?*
+  - `be used to (~에 익숙하다)` 패턴 영작 연습 문장:
+    - *그는 그것에 익숙해요 - He is used to it.*
+    - *나는 혼자 있는게 익숙해 - I'm used to being alone.*
+    - *저는 배고픔에 익숙해요 - I'm used to hunger.*
+    - *그녀는 왼쪽에서 운전하는게 익숙해 - She is used to driving on the left.*
+    - *난 이곳에 익숙하지 않아 - I'm not used to this place.*
+    - *난 네가 운전하는 것에 익숙하지 않아 - I'm not used to you driving.*
+    - *그녀는 낯선 사람에게 익숙치 않아요 - She is not used to strangers.*
+    - *이 남자들은 부유한 생활에 익숙하지 않아요 - These men are not used to a wealthy life.*
+    - *저는 대중연설에 익숙하지 않아요 - I'm not used to public speaking.*
+    - *우리는 잘생긴 기사님에게 익숙하지 않아요 - We are not used to a handsome driver.*
+    - *당신은 아바타 몸에 익숙하지 않아요 - You are not used to an Avatar body.*
+    - `저는 이런 류의 위험한 익숙하지 않아요` - I'm not used to this kind of danger. *※ 원문의 기형적 한글 번역 오류 그대로 복제 수록*
+    - *저는 저런 말투에 익숙하지 않아요 - I'm not used to that kind of tone.*
+    - *그는 오래된 집에 익숙했죠 - He was used to the old house.*
+    - *당신은 이것에 익숙한가요 - Are you used to this?*
+    - *버드 부인 당신은 직원관리에 익숙하지 않은 건가요 - Mrs. Bird, aren't you used to managing staff?*
+    - *그게 바로 제가 익숙한 거예요 - That's what I'm used to.*
+  - `get used to (~에 익숙해지다)` 패턴 영작 연습 문장:
+    - *그것에 익숙해져요 - Get used to it.*
+    - *이 실망에 익숙해져야 해 - You should get used to this disappointment.*
+    - `그것의 익숙해지지 마` - Don't get used to it. *※ 원문의 격조사 오류 '그것의' 그대로 복제 수록*
+    - *그것에 익숙해지는게 좋을 거예요 - You'd better get used to it.*
+    - `우리는 빛의 익숙해져요` - We get used to the light. *※ 원문의 기형적 한글 번역 오타 그대로 복제 수록*
+    - *당신은 그 고통에 익숙해지지 않아요 - You don't get used to the pain.*
+    - *너는 그 고통에 익숙해지니 - Do you get used to the pain?*
+    - *우리 모두는 말하는데 아주 익숙해졌어요 - We all got very used to talking.*
+    - *걱정 마 나는 이것에 익숙해지고 있어 - Don't worry, I'm getting used to this.*
+    - *그들은 나에게 익숙해질 거예요 - They will get used to me.*
+    - *나는 파리에 익숙해질 수 있겠어 - I could get used to Paris.*
+    - *저는 결혼 생활에 반드시 익숙해져야 해요 - I must get used to married life.*
+    - *맞아 넌 그걸 듣는 것에 익숙해져야 해 - Yeah, you have to get used to hearing that.*
+    - *나는 이것에 익숙해지고 싶지 않아 - I don't want to get used to this.*
+    - *너는 그 사실에 익숙해질 필요가 있어 - You need to get used to that fact.*
+    - *그는 익숙해지는데 시간이 좀 걸려 - It takes him some time to get used to it.*
+  - `used to (~하곤 했다, 예전에 ~였다)` 패턴 영작 연습 문장:
+    - *나 저기서 먹어본 적 있어 - I used to eat there.*
+    - *나는 내 꿈을 꾼 적이 있어 - I used to dream my dreams.*
+    - *우리 친한 친구였잖아 - We used to be close friends.*
+    - *그는 여기서 일했었어요 - He used to work here.*
+    - *데이빗은 그걸 사랑했어요 그렇죠 - David used to love it, right?*
+    - *나는 그것도 못 알아듣는 척하기도 했었지 - I used to pretend I didn't understand that either.*
+    - *나는 이런 적이 없었어 - I never used to be like this.*
+    - *우리 같이 일했었나요 - Did we used to work together?*
+    - *너 몬티랑 같이 조깅했었어 - Did you used to jog with Monty?*
+    - *개들이 말한 적 없지 - They never used to talk, did they?*
+    - *당신은 누구였나요 - Who did you used to be?*
+    - `당신은 무엇을 하고 냈나요` - What did you used to do? *※ 원형의 오탈자 '무엇을 하고 냈나요' 그대로 수록*
+- **주요 인용**: > "이 실망에 익숙해져야 해 - You should get used to this disappointment."
+
+### ### 7. 말하기 패턴 유형 (Speaking Patterns) - Get to & What if & Want to
+- **핵심 논지**: 특정 동작을 실행할 귀중한 기회의 기회 획득(get to), 불확실한 미래 사건에 대한 소극적 우려나 걱정 어린 가상 제안(what if), 타인이 행동을 옮겨주기를 바라는 전폭적 요구 구문(want + object + to)의 입체적 발화 훈련을 시행한다.
+- **근거 및 데이터**:
+  - `get to (~할 기회를 얻다, ~하게 되다)` 패턴 영작 연습 문장:
+    - *I get to do this (나는 이것을 할 기회를 얻다/할 수 있다)*
+    - *this is nice we never get to do this (이것 좋네요, 우리는 이것을 절대 할 기회가 없어요)*
+    - *I get to be a role model (나는 역할 모델이 될 수 있다)*
+    - *you get to be rich and famous (당신은 부자가 되고 유명해질 수 있다)*
+    - `today I get to meet my father today` (나는 오늘 아버지를 만날 수 있다/기회를 얻다) *※ 원형의 'today' 중복 기재 그대로 수록*
+    - *you get to watch the game tonight (당신은 오늘 밤 경기를 볼 수 있다)*
+    - *I get to walk you to the subway (당신을 지하철까지 데려다줄 수 있다)*
+    - *now I get to start all over again (이제 다시 처음부터 시작할 수 있다)*
+    - *from now on you don't get to talk to other people (지금부터는 당신은 다른 사람들과 이야기할 수 없다)*
+    - *I never got to hold her (나는 그녀를 안아볼 기회를 절대 얻지 못했다)*
+    - *when do we get to meet the guy (우리는 언제 그 남자를 만날 수 있나요/기회를 얻나요)*
+    - *you'll love her when you get to know her (당신이 그녀를 알게 되면 그녀를 사랑하게 될 것이다)*
+    - *it's good for us to get to know each other (우리가 서로를 알게 되는 것은 좋다)*
+    - *before we get to know them (우리가 그들을 알게 되기 전에)*
+    - *maybe you shouldn't judge people before you get to know them (어쩌면 당신은 사람들을 알게 되기 전에 판단하면 안 된다)*
+  - `what if (만약 ~라면 어쩌지)` 패턴 영작 연습 문장:
+    - *what if he hates me (만약 그가 나를 싫어한다면 어쩌지)*
+    - *what if he hits me (만약 그가 나를 때린다면 어쩌지)*
+    - *but what if she is the one (하지만 만약 그녀가 그 사람이라면 어쩌지)*
+    - *what if he's serious (만약 그가 진심이라면 어쩌지)*
+    - *what if they take me (만약 그들이 나를 데려간다면 어쩌지)*
+    - *what if they refuse (만약 그들이 거절한다면 어쩌지)*
+    - *what if I don't have time (만약 내가 시간이 없다면 어쩌지)*
+    - *what if I can't play anymore (만약 내가 더 이상 연주할 수 없다면 어쩌지)*
+    - *what if they don't win (만약 그들이 이기지 못한다면 어쩌지)*
+    - *what if she's married (만약 그녀가 결혼했다면 어쩌지) what if she's not (만약 그녀가 결혼하지 않았다면 어쩌지)*
+    - *what if I said no (만약 내가 '아니요'라고 말했다면 어쩌지)*
+    - *what if I choose the wrong one (만약 내가 잘못된 것을 선택한다면 어쩌지)*
+    - *so what if they believed me (그래서 만약 그들이 나를 믿었다면 어쩌지)*
+    - *what if there was nothing (만약 아무것도 없었다면 어쩌지)*
+    - *what if they got it wrong (만약 그들이 그것을 잘못 이해했다면 어쩌지)*
+    - *what if there was a different way (만약 다른 방법이 있었다면 어쩌지)*
+    - *what if I said I didn't want you here (만약 내가 당신이 여기 있기를 원하지 않는다고 말했다면 어쩌지)*
+    - *what if I said Miles Davis pissed on it (만약 내가 마일스 데이비스가 거기에 오줌 쌌다고 말했다면 어쩌지)*
+    - *what if you'd missed (만약 당신이 놓쳤다면 어쩌지)*
+    - *what if I need you (만약 내가 당신이 필요하다면 어쩌지) what if I need to talk (만약 내가 이야기해야 한다면 어쩌지)*
+    - *what if I send in the tape and they don't like it (만약 내가 테이프를 보냈는데 그들이 마음에 들어 하지 않는다면 어쩌지) what if they say I'm no good (만약 그들이 내가 쓸모없다고 말한다면 어쩌지)*
+  - `want (목적어) to (동사) (~가 ~하기를 원하다)` 패턴 영작 연습 문장:
+    - *I want you to be quiet (나는 당신이 조용히 하기를 원한다)*
+    - *I want you to come with me (나는 당신이 나와 함께 가기를 원한다)*
+    - *I want you to take me (나는 당신이 나를 데려가기를 원한다)*
+    - *I want you to tell me everything (나는 당신이 나에게 모든 것을 말해주기를 원한다)*
+    - *I want you to know that I love your father (나는 당신이 내가 당신 아버지를 사랑한다는 것을 알기를 원한다)*
+    - *I don't want you to go (나는 당신이 가기를 원하지 않는다)*
+    - *I don't want you to call me (나는 당신이 나에게 전화하는 것을 원하지 않는다)*
+    - *I don't want you to touch my stuff (나는 당신이 내 물건을 만지는 것을 원하지 않는다)*
+    - *you want us to believe you right (당신은 우리가 당신을 믿기를 원하죠, 그렇죠)*
+    - *you want us to give you bird food (당신은 우리가 당신에게 새 모이를 주기를 원한다)*
+    - *do you want me to open it (제가 그것을 열어주기를 원하시나요)*
+    - *do you want me to talk to him (제가 그에게 이야기해주기를 원하시나요)*
+    - *what do you want me to do (제가 무엇을 하기를 원하시나요)*
+    - *just tell me what you want me to do (제가 무엇을 하기를 원하는지 그냥 말해주세요)*
+    - *I didn't want you to remember (나는 당신이 기억하기를 원하지 않았다)*
+    - *I wanted you to forget (나는 당신이 잊기를 원했다)*
+- **주요 인용**: > "what if I said Miles Davis pissed on it (만약 내가 마일스 데이비스가 거기에 오줌 쌌다고 말했다면 어쩌지)"
+
+---
+
+## 💡 주요 용어 (Key Terminology)
+
+- **Listening Pattern (듣기 패턴)**: 주로 원어민들이 실제 일상생활에서 소통할 때 빈번히 흘러나오는 표현들을 귀로 자연스럽게 해독하고, 시제 및 조동사의 정밀 뉘앙스 변화를 포착하여 체득하는 청취 위주의 패턴 학습 기법.
+- **Speaking Pattern (말하기 패턴)**: 한국어 문장 의미와 문맥을 영어 특유의 고정 패턴 형식으로 즉각 변환하여, 영작이나 머뭇거림 없이 반사적으로 입 밖으로 즉시 전사 발화할 수 있도록 돕는 실전형 스피킹 연습 기법.
+- **Get used to VS Be used to**: 'be used to'는 이미 특정 기후나 소음 등의 상태에 완벽히 익숙해져서 편안해져 있는 고정 상태를 뜻하고, 'get used to'는 어색하거나 낯설었던 환경에 시간이 지나며 서서히 적응해 나가는 역동적 과정을 의미함.
+- **Used to VS Would (과거 습관)**: 과거에 지속적·규칙적으로 반복하여 현재는 완전히 하지 않는 막연한 과거의 습관을 나타내는 'used to'와, 과거 시점에서 한두 차례 종종 반복되던 일련의 가벼운 불규칙한 동작을 묘사하는 조동사 'would'의 차이.
+- **What's that supposed to mean? (적대적 의미 제기)**: 기획이나 행동이 기대된 것과 모순을 이룰 때, 당황스럽거나 짜증 섞인 감정 상태를 담아 "도대체 그게 무슨 뜻(수작)이야?"라며 항의조로 제기하는 상용 어구.
+
+---
+
+*source: NotebookLM / Step-by-Step English Speaking Training Patterns*

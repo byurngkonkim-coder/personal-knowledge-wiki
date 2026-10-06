@@ -1,0 +1,743 @@
+# Dictionary of daily verbs.md
+
+> [!NOTE]
+> **소스 출처**: Step-by-Step English Speaking Training Patterns
+
+---
+
+## 🏷 NotebookLM 자동 태그 (한국어 번역)
+
+**키워드**: 구동사 사용, 매일 쓰는 영어 표현, 동사 문장 예시, 영어 어휘 학습, 한국어 번역
+
+**한줄 요약**
+> 이 포괄적인 문서는 영어 구동사의 실용적인 어휘집으로, 학습자들이 일상 회화 언어를 숙달하는 데 도움이 되도록 세심하게 구성되었습니다. 이 자료는 일반적인 표현들의 광범위한 목록을 제공하며, 그 뒤에는 문맥상의 예시와 한국어 번역이 이어져 단순 동사와 입자 사이의 미묘한 의미 변화를 명확하게 이해할 수 있도록 합니다. 이 모음집의 주요 주제에는 신체적 행동과 움직임, 사회적 상호작용, 감정적 또는 정신적 상태가 포함되어 있으며, 일상적인 허드렛일부터 복잡한 대인 관계 역학에 이르기까지 모든 것을 다룹니다. 궁극적으로 이 텍스트는 공식적인 어휘와 자연스러운 의사소통에 필요한 관용적인 유창성 사이의 간극을 메우기 위해 고안된 기능적인 학습 가이드 역할을 합니다.
+
+---
+
+## 📋 상세 분석 (소스_프롬프트.txt 기반)
+
+---
+title: "Dictionary of daily verbs.md"
+aliases: []
+tags: [source, mcp-extracted]
+type: document
+---
+
+# 📄 Dictionary of daily verbs.md (Part: 전체)
+
+## 📌 요약 (Executive Summary)
+- 본 문서는 일상생활 및 구어체 표현에서 활용도가 극도로 높은 핵심 구동사(Phrasal Verbs) 및 필수 동사 표현들을 체계적으로 취합하여 영한 대역 예문쌍으로 정리한 전사 자료이다. [14, 237, 459]
+- 단순히 물리적인 거동(예: 'get in', 'get off')뿐만 아니라, 다양한 심리적 전이(예: 'get over', 'let down'), 작업 환경의 기능적 묘사(예: 'plug in', 'set up'), 대화 교신용 규칙(예: 'let go of', 'speak up') 등 실전 발화에 필수적인 항목들이 정밀 수록되어 있다. [459, 680, 694]
+- 무손실 추출 엔진 원칙에 의거하여 원형 텍스트 고유의 기호 일탈, 띄어쓰기 패턴, 번역 일치 불일치 및 오타 정위쌍(예: 'what\'size', 'your to intense', 'IIt is associated with', 'against terrorist', 'dont be so quick to take a fence?', 'dont be so quick to judge?', 'dont let her upset you?', 'dont be chicky', 'dont be so formal?', 'some say one thing, some another', 'I\'made a mistake', 'get together 사귄 지 년 되었어요', 'Get up 아침 시에 일어나요', 'Come down on him?', 'Don\'t let the small things stress you out?' 등의 기부 질문 기호 오류 등)을 임의 보정하지 않고 100% 원형 복원하여 보존 전사한다. [12, 114, 459, 689, 693]
+
+---
+
+## 🧱 상세 분해 (Detailed Breakdown)
+
+### ### 1. 구동사 동작 표현군: A ~ C (Phrasal Verbs A ~ C)
+- **핵심 논지**: 주체적인 거동(Act, Ask, Blow), 사태의 발생과 취소(Break, Bring, Call), 그리고 관계의 개시 및 한계(Come, Cut) 등에 대응하는 구동사 발화쌍을 입증 보존한다. [460, 680, 684]
+- **근거 및 데이터**:
+  - **Act up (제대로 작동하지 않다)**:
+    - 제 휴대폰이 이상해요, 계속 멈추네요 / *My phone is acting up, it keeps freezing* [460, 690]
+  - **Act out (반항하다)**:
+    - 저는 반항하는 게 아니라 그저 제 감정을 표현하는 거예요 / *I'm not acting out, I'm just expressing my feelings* [460, 690]
+  - **Ask out (데이트 신청하다)**:
+    - 그녀에게 데이트 신청을 하려니 정말 긴장되네요 / *I'm really nervous to ask her out* [431, 605]
+  - **Ask over (초대하다)**:
+    - 저는 그녀를 저녁 식사에 초대했어요 / *I asked her over for dinner* [463, 697]
+  - **Ask about (묻다)**:
+    - 그녀는 계약 조건에 대해 물어봤어요 / *She asked about the terms of the contract* [463, 697]
+    - 전화해서 물어봐, 뭘 물어봐 / *Call and ask, ask about what?* [463, 697]
+  - **Back down (굽히다, 물러서다)**:
+    - 그는 위협에 굴하지 않았어요 / *(원형 소스 내 'back down' 예문: Tom was going to call the police... but he backed down when I said I'd pay for the damages)* [501, 524, 728]
+  - **Back off (뒤로 물러나다, 꼬리를 내리다)**:
+    - 그는 결국 물러섰어요 / *(원형 소스 내 'back off' 예문: Tom was ready to call the police... but he backed off)* [501, 524, 728]
+  - **Back up (지지하다, 후진하다, 물러서다, 백업하다)**:
+    - 무슨 일이 생기든 난 널 응원해 줄 거야 / *I'll back you up no matter what happens* [216, 656]
+    - 차를 뒤로 좀 후진해 줄 수 있나요 / *Can you back the car up a little bit?* [216, 656]
+    - 뒤로 조금만 물러나 주세요 / *Please back up a little bit* [216, 656]
+    - 사진을 복사해서 보관하는 거 잊지 마세요 / *Make sure to back up your photos* [216, 656]
+  - **Blow off steam (스트레스를 풀다)**:
+    - 저는 운동으로 스트레스를 풀어요 / *I blow off steam through exercise* [688, 659]
+  - **Blow up (불어넣다, 화내다)**:
+    - 그들은 풍선을 불고 있어요 / *They are blowing up a balloon* [688, 659]
+    - 그는 제가 늦은 것에 대해 화를 냈어요 / *He blew up at me for being late* [688, 659]
+  - **Blow out (끄다)**:
+    - 그는 촛불을 껐어요 / *He blew out the candles* [689, 660]
+  - **Break down (고장 나다, 분류하다)**:
+    - 공항 가는 길에 차가 고장 나지 않았으면 좋겠어요 / *I hope the car doesn't break down on the way to the airport* [680, 180]
+    - 이 목록을 분류해 줄 수 있나요 / *Can you break down the list for me?* [398, 730]
+  - **Break in (침입하다)**:
+    - 누군가가 침입해서 제 노트북을 훔쳐 갔어요 / *Someone broke in and stole my laptop* [690, 182]
+  - **Bring about (가져오다, 이끌어내다)**:
+    - 그의 아이디어가 큰 변화를 가져왔어요 / *His idea brought about a big change* [696, 407]
+    - 그의 노력은 승진을 이끌어냈어요 / *His hard work brought about a promotion* [696, 407]
+  - **Bring back (회상하다)**:
+    - 이 노래는 많은 추억을 떠올리게 해요 / *This song brings back so many memories* [686, 119]
+  - **Build up (기르다, 쌓다)**:
+    - 체력을 길러야 해요 / *I need to build up my stamina* [463, 697]
+    - 그는 지역 사회에서 좋은 평판을 쌓았어요 / *He built up a good reputation in the community* [463, 697]
+  - **Burn out (지치다)**:
+    - 일로 인해 정말 지쳤어요 / *I'm really burned out from work* [459, 679]
+  - **Call back (다시 전화하다)**:
+    - 나중에 다시 전화할게요 / *I'll call you back later* [680, 180]
+    - 다시 전화해 주세요 / *Please call me back* [680, 180]
+  - **Call up (전화하다, 소집하다)**:
+    - 친구에게 전화해서 우리와 함께 할지 물어볼게요 / *I'll call up my friend and ask if he wants to join us* [460, 690]
+    - 군대는 예비군을 소집했습니다 / *The army called up the reserves* [460, 690]
+  - **Calm down (진정하다)**:
+    - 진정하고 무슨 일이 있었는지 말해 줘 / *Please calm down and tell me what happened* [691, 181]
+  - **Cheer up (기운을 내다)**:
+    - 힘내, 다 잘 될 거야 / *Cheer up, everything will be okay* [689, 426]
+  - **Check in (수속을 밟다)**:
+    - 오후 3시 전에 호텔에 체크인해야 해요 / *We need to check in at the hotel before 3 pm* [867, 1042]
+  - **Check out (확인하다, 퇴실하다)**:
+    - 가격을 확인해 줄 수 있어요 / *Could you check out the price for me?* [867, 1042]
+    - 오후 12시 전에 호텔에서 퇴실해야 해요 / *We need to check out the hotel before 12 pm* [867, 1042]
+  - **Chip in (돈 등을 조금씩 모으다)**:
+    - 우린 그의 선물을 사기 위해 돈을 조금씩 모았어요 / *We chipped in to buy him a gift* [407, 608]
+  - **Clear out (끝나다, 정리하다, 비우다)**:
+    - 행사가 자정쯤 끝났어요 / *The event cleared out around midnight* [406, 667]
+    - 생각을 정리할 시간이 좀 필요해요 / *I need some time to clear out my thoughts* [406, 667]
+    - 쓰레기통을 제때 비워 주세요 / *Please clear out the trash can on time* [406, 667]
+  - **Close down (문을 닫다)**:
+    - 그 공장은 재정적 어려움으로 문을 닫았어요 / *The factory closed down due to financial difficulties* [698, 408]
+  - **Come across (우연히 발견하다)**:
+    - 우린 앨범을 보다가 편지를 발견했어요 / *We came across a letter while looking through the album* [689, 660]
+  - **Come around (의식을 회복하다)**:
+    - 그는 의식을 회복하고 눈을 떴어요 / *He started to come around and open his eyes* [406, 666]
+  - **Come back (돌아오다)**:
+    - 그들은 여행에서 일찍 돌아왔어요 / *They came back early from the trip* [689, 660]
+  - **Come down (내려오다)**:
+    - 조심해서 내려오세요 / *Please come down carefully* [684, 152]
+  - **Come down with (~에 걸리다)**:
+    - 감기에 걸린 것 같아요 / *I think I'm coming down with a cold* [684, 152]
+  - **Come down on (호되게 꾸짖다)**:
+    - 그를 혼내지 마세요 / *Don't come down on him?* [684, 152] (※ 원고 특유의 물음표 기호 보존)
+  - **Come into (물려받다)**:
+    - 그는 큰 상속을 받았어요 / *He came into a large inheritance* [698, 409]
+  - **Come into effect (시행되다)**:
+    - 새로운 법률이 내일부터 시행됩니다 / *The new law comes into effect tomorrow* [698, 409]
+  - **Come out (출시되다, 제거되다)**:
+    - 영화는 다음 주에 개봉됩니다 / *The movie comes out next week* [686, 121]
+    - 옷에 얼룩이 빠지지 않아요 / *The stain won't come out of my shirt* [686, 122]
+  - **Come off (떨어지다, 진행되다)**:
+    - 문 손잡이가 떨어졌어요 / *The handle came off the door* [686, 123]
+    - 파티는 아무 문제 없이 잘 진행되었어요 / *The party came off without a hitch* [686, 124]
+  - **Come up (다가오다, 떠오르다, 발생하다)**:
+    - 크리스마스가 다가오고 있어요 / *Christmas is coming up* [684, 100]
+    - 해가 떠오르고 있어요 / *The sun is coming up* [684, 101]
+    - 늦을 것 같아요, 갑자기 일이 생겼어요 / *I'll be late, something came up* [684, 102]
+  - **Come up with (생각해 내다)**:
+    - 방금 좋은 아이디어가 떠올랐어요 / *I just came up with a good idea* [688, 141]
+  - **Cool down (식히다, 진정하다)**:
+    - 수프가 뜨거워요, 먹기 전에 식혀 주세요 / *Let it cool down before you eat, the soup is hot* [407, 607]
+    - 너무 화내지 마, 진정해 / *Don't get so angry, cool down* [407, 607]
+  - **Cut back on (줄이다)**:
+    - 전 커피를 줄여야 해요 / *I need to cut back on coffee* [689, 152]
+  - **Cut down on (줄이다)**:
+    - 의사는 그에게 술을 줄이라고 했어요 / *The doctor told him to cut down on his drinking* [610, 875]
+  - **Cut down (잘라내다)**:
+    - 그들은 나무를 베었어요 / *They cut down the tree* [610, 875]
+  - **Cut in (끼어들다)**:
+    - 새치기하지 마시고 줄을 서세요 / *Don't cut in line, please line up* [609, 874]
+  - **Cut out (오려내다, 줄이다)**:
+    - 모양대로 오려 주세요 / *Please cut it out according to the shape* [696, 608]
+    - 요즘 커피를 줄이고 있어요 / *I've been cutting out coffee lately* [697, 609]
+  - **Cut up (잘게 자르다, 상처를 주다, 장난치다)**:
+    - 샐러드용으로 야채를 잘게 썰고 있어요 / *I'm cutting up the vegetables for the salad* [419, 922]
+    - 그의 행동은 그녀에게 큰 상처를 주었어요 / *His behavior really cut her up* [420, 922]
+    - 그는 교실에서 늘 장난을 쳐요 / *He always cuts up in class* [421, 669]
+- **주요 인용**: > "I just came up with a good idea. (방금 좋은 아이디어가 떠올랐어요) [688, 141]"
+
+### ### 2. 구동사 동작 표현군: D ~ G (Phrasal Verbs D ~ G)
+- **핵심 논지**: 시간의 잦아듦(Die), 형상 맞춤(Dress), 미각과 외식(Eat), 다층적 의사 결정(Face, Fall, Fill), 그리고 다의적 소통(Get)에 관한 정위쌍을 모은다. [689, 692, 695]
+- **근거 및 데이터**:
+  - **Die away (서서히 사라지다)**:
+    - 밤이 되면서 도시의 소음이 점차 사라졌어요 / *As night fell the noises of the city began to die away* [670, 902]
+  - **Die down (약해지다)**:
+    - 폭풍우가 마침내 약해졌어요 / *The storm finally died down* [610, 874]
+  - **Do away with (폐지하다, 버리다)**:
+    - 우린 구시대의 법률을 폐지해야 해요 / *We should do away with outdated laws* [609, 874]
+    - 그런 고정관념은 버리세요 / *You should do away with such stereotypes* [609, 874]
+  - **Do over (다시 하다)**:
+    - 발표를 망쳐서 다시 할 수 있었으면 좋겠어요 / *I messed up the presentation, I wish I could do it over* [172, 663]
+  - **Double up (자지러지게 웃다, 웅크리다)**:
+    - 그가 너무 웃겨서 저는 자지러지게 웃었어요 / *He was so funny that I doubled up with laughter* [463, 697]
+    - 그녀는 통증이 심해서 몸을 웅크렸어요 / *She doubled up with pain* [463, 697]
+  - **Doze off (깜빡 졸다)**:
+    - 순간 깜빡 졸았네요 / *I dozed off for a second* [682, 181]
+  - **Draw up (작성하다)**:
+    - 계약서를 작성해 주세요 / *Please draw up a contract* [694, 267]
+  - **Draw out (인출하다, 길게 하다)**:
+    - ATM에서 현금을 인출해야 해요 / *I need to draw out some cash from the ATM* [670, 902]
+    - 회의가 한 시간 더 길어졌어요 / *The meeting was drawn out for another hour* [670, 902]
+  - **Dress up (차려 입다)**:
+    - 그녀는 특별한 날엔 차려입는 것을 좋아해요 / *She likes to dress up for special occasions* [687, 129]
+  - **Drop by (잠시 들르다)**:
+    - 도움이 필요하면 언제든지 사무실에 들러 주세요 / *Feel free to drop by the office anytime if you need help* [678, 14]
+  - **Drop off (내려 주다)**:
+    - 마트 앞에서 내려 주세요 / *Please drop me off in front of the grocery store* [682, 181]
+  - **Dry up (말라 버리다)**:
+    - 가뭄 때문에 강이 말라 버렸어요 / *The river dried up because of the drought* [610, 874]
+  - **Eat out (외식하다)**:
+    - 오늘 밤 외식하자 / *Let's eat out tonight* [431, 605]
+  - **Eat up (다 먹다, 소모하다)**:
+    - 이거 남기지 말고 다 먹어 / *Eat up, don't leave anything* [174, 663]
+    - 괜히 시간 낭비만 했어요 / *I just ate up my time for nothing* [173, 663]
+  - **End up (결국 ~하게 되다)**:
+    - 그는 결국 파산 신청을 했어요 / *He ended up filing for bankruptcy* [687, 127]
+  - **Even out (균형을 잡다)**:
+    - 주식 시장은 시간이 지남에 따라 균형을 잡을 거예요 / *The stock market will even out over time* [609, 874]
+  - **Face up to (인정하다, 받아들이다, 해결하다, 현실을 직시하다)**:
+    - 그는 결국 그의 거짓말을 인정하고 사과했어요 / *He finally faced up to his lies and apologized* [382, 608]
+    - 그는 자신의 패배를 인정하고 받아들여야 했어요 / *He had to face up to his defeat* [382, 608]
+    - 그녀는 쌓여가는 빚을 해결해야 했어요 / *She had to face up to her mounting debts* [382, 608]
+    - 현실을 있는 그대로 받아들이세요 / *Face up to reality as it is* [382, 608]
+  - **Fall apart (무너지다, 붕괴하다, 멘탈 무너지다)**:
+    - 그들의 계획은 마지막 순간에 무너졌어요 / *Their plans fell apart at the last minute* [687, 132]
+    - 그 오래된 집은 붕괴되기 시작했어요 / *The old house started to fall apart* [687, 133]
+    - 정말 멘붕이야 / *I'm really falling apart* [688, 134]
+  - **Fall down (넘어지다, 떨어지다)**:
+    - 넘어지지 않게 조심해 / *Be careful not to fall down* [691, 177]
+    - 낙엽이 떨어지고 있어요 / *The leaves are falling down* [691, 178]
+  - **Fall for (속다)**:
+    - 아첨에 속지 마세요 / *Don't fall for flattery* [698, 409]
+  - **Fill in (채우다)**:
+    - 이메일 주소 적는 거 잊지 마세요 / *Don't forget to fill in your email address?* [691, 179]
+  - **Fill up (가득 채우다)**:
+    - 저녁 식사 전에 간식으로 배를 채우지 마세요 / *Don't fill up on snacks before dinner* [431, 605]
+  - **Fill out (작성하다, 살이 찌다)**:
+    - 신청서를 작성해 주세요 / *Please fill out the application form* [459, 180]
+    - 제리는 예전에 마르고 빼빼했으나 요즘 살이 찌기 시작했어 / *(원형 소스 내 'fill out' 예문: Jerry used to be really skinny... begin to fill out)* [743, 794]
+  - **Find out (찾아내다)**:
+    - 그녀는 그 소문에 대한 진실을 알아냈어요 / *She found out the truth about the rumor* [683, 74]
+  - **Fix up (수리하다)**:
+    - 우리는 집을 팔기 전에 수리해야 해요 / *We need to fix up the house before selling it* [407, 607]
+  - **Focus on (집중하다)**:
+    - 공부에만 집중해 / *Just focus on your studies* [699, 394]
+  - **Follow up (후속 조치하다)**:
+    - 의사는 한 달 후에 다시 오라고 했어요 / *The doctor asked me to follow up in a month* [691, 183]
+  - **Fool around (장난치다)**:
+    - 저 지금 장난칠 기분 아니에요 / *I'm not in any mood to fool around* [407, 608]
+  - **Freak out (놀라다)**:
+    - 방에서 거미를 보고 기겁했어요 / *I freaked out when I saw the spider in my room* [681, 180]
+  - **Free up (시간/공간을 내다)**:
+    - 오늘 저녁에 시간 좀 낼 수 있나요 / *Can you free up some time this evening?* [407, 608]
+  - **Fuss over (신경 쓰다, 걱정하다)**:
+    - 저 신경 쓰지 마세요 / *Please don't fuss over me* [691, 175]
+    - 그런 일로 너무 걱정하지 마 / *Don't fuss over it?* [691, 176]
+  - **Get across (전달하다)**:
+    - 그는 회의 중에 자신의 의견을 전달했어요 / *He got his point across during the meeting* [406, 666]
+  - **Get along (사이가 좋다, 잘 지내다, 가야 하다)**:
+    - 그들은 서로 사이가 정말 좋아요 / *They get along very well with each other* [692, 379]
+    - 걱정하지 마세요, 우린 잘 지내고 있어요 / *Don't worry, we're getting along just fine?* [692, 221] (※ 물음표 기호 보존)
+    - 영화 시간에 맞추려면 우리 이제 가야 돼요 / *We need to get along if we want to catch the movie on time* [692, 222]
+  - **Get away (벗어나다)**:
+    - 주말에 어디론가 벗어나고 싶어요 / *I want to get away somewhere for the weekend* [431, 605]
+  - **Get away with (처벌 없이 그냥 넘어가다)**:
+    - 그는 시험에서 컨닝을 했지만 처벌을 받지 않았어요 / *He got away with cheating on the test* [431, 605]
+  - **Get back (다시 연락하다)**:
+    - 다시 연락할게요 / *I'll get back to you* [684, 103]
+  - **Get back at (복수하다)**:
+    - 그에게 복수하려고 하지 마, 그럴 가치가 없어 / *Don't try to get back at him, it's not worth it* [431, 605]
+  - **Get down (내려오다, 엎드리다)**:
+    - 다치기 전에 내려와 / *Get down before you get injured* [633, 324]
+    - 엎드려요, 폭발이 일어나고 있어요 / *Get down, there are explosions* [633, 325]
+  - **Get off (내리다, 기회를 면하다)**:
+    - 우리 다음 정류장에서 내려야 돼 / *We need to get off at the next stop* [604, 194]
+  - **Get on (타다)**:
+    - 버스에 타세요, 곧 출발할 예정입니다 / *Please get on the bus, we're about to depart* [604, 193]
+  - **Get over (잊다, 극복하다)**:
+    - 그는 마침내 전 여자 친구를 잊었어요 / *He finally got over his ex-girlfriend* [431, 605]
+  - **Get ready (준비하다)**:
+    - 준비에 늦었어 / *Get ready to go, we're running late* [680, 19]
+  - **Get to (도착하다, 도달하다, 기회를 얻다, 힘들게 하다, 추억하게 만들다)**:
+    - 우린 오후 5시까지 공항에 도착할 거예요 / *We'll get to the airport by 5 pm* [406, 631]
+    - 그를 알게 되면 너는 그를 좋아하게 될 거야 / *Once you get to know him, you'll like him* [406, 631]
+    - 저는 그녀에게 작별 인사를 할 기회가 없었어요 / *I never got to say goodbye to her* [406, 631]
+    - 그녀의 끊임없는 불평이 정말로 저를 짜증나게 해요 / *Her constant complaining is really getting to me* [406, 631]
+    - 그의 말에 너무 신경 쓰지 마 / *Don't let his words get to you* [406, 631]
+    - 별 아닌 걸로 열내지 마 / *Don't let little things get to you* [406, 631]
+    - 그가 한 말이 정말로 저에게 큰 영향을 미쳤어요 / *What he said really got to me* [406, 631]
+    - 그 사진은 그녀에게 추억을 떠올리게 했어요 / *The photo got her to reminisce* [406, 261]
+  - **Get up (일어나다)**:
+    - 저는 보통 아침 시에 일어나요 / *I usually get up at 7 a. m.* [689, 689] (※ 한글 원형의 '아침 시' 전사 보존)
+  - **Give away (무료로 주다, 기부하다, 누설하다)**:
+    - 그들은 이벤트에서 홍보 용품을 무료로 나눠 주었어요 / *They gave away promotional items at the event* [695, 285]
+    - 그녀는 자선 단체에 옷을 기부했어요 / *She gave away her old clothes to charity* [695, 286]
+    - 스포하지 마세요 / *Please don't give away any spoilers* [695, 287]
+  - **Give back (돌려주다)**:
+    - 오늘까지 책을 반납해야 해요 / *I need to give the book back by today* [633, 328]
+  - **Give in (양보하다, 승인하다)**:
+    - 몇 시간의 협상 끝에 그들은 마침내 우리 요구를 받아들였어요 / *After hours of negotiation, they finally gave in to our demands* [407, 607]
+  - **Give out (누설하다)**:
+    - 절대 개인 정보를 누설하지 마세요 / *Never give out personal information* [609, 874]
+  - **Go against (반대하다, 통상적이지 않다)**:
+    - 다수의 의견에 반대하는 것은 어려워요 / *It's hard to go against the majority opinion* [407, 607]
+    - 겨울에 아이스크림을 먹는 것은 통상적이지 않지만 저는 좋아해요 / *Eating ice cream in winter goes against the norm, but I love it* [407, 607]
+  - **Go ahead (시작하다, 진척되다)**:
+    - 자료 발표를 시작해 주세요 / *Go ahead and start the presentation* [680, 18]
+  - **Go away (사라지다)**:
+    - 무릎에 통증이 사라졌어요 / *The pain in my knee went away* [406, 236]
+  - **Go beyond (초과하다)**:
+    - 루머가 퍼진 후 일이 너무 커져 버렸어요 / *After the rumor spread, things are going beyond control* [407, 612]
+  - **Go by (지나가다, 불리다, 따르다)**:
+    - 시간이 정말 빨리 지나갔네요 / *Time went by so fast* [610, 875]
+    - 세월 가는 줄 모르고 바쁘게 살았어요 / *I've been so busy I didn't even notice the years go by* [610, 875]
+    - 그는 매일 커피숍 옆을 지나가요 / *He goes by the coffee shop daily* [610, 875]
+    - 그의 이름은 조너선이지만, 전이라고 불려요 / *His name is Jonathan, but he goes by John* [610, 875] (※ 한글 원형 '전이라고' 전사 보존)
+    - 저는 온라인 커뮤니티에서 Starlight Dreamer라는 ID로 활동해요 / *In the online community I go by the username Starlight Dreamer* [610, 875]
+    - 나이로 따지면 내가 여기서 가장 위야 / *If we go by age, I'm the oldest person here* [610, 875]
+    - 운전할 때는 교통 법규를 준수해야 합니다 / *When you drive, you must go by the traffic regulation* [610, 875]
+  - **Go for (도전해 보다)**:
+    - 넌 할 수 있어, 도전해 봐 / *You've got this, go for it* [682, 181]
+  - **Go on (계속하다, 발생하다)**:
+    - 계속해서 이야기를 들려 줘, 듣고 있어요 / *Go on with your story, I'm listening* [681, 180]
+    - 무슨 일 있어 / *What's going on?* [681, 180]
+  - **Go through (경험하다)**:
+    - 그는 지금 힘든 시간을 보내고 있어요 / *He's going through a difficult time right now* [406, 237]
+  - **Go up (오르다, 올라가다)**:
+    - 가스 가격이 올랐어요 / *The price of gas went up* [696, 407]
+    - 그녀는 조심스럽게 계단을 올라갔어요 / *She went up the stairs cautiously* [696, 407]
+  - **Grow apart (멀어지다)**:
+    - 우린 가장 친한 친구였지만, 세월이 지나면서 서로 멀어졌어요 / *We used to be best friends, but over the years we grew apart* [407, 607]
+  - **Grow back (다시 자라나다)**:
+    - 걱정하지 마, 머리는 금방 자라 / *Don't worry, hair grows back fast* [609, 874]
+  - **Grow up (성장하다)**:
+    - 저는 커서 우주 비행사가 되고 싶어요 / *I want to be an astronaut when I grow up* [683, 79]
+- **주요 인용**: > "Don't worry, we're getting along just fine? (걱정하지 마세요, 우린 잘 지내고 있어요) [692, 221]"
+
+### ### 3. 구동사 동작 표현군: H ~ L (Phrasal Verbs H ~ L)
+- **핵심 논지**: 시스템 침투(Hack), 임무 완수 및 대기(Hang, Hold, Keep), 물리적 제동(Kneel, Kick, Lay, Let)과 시각적 탐색(Look, Settle)의 발화 정위쌍을 취합 보존한다. [670, 680, 690]
+- **근거 및 데이터**:
+  - **Hack into (침투하다)**:
+    - 비밀 번호를 바꿔야겠어요, 해킹당한 것 같아요 / *I need to change my password, I think I've been hacked into* [670, 902]
+  - **Hand in (제출하다)**:
+    - 월요일까지 과제를 제출해 주세요 / *Please hand in your assignments by Monday* [685, 110]
+  - **Hand out (나눠 주다)**:
+    - 행사에서 전단지를 나눠 줄 거예요 / *I'll hand out the flyers at the event* [681, 180]
+  - **Hang on (기다리다)**:
+    - 잠시만 기다려 주세요 / *Please hang on* [684, 107]
+  - **Hang up (전화를 끊다)**:
+    - 전화 끊지 말고 기다려 주세요 / *Please don't hang up, stay on the line* [690, 153]
+  - **Head back (돌아가다)**:
+    - 어두워지기 전에 돌아가야 할 것 같아 / *We should head back before it gets dark* [699, 465]
+  - **Head for (향하다)**:
+    - 그들은 드디어 산의 정상을 향해 갔어요 / *They finally headed for the peak* [699, 466]
+  - **Heat up (데우다)**:
+    - 수프를 데워 줄 수 있나요 / *Can you heat up the soup for me?* [699, 468]
+  - **Help out (도와주다)**:
+    - 도와주고 싶지만 오늘 좀 바빠 / *I'd like to help out, but I'm a bit busy today* [691, 184]
+  - **Hit on (접근하다, 생각해 내다)**:
+    - 지금 저에게 작업 거는 거예요 / *Are you trying to hit on me?* [699, 469]
+    - 갑자기 좋은 아이디어가 떠올랐어요 / *Suddenly I hit on a good idea* [699, 470]
+  - **Hold back (참다)**:
+    - 그녀는 참지 못해 울음을 터뜨렸어요 / *She couldn't hold back and burst into tears* [691, 181]
+  - **Hold out (버티다)**:
+    - 너무 피곤해서 더 이상 버틸 수가 없어요 / *I am so tired I cannot hold out any longer* [610, 346]
+  - **Hold up (잠깐만/기다려, 지연되다)**:
+    - 잠깐만, 뭐라고 / *Hold up, what did you say?* [691, 185]
+    - 기차가 지연되고 있어요 / *The train is being held up* [691, 186]
+  - **Hunt down (추적해 잡다)**:
+    - 형사는 범인을 추적해 잡았어요 / *The detective hunted down the criminal* [696, 407]
+  - **Hush up (잠재우다)**:
+    - 그들은 스캔들을 잠재우려고 노력했어요 / *They tried to hush up the scandal* [633, 327]
+  - **Jump in (참여하다)**:
+    - 아이디어가 있으면 언제든지 말하세요 / *Feel free to jump in if you have any ideas* [690, 156]
+  - **Keep away (멀리하다)**:
+    - 인화성 물질을 화염으로부터 멀리하세요 / *Keep flammable material away from open flame* [698, 391]
+  - **Keep away from (피하다)**:
+    - 직사광선을 피하세요 / *Keep away from direct sunlight* [698, 392]
+  - **Keep down (억제하다, 소화하다, 낮추다)**:
+    - 이번 달에는 지출을 줄여야 해요 / *We need to keep our expenses down this month* [609, 874]
+    - 너무 아파서 물조차도 소화가 안 돼요 / *I'm so sick, I can't even keep down water* [609, 874]
+    - 골프를 칠 때 머리를 숙이세요 / *Keep your head down while playing golf* [609, 874]
+    - 조용히 좀 해 주세요 / *Please keep it down* [611, 410]
+  - **Keep off (멀리하다)**:
+    - 잔디를 밟지 마세요 / *Please keep off the grass* [686, 120]
+  - **Keep on (계속하다)**:
+    - 계속해서 연습하면 나아질 거예요 / *Keep on practicing and you'll improve* [682, 180]
+  - **Keep up (유지하다)**:
+    - 잘하고 있어요 / *Keep up the good work* [682, 180]
+  - **Kneel down (무릎을 꿇다)**:
+    - 그가 그녀에게 프로포즈하기 위해 무릎을 꿇었어요 / *He knelt down to propose to her* [407, 607]
+  - **Kick back (휴식을 취하다)**:
+    - 주말에는 그냥 편하게 쉬고 싶어요 / *On weekends I just want to kick back and relax* [407, 607]
+  - **Kick off (시작되다)**:
+    - 경기는 오후 3시에 시작되었어요 / *The match kicked off at 3 p.m.* [407, 607]
+    - 축제는 퍼레이드로 시작되었어요 / *The festival kicked off with a parade* [407, 607]
+  - **Kick out (내쫓다)**:
+    - 그녀는 팀에서 방출되었어요 / *She was kicked out of the team* [407, 607]
+  - **Knock out (골아떨어지다)**:
+    - 집에 도착하자마자 골아떨어졌어요 / *I was so tired that I was knocked out as soon as I got home* [407, 607]
+  - **Knock it off (그만두다)**:
+    - 그만 좀 해 / *Knock it off* [407, 607]
+  - **Lay off (정리해고하다)**:
+    - 그녀는 어제 정리해고 되었어요 / *She was laid off yesterday* [691, 187]
+  - **Lean on (의지하다)**:
+    - 네가 힘들 때 언제든 내게 기대도 돼 / *You can always lean on me when you're feeling down* [685, 113]
+  - **Leave off (그만두다)**:
+    - 보자, 우리 어디까지 했었지 / *Let's see, where did we leave off?* [386, 613]
+  - **Leave out (빼놓다, 소외되다)**:
+    - 보고서를 읽어 보고 제가 빼놓은 것이 있는지 확인해 주세요 / *Please read over the report and check if I left anything out* [407, 607]
+    - 그녀는 파티에 초대받지 못해 소외감을 느꼈어요 / *She felt left out because she wasn't invited to the party* [407, 607]
+  - **Leave over (남기다)**:
+    - 그녀는 내일 먹을 음식을 좀 남겼어요 / *She left over some food for tomorrow* [386, 613]
+  - **Let go of (잊다, 놓아주다)**:
+    - 과거는 잊고 앞만 봐 / *You need to let go of the past and move on* [667, 268]
+  - **Let in (들어오게 하다)**:
+    - 경비원은 신분증 확인 후 방문객들을 안으로 들여보내 주었어요 / *The security guard let the visitors in after checks* [695, 284]
+  - **Let off (쏘아 올리다, 가볍게 넘어가다)**:
+    - 그들은 축제 동안 불꽃 놀이를 했어요 / *They let off fireworks during the festival* [386, 613]
+    - 그녀는 경고만 받고 풀려났어요 / *She was let off with a warning* [386, 613]
+  - **Let off steam (스트레스를 발산하다)**:
+    - 그녀는 먹는 것으로 스트레스를 풀어요 / *She lets off steam by eating* [386, 613]
+  - **Let out (내다, 끝나다)**:
+    - 저도 모르게 한숨이 나왔어요 / *Without realizing, I let out a sigh* [407, 607]
+    - 영화가 지금 막 끝났어요 / *The movie has just let out* [407, 607]
+  - **Let up (멈추다/약해지다, 쉽게 낫지 않다, 한풀 꺾이다)**:
+    - 비가 그치면 나갈 거야 / *I'll go out once the rain lets up* [407, 607]
+    - 이번 감기는 쉽게 낫지 않을 거예요 / *This flu just won't let up* [407, 607]
+    - 9월로 접어들자 더위가 한풀 꺾였어요 / *The heat let up as it turned September* [407, 607]
+  - **Lie down (눕다)**:
+    - 긴 하루가 끝나고 나면 그냥 누워서 쉬고 싶어요 / *After a long day, I just want to lie down and rest* [694, 407]
+  - **Lighten up (기운을 내다)**:
+    - 기운을 내, 세상이 끝난 것도 아니잖아 / *Lighten up, it's not the end of the world* [407, 607]
+  - **Light up (빛나다)**:
+    - 불꽃놀이가 밤하늘을 환하게 밝혔어요 / *The fireworks lit up the night sky* [386, 613]
+  - **Line up (줄을 서다)**:
+    - 표를 사려면 줄을 서야 해요 / *You need to line up to buy tickets* [691, 189]
+  - **Lock in (가두다)**:
+    - 고양이가 밤새 차고 안에 갇혀 있었어요 / *The cat was locked in the garage all night* [386, 613]
+  - **Look after (돌보다)**:
+    - 제가 없는 동안에 고양이를 돌봐 주실 수 있나요 / *Can you look after my cat while I'm away?* [683, 152]
+  - **Look back (회고하다)**:
+    - 돌아보면 후회되는 일들이 많아요 / *When I look back, there are many things I regret?* [685, 116] (※ 물음표 기호 보존)
+  - **Look down on (업신여기다)**:
+    - 다른 사람들을 업신여기지 마세요 / *Don't look down on others?* [681, 180] (※ 물음표 기호 보존)
+  - **Look forward to (기대하다)**:
+    - 콘서트가 정말 기대되네요 / *I'm really looking forward to the concert* [691, 191]
+  - **Look into (조사하다)**:
+    - 경찰이 사건을 조사 중이에요 / *The police are looking into the incident* [686, 118]
+  - **Look up (찾아 보다, 보다)**:
+    - 그 단어를 모르면 검색해 봐 / *If you don't know the word, look it up* [687, 130]
+    - 별을 봐 / *Look up at the stars* [687, 130]
+  - **Look up to (존경하다)**:
+    - 저는 항상 아빠를 존경해 왔어요 / *I've always looked up to my dad* [681, 180]
+  - **Luck out (행운을 얻다)**:
+    - 운 좋게 마지막 티켓을 구했어요 / *I lucked out and got the last ticket* [386, 613]
+- **주요 인용**: > "Everyone please settle down. (모두들 진정하세요 / 조용히 해주세요) [654, 67]"
+
+### ### 4. 구동사 동작 표현군: M ~ P (Phrasal Verbs M ~ P)
+- **핵심 논지**: 상태의 판정(Make), 기회 포착(Pass), 그리고 계량적 지불과 이탈(Pay, Pick, Put) 등에 대응되는 구동사 정위쌍을 모은다. [692, 693, 695]
+- **근거 및 데이터**:
+  - **Make of (~에 대해 생각하다)**:
+    - 그의 결정에 대해 어떻게 생각하세요 / *What do you make of his decision?* [386, 613]
+  - **Make out (키스하다, 알아듣다)**:
+    - 파티에서 그들이 키스하는 것을 봤어요 / *I saw them making out at the party* [691, 181]
+    - 무슨 말인지 못 알아듣겠어요 / *I can't make out what you're saying* [691, 182]
+  - **Make up (화해하다)**:
+    - 그들은 어제 싸웠지만 오늘 화해했어요 / *They fought yesterday, but they made up today* [691, 181]
+  - **Meet up (만나다)**:
+    - 언제 한번 봐요 / *Let's meet up sometime* [609, 874]
+  - **Mess up (망치다)**:
+    - 시험을 망쳤어요 / *I'messed up on the test* [683, 151] (※ 'I'messed' 자형 일탈 보존)
+  - **Mix up (혼동하다)**:
+    - 날짜를 혼동해서 약속을 놓쳤어요 / *I mixed up the dates and missed the appointment* [691, 190]
+  - **Move back (뒤로 이동하다, 뒤로 미루다)**:
+    - 여러분 뒤로 좀 이동해 주시겠어요 / *Can everyone please move back?* [609, 874]
+    - 회의가 오후 3시로 미뤄졌어요 / *The meeting has been moved back to 3 p.m.* [609, 874]
+  - **Move in (이사 오다)**:
+    - 그들은 내일 옆집으로 이사 올 거예요 / *They're moving in next door tomorrow* [406, 666]
+  - **Move out (이사 가다)**:
+    - 그들은 다음 달에 이곳을 떠날 거예요 / *They're moving out of this place next month* [406, 667]
+  - **Move up (승진하다)**:
+    - 그는 관리자 직급으로 승진했어요 / *He moved up to a managerial position* [610, 874]
+  - **Pass away (돌아가시다)**:
+    - 할아버지는 오랜 투병 끝에 돌아가셨습니다 / *My grandfather passed away after a long illness* [690, 182]
+  - **Pass on (전달하다, 사망하다, 사양하다, 퍼지다)**:
+    - 제 메시지를 전달해 주세요 / *Please pass on my message* [691, 1044]
+    - 할머니가 돌아가셨다니 유감입니다 / *I'm sorry to hear that your grandmother passed on* [691, 196]
+    - 디저트는 사양할게요, 배가 불러요 / *I'll pass on the dessert, I'm full* [691, 197]
+    - 소문이 회사 전체에 빠르게 퍼졌어요 / *The rumor quickly passed on throughout the company* [691, 198]
+  - **Pass up (놓치다)**:
+    - 그는 그 일자리 제안을 놓치지 않기로 결정했어요 / *He decided not to pass up the job offer* [693, 230]
+  - **Pay for (비용을 지불하다)**:
+    - 그녀가 저녁을 계산했어요 / *She paid for dinner* [693, 231]
+  - **Pay off (성공하다, 빚을 완전히 갚다)**:
+    - 그의 노력은 결실을 맺고 있어요 / *His effort is paying off* [686, 125]
+    - 드디어 학자금 대출을 다 갚았어요 / *I finally paid off my student loans* [686, 126]
+  - **Pay up (돈을 다 지불하다)**:
+    - 내기에 진 사람이 저녁을 사는 거야 / *The one who lost the bet has to pay up for dinner* [386, 613]
+  - **Pick out (선택하다)**:
+    - 제 여동생 선물 좀 골라 줄래요 / *Can you pick out a birthday gift for my sister?* [693, 232]
+  - **Pick up (줍다, 데리러 가다, 사다)**:
+    - 쓰레기를 주워 주세요 / *Please pick up the garbage* [695, 151]
+    - 5시에 데리러 갈게 / *I'll pick you up at 5 pm* [695, 151]
+    - 오는 길에 우유 좀 사올래요 / *(원형 소스 내 'pick up' 예문: Could you pick some more up...)* [751, 802]
+  - **Pile up (쌓이다)**:
+    - 휴가를 낸 이후로 일이 계속 쌓이고 있어요 / *Work has been piling up since I took a vacation* [386, 613]
+  - **Plug in (연결하다)**:
+    - 충전기 좀 꽂아 줄래 / *Can you plug in the charger for me?* [687, 131]
+  - **Point out (지적하다)**:
+    - 그녀는 제 실수를 지적했어요 / *She pointed out my mistake* [693, 233]
+  - **Pop up (갑자기 나타나다, 갑자기 떠오르다, 갑자기 튀어나오다)**:
+    - 저희 동네에 새로운 카페가 생겼어요 / *A new cafe popped up in our neighborhood* [688, 139]
+    - 좋은 아이디어가 떠올랐어요 / *A good idea popped up in my mind* [688, 140]
+    - 제 컴퓨터에 오류 메시지가 떴어요 / *An error message popped up on my computer* [688, 142]
+  - **Print out (인쇄하다)**:
+    - 각 팀 멤버마다 복사본을 인쇄해 주세요 / *Please print out a copy for each team member* [407, 607]
+  - **Pull off (해내다)**:
+    - 난 네가 해낼 줄 알았어 / *I knew you would pull it off* [689, 151]
+  - **Pull over (차를 도로 가장자리에 세우다)**:
+    - 경찰이 저에게 차를 도로 가장자리에 세우라고 했어요 / *The police officer asked me to pull over* [691, 181]
+  - **Put away (정리하다)**:
+    - 장난감을 정리해 주세요 / *Put away your toys* [682, 180]
+  - **Put back (제자리에 갖다 놓다)**:
+    - 책을 다 읽은 후에 제 자리에 놓아 주세요 / *Please put the books back on the shelf when you're done* [682, 180]
+  - **Put down (내려놓다, 적다, 비난하다/자책하다)**:
+    - 모두 휴대폰을 내려 놓으세요 / *Everyone, please put down your phones* [693, 235]
+    - 그녀는 매일 자신의 생각을 다이어리에 적어요 / *She puts down her thoughts every day in her diary* [695, 281]
+    - 너 자신을 자책하지 마, 넌 최선을 다하고 있잖아 / *Don't put yourself down, you're doing your best?* [695, 282]
+  - **Put in (설치하다)**:
+    - 우린 겨울 전에 새로운 난방 시스템을 설치하기로 했어요 / *We put in a new heating system before winter* [695, 407]
+  - **Put together (조립하다)**:
+    - 그들은 휴대폰을 조립했어요 / *They put together the phone* [406, 666]
+  - **Put up with (참다)**:
+    - 저는 그의 행동에 참을 수가 없었어요 / *I couldn't put up with his behavior* [406, 666]
+- **주요 인용**: > "Don't put yourself down, you're doing your best? (너 자신을 자책하지 마, 넌 최선을 다하고 있잖아) [695, 282]"
+
+### ### 5. 구동사 동작 표현군: R ~ S (Phrasal Verbs R ~ S)
+- **핵심 논지**: 자산이나 대화의 회수(Rip, Roll), 우연적 마주침(Run), 정해진 계획의 개시(Set, Settle), 그리고 속도의 조작(Slow)에 대응하는 구동사 발화쌍을 입증 보존한다. [696, 697, 698]
+- **근거 및 데이터**:
+  - **Ring out (물기를 짜다)**:
+    - 수건을 짜 주세요 / *Please ring out the towel before hanging it up* [407, 607]
+  - **Rip off (사기치다)**:
+    - 나 사기 당한 것 같아 / *I think I was ripped off* [386, 613]
+  - **Rip up (찢다)**:
+    - 그는 너무 화가 나서 편지를 찢었어요 / *He was so angry that he ripped up the letter* [386, 613]
+  - **Roll back (되돌리다)**:
+    - 소프트웨어를 이전 버전으로 되돌릴 수 있을까요 / *Can you roll back the software to the previous version?* [698, 408]
+  - **Rule out (배제하다)**:
+    - 그럴 가능성을 완전히 배제할 수 없어요 / *It can't be ruled out entirely* [610, 875]
+  - **Run across (우연히 만나다)**:
+    - 쇼핑하다가 오랜 친구를 우연히 만났어요 / *I ran across an old friend while shopping* [386, 613]
+  - **Run around (바쁘게 돌아다니다)**:
+    - 일을 끝내려고 하루 종일 바쁘게 뛰어다녔어요 / *I've been running around all day trying to get things done* [902, 902]
+  - **Run down (다 되다, 기운이 없다)**:
+    - 핸드폰 배터리가 다 됐어요 / *My phone's battery ran down* [609, 874]
+    - 요즘 기운이 없어요 / *I've been feeling run down lately* [609, 874]
+  - **Run into (우연히 만나다)**:
+    - 길에서 옛 친구를 우연히 만났어요 / *I ran into an old friend on the street* [689, 144]
+  - **Run off (급히 달아나다)**:
+    - 경찰이 오는 것을 보고 그는 급히 달아났어요 / *When he saw the police coming, he ran off* [609, 874]
+  - **Run over (차로 치다, 대강 훑어보다)**:
+    - 그는 가로등을 들이받았어요 / *He ran over a streetlight* [407, 607]
+    - 오늘 일정을 빠르게 볼 수 있을까요 / *Can we run over today's schedule?* [407, 607]
+  - **Run up (급증하다)**:
+    - 이번 달에 지출이 많이 늘었어요 / *Our expenses ran up a lot this month* [902, 902]
+  - **Screw on (나사로 고정하다)**:
+    - 손잡이가 빠지지 않도록 나사를 단단히 조여야 해요 / *You must screw on the handle tightly so it doesn't come off* [902, 902]
+  - **Send back (되돌려 보내다)**:
+    - 티셔츠가 맞지 않아서 돌려보냈어요 / *The t-shirt didn't fit, so I sent it back* [692, 223]
+  - **Send in (제출하다)**:
+    - 내일까지 보고서를 제출해야 해요 / *I need to send in our report by tomorrow* [685, 112]
+  - **Set about (시작하다)**:
+    - 그들은 거실에 벽을 칠하기 시작했어요 / *They set about painting the walls in the living room* [693, 240]
+  - **Set aside (따로 빼두다, 취소하다, 저장하다)**:
+    - 우린 비상시를 대비해 돈을 좀 빼두었어요 / *We set aside some money for rainy days* [609, 437]
+    - 법원은 이전에 판결을 무효화했어요 / *The court set aside the previous verdict* [609, 438]
+    - 남은 음식은 냉장고에 보관해도 / *Set aside the leftovers in the fridge* [609, 439] (※ 한글 원형 '보관해도' 미완결구 보존)
+  - **Set in (시작되다)**:
+    - 올해 겨울이 일찍 찾아온 것 같아요 / *Winter seems to be setting in early this year* [609, 436]
+  - **Set off (출발하다)**:
+    - 우린 아침 일찍 공항으로 출발했어요 / *We set off for the airport early in the morning* [697, 343]
+  - **Set up (설정하다)**:
+    - 비밀 번호를 설정했어요 / *I have set up a password* [459, 180]
+  - **Settle down (진정하다)**:
+    - 모두들 진정하세요 / *Everyone, please settle down* [691, 181]
+  - **Settle in (적응하다)**:
+    - 새 직장에 적응하는 데 시간이 걸렸어요 / *It took time for me to settle in at my new job* [698, 408]
+  - **Shake off (흔들어 떨어뜨리다, 떨쳐 버리다, 따돌리다)**:
+    - 감기는 나아졌는데 기침이 떨어지질 않네요 / *My cold’s better but I can’t seem to shake off the cough* [610, 440]
+    - 그는 불안감을 떨쳐 버릴 수 없었어요 / *He couldn't shake off his anxiety* [610, 874]
+    - 그는 미래에 대한 걱정을 떨쳐 버릴 수 없었어요 / *He couldn't shake off his worries about the future* [610, 874]
+    - 그녀는 자신을 따라오던 기자들을 따돌렸어요 / *She managed to shake off the reporters who were following her* [610, 874]
+  - **Shake up (흔들어 섞다)**:
+    - 마시기 전에 흔들어 섞으세요 / *Shake it up before you drink* [698, 408]
+  - **Shop around (여기저기 둘러보다)**:
+    - 차를 사기 전에 여기저기 둘러 보세요 / *Shop around before buying a car* [691, 161]
+  - **Show off (자랑하다)**:
+    - 그녀는 새 드레스를 자랑했어요 / *She showed off her new dress* [691, 61]
+  - **Show up (참석하다)**:
+    - 그는 회의에 참석하지 않았어요 / *He didn't show up to the meeting* [691, 62]
+  - **Shut down (폐쇄하다)**:
+    - 그들은 공장을 폐쇄하기로 결정했어요 / *They decided to shut down the factory* [694, 243]
+  - **Shut off (끄다)**:
+    - 나가기 전에 불을 꺼 주세요 / *Please shut off the lights before leaving* [902, 902]
+  - **Sign in (로그인하다)**:
+    - 사이트에 접속하려면 로그인을 해야 해요 / *You need to sign in to access the site* [694, 269]
+  - **Sign up (회원 가입하다)**:
+    - 회원 가입하시고 회원 전용 할인 혜택을 받아보세요 / *Sign up and start benefiting from members only discounts* [694, 270]
+  - **Slack off (게으름을 피우다)**:
+    - 네가 노력하지 않으면 뒤쳐질 거야 / *If you slack off, you'll fall behind* [691, 181]
+  - **Sleep in (늦게까지 자다)**:
+    - 내일 일이 없어서 늦게까지 잘 거야 / *I don't have work tomorrow, so I'm going to sleep in* [611, 425]
+  - **Sleep over (외박하다)**:
+    - 엄마, 친구 집에서 자고 가도 돼요 / *Can I sleep over at my friend's house, Mom?* [692, 224]
+  - **Slow down (늦추다/줄이다)**:
+    - 조금 천천히 가 줄래요, 따라가기 힘들어요 / *Can you slow down a bit? I can't keep up* [693, 238]
+    - 속도를 줄여 주세요, 길이 미끄러워요 / *Please slow down, the road is slippery* [693, 239]
+  - **Sort out (정리하다)**:
+    - 내일까지 서류를 정리할게요 / *I'll sort out the paperwork by tomorrow* [692, 225]
+  - **Speak up (큰 소리로 말하다)**:
+    - 좀 더 크게 말씀해 주시겠어요 / *Could you please speak up? I can't hear you?* [680, 13] (※ 물음표 기호 보존)
+  - **Speed up (속도를 높이다)**:
+    - 영상 재생 속도를 높일 수 있나요 / *Can you speed up the video playback?* [693, 262]
+  - **Split up (헤어지다)**:
+    - 그녀는 남자 친구와 헤어졌어요 / *She split up with her boyfriend* [698, 409]
+  - **Stand around (서서 기다리다)**:
+    - 서서 한 시간 동안 버스를 기다렸어요 / *We stood around for an hour waiting on the bus* [902, 902]
+  - **Stand by (기다리다)**:
+    - 잠시만 기다려 주세요, 이벤트가 곧 시작됩니다 / *Please stand by, the event will begin soon* [691, 66]
+  - **Stand for (의미하다, 용인하다)**:
+    - UN은 국제 연합의 약자입니다 / *UN stands for United Nations* [695, 288]
+  - **Stand up (바람 맞다)**:
+    - 저 바람 맞았어요 / *I got stood up* [609, 874]
+  - **Stay behind (남다/머무르다)**:
+    - 모두가 떠났지만 저는 남아 있기로 했어요 / *Everyone left, but I chose to stay behind* [610, 407]
+    - 안전선 뒤로 물러서 계시기 바랍니다 / *Please stay behind the safety line* [610, 408]
+  - **Stay off (멀리하다)**:
+    - 잔디를 밟지 마세요 / *Stay off the grass* [609, 874]
+  - **Stay up (늦게까지 깨어 있다)**:
+    - 우린 영화를 보느라 늦게까지 깨어 있었어요 / *We stayed up late because we were watching a movie* [902, 902]
+  - **Step back (뒤로 물러서다)**:
+    - 조금만 뒤로 가 주실래요 / *Could you step back a bit?* [609, 874]
+  - **Step in (개입하다)**:
+    - 정부가 상황을 통제하기 위해 개입해야 했어요 / *The government had to step in to control the situation* [687, 128]
+  - **Stick around (머무르다)**:
+    - 가지 말고 있어 줘, 내 도움이 필요할 것 같아 / *Stick around, I'll need your help* [610, 404]
+  - **Stick to (고수하다)**:
+    - 계획대로만 한다면 다 잘될 거야 / *If you stick to the plan, everything will work out* [692, 226]
+  - **Stir up (문제를 일으키다, 휘젓다)**:
+    - 문제 좀 일으키지 마 / *Don't stir up trouble?* [611, 411] (※ 물음표 기호 보존)
+    - 수프를 먹기 전에 저어 주세요 / *Please stir the soup before eating* [611, 412]
+- **주요 인용**: > "The detective hunted down the criminal. (형사는 범인을 추적해 잡았어요) [696, 407]"
+
+### ### 6. 구동사 동작 표현군: T ~ W (Phrasal Verbs T ~ W)
+- **핵심 논지**: 가해와 탈의(Take), 조율과 협의(Talk), 물리적 훼손(Tear, Throw, Wipe), 그리고 시간의 조작(Wait, Wake, Wrap, Write)에 이르는 구동사 대치 정위쌍을 포착한다. [683, 690, 693]
+- **근거 및 데이터**:
+  - **Take after (닮다)**:
+    - 그녀는 외모와 성격이 엄마를 닮았어요 / *She takes after her mother in looks and personality* [690, 159]
+  - **Take apart (분해하다)**:
+    - 그는 컴퓨터를 고치기 위해 분해했어요 / *He took apart the computer to fix it* [693, 227]
+  - **Take back (취소하다, 반품하다)**:
+    - 어제 한 말 취소할게요 / *I take back what I said yesterday* [459, 5]
+    - 티셔츠가 맞지 않아서 반품해야 해요 / *I need to take back the t-shirt because it doesn't fit* [459, 6]
+  - **Take care of (책임을 지다/처리하다)**:
+    - 걱정하지 마세요, 제가 책임지고 처리할게요 / *Don't worry, i'll take care of it?* [683, 152] (※ 물음표 기호 보존)
+  - **Take care (안부 인사)**:
+    - 다음에 봐 / *Take care, see you next time* [867, 1042] (※ 원래 소스에 한국어 의미명이 '의미 제시 안 됨'으로 누락된 상태 보존)
+  - **Take in (받아들이다, 줄이다, 이해하다)**:
+    - 그녀는 이별을 받아들이지 못했어요 / *She couldn't take the breakup* [382, 608] (※ 소스에 제시된 영어/한국어 매칭 보존)
+    - 길이 좀 줄여 주시겠어요 / *Could you take in the length?* [382, 608]
+    - 가끔은 그녀의 행동을 이해 못 하겠어요 / *I can't take in her behavior sometimes* [382, 608]
+  - **Take off (벗다, 이륙하다, 연가 내다)**:
+    - 실내에서는 신발을 벗어 주세요 / *Please take off your shoes indoors* [683, 77]
+    - 비행기가 방금 이륙했습니다 / *The airplane just took off* [683, 78]
+    - 수잔은 연가를 냈어요 / *(원형 소스 내 'take off' 예문: Susan isn't here today. She's taking today and tomorrow off)* [759, 810]
+  - **Take on (맡다, 도전하다)**:
+    - 그는 새 프로젝트를 맡기로 했어요 / *He took on a new project* [382, 608]
+    - 그녀는 도전을 두려워하지 않았어요 / *She was not afraid to take on challenges* [382, 608]
+  - **Take up (시작하다, 차지하다)**:
+    - 그녀는 건강을 위해 운동을 시작하기로 했어요 / *She decided to take up exercise for her health* [691, 199]
+    - 소파가 공간을 너무 차지해요 / *The sofa takes up too much space* [691, 200]
+  - **Talk about (이야기하다)**:
+    - 그거 얘기하면 안 되는 거야 / *Can't I talk about it?* [699, 393]
+  - **Talk into (설득하다, 타이르다)**:
+    - 그녀는 파티에 같이 가자고 설득했어요 / *She talked me into going to the party together* [610, 405]
+    - 제가 알아듣게 그를 타이를게요 / *I'll see if I can talk some sense into him* [610, 406]
+  - **Tear up (찢다)**:
+    - 그는 편지를 읽은 후에 찢어버렸어요 / *He tore up the letter after reading it* [693, 228]
+  - **Tell apart (구별하다)**:
+    - 둘은 쌍둥이라 구분하기 힘들어요 / *It's hard to tell the two apart because they're twins* [609, 874]
+  - **Think back (회상하다)**:
+    - 돌이켜 보면 제가 잘못한 것 같아요 / *If I think back now, I realize I'made a mistake* [693, 229] (※ 'I'made' 공백 일탈 보존)
+  - **Throw away (버리다)**:
+    - 유통기한 지난 음식은 버리세요 / *Please throw away the expired food* [691, 69]
+  - **Throw up (구토하다)**:
+    - 상한 음식을 먹은 후에 그녀는 토했어요 / *After eating the spoiled food, she threw up* [607, 872]
+  - **Tidy up (정리하다)**:
+    - 방 좀 치워 주세요 / *Please tidy up the room* [611, 415]
+  - **Tie up (묶다, 바쁘다)**:
+    - 그녀는 리본으로 머리를 묶었어요 / *She tied up her hair with a ribbon* [407, 607]
+    - 조금 늦을 거야, 지금 회의 중이라 바빠 / *I'm a little late, I'm tied up in a meeting right now* [407, 607]
+  - **Try out (시도하다/해 보다)**:
+    - 갑자기 해 보고 싶은 것이 생겼어요 / *I suddenly want to try out something* [610, 875]
+  - **Turn around (방향을 바꾸다, 뒤돌아 보다)**:
+    - 방향을 바꿔요, 길을 잘못 들었어요 / *Turn around, we're going the wrong way* [181, 151]
+    - 잠깐 돌아봐요 / *Turn around for a second* [181, 151]
+  - **Turn down (거절하다, 줄이다)**:
+    - 그는 프로포즈를 했지만 거절당했어요 / *He proposed, but he was turned down* [684, 108]
+    - 음악 소리 좀 줄여 줄래요 / *Could you turn down the music?* [684, 109]
+  - **Turn in (제출하다)**:
+    - 오늘까지 지원서를 제출해 주세요 / *Please turn in your application by today* [685, 111]
+  - **Turn off (끄다)**:
+    - 나갈 때 불을 끄는 거 잊지 마세요 / *Don't forget to turn off the lights when you leave* [406, 242]
+  - **Turn on (켜다)**:
+    - 불 좀 켜 줄래 / *Can you turn on the lights?* [407, 607]
+  - **Turn over (뒤집다)**:
+    - 고기 좀 뒤집어 줄래요 / *Can you turn over the meat?* [691, 188]
+  - **Turn up (나타나다, 높이다)**:
+    - 잃어버린 열쇠가 침대 밑에서 발견되었어요 / *The lost keys turned up under the bed* [691, 63]
+    - 음악 소리 좀 더 높여, 이거 내가 제일 좋아하는 노래야 / *Turn it up, this is my favorite song* [691, 64] (※ 'Turn it up' 소문자 전사 보존)
+  - **Use up (모두 사용하다)**:
+    - 이번 달 데이터를 다 써 버렸어요 / *I used up all my data for this month* [690, 157]
+  - **Wake up (깨다)**:
+    - 일어나, 늦었어 / *Wake up, you're late* [689, 148]
+  - **Wait out (끝나길 기다리다)**:
+    - 우린 비가 그치기를 기다렸지만, 비가 계속 왔어요 / *We waited out the rain, but it kept raining* [695, 289]
+  - **Wait on (기다리다)**:
+    - 그는 취업 비자 승인을 기다리고 있어요 / *He's waiting on the work visa approval* [407, 607]
+  - **Walk away (떠나다)**:
+    - 그는 아무 말 없이 떠났어요 / *He walked away saying nothing* [696, 326]
+  - **Ward off (물리치다)**:
+    - 핼러윈의 유래는 악령을 쫓아내는 것이다 / *The origin of Halloween is to ward off evil spirits* [611, 413]
+  - **Wash up (설거지하다, 씻다, 떠밀려 오다)**:
+    - 저녁 식사 후에 제가 설거지 할게요 / *I'll wash up the dishes after dinner* [611, 416]
+    - 식사 전에 손을 씻으세요 / *Please wash up before you eat* [611, 417]
+    - 병과 잔해가 해변에 떠밀려 왔어요 / *Bottles and debris washed up on the shore* [611, 418]
+  - **Watch out (조심하다)**:
+    - 조심해, 길이 미끄러워 / *Watch out, the road is slippery* [681, 180]
+  - **Wear off (사라지다/약해지다)**:
+    - 아직도 그때의 충격이 가시지 않아요 / *The shock from that time hasn't worn off yet* [610, 875]
+  - **Wear out (닳아 없어지다, 지쳐버리다)**:
+    - 이 신발을 다 닳아졌어요 / *(원형 소스 내 'wear out' 예문: I've almost worn this pair out)* [763, 814]
+    - 오늘 회의가 4개 있었는데 몹시 지쳤어요 / *(원형 소스 내 'wear out' 예문: They wore me out)* [763, 814]
+  - **Weigh down (부담되게 하다)**:
+    - 다른 사람들의 기대는 종종 사람을 짓누를 수 있어요 / *The expectations of others can often weigh a person down* [611, 414]
+  - **Work out (잘 되다, 운동하다)**:
+    - 다 잘될 거예요 / *Everything will work out* [459, 10]
+    - 저는 매일 헬스장에서 운동을 해요 / *I work out at the gym every day* [685, 115]
+  - **Wrap up (마무리하다)**:
+    - 회의를 마무리합시다 / *Let's wrap up the meeting* [685, 117]
+  - **Write down (적다)**:
+    - 비밀 번호를 적어 두세요, 그럼 잊어버리지 않을 거예요 / *Write down your password so you don't forget it* [693, 234]
+- **주요 인용**: > \"You need to let go of the past and move on. (과거는 잊고 앞만 봐) [667, 268]\"
+
+## 💡 주요 용어 (Key Terminology)
+
+- **Stop by / Swing by / Drop by / Come by (들르다의 세분화)**: 무조건 들르는 것이 아니라 특별히 약속이나 시간적 여유를 마련해 들르는 것(Stop by), 지나가는 가벼운 여정에 틈을 내 들르는 것(Swing by), 예고도 없이 갑자기 방문하는 것(Drop by), 혹은 사교적 목적이나 대화를 위해 타방의 거처에 가는 것(Come by) 등의 정교한 구어 분기. [14, 239, 240, 241]
+- **Make out (다의적 실전형)**: 실전 구어에서 열렬히 프렌치 키스를 하는 상황(Passage 181, 691)뿐만 아니라, 육안 상으로 필체를 식별해 이해하는 국면(Passage 511), 그리고 타인의 발언 내용을 온전히 알아듣고 인지하는 상태(Passage 511)를 완벽히 가리키는 다목적 동사. [181, 511]
+- **Follow up / Follow-up (동사구와 명사)**: 어떤 계획의 일정 진척 여부를 위해 상대방을 정기적으로 접촉하여 정보를 획득하거나(Passage 435, 436), 조치한 뒤의 상태를 추적하는 후속 조치 동사구(Follow up)와 이에 상응하는 후속 관찰용 명사형(Follow-up). [435, 436]
+- **Let up (기세 완화)**: 기상 상의 비나 강풍이 소강상태로 잦아드는 국면(Passage 407), 지독한 독감이 완화되지 않고 기세를 드높이는 악성 상황(Passage 407), 그리고 한여름의 땡볕이 가을철에 돌입하며 서서히 꺾이는 성상에 전방위 배속되는 핵심 구동사. [407, 607]
+- **Settle in / Settle down (정착과 진정)**: 불확실한 직장 환경이나 새로운 주거 영역에 무사히 연착륙하여 적응해 가는 이행 국면(Settle in)과 성질이 급변한 대상들을 조용히 달래고 평안을 복구시키는 진정 국면(Settle down)의 분할 기재. [180, 407]
+
+## 🔗 연결 키워드 (Canonical Concepts)
+- **연결 키워드**: 구동사사전, 일상영어회화, 영문예문, 한영번역, 필수어휘
+---
+
+---
+
+*source: NotebookLM / Step-by-Step English Speaking Training Patterns*

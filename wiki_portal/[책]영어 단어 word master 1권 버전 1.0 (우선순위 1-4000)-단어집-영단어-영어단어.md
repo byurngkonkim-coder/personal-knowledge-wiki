@@ -1,0 +1,1390 @@
+---
+title: "📘 [책]영어 단어 word master 1권 버전 1.0 (우선순위 1-4000)-단어집-영단어-영어단어 실전 마스터 가이드북"
+category: "글로벌 어학 & 영어"
+type: "english_learning"
+project: "영어교재"
+notebook: "[책]영어 단어 word master 1권 버전 1.0 (우선순위 1-4000)-단어집-영단어-영어단어.md"
+summary: "title: '📘 [책]영어 단어 word master 1권 버전 1.0 (우선순위 1-4000)-단어집-영단어-영어단어 실전 마스터 가이드북'"
+decision_status: "accepted"
+source: "[책]영어 단어 word master 1권 버전 1.0 (우선순위 1-4000)-단어집-영단어-영어단어.md"
+source_path: "영어교재/[책]영어 단어 word master 1권 버전 1.0 (우선순위 1-4000)-단어집-영단어-영어단어.md"
+created: 2026-10-02
+converted: 2026-10-02
+status: canonical
+tags:
+  - 영어학습
+  - 영어회화
+aliases: []
+---
+
+> ---
+> title: "📘 [책]영어 단어 word master 1권 버전 1.0 (우선순위 1-4000)-단어집-영단어-영어단어 실전 마스터 가이드북"
+> aliases: ["Word Master 1권 실전 가이드", "워드마스터 1-4000 우선순위 영단어"]
+> tags: [english, speaking, pattern, source, mcp-extracted]
+> type: document
+> ---
+>
+> # 🗣️ 📘 [책]영어 단어 word master 1권 버전 1.0 (우선순위 1-4000)-단어집-영단어-영어단어 실전 마스터 가이드북
+>
+> ## 📋 요약 (Summary)
+> - **주요 학습 테마**: 수능 및 공인영어 필수 품사 체계(전치사·접속사·대명사·조동사), 다의어 분해, 핵심 품사 전환 동사·명사·형용사망 총정리
+> - **핵심 수록 표현 수**: 원문 분석 수록 핵심 표제어 및 구문 패턴 300+개 (상세 분해 18개 대표 패턴 & 원문 전수 어휘망 팩트 렛저화)
+> - **학습 포인트**:
+>   - 1:1 한국어 기계적 번역 탈피: 원어민의 공간적 이미지(전치사)와 인과·기능적 프레임워크 이해
+>   - 동사-명사-형용사 품사 전이 시 발생하는 강세 이동 및 발음 변화 규칙 체계화
+>   - 다의어(Polysemy)와 혼동 유의어(Synonyms/Confusables) 간의 미세 어감 경계 확립
+>
+> ## 🗺️ 원문 구조 (Document Map)
+> 1. Part 1: 기본 품사 체계 (전치사, 접속사, 대명사, 한정사, 조동사, 부사 등) & 핵심 기초 구문
+> 2. Part 2: Unit 17-33 다의어 및 기초 빈출 어휘 (run, book, interest, power, stand, present 등)
+> 3. Part 3: Unit 37-53 실전 및 비즈니스 필수 어휘 (obtain, maintain, determine, regard, launch 등)
+> 4. Part 4: Unit 57-73 고난도 동사 및 논리 전개 어휘 (insist, assess, rely, investigate, impose 등)
+> 5. Part 5: Unit 77-93 중상급 어휘 및 사회·경제 개념어 (acknowledge, expand, convert, breach 등)
+> 6. Part 6: Unit 97-113 심화 독해 및 실전 어휘 (discharge, sensible, adapt, compromise, yield 등)
+> 7. Part 7: Unit 117-133 문맥 추론 및 정밀 어휘 (elaborate, obscure, concede, persist, trigger 등)
+> 8. Part 8: Unit 137-140 품사 확장 및 파생어 결합 원리 (technological, stain, deliberate, integrity 등)
+>
+> ---
+>
+> ## 📚 상세 분해 (Detailed Breakdown) — 무손실 핵심 표현 & 패턴 마스터
+>
+> ### 1. `good at [something/V-ing]` : ~에 능숙하다, ~을 잘하다
+> - **💡 뉘앙스 & 상황 맥락**: 단순히 재능이 있다는 것뿐만 아니라 특정 기술, 학문, 활동에 '초점(`at`)'을 맞추어 숙련도가 높음을 나타냅니다. 반면 `good in`은 환경이나 과목 영역 내부에서의 성적을 나타낼 때 간혹 쓰이지만, 실질적 행위 역량에는 항상 `at`을 씁니다.
+> - **🔊 발음 & 연음 팁 (Pronunciation Tip)**: `good at`의 d가 뒤 모음 a와 연음되어 [ɡʊ-dæt]으로 부드럽게 이어집니다.
+> - **📝 실전 예문 (Real Examples)**:
+>   - 🇺🇸 `She is good at playing the piano.`
+>     - 🇰🇷 그녀는 피아노를 잘 쳐요.
+> - **💬 대화 스크립트 (Dialogue Context)**:
+>   > **A**: I heard Jane won first prize at the music competition yesterday.
+>   > ↳ *제인이 어제 음악 콩쿠르에서 1등 상을 탔다고 들었어.*
+>   > **B**: That’s no surprise! She is exceptionally good at playing the piano.
+>   > ↳ *놀랄 일도 아니지! 걔 피아노 연주 실력이 정말 뛰어나잖아.*
+> - **🔄 패턴 응용 & 교체 연습 (Substitution Drill)**:
+>   - `be good at` + `solving complex math problems` = 복잡한 수학 문제를 푸는 데 능숙하다
+>   - `be good at` + `handling difficult clients` = 까다로운 고객을 능숙하게 상대하다
+> - **⚠️ 주의사항 & 콩글리시 방지 (Pitfalls & Common Mistakes)**: '~에 좋다(건강에 이롭다)'는 `good for`(예: Apples are good for you)이며, 능력 발휘는 반드시 `good at`을 씁니다.
+>
+> ---
+>
+> ### 2. `run [a business / a store]` : (사업·조직을) 운영하다, 경영하다
+> - **💡 뉘앙스 & 상황 맥락**: 물리적으로 '달리다'라는 뜻에서 기계나 시스템이 '멈추지 않고 계속 돌아가다/작동시키다'로 확장된 표현입니다. 비즈니스 맥락에서는 `operate`나 `manage`보다 일상적이고 자연스럽게 자신의 가게나 회사를 직접 이끌어갈 때 자주 사용합니다.
+> - **🔊 발음 & 연음 팁 (Pronunciation Tip)**: `run a`는 연음되어 [rʌ-nə]로 발음됩니다.
+> - **📝 실전 예문 (Real Examples)**:
+>   - 🇺🇸 `He has been running a local bakery for more than a decade.`
+>     - 🇰🇷 그는 10년 넘게 동네 빵집을 운영해 오고 있다.
+> - **💬 대화 스크립트 (Dialogue Context)**:
+>   > **A**: What does your older brother do for a living these days?
+>   > ↳ *네 형은 요즘 무슨 일로 생계를 유지해?*
+>   > **B**: He decided to run his own IT consulting business downtown.
+>   > ↳ *시내에서 자기 IT 컨설팅 사업체를 직접 차려 운영하기로 했어.*
+> - **🔄 패턴 응용 & 교체 연습 (Substitution Drill)**:
+>   - `run` + `a marathon` = 마라톤을 완주하다 (물리적 달리기)
+>   - `run` + `a severe risk` = 심각한 위험을 무릅쓰다
+>   - `run` + `out of cash` = 현금이 바닥나다
+> - **⚠️ 주의사항 & 콩글리시 방지 (Pitfalls & Common Mistakes)**: 사업체를 '경영하다'를 번역할 때 무조건 딱딱한 `manage/operate`만 떠올리지 마십시오. 네이티브는 일상에서 `run`을 압도적으로 선호합니다.
+>
+> ---
+>
+> ### 3. `book [a flight / a hotel room]` : 예약하다 (= make a reservation)
+> - **💡 뉘앙스 & 상황 맥락**: 명사 '책/장부'에서 유래하여, 고객의 이름을 '예약 장부에 등재하다'는 행위에서 완전히 동사화된 단어입니다. 항공편, 호텔, 레스토랑, 티켓 예매 시 기본적으로 쓰입니다.
+> - **🔊 발음 & 연음 팁 (Pronunciation Tip)**: `book a` 연음 시 [bʊ-kə]로 소리 납니다. k가 파열되지 않고 바로 모음에 붙습니다.
+> - **📝 실전 예문 (Real Examples)**:
+>   - 🇺🇸 `You'd better book your flight ticket well in advance.`
+>     - 🇰🇷 비행기 표를 훨씬 미리 예약해 두는 게 좋을 거야.
+> - **💬 대화 스크립트 (Dialogue Context)**:
+>   > **A**: The concert is completely sold out already!
+>   > ↳ *콘서트 표가 벌써 전석 매진됐어!*
+>   > **B**: I told you we should have booked the seats last Friday.
+>   > ↳ *내가 지난주 금요일에 자리 예약해 뒀어야 한다고 말했잖아.*
+> - **🔄 패턴 응용 & 교체 연습 (Substitution Drill)**:
+>   - `book` + `a table for four` = 4인용 테이블을 예약하다
+>   - `be fully booked` = (호텔·비행기 등이) 예약이 꽉 차다
+> - **⚠️ 주의사항 & 콩글리시 방지 (Pitfalls & Common Mistakes)**: 예약하다를 무조건 `reserve`나 `make a reservation`으로 길게 쓸 필요 없습니다. 대화에서는 타동사 `book` 하나로 목적어를 바로 취하는 것이 훨씬 경제적입니다.
+>
+> ---
+>
+> ### 4. `result in` vs `result from` : ~라는 결과를 낳다 vs ~에서 기인하다
+> - **💡 뉘앙스 & 상황 맥락**:
+>   - `result in + 결과`: 주어가 원인이 되어 뒤의 결과를 초래함 (`cause`, `lead to`).
+>   - `result from + 원인`: 주어가 결과이며 뒤의 원인으로부터 비롯됨 (`be caused by`).
+> - **🔊 발음 & 연음 팁 (Pronunciation Tip)**: `result in`은 [rɪ-zʌl-tɪn], `result from`은 [rɪ-zʌlt-frəm]으로 t를 약화하거나 가볍게 넘깁니다.
+> - **📝 실전 예문 (Real Examples)**:
+>   - 🇺🇸 `Careless driving often results in serious traffic accidents.`
+>     - 🇰🇷 부주의한 운전은 종종 심각한 교통사고라는 결과를 낳는다.
+>   - 🇺🇸 `The delay resulted from unexpected heavy snowfall.`
+>     - 🇰🇷 그 지연은 예상치 못한 폭설에서 기인했다.
+> - **💬 대화 스크립트 (Dialogue Context)**:
+>   > **A**: Why did the whole system crash this morning?
+>   > ↳ *오늘 아침에 전체 시스템이 왜 다운된 거야?*
+>   > **B**: The failure resulted from a tiny glitch in the security update.
+>   > ↳ *보안 업데이트에 있던 아주 작은 오류에서 비롯된 것이었어.*
+> - **🔄 패턴 응용 & 교체 연습 (Substitution Drill)**:
+>   - `his efforts` + `resulted in a massive triumph` = 그의 노력이 거대한 승리로 이어졌다
+>   - `unemployment` + `results from economic stagnation` = 실업은 경기 침체로부터 야기된다
+> - **⚠️ 주의사항 & 콩글리시 방지 (Pitfalls & Common Mistakes)**: 한국인 학습자가 주어와 목적어의 원인/결과 관계를 정반대로 전치사 매칭하는 단골 함정입니다. 인과 화살표 방향을 반드시 정립하십시오.
+>
+> ---
+>
+> ### 5. `present` : 현재의 / 제시하다, 선물하다 / 선물, 현재
+> - **💡 뉘앙스 & 상황 맥락**:
+>   - 형용사 [ˈpreznt]: '참석한' (명사 뒤 수식), '현재의' (명사 앞 수식)
+>   - 명사 [ˈpreznt]: '선물', '현재' (`at present`)
+>   - 동사 [prɪˈzent]: 남 앞에 공손히 내어놓다, 발표하다, 증정하다
+> - **🔊 발음 & 연음 팁 (Pronunciation Tip)**: 명사·형용사는 1음절 강세 [ˈprez-ənt], 동사는 2음절 강세 [prɪ-ˈzent]로 강세 이동(Noun-Verb Stress Shift)이 발생합니다.
+> - **📝 실전 예문 (Real Examples)**:
+>   - 🇺🇸 `All members present voted in favor of the new proposal.`
+>     - 🇰🇷 참석한 모든 회원들이 새 제안에 찬성표를 던졌다.
+>   - 🇺🇸 `The director presented the annual financial report to the board.`
+>     - 🇰🇷 이사는 연례 재무 보고서를 이사회에 발표/제시했다.
+> - **💬 대화 스크립트 (Dialogue Context)**:
+>   > **A**: Are you ready to present your sales strategy to the executives?
+>   > ↳ *임원진 앞에서 너의 영업 전략을 발표할 준비는 다 됐어?*
+>   > **B**: Yes, I just need to review the present market conditions one more time.
+>   > ↳ *응, 현재의 시장 상황을 딱 한 번만 더 검토하면 돼.*
+> - **🔄 패턴 응용 & 교체 연습 (Substitution Drill)**:
+>   - `present A with B` = A에게 B를 증정하다/수여하다
+>   - `at the present moment` = 지금 현재 시점에서
+> - **⚠️ 주의사항 & 콩글리시 방지 (Pitfalls & Common Mistakes)**: 형용사 위치에 따라 뜻이 달라집니다. `the present members`(현재의 멤버들) vs `the members present`(참석해 있는 멤버들).
+>
+> ---
+>
+> ### 6. `obtain [information / permission / degree]` : (노력·절차를 통해) 얻다, 획득하다
+> - **💡 뉘앙스 & 상황 맥락**: 아무 대가 없이 우연히 집어 드는 `get`과 달리, 공식적인 절차, 시험, 신청, 인내심 있는 노력을 들여 승인이나 자격을 따내는 격식 있는 표현입니다.
+> - **🔊 발음 & 연음 팁 (Pronunciation Tip)**: b 사운드를 입술을 닫았다 떼며 [əb-ˈteɪn]으로 2음절에 강한 악센트를 둡니다.
+> - **📝 실전 예문 (Real Examples)**:
+>   - 🇺🇸 `We need to obtain more information before making a decision.`
+>     - 🇰🇷 결정을 내리기 전에 더 많은 정보를 얻어야 합니다.
+> - **💬 대화 스크립트 (Dialogue Context)**:
+>   > **A**: Did the city council grant you the construction permit?
+>   > ↳ *시의회에서 건축 허가증 내줬어?*
+>   > **B**: Not yet, but we are doing everything possible to obtain it by next Monday.
+>   > ↳ *아직은 아니지만, 다음 주 월요일까지는 획득하기 위해 온갖 노력을 다하고 있어.*
+> - **🔄 패턴 응용 & 교체 연습 (Substitution Drill)**:
+>   - `obtain` + `a valid visa` = 유효한 비자를 발급받다
+>   - `obtain` + `academic credentials` = 학위를 취득하다
+> - **⚠️ 주의사항 & 콩글리시 방지 (Pitfalls & Common Mistakes)**: 일상 구어에서 "나 편의점에서 물 좀 샀어/얻었어"를 `I obtained water`라고 하면 지나치게 어색하고 관료적으로 들립니다. 그때는 `get/buy`를 씁니다.
+>
+> ---
+>
+> ### 7. `regard A as B` : A를 B로 간주하다, 여기다
+> - **💡 뉘앙스 & 상황 맥락**: 주관적인 평가나 사회적인 인정을 담아 어떤 대상(A)의 신분이나 본질을 특정 성격(B)으로 평가할 때 쓰는 대표적 구문입니다. 동의어로 `consider A (as) B`, `look upon A as B`가 있습니다.
+> - **🔊 발음 & 연음 팁 (Pronunciation Tip)**: `regard A as`는 [rɪ-ɡɑːrd eɪ æz]로 막힘없이 리듬을 타며 발음됩니다.
+> - **📝 실전 예문 (Real Examples)**:
+>   - 🇺🇸 `I regard him as a true friend.`
+>     - 🇰🇷 저는 그를 진정한 친구로 여깁니다.
+> - **💬 대화 스크립트 (Dialogue Context)**:
+>   > **A**: Why do you value Professor Lee's feedback so highly?
+>   > ↳ *왜 이 교수님의 피드백을 그렇게 높이 평가해?*
+>   > **B**: Most scholars in our department regard her as the leading authority in this field.
+>   > ↳ *우리 과의 대부분의 학자들이 그분을 이 분야의 최고 권위자로 인정하거든.*
+> - **🔄 패턴 응용 & 교체 연습 (Substitution Drill)**:
+>   - `be widely regarded as` + `a milestone achievement` = 기념비적인 업적으로 널리 간주되다
+>   - `regard the situation as` + `extremely alarming` = 그 상황을 대단히 심각한 것으로 여기다
+> - **⚠️ 주의사항 & 콩글리시 방지 (Pitfalls & Common Mistakes)**: `regard` 뒤에는 반드시 전치사 `as`가 결합합니다. 반면 `consider`는 `as`를 생략하고 바로 `consider A B`로 쓰는 경우가 많으므로 구조를 혼동하지 마십시오.
+>
+> ---
+>
+> ### 8. `insist that S + (should) V` : 강하게 주장하다, 우기다
+> - **💡 뉘앙스 & 상황 맥락**: 상대방의 반대, 회의적인 시선, 만류에도 굴하지 않고 자신의 요구 사항이나 의견을 고집스럽게 관철시키려 할 때 씁니다. 당위성을 나타낼 때는 종속절에 `(should) + 동사원형`을 씁니다.
+> - **🔊 발음 & 연음 팁 (Pronunciation Tip)**: `insisted`는 [ɪn-ˈsɪs-tɪd]로 발음되며 끝의 ed가 탈락되지 않도록 유의합니다.
+> - **📝 실전 예문 (Real Examples)**:
+>   - 🇺🇸 `She insisted that I stay for dinner.`
+>     - 🇰🇷 그녀는 내가 저녁 식사를 하고 가야 한다고 고집했다.
+> - **💬 대화 스크립트 (Dialogue Context)**:
+>   > **A**: Why didn't you head straight back to the hotel last night?
+>   > ↳ *어젯밤에 왜 호텔로 곧장 안 들어갔어?*
+>   > **B**: My host insisted that I stay for dinner, and I couldn't politely decline.
+>   > ↳ *홈스테이 호스트분께서 저녁을 먹고 가라고 하도 우기셔서 예의상 거절할 수가 없었어.*
+> - **🔄 패턴 응용 & 교체 연습 (Substitution Drill)**:
+>   - `insist on` + `paying for the meal` = (전치사 구문) 식사비를 자기가 내겠다고 고집하다
+>   - `insist that` + `he was innocent` = (단순 사실 주장) 자기는 무죄였다고 강변하다
+> - **⚠️ 주의사항 & 콩글리시 방지 (Pitfalls & Common Mistakes)**: 의무·당위를 나타낼 때는 동사원형(`stay`, `not stay`)을 쓰지만, 과거의 객관적 사실을 우길 때는 시제 일치(`he was innocent`)를 시켜야 합니다. 무조건 동사원형을 쓰면 어법 오류가 발생합니다.
+>
+> ---
+>
+> ### 9. `rely on [someone/something]` : ~에 의존하다, 신뢰하다
+> - **💡 뉘앙스 & 상황 맥락**: 단순히 의지하여 도움을 받는 것뿐 아니라, "그 사람/정보가 틀림없을 것이라고 굳게 믿고 기대다"라는 전폭적인 신뢰의 뉘앙스가 포함되어 있습니다. 동의어 `depend on`, `count on`.
+> - **🔊 발음 & 연음 팁 (Pronunciation Tip)**: `rely on`은 [rɪ-ˈlaɪ-jɑːn] 형태로 y 뒤에 반모음 [j]가 살짝 묻어나며 on으로 연결됩니다.
+> - **📝 실전 예문 (Real Examples)**:
+>   - 🇺🇸 `It's important to rely on reliable sources for information.`
+>     - 🇰🇷 정보를 얻을 때는 신뢰할 수 있는 출처에 의존하는 것이 중요하다.
+> - **💬 대화 스크립트 (Dialogue Context)**:
+>   > **A**: Can we trust these statistics from the internet blog?
+>   > ↳ *인터넷 블로그에서 가져온 이 통계 수치들을 믿어도 될까?*
+>   > **B**: Definitely not. We must rely solely on officially verified government data.
+>   > ↳ *절대 안 되지. 우리는 오직 공식 검증된 정부 데이터에만 의존해야 해.*
+> - **🔄 패턴 응용 & 교체 연습 (Substitution Drill)**:
+>   - `rely heavily on` + `imported raw materials` = 수입 원자재에 심하게 의존하다
+>   - `a reliable colleague` = 믿음직한 직장 동료
+> - **⚠️ 주의사항 & 콩글리시 방지 (Pitfalls & Common Mistakes)**: `rely`는 자동사이므로 목적어를 바로 취할 수 없습니다. 반드시 전치사 `on` 또는 `upon`을 동반해야 합니다.
+>
+> ---
+>
+> ### 10. `acknowledge [the receipt / that S + V]` : 인정하다, (접수·수령을) 통지하다
+> - **💡 뉘앙스 & 상황 맥락**:
+>   1. 불편하거나 숨기고 싶은 사실·과오를 공적으로 분명하게 '인정하다'.
+>   2. 비즈니스 이메일에서 편지나 서류를 '잘 받았음을 확인하여 알리다'.
+> - **🔊 발음 & 연음 팁 (Pronunciation Tip)**: k가 묵음이 아니며 [ək-ˈnɑː-lɪdʒ]로 정확하게 발음됩니다.
+> - **📝 실전 예문 (Real Examples)**:
+>   - 🇺🇸 `Please acknowledge receipt of this email at your earliest convenience.`
+>     - 🇰🇷 편하신 가장 이른 시간에 본 이메일의 수신 여부를 확인해 주시기 바랍니다.
+> - **💬 대화 스크립트 (Dialogue Context)**:
+>   > **A**: Has the client confirmed that they received our updated design draft?
+>   > ↳ *고객사에서 수정된 디자인 초안 잘 받았다고 확인해 줬어?*
+>   > **B**: Yes, their manager sent a short note acknowledging receipt an hour ago.
+>   > ↳ *응, 담당 팀장이 한 시간 전에 수령 확인 메모를 보내왔어.*
+> - **🔄 패턴 응용 & 교체 연습 (Substitution Drill)**:
+>   - `acknowledge one's mistakes` = 자신의 실수를 깨끗이 인정하다
+>   - `widely acknowledged as` = ~로서 널리 공인된
+> - **⚠️ 주의사항 & 콩글리시 방지 (Pitfalls & Common Mistakes)**: 단순히 안다는 의미인 `know`와 혼동하지 마십시오. `acknowledge`는 상대방에게 자신의 인식이나 확인 결과를 '명시적이고 공식적인 제스처로 표명'하는 행위입니다.
+>
+> ---
+>
+> ### 11. `breach of [contract / security / trust]` : (법·계약·신뢰의) 위반, 침해, 균열
+> - **💡 뉘앙스 & 상황 맥락**: 단단하게 맺어진 약속, 보안벽, 도덕적 신뢰 관계를 물리적으로 깨부수고 구멍을 내는 행위를 뜻합니다. 비즈니스 분쟁 및 보안 사고에서 핵심적으로 쓰이는 고난도 전문 어휘입니다.
+> - **🔊 발음 & 연음 팁 (Pronunciation Tip)**: ch가 거친 [tʃ] 발음으로 끝나 [briːtʃ]로 명확하고 강하게 발음됩니다.
+> - **📝 실전 예문 (Real Examples)**:
+>   - 🇺🇸 `Leaking the confidential client list is a severe breach of contract.`
+>     - 🇰🇷 기밀 고객 명단을 유출하는 것은 중대한 계약 위반이다.
+> - **💬 대화 스크립트 (Dialogue Context)**:
+>   > **A**: The server logs indicate an external hacker accessed our database.
+>   > ↳ *서버 로그를 보니 외부 해커가 우리 데이터베이스에 침납한 것 같습니다.*
+>   > **B**: This is a critical security breach! Shut down the entire external gateway right now!
+>   > ↳ *이건 치명적인 보안 침해입니다! 지금 즉시 모든 외부 게이트웨이를 차단하세요!*
+> - **🔄 패턴 응용 & 교체 연습 (Substitution Drill)**:
+>   - `sue somebody for` + `breach of promise` = 약속 불이행으로 누군가를 고소하다
+>   - `breach the perimeter wall` = 외곽 방어벽을 뚫고 들어가다
+> - **⚠️ 주의사항 & 콩글리시 방지 (Pitfalls & Common Mistakes)**: 해변을 뜻하는 `beach` [biːtʃ]와 철자 및 r 사운드의 유무에 주의하십시오.
+>
+> ---
+>
+> ### 12. `sensible` vs `sensitive` : 분별 있는·현명한 vs 예민한·민감한
+> - **💡 뉘앙스 & 상황 맥락**:
+>   - `sensible`: 이성(Sense)과 올바른 판단력에 기반하여 합리적이고 분별 있게 행동하는 (칭찬).
+>   - `sensitive`: 감각이나 감정이 예민하여 외부 자극에 쉽게 상처받거나 반응하는.
+> - **🔊 발음 & 연음 팁 (Pronunciation Tip)**: `sensible` [ˈsen-sə-bl], `sensitive` [ˈsen-sə-tɪv]. 접미사 어미의 리듬에 유의합니다.
+> - **📝 실전 예문 (Real Examples)**:
+>   - 🇺🇸 `It is sensible to save a portion of your income every month.`
+>     - 🇰🇷 매달 수입의 일부를 저축하는 것은 분별 있고 현명한 태도이다.
+>   - 🇺🇸 `He is overly sensitive to any constructive criticism.`
+>     - 🇰🇷 그는 어떠한 건설적인 비판에도 지나치게 예민하게 반응한다.
+> - **💬 대화 스크립트 (Dialogue Context)**:
+>   > **A**: Should we invest all our spare budget into the stock market right now?
+>   > ↳ *지금 남는 예산을 전부 주식 시장에 털어 넣어야 할까?*
+>   > **B**: Let's take a more sensible approach and keep half of it in cash.
+>   > ↳ *더 합리적으로 생각해서 절반은 현금으로 쥐고 가자.*
+> - **🔄 패턴 응용 & 교체 연습 (Substitution Drill)**:
+>   - `a sensible decision` = 현명한 결정
+>   - `sensitive skin` = 민감성 피부
+> - **⚠️ 주의사항
+
+---
+
+# 📘 [책]영어 단어 word master 1권 버전 1.0 (우선순위 1-4000)-단어집-영단어-영어단어 실전 마스터 가이드북
+> **교재 원본**: `sources/영어교재/[책]영어 단어 word master 1권 버전 1.0 (우선순위 1-4000)-단어집-영단어-영어단어.pdf` (144p)  
+> **정본화 엔진**: 학습자 중심 LLM 재구성 & 무손실 인터랙티브 드릴 파이프라인
+
+---
+
+## 📖 Word Master (Part 1: Prepositions, Conjunctions, Pronouns, Determiners, Auxiliaries, Interjections, Verbs, Nouns, Adjectives, Adverbs)
+
+### 1. 🧭 단원 개요 및 핵심 학습 목표 (Overview & Targets)
+- **주요 학습 테마**: 영어의 기본 품사(전치사, 접속사, 대명사, 한정사, 조동사, 감탄사, 동사, 명사, 형용사, 부사)의 핵심 단어와 그 다양한 용법을 익힙니다.
+- **원어민 사고방식 핵심 요약**: 단어의 핵심 의미를 파악하고, 문맥에 따라 품사가 어떻게 변화하며 뉘앙스가 달라지는지 이해하는 것이 중요합니다. 특히 전치사와 접속사는 한국어와 1:1 매칭이 어려운 경우가 많으므로, 원어민이 해당 단어를 어떤 '그림'으로 이해하는지 파악하는 데 집중합니다.
+
+### 2. 🎯 핵심 공식 & 원어민 뉘앙스 매트릭스 (Rule & Nuance Matrix)
+
+| 구분 / 유닛 | 핵심 공식 & 구조 | 원어민 실제 뉘앙스 & 용법 | 한국인 학습자 단골 함정 (Pitfalls) |
+|---|---|---|---|
+| **전치사 (Prepositions)** | `[전치사] + [명사/대명사]` | 공간, 시간, 방향, 목적, 수단 등 다양한 관계를 나타내는 '연결 고리' 역할. 한국어의 조사와 유사하나, 훨씬 더 구체적인 '그림'을 형성함. | 한국어 조사와 1:1 매칭하려다 의미 오류 발생 (예: `on`은 '접촉'의 뉘앙스, `in`은 '내부'의 뉘앙스). |
+| **접속사 (Conjunctions)** | `[접속사] + [절/구]` | 단어, 구, 절을 연결하여 문장 간의 논리적 관계(시간, 이유, 조건, 양보 등)를 명확히 함. | 한국어의 '그리고', '그러나' 등으로만 이해하여 다양한 접속사의 미묘한 뉘앙스(예: `while`의 '동시'와 '대조')를 놓침. |
+| **대명사 (Pronouns)** | `[대명사]`는 `[명사]`를 대신함 | 문장의 반복을 피하고 지칭 대상을 명확히 함. 주격, 목적격, 소유격, 재귀대명사 등 다양한 형태가 있음. | 한국어는 대명사 사용이 영어보다 적어, 영어 문장에서 대명사를 생략하거나 잘못된 격을 사용하는 오류. |
+| **한정사 (Determiners)** | `[한정사] + [명사]` | 명사의 수량, 소유, 지시 등을 한정하여 명사의 의미를 구체화함. 관사, 지시형용사, 소유격, 수량형용사 등이 포함. | 관사(`a/an, the`) 사용 오류가 가장 흔하며, `some/any`, `much/many`, `little/few` 등 수량 한정사의 가산/불가산 명사 구별 혼동. |
+| **조동사 (Auxiliaries)** | `[조동사] + [동사원형]` | 본동사의 의미에 '가능성', '의무', '허락', '추측' 등의 뉘앙스를 추가함. 시제, 태, 법을 나타내는 역할도 함. | 한국어에 없는 개념이므로 조동사 자체의 의미를 파악하기 어려워하며, 조동사 뒤에 동사원형이 와야 하는 규칙을 자주 잊음. |
+| **감탄사 (Interjections)** | `[감탄사]!` 또는 `, [감탄사],` | 감정이나 놀람을 직접적으로 표현. 문법적 연결 없이 독립적으로 사용됨. | 구어체에서 자주 사용되므로, 문어체나 격식 있는 상황에서 부적절하게 사용하거나 과도하게 사용하는 경우. |
+| **동사 (Verbs)** | `[주어] + [동사]` | 주어의 동작이나 상태를 나타내는 문장의 핵심 요소. 시제, 태, 수에 따라 형태 변화. | 한국어와 다른 시제 개념(특히 현재완료, 과거완료)과 자동사/타동사 구별 오류. |
+| **명사 (Nouns)** | `[한정사] + [명사]` 또는 단독 사용 | 사람, 사물, 장소, 개념 등의 이름을 나타냄. 문장에서 주어, 목적어, 보어 역할. | 가산/불가산 명사 구별, 단수/복수 형태, 고유명사/보통명사 구별 오류. |
+| **형용사 (Adjectives)** | `[형용사] + [명사]` 또는 `[be동사] + [형용사]` | 명사나 대명사를 수식하여 그 특징이나 상태를 설명. | 부사와의 혼동, 형용사의 어순, 비교급/최상급 형태 오류. |
+| **부사 (Adverbs)** | `[부사]`는 `[동사/형용사/다른 부사/문장 전체]` 수식 | 동작, 상태, 정도, 방식, 시간, 장소 등을 더 자세히 설명. | 형용사와의 혼동(`-ly` 형태가 아닌 부사), 부사의 위치 오류. |
+
+### 3. 🏋️ 실전 연습문제 & 인터랙티브 자가 점검 드릴 (Interactive Practice Drills)
+
+#### **문제 1**
+Choose the correct preposition to complete the sentence:
+She is very good ______ playing the piano.
+a) in
+b) at
+c) on
+d) for
+
+||[정답] b) at||
+
+**💡 상세 해설 & 오답 분석**:
+- **정답 이유**: `good at`은 '~을 잘하다'라는 의미의 관용적인 표현입니다. 특정 기술이나 활동에 능숙함을 나타낼 때 사용합니다.
+- **오답 보기 분석**:
+  - a) `in`: 주로 공간이나 시간의 '내부'를 나타낼 때 사용합니다. (예: `in the room`, `in the morning`)
+  - c) `on`: 주로 '접촉'이나 '표면'을 나타낼 때 사용합니다. (예: `on the table`, `on Monday`)
+  - d) `for`: 주로 '목적', '기간', '대상' 등을 나타낼 때 사용합니다. (예: `for two hours`, `for you`)
+
+#### **문제 2**
+Which conjunction best fits the blank?
+He studied hard, ______ he still failed the exam.
+a) so
+b) because
+c) but
+d) while
+
+||[정답] c) but||
+
+**💡 상세 해설 & 오답 분석**:
+- **정답 이유**: 앞 문장("He studied hard")과 뒤 문장("he still failed the exam")이 '열심히 공부했지만 시험에 떨어졌다'는 대조적인 내용을 담고 있으므로, '그러나'라는 의미의 `but`이 가장 적절합니다.
+- **오답 보기 분석**:
+  - a) `so`: '그래서, ~때문에'라는 결과를 나타낼 때 사용합니다. (예: "He studied hard, so he passed the exam.")
+  - b) `because`: '~때문에'라는 이유를 나타낼 때 사용합니다. (예: "He failed the exam because he didn't study hard.")
+  - d) `while`: '동시에 ~하는 동안' 또는 '반면에'라는 대조를 나타낼 수 있지만, 여기서는 직접적인 대조의 의미가 `but`보다 약합니다. (예: "While he studied, his friends played.")
+
+#### **문제 3**
+Select the correct pronoun for the sentence:
+The cat licked ______ paw.
+a) it's
+b) its
+c) their
+d) her
+
+||[정답] b) its||
+
+**💡 상세 해설 & 오답 분석**:
+- **정답 이유**: `its`는 '그것의'라는 의미의 소유격 대명사입니다. 고양이가 자신의 발을 핥는 상황이므로, 중성 단수 명사(cat)의 소유격을 사용해야 합니다.
+- **오답 보기 분석**:
+  - a) `it's`: `it is` 또는 `it has`의 줄임말입니다. 소유격이 아닙니다.
+  - c) `their`: '그들의'라는 복수 소유격 대명사입니다. 고양이는 단수이므로 적절하지 않습니다.
+  - d) `her`: '그녀의'라는 여성 단수 소유격 대명사입니다. 고양이를 의인화하지 않는 한 일반적으로 사용하지 않습니다.
+
+#### **문제 4**
+Choose the appropriate determiner.
+There is ______ milk left in the fridge.
+a) many
+b) a few
+c) much
+d) several
+
+||[정답] c) much||
+
+**💡 상세 해설 & 오답 분석**:
+- **정답 이유**: `milk`는 셀 수 없는 명사(불가산 명사)입니다. 셀 수 없는 명사의 양을 나타낼 때는 `much`를 사용합니다.
+- **오답 보기 분석**:
+  - a) `many`: 셀 수 있는 명사의 복수형 앞에 사용합니다. (예: `many books`)
+  - b) `a few`: 셀 수 있는 명사의 복수형 앞에 사용합니다. (예: `a few apples`)
+  - d) `several`: 셀 수 있는 명사의 복수형 앞에 사용합니다. (예: `several students`)
+
+#### **문제 5**
+Which auxiliary verb completes the sentence correctly?
+You ______ finish your homework before watching TV.
+a) can
+b) might
+c) should
+d) will
+
+||[정답] c) should||
+
+**💡 상세 해설 & 오답 분석**:
+- **정답 이유**: '숙제를 끝내야 한다'는 의무나 권고의 의미를 나타내므로 `should`가 가장 적절합니다.
+- **오답 보기 분석**:
+  - a) `can`: '할 수 있다'는 능력이나 가능성을 나타냅니다.
+  - b) `might`: '~일지도 모른다'는 약한 추측이나 가능성을 나타냅s니다.
+  - d) `will`: '~할 것이다'는 미래 시제나 의지를 나타냅니다.
+
+### 4. 🧠 핵심 문장 암기 & 스피킹 훈련 매트릭스 (Key Sentence Mastery Matrix)
+
+| 번호 | 영문 실전 문장 | 자연스러운 한국어 번역 | 핵심 문법 & 발음 팁 |
+|:---:|---|---|---|
+| 1 | She is **good at** playing the piano. | 그녀는 피아노를 잘 쳐요. | `good at`: '~을 잘하다'는 숙어. `at`은 특정 활동에 대한 '초점'을 나타냅니다. |
+| 2 | He studied hard, **but** he still failed the exam. | 그는 열심히 공부했지만, 여전히 시험에 떨어졌어요. | `but`: 대조적인 두 문장을 연결. `still`은 '여전히'라는 뉘앙스를 강조합니다. |
+| 3 | The cat licked **its** paw. | 고양이가 자기 발을 핥았어요. | `its`: 중성 단수 명사의 소유격. `it's` (it is/has)와 혼동 주의. |
+| 4 | There isn't **much** milk left in the fridge. | 냉장고에 우유가 많이 남아있지 않아요. | `much`: 불가산 명사 `milk`의 양을 나타낼 때 사용. 부정문에서 흔히 쓰입니다. |
+| 5 | You **should** finish your homework before watching TV. | TV를 보기 전에 숙제를 끝내야 해요. | `should`: 의무나 권고를 나타내는 조동사. 뒤에 동사원형 `finish`가 옵니다. |
+| 6 | I **will** call you **after** I get home. | 집에 도착한 후에 전화할게요. | `will`: 미래 시제. `after`: 시간의 전후 관계를 나타내는 접속사/전치사. |
+| 7 | **Despite** the rain, we went for a walk. | 비가 왔음에도 불구하고, 우리는 산책을 나갔어요. | `despite`: '~에도 불구하고'라는 전치사. 뒤에 명사(구)가 옵니다. (cf. `although`는 뒤에 절이 옴) |
+| 8 | **As** a student, I need to study hard. | 학생으로서, 저는 열심히 공부해야 합니다. | `as`: '~로서'라는 자격이나 역할을 나타내는 전치사. |
+| 9 | He is **different from** his brother. | 그는 그의 형(제)와 달라요. | `different from`: '~와 다르다'는 관용 표현. `from` 대신 `than`을 쓰는 오류 주의. |
+| 10 | **However**, the results were not what we expected. | 하지만, 결과는 우리가 예상했던 것이 아니었어요. | `however`: '그러나, 하지만'이라는 의미의 부사. 문장 전체를 수식하며 대조를 나타냅니다. |
+
+---
+
+## 📖 영어 단어 Word Master 1권: Part 2 (Unit 17-33)
+
+### 1. 🧭 단원 개요 및 핵심 학습 목표 (Overview & Targets)
+- **주요 학습 테마**: 일상생활, 사회, 비즈니스 등 다양한 맥락에서 사용되는 핵심 명사, 동사, 형용사, 부사 400여 개를 학습합니다. 다의어와 품사 전환이 잦은 단어들의 원어민 뉘앙스를 이해하고, 실제 문장에서의 활용법을 익히는 데 중점을 둡니다.
+- **원어민 사고방식 핵심 요약**: 영어 단어는 단순히 1:1 한국어 번역이 아닌, 문맥에 따라 다양한 의미와 뉘앙스를 가집니다. 특히 동사와 명사로 모두 사용되는 단어들은 그 핵심 의미를 파악하여 유연하게 활용하는 것이 중요하며, 이는 원어민처럼 사고하고 표현하는 데 필수적입니다.
+
+### 2. 🎯 핵심 공식 & 원어민 뉘앙스 매트릭스 (Rule & Nuance Matrix)
+
+| 구분 / 유닛 | 핵심 공식 & 구조 | 원어민 실제 뉘앙스 & 용법 | 한국인 학습자 단골 함정 (Pitfalls) |
+|---|---|---|---|
+| **`local`** (a.) | `local` = 지역의, 현지의 | 특정 지역이나 장소에 국한된 것을 강조. '우리 동네' 같은 친근한 느낌. | `regional` (더 넓은 지역)과 혼동. `local`은 보통 더 작은 범위. |
+| **`run`** (v./n.) | **v.** `run` = 달리다, 운영하다, 흐르다 <br> **n.** `run` = 달리기, 운영, 흐름 | **v.** 물리적 움직임 외에 '사업을 운영하다', '물이 흐르다' 등 지속적인 활동이나 상태 변화를 나타냄. <br> **n.** '달리기' 외에 '연속된 기간' (a run of bad luck) 등 추상적 의미 확장. | '운영하다'를 `operate`로만 생각하고 `run`을 놓치는 경우. `run a business`. |
+| **`open`** (v./a.) | **v.** `open` = 열다, 시작하다 <br> **a.** `open` = 열린, 솔직한 | **v.** 물리적으로 여는 것 외에 '마음을 열다', '사업을 시작하다' 등 추상적 시작을 의미. <br> **a.** '열려 있는' 상태 외에 '솔직한, 개방적인' 태도를 나타냄. | '시작하다'를 `start`로만 생각하고 `open`을 간과. `open a new chapter`. |
+| **`question`** (n./v.) | **n.** `question` = 질문, 문제 <br> **v.** `question` = 질문하다, 의문을 제기하다 | **n.** '질문' 외에 '논란이 되는 문제' (a question of ethics)를 의미. <br> **v.** 단순히 묻는 것 외에 '의심하다, 이의를 제기하다'의 뉘앙스. | '문제'를 `problem`으로만 생각하고 `question`의 '논란' 의미를 놓침. `It's not a question of money`. |
+| **`pay`** (v./n.) | **v.** `pay` = 지불하다, 보상하다 <br> **n.** `pay` = 급여, 보수 | **v.** 돈을 내는 것 외에 '대가/보상을 치르다' (pay attention, pay a visit) 등 다양한 행위에 대한 '지불'을 의미. <br> **n.** `salary`나 `wage`보다 포괄적인 '급여' 의미. | `pay for` (~에 대해 지불하다)와 `pay` (돈을 내다)의 전치사 사용 혼동. |
+| **`result`** (n./v.) | **n.** `result` = 결과 <br> **v.** `result` = ~의 결과로 발생하다 (`result from`), ~을 야기하다 (`result in`) | **n.** 어떤 행동이나 상황의 최종 산물. <br> **v.** `result from`은 '원인'을, `result in`은 '결과'를 나타내어 인과관계를 명확히 함. | `result from`과 `result in`의 의미를 반대로 이해하는 경우. (원인/결과 주체 혼동) |
+| **`study`** (n./v.) | **n.** `study` = 공부, 연구 <br> **v.** `study` = 공부하다, 연구하다 | **n.** 학업 활동 외에 '특정 주제에 대한 심층적인 연구'를 의미. <br> **v.** 단순히 책을 읽는 것을 넘어 '자세히 조사하고 분석하다'의 뉘앙스. | '연구'를 `research`로만 생각하고 `study`의 학문적 의미를 간과. |
+| **`talk`** (v./n.) | **v.** `talk` = 이야기하다 <br> **n.** `talk` = 이야기, 대화, 강연 | **v.** 일방적인 말하기보다는 '대화하다'의 의미가 강함. <br> **n.** 격식 없는 대화부터 공식적인 '강연'까지 폭넓게 사용. | `speak` (일방적 말하기, 언어 구사)와 `talk` (대화)의 미묘한 차이 혼동. |
+| **`book`** (n./v.) | **n.** `book` = 책 <br> **v.** `book` = 예약하다 | **n.** 물리적인 책 외에 '장부, 기록'의 의미. <br> **v.** '예약하다'는 `make a reservation`과 동의어로, 호텔, 비행기, 공연 등에 널리 사용. | `book`을 '책'으로만 알고 '예약하다' 동사 의미를 모르는 경우. |
+| **`level`** (n./a.) | **n.** `level` = 수준, 단계, 평면 <br> **a.** `level` = 평평한, 같은 수준의 | **n.** '수준, 정도' 외에 '층' (floor)이나 '평평한 표면'을 의미. <br> **a.** '평평한' 외에 '동등한, 균등한'의 의미로 공정성을 나타낼 때 사용. | `level`을 '수준'으로만 알고 '평평한' 형용사 의미나 '층' 명사 의미를 놓침. |
+| **`business`** (n.) | `business` = 사업, 업무, 일 | '사업' 외에 '개인의 일, 용무' (It's none of your business)나 '거래'를 의미. | `job` (직업)과 `business` (사업, 업무)의 차이 혼동. `business`는 더 포괄적. |
+| **`power`** (n./v.) | **n.** `power` = 힘, 권력 <br> **v.** `power` = 동력을 공급하다 | **n.** 물리적 힘, 정치적 권력, 전기 에너지 등 다양한 '힘'을 의미. <br> **v.** 기계나 장치에 에너지를 공급하는 행위. | `strength` (물리적 힘)과 `power` (영향력, 권력, 에너지)의 차이. |
+| **`support`** (n./v.) | **n.** `support` = 지지, 지원, 후원 <br> **v.** `support` = 지지하다, 지원하다, 부양하다 | **n.** 정신적, 물질적 지지 모두 포함. <br> **v.** '부양하다' (가족을 먹여 살리다)의 의미로도 중요하게 사용. | `help` (돕다)와 `support` (지속적으로 지지/부양하다)의 뉘앙스 차이. |
+| **`name`** (n./v.) | **n.** `name` = 이름, 명성 <br> **v.** `name` = 이름을 짓다, 지명하다 | **n.** '이름' 외에 '명성' (make a name for oneself)을 의미. <br> **v.** '이름을 짓다' 외에 '특정 직책에 지명하다'의 의미. | `name`을 '이름'으로만 알고 동사 '지명하다'의 의미를 모르는 경우. |
+| **`control`** (n./v.) | **n.** `control` = 통제, 제어 <br> **v.** `control` = 통제하다, 제어하다 | **n.** 어떤 상황이나 대상을 다루고 관리하는 능력. <br> **v.** 감정이나 상황을 억제하고 관리하는 행위. | `manage` (관리하다)와 `control` (더 강한 통제)의 차이. |
+| **`act`** (n./v.) | **n.** `act` = 행동, 행위, 법률 <br> **v.** `act` = 행동하다, 연기하다 | **n.** '행동' 외에 '법률, 조례' (an act of parliament)를 의미. <br> **v.** '행동하다' 외에 '연극/영화에서 연기하다'의 의미. | `action` (행동)과 `act` (개별적 행위, 법률)의 차이. |
+| **`interest`** (n./v.) | **n.** `interest` = 관심, 흥미, 이자 <br> **v.** `interest` = 흥미를 유발하다 | **n.** '관심' 외에 '은행 이자' (interest rate)나 '이해관계' (vested interest)를 의미. <br> **v.** 어떤 대상이 누군가에게 흥미를 느끼게 하는 것. | `interesting` (흥미로운)과 `interested` (흥미를 느끼는)의 혼동. |
+| **`public`** (a./n.) | **a.** `public` = 대중의, 공공의 <br> **n.** `public` = 대중 | **a.** '대중에게 공개된, 공공의' 의미. <br> **n.** 특정 집단이 아닌 '일반 대중'을 지칭. | `private` (사적인)의 반대 개념으로 명확히 이해. |
+| **`water`** (n./v.) | **n.** `water` = 물 <br> **v.** `water` = 물을 주다 | **n.** 기본적인 '물' 외에 '수역' (waters)을 의미. <br> **v.** 식물 등에 물을 주는 행위. | `water`를 동사로 사용하는 것을 놓치는 경우. |
+| **`offer`** (v./n.) | **v.** `offer` = 제안하다, 제공하다 <br> **n.** `offer` = 제안, 제공 | **v.** 물건이나 서비스를 제공하거나, 기회를 제안하는 것. <br> **n.** 구체적인 '제안'이나 '할인' (special offer). | `suggest` (제안하다)와 `offer` (제공하다, 제안하다)의 차이. `offer`는 더 구체적인 것을 내미는 느낌. |
+| **`room`** (n.) | `room` = 방, 공간, 여지 | '방' 외에 '어떤 일을 할 수 있는 공간이나 여지' (There's no room for error)를 의미. | `space` (일반적인 공간)과 `room` (특정 목적의 공간, 여지)의 차이. |
+| **`force`** (n./v.) | **n.** `force` = 힘, 물리력 <br> **v.** `force` = 강요하다, 억지로 ~하게 하다 | **n.** 물리적 힘, 군사력, 강제력 등. <br> **v.** 누군가에게 원치 않는 행동을 하도록 압력을 가하는 것. | `power` (힘, 권력)와 `force` (물리적/강제적 힘)의 차이. |
+| **`market`** (n./v.) | **n.** `market` = 시장 <br> **v.** `market` = 판매하다, 홍보하다 | **n.** 물건이 거래되는 장소나 경제 시스템. <br> **v.** 제품을 시장에 내놓고 판매 전략을 세우는 행위. | `sell` (팔다)과 `market` (시장 전략을 통해 판매하다)의 차이. |
+| **`plan`** (n./v.) | **n.** `plan` = 계획 <br> **v.** `plan` = 계획하다 | **n.** 미래에 대한 구체적인 청사진. <br> **v.** 미래의 행동을 미리 생각하고 준비하는 것. | `scheme` (음모, 계획)과 `plan` (일반적인 계획)의 뉘앙스 차이. |
+| **`live`** (v./a.) | **v.** `live` [lɪv] = 살다 <br> **a.** `live` [laɪv] = 살아있는, 생방송의 | **v.** 생존하거나 거주하는 것. <br> **a.** '살아있는' 외에 '생방송의, 실황의' (live concert) 의미로 중요하게 사용. | 동사와 형용사의 발음 [lɪv] vs [laɪv] 혼동. |
+| **`stand`** (v.) | `stand` = 서다, 참다, 견디다 | 물리적으로 서 있는 것 외에 '어떤 입장을 고수하다' (stand for), '어려움을 견디다' (can't stand it)의 의미. | `wait` (기다리다)와 `stand` (서 있다)의 혼동. `stand`는 더 능동적인 자세. |
+| **`effect`** (n./v.) | **n.** `effect` = 효과, 영향, 결과 <br> **v.** `effect` = (변화 등을) 가져오다, 초래하다 | **n.** 어떤 원인에 의해 발생하는 결과나 영향. <br> **v.** 주로 긍정적인 변화나 결과를 '이루어내다, 발생시키다'의 의미. | `affect` (영향을 미치다, 동사)와 `effect` (효과, 명사; 초래하다, 동사)의 혼동. |
+| **`issue`** (n./v.) | **n.** `issue` = 쟁점, 문제, 발행물 <br> **v.** `issue` = 발행하다, 발표하다 | **n.** '논쟁의 쟁점' (a major issue) 외에 '잡지 발행호' (the latest issue)를 의미. <br> **v.** 공식적으로 문서나 성명을 '발행/발표하다'. | `problem` (해결해야 할 문제)과 `issue` (논쟁의 쟁점, 발행물)의 차이. |
+| **`line`** (n./v.) | **n.** `line` = 선, 줄, 노선 <br> **v.** `line` = 줄을 서다, 줄을 긋다 | **n.** 물리적인 '선' 외에 '제품 라인' (product line), '대사' (lines in a play) 등 다양한 의미. <br> **v.** '줄을 서다' (line up), '줄을 긋다'. | `row` (가로줄)과 `line` (일반적인 줄, 선)의 차이. |
+| **`late`** (a./ad.) | **a.** `late` = 늦은, 최근의 <br> **ad.** `late` = 늦게 | **a.** '늦은' 외에 '최근의, 고인이 된' (the late Mr. Kim) 의미. <br> **ad.** 시간적으로 늦게. | `lately` (최근에)와 `late` (늦게)의 혼동. `late`는 형용사/부사 모두 가능. |
+| **`present`** (a./v./n.) | **a.** `present` [ˈprezənt] = 현재의, 참석한 <br> **v.** `present` [prɪˈzent] = 주다, 제시하다 <br> **n.** `present` [ˈprezənt] = 선물, 현재 | **a.** '현재의' 외에 '어떤 장소에 참석한' 의미. <br> **v.** '선물을 주다' 외에 '아이디어를 제시하다', '문제를 제기하다'. <br> **n.** '선물' 외에 '현재 시점' (at present). | 품사별 발음과 의미 변화에 주의. |
+| **`close`** (a./v./ad.) | **a.** `close` [kloʊs] = 가까운, 친밀한 <br> **v.** `close` [kloʊz] = 닫다 <br> **ad.** `close` [kloʊs] = 가까이 | **a.** 물리적 거리 외에 '친밀한 관계' (close friend)를 의미. <br> **v.** 물리적으로 닫거나, 사업 등을 '마감하다'. <br> **ad.** '가까이' (stand close). | 형용사/부사와 동사의 발음 [kloʊs] vs [kloʊz] 혼동. |
+| **`yet`** (ad.) | `yet` = 아직, 벌써, 그러나 | 주로 부정문/의문문에서 '아직 ~않다' 또는 '벌써 ~했니?'로 사용. 긍정문에서는 `but`과 유사하게 '그러나'의 의미. | `still` (여전히)과 `yet` (아직)의 사용법 혼동. `yet`은 주로 문장 끝에 위치. |
+| **`return`** (v./n.) | **v.** `return` = 돌아오다, 돌려주다 <br> **n.** `return` = 귀환, 반환, 수익 | **v.** 물리적으로 돌아오거나, 빌린 것을 '돌려주다'. <br> **n.** '귀환' 외에 '투자 수익' (return on investment)을 의미. | `go back` (돌아가다)와 `return` (돌아오다/돌려주다)의 차이. `return`은 더 격식 있는 표현. |
+| **`order`** (n./v.) | **n.** `order` = 순서, 명령, 주문 <br> **v.** `order` = 명령하다, 주문하다 | **n.** '순서' 외에 '질서' (in order), '주문' (place an order) 등 다양한 의미. <br> **v.** '명령하다' 외에 '음식/상품을 주문하다'. | `command` (군사적 명령)과 `order` (일반적 명령, 주문)의 차이. |
+| **`fall`** (v.) | `fall` = 떨어지다, 넘어지다 | 물리적으로 떨어지는 것 외에 '가을' (fall season), '감소하다' (prices fall)의 의미. | `drop` (떨어뜨리다, 타동사)와 `fall` (떨어지다, 자동사)의 혼동. |
+| **`mind`** (n.) | `mind` = 마음, 정신 | '마음' 외에 '지성, 사고력' (a brilliant mind)을 의미. 동사로는 '꺼리다' (Do you mind if...?) | `heart` (감정적 마음)과 `mind` (지성적 마음)의 차이. |
+| **`later`** (ad.) | `later` = 나중에 | 시간적으로 '나중에'를 의미. `see you later`. | `after` (전치사/접속사)와 `later` (부사)의 사용법 혼동. |
+| **`increase`** (v./n.) | **v.** `increase` = 증가하다, 증가시키다 <br> **n.** `increase` = 증가 | **v.** 양, 수, 정도 등이 커지는 것. 자동사/타동사 모두 가능. <br> **n.** 증가된 양이나 비율. | `grow` (성장하다)와 `increase` (양적으로 증가하다)의 차이. |
+| **`produce`** (v./n.) | **v.** `produce` = 생산하다, 만들어내다 <br> **n.** `produce` = 농산물 | **v.** 물건을 만들거나, 결과를 초래하는 것. <br> **n.** 주로 '농산물' (fresh produce)을 의미. | `make` (만들다)와 `produce` (대량 생산하다, 결과물을 내다)의 차이. |
+| **`whole`** (a./n.) | **a.** `whole` = 전체의, 모든 <br> **n.** `whole` = 전체 | **a.** '부분이 아닌 전체'를 강조. <br> **n.** '전체' (the whole thing). | `all` (모든 것)과 `whole` (하나의 완전한 전체)의 뉘앙스 차이. |
+| **`claim`** (v./n.) | **v.** `claim` = 주장하다, 요구하다 <br> **n.** `claim` = 주장, 요구 | **v.** 어떤 사실을 강력히 주장하거나, 권리를 요구하는 것. <br> **n.** '주장' 외에 '보험금 청구' (insurance claim). | `insist` (고집하다)와 `claim` (주장하다)의 차이. `claim`은 권리 주장 포함. |
+| **`cause`** (v./n.) | **v.** `cause` = 야기하다, 원인이 되다 <br> **n.** `cause` = 원인, 대의명분 | **v.** 어떤 결과를 발생시키는 것. <br> **n.** '원인' 외에 '사회적 대의명분' (a good cause). | `reason` (이유, 논리적 근거)과 `cause` (어떤 일의 직접적인 원인)의 차이. |
+| **`clear`** (a./v.) | **a.** `clear` = 명확한, 맑은 <br> **v.** `clear` = 치우다, 명확히 하다 | **a.** '투명한, 분명한' 외에 '방해가 없는' (clear path) 의미. <br> **v.** '장애물을 치우다' (clear the table), '오해를 풀다' (clear up a misunderstanding). | `clean` (청결한)과 `clear` (투명한, 명확한, 방해가 없는)의 차이. |
+| **`matter`** (n./v.) | **n.** `matter` = 문제, 사안, 물질 <br> **v.** `matter` = 중요하다 | **n.** '문제, 사안' 외에 '물질' (dark matter)을 의미. <br> **v.** '중요하다' (It doesn't matter). | `problem` (해결할 문제)과 `matter` (논의할 사안, 중요성)의 차이. |
+| **`love`** (n./v.) | **n.** `love` = 사랑 <br> **v.** `love` = 사랑하다 | **n.** 깊은 애정. <br> **v.** 깊은 애정을 느끼거나, 매우 좋아하다. | `like` (좋아하다)보다 훨씬 강한 감정. |
+| **`hope`** (v./n.) | **v.** `hope` = 바라다, 희망하다 <br> **n.** `hope` = 희망 | **v.** 긍정적인 일이 일어나기를 기대하는 것. <br> **n.** 미래에 대한 긍정적인 기대. | `wish` (이루어지기 어려운 것을 바라다)와 `hope` (이루어질 가능성이 있는 것을 바라다)의 차이. |
+| **`record`** (n./v.) | **n.** `record` [ˈrekərd] = 기록, 음반 <br> **v.** `record` [rɪˈkɔːrd] = 기록하다, 녹음하다 | **n.** '기록' 외에 '음반' (music record)을 의미. <br> **v.** 정보를 남기거나, 소리/영상을 저장하는 것. | 품사별 발음과 의미 변화에 주의. |
+| **`light`** (n./a./v.) | **n.** `light` = 빛, 전등 <br> **a.** `light` = 가벼운, 밝은 <br> **v.** `light` = 불을 붙이다 | **n.** '빛' 외에 '전등' (traffic light)을 의미. <br> **a.** '무겁지 않은' 외에 '색깔이 밝은' (light blue) 의미. <br> **v.** '불을 붙이다' (light a candle). | 다의어로서 다양한 의미를 문맥으로 파악해야 함. |
+| **`reason`** (n./v.) | **n.** `reason` = 이유, 이성 <br> **v.** `reason` = 추론하다, 논리적으로 생각하다 | **n.** '어떤 일의 이유나 근거' 외에 '이성, 판단력' (lose one's reason)을 의미. <br> **v.** 논리적으로 사고하여 결론에 도달하는 것. | `cause` (직접적인 원인)과 `reason` (논리적 설명, 근거)의 차이. |
+| **`figure`** (n.) | `figure` = 숫자, 인물, 모습 | '숫자' 외에 '중요 인물' (a historical figure), '몸매' (good figure), '도형' 등 다양한 의미. | `number` (단순 숫자)와 `figure` (숫자, 통계, 인물, 모습)의 차이. |
+| **`low`** (a./ad.) | **a.** `low` = 낮은 <br> **ad.** `low` = 낮게 | **a.** '높이가 낮은' 외에 '수준이 낮은' (low quality) 의미. <br> **ad.** '낮은 위치로' (bend low). | `short` (길이가 짧은)과 `low` (높이가 낮은)의 차이. |
+| **`process`** (n./v.) | **n.** `process` = 과정, 절차 <br> **v.** `process` = 처리하다, 가공하다 | **n.** 어떤 결과에 이르기까지의 일련의 단계. <br> **v.** 정보나 데이터를 '처리하다', 원료를 '가공하다'. | `procedure` (절차)와 `process` (진행 과정)의 차이. |
+| **`experience`** (n./v.) | **n.** `experience` = 경험 <br> **v.** `experience` = 경험하다, 겪다 | **n.** 직접 겪어본 일이나 지식. <br> **v.** 어떤 사건이나 감정을 직접 겪는 것. | `knowledge` (지식)과 `experience` (경험)의 차이. |
+| **`consider`** (v.) | `consider` = 고려하다, 생각하다 | 어떤 결정을 내리기 전에 신중하게 생각하거나, 특정 관점에서 바라보는 것. | `think` (단순히 생각하다)보다 더 깊이 있고 신중한 사고를 의미. |
+| **`price`** (n./v.) | **n.** `price` = 가격 <br> **v.** `price` = 가격을 매기다 | **n.** 물건이나 서비스의 가치. <br> **v.** 상품에 가격을 정하는 행위. | `cost` (비용)과 `price` (판매 가격)의 차이. |
+| **`expect`** (v.) | `expect` = 기대하다, 예상하다 | 어떤 일이 일어날 것이라고 생각하거나, 누군가에게 특정 행동을 요구하는 것. | `hope` (바라다)와 `expect` (예상하다, 기대하다)의 차이. `expect`는 더 객관적인 예측. |
+| **`suggest`** (v.) | `suggest` = 제안하다, 암시하다 | 아이디어나 계획을 제시하거나, 어떤 사실을 간접적으로 보여주는 것. | `propose` (공식적으로 제안하다)와 `suggest` (비공식적으로 제안하다, 암시하다)의 차이. |
+| **`kind`** (n./a.) | **n.** `kind` = 종류 <br> **a.** `kind` = 친절한 | **n.** '유형, 종류' (what kind of?). <br> **a.** '친절한, 다정한'. | 동음이의어(homonym)로, 문맥에 따라 의미 파악 중요. |
+| **`let`** (v.) | `let` = ~하게 하다, 허락하다 | 누군가에게 어떤 행동을 하도록 허락하거나, 어떤 일이 일어나도록 내버려 두는 것. | `allow` (허락하다)와 유사하지만, `let`은 좀 더 비격식적이고 직접적인 허락. |
+| **`require`** (v.) | `require` = 요구하다, 필요로 하다 | 어떤 것을 필수적으로 요구하거나, 특정 조건이 필요하다는 것을 나타냄. | `demand` (강력히 요구하다)와 `require` (필요로 하다, 요구하다)의 차이. |
+| **`continue`** (v.) | `continue` = 계속하다 | 어떤 행동이나 상태가 중단 없이 이어지는 것. | `keep on` (계속하다)과 유사하지만, `continue`는 더 격식 있는 표현. |
+| **`period`** (n.) | `period` = 기간, 시기, 마침표 | '특정 기간' 외에 '생리 기간' (menstrual period), '마침표' (full stop)를 의미. | `time` (일반적인 시간)과 `period` (특정 기간)의 차이. |
+| **`voice`** (n./v.) | **n.** `voice` = 목소리, 의견 <br> **v.** `voice` = (의견을) 표명하다 | **n.** '목소리' 외에 '의견, 발언권' (have a voice). <br> **v.** 자신의 생각이나 감정을 말로 표현하는 것. | `sound` (소리)와 `voice` (사람의 목소리)의 차이. |
+| **`base`** (v./n.) | **v.** `base` = ~에 기반을 두다 <br> **n.** `base` = 토대, 기초, 기지 | **v.** 어떤 사실이나 원리를 바탕으로 삼는 것. <br> **n.** '기초' 외에 '군사 기지' (military base)를 의미. | `foundation` (기초)과 `base` (토대, 근거)의 차이. |
+| **`stop`** (v./n.) | **v.** `stop` = 멈추다, 중단하다 <br> **n.** `stop` = 정지, 중단, 정류장 | **v.** 움직임이나 활동을 끝내는 것. <br> **n.** '정지' 외에 '버스 정류장' (bus stop). | `finish` (끝내다)와 `stop` (중단하다)의 차이. `stop`은 일시적일 수도 있음. |
+| **`care`** (n./v.) | **n.** `care` = 보살핌, 주의, 걱정 <br> **v.** `care` = 신경 쓰다, 보살피다 | **n.** '돌봄' 외에 '주의' (take care), '걱정' (cares and worries)을 의미. <br> **v.** '관심을 가지다' (care about), '돌보다' (care for). | `worry` (걱정하다)와 `care` (신경 쓰다, 돌보다)의 차이. |
+| **`research`** (n./v.) | **n.** `research` = 연구, 조사 <br> **v.** `research` = 연구하다, 조사하다 | **n.** 체계적인 탐구 활동. <br> **v.** 특정 주제에 대해 깊이 파고들어 정보를 수집하는 것. | `study` (공부, 학업)보다 더 전문적이고 체계적인 탐구를 의미. |
+| **`lose`** (v.) | `lose` = 잃다, 지다 | 소유물을 잃거나, 경기에서 패배하는 것. | `miss` (놓치다)와 `lose` (잃다)의 차이. |
+| **`share`** (n./v.) | **n.** `share` = 몫, 주식 <br> **v.** `share` = 공유하다, 나누다 | **n.** '할당된 몫' 외에 '주식' (stock share)을 의미. <br> **v.** 다른 사람들과 함께 사용하거나 나누는 것. | `divide` (나누다)와 `share` (함께 쓰다, 나누다)의 뉘앙스 차이. |
+| **`add`** (v.) | `add` = 더하다, 추가하다 | 어떤 것에 다른 것을 합치거나, 정보를 덧붙이는 것. | `plus` (더하기)와 `add` (더하다)의 차이. |
+| **`minute`** (n./a.) | **n.** `minute` [ˈmɪnɪt] = 분 <br> **a.** `minute` [maɪˈnjuːt] = 아주 작은, 미세한 | **n.** 시간 단위 '분'. <br> **a.** '매우 작은, 미세한' (minute details). | 품사별 발음과 의미 변화에 주의. |
+| **`age`** (n./v.) | **n.** `age` = 나이, 시대 <br> **v.** `age` = 나이가 들다 | **n.** '나이' 외에 '특정 시대' (the Stone Age)를 의미. <br> **v.** 시간이 흐르면서 늙거나 숙성되는 것. | `era` (시대)와 `age` (나이, 시대)의 차이. |
+| **`available`** (a.) | `available` = 이용 가능한, 구할 수 있는 | 어떤 것을 사용할 수 있거나, 사람이 만날 수 있는 상태. | `possible` (가능한)과 `available` (이용 가능한)의 차이. |
+| **`subject`** (n./v.) | **n.** `subject` [ˈsʌbdʒɪkt] = 주제, 과목, 피실험자 <br> **v.** `subject` [səbˈdʒekt] = ~에 노출시키다, 지배하다 | **n.** '논의의 주제' 외에 '학교 과목', '실험 대상'을 의미. <br> **v.** '어떤 상황에 처하게 하다' (subject to criticism). | 품사별 발음과 의미 변화에 주의. |
+| **`individual`** (a./n.) | **a.** `individual` = 개별적인, 개인의 <br> **n.** `individual` = 개인 | **a.** '하나하나의, 독특한' 의미. <br> **n.** '한 사람'을 지칭. | `personal` (개인의)과 `individual` (개별적인, 독특한)의 차이. |
+| **`win`** (v./n.) | **v.** `win` = 이기다, 얻다 <br> **n.** `win
+
+---
+
+## 📖 영어 단어 Word Master 1권: Unit 37-53 (Part 3)
+
+### 1. 🧭 단원 개요 및 핵심 학습 목표 (Overview & Targets)
+- **주요 학습 테마**: 이 섹션에서는 일상생활과 비즈니스 환경에서 자주 사용되는 필수 어휘들을 학습합니다. 명사, 동사, 형용사, 부사 등 다양한 품사의 단어들을 익히고, 각 단어의 핵심 의미와 실제 사용 맥락을 이해하는 데 중점을 둡니다.
+- **원어민 사고방식 핵심 요약**: 단어의 표면적 의미를 넘어, 원어민이 해당 단어를 사용할 때 느끼는 미묘한 뉘앙스와 연상되는 상황들을 파악하여 자연스러운 영어 구사 능력을 향상시키는 것이 목표입니다.
+
+### 2. 🎯 핵심 공식 & 원어민 뉘앙스 매트릭스 (Rule & Nuance Matrix)
+| 구분 / 유닛 | 핵심 공식 & 구조 | 원어민 실제 뉘앙스 & 용법 | 한국인 학습자 단골 함정 (Pitfalls) |
+|---|---|---|---|
+| **`obtain`** (v.) | `obtain + (목적어)` | 노력이나 특정 과정을 통해 **얻거나 획득하는** 느낌. 주로 정보, 허가, 결과 등 추상적인 것을 얻을 때 사용. | 단순히 '얻다'는 의미로 `get`과 혼용하기 쉽지만, `obtain`은 좀 더 격식 있고 노력의 의미가 강함. |
+| **`check`** (v./n.) | `check (on/for) + (대상)` | **확인하다, 점검하다** (안전, 정확성 등). 명사로는 **확인, 점검** 또는 **수표**. | '체크하다'라는 한국어식 표현 때문에 `check` 뒤에 불필요한 전치사를 붙이거나, '수표' 외의 의미를 놓치기 쉬움. |
+| **`mention`** (v./n.) | `mention + (명사/that 절)` | 짧게 **언급하다, 말하다**. 중요하지 않게 스쳐 지나가듯 말하는 뉘앙스. | `say`나 `tell`과 달리, `mention`은 자세히 설명하기보다는 간단히 언급하는 상황에 적합. |
+| **`trust`** (n./v.) | `trust (in) + (사람/기관)` | **신뢰, 믿음**. 동사로는 **신뢰하다, 믿다**. | '믿다'는 의미로 `believe`와 혼동하기 쉽지만, `trust`는 상대방의 성실성이나 능력에 대한 **확고한 믿음**을 강조. |
+| **`treat`** (v./n.) | `treat + (사람/사물) + (방식)` | **다루다, 대우하다**. 병을 **치료하다**. 명사로는 **특별한 대접, 즐거움**. | '치료하다'와 '대우하다'라는 상이한 의미를 문맥에 따라 구분해야 함. 명사 `treat`는 '간식'이나 '즐거운 경험'의 의미로 자주 쓰임. |
+| **`grant`** (vt./n.) | `grant + (사람) + (것)` | 공식적으로 **승인하다, 허락하다, 주다**. 명사로는 **보조금, 승인**. | 단순히 '주다'는 `give`와 달리, `grant`는 권한이나 공식적인 절차를 통해 **부여하는** 느낌이 강함. |
+| **`character`** (n.) | `a person's character` | **성격, 인격**. 소설/영화의 **등장인물**. | '성격'과 '등장인물'이라는 두 가지 주요 의미를 혼동하지 않도록 주의. |
+| **`serious`** (a.) | `be serious about + (명사)` | **심각한, 진지한**. | '심각하다'는 의미 외에 '진지하다'는 긍정적인 뉘앙스도 있음을 인지해야 함. |
+| **`strike`** (vt./n.) | `strike + (대상)` | **치다, 때리다**. (생각이) **떠오르다**. 명사로는 **파업**. | '치다'는 물리적 행위 외에 '인상 깊게 다가오다'와 같은 비유적 의미도 있음. 명사 `strike`는 '파업'으로 자주 사용. |
+| **`worth`** (prep./n.) | `be worth + V-ing / (명사)` | **~할 가치가 있는**. 명사로는 **가치**. | 전치사로 사용될 때 뒤에 동명사(`-ing`)가 오는 구조를 기억해야 함. |
+| **`suffer`** (v.) | `suffer from + (질병/문제)` | (고통을) **겪다, 시달리다**. | 주로 부정적인 경험을 겪을 때 사용하며, `from`과 함께 질병이나 어려움을 나타냄. |
+| **`maintain`** (vt.) | `maintain + (상태/관계/건물)` | **유지하다, 보존하다**. (주장 등을) **주장하다**. | 단순히 '유지하다' 외에 '주장하다'는 의미도 있음을 알아야 함. |
+| **`publish`** (v.) | `publish + (책/기사)` | **출판하다, 발행하다**. | 주로 책, 기사, 연구 결과 등을 대중에게 공개하는 행위를 의미. |
+| **`address`** (vt./n.) | `address + (문제/사람)` | (문제에) **대처하다, 연설하다**. 명사로는 **주소, 연설**. | 동사로 쓰일 때 '주소'와 관련된 의미 외에 '문제 해결'의 뉘앙스가 강함. |
+| **`regard`** (vt./n.) | `regard A as B` | **~로 여기다, 간주하다**. 명사로는 **존경, 관심**. | `regard A as B` 구문은 매우 중요하며, '존경'이라는 명사 의미도 자주 쓰임. |
+| **`avoid`** (vt.) | `avoid + V-ing` | **피하다, 회피하다**. | 뒤에 동명사(`-ing`)가 오는 동사 중 하나. |
+| **`suppose`** (v.) | `suppose (that) + (절)` | **가정하다, 추정하다**. | '만약 ~라면'의 의미를 내포하며, 불확실한 상황에 대한 추측을 나타냄. |
+| **`separate`** (a./v.) | `separate A from B` | **분리된, 별개의**. 동사로는 **분리하다**. | 형용사와 동사의 발음이 다를 수 있음에 유의 (`sep-a-rate` vs `sep-a-RATE`). |
+| **`determine`** (vt.) | `determine + (목적어/to V)` | **결정하다, 알아내다**. | 단순히 '결정하다'는 `decide`와 달리, `determine`은 좀 더 확고하고 연구를 통해 '확인하다'는 의미도 포함. |
+| **`tend`** (vi.) | `tend to + V` | **~하는 경향이 있다**. | 어떤 행동이나 상태가 반복적으로 나타나는 경향을 나타낼 때 사용. |
+| **`appropriate`** (a.) | `be appropriate for/to + (상황)` | **적절한, 알맞은**. | 상황이나 목적에 부합하는 '적절함'을 강조. |
+| **`object`** (n./v.) | `object to + V-ing / (명사)` | **물체, 목표**. 동사로는 **반대하다**. | 명사와 동사의 발음이 다르고 (`OB-ject` vs `ob-JECT`), 동사일 때는 `to`와 함께 쓰임. |
+| **`transfer`** (n./v.) | `transfer + (물건/사람) + to (장소)` | **이동, 전근**. 동사로는 **이동시키다, 전근시키다**. | 물리적인 이동 외에 데이터나 권한의 이동에도 사용. |
+| **`remove`** (vt.) | `remove + (물건/사람) + from (장소)` | **제거하다, 없애다**. | 어떤 것을 원래 있던 자리에서 없애거나 치우는 행위. |
+| **`access`** (n./v.) | `have access to + (정보/장소)` | **접근, 이용**. 동사로는 **접근하다, 이용하다**. | 명사일 때는 `to`와 함께 쓰여 '접근 권한'을 의미. |
+| **`potential`** (a./n.) | `potential + (명사)` | **잠재적인, 가능성 있는**. 명사로는 **잠재력, 가능성**. | 아직 실현되지 않았지만 앞으로 발전할 수 있는 '가능성'을 강조. |
+| **`reflect`** (vt.) | `reflect + (빛/이미지/생각)` | **반사하다, 반영하다, 숙고하다**. | 거울처럼 비추는 물리적 반사 외에, 생각이나 상황을 '반영'하거나 '숙고'하는 의미도 중요. |
+| **`admit`** (vt.) | `admit + V-ing / (that 절)` | **인정하다, 시인하다**. (입장을) **허락하다**. | 주로 잘못이나 사실을 '인정'할 때 사용하며, 뒤에 동명사나 `that` 절이 옴. |
+| **`assume`** (vt.) | `assume (that) + (절)` | **추정하다, 가정하다**. (책임을) **맡다**. | 증거 없이 '추정'하거나, 역할이나 책임을 '떠맡는' 의미. |
+| **`exchange`** (n./vt.) | `exchange A for B` | **교환, 교류**. 동사로는 **교환하다**. | 물건이나 정보를 서로 주고받는 행위. |
+| **`replace`** (vt.) | `replace A with B` | **대체하다, 교체하다**. | 기존의 것을 다른 것으로 바꾸는 행위. |
+| **`bear`** (vt./n.) | `bear + (무게/책임/고통)` | **견디다, 참다**. (아이를) **낳다**. 명사로는 **곰**. | 다양한 의미를 가지므로 문맥 파악이 중요. 특히 '견디다'와 '낳다'는 자주 쓰임. |
+| **`intend`** (vt.) | `intend to + V` | **~할 작정이다, 의도하다**. | 미래에 대한 계획이나 목적을 나타낼 때 사용. |
+| **`balance`** (n./v.) | `strike a balance between A and B` | **균형, 조화**. 동사로는 **균형을 잡다**. | 다양한 요소들 사이의 '균형'을 강조. |
+| **`aware`** (a.) | `be aware of + (사실/상황)` | **~을 알고 있는, 인식하는**. | 어떤 사실이나 상황을 인지하고 있는 상태. |
+| **`discover`** (vt.) | `discover + (새로운 사실/장소)` | **발견하다, 알아내다**. | 이전에 몰랐던 것을 찾아내거나 깨닫는 행위. |
+| **`prevent`** (v.) | `prevent A from V-ing` | **막다, 예방하다**. | 어떤 일이 일어나지 않도록 방지하는 행위. |
+| **`copy`** (n./v.) | `make a copy of + (문서)` | **사본, 복사본**. 동사로는 **복사하다, 모방하다**. | 원본과 동일하게 만드는 행위 또는 결과물. |
+| **`target`** (n./v.) | `target + (대상)` | **목표, 대상**. 동사로는 **목표로 삼다**. | 달성하고자 하는 목적이나 공격의 대상. |
+| **`ability`** (n.) | `have the ability to + V` | **능력, 재능**. | 어떤 일을 할 수 있는 역량. |
+| **`reveal`** (vt.) | `reveal + (비밀/정보)` | **드러내다, 밝히다**. | 숨겨져 있던 사실이나 정보를 공개하는 행위. |
+| **`operate`** (vi.) | `operate + (기계/시스템)` | **작동하다, 운영하다**. (수술을) **집도하다**. | 기계나 시스템이 움직이거나, 사업 등을 관리하는 행위. |
+| **`depend`** (vi.) | `depend on + (사람/상황)` | **~에 의존하다, 달려있다**. | 어떤 것에 의해 결과가 결정되거나 도움을 받는 상황. |
+| **`enable`** (vt.) | `enable + (사람) + to V` | **~을 가능하게 하다**. | 어떤 사람이 특정 행동을 할 수 있도록 여건을 만들어주는 것. |
+| **`stock`** (n./v.) | `in stock` | **재고, 주식**. 동사로는 **재고를 쌓다**. | 상점의 '재고'나 회사의 '주식'을 의미. |
+| **`attend`** (vt.) | `attend + (회의/수업)` | **참석하다, 출석하다**. | 특정 장소나 행사에 가는 행위. |
+| **`reform`** (n./vt.) | `carry out reform` | **개혁, 개선**. 동사로는 **개혁하다**. | 시스템이나 제도를 더 좋게 바꾸는 행위 또는 그 결과. |
+| **`objective`** (n./a.) | `achieve an objective` | **목표, 목적**. 형용사로는 **객관적인**. | 달성하고자 하는 목표. 형용사일 때는 개인적인 감정 없이 '객관적인'을 의미. |
+| **`master`** (n./v.) | `master + (기술/언어)` | **대가, 주인**. 동사로는 **완전히 익히다, 숙달하다**. | 어떤 분야에 능숙한 사람 또는 그 기술을 완벽히 습득하는 행위. |
+| **`perform`** (vt.) | `perform + (업무/공연)` | **수행하다, 공연하다**. | 특정 임무를 하거나 무대에서 연기를 하는 행위. |
+| **`protect`** (v.) | `protect A from B` | **보호하다, 지키다**. | 위험이나 손상으로부터 안전하게 지키는 행위. |
+| **`confirm`** (vt.) | `confirm + (예약/정보)` | **확인하다, 확정하다**. | 사실 여부를 다시 한번 확인하거나 예약을 확정하는 행위. |
+| **`adopt`** (vt.) | `adopt + (아이/정책)` | **입양하다, 채택하다**. | 아이를 가족으로 받아들이거나 새로운 정책을 받아들이는 행위. |
+| **`estimate`** (vt./n.) | `estimate + (비용/시간)` | **추정하다, 평가하다**. 명사로는 **추정치, 견적**. | 정확하지는 않지만 대략적인 수치나 가치를 계산하는 행위. |
+| **`launch`** (vt./n.) | `launch a product/campaign` | (제품을) **출시하다**, (로켓을) **발사하다**. 명사로는 **출시, 발사**. | 새로운 것을 시작하거나 쏘아 올리는 행위. |
+| **`focus`** (v./n.) | `focus on + (주제)` | **집중하다, 초점을 맞추다**. 명사로는 **초점**. | 주의를 한 곳에 모으는 행위. |
+| **`track`** (n./v.) | `keep track of + (정보)` | **흔적, 길**. 동사로는 **추적하다**. | 발자국이나 바퀴 자국 같은 '흔적' 또는 어떤 대상을 '추적'하는 행위. |
+| **`stress`** (v./n.) | `put stress on + (부분)` | **강조하다**. 명사로는 **스트레스, 강조**. | 중요성을 부각시키거나 정신적 압박을 느끼는 상태. |
+| **`block`** (n./v.) | `block + (길/시야)` | **덩어리, 구역**. 동사로는 **막다, 방해하다**. | 물리적으로 길을 막거나 진행을 방해하는 행위. |
+| **`advance`** (n./vi./a.) | `in advance` | **전진, 발전**. 동사로는 **전진하다**. 형용사로는 **사전의**. | 앞으로 나아가거나 발전하는 것. `in advance`는 '미리'라는 뜻. |
+| **`respect`** (n./vt.) | `show respect for + (사람)` | **존경, 존중**. 동사로는 **존경하다**. | 상대방의 가치나 권위를 인정하고 존중하는 태도. |
+| **`imagine`** (vt.) | `imagine + V-ing / (that 절)` | **상상하다, 생각하다**. | 머릿속으로 그림을 그리거나 가능성을 생각하는 행위. |
+| **`count`** (v./n.) | `count on + (사람)` | **세다, 계산하다**. **중요하다**. 명사로는 **계산**. | 숫자를 세는 행위 외에 '중요하다'는 의미도 있음. `count on`은 '의지하다'. |
+| **`struggle`** (n./vi.) | `struggle with/for + (어려움/목표)` | **투쟁, 고군분투**. 동사로는 **고군분투하다**. | 어려운 상황에서 벗어나기 위해 노력하는 행위. |
+| **`suit`** (v./n.) | `suit + (사람)` | **적합하다, 어울리다**. 명사로는 **정장, 소송**. | 옷이 잘 어울리거나 상황에 적합한 것. |
+| **`worry`** (vi./n.) | `worry about + (문제)` | **걱정하다**. 명사로는 **걱정**. | 불안하거나 두려운 감정을 느끼는 것. |
+| **`conduct`** (vt./n.) | `conduct an experiment/survey` | **수행하다, 지휘하다**. 명사로는 **행동, 수행**. | 연구나 조사를 실행하거나 오케스트라를 지휘하는 행위. |
+| **`overall`** (a./ad.) | `overall impression` | **전반적인, 종합적인**. 부사로는 **전반적으로**. | 모든 것을 포함한 총체적인 관점. |
+| **`collect`** (v.) | `collect + (물건/정보)` | **모으다, 수집하다**. | 여러 개를 한데 모으는 행위. |
+| **`guide`** (n./vt.) | `guide + (사람) + through (장소)` | **안내자, 지침**. 동사로는 **안내하다**. | 길을 알려주거나 방향을 제시하는 사람 또는 행위. |
+| **`employ`** (vt.) | `employ + (사람)` | **고용하다**. (기술 등을) **사용하다**. | 사람을 일에 쓰거나 특정 방법을 사용하는 것. |
+| **`consequence`** (n.) | `as a consequence` | **결과, 영향**. | 어떤 행동이나 사건으로 인해 발생하는 결과. |
+| **`flow`** (n./vt.) | `the flow of traffic` | **흐름, 유동**. 동사로는 **흐르다**. | 물이나 공기, 정보 등이 끊임없이 움직이는 것. |
+| **`proportion`** (n.) | `a large proportion of` | **비율, 부분**. | 전체에서 차지하는 부분의 크기나 비율. |
+| **`relevant`** (a.) | `be relevant to + (주제)` | **관련된, 적절한**. | 특정 주제나 상황과 직접적인 관계가 있는 것. |
+| **`correct`** (a./v.) | `correct a mistake` | **정확한, 올바른**. 동사로는 **수정하다**. | 오류가 없거나 사실과 일치하는 것. |
+| **`assessment`** (n.) | `make an assessment` | **평가, 판단**. | 어떤 것의 가치나 상태를 판단하는 행위. |
+| **`impact`** (n.) | `have an impact on + (대상)` | **영향, 충격**. | 강한 영향을 미치거나 충돌하는 것. |
+| **`emerge`** (vi.) | `emerge from + (장소/상황)` | **나타나다, 출현하다**. | 숨겨져 있거나 알려지지 않았던 것이 밖으로 드러나는 것. |
+| **`spread`** (vt./n.) | `spread the news` | **퍼뜨리다, 확산시키다**. 명사로는 **확산**. | 정보나 질병 등이 넓게 퍼지는 것. |
+| **`deny`** (vt.) | `deny + V-ing / (that 절)` | **부인하다, 거부하다**. | 사실이 아니라고 말하거나 요청을 거절하는 행위. |
+| **`spot`** (n./v.) | `spot a mistake` | **점, 장소**. 동사로는 **발견하다**. | 작은 점이나 특정 장소. 동사로는 '찾아내다'. |
+| **`appoint`** (vt.) | `appoint + (사람) + as (직책)` | **임명하다, 지명하다**. | 특정 직책이나 역할에 사람을 공식적으로 배치하는 것. |
+| **`escape`** (vt./n.) | `escape from + (장소/상황)` | **탈출하다, 도망치다**. 명사로는 **탈출**. | 위험한 상황이나 장소에서 벗어나는 것. |
+| **`feed`** (vt./n.) | `feed + (동물/아이)` | **먹이를 주다, 공급하다**. 명사로는 **먹이**. | 음식이나 정보를 제공하는 행위. |
+| **`equal`** (a./v.) | `be equal to + (값/수준)` | **동등한, 같은**. 동사로는 **~와 같다**. | 크기, 가치, 수준 등이 동일한 것. |
+| **`instead`** (ad.) | `instead of + V-ing / (명사)` | **대신에**. | 어떤 것 대신에 다른 것을 선택할 때 사용. |
+| **`conclusion`** (n.) | `draw a conclusion` | **결론, 결말**. | 논의나 연구의 최종 결과. |
+| **`justice`** (n.) | `seek justice` | **정의, 공정성**. | 올바르고 공정한 상태. |
+| **`secure`** (v./a.) | `secure a loan` | **안전하게 하다, 확보하다**. 형용사로는 **안전한**. | 위험으로부터 보호하거나 필요한 것을 얻는 행위. |
+| **`observe`** (vt.) | `observe + (현상/규칙)` | **관찰하다, 준수하다**. | 주의 깊게 보거나 규칙을 따르는 행위. |
+| **`repeat`** (vt./n.) | `repeat after me` | **반복하다, 되풀이하다**. 명사로는 **반복**. | 같은 행동이나 말을 다시 하는 것. |
+| **`belief`** (n.) | `have a belief in + (신념)` | **믿음, 신념**. | 어떤 것이 사실이라고 생각하는 확신. |
+| **`relative`** (a./n.) | `relative to + (기준)` | **상대적인, 관련된**. 명사로는 **친척**. | 다른 것과 비교하여 판단되는 것. |
+| **`handle`** (v./n.) | `handle a situation` | **다루다, 처리하다**. 명사로는 **손잡이**. | 문제나 상황을 관리하거나 해결하는 행위. |
+| **`conflict`** (n./v.) | `conflict with + (의견/규칙)` | **갈등, 충돌**. 동사로는 **충돌하다**. | 의견이나 이해관계가 서로 부딪히는 상황. |
+| **`purchase`** (n./v.) | `make a purchase` | **구매, 구입**. 동사로는 **구매하다**. | 물건을 사는 행위. |
+| **`decline`** (n./vi.) | `be in decline` | **하락, 감소**. 동사로는 **감소하다, 거절하다**. | 수치나 상태가 줄어들거나, 제안을 거절하는 행위. |
+| **`ignore`** (v.) | `ignore + (경고/사람)` | **무시하다, 간과하다**. | 의도적으로 주의를 기울이지 않거나 못 본 척하는 행위. |
+| **`settle`** (v.) | `settle down` | **정착하다, 해결하다**. | 새로운 장소에 자리 잡거나 문제를 해결하는 것. |
+| **`reality`** (n.) | `in reality` | **현실, 실제**. | 실제로 존재하는 사실이나 상황. |
+
+### 3. 🏋️ 실전 연습문제 & 인터랙티브 자가 점검 드릴 (Interactive Practice Drills)
+#### **문제 1**
+The company tried to _______ a new market for its products in Asia.
+a) avoid
+b) obtain
+c) launch
+d) suffer
+
+||[정답] c) launch||
+
+**💡 상세 해설 & 오답 분석**:
+- **정답 이유**: `launch`는 '새로운 제품이나 서비스를 출시하다' 또는 '새로운 시장을 개척하다'라는 의미로 사용됩니다. 문맥상 아시아에서 새로운 시장을 '개척하려 했다'는 의미가 가장 적절합니다.
+- **오답 보기 분석**:
+  - a) `avoid`: '피하다'는 의미로, 새로운 시장을 피하려 했다는 것은 문맥상 어색합니다.
+  - b) `obtain`: '획득하다, 얻다'는 의미이지만, 시장을 '획득하다'는 표현보다는 '개척하다'가 더 자연스럽습니다.
+  - d) `suffer`: '(고통을) 겪다, 시달리다'는 의미로, 문맥과 전혀 맞지 않습니다.
+
+#### **문제 2**
+It's important to _______ a good work-life balance.
+a) prevent
+b) maintain
+c) ignore
+d) deny
+
+||[정답] b) maintain||
+
+**💡 상세 해설 & 오답 분석**:
+- **정답 이유**: `maintain`은 '유지하다, 보존하다'라는 의미로, '일과 삶의 균형을 잘 유지하는 것'이 중요하다는 문맥에 가장 적합합니다.
+- **오답 보기 분석**:
+  - a) `prevent`: '막다, 예방하다'는 의미로, 균형을 막는다는 것은 어색합니다.
+  - c) `ignore`: '무시하다'는 의미로, 균형을 무시하는 것은 바람직하지 않습니다.
+  - d) `deny`: '부인하다, 거부하다'는 의미로, 균형을 부인한다는 것은 문맥상 맞지 않습니다.
+
+#### **문제 3**
+She had to _______ her flight due to a sudden illness.
+a) assume
+b) remove
+c) cancel
+d) reflect
+
+||[정답] c) cancel||
+
+**💡 상세 해설 & 오답 분석**:
+- **정답 이유**: '갑작스러운 병 때문에 비행을 취소해야 했다'는 문맥이 자연스러우므로 `cancel` (취소하다)이 정답입니다. (원문에는 `cancel`이 없지만, 문맥상 가장 적절한 단어를 복원했습니다.)
+- **오답 보기 분석**:
+  - a) `assume`: '추정하다, 맡다'는 의미로, 비행을 추정하거나 맡는 것은 어색합니다.
+  - b) `remove`: '제거하다'는 의미로, 비행을 제거한다는 것은 문맥상 맞지 않습니다.
+  - d) `reflect`: '반영하다, 숙고하다'는 의미로, 비행을 반영하거나 숙고하는 것은 어색합니다.
+
+#### **문제 4**
+The scientist tried to _______ the cause of the strange phenomenon.
+a) determine
+b) propose
+c) suffer
+d) trust
+
+||[정답] a) determine||
+
+**💡 상세 해설 & 오답 분석**:
+- **정답 이유**: `determine`은 '결정하다, 알아내다'라는 의미로, 과학자가 이상한 현상의 원인을 '알아내려 했다'는 문맥에 가장 적합합니다.
+- **오답 보기 분석**:
+  - b) `propose`: '제안하다'는 의미로, 원인을 제안하는 것보다는 알아내는 것이 과학자의 역할에 더 가깝습니다.
+  - c) `suffer`: '(고통을) 겪다'는 의미로, 문맥상 맞지 않습니다.
+  - d) `trust`: '신뢰하다'는 의미로, 원인을 신뢰한다는 것은 어색합니다.
+
+#### **문제 5**
+He found it hard to _______ his feelings after the accident.
+a) obtain
+b) express
+c) ignore
+d) avoid
+
+||[정답] b) express||
+
+**💡 상세 해설 & 오답 분석**:
+- **정답 이유**: '사고 후에 자신의 감정을 표현하기 어려웠다'는 문맥이 자연스러우므로 `express` (표현하다)가 정답입니다. (원문에는 `express`가 없지만, `expression` (표현)이라는 단어가 있으므로 관련 동사로 복원했습니다.)
+- **오답 보기 분석**:
+  - a) `obtain`: '획득하다'는 의미로, 감정을 획득한다는 것은 어색합니다.
+  - c) `ignore`: '무시하다'는 의미로, 감정을 무시하는 것은 가능하지만 '표현하기 어렵다'는 맥락과는 다릅니다.
+  - d) `avoid`: '피하다'는 의미로, 감정을 피하는 것은 가능하지만 '표현'의 반대 개념으로 보기는 어렵습니다.
+
+### 4. 🧠 핵심 문장 암기 & 스피킹 훈련 매트릭스 (Key Sentence Mastery Matrix)
+| 번호 | 영문 실전 문장 | 자연스러운 한국어 번역 | 핵심 문법 & 발음 팁 |
+|:---:|---|---|---|
+| 1 | We need to **obtain** more information before making a decision. | 결정을 내리기 전에 더 많은 정보를 **얻어야** 합니다. | `obtain`은 `get`보다 격식 있고 노력의 의미가 강합니다. `obtain more information` (더 많은 정보를 얻다). |
+| 2 | Please **check** your answers carefully before submitting the test. | 시험을 제출하기 전에 답을 신중하게 **확인하세요**. | `check`는 '확인하다'는 의미로 자주 쓰입니다. `check your answers` (답을 확인하다). |
+| 3 | She didn't **mention** anything about her new job. | 그녀는 새 직장에 대해 아무것도 **언급하지** 않았어요. | `mention`은 '간단히 언급하다'는 뉘앙스입니다. `mention anything` (무엇이든 언급하다). |
+| 4 | I **trust** him completely with my secrets. | 저는 그에게 제 비밀을 완전히 **믿고** 맡깁니다. | `trust`는 '신뢰하다'는 의미로, 깊은 믿음을 나타냅니다. `trust someone with something`. |
+| 5 | How do you **treat** your employees? | 직원들을 어떻게 **대우하시나요**? | `treat`는 '대우하다' 또는 '다루다'는 의미로 사용됩니다. `treat employees` (직원들을 대우하다). |
+| 6 | The university **granted** him a scholarship. | 그 대학은 그에게 장학금을 **주었습니다**. | `grant`는 공식적으로 '주다, 승인하다'는 의미입니다. `grant a scholarship` (장학금을 주다). |
+| 7 | His strong **character** helped him overcome the difficulties. | 그의 강한 **성격**이 그가 어려움을 극복하는 데 도움이 되었습니다. | `character`는 '성격, 인격'을 의미합니다. `strong character` (강한 성격). |
+| 8 | This is a very **serious** matter that requires immediate attention. | 이것은 즉각적인 주의가 필요한 매우 **심각한** 문제입니다. | `serious`는 '심각한' 또는 '진지한'을 의미합니다. `serious matter` (심각한 문제). |
+| 9 | The idea suddenly **struck** me while I was walking. | 걷고 있는데 갑자기 그 생각이 **떠올랐습니다**. | `strike`는 '치다' 외에 '생각이 떠오르다'는 의미도 있습니다. `the idea struck me`. |
+| 10 | The old painting is **worth** a lot of money. | 그 오래된 그림은 많은 돈의 **가치가 있습니다**. | `worth`는 '~할 가치가 있는'이라는 전치사입니다. `be worth money`. |
+| 11 | Many people **suffer** from seasonal allergies. | 많은 사람들이 계절성 알레르기로 **고통받습니다**. | `suffer from`은 '~으로 고통받다'는 의미입니다. `suffer from allergies`. |
+| 12 | It's hard to **maintain** a long-distance relationship. | 장거리 연애를 **유지하는** 것은 어렵습니다. | `maintain`은 '유지하다'는 의미로 자주 쓰입니다. `maintain a relationship`. |
+| 13 | The author will **publish** her new novel next month. | 그 작가는 다음 달에 새 소설을 **출판할** 것입니다. | `publish`는 '출판하다'는 의미입니다. `publish a novel`. |
+| 14 | We need to **address** the issue of climate change urgently. | 우리는 기후 변화 문제에 시급히 **대처해야** 합니다. | `address`는 '문제에 대처하다'는 의미로 사용됩니다. `address the issue`. |
+| 15 | I **regard** him as a true friend. | 저는 그를 진정한 친구로 **여깁니다**. | `regard A as B`는 'A를 B로 여기다'는 중요한 구문입니다. |
+| 16 | You should **avoid** eating too much sugar. | 설탕을 너무 많이 먹는 것을 **피해야** 합니다. | `avoid` 뒤에는 동명사(`-ing`)가 옵니다. `avoid eating`. |
+| 17 | I **suppose** it's going to rain later. | 나중에 비가 올 **것 같아요**. | `suppose`는 '추정하다, ~일 것 같다'는 의미입니다. `I suppose (that)`. |
+| 18 | They decided to **separate** their business from their personal finances. | 그들은 사업과 개인 재정을 **분리하기로** 결정했습니다. | `separate A from B`는 'A를 B로부터 분리하다'는 의미입니다. |
+| 19 | We need to **determine** the best course of action. | 우리는 최선의 행동 방침을 **결정해야** 합니다. | `determine`은 '결정하다, 알아내다'는 의미입니다. `determine the best course`. |
+| 20 | Children **tend to** ask a lot of questions. | 아이들은 질문을
+
+---
+
+## 📖 영어 단어 Word Master 1권: Unit 57-73 (핵심 어휘 마스터)
+
+### 1. 🧭 단원 개요 및 핵심 학습 목표 (Overview & Targets)
+- **주요 학습 테마**: 일상생활, 비즈니스, 사회 현상 등 다양한 맥락에서 사용되는 필수 영단어 400개 학습 및 활용.
+- **원어민 사고방식 핵심 요약**: 단어의 핵심 의미뿐만 아니라, 품사별 활용, 동의어/유의어, 그리고 실제 문장에서의 뉘앙스를 파악하여 자연스러운 영어 표현 능력을 기릅니다.
+
+### 2. 🎯 핵심 공식 & 원어민 뉘앙스 매트릭스 (Rule & Nuance Matrix)
+
+| 구분 / 유닛 | 핵심 공식 & 구조 | 원어민 실제 뉘앙스 & 용법 | 한국인 학습자 단골 함정 (Pitfalls) |
+|---|---|---|---|
+| **insist (v.)** | `insist on/that S + (should) V` | 강하게 주장하거나 요구할 때 사용. 상대방의 반대에도 불구하고 자신의 의견을 굽히지 않는 뉘앙스. | 단순히 '주장하다'로만 암기하여 `insist to`와 같이 잘못된 전치사를 사용하는 경우. `should` 생략 가능성에 유의. |
+| **fairly (ad.)** | `fairly + 형용사/부사` | '꽤, 상당히'라는 의미로, 긍정적이거나 중립적인 맥락에서 사용. `quite`와 유사하나 `quite`보다 덜 강함. | `rather`와 혼동하여 부정적인 맥락에 사용하는 경우. (예: `fairly bad`는 어색) |
+| **switch (v./n.)** | `switch A for B` (교환), `switch on/off` (켜다/끄다) | '바꾸다, 전환하다'의 의미가 강하며, 전기 스위치처럼 즉각적인 변화를 나타낼 때 자주 쓰임. | 단순히 '변화'의 의미로만 알아서 `change`와 무분별하게 혼용하는 경우. |
+| **divide (vt.)** | `divide A into B` (나누다), `divide A and B` (분할하다) | 전체를 여러 부분으로 나누거나, 의견이 갈라지는 상황에 사용. | `separate`와 혼동하여 '분리하다'의 의미로만 사용하는 경우. `divide`는 '분할'의 의미가 더 강함. |
+| **loan (n./v.)** | `take out a loan` (대출받다), `loan A to B` (빌려주다) | 돈이나 물건을 '빌려주다' 또는 '대출'의 의미. 일시적인 대여에 사용. | `borrow`와 혼동하여 주체를 잘못 사용하는 경우. (loan은 빌려주는 주체, borrow는 빌리는 주체) |
+| **promote (v.)** | `promote a product/idea`, `promote to a higher position` | 상품, 아이디어 등을 '홍보하다' 또는 직책을 '승진시키다' 두 가지 주요 의미. | '장려하다'의 의미만 알아서 마케팅 맥락에서 사용하지 못하는 경우. |
+| **narrow (a./v.)** | `narrow down` (좁히다), `narrow escape` (아슬아슬한 탈출) | 폭이 '좁은' 또는 범위를 '좁히다'의 의미. 물리적인 공간뿐 아니라 개념적인 범위에도 사용. | `small`과 혼동하여 크기가 작은 것을 의미하는 것으로 오해하는 경우. `narrow`는 폭에 집중. |
+| **deliver (vt.)** | `deliver a package/speech`, `deliver on a promise` | 물건을 '배달하다', 연설을 '하다', 약속을 '지키다' 등 다양한 의미로 활용. | 단순히 '배달하다'로만 알아서 연설이나 약속 이행에 사용하지 못하는 경우. |
+| **retain (vt.)** | `retain information/employees` | '유지하다, 보유하다'의 의미. 특히 중요한 정보나 인력을 잃지 않고 지키는 뉘앙스. | `keep`과 유사하나, `retain`은 좀 더 공식적이거나 의도적으로 유지하는 느낌이 강함. |
+| **pack (v./n.)** | `pack a suitcase`, `pack up`, `a pack of cards` | 짐을 '싸다', 물건을 '포장하다' 또는 '묶음, 꾸러미'의 의미. | `unpack`의 반대 개념으로만 알아서 다른 용법을 놓치는 경우. |
+| **reject (vt./n.)** | `reject an offer/idea` | '거절하다, 거부하다'의 의미. 단호하게 받아들이지 않는 뉘앙스. | `refuse`와 유사하나, `reject`는 제안이나 물건 자체를 받아들이지 않는 것에 더 가깝다. |
+| **climb (vt./n.)** | `climb a mountain`, `climb up/down` | '오르다, 등반하다'의 의미. 위로 올라가는 움직임. | `go up`과 혼동하여, `climb`이 더 능동적이고 힘든 움직임을 나타냄을 간과하는 경우. |
+| **belong (vi.)** | `belong to N`, `belong in/on/with N` | '어디에 속하다, ~의 것이다'. 소유나 소속감을 나타냄. | 진행형으로 사용하지 않음 (`be belonging to`는 비문). |
+| **attract (vt.)** | `attract attention/customers` | '끌어당기다, 매혹하다'. 관심이나 사람을 끄는 행위. | `appeal to`와 유사하나, `attract`는 좀 더 물리적이거나 시각적인 매력에 가깝다. |
+| **contribute (v.)** | `contribute to N` (기여하다), `contribute money/articles` (기부/기고하다) | '기여하다, 공헌하다' 또는 '기부하다, 기고하다'의 의미. | `donate`와 혼동하여, `contribute`가 더 넓은 의미의 기여를 포함함을 간과하는 경우. |
+| **assess (vt.)** | `assess damage/risk` | '평가하다, 사정하다'. 가치나 위험 등을 판단하는 행위. | `evaluate`와 유사하나, `assess`는 주로 손상, 위험, 세금 등 특정 가치를 매기는 데 사용. |
+| **consist (vi.)** | `consist of N` (구성되다), `consist in N` (본질이 ~에 있다) | '구성되다, 이루어져 있다'의 의미. 주로 `of`와 함께 사용. | 진행형으로 사용하지 않음 (`be consisting of`는 비문). `comprise`와 혼동. |
+| **arrest (vt./n.)** | `arrest a suspect`, `under arrest` | '체포하다' 또는 '체포'의 의미. 법적 구속 행위. | `catch`와 혼동하여, `arrest`가 법적 권한에 의한 구속임을 간과하는 경우. |
+| **guarantee (vt./n.)** | `guarantee quality/satisfaction` | '보장하다, 보증하다' 또는 '보증, 보장'의 의미. | `ensure`와 유사하나, `guarantee`는 더 강력한 확신이나 법적 책임을 수반하는 경우가 많다. |
+| **remind (vt.)** | `remind A of B`, `remind A to V` | '상기시키다, 생각나게 하다'. 잊고 있던 것을 다시 떠올리게 함. | `remember`와 혼동하여 주체를 잘못 사용하는 경우. (`remind`는 타동사, `remember`는 자동사/타동사 모두 가능) |
+| **generate (vt.)** | `generate electricity/ideas/revenue` | '생성하다, 발생시키다'. 에너지, 아이디어, 수익 등을 만들어내는 행위. | `create`와 유사하나, `generate`는 좀 더 체계적이거나 대량으로 만들어내는 뉘앙스. |
+| **investigate (vt.)** | `investigate a crime/problem` | '조사하다, 수사하다'. 문제나 범죄의 원인을 파헤치는 행위. | `research`와 혼동하여, `investigate`가 특정 사건이나 문제에 대한 심층 조사를 의미함을 간과하는 경우. |
+| **warn (vt.)** | `warn A of B`, `warn A against V-ing`, `warn that S V` | '경고하다, 주의를 주다'. 위험이나 좋지 않은 상황에 대해 미리 알려줌. | `advise`와 혼동하여, `warn`이 더 강한 위험 경고의 뉘앙스를 가짐을 간과하는 경우. |
+| **impose (v.)** | `impose a tax/rule on N`, `impose on N` (부담을 주다) | '부과하다, 강요하다'. 세금, 규칙 등을 강제로 적용하거나 부담을 주는 행위. | `force`와 유사하나, `impose`는 주로 권위나 법적 절차에 의해 부과하는 뉘앙스. |
+| **recall (vt./n.)** | `recall a memory/product` | '기억해내다, 회수하다' 또는 '기억, 회수'의 의미. | `remember`와 `retrieve`의 의미를 모두 포함하며, 특히 제품 회수에도 사용됨. |
+| **destroy (vt.)** | `destroy a building/evidence` | '파괴하다, 망가뜨리다'. 완전히 없애버리는 행위. | `damage`와 혼동하여, `destroy`가 복구 불가능한 수준의 파괴를 의미함을 간과하는 경우. |
+| **declare (vt.)** | `declare war/independence`, `declare that S V` | '선언하다, 공표하다'. 공식적으로 어떤 사실이나 의사를 밝히는 행위. | `announce`와 유사하나, `declare`는 좀 더 공식적이고 중대한 선언에 사용. |
+| **recognize (vt.)** | `recognize a face/problem` | '알아보다, 인정하다'. 이전에 본 것을 식별하거나 어떤 사실을 받아들이는 행위. | `know`와 혼동하여, `recognize`가 '다시 알아보다' 또는 '공식적으로 인정하다'의 뉘앙스를 가짐을 간과하는 경우. |
+| **recommend (vt.)** | `recommend N to N`, `recommend that S (should) V` | '추천하다, 권하다'. 특정 대상이나 행동을 좋다고 제안하는 행위. | `suggest`와 유사하나, `recommend`는 좀 더 적극적으로 '좋다'고 보증하는 뉘앙스. |
+| **undertake (vt.)** | `undertake a task/project` | '착수하다, 떠맡다'. 어떤 일이나 책임을 맡아 시작하는 행위. | `start`나 `begin`과 유사하나, `undertake`는 좀 더 공식적이고 책임감 있는 시작을 의미. |
+| **realize (vt.)** | `realize a dream/potential`, `realize that S V` | '깨닫다, 실현하다'. 어떤 사실을 인지하거나 꿈을 현실로 만드는 행위. | `understand`와 `achieve`의 의미를 모두 포함하며, 문맥에 따라 다르게 해석될 수 있음. |
+| **smoke (n./v.)** | `cigarette smoke`, `smoke a cigarette` | '연기' 또는 '담배를 피우다'의 의미. | 동사로 사용할 때 '담배를 피우다' 외에 '연기가 나다'의 자동사 용법도 있음. |
+| **wash (vt./n.)** | `wash clothes/hands`, `give N a wash` | '씻다, 세탁하다' 또는 '세탁, 씻기'의 의미. | `clean`과 혼동하여, `wash`는 주로 물을 사용하여 씻는 행위를 의미함을 간과하는 경우. |
+| **taste (n./v.)** | `have a good taste`, `taste sweet` | '맛, 미각' 또는 '맛이 나다, 맛보다'의 의미. | `flavor`와 혼동하여, `taste`는 미각 자체나 맛을 느끼는 행위를 의미함을 간과하는 경우. |
+| **defeat (n./v.)** | `suffer a defeat`, `defeat an enemy` | '패배' 또는 '패배시키다'의 의미. | `lose`와 혼동하여, `defeat`는 주로 '상대방을 이기다' 또는 '패배를 겪다'의 타동사/명사 용법. |
+| **export (n./vt.)** | `export goods`, `an export company` | '수출' 또는 '수출하다'의 의미. | `import`의 반대 개념. |
+| **mix (vt./n.)** | `mix ingredients`, `a mix of cultures` | '섞다, 혼합하다' 또는 '혼합물'의 의미. | `blend`와 유사하나, `mix`는 좀 더 일반적인 '섞다'의 의미. |
+| **favour (v./n.)** | `do N a favour`, `in favour of N` | '호의를 보이다, 찬성하다' 또는 '호의, 친절'의 의미. | `favor` (미국식 철자)와 `favour` (영국식 철자)의 차이. |
+| **disappear (vi.)** | `disappear completely` | '사라지다, 없어지다'. | `vanish`와 유사하나, `disappear`는 좀 더 일반적인 '보이지 않게 되다'의 의미. |
+| **organise (v.)** | `organise an event/meeting` | '조직하다, 준비하다'. (영국식 철자) | `organize` (미국식 철자)와 동일. |
+| **illustrate (v.)** | `illustrate a book`, `illustrate a point` | '삽화를 넣다, 설명하다'. 그림으로 보여주거나 예시를 들어 설명. | `explain`과 유사하나, `illustrate`는 시각적인 요소나 구체적인 예시를 통한 설명을 강조. |
+| **imply (vt.)** | `imply that S V`, `imply a meaning` | '암시하다, 넌지시 비추다'. 직접적으로 말하지 않고 의미를 내포. | `infer`와 혼동하여, `imply`는 '말하는 사람이 암시하다', `infer`는 '듣는 사람이 추론하다'. |
+| **conclude (vt.)** | `conclude a meeting/agreement`, `conclude that S V` | '결론을 내리다, 끝내다'. 회의나 협상을 마무리하거나 판단을 내림. | `finish`나 `end`와 유사하나, `conclude`는 좀 더 공식적이거나 최종적인 마무리를 의미. |
+| **remind (vt.)** | `remind A of B`, `remind A to V` | '상기시키다, 생각나게 하다'. 잊고 있던 것을 다시 떠올리게 함. | `remember`와 혼동하여 주체를 잘못 사용하는 경우. (`remind`는 타동사, `remember`는 자동사/타동사 모두 가능) |
+| **guarantee (vt./n.)** | `guarantee quality/satisfaction` | '보장하다, 보증하다' 또는 '보증, 보장'의 의미. | `ensure`와 유사하나, `guarantee`는 더 강력한 확신이나 법적 책임을 수반하는 경우가 많다. |
+| **warn (vt.)** | `warn A of B`, `warn A against V-ing`, `warn that S V` | '경고하다, 주의를 주다'. 위험이나 좋지 않은 상황에 대해 미리 알려줌. | `advise`와 혼동하여, `warn`이 더 강한 위험 경고의 뉘앙스를 가짐을 간과하는 경우. |
+| **afford (vt.)** | `afford to V`, `afford N` | '(~할) 여유가 되다, 감당하다'. 주로 금전적인 여유를 나타냄. | `can afford` 형태로 자주 사용되며, `can` 없이 `afford`만 쓰는 경우 어색할 수 있음. |
+| **inform (vt.)** | `inform A of B`, `inform A that S V` | '알리다, 통지하다'. 공식적으로 정보를 전달하는 행위. | `tell`과 유사하나, `inform`은 좀 더 공식적이고 구체적인 정보 전달에 사용. |
+| **advise (vt.)** | `advise A to V`, `advise that S (should) V` | '조언하다, 충고하다'. 특정 행동이나 의견을 제안하는 행위. | `suggest`와 유사하나, `advise`는 좀 더 개인적인 경험이나 전문성을 바탕으로 한 조언. |
+| **earn (vt.)** | `earn money/a living/respect` | '벌다, 얻다'. 돈, 생계, 존경 등을 노력하여 얻는 행위. | `get`과 혼동하여, `earn`은 노력이나 대가로 얻는 것을 의미함을 간과하는 경우. |
+| **rely (vi.)** | `rely on N` | '~에 의존하다, ~을 믿다'. | `depend on`과 유사하며, 신뢰와 의존의 의미를 모두 가짐. |
+| **succeed (vi.)** | `succeed in V-ing`, `succeed to N` | '성공하다' 또는 '뒤를 잇다'. | `achieve`와 혼동하여, `succeed`는 결과적인 성공뿐 아니라 계승의 의미도 가짐. |
+| **shock (n./v.)** | `get a shock`, `shock N` | '충격' 또는 '충격을 주다'. | `surprise`보다 더 강하고 부정적인 감정의 충격을 의미. |
+| **proceed (v.)** | `proceed with N`, `proceed to V` | '진행하다, 나아가다'. 어떤 일을 계속하거나 다음 단계로 이동. | `continue`와 유사하나, `proceed`는 좀 더 순서나 절차에 따라 진행되는 뉘앙스. |
+| **ban (v./n.)** | `ban N from V-ing`, `a ban on N` | '금지하다' 또는 '금지'. 공식적으로 허용하지 않는 행위. | `forbid`와 유사하나, `ban`은 좀 더 광범위하고 공식적인 금지를 의미. |
+| **approve (vt.)** | `approve of N`, `approve a plan` | '승인하다, 찬성하다'. 공식적으로 허락하거나 좋다고 인정. | `agree with`와 유사하나, `approve`는 좀 더 공식적인 승인이나 허락의 뉘앙스. |
+| **last (v.)** | `last for N (time)` | '지속되다'. 특정 기간 동안 계속되는 행위. | `continue`와 유사하나, `last`는 주로 시간적인 지속을 의미. |
+| **persuade (vt.)** | `persuade A to V`, `persuade A that S V` | '설득하다'. 상대방이 특정 행동을 하도록 유도하거나 믿게 함. | `convince`와 유사하나, `persuade`는 행동을 유도하는 데 더 중점. |
+| **gather (vt.)** | `gather information/people` | '모으다, 수집하다'. 정보나 사람들을 한데 모으는 행위. | `collect`와 유사하나, `gather`는 좀 더 능동적으로 모으는 뉘앙스. |
+| **blame (vt./n.)** | `blame A for B`, `put the blame on A` | '~을 비난하다, ~의 탓으로 돌리다' 또는 '비난, 책임'. | `criticize`와 혼동하여, `blame`은 주로 잘못에 대한 책임을 묻는 행위. |
+| **quote (vt.)** | `quote N from N`, `quote that S V` | '인용하다, 언급하다'. 다른 사람의 말이나 글을 그대로 가져와 사용. | `cite`와 유사하나, `quote`는 좀 더 구어체적인 맥락에서도 사용. |
+| **cast (vt.)** | `cast a shadow/vote`, `cast doubt on N` | '던지다, 드리우다'. 그림자, 표 등을 던지거나 의심을 드리우는 행위. | `throw`와 유사하나, `cast`는 좀 더 비유적이거나 특정 목적을 가진 '던지다'의 의미. |
+| **derive (vt.)** | `derive N from N` | '~에서 얻다, 유래하다'. 어떤 원천으로부터 무언가를 이끌어내거나 파생. | `obtain`과 유사하나, `derive`는 주로 추상적인 개념이나 기원을 나타낼 때 사용. |
+| **recover (vt.)** | `recover from an illness/loss`, `recover stolen goods` | '회복하다, 되찾다'. 병에서 낫거나 잃어버린 것을 다시 얻는 행위. | `get better`나 `retrieve`의 의미를 모두 포함하며, 문맥에 따라 다르게 해석될 수 있음. |
+| **undertake (vt.)** | `undertake a task/project` | '착수하다, 떠맡다'. 어떤 일이나 책임을 맡아 시작하는 행위. | `start`나 `begin`과 유사하나, `undertake`는 좀 더 공식적이고 책임감 있는 시작을 의미. |
+| **guarantee (vt./n.)** | `guarantee quality/satisfaction` | '보장하다, 보증하다' 또는 '보증, 보장'의 의미. | `ensure`와 유사하나, `guarantee`는 더 강력한 확신이나 법적 책임을 수반하는 경우가 많다. |
+| **remind (vt.)** | `remind A of B`, `remind A to V` | '상기시키다, 생각나게 하다'. 잊고 있던 것을 다시 떠올리게 함. | `remember`와 혼동하여 주체를 잘못 사용하는 경우. (`remind`는 타동사, `remember`는 자동사/타동사 모두 가능) |
+| **investigate (vt.)** | `investigate a crime/problem` | '조사하다, 수사하다'. 문제나 범죄의 원인을 파헤치는 행위. | `research`와 혼동하여, `investigate`가 특정 사건이나 문제에 대한 심층 조사를 의미함을 간과하는 경우. |
+| **generate (vt.)** | `generate electricity/ideas/revenue` | '생성하다, 발생시키다'. 에너지, 아이디어, 수익 등을 만들어내는 행위. | `create`와 유사하나, `generate`는 좀 더 체계적이거나 대량으로 만들어내는 뉘앙스. |
+| **bid (n./vt.)** | `make a bid for N`, `bid for N` | '입찰, 시도' 또는 '입찰하다, 명령하다'. | 경매나 계약에서 가격을 제시하는 행위. |
+| **pause (v./n.)** | `pause for a moment`, `take a pause` | '잠시 멈추다' 또는 '중단'. | `stop`과 유사하나, `pause`는 일시적인 중단을 의미. |
+| **rent (n./v.)** | `pay rent`, `rent a car` | '집세, 임대료' 또는 '임대하다, 빌리다'. | `hire`와 유사하나, `rent`는 주로 장기간의 임대에 사용. |
+| **permit (vt./n.)** | `permit A to V`, `a permit for N` | '허락하다, 허가하다' 또는 '허가증'. | `allow`와 유사하나, `permit`은 좀 더 공식적인 허락을 의미. |
+| **attach (vt.)** | `attach A to B` | '붙이다, 첨부하다'. | `fasten`과 유사하나, `attach`는 좀 더 일반적인 '붙이다'의 의미. |
+| **swing (vi./n.)** | `swing back and forth`, `take a swing` | '흔들리다, 휘두르다' 또는 '그네, 휘두르기'. | `sway`와 유사하나, `swing`은 좀 더 활발하고 큰 움직임을 의미. |
+| **fix (vt.)** | `fix a problem/car`, `fix a date` | '고치다, 수리하다' 또는 '정하다'. | `repair`와 `set`의 의미를 모두 포함하며, 문맥에 따라 다르게 해석될 수 있음. |
+| **bind (vt.)** | `bind N together`, `be bound to V` | '묶다, 결속시키다'. | `tie`와 유사하나, `bind`는 좀 더 강하게 묶거나 의무를 지우는 뉘앙스. |
+| **abuse (n./v.)** | `child abuse`, `abuse power` | '학대, 남용' 또는 '학대하다, 남용하다'. | `misuse`와 유사하나, `abuse`는 더 심각한 부정적 의미를 가짐. |
+| **diet (n./v.)** | `go on a diet`, `diet to lose weight` | '식단, 다이어트' 또는 '다이어트하다'. | `nutrition`과 혼동하여, `diet`는 주로 체중 조절을 위한 식단에 중점. |
+| **explore (vt.)** | `explore a cave/an idea` | '탐험하다, 탐구하다'. 미지의 것을 찾아 나서거나 아이디어를 깊이 연구. | `investigate`와 유사하나, `explore`는 좀 더 개척적이고 발견적인 뉘앙스. |
+| **steal (vt.)** | `steal money/a car` | '훔치다, 도둑질하다'. | `rob`과 혼동하여, `steal`은 물건 자체를 훔치는 행위, `rob`은 사람이나 장소를 터는 행위. |
+| **accuse (vt.)** | `accuse A of B` | '~을 비난하다, 고발하다'. | `blame`과 유사하나, `accuse`는 주로 범죄나 잘못에 대해 공식적으로 비난하는 뉘위스. |
+| **honour (n./v.)** | `do N an honour`, `honour a promise` | '명예, 영광' 또는 '존경하다, 지키다'. (영국식 철자) | `honor` (미국식 철자)와 동일. |
+| **mirror (n./v.)** | `look in the mirror`, `mirror N` | '거울' 또는 '~을 반영하다'. | `reflect`와 유사하나, `mirror`는 좀 더 직접적인 반영을 의미. |
+| **guess (vt./n.)** | `guess the answer`, `take a guess` | '추측하다' 또는 '추측'. | `estimate`와 유사하나, `guess`는 좀 더 불확실하고 직관적인 추측. |
+| **withdraw (vt.)** | `withdraw money/a statement` | '인출하다, 철회하다'. 돈을 빼거나 진술을 취소. | `take out`이나 `retract`의 의미를 모두 포함하며, 문맥에 따라 다르게 해석될 수 있음. |
+| **split (vt./n.)** | `split into two parts`, `a split decision` | '쪼개다, 분열시키다' 또는 '분열, 분할'. | `divide`와 유사하나, `split`은 좀 더 급작스럽거나 강제적인 분열을 의미. |
+| **rush (vi./n.)** | `rush to N`, `in a rush` | '서두르다, 돌진하다' 또는 '혼잡, 돌진'. | `hurry`와 유사하나, `rush`는 좀 더 빠르고 통제되지 않는 움직임을 의미. |
+| **collapse (v./n.)** | `collapse from exhaustion`, `a building collapse` | '무너지다, 붕괴하다' 또는 '붕괴'. | `fall down`과 유사하나, `collapse`는 좀 더 갑작스럽고 완전한 붕괴를 의미. |
+| **exclude (vt.)** | `exclude N from N` | '제외하다, 배제하다'. | `include`의 반대 개념. |
+| **urge (vt./n.)** | `urge A to V`, `feel an urge to V` | '촉구하다, 강요하다' 또는 '충동'. | `encourage`와 유사하나, `urge`는 좀 더 강하고 긴급한 촉구를 의미. |
+| **construct (vt.)** | `construct a building/theory` | '건설하다, 구성하다'. | `build`와 유사하나, `construct`는 좀 더 체계적이고 복잡한 것을 만드는 행위. |
+| **trace (v./n.)** | `trace the origin`, `leave a trace` | '추적하다, 흔적을 찾다' 또는 '흔적'. | `track`과 유사하나, `trace`는 좀 더 미세한 흔적을 따라가는 뉘앙스. |
+| **justify (vt.)** | `justify an action/decision` | '정당화하다, 해명하다'. | `explain`과 유사하나, `justify`는 자신의 행동이나 결정이 옳았음을 증명하는 행위. |
+| **monitor (v./n.)** | `monitor the situation`, `a computer monitor` | '감시하다, 관찰하다' 또는 '모니터'. | `observe`와 유사하나, `monitor`는 좀 더 지속적이고 체계적인 감시를 의미. |
+| **pursue (v.)** | `pursue a goal/career` | '추구하다, 뒤쫓다'. 목표나 경력을 끈기 있게 쫓는 행위. | `chase`와 유사하나, `pursue`는 좀 더 장기적이고 추상적인 목표를 쫓는 뉘앙스. |
+| **schedule (n./v.)** | `on schedule`, `schedule a meeting` | '일정, 시간표' 또는 '일정을 잡다'. | `plan`과 유사하나, `schedule`는 시간과 순서가 정해진 계획을 의미. |
+
+### 3. 🏋️ 실전 연습문제 & 인터랙티브 자가 점검 드릴 (Interactive Practice Drills)
+
+#### **문제 1**
+The company decided to _______ the new product line due to low demand.
+a) promote
+b) insist
+c) reject
+d) retain
+
+||[정답] c) reject||
+
+**💡 상세 해설 & 오답 분석**:
+- **정답 이유**: '낮은 수요 때문에 새로운 제품 라인을 거부하기로 결정했다'는 문맥이 자연스럽습니다. `reject`는 '거부하다, 받아들이지 않다'라는 의미로, 제품 라인을 출시하지 않기로 결정했다는 뜻이 됩니다.
+- **오답 보기 분석**:
+  - a) `promote`: '홍보하다, 승진시키다'. 낮은 수요 때문에 홍보하는 것은 문맥상 어색합니다.
+  - b) `insist`: '주장하다, 고집하다'. 제품 라인에 대해 주장한다는 것은 어색합니다.
+  - d) `retain`: '유지하다, 보유하다'. 낮은 수요 때문에 제품 라인을 유지하는 것은 비합리적입니다.
+
+#### **문제 2**
+She had to _______ her speech to fit within the allotted time.
+a) broaden
+b) narrow
+c) divide
+d) expand
+
+||[정답] b) narrow||
+
+**💡 상세 해설 & 오답 분석**:
+- **정답 이유**: '할당된 시간 안에 맞추기 위해 연설을 좁혀야 했다'는 문맥이 자연스럽습니다. `narrow`는 '좁히다, 줄이다'라는 의미로, 연설의 내용을 압축해야 한다는 뜻입니다.
+- **오답 보기 분석**:
+  - a) `broaden`: '넓히다'. 시간을 맞추기 위해 연설을 넓히는 것은 반대 의미입니다.
+  - c) `divide`: '나누다'. 연설을 나눈다는 것은 어색하며, 시간 제약과 직접적인 관련이 적습니다.
+  - d) `expand`: '확장하다'. `broaden`과 유사하게 반대 의미입니다.
+
+#### **문제 3**
+The committee will _______ the proposal next week.
+a) assess
+b) contribute
+c) belong
+d) attract
+
+||[정답] a) assess||
+
+**💡 상세 해설 & 오답 분석**:
+- **정답 이유**: '위원회는 다음 주에 제안서를 평가할 것이다'는 문맥이 자연스럽습니다. `assess`는 '평가하다, 사정하다'라는 의미로, 제안서의 타당성 등을 검토한다는 뜻입니다.
+- **오답 보기 분석**:
+  - b) `contribute`: '기여하다, 기부하다'. 제안서에 기여한다는 것은 어색합니다.
+  - c) `belong`: '~에 속하다'. 제안서에 속한다는 것은 문법적으로도 의미적으로도 맞지 않습니다.
+  - d) `attract`: '끌어당기다'. 제안서를 끌어당긴다는 것은 어색합니다.
+
+#### **문제 4**
+It's important to _______ on reliable sources for information.
+a) insist
+b) rely
+c) promote
+d) earn
+
+||[정답] b) rely||
+
+**💡 상세 해설 & 오답 분석**:
+- **정답 이유**: '정보를 위해 신뢰할 수 있는 출처에 의존하는 것이 중요하다'는 문맥이 자연스럽습니다. `rely on`은 '~에 의존하다, ~을 믿다'라는 의미입니다.
+- **오답 보기 분석**:
+  - a) `insist`: '주장하다'. 정보원에 주장한다는 것은 어색합니다.
+  - c) `promote`: '홍보하다'. 정보원을 홍보한다는 것은 문맥상 맞지 않습니다.
+  - d) `earn`: '벌다, 얻다'. 정보원을 번다는 것은 어색합니다.
+
+#### **문제 5**
+The company decided to _______ the old machinery and invest in new technology.
+a) retain
+b) destroy
+c) construct
+d) undertake
+
+||[정답] b) destroy||
+
+**💡 상세 해설 & 오답 분석**:
+- **정답 이유**: '회사는 오래된 기계를 파괴하고 새로운 기술에 투자하기로 결정했다'는 문맥이 자연스럽습니다. `destroy`는 '파괴하다, 망가뜨리다'라는 의미로, 오래된 기계를 없애고 새로운 것으로 대체한다는 뜻입니다.
+- **오답 보기 분석**:
+  - a) `retain`: '유지하다'. 새로운 기술에 투자하면서 오래된 기계를 유지하는 것은 비효율적입니다.
+  - c) `construct`: '건설하다'. 기계를 건설한다는 것은 어색합니다.
+  - d) `undertake`: '착수하다, 떠맡다'. 기계를 떠맡는다는 것은 문맥상 맞지 않습니다.
+
+### 4. 🧠 핵심 문장 암기 & 스피킹 훈련 매트릭스 (Key Sentence Mastery Matrix)
+
+| 번호 | 영문 실전 문장 | 자연스러운 한국어 번역 | 핵심 문법 & 발음 팁 |
+|:---:|---|---|---|
+| 1 | She **insisted** that I stay for dinner. | 그녀는 내가 저녁 식사를 하고 가야 한다고 고집했다. | `insist that S (should) V`: `should`는 종종 생략됩니다. `insisted`의 /sɪstɪd/ 발음에 유의. |
+| 2 | The
+
+---
+
+## 📖 영어 단어 Word Master 1권 (우선순위 1-4000): Part 5 (Unit 77-93)
+
+### 1. 🧭 단원 개요 및 핵심 학습 목표 (Overview & Targets)
+- **주요 학습 테마**: 일상생활, 비즈니스, 사회 현상 등 다양한 맥락에서 활용되는 필수 어휘 학습 및 문맥 이해 능력 강화.
+- **원어민 사고방식 핵심 요약**: 단어의 핵심 의미와 파생 의미를 연결하여 이해하고, 품사 변화에 따른 활용법을 익혀 실제 대화 및 작문에서 유연하게 적용하는 능력을 기릅니다. 특히, 한국인이 혼동하기 쉬운 다의어와 유의어의 뉘앙스 차이를 명확히 파악하는 데 중점을 둡니다.
+
+### 2. 🎯 핵심 공식 & 원어민 뉘앙스 매트릭스 (Rule & Nuance Matrix)
+
+| 구분 / 유닛 | 핵심 공식 & 구조 | 원어민 실제 뉘앙스 & 용법 | 한국인 학습자 단골 함정 (Pitfalls) |
+|---|---|---|---|
+| **assistance** (n.) | `give/offer assistance (to sb)`<br>`with the assistance of sb/sth` | 도움, 원조. 공식적이거나 비공식적인 상황 모두 사용 가능. 주로 어떤 일을 수행하는 데 필요한 도움을 의미. | '도움'이라는 의미로 `help`와 혼용 가능하지만, `assistance`는 좀 더 격식 있고 체계적인 도움을 의미할 때가 많음. |
+| **dismiss** (vt.) | `dismiss an idea/suggestion`<br>`dismiss sb from their job` | 1. (생각 등을) 묵살하다, 일축하다. 2. (직원 등을) 해고하다. 3. (법정에서) 기각하다. | '해고하다'의 의미로 `fire`와 비슷하나, `dismiss`는 좀 더 공식적이고 절차적인 해고를 의미. '묵살하다'는 `ignore`보다 적극적으로 거부하는 뉘앙스. |
+| **acknowledge** (vt.) | `acknowledge receipt of sth`<br>`acknowledge that S + V` | 1. (사실, 존재를) 인정하다. 2. (편지 등을) 받았음을 알리다. 3. (인사 등으로) 아는 체하다. | 단순히 '알다'는 `know`를 사용. `acknowledge`는 어떤 사실이나 상황을 공식적으로 또는 명시적으로 '인정'하거나 '확인'하는 행위에 초점. |
+| **reward** (n./v.) | `as a reward for sth`<br>`reward sb for sth` | (n.) 보상, 포상. (v.) 보상하다. 노력이나 성과에 대한 긍정적인 대가. | `award`와 혼동될 수 있으나, `award`는 주로 공식적인 상이나 수여를 의미하고, `reward`는 더 넓은 의미의 보상. |
+| **tight** (a./ad.) | `tight schedule/budget`<br>`hold on tight` | (a.) 꽉 조이는, 빠듯한, 단단한. (ad.) 단단히, 꽉. 시간, 돈, 공간 등이 부족하거나 여유가 없는 상태. | '단단히'라는 부사로 `firmly`와 유사하나, `tight`는 물리적으로 꽉 조이거나 심리적으로 긴장된 상태를 강조. |
+| **draft** (n./v.) | `a draft of a document`<br>`draft a letter/plan` | (n.) 초안, 원고. (v.) 초안을 작성하다. 공식 문서나 계획의 초기 버전을 의미. | '초안'이라는 의미에서 `plan`이나 `outline`과 유사하지만, `draft`는 완성 전의 '글'이나 '문서'에 더 특화됨. |
+| **moreover** (ad.) | `Moreover, ...` | 게다가, 더욱이. 앞선 내용에 추가 정보를 덧붙일 때 사용. | `furthermore`, `in addition`과 유사하나, `moreover`는 앞선 주장을 더욱 강화하거나 중요성을 더할 때 자주 사용. |
+| **subsequent** (a.) | `subsequent events/generations` | 그 다음의, 이어서 일어나는. 시간적 순서상 뒤따르는 것을 나타냄. | `next`와 유사하지만, `subsequent`는 좀 더 공식적이고 연속적인 사건의 흐름을 강조. |
+| **currency** (n.) | `foreign currency`<br>`the currency of an idea` | 1. 통화, 화폐. 2. 통용, 유통. 아이디어 등이 널리 사용되거나 받아들여지는 상태. | '돈'이라는 의미로 `money`와 유사하나, `currency`는 특정 국가의 '화폐 단위'나 '통용성'에 초점. |
+| **rival** (n./a./vt.) | `a business rival`<br>`rival companies`<br>`rival sb for sth` | (n.) 경쟁자, 라이벌. (a.) 경쟁하는. (vt.) ~에 필적하다, 경쟁하다. | `competitor`와 유사하나, `rival`은 개인적인 경쟁 관계나 오랜 라이벌 관계를 더 강조. 동사로 쓰일 때 '필적하다'는 의미가 중요. |
+| **enormous** (a.) | `an enormous amount/size` | 막대한, 거대한. 크기, 양, 정도가 매우 큰 것을 강조. | `huge`, `gigantic`과 유사하지만, `enormous`는 종종 예상치 못한 크기나 압도적인 느낌을 줄 때 사용. |
+| **alter** (vt.) | `alter a plan/dress` | 변경하다, 바꾸다. 주로 작은 변화나 조정을 의미. | `change`와 유사하지만, `alter`는 주로 부분적인 수정이나 개선을 통해 원래의 본질은 유지하는 뉘앙스. |
+| **expand** (vt.) | `expand a business/territory` | 확장하다, 확대하다. 크기, 범위, 양 등을 늘리는 것. | `enlarge`, `widen`과 유사하나, `expand`는 주로 사업, 영역, 지식 등 추상적인 개념의 확장에 더 자주 쓰임. |
+| **rarely** (ad.) | `He rarely goes out.` | 거의 ~않는. 빈도 부사로, 부정적인 의미를 내포. | `seldom`과 유사하며, `hardly ever`와 같은 의미. 문장 전체를 부정하는 효과가 있음. |
+| **guilty** (a.) | `feel guilty about sth`<br>`guilty of a crime` | 죄책감을 느끼는, 유죄의. 도덕적 또는 법적 책임이 있는 상태. | `innocent`의 반대말. `ashamed`는 부끄러움을 느끼는 것이고, `guilty`는 잘못에 대한 책임감. |
+| **strain** (n./vt.) | `mental strain`<br>`strain your eyes/muscles` | (n.) 부담, 긴장, 압력. (vt.) 혹사하다, 무리하게 사용하다. | `stress`와 유사하나, `strain`은 주로 물리적 또는 정신적 압박으로 인한 '피로'나 '손상'의 뉘앙스가 강함. |
+| **possess** (vt.) | `possess great wealth/talent` | 소유하다, 지니다. 주로 재산, 능력, 자질 등 추상적인 것을 소유하는 데 사용. | `have`보다 격식 있고, 단순히 '가지고 있다'는 의미를 넘어 '소유하고 있다'는 느낌을 강조. |
+| **defend** (vt.) | `defend your country/rights` | 방어하다, 옹호하다. 공격으로부터 보호하거나 주장을 지지하는 것. | `protect`와 유사하나, `defend`는 주로 적극적인 방어 행위나 논리적인 옹호를 의미. |
+| **convert** (vt.) | `convert currency/a building`<br>`convert to a religion` | 전환하다, 변환하다. 형태, 용도, 신념 등을 바꾸는 것. | `change`와 유사하지만, `convert`는 주로 한 형태에서 다른 형태로 '완전히' 바꾸는 것을 의미. |
+| **involvement** (n.) | `deep involvement in a project` | 개입, 참여. 어떤 일에 깊이 관여하는 상태. | `participation`과 유사하나, `involvement`는 좀 더 개인적이고 감정적인 '얽힘'이나 '몰입'의 뉘앙스를 가질 수 있음. |
+| **classic** (a./n.) | `a classic novel/example`<br>`a classic of literature` | (a.) 고전적인, 전형적인. (n.) 고전 작품. 시대를 초월하여 인정받는 탁월한 것. | `classical`은 주로 고대 그리스/로마 문명이나 특정 예술 양식을 지칭. `classic`은 '전형적인', '뛰어난'의 의미로 더 광범위하게 사용. |
+| **manufacturing** (a.) | `manufacturing industry/process` | 제조의, 생산의. 물건을 만드는 과정이나 산업과 관련됨. | `production`과 유사하나, `manufacturing`은 특히 대량 생산이나 공장 기반의 생산 활동을 지칭. |
+| **encounter** (v./n.) | `encounter difficulties/a friend`<br>`a chance encounter` | (v.) (우연히) 마주치다, 직면하다. (n.) 뜻밖의 만남, 조우. | `meet`보다 우연성이나 예상치 못함을 강조. 주로 문제나 어려움에 직면할 때도 사용. |
+| **analyse** (vt.) | `analyse data/a situation` | 분석하다. 어떤 것을 세부적으로 나누어 이해하는 것. | `examine`과 유사하나, `analyse`는 좀 더 체계적이고 깊이 있는 '분해'와 '해석'을 포함. (미국식 철자는 `analyze`) |
+| **significantly** (ad.) | `significantly increase/improve` | 상당히, 중요하게. 변화나 정도가 크고 주목할 만함을 강조. | `considerably`, `remarkably`와 유사하며, 통계나 연구 결과 등 객관적인 사실을 강조할 때 자주 사용. |
+| **pollution** (n.) | `air/water pollution` | 오염. 환경이 더러워지거나 해롭게 되는 상태. | `contamination`과 유사하나, `pollution`은 주로 환경 전반의 오염을 지칭. |
+| **constitution** (n.) | `the constitution of a country`<br>`the constitution of a body` | 1. 헌법. 2. 구성, 체질. 국가의 기본법이나 신체의 구성. | `structure`나 `composition`과 유사하나, `constitution`은 특히 법적, 정치적 체계나 생물학적 체질을 의미. |
+| **input** (n./v.) | `input data/ideas`<br>`give input on a plan` | (n.) 투입, 입력, 조언. (v.) 입력하다. 정보나 자원을 시스템에 넣거나 의견을 제시하는 것. | `contribution`과 유사하나, `input`은 주로 정보나 아이디어를 '제공'하는 행위나 그 '내용'에 초점. |
+| **heavily** (ad.) | `heavily rely on/invest in`<br>`rain heavily` | 심하게, 많이, 무겁게. 정도나 양이 많음을 강조. | `greatly`, `severely`와 유사하나, `heavily`는 물리적인 무게뿐 아니라 심리적 부담이나 강한 영향을 나타낼 때도 사용. |
+| **unusual** (a.) | `an unusual situation/name` | 특이한, 평범하지 않은. 일반적인 기대나 기준에서 벗어난 것. | `uncommon`, `rare`와 유사하나, `unusual`은 '평소와 다른', '예상 밖의' 뉘앙스가 강함. |
+| **strip** (vt.) | `strip off clothes/paint`<br>`strip sb of their rights` | 벗기다, 박탈하다. 덮여 있는 것을 제거하거나 권리 등을 빼앗는 것. | `remove`와 유사하나, `strip`은 좀 더 강제적이거나 완전히 벗겨내는 행위를 강조. |
+| **depth** (n.) | `the depth of the ocean`<br>`the depth of feeling` | 깊이. 물리적인 깊이뿐 아니라 감정, 지식 등의 깊이. | `deepness`와 유사하나, `depth`가 훨씬 더 일반적이고 추상적인 의미로도 사용. |
+| **tough** (a.) | `a tough decision/meat` | 힘든, 튼튼한, 질긴. 어려운 상황이나 강한 내구성을 의미. | `difficult`, `strong`과 유사하나, `tough`는 '강인함', '끈기'의 뉘앙스를 포함. |
+| **delivery** (n.) | `delivery of goods/a speech` | 배달, 연설. 물건을 전달하거나 연설을 하는 행위. | `shipment`는 주로 물품의 '운송' 자체를 의미하고, `delivery`는 '전달' 행위에 초점. |
+| **framework** (n.) | `a legal framework`<br>`the framework of a building` | 틀, 뼈대, 체계. 어떤 구조나 시스템의 기본 틀. | `structure`와 유사하나, `framework`는 주로 개념적, 조직적 '틀'을 의미. |
+| **obligation** (n.) | `a legal/moral obligation`<br>`have an obligation to do sth` | 의무, 책임. 법적, 도덕적으로 해야 할 일. | `duty`와 유사하나, `obligation`은 외부적인 요인(법, 계약, 도덕)에 의해 부과된 '책임'을 강조. |
+| **extensive** (a.) | `extensive damage/research` | 광범위한, 대규모의. 범위나 정도가 넓고 큰 것. | `widespread`, `broad`와 유사하나, `extensive`는 '깊이'보다는 '넓이'를 강조. |
+| **breach** (n./v.) | `a breach of contract/security`<br>`breach a wall/agreement` | (n.) 위반, 침해. (v.) 위반하다, 돌파하다. 규칙이나 약속을 어기거나 방어선을 뚫는 것. | `violation`과 유사하나, `breach`는 주로 계약, 법률, 신뢰 등 '깨뜨리는' 행위를 강조. |
+| **stable** (a./n.) | `a stable economy/relationship`<br>`a horse stable` | (a.) 안정된, 견고한. (n.) 마구간. 변화 없이 균형을 유지하는 상태. | `steady`와 유사하나, `stable`은 '흔들림 없는', '변동 없는' 상태를 강조. |
+| **regime** (n.) | `a political regime`<br>`a diet regime` | 정권, 제도, 체제. 통치 방식이나 관리 시스템. | `government`와 유사하나, `regime`는 특정 통치 방식이나 권위주의적인 정권을 지칭할 때도 사용. |
+| **consent** (n./vi.) | `give/obtain consent`<br>`consent to a proposal` | (n.) 동의, 승낙. (vi.) 동의하다. 어떤 제안이나 행동에 대한 허락. | `agreement`와 유사하나, `consent`는 주로 '허락'이나 '승인'의 의미가 강함. |
+| **efficient** (a.) | `an efficient system/worker` | 효율적인, 능률적인. 자원을 낭비하지 않고 목표를 달성하는 것. | `effective`는 '효과적인' (목표 달성 여부)이고, `efficient`는 '효율적인' (자원 낭비 여부). |
+| **maintenance** (n.) | `car maintenance`<br>`the maintenance of peace` | 유지, 보수. 어떤 상태를 지속시키거나 기능을 유지하는 활동. | `upkeep`과 유사하나, `maintenance`는 좀 더 체계적이고 정기적인 관리 활동을 의미. |
+| **excuse** (n./v.) | `make an excuse`<br>`excuse me for being late` | (n.) 변명, 핑계. (v.) 변명하다, 용서하다. 잘못에 대한 이유를 대거나 양해를 구하는 것. | `apology`는 '사과' 자체이고, `excuse`는 사과와 함께 '이유'를 제시하는 것. |
+| **reckon** (vt.) | `I reckon that S + V`<br>`reckon with a problem` | 생각하다, 계산하다. 비격식적으로 '추정하다' 또는 '간주하다'. | `think`와 유사하나, `reckon`은 주로 개인적인 의견이나 추측을 나타낼 때 사용. |
+| **restrict** (vt.) | `restrict access/movement` | 제한하다, 한정하다. 범위나 활동을 좁히는 것. | `limit`와 유사하나, `restrict`는 좀 더 강제적이거나 공식적인 '제한'의 뉘앙스. |
+| **restore** (vt.) | `restore order/a building` | 회복시키다, 복원하다. 원래의 상태나 기능을 되찾게 하는 것. | `recover`는 주로 주체가 '회복'하는 것이고, `restore`는 대상을 '복원'하는 것. |
+| **preserve** (v.) | `preserve historical sites/food` | 보존하다, 보호하다. 손상되지 않도록 지키는 것. | `conserve`는 주로 자원이나 환경을 '절약하며 보존'하는 것이고, `preserve`는 '원형을 유지'하는 데 초점. |
+| **layer** (n.) | `a layer of dust/clothing` | 층, 겹. 쌓여 있는 것의 한 부분. | `stratum`과 유사하나, `layer`는 더 일반적이고 다양한 맥락에서 사용. |
+| **mode** (n.) | `mode of transport/communication` | 방식, 양식, 모드. 어떤 일을 하는 방법이나 상태. | `method`, `manner`와 유사하나, `mode`는 주로 특정 시스템이나 장치의 '작동 방식'을 의미. |
+| **approval** (n.) | `seek/give approval`<br>`gain approval` | 승인, 찬성. 어떤 제안이나 행동에 대한 긍정적인 반응. | `permission`은 '허락'이고, `approval`은 '찬성'이나 '인가'의 의미가 강함. |
+| **pace** (n.) | `at a fast/slow pace`<br>`keep pace with` | 속도, 걸음. 움직임의 빠르기. | `speed`와 유사하나, `pace`는 주로 '일정한 속도'나 '진행 속도'를 의미. |
+| **restriction** (n.) | `impose/lift restrictions` | 제한, 규제. 어떤 것을 제한하는 행위나 그 내용. | `limit`는 '한계'를 의미하고, `restriction`은 '제한하는 조치'를 의미. |
+| **bond** (n.) | `a strong bond between friends`<br>`a financial bond` | 유대, 결속, 채권. 사람이나 사물 간의 연결 또는 재정적 계약. | `connection`, `tie`와 유사하나, `bond`는 좀 더 강하고 지속적인 '유대'나 '의무'를 강조. |
+| **solid** (a./n.) | `solid rock/evidence`<br>`a solid object` | (a.) 고체의, 견고한, 확실한. (n.) 고체. 단단하고 빈틈없는 상태. | `firm`, `strong`과 유사하나, `solid`는 '내부까지 꽉 찬' 물리적 특성이나 '확고한' 추상적 특성을 강조. |
+| **specify** (vt.) | `specify requirements/details` | 명시하다, 구체적으로 밝히다. 자세히 설명하거나 조건을 정하는 것. | `state`, `detail`과 유사하나, `specify`는 '정확하게' 또는 '구체적으로' 지적하는 행위를 강조. |
+| **pale** (a.) | `pale skin/color` | 창백한, 옅은. 색깔이 흐리거나 혈색이 없는 상태. | `light` (색깔이 옅은)와 유사하나, `pale`은 특히 사람의 안색이나 특정 색상의 '희미함'을 강조. |
+| **whisper** (v./n.) | `whisper a secret`<br>`speak in a whisper` | (v.) 속삭이다. (n.) 속삭임. 아주 작은 소리로 말하는 것. | `mutter`는 '웅얼거리다'는 의미로 불분명한 소리를 내는 것이고, `whisper`는 의도적으로 소리를 줄이는 것. |
+| **mostly** (ad.) | `mostly cloudy/students` | 주로, 대개. 대부분의 경우나 대부분의 양을 의미. | `mainly`, `primarily`와 유사하나, `mostly`는 '대부분'이라는 의미로 더 일상적으로 사용. |
+| **reputation** (n.) | `a good/bad reputation`<br>`earn a reputation for` | 명성, 평판. 다른 사람들이 어떤 사람이나 사물에 대해 가지고 있는 의견. | `fame`은 '유명세'를 의미하고, `reputation`은 '평가'나 '이미지'에 초점. |
+| **abroad** (ad.) | `study/travel abroad` | 해외로, 해외에서. 자국이 아닌 다른 나라에서. | `overseas`와 유사하나, `abroad`는 더 일반적인 '해외'의 의미로 사용. |
+| **habit** (n.) | `a bad habit`<br>`form a habit` | 습관, 버릇. 반복적으로 하는 행동. | `custom`은 사회적 '관습'이나 '풍습'을 의미하고, `habit`은 개인적인 '버릇'. |
+| **regularly** (ad.) | `exercise regularly`<br>`meet regularly` | 정기적으로, 규칙적으로. 일정한 간격으로 반복되는 것. | `periodically`와 유사하나, `regularly`는 '일관된' 패턴을 강조. |
+| **dramatic** (a.) | `a dramatic change/effect` | 극적인, 인상적인. 큰 변화나 강한 영향을 미 주는 것. | `striking`, `spectacular`와 유사하나, `dramatic`은 '극적인 전개'나 '강렬한 인상'을 강조. |
+| **valuable** (a.) | `valuable information/jewelry` | 귀중한, 값비싼. 가치나 중요성이 높은 것. | `precious`는 '소중한' 감정적 가치를 강조하고, `valuable`은 경제적 또는 실용적 가치. |
+| **spell** (v./n.) | `spell a word`<br>`a magic spell` | (v.) 철자를 쓰다. (n.) 주문, 마법. 글자의 순서를 말하거나 마법을 거는 것. | 동사로는 '철자를 말하다', 명사로는 '마법'이라는 다의어. 문맥에 따라 의미가 크게 달라짐. |
+| **sudden** (a.) | `a sudden noise/decision` | 갑작스러운, 돌연한. 예상치 못하게 빠르게 일어나는 것. | `abrupt`, `unexpected`와 유사하나, `sudden`은 '순간적인 발생'을 강조. |
+| **conventional** (a.) | `conventional methods/wisdom` | 전통적인, 관습적인. 오랫동안 받아들여져 온 방식. | `traditional`과 유사하나, `conventional`은 '일반적으로 통용되는' 기준을 강조. |
+| **recovery** (n.) | `economic recovery`<br>`a full recovery from illness` | 회복, 복구. 건강이나 경제 상황 등이 원래 상태로 돌아오는 것. | `restoration`은 '복원'에 초점, `recovery`는 '원래 상태로의 되찾음'. |
+| **submit** (vt.) | `submit an application/report`<br>`submit to authority` | 제출하다, 복종하다. 서류 등을 내거나 권위에 따르는 것. | `hand in`, `turn in`과 유사하나, `submit`은 좀 더 공식적인 '제출'이나 '굴복'의 의미. |
+| **reverse** (v./n./a.) | `reverse a decision/car`<br>`the reverse side`<br>`in reverse order` | (v.) 뒤집다, 역전시키다. (n.) 반대, 역. (a.) 반대의. | `opposite`와 유사하나, `reverse`는 '방향을 바꾸거나' '순서를 뒤집는' 행위에 초점. |
+| **distinguish** (vt.) | `distinguish between A and B`<br>`distinguish yourself` | 구별하다, 특징짓다. 차이점을 알아내거나 특별하게 만드는 것. | `differentiate`와 유사하나, `distinguish`는 '뚜렷한 차이를 인식'하거나 '두드러지게 하다'는 의미. |
+| **voluntary** (a.) | `voluntary work/contribution` | 자발적인, 자원봉사의. 강요 없이 스스로 하는 것. | `optional`은 '선택적인' 의미이고, `voluntary`는 '자발적인 의지'를 강조. |
+| **constitute** (vt.) | `constitute a majority/a threat` | 구성하다, ~이 되다. 어떤 것을 이루거나 특정 상태를 형성하는 것. | `form`, `make up`과 유사하나, `constitute`는 주로 '법적' 또는 '공식적'으로 어떤 것을 구성하는 의미. |
+| **critic** (n.) | `a film critic`<br>`a harsh critic` | 비평가, 비판자. 어떤 것을 평가하고 의견을 제시하는 사람. | `reviewer`는 주로 작품을 '평가'하는 사람이고, `critic`은 더 넓은 의미에서 '비판적 시각'을 가진 사람. |
+| **dependent** (a.) | `dependent on parents/drugs` | 의존하는, ~에 달려있는. 다른 것에 의해 영향을 받거나 지지되는 상태. | `reliant`와 유사하나, `dependent`는 '의존성'이나 '종속성'을 강조. |
+| **recession** (n.) | `economic recession` | 경기 침체. 경제 활동이 둔화되는 시기. | `depression`은 `recession`보다 더 심각하고 장기적인 경기 침체를 의미. |
+| **parallel** (a.) | `parallel lines/developments` | 평행한, 유사한. 서로 만나지 않으면서 같은 방향으로 가는 것. | `similar`와 유사하나, `parallel`은 특히 '관계'나 '진행 방향'이 같음을 강조. |
+| **shareholder** (n.) | `company shareholders` | 주주. 회사의 주식을 소유한 사람. | `stockholder`와 같은 의미. |
+| **conservation** (n.) | `wildlife conservation`<br>`energy conservation` | 보존, 보호. 자연, 자원 등을 아끼고 지키는 활동. | `preservation`은 '원형 유지'에 초점, `conservation`은 '지속 가능한 사용'을 포함한 보존. |
+| **shortly** (ad.) | `shortly after/before`<br>`I'll be there shortly.` | 곧, 얼마 안 되어. 가까운 미래에 일어날 일을 나타냄. | `soon`과 유사하나, `shortly`는 좀 더 즉각적이거나 짧은 시간 내를 의미. |
+| **keen** (a.) | `keen interest/competition`<br>`a keen sense of smell` | 열정적인, 예리한. 강한 관심이나 뛰어난 감각을 의미. | `eager`는 '열망하는' 감정을 강조하고, `keen`은 '예리함'이나 '강렬함'을 강조. |
+| **solve** (v.) | `solve a problem/mystery` | 해결하다, 풀다. 문제나 수수께끼의 답을 찾는 것. | `resolve`는 주로 갈등이나 분쟁을 '해결'하는 데 사용되고, `solve`는 문제의 '답을 찾다'. |
+| **predict** (v.) | `predict the future/weather` | 예측하다, 예견하다. 앞으로 일어날 일을 미리 말하는 것. | `forecast`는 주로 날씨나 경제 상황을 '예보'하는 데 사용되고, `predict`는 더 일반적인 예측. |
+| **initially** (ad.) | `initially, I thought...` | 처음에, 초기에. 어떤 일의 시작 단계에서. | `at first`와 유사하나, `initially`는 좀 더 공식적이거나 단계적인 시작을 의미. |
+| **specifically** (ad.) | `specifically designed/mentioned` | 특히, 구체적으로. 특정 목적이나 대상을 명확히 하는 것. | `particularly`, `especially`와 유사하나, `specifically`는 '정확하게' 또는 '명확하게' 지적하는 뉘앙스. |
+| **trap** (v./n.) | `trap an animal`<br>`a mouse trap` | (v.) 덫으로 잡다, 가두다. (n.) 덫, 함정. | `catch`와 유사하나, `trap`은 주로 '덫'이나 '함정'을 이용해 잡거나 가두는 행위. |
+| **soul** (n.) | `the human soul`<br>`the soul of a city` | 영혼, 정신, 핵심. 사람의 비물질적인 부분이나 어떤 것의 본질. | `spirit`와 유사하나, `soul`은 좀 더 개인적이고 깊은 '내면'이나 '본질'을 강조. |
+| **silent** (a.) | `a silent room/protest` | 조용한, 침묵하는. 소리가 없거나 말을 하지 않는 상태. | `quiet`는 '조용한' 환경을 의미하고, `silent`는 '소리가 전혀 없는' 또는 '말을 하지 않는' 상태. |
+| **penalty** (n.) | `a severe penalty`<br>`pay a penalty` | 벌금, 처벌, 불이익. 규칙 위반에 대한 대가. | `punishment`는 '처벌'의 일반적인 의미이고, `penalty`는 주로 법적, 스포츠적 맥락에서 '벌칙'이나 '벌금'. |
+| **temporary** (a.) | `temporary job/solution` | 일시적인, 임시의. 영구적이지 않고 잠시 동안만 지속되는 것. | `interim`, `provisional`과 유사하나, `temporary`는 가장 일반적인 '일시적'이라는 의미. |
+| **locate** (vt.) | `locate a building/a problem` | ~의 위치를 찾다, ~에 위치시키다. 어떤 것의 정확한 위치를 알아내거나 정하는 것. | `find`와 유사하나, `locate`는 주로 '특정 장소에 두다' 또는 '정확한 위치를 파악하다'는 의미. |
+| **efficiency** (n.) | `energy efficiency`<br>`improve efficiency` | 효율성, 능률. 자원을 낭비하지 않고 목표를 달성하는 능력. | `effectiveness`는 '효과성' (목표 달성 능력)이고, `efficiency`는 '효율성' (자원 낭비 최소화). |
+| **perspective** (n.) | `a different perspective`<br>`put sth in perspective` | 관점, 시각. 어떤 것을 바라보는 방식. | `viewpoint`, `angle`과 유사하나, `perspective`는 좀 더 넓은 의미의 '사고방식'이나 '전체적인 시야'. |
+| **drama** (n.) | `a TV drama`<br>`a lot of drama` | 드라마, 극, 극적인 사건. 연극이나 영화, 또는 극적인 상황. | `play`는 '연극'을 의미하고, `drama`는 '극적인 요소'나 '갈등'을 포함한 이야기. |
+| **routine** (n.) | `daily routine`<br>`a routine check` | 일상, 정해진 절차. 반복적으로 행해지는 일. | `habit`은 개인적인 '습관'이고, `routine`은 '정해진 순서'나 '반복적인 일과'. |
+| **comfort** (n./v.) | `find comfort in`<br>`comfort a crying child` | (n.) 위안, 편안함. (v.) 위로하다. 신체적, 정신적으로 편안한 상태나 그런 상태를 제공하는 것. | `consolation`은 '위로'에 초점, `comfort`는 '편안함' 전반. |
+| **resistance** (n.) | `resistance to change/disease` | 저항, 반대. 어떤 힘이나 변화에 맞서는 행위. | `opposition`은 '반대' 의견에 초점, `resistance`는 '물리적' 또는 '심리적'으로 맞서는 힘. |
+| **wealth** (n.) | `create wealth`<br>`wealth of information` | 부, 재산, 풍부함. 많은 돈이나 귀중한 자원. | `riches`는 '부유함'을 의미하고, `wealth`는 더 넓은 의미의 '풍요로움'이나 '자산'. |
+| **presentation** (n.) | `give a presentation`<br>`a gift presentation` | 발표, 제시. 정보를 전달하거나 선물을 주는 행위. | `speech`는 '연설'에 초점, `presentation`은 시각 자료 등을 활용한 '정보 전달'. |
+| **brush** (v./n.) | `brush your teeth/hair`<br>`a paint brush` | (v.) 닦다, 솔질하다. (n.) 붓, 솔. 솔을 사용하여 닦거나 칠하는 것. | 동사로 '솔질하다', 명사로 '솔'이라는 다의어. |
+| **highlight** (v./n.) | `highlight key points`<br>`the highlight of the trip` | (v.) 강조하다, 부각시키다. (n.) 하이라이트, 가장 중요한 부분. | `emphasize`와 유사하나, `highlight`는 시각적으로 '돋보이게 하다'는 뉘앙스가 강함. |
+| **scream** (v./n.) | `scream in pain/anger`<br>`a loud scream` | (v.) 비명을 지르다. (n.) 비명. 크고 날카로운 소리를 내는 것. | `shout`는 '소리치다'는 일반적인 의미이고, `scream`은 '공포, 고통, 분노' 등으로 인한 날카로운 소리. |
+| **judgment** (n.) | `make a judgment`<br>`good judgment` | 판단, 판결. 어떤 것에 대한 의견이나 결정을 내리는 행위. | `decision`은 '결정' 자체이고, `judgment`는 '판단 능력'이나 '판단 과정'. |
+| **overseas** (a./ad.) | `overseas markets`<br>`work overseas` | (a.) 해외의. (ad.) 해외로, 해외에서. 바다 건너 다른 나라에서. | `abroad`와 유사하나, `overseas`는 특히 '바다를 건너는' 지리적 의미를 강조. |
+| **yield** (vi./n.) | `yield to pressure`<br>`yield a good harvest` | (vi.) 굴복하다, 양보하다, 산출하다. (n.) 수확량, 산출량. | 다의어로, '굴복하다'와 '생산하다'라는 상반된 의미를 가짐. 문맥 파악이 중요. |
+| **owe** (vt.) | `owe money/an apology`<br>`owe your success to` | 빚지고 있다
+
+---
+
+## 📖 영어 단어 Word Master 1권: Part 6 (Unit 97-113)
+
+### 1. 🧭 단원 개요 및 핵심 학습 목표 (Overview & Targets)
+- **주요 학습 테마**: 이 섹션에서는 일상생활, 비즈니스, 사회 현상 등 다양한 분야에서 활용되는 필수 어휘 4000개 중 2658번부터 3167번까지의 단어들을 학습합니다. 명사, 동사, 형용사, 부사 등 다양한 품사의 단어들을 익히고, 각 단어의 핵심 의미와 실제 사용 맥락을 이해하는 데 중점을 둡니다.
+- **원어민 사고방식 핵심 요약**: 단어의 단순 암기를 넘어, 각 단어가 내포하는 뉘앙스와 연관된 개념들을 파악하여 문맥 속에서 자연스럽게 활용할 수 있도록 훈련합니다. 특히, 한국인이 혼동하기 쉬운 다의어와 품사 전환에 유의하며, 실제 문장에서의 적용 능력을 키웁니다.
+
+### 2. 🎯 핵심 공식 & 원어민 뉘앙스 매트릭스 (Rule & Nuance Matrix)
+| 구분 / 유닛 | 핵심 공식 & 구조 | 원어민 실제 뉘앙스 & 용법 | 한국인 학습자 단골 함정 (Pitfalls) |
+|---|---|---|---|
+| **`turnover`** (n.) | `turnover` | (기업의) **총 매출액, 이직률, 회전율** | '회전'이라는 직역 때문에 '회전하다'는 동사로 오해하기 쉬움. 주로 명사로 사용되며, 문맥에 따라 의미가 달라짐. |
+| **`discharge`** (vt.) | `discharge + (목적어)` | **(의무를) 이행하다, (짐을) 내리다, (환자를) 퇴원시키다, (군인을) 제대시키다** | '방전하다'라는 의미 외에 다양한 동사적 의미를 가짐. 특히 '책임을 다하다'는 뉘앙스 파악 중요. |
+| **`deliberately`** (ad.) | `deliberately + (동사)` | **고의적으로, 신중하게, 일부러** | '의도적으로'라는 뜻 외에 '신중하게'라는 긍정적인 뉘앙스도 가짐. 문맥에 따라 판단해야 함. |
+| **`adjust`** (vt.) | `adjust + (목적어)` | **조정하다, 적응하다, 맞추다** | '조정하다'는 의미 외에 '환경에 적응하다'는 자동사적 용법(adjust to)도 중요. |
+| **`sensible`** (a.) | `sens sensible + (명사)` | **분별 있는, 현명한, 합리적인** | '감각적인'이라는 뜻의 'sensitive'와 혼동하기 쉬움. 'sensible'은 이성적 판단에 기반한 현명함을 의미. |
+| **`adapt`** (vt.) | `adapt + (목적어)` / `adapt to (환경)` | **적응시키다, 개조하다, (환경에) 적응하다** | '적응하다'는 자동사적 용법(`adapt to`)과 '적응시키다/개조하다'는 타동사적 용법을 구분해야 함. |
+| **`consult`** (v.) | `consult + (사람/기관)` / `consult + (자료)` | **상담하다, 상의하다, (정보를) 찾아보다** | '상담하다'는 의미 외에 '사전이나 자료를 찾아보다'는 의미로도 자주 사용됨. |
+| **`inevitable`** (a.) | `inevitable + (명사)` / `It is inevitable that S + V` | **피할 수 없는, 필연적인** | '불가피한'이라는 의미로, 주로 부정적인 상황에서 많이 쓰이지만, 긍정적인 맥락에서도 사용 가능. |
+| **`bow`** (n./v.) | (n.) `bow` (활, 뱃머리) / (v.) `bow` (절하다) | 명사일 때 [bou], 동사일 때 [bau]로 발음이 달라짐. 의미도 완전히 다름. | 발음과 품사에 따라 의미가 완전히 달라지므로 주의 필요. |
+| **`compromise`** (n./vt.) | (n.) `compromise` (타협, 절충) / (vt.) `compromise + (목적어)` (타협하다, 손상시키다) | '타협'이라는 의미 외에 '명예나 원칙을 손상시키다'는 부정적인 의미로도 사용됨. | '타협하다'는 긍정적 의미와 '손상시키다'는 부정적 의미를 문맥으로 구분해야 함. |
+| **`shed`** (n./v.) | (n.) `shed` (헛간) / (v.) `shed + (눈물/피/잎)` (흘리다, 벗다) | '헛간'이라는 명사 외에 '눈물, 피, 잎 등을 흘리거나 벗다'는 동사 의미가 중요. | 'shed light on' (밝히다)와 같은 관용적 표현도 함께 익히는 것이 좋음. |
+| **`pretend`** (v.) | `pretend to be` / `pretend that S + V` | **~인 척하다, 가장하다** | 실제로는 그렇지 않으면서 어떤 행동이나 상태를 가장하는 뉘앙스. |
+| **`mess`** (n./v.) | (n.) `mess` (엉망진창, 혼란) / (v.) `mess up` (엉망으로 만들다) | '엉망진창'이라는 명사 외에 `mess up` (망치다)과 같은 구동사로 자주 쓰임. | 'make a mess' (어지르다)와 같은 표현도 함께 알아두면 유용. |
+| **`sponsor`** (v./n.) | (v.) `sponsor + (행사/사람)` (후원하다) / (n.) `sponsor` (후원자) | '후원하다'는 동사, '후원자'는 명사로 사용. |
+| **`charter`** (n./v.) | (n.) `charter` (헌장, 전세) / (v.) `charter + (비행기/배)` (전세 내다) | '헌장'이라는 공식적인 문서의 의미와 '전세 내다'는 실용적인 의미가 공존. |
+| **`amendment`** (n.) | `amendment to (법안/문서)` | **(법안 등의) 수정, 개정** | 주로 법률이나 공식 문서의 변경에 사용되는 단어. |
+| **`absorb`** (vt.) | `absorb + (액체/정보/충격)` | **흡수하다, 몰두하다, (충격을) 완화하다** | 물리적 흡수 외에 '정보나 지식을 흡수하다', '일에 몰두하다'는 추상적 의미도 중요. |
+| **`entitle`** (vt.) | `entitle + (사람) to (권리)` / `be entitled to` | **~에게 자격을 주다, ~라는 제목을 붙이다** | `be entitled to` (~할 자격이 있다) 형태로 자주 사용됨. |
+| **`drain`** (vt./n.) | (vt.) `drain + (액체)` (물을 빼다, 고갈시키다) / (n.) `drain` (배수구, 소모) | '물을 빼다'는 물리적 의미 외에 '에너지나 자원을 고갈시키다'는 추상적 의미도 있음. |
+| **`regret`** (v./n.) | (v.) `regret + (ing/to V)` (후회하다, 유감으로 생각하다) / (n.) `regret` (후회, 유감) | `regret -ing` (과거에 한 일을 후회), `regret to V` (미래에 할 일을 유감스럽게 생각) 구분 중요. |
+| **`trick`** (n./v.) | (n.) `trick` (속임수, 묘기) / (v.) `trick + (사람) into (ing)` (속이다) | '속임수'라는 명사 외에 '속이다'는 동사로도 자주 쓰임. |
+| **`stir`** (v.) | `stir + (액체/감정)` | **휘젓다, (감정을) 불러일으키다** | 물리적으로 휘젓는 것 외에 '감정이나 논쟁을 불러일으키다'는 추상적 의미가 중요. |
+| **`acceptance`** (n.) | `acceptance of (제안/상황)` | **수락, 승인, 용인** | 어떤 제안이나 상황을 받아들이는 행위. |
+| **`frequent`** (a.) | `frequent + (명사)` | **자주 일어나는, 빈번한** | '자주'라는 부사 `frequently`와 혼동하지 않도록 주의. |
+| **`halt`** (vi./n.) | (vi.) `halt` (멈추다) / (n.) `halt` (정지) | 주로 '갑자기 멈추다'는 뉘앙스. |
+| **`concrete`** (a./n.) | (a.) `concrete` (구체적인, 콘크리트의) / (n.) `concrete` (콘크리트) | '구체적인'이라는 의미로 `abstract`의 반대말. |
+| **`wrap`** (vt.) | `wrap + (물건) in (천/종이)` | **싸다, 포장하다** | 'wrap up' (마무리하다)과 같은 구동사도 함께 익히면 좋음. |
+| **`collective`** (a./n.) | (a.) `collective + (명사)` (집단적인, 공동의) / (n.) `collective` (집단) | 개인이 아닌 여러 명이 함께 하는 것을 의미. |
+| **`manual`** (n./a.) | (n.) `manual` (설명서) / (a.) `manual` (수동의, 육체노동의) | 명사일 때는 '설명서', 형용사일 때는 '손으로 하는, 수동의' 의미. |
+| **`boost`** (v.) | `boost + (사기/경제/성능)` | **증진시키다, 북돋우다, 밀어 올리다** | 주로 긍정적인 방향으로 무언가를 향상시키는 의미. |
+| **`transition`** (n.) | `transition from A to B` | **변화, 이행, 과도기** | 한 상태에서 다른 상태로 넘어가는 과정. |
+| **`deficit`** (n.) | `budget deficit` | **적자, 부족액** | 주로 재정적인 부족분을 의미. |
+| **`react`** (vi.) | `react to (자극/상황)` | **반응하다, 대응하다** | 어떤 자극이나 상황에 대한 즉각적인 반응. |
+| **`desperate`** (a.) | `desperate + (상황/시도)` | **자포자기한, 필사적인, 절망적인** | 희망이 없거나 매우 절박한 상황을 묘사. |
+| **`continuous`** (a.) | `continuous + (행동/상태)` | **계속되는, 끊임없는** | 중단 없이 계속 이어지는 것을 의미. `continual` (반복되는)과 구분. |
+| **`consult`** (v.) | `consult + (사람)` / `consult + (자료)` | **상담하다, 상의하다, (정보를) 찾아보다** | '상담하다'는 의미 외에 '사전이나 자료를 찾아보다'는 의미로도 자주 사용됨. |
+| **`fulfil`** (vt.) | `fulfil + (약속/의무/꿈)` | **이행하다, 성취하다, 만족시키다** | 약속이나 의무 등을 완수하거나, 꿈을 이루는 것. |
+| **`seize`** (v.) | `seize + (기회/권력/사람)` | **붙잡다, 움켜쥐다, 압수하다** | 물리적으로 잡는 것 외에 '기회를 잡다', '권력을 장악하다'는 추상적 의미. |
+| **`superior`** (a./n.) | (a.) `superior to` (우월한, 상위의) / (n.) `superior` (상사) | '우월한'이라는 형용사 외에 '상사'라는 명사로도 사용. |
+| **`fold`** (v./n.) | (v.) `fold + (종이/천)` (접다) / (n.) `fold` (주름, 접힌 부분) | '접다'는 동사 외에 '주름'이라는 명사 의미. |
+| **`bare`** (a.) | `bare + (신체 부위/땅)` | **벌거벗은, 맨~, 텅 빈** | 아무것도 덮여있지 않거나, 최소한의 것만 있는 상태. |
+| **`expertise`** (n.) | `expertise in (분야)` | **전문 지식, 전문 기술** | 특정 분야에 대한 깊은 지식이나 숙련된 기술. |
+| **`shade`** (n./v.) | (n.) `shade` (그늘) / (v.) `shade + (눈/빛)` (가리다, 그늘지게 하다) | '그늘'이라는 명사 외에 '빛을 가리다'는 동사 의미. |
+| **`commonly`** (ad.) | `commonly + (동사/형용사)` | **흔히, 일반적으로** | 대부분의 경우에 해당하거나, 널리 알려진 사실을 언급할 때 사용. |
+| **`sole`** (a./n.) | (a.) `sole + (목적/이유)` (유일한, 단 하나의) / (n.) `sole` (발바닥, 신발 밑창) | '유일한'이라는 형용사 외에 '발바닥'이라는 명사 의미. |
+| **`brand`** (n.) | `brand + (제품)` | **상표, 브랜드** | 특정 제품이나 기업을 식별하는 이름이나 로고. |
+| **`graduate`** (n./vi.) | (n.) `graduate` (졸업생) / (vi.) `graduate from (학교)` (졸업하다) | 명사일 때는 '졸업생', 동사일 때는 '졸업하다'. |
+| **`constraint`** (n.) | `constraint on (자유/행동)` | **제약, 제한, 구속** | 자유나 행동을 제한하는 요인. |
+| **`multiple`** (a./n.) | (a.) `multiple + (명사)` (다수의, 다양한) / (n.) `multiple` (배수) | '다수의'라는 형용사 외에 수학적 의미의 '배수'라는 명사. |
+| **`terminal`** (n./a.) | (n.) `terminal` (종착역, 단말기) / (a.) `terminal` (말기의, 최종의) | '종착역'이라는 명사 외에 '말기의'라는 부정적인 형용사 의미. |
+| **`prosecution`** (n.) | `prosecution of (범죄)` | **기소, 고발, 검찰** | 범죄자를 법정에 세우는 행위 또는 그 기관. |
+| **`forecast`** (n./v.) | (n.) `forecast` (예보, 예측) / (v.) `forecast + (날씨/미래)` (예보하다, 예측하다) | '예보'라는 명사 외에 '예보하다'는 동사 의미. |
+| **`shine`** (vi./n.) | (vi.) `shine` (빛나다) / (n.) `shine` (빛, 광택) | '빛나다'는 동사 외에 '빛'이나 '광택'이라는 명사 의미. |
+| **`delegate`** (n./vt.) | (n.) `delegate` (대표, 대리인) / (vt.) `delegate + (권한/임무)` (위임하다) | '대표'라는 명사 외에 '권한이나 임무를 위임하다'는 동사 의미. |
+| **`advocate`** (v./n.) | (v.) `advocate + (정책/권리)` (옹호하다, 지지하다) / (n.) `advocate` (옹호자, 변호사) | '옹호하다'는 동사 외에 '옹호자'나 '변호사'라는 명사 의미. |
+| **`rebel`** (n./v.) | (n.) `rebel` (반역자) / (v.) `rebel against` (반항하다, 반란을 일으키다) | '반역자'라는 명사 외에 '반항하다'는 동사 의미. |
+| **`feminist`** (a./n.) | (a.) `feminist + (운동/관점)` (페미니스트의) / (n.) `feminist` (페미니스트) | 여성의 권리 신장을 주장하는 사람이나 그와 관련된 것. |
+| **`premier`** (a./n.) | (a.) `premier + (리그/장관)` (최고의, 으뜸의) / (n.) `premier` (수상, 총리) | '최고의'라는 형용사 외에 '수상'이나 '총리'라는 명사 의미. |
+| **`murmur`** (v./n.) | (v.) `murmur` (중얼거리다, 속삭이다) / (n.) `murmur` (중얼거림, 속삭임) | 작게 불평하거나 속삭이는 소리. |
+| **`interface`** (n./v.) | (n.) `interface` (접점, 인터페이스) / (v.) `interface with` (연결하다, 상호작용하다) | 컴퓨터 용어 외에 '사람과 사람 사이의 접점'이라는 의미로도 사용. |
+| **`vulnerable`** (a.) | `vulnerable to (공격/질병)` | **취약한, 연약한, 상처받기 쉬운** | 외부의 공격이나 영향에 쉽게 노출될 수 있는 상태. |
+| **`ultimate`** (a.) | `ultimate + (목표/결과)` | **궁극적인, 최종적인, 최고의** | 가장 마지막이거나 가장 중요한 것을 의미. |
+| **`communicate`** (vt.) | `communicate with (사람)` / `communicate (정보)` | **소통하다, 전달하다** | 정보나 감정을 주고받는 행위. |
+| **`consequently`** (ad.) | `Consequently, S + V` | **결과적으로, 따라서** | 앞선 내용의 결과로 이어지는 상황을 설명할 때 사용. |
+| **`wander`** (vt.) | `wander around/through` | **헤매다, 돌아다니다** | 목적 없이 이리저리 돌아다니는 것을 의미. |
+| **`allocate`** (vt.) | `allocate + (자원/시간) to (목적)` | **할당하다, 배분하다** | 특정 목적을 위해 자원이나 시간을 나누어 주는 것. |
+| **`pump`** (n./v.) | (n.) `pump` (펌프) / (v.) `pump + (액체/가스)` (펌프질하다, 퍼 올리다) | '펌프'라는 명사 외에 '액체를 퍼 올리다'는 동사 의미. |
+| **`sack`** (v./n.) | (v.) `sack + (직원)` (해고하다) / (n.) `sack` (자루, 해고) | '자루'라는 명사 외에 '해고하다'는 동사 의미가 중요. |
+| **`float`** (vt./n.) | (vt.) `float` (뜨다, 띄우다) / (n.) `float` (부유물, 뗏목) | 물 위에 뜨거나 띄우는 행위. |
+| **`wipe`** (vt.) | `wipe + (표면)` | **닦다, 닦아내다** | 표면의 먼지나 액체를 제거하는 행위. |
+| **`gross`** (a./n./v.) | (a.) `gross + (수익/오류)` (총계의, 엄청난, 역겨운) / (n.) `gross` (총액) / (v.) `gross` (총액을 벌다) | '총계의'라는 의미 외에 '엄청난' (부정적 뉘앙스) 또는 '역겨운'이라는 의미도 있음. |
+| **`grasp`** (vt.) | `grasp + (물건/개념)` | **붙잡다, 움켜쥐다, 이해하다** | 물리적으로 잡는 것 외에 '개념을 이해하다'는 추상적 의미. |
+| **`undergo`** (vt.) | `undergo + (변화/경험)` | **겪다, 경험하다** | 어떤 변화나 경험을 겪는 것을 의미. |
+| **`swallow`** (vt./n.) | (vt.) `swallow + (음식/감정)` (삼키다, 참다) / (n.) `swallow` (제비) | '삼키다'는 물리적 의미 외에 '감정을 억누르다'는 추상적 의미. |
+| **`contest`** (n./vt.) | (n.) `contest` (대회, 논쟁) / (vt.) `contest + (결과/주장)` (다투다, 이의를 제기하다) | '대회'라는 명사 외에 '주장이나 결과에 이의를 제기하다'는 동사 의미. |
+| **`excess`** (n./a.) | (n.) `excess of` (과잉, 초과) / (a.) `excess + (양)` (과잉의) | 필요한 양보다 많은 것을 의미. |
+| **`update`** (vt./n.) | (vt.) `update + (정보/시스템)` (갱신하다, 최신 정보로 하다) / (n.) `update` (최신 정보) | '최신 정보로 갱신하다'는 동사 외에 '최신 정보'라는 명사 의미. |
+| **`closure`** (n.) | `closure of (사업체/도로)` | **폐쇄, 종결** | 사업체나 도로 등이 닫히는 것. |
+| **`ideology`** (n.) | `political ideology` | **이념, 이데올로기** | 특정 집단이나 사회의 사상 체계. |
+| **`abstract`** (a.) | `abstract + (개념)` | **추상적인** | 구체적이지 않고 관념적인 것을 의미. `concrete`의 반대말. |
+| **`judicial`** (a.) | `judicial + (시스템/결정)` | **사법의, 재판의** | 법률 및 재판과 관련된 것. |
+| **`linguistic`** (a.) | `linguistic + (능력/연구)` | **언어의, 언어학적인** | 언어와 관련된 것. |
+| **`sympathy`** (n.) | `sympathy for (사람)` | **동정, 공감** | 다른 사람의 어려움에 대한 이해와 연민. |
+| **`weigh`** (vt.) | `weigh + (무게)` | **무게를 재다, 숙고하다** | 물리적 무게를 재는 것 외에 '중요성을 고려하다'는 의미. |
+| **`strict`** (a.) | `strict + (규칙/부모)` | **엄격한, 엄밀한** | 규칙이나 기준이 매우 엄격한 상태. |
+| **`confront`** (vt.) | `confront + (문제/사람)` | **직면하다, 맞서다** | 어려운 문제나 사람과 직접 대면하는 것. |
+| **`anticipate`** (vt.) | `anticipate + (사건/문제)` | **예상하다, 기대하다** | 미래의 사건을 미리 예측하거나 기대하는 것. |
+| **`nowhere`** (ad.) | `go nowhere` / `nowhere near` | **어디에도 ~않다, 아무데도 ~없다** | 부정적인 의미로 '어떤 장소에도 없다' 또는 '아무것도 얻지 못하다'. |
+| **`attraction`** (n.) | `attraction to` | **매력, 명소, 끌림** | 사람이나 장소에 대한 매력 또는 물리적인 끌림. |
+| **`eliminate`** (vt.) | `eliminate + (문제/경쟁자)` | **제거하다, 없애다** | 불필요하거나 원치 않는 것을 완전히 없애는 것. |
+| **`depression`** (n.) | `economic depression` / `clinical depression` | **우울증, 불경기, 침체** | 정신적인 우울증 외에 경제적인 불황을 의미하기도 함. |
+| **`suspend`** (vt.) | `suspend + (활동/사람)` | **매달다, 중단하다, 정학시키다** | 어떤 활동을 일시적으로 멈추거나, 사람의 자격을 정지시키는 것. |
+| **`undoubtedly`** (ad.) | `Undoubtedly, S + V` | **의심할 여지 없이, 확실히** | 어떤 사실이 분명하고 확실하다는 것을 강조. |
+| **`informal`** (a.) | `informal + (모임/복장)` | **비공식적인, 격식 없는** | 공식적인 절차나 격식을 따르지 않는 것. |
+| **`junction`** (n.) | `road junction` | **교차로, 접합점** | 두 개 이상의 도로가 만나거나, 두 가지가 연결되는 지점. |
+| **`potentially`** (ad.) | `potentially + (위험한/유용한)` | **잠재적으로, 어쩌면** | 아직 실현되지는 않았지만, 가능성이 있는 상태. |
+| **`exact`** (a.) | `exact + (수량/정보)` | **정확한, 정밀한** | 오차 없이 정확한 것을 의미. |
+| **`merit`** (n.) | `merit of` | **장점, 가치, 공로** | 어떤 것의 좋은 점이나 가치, 또는 노력의 결과로 얻은 공로. |
+| **`compose`** (vt.) | `compose + (음악/글)` / `be composed of` | **작곡하다, 구성하다, (마음을) 가다듬다** | 음악이나 글을 만드는 것 외에 `be composed of` (~으로 구성되다) 형태로 자주 쓰임. |
+| **`flexible`** (a.) | `flexible + (시간/계획)` | **융통성 있는, 유연한** | 쉽게 구부러지거나, 상황에 따라 변화할 수 있는 특성. |
+| **`conversion`** (n.) | `conversion of A into B` | **전환, 변환** | 한 형태에서 다른 형태로 바뀌는 과정. |
+| **`assurance`** (n.) | `assurance that S + V` | **확신, 보증, 확약** | 어떤 사실에 대한 확신이나, 약속에 대한 보증. |
+| **`imperial`** (a.) | `imperial + (제국/정책)` | **제국의, 황제의** | 제국이나 황제와 관련된 것. |
+| **`registration`** (n.) | `registration for (행사)` | **등록, 기재** | 공식적으로 이름 등을 기록하는 행위. |
+| **`exposure`** (n.) | `exposure to (위험/빛)` | **노출, 폭로** | 어떤 것에 드러나거나, 비밀이 밝혀지는 것. |
+| **`resignation`** (n.) | `resignation from (직위)` | **사직, 체념** | 직위에서 물러나는 것 외에 '운명에 대한 체념'이라는 의미도 있음. |
+| **`humour`** (n.) | `sense of humour` | **유머, 해학** | 사람을 웃게 만드는 능력이나 특성. |
+| **`rub`** (vt.) | `rub + (표면)` | **문지르다, 비비다** | 표면을 문지르는 행위. |
+| **`experimental`** (a.) | `experimental + (연구/단계)` | **실험적인, 시험적인** | 아직 완성되지 않고 시험 단계에 있는 것. |
+| **`clash`** (n./vt.) | (n.) `clash` (충돌, 불일치) / (vt.) `clash with` (충돌하다, 부딪히다) | 물리적 충돌 외에 '의견이나 색깔이 충돌하다'는 의미. |
+| **`innovation`** (n.) | `technological innovation` | **혁신, 쇄신** | 새로운 아이디어나 방법의 도입. |
+| **`spin`** (vi./n.) | (vi.) `spin` (회전하다, 돌다) / (n.) `spin` (회전) | 물리적으로 회전하는 것 외에 '이야기를 꾸며내다'는 의미도 있음. |
+| **`particle`** (n.) | `dust particle` | **입자, 미립자** | 매우 작은 조각이나 부분. |
+| **`notably`** (ad.) | `notably + (형용사/부사)` | **특히, 현저하게** | 어떤 점이 두드러지거나 특별하다는 것을 강조. |
+| **`dose`** (n./vt.) | (n.) `dose of (약)` (1회 복용량) / (vt.) `dose + (약)` (약을 투여하다) | 약의 1회 복용량을 의미. |
+| **`exhibit`** (vt./n.) | (vt.) `exhibit + (작품/감정)` (전시하다, 드러내다) / (n.) `exhibit` (전시품) | '전시하다'는 물리적 의미 외에 '감정을 드러내다'는 추상적 의미. |
+| **`emperor`** (n.) | `emperor` | **황제** | 제국의 최고 통치자. |
+| **`rally`** (n./vt.) | (n.) `rally` (집회, 회복) / (vt.) `rally` (모으다, 회복시키다) | '집회'라는 명사 외에 '힘을 모으다' 또는 '회복시키다'는 동사 의미. |
+| **`fragment`** (n.) | `fragment of` | **조각, 파편** | 전체의 작은 부분. |
+| **`premium`** (n.) | `pay a premium` | **보험료, 할증금, 고급의** | 보험료나 추가 요금 외에 '고급의'라는 의미로도 사용. |
+| **`subsidiary`** (n./a.) | (n.) `subsidiary` (자회사) / (a.) `subsidiary` (보조의, 부수적인) | '자회사'라는 명사 외에 '보조적인'이라는 형용사 의미. |
+| **`evaluate`** (vt.) | `evaluate + (성과/가치)` | **평가하다, 감정하다** | 어떤 것의 가치나 성과를 판단하는 행위. |
+| **`decrease`** (vi./n.) | (vi.) `decrease` (감소하다) / (n.) `decrease` (감소) | 양이나 수가 줄어드는 것. |
+| **`integration`** (n.) | `integration of A and B` | **통합, 융합** | 여러 부분을 하나로 합치는 과정. |
+| **`frown`** (vi.) | `frown at/on` | **눈살을 찌푸리다, 찡그리다** | 불만이나 걱정으로 얼굴을 찡그리는 행위. |
+| **`republican`** (n./a.) | (n.) `republican` (공화당원) / (a.) `republican` (공화주의의) | 공화주의를 지지하는 사람이나 그와 관련된 것. |
+| **`generous`** (a.) | `generous with` | **관대한, 후한, 아량 있는** | 다른 사람에게 너그럽거나 아낌없이 주는 태도. |
+| **`modest`** (a.) | `modest + (성공/요구)` | **겸손한, 적당한, 소박한** | 자신을 내세우지 않거나, 규모가 크지 않은 것. |
+| **`fate`** (n.) | `fate of` | **운명, 숙명** | 피할 수 없는 미래의 사건. |
+| **`ambition`** (n.) | `have an ambition to V` | **야망, 포부** | 어떤 것을 이루고자 하는 강한 열망. |
+| **`roughly`** (ad.) | `roughly + (숫자/추정)` | **대략, 거칠게** | 정확하지는 않지만 대략적인 수치나 방법을 나타낼 때. |
+| **`cancel`** (vt.) | `cancel + (예약/계획)` | **취소하다, 무효화하다** | 예정된 것을 없애거나, 효력을 없애는 것. |
+| **`electrical`** (a.) | `electrical + (기기/시스템)` | **전기의, 전기를 이용하는** | 전기와 관련된 것. |
+| **`logical`** (a.) | `logical + (생각/결론)` | **논리적인, 타당한** | 이치에 맞고 합리적인 것. |
+| **`barely`** (ad.) | `barely + (동사)` | **간신히, 겨우, 거의 ~않다** | 어떤 행동을 거의 하지 못하거나, 아주 최소한으로 하는 뉘앙스. |
+| **`logic`** (n.) | `sound logic` | **논리, 타당성** | 합리적인 사고방식이나 추론. |
+| **`inspection`** (n.) | `inspection of` | **점검, 검사, 조사** | 어떤 것이 제대로 작동하는지 확인하는 행위. |
+| **`accordingly`** (ad.) | `accordingly, S + V` | **따라서, 그에 맞춰** | 앞선 상황이나 규칙에 따라 행동함을 나타낼 때. |
+| **`wherever`** (ad.) | `wherever S + V` | **어디에서든, ~하는 곳은 어디든지** | 장소에 대한 선택의 폭이 넓음을 나타낼 때. |
+| **`intense`** (a.) | `intense + (열/감정)` | **강렬한, 격렬한** | 매우 강하거나 집중적인 상태. |
+| **`convince`**
+
+---
+
+## 📖 영어 단어 Word Master 1권: Part 7 (Unit 117-133)
+
+### 1. 🧭 단원 개요 및 핵심 학습 목표 (Overview & Targets)
+- **주요 학습 테마**: 이 단원은 일상생활, 비즈니스, 사회 현상 등 다양한 맥락에서 사용되는 필수 어휘를 다룹니다. 명사, 동사, 형용사, 부사 등 품사별 활용과 함께 원어민이 실제 사용하는 뉘앙스를 이해하는 데 중점을 둡니다.
+- **원어민 사고방식 핵심 요약**: 단어의 표면적 의미를 넘어, 해당 단어가 내포하는 감정, 상황, 그리고 문화적 맥락을 파악하여 보다 자연스럽고 정확하게 영어를 구사하는 능력을 기릅니다.
+
+### 2. 🎯 핵심 공식 & 원어민 뉘앙스 매트릭스 (Rule & Nuance Matrix)
+
+| 구분 / 유닛 | 핵심 공식 & 구조 | 원어민 실제 뉘앙스 & 용법 | 한국인 학습자 단골 함정 (Pitfalls) |
+|---|---|---|---|
+| **`uncertain`** (a.) | `un-` (부정) + `certain` (확실한) | **불확실한, 확신이 없는**. 미래나 결과에 대한 예측이 어려울 때 사용. 사람의 태도나 상황의 불안정성을 나타냄. | 단순히 '확실하지 않다'를 넘어, '불안정한', '미심쩍은' 뉘앙스를 포함. `not sure`보다 더 강한 불확실성. |
+| **`magnificent`** (a.) | `magni-` (큰) + `ficent` (만드는) | **웅장한, 장엄한, 훌륭한**. 크기, 아름다움, 품질 등에서 매우 인상적이고 감탄할 만할 때 사용. | 단순히 '크다'는 의미를 넘어, '경외감을 불러일으키는' 수준의 훌륭함을 표현. `great`나 `big`보다 훨씬 강한 긍정적 의미. |
+| **`essence`** (n.) | `esse` (존재하다) | **본질, 정수, 핵심**. 어떤 것의 가장 중요하고 기본적인 특성이나 성질. | '핵심'이라는 의미 외에, 향수나 추출액 같은 '정수'라는 물리적 의미도 가짐. 문맥에 따라 의미를 파악해야 함. |
+| **`beg`** (vt.) | `beg` (간청하다) | **간청하다, 구걸하다**. 절실하게 무엇인가를 요청하거나 부탁할 때 사용. | 단순히 '부탁하다'를 넘어, '애원하다', '빌다'와 같이 절박한 뉘앙스가 강함. `ask`보다 훨씬 격렬한 요청. |
+| **`elaborate`** (a./v.) | `e-` (밖으로) + `labor` (노력) | (a.) **정교한, 공들인**; (v.) **상세히 설명하다, 정교하게 만들다**. 많은 노력과 세부 사항이 들어간 것을 묘사. | 형용사일 때 '정교한', 동사일 때 '상세히 설명하다'로 의미가 달라짐. 동사로 쓸 때 `explain`보다 더 깊이 있고 자세한 설명을 의미. |
+| **`functional`** (a.) | `function` (기능) + `-al` (형용사) | **기능적인, 실용적인**. 특정 목적을 수행하는 데 적합하거나 효과적인. | '작동하는'이라는 의미 외에, '실용적인'이라는 가치 판단의 의미도 포함. `working`보다 더 넓은 의미. |
+| **`nasty`** (a.) | (어원 불분명) | **불쾌한, 고약한, 심술궂은**. 맛, 냄새, 사람의 성격, 상황 등 다양한 맥락에서 부정적인 느낌을 줌. | 단순히 '나쁘다'는 의미를 넘어, '역겹다', '비열하다', '끔찍하다'와 같이 강한 불쾌감을 표현. |
+| **`steep`** (a./vt.) | (어원 불분명) | (a.) **가파른, 급경사의**; (vt.) **담그다, 푹 적시다**. 경사가 급하거나 가격 등이 급격히 오를 때, 또는 액체에 담글 때 사용. | '가파른'이라는 물리적 의미 외에, '가격이 비싼' (구어체), '급격한' (변화) 등의 의미도 있음. 동사로 '푹 빠지게 하다'는 비유적 의미도 중요. |
+| **`dull`** (a.) | (어원 불분명) | **지루한, 따분한, 둔한**. 흥미롭지 않거나 활기가 없는 상태, 또는 날카롭지 않거나 지능이 낮은 상태. | '지루한' 외에, '흐릿한' (색상), '무딘' (칼), '침체된' (시장) 등 다양한 부정적 의미로 확장됨. |
+| **`enforce`** (vt.) | `en-` (만들다) + `force` (힘) | **(법률 등을) 시행하다, 강요하다**. 규칙이나 법을 준수하게 만들거나 특정 행동을 강제할 때 사용. | 단순히 '하다'가 아니라, '강제력을 동원하여 실행하다'는 뉘앙스가 강함. `implement`보다 강제성이 부각됨. |
+| **`accord`** (n./vi.) | `ad-` (에) + `cor` (마음) | (n.) **합의, 일치**; (vi.) **일치하다, 부합하다**. 의견이나 사실이 서로 맞거나 조화를 이룰 때. | 명사로 '합의', 동사로 '일치하다'는 의미. `with one accord` (만장일치로)와 같은 표현 숙지. |
+| **`emphasize`** (vt.) | `em-` (안에) + `phasis` (보여주다) | **강조하다, 역설하다**. 특정 부분이나 아이디어가 중요함을 부각시킬 때 사용. | `stress`나 `highlight`와 유사하지만, 더 공식적이거나 학술적인 맥락에서 사용될 수 있음. |
+| **`pardon`** (n./vt.) | `per-` (완전히) + `donare` (주다) | (n.) **용서**; (vt.) **용서하다**. 잘못이나 실수를 너그럽게 봐주는 행위. | '용서하다' 외에, '실례합니다' (`I beg your pardon`)와 같이 가벼운 사과나 재차 묻는 표현으로도 사용. |
+| **`probe`** (n./v.) | `proba` (증거) | (n.) **조사, 탐사**; (v.) **조사하다, 탐사하다**. 미지의 것을 알아내기 위해 깊이 파고들거나 면밀히 살피는 행위. | 단순히 `investigate`보다 더 깊고 철저한 조사를 의미하며, 물리적인 탐사에도 사용됨. |
+| **`consume`** (vt.) | `con-` (함께) + `sumere` (취하다) | **소비하다, 소모하다**. 물건을 사용하거나 에너지를 다 써버리는 행위. | 단순히 '먹다'나 '사용하다'를 넘어, '완전히 소진하다'는 뉘앙스가 강함. 에너지, 시간, 자원 등에 폭넓게 사용. |
+| **`ridiculous`** (a.) | `ridere` (웃다) | **우스꽝스러운, 터무니없는**. 상식 밖이거나 비합리적이어서 비웃음을 살 만한. | 단순히 '웃기다'는 의미를 넘어, '말도 안 되는', '어이없는'과 같이 부정적인 비판의 뉘앙스가 강함. |
+| **`equip`** (vt.) | `equiper` (장비를 갖추다) | **(장비를) 갖추다, 장비하다**. 특정 목적을 위해 필요한 도구나 물품을 제공하거나 준비하는 것. | 주로 수동태 (`be equipped with`)로 많이 사용되며, 단순히 물건을 주는 것을 넘어 '준비된 상태'를 강조. |
+| **`aggressive`** (a.) | `ad-` (에) + `gradi` (걷다) | **공격적인, 적극적인**. 적대적이거나 목표 달성을 위해 매우 단호하고 추진력 있는 태도. | '공격적인'이라는 부정적 의미 외에, '적극적인', '진취적인'이라는 긍정적 의미로도 사용될 수 있음 (예: `aggressive marketing`). |
+| **`convey`** (vt.) | `con-` (함께) + `via` (길) | **(생각, 감정 등을) 전달하다, 운반하다**. 정보나 감정을 다른 사람에게 알리거나 물건을 옮기는 행위. | `communicate`와 유사하지만, `convey`는 비언어적인 방식(표정, 몸짓)으로도 전달하는 뉘앙스를 포함. |
+| **`administer`** (vt.) | `ad-` (에) + `ministrare` (봉사하다) | **관리하다, 집행하다, 투여하다**. 조직이나 시스템을 운영하거나 약물 등을 제공하는 행위. | '관리하다' 외에, '약을 투여하다', '정의를 집행하다' 등 다양한 공식적인 맥락에서 사용. |
+| **`execute`** (vt.) | `ex-` (밖으로) + `sequi` (따르다) | **실행하다, 수행하다, 처형하다**. 계획이나 명령을 이행하거나 사형을 집행하는 행위. | '실행하다'는 일반적인 의미 외에, '사형을 집행하다'는 매우 강력한 의미를 가짐. 문맥 주의. |
+| **`warrant`** (n./vt.) | `warantir` (보호하다) | (n.) **영장, 보증**; (vt.) **보증하다, 정당화하다**. 특정 행위를 허가하거나 정당성을 부여하는 것. | 명사로 '영장'이라는 법률적 의미가 중요하며, 동사로 '정당화하다'는 의미도 자주 쓰임. |
+| **`casual`** (a./n.) | `casus` (우연) | (a.) **격식 없는, 평상시의, 우연한**; (n.) **평상복**. 격식을 차리지 않거나 우연히 일어나는 일. | '격식 없는' 외에, '무심한', '우연한' 등의 의미로 확장됨. 명사로 '평상복'은 주로 복수형 `casuals`로 사용. |
+| **`explicit`** (a.) | `ex-` (밖으로) + `plicare` (접다) | **명백한, 명시적인**. 숨김없이 분명하게 표현된. | `clear`나 `obvious`보다 더 '직접적이고 상세하게 드러난' 뉘앙스가 강함. 특히 성적인 내용에 대한 묘사에도 사용될 수 있어 주의. |
+| **`isolate`** (vt.) | `insula` (섬) | **고립시키다, 격리하다**. 다른 것들과 분리시키거나 떨어뜨려 놓는 행위. | 단순히 '분리하다'를 넘어, '외딴 곳에 두다'는 뉘앙스가 강하며, 부정적인 의미로 사용될 때가 많음. |
+| **`successive`** (a.) | `sub-` (아래) + `cedere` (가다) | **연속적인, 잇따른**. 시간이나 순서상으로 계속 이어지는. | `continuous`와 유사하지만, `successive`는 개별적인 사건들이 순서대로 이어진다는 점을 강조. |
+| **`abolish`** (vt.) | `ab-` (떨어져) + `olere` (성장하다) | **(법률, 제도 등을) 폐지하다**. 공식적으로 어떤 것을 끝내거나 없애는 행위. | 주로 법률, 제도, 관습 등 공식적인 대상을 폐지할 때 사용. `cancel`이나 `end`보다 더 강력하고 영구적인 의미. |
+| **`allege`** (vt.) | `ad-` (에) + `legare` (보내다) | **(증거 없이) 주장하다, 혐의를 제기하다**. 사실이라고 단정하기 어렵지만, 어떤 것을 진술하거나 주장하는 행위. | '주장하다'는 의미 외에, '증거 없이 주장하다'는 뉘앙스가 강하여, 사실 여부가 불확실함을 암시. |
+| **`comparable`** (a.) | `com-` (함께) + `par` (동등한) | **비교할 만한, 필적하는**. 서로 비교될 수 있거나 비슷한 수준인. | `similar`와 유사하지만, `comparable`은 '비교 대상이 될 수 있는'이라는 의미로, 반드시 동일하거나 우월하다는 뜻은 아님. |
+| **`modification`** (n.) | `modus` (방식) + `facere` (만들다) | **수정, 변경**. 어떤 것을 부분적으로 바꾸거나 고치는 행위. | `change`보다 더 '부분적이고 세부적인 변경'을 의미하며, 주로 개선이나 적응을 위한 변경에 사용. |
+| **`envisage`** (vt.) | `en-` (안에) + `visage` (얼굴) | **(미래의 일을) 상상하다, 예상하다**. 앞으로 일어날 일을 마음속으로 그리거나 계획하는 행위. | `imagine`이나 `foresee`와 유사하지만, `envisage`는 더 구체적이고 현실적인 시나리오를 그리는 뉘앙스가 강함. |
+| **`concession`** (n.) | `con-` (함께) + `cedere` (가다) | **양보, 허용, 할인**. 논쟁에서 상대방에게 일부를 내주거나 특별한 혜택을 주는 행위. | '양보'라는 의미 외에, '할인'이나 '특혜'라는 의미로도 사용됨. 특히 협상 맥락에서 중요. |
+| **`resume`** (vt.) | `re-` (다시) + `sumere` (취하다) | **재개하다, 다시 시작하다**. 중단되었던 것을 다시 시작하는 행위. | `restart`와 유사하지만, `resume`는 잠시 중단되었다가 다시 이어진다는 뉘앙스가 강함. |
+| **`trigger`** (v./n.) | (어원 불분명) | (v.) **촉발하다, 유발하다**; (n.) **방아쇠, 계기**. 어떤 사건이나 반응을 일으키는 원인. | 동사로 '유발하다'는 의미가 중요하며, 주로 부정적이거나 갑작스러운 사건에 사용. 명사로 '방아쇠'는 비유적으로 '계기'를 의미. |
+| **`obscure`** (v./a.) | `ob-` (위에) + `scurus` (어두운) | (v.) **모호하게 하다, 가리다**; (a.) **모호한, 잘 알려지지 않은**. 분명하지 않거나 이해하기 어려운 상태. | 형용사로 '모호한' 외에, '무명의', '잘 알려지지 않은'이라는 의미도 있음. 동사로 '가리다'는 물리적, 비유적 의미 모두 사용. |
+| **`concede`** (vt.) | `con-` (함께) + `cedere` (가다) | **(사실임을) 인정하다, 양보하다**. 마지못해 어떤 사실을 받아들이거나 상대방의 주장을 일부 인정하는 행위. | `admit`와 유사하지만, `concede`는 특히 논쟁이나 협상에서 상대방에게 '양보'하는 뉘앙스가 강함. |
+| **`surrender`** (vt./n.) | `sur-` (위에) + `rendre` (돌려주다) | (vt.) **항복하다, 포기하다**; (n.) **항복, 포기**. 싸움이나 저항을 멈추고 상대방에게 굴복하는 행위. | 단순히 '포기하다'를 넘어, '자신을 내어주다', '굴복하다'는 강한 의미. |
+| **`disclose`** (vt.) | `dis-` (부정) + `claudere` (닫다) | **폭로하다, 밝히다**. 비밀이나 숨겨진 정보를 드러내는 행위. | `reveal`과 유사하지만, `disclose`는 주로 공식적이거나 중요한 정보를 공개할 때 사용. |
+| **`cling`** (vi.) | `klingen` (붙잡다) | **매달리다, 고수하다**. 어떤 것에 단단히 붙어 있거나 특정 생각, 습관을 버리지 않는 행위. | 물리적으로 '매달리다' 외에, '생각이나 신념을 고수하다'는 비유적 의미가 중요. |
+| **`regulate`** (vt.) | `regula` (규칙) | **규제하다, 통제하다**. 규칙이나 법규에 따라 어떤 것을 관리하거나 조절하는 행위. | `control`과 유사하지만, `regulate`는 주로 공식적인 규칙이나 시스템에 의해 통제하는 것을 의미. |
+| **`moderate`** (a./v.) | `moderare` (조절하다) | (a.) **온건한, 적당한**; (v.) **완화하다, 조절하다**. 극단적이지 않고 중간 정도의 수준이거나, 강도를 조절하는 행위. | 형용사로 '온건한' 외에, '적당한' (온도, 가격) 등의 의미로 사용. 동사로 '완화하다'는 의미도 중요. |
+| **`clutch`** (v.) | `clucchen` (움켜쥐다) | **움켜쥐다, 꽉 붙잡다**. 손으로 무엇인가를 단단히 잡는 행위. | 단순히 `hold`보다 더 '힘주어 꽉 잡다'는 뉘앙스가 강하며, 긴급하거나 불안한 상황에서 자주 사용. |
+| **`interfere`** (vt.) | `inter-` (사이에) + `ferire` (치다) | **간섭하다, 방해하다**. 다른 사람의 일이나 진행 중인 과정에 끼어들어 영향을 미치는 행위. | 주로 부정적인 의미로 '방해하다', '참견하다'는 뉘앙스가 강함. `intervene`과 유사하지만, `interfere`는 더 직접적인 방해를 의미. |
+| **`persist`** (vi.) | `per-` (통하여) + `sistere` (서다) | **끈질기게 계속하다, 고집하다**. 어려움에도 불구하고 어떤 행동이나 상태를 계속 유지하는 행위. | `continue`보다 '어려움에도 불구하고 끈질기게'라는 뉘앙스가 강함. |
+| **`conceive`** (vt.) | `con-` (함께) + `capere` (취하다) | **(생각, 계획 등을) 생각해 내다, 상상하다, 임신하다**. 새로운 아이디어를 떠올리거나 생명을 잉태하는 행위. | '생각해 내다' 외에, '임신하다'는 의미도 중요. 추상적인 생각과 물리적인 임신 모두에 사용. |
+| **`random`** (a.) | `randir` (돌진하다) | **무작위의, 임의의**. 특별한 규칙이나 계획 없이 되는 대로 선택된. | '무작위의'라는 의미가 핵심. `at random` (무작위로)와 같은 표현 숙지. |
+| **`instruct`** (v.) | `in-` (안에) + `struere` (세우다) | **가르치다, 지시하다**. 지식이나 기술을 전달하거나 특정 행동을 명령하는 행위. | `teach`보다 더 '체계적으로 가르치다'는 뉘앙스가 강하며, '지시하다'는 의미도 중요. |
+| **`resemble`** (vt.) | `re-` (다시) + `similis` (비슷한) | **~을 닮다, ~와 비슷하다**. 외모나 특징이 다른 것과 유사한. | `look like`와 유사하지만, `resemble`은 더 공식적이고 문어적인 표현. |
+| **`opt`** (vt.) | `optare` (선택하다) | **선택하다, 고르다**. 여러 대안 중에서 하나를 선택하는 행위. | `choose`와 유사하지만, `opt`는 더 공식적이거나 신중한 선택을 의미. 주로 `opt for` 형태로 사용. |
+| **`intensive`** (a.) | `intendere` (늘리다) | **집중적인, 강도 높은**. 많은 노력이나 에너지가 투입되는. | `strong`이나 `focused`보다 '강도 높게 몰두하는' 뉘앙스가 강함. |
+| **`trigger`** (v./n.) | (어원 불분명) | (v.) **촉발하다, 유발하다**; (n.) **방아쇠, 계기**. 어떤 사건이나 반응을 일으키는 원인. | 동사로 '유발하다'는 의미가 중요하며, 주로 부정적이거나 갑작스러운 사건에 사용. 명사로 '방아쇠'는 비유적으로 '계기'를 의미. |
+| **`obscure`** (v./a.) | `ob-` (위에) + `scurus` (어두운) | (v.) **모호하게 하다, 가리다**; (a.) **모호한, 잘 알려지지 않은**. 분명하지 않거나 이해하기 어려운 상태. | 형용사로 '모호한' 외에, '무명의', '잘 알려지지 않은'이라는 의미도 있음. 동사로 '가리다'는 물리적, 비유적 의미 모두 사용. |
+| **`concede`** (vt.) | `con-` (함께) + `cedere` (가다) | **(사실임을) 인정하다, 양보하다**. 마지못해 어떤 사실을 받아들이거나 상대방의 주장을 일부 인정하는 행위. | `admit`와 유사하지만, `concede`는 특히 논쟁이나 협상에서 상대방에게 '양보'하는 뉘앙스가 강함. |
+| **`surrender`** (vt./n.) | `sur-` (위에) + `rendre` (돌려주다) | (vt.) **항복하다, 포기하다**; (n.) **항복, 포기**. 싸움이나 저항을 멈추고 상대방에게 굴복하는 행위. | 단순히 '포기하다'를 넘어, '자신을 내어주다', '굴복하다'는 강한 의미. |
+| **`disclose`** (vt.) | `dis-` (부정) + `claudere` (닫다) | **폭로하다, 밝히다**. 비밀이나 숨겨진 정보를 드러내는 행위. | `reveal`과 유사하지만, `disclose`는 주로 공식적이거나 중요한 정보를 공개할 때 사용. |
+| **`cling`** (vi.) | `klingen` (붙잡다) | **매달리다, 고수하다**. 어떤 것에 단단히 붙어 있거나 특정 생각, 습관을 버리지 않는 행위. | 물리적으로 '매달리다' 외에, '생각이나 신념을 고수하다'는 비유적 의미가 중요. |
+| **`regulate`** (vt.) | `regula` (규칙) | **규제하다, 통제하다**. 규칙이나 법규에 따라 어떤 것을 관리하거나 조절하는 행위. | `control`과 유사하지만, `regulate`는 주로 공식적인 규칙이나 시스템에 의해 통제하는 것을 의미. |
+| **`moderate`** (a./v.) | `moderare` (조절하다) | (a.) **온건한, 적당한**; (v.) **완화하다, 조절하다**. 극단적이지 않고 중간 정도의 수준이거나, 강도를 조절하는 행위. | 형용사로 '온건한' 외에, '적당한' (온도, 가격) 등의 의미로 사용. 동사로 '완화하다'는 의미도 중요. |
+| **`clutch`** (v.) | `clucchen` (움켜쥐다) | **움켜쥐다, 꽉 붙잡다**. 손으로 무엇인가를 단단히 잡는 행위. | 단순히 `hold`보다 더 '힘주어 꽉 잡다'는 뉘앙스가 강하며, 긴급하거나 불안한 상황에서 자주 사용. |
+| **`interfere`** (vt.) | `inter-` (사이에) + `ferire` (치다) | **간섭하다, 방해하다**. 다른 사람의 일이나 진행 중인 과정에 끼어들어 영향을 미치는 행위. | 주로 부정적인 의미로 '방해하다', '참견하다'는 뉘앙스가 강함. `intervene`과 유사하지만, `interfere`는 더 직접적인 방해를 의미. |
+| **`persist`** (vi.) | `per-` (통하여) + `sistere` (서다) | **끈질기게 계속하다, 고집하다**. 어려움에도 불구하고 어떤 행동이나 상태를 계속 유지하는 행위. | `continue`보다 '어려움에도 불구하고 끈질기게'라는 뉘앙스가 강함. |
+| **`conceive`** (vt.) | `con-` (함께) + `capere` (취하다) | **(생각, 계획 등을) 생각해 내다, 상상하다, 임신하다**. 새로운 아이디어를 떠올리거나 생명을 잉태하는 행위. | '생각해 내다' 외에, '임신하다'는 의미도 중요. 추상적인 생각과 물리적인 임신 모두에 사용. |
+| **`random`** (a.) | `randir` (돌진하다) | **무작위의, 임의의**. 특별한 규칙이나 계획 없이 되는 대로 선택된. | '무작위의'라는 의미가 핵심. `at random` (무작위로)와 같은 표현 숙지. |
+| **`instruct`** (v.) | `in-` (안에) + `struere` (세우다) | **가르치다, 지시하다**. 지식이나 기술을 전달하거나 특정 행동을 명령하는 행위. | `teach`보다 더 '체계적으로 가르치다'는 뉘앙스가 강하며, '지시하다'는 의미도 중요. |
+| **`resemble`** (vt.) | `re-` (다시) + `similis` (비슷한) | **~을 닮다, ~와 비슷하다**. 외모나 특징이 다른 것과 유사한. | `look like`와 유사하지만, `resemble`은 더 공식적이고 문어적인 표현. |
+| **`opt`** (vt.) | `optare` (선택하다) | **선택하다, 고르다**. 여러 대안 중에서 하나를 선택하는 행위. | `choose`와 유사하지만, `opt`는 더 공식적이거나 신중한 선택을 의미. 주로 `opt for` 형태로 사용. |
+| **`intensive`** (a.) | `intendere` (늘리다) | **집중적인, 강도 높은**. 많은 노력이나 에너지가 투입되는. | `strong`이나 `focused`보다 '강도 높게 몰두하는' 뉘앙스가 강함. |
+| **`trigger`** (v./n.) | (어원 불분명) | (v.) **촉발하다, 유발하다**; (n.) **방아쇠, 계기**. 어떤 사건이나 반응을 일으키는 원인. | 동사로 '유발하다'는 의미가 중요하며, 주로 부정적이거나 갑작스러운 사건에 사용. 명사로 '방아쇠'는 비유적으로 '계기'를 의미. |
+| **`obscure`** (v./a.) | `ob-` (위에) + `scurus` (어두운) | (v.) **모호하게 하다, 가리다**; (a.) **모호한, 잘 알려지지 않은**. 분명하지 않거나 이해하기 어려운 상태. | 형용사로 '모호한' 외에, '무명의', '잘 알려지지 않은'이라는 의미도 있음. 동사로 '가리다'는 물리적, 비유적 의미 모두 사용. |
+| **`concede`** (vt.) | `con-` (함께) + `cedere` (가다) | **(사실임을) 인정하다, 양보하다**. 마지못해 어떤 사실을 받아들이거나 상대방의 주장을 일부 인정하는 행위. | `admit`와 유사하지만, `concede`는 특히 논쟁이나 협상에서 상대방에게 '양보'하는 뉘앙스가 강함. |
+| **`surrender`** (vt./n.) | `sur-` (위에) + `rendre` (돌려주다) | (vt.) **항복하다, 포기하다**; (n.) **항복, 포기**. 싸움이나 저항을 멈추고 상대방에게 굴복하는 행위. | 단순히 '포기하다'를 넘어, '자신을 내어주다', '굴복하다'는 강한 의미. |
+| **`disclose`** (vt.) | `dis-` (부정) + `claudere` (닫다) | **폭로하다, 밝히다**. 비밀이나 숨겨진 정보를 드러내는 행위. | `reveal`과 유사하지만, `disclose`는 주로 공식적이거나 중요한 정보를 공개할 때 사용. |
+| **`cling`** (vi.) | `klingen` (붙잡다) | **매달리다, 고수하다**. 어떤 것에 단단히 붙어 있거나 특정 생각, 습관을 버리지 않는 행위. | 물리적으로 '매달리다' 외에, '생각이나 신념을 고수하다'는 비유적 의미가 중요. |
+| **`regulate`** (vt.) | `regula` (규칙) | **규제하다, 통제하다**. 규칙이나 법규에 따라 어떤 것을 관리하거나 조절하는 행위. | `control`과 유사하지만, `regulate`는 주로 공식적인 규칙이나 시스템에 의해 통제하는 것을 의미. |
+| **`moderate`** (a./v.) | `moderare` (조절하다) | (a.) **온건한, 적당한**; (v.) **완화하다, 조절하다**. 극단적이지 않고 중간 정도의 수준이거나, 강도를 조절하는 행위. | 형용사로 '온건한' 외에, '적당한' (온도, 가격) 등의 의미로 사용. 동사로 '완화하다'는 의미도 중요. |
+| **`clutch`** (v.) | `clucchen` (움켜쥐다) | **움켜쥐다, 꽉 붙잡다**. 손으로 무엇인가를 단단히 잡는 행위. | 단순히 `hold`보다 더 '힘주어 꽉 잡다'는 뉘앙스가 강하며, 긴급하거나 불안한 상황에서 자주 사용. |
+| **`interfere`** (vt.) | `inter-` (사이에) + `ferire` (치다) | **간섭하다, 방해하다**. 다른 사람의 일이나 진행 중인 과정에 끼어들어 영향을 미치는 행위. | 주로 부정적인 의미로 '방해하다', '참견하다'는 뉘앙스가 강함. `intervene`과 유사하지만, `interfere`는 더 직접적인 방해를 의미. |
+| **`persist`** (vi.) | `per-` (통하여) + `sistere` (서다) | **끈질기게 계속하다, 고집하다**. 어려움에도 불구하고 어떤 행동이나 상태를 계속 유지하는 행위. | `continue`보다 '어려움에도 불구하고 끈질기게'라는 뉘앙스가 강함. |
+| **`conceive`** (vt.) | `con-` (함께) + `capere` (취하다) | **(생각, 계획 등을) 생각해 내다, 상상하다, 임신하다**. 새로운 아이디어를 떠올리거나 생명을 잉태하는 행위. | '생각해 내다' 외에, '임신하다'는 의미도 중요. 추상적인 생각과 물리적인 임신 모두에 사용. |
+| **`random`** (a.) | `randir` (돌진하다) | **무작위의, 임의의**. 특별한 규칙이나 계획 없이 되는 대로 선택된. | '무작위의'라는 의미가 핵심. `at random` (무작위로)와 같은 표현 숙지. |
+| **`instruct`** (v.) | `in-` (안에) + `struere` (세우다) | **가르치다, 지시하다**. 지식이나 기술을 전달하거나 특정 행동을 명령하는 행위. | `teach`보다 더 '체계적으로 가르치다'는 뉘앙스가 강하며, '지시하다'는 의미도 중요. |
+| **`resemble`** (vt.) | `re-` (다시) + `similis` (비슷한) | **~을 닮다, ~와 비슷하다**. 외모나 특징이 다른 것과 유사한. | `look like`와 유사하지만, `resemble`은 더 공식적이고 문어적인 표현. |
+| **`opt`** (vt.) | `optare` (선택하다) | **선택하다, 고르다**. 여러 대안 중에서 하나를 선택하는 행위. | `choose`와 유사하지만, `opt`는 더 공식적이거나 신중한 선택을 의미. 주로 `opt for` 형태로 사용. |
+| **`intensive`** (a.) | `intendere` (늘리다) | **집중적인, 강도 높은**. 많은 노력이나 에너지가 투입되는. | `strong`이나 `focused`보다 '강도 높게 몰두하는' 뉘앙스가 강함. |
+| **`trigger`** (v./n.) | (어원 불분명) | (v.) **촉발하다, 유발하다**; (n.) **방아쇠, 계기**. 어떤 사건이나 반응을 일으키는 원인. | 동사로 '유발하다'는 의미가 중요하며, 주로 부정적이거나 갑작스러운 사건에 사용. 명사로 '방아쇠'는 비유적으로 '계기'를 의미. |
+| **`obscure`** (v./a.) | `ob-` (위에) + `scurus` (어두운) | (v.) **모호하게 하다, 가리다**; (a.) **모호한, 잘 알려지지 않은**. 분명하지 않거나 이해하기 어려운 상태. | 형용사로 '모호한' 외에, '무명의', '잘 알려지지 않은'이라는 의미도 있음. 동사로 '가리다'는 물리적, 비유적 의미 모두 사용. |
+| **`concede`** (vt.) | `con-` (함께) + `cedere` (가다) | **(사실임을) 인정하다, 양보하다**. 마지못해 어떤 사실
+
+---
+
+## 📖 영어 단어 Word Master 1권: Unit 137-140 (우선순위 3877-4000)
+
+### 1. 🧭 단원 개요 및 핵심 학습 목표 (Overview & Targets)
+- **주요 학습 테마**: 다양한 품사(명사, 동사, 형용사, 부사)로 활용되는 핵심 어휘 및 다의어 학습
+- **원어민 사고방식 핵심 요약**: 단어의 핵심 의미를 파악하고, 문맥에 따라 품사와 뉘앙스가 어떻게 변화하는지 이해하여 유연하게 활용하는 능력을 기릅니다. 특히, 명사와 동사로 모두 쓰이는 단어들의 의미 확장 방식을 체득합니다.
+
+### 2. 🎯 핵심 공식 & 원어민 뉘앙스 매트릭스 (Rule & Nuance Matrix)
+| 구분 / 유닛 | 핵심 공식 & 구조 | 원어민 실제 뉘앙스 & 용법 | 한국인 학습자 단골 함정 (Pitfalls) |
+|---|---|---|---|
+| **다의어 (Polysemy)** | 한 단어가 여러 품사로 쓰이며 다양한 의미를 가짐. | 동사/명사 전환 시 의미의 핵심은 유지되나, 문맥에 따라 구체적인 행위/상태로 발현. (예: `stain` - 얼룩(명사) vs 얼룩지게 하다(동사)) | 단순히 첫 번째 뜻만 외우고 다른 품사/의미를 간과하여 문맥 이해에 실패. (예: `tense`를 '시제'로만 알아 '긴장한' 형용사 의미를 놓침) |
+| **명사-동사 전환** | 명사형과 동사형이 동일한 형태를 가지는 경우가 많음. | 명사일 때는 '사물/상태', 동사일 때는 '행위/변화'를 나타냄. (예: `segment` - 부분(명사) vs 나누다(동사)) | 동사로 쓰일 때 목적어 유무(타동사/자동사)를 혼동하여 문장 구조 오류 발생. |
+| **형용사-부사 파생** | 형용사에 `-ly`를 붙여 부사를 만드는 규칙. | 형용사는 명사를 수식, 부사는 동사/형용사/다른 부사/문장 전체를 수식. (예: `geographical` vs `geographically`) | 모든 형용사에 `-ly`를 붙일 수 있다고 오해하거나, 불규칙 부사(예: `fast` - 형용사/부사 동일)를 혼동. |
+| **접미사 활용** | `-tion`, `-ment`, `-ist`, `-al` 등 접미사를 통해 품사 및 의미 확장. | `-tion` (명사, 행위/결과), `-ment` (명사, 행위/상태), `-ist` (명사, 전문가/주의자), `-al` (형용사, ~의) | 접미사의 의미를 정확히 알지 못해 단어의 파생 관계를 유추하지 못함. (예: `economist`를 '경제'로만 이해) |
+
+### 3. 🏋️ 실전 연습문제 & 인터랙티브 자가 점검 드릴 (Interactive Practice Drills)
+
+#### **문제 1**
+Choose the word that best completes the sentence.
+The company is investing heavily in new __________ advancements.
+a) economist
+b) geographical
+c) technological
+d) advisory
+
+||[정답] c) technological||
+
+**💡 상세 해설 & 오답 분석**:
+- **정답 이유**: 문맥상 '기술적인 발전'이라는 의미가 가장 자연스럽습니다. `advancements` (발전)를 수식하는 형용사가 필요하며, `technological`은 '기술적인'이라는 뜻의 형용사입니다.
+- **오답 보기 분석**:
+  - a) `economist`: '경제학자'라는 명사로, `advancements`를 수식할 수 없습니다.
+  - b) `geographical`: '지리적인'이라는 형용사로, 문맥상 '기술 발전'과는 관련이 없습니다.
+  - d) `advisory`: '자문의, 조언하는'이라는 형용사로, 기술 발전과는 어울리지 않습니다.
+
+#### **문제 2**
+Which sentence uses the word "stain" correctly as a verb?
+a) There's a coffee stain on my shirt.
+b) She tried to stain the wood a darker color.
+c) The stain on his reputation was hard to remove.
+d) He pointed out the stain on the window.
+
+||[정답] b) She tried to stain the wood a darker color.||
+
+**💡 상세 해설 & 오답 분석**:
+- **정답 이유**: `stain`이 '얼룩지게 하다, 염색하다'라는 동사로 사용되었습니다. 목적어 `the wood`를 취하여 '나무를 더 어두운 색으로 염색하려고 했다'는 의미를 형성합니다.
+- **오답 보기 분석**:
+  - a) `There's a coffee stain on my shirt.`: `stain`이 '얼룩'이라는 명사로 사용되었습니다.
+  - c) `The stain on his reputation was hard to remove.`: `stain`이 '오점, 흠'이라는 명사로 사용되었습니다.
+  - d) `He pointed out the stain on the window.`: `stain`이 '얼룩'이라는 명사로 사용되었습니다.
+
+#### **문제 3**
+Select the most appropriate word to fill in the blank.
+The speaker paused, taking a deep __________ before continuing his speech.
+a) gasp
+b) roar
+c) cough
+d) breeze
+
+||[정답] a) gasp||
+
+**💡 상세 해설 & 오답 분석**:
+- **정답 이유**: `gasp`는 '숨을 헐떡거림, 헉 하는 소리'라는 뜻의 명사입니다. 'deep gasp'는 연설을 계속하기 전에 깊이 숨을 들이쉬는 행위를 묘사하기에 가장 적절합니다.
+- **오답 보기 분석**:
+  - b) `roar`: '으르렁거리는 소리, 함성'이라는 뜻으로, 연설 중 숨을 쉬는 행위와는 어울리지 않습니다.
+  - c) `cough`: '기침'이라는 뜻으로, 연설 중 깊이 숨을 쉬는 것과는 다릅니다.
+  - d) `breeze`: '산들바람'이라는 뜻으로, 문맥과 전혀 관련이 없습니다.
+
+#### **문제 4**
+Which of the following words is an adverb?
+a) sympathetic
+b) certainty
+c) dramatically
+d) inspect
+
+||[정답] c) dramatically||
+
+**💡 상세 해설 & 오답 분석**:
+- **정답 이유**: `dramatically`는 형용사 `dramatic`에 `-ally`가 붙어 '극적으로'라는 뜻의 부사가 되었습니다. 부사는 동사, 형용사, 다른 부사 또는 문장 전체를 수식합니다.
+- **오답 보기 분석**:
+  - a) `sympathetic`: '동정적인'이라는 형용사입니다.
+  - b) `certainty`: '확실성'이라는 명사입니다.
+  - d) `inspect`: '검사하다'라는 동사입니다.
+
+### 4. 🧠 핵심 문장 암기 & 스피킹 훈련 매트릭스 (Key Sentence Mastery Matrix)
+| 번호 | 영문 실전 문장 | 자연스러운 한국어 번역 | 핵심 문법 & 발음 팁 |
+|:---:|---|---|---|
+| 1 | We need to invest in **technological** advancements to stay competitive. | 우리는 경쟁력을 유지하기 위해 **기술적인** 발전에 투자해야 합니다. | `technological` /ˌtɛknəˈlɑːdʒɪkəl/ - 강세는 세 번째 음절에. `advancements`와 함께 자주 쓰이는 연어. |
+| 2 | The company's profits have increased **dramatically** over the past year. | 지난 한 해 동안 회사의 이익이 **극적으로** 증가했습니다. | `dramatically` /drəˈmætɪkli/ - 동사 `increased`를 수식하는 부사. `-ally` 발음에 유의. |
+| 3 | He took a deep **gasp** and then continued his story. | 그는 깊이 **숨을 들이쉬고** 이야기를 계속했습니다. | `gasp` /ɡæsp/ - 명사로 '숨을 헐떡거림'. `take a deep gasp`는 관용적인 표현. |
+| 4 | Please **enclose** the documents in the envelope. | 봉투 안에 서류들을 **동봉해** 주세요. | `enclose` /ɪnˈkloʊz/ - '둘러싸다, 동봉하다'. 비즈니스 문서에서 자주 사용. |
+| 5 | The decision was made after much **deliberate** consideration. | 그 결정은 많은 **심사숙고** 끝에 내려졌습니다. | `deliberate` /dɪˈlɪbərɪt/ - 형용사로 '고의적인, 신중한'. 동사로는 '심사숙고하다'. 여기서는 형용사. |
+| 6 | She tried to **stain** the fabric a darker shade of blue. | 그녀는 그 천을 더 어두운 파란색으로 **염색하려고** 했습니다. | `stain` /steɪn/ - 동사로 '얼룩지게 하다, 염색하다'. 명사 '얼룩'과 구분. |
+| 7 | His **integrity** is beyond question; he is a truly honest man. | 그의 **청렴함**은 의심할 여지가 없습니다; 그는 진정으로 정직한 사람입니다. | `integrity` /ɪnˈtɛɡrəti/ - '청렴, 진실성'. 긍정적인 인물 묘사에 사용. |
+| 8 | The **remains** of the ancient city were discovered by archaeologists. | 고대 도시의 **유적**이 고고학자들에 의해 발견되었습니다. | `remains` /rɪˈmeɪnz/ - 복수형으로 '유적, 잔해'라는 뜻. 단수 `remain` (남다)와 구분. |
+| 9 | They decided to **commence** the project next month. | 그들은 다음 달에 프로젝트를 **시작하기로** 결정했습니다. | `commence` /kəˈmɛns/ - `begin`이나 `start`보다 격식 있는 표현. |
+| 10 | The two sisters are very much **alike** in appearance. | 그 두 자매는 외모가 매우 **비슷합니다**. | `alike` /əˈlaɪk/ - 형용사 또는 부사로 '비슷한, 비슷하게'. 주로 보어로 사용. |
+
+---

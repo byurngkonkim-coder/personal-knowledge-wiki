@@ -1,0 +1,33356 @@
+---
+title: "비지니스영어__English_txt"
+category: "글로벌 어학 & 영어"
+type: "english_learning"
+project: "03_English Materials"
+notebook: "English_txt"
+summary: "title: '비즈니스 영어 (Business English)'"
+decision_status: "accepted"
+source: "비지니스영어__English_txt.md"
+source_path: "03_English Materials/English_txt/비지니스영어__English_txt.md"
+created: 2026-10-02
+converted: 2026-10-02
+status: canonical
+tags:
+  - 영어학습
+  - 영어회화
+aliases: []
+---
+
+> ---
+> title: "비즈니스 영어 (Business English)"
+> aliases: []
+> tags: [english, business, speaking, pattern, conversation, phrasal-verbs, source, mcp-extracted]
+> type: document
+> ---
+>
+> # 🗣️ 비즈니스 영어 (Business English)
+>
+> ## 🎯 학습 개요 (Learning Overview)
+>
+> **주요 학습 테마**: 비즈니스 미팅, 전화 통화, 약속 잡기, 이메일 커뮤니케이션, 제품 소개, 쇼핑, 렌트카, 식사 초대 등 실무 비즈니스 상황별 회화
+>
+> **핵심 수록 표현 수**: 50+ 핵심 표현 및 구동사
+>
+> **학습 포인트**:
+> 1. 격식적(Formal) 비즈니스 상황에서의 인사, 소개, 응대 표현 습득
+> 2. 구동사(Phrasal Verbs)와 관용구의 자연스러운 활용 (stick around, take in, book up 등)
+> 3. 전화, 이메일, 대면 미팅 등 다양한 비즈니스 채널별 의사소통 표현 마스터
+>
+> ---
+>
+> ## 📚 무손실 핵심 표현 & 패턴 마스터 (Core Expressions & Patterns)
+>
+> ### 🔹 표현 1 `It's great to see you again` : 다시 만나게 되어 정말 반갑습니다
+>
+> **💡 뉘앙스 & 상황 맥락**:
+> - 처음 만나는 사람이나 오랜만에 만난 사람에게 사용하는 인사말
+> - "How do you do" 보다 훨씬 더 자주, 더 따뜻하게 사용됨
+> - 상대방이 정말 반갑고 기뻐한다는 감정이 자연스럽게 드러남
+>
+> **🔊 발음 & 연음 팁 (Pronunciation Tip)**:
+> - "It's" [ɪts] + "great" [greɪt] → "It's great" 자연스럽게 연결
+> - "see" [siː]와 "you" [juː]의 연음: "see you" → "see-ya" (구어체에서는 [siːjə])
+> - 강세: **Great**에 주 강세 (It's **GREAT** to see you)
+>
+> **📝 실전 예문 (Real Examples)**:
+> - 🇺🇸 `It's great to see you again, Mr. Kim!`
+>   - 🇰🇷 김 선생님, 다시 만나게 되어 대단히 반갑습니다!
+> - 🇺🇸 `It's great to see you after so long.`
+>   - 🇰🇷 오랜만에 만나게 되어 정말 좋습니다.
+>
+> **💬 대화 스크립트 (Dialogue Context)**:
+> > **John**: It's great to see you again, Mr. Kim! This is Will Smith, my general manager.
+> > ↳ *존: 김 선생님, 다시 만나게 되어 대단히 반갑습니다. 이쪽은 윌 스미스 부장입니다.*
+> > **Kim**: It's a pleasure to meet you!
+> > ↳ *김: 만나 뵙게 되어 반갑습니다.*
+>
+> **🔄 패턴 응용 & 교체 연습 (Substitution Drill)**:
+> - `It's + [감정형용사] + to + [동사] + you` = 상대방에 대한 감정 표현
+>   - It's **wonderful** to see you → 정말 멋진 일이 일어났다 (너를 만나서)
+>   - It's **nice** to see you → 좋습니다
+>   - It's **good** to see you → 반갑습니다
+>
+> **⚠️ 주의사항 & 콩글리시 방지 (Pitfalls & Common Mistakes)**:
+> - ❌ "It's great seeing you" (비격식, 덜 정중함)
+> - ✅ "It's great to see you" (격식적, 비즈니스 상황에 적합)
+> - 한국인이 자주 하는 실수: "It's great see you" (to 생략) → **반드시 to 포함**
+>
+> ---
+>
+> ### 🔹 표현 2 `It's a pleasure to meet you` : 만나 뵙게 되어 반갑습니다
+>
+> **💡 뉘앙스 & 상황 맥락**:
+> - 상대방에 대한 존경의 표현이면서 자신을 낮추는 표현
+> - 첫 만남이나 정중한 비즈니스 상황에서 필수 표현
+> - "pleasure"라는 단어로 진심 어린 기쁨을 표현
+>
+> **🔊 발음 & 연음 팁 (Pronunciation Tip)**:
+> - "pleasure" [ˈpleʒə] → "PLEH-zhur" (강세는 첫 음절)
+> - "to meet" → "t'meet" (자연스러운 연음, to의 [t]와 meet의 [m]이 부드럽게 연결)
+>
+> **📝 실전 예문 (Real Examples)**:
+> - 🇺🇸 `It's a pleasure to meet you, Mr. Smith.`
+>   - 🇰🇷 스미스 씨, 만나 뵙게 되어 반갑습니다.
+> - 🇺🇸 `It's a pleasure to meet you too!`
+>   - 🇰🇷 저도 만나서 반갑습니다!
+>
+> **💬 대화 스크립트 (Dialogue Context)**:
+> > **Kim**: It's a pleasure to meet you!
+> > ↳ *김: 만나 뵙게 되어 반갑습니다!*
+> > **Smith**: Nice to meet you, too. I've heard a lot about you.
+> > ↳ *스미스: 저도 만나서 반갑습니다. 선생님에 대해서는 말씀 많이 들었습니다.*
+>
+> **🔄 패턴 응용 & 교체 연습 (Substitution Drill)**:
+> - `It's a pleasure to + [동사]` = 존경과 기쁨의 표현
+>   - It's a pleasure to **work with you** → 함께 일하게 되어 반갑습니다
+>   - It's a pleasure to **do business with you** → 거래하게 되어 반갑습니다
+> - 동의 표현: `It's my pleasure to meet you` (동일한 의미)
+>
+> **⚠️ 주의사항 & 콩글리시 방지 (Pitfalls & Common Mistakes)**:
+> - ❌ "Pleased to meet you" (너무 짧고 덜 정중함)
+> - ✅ "It's a pleasure to meet you" (충분히 정중하고 따뜻함)
+> - 한국인이 자주 하는 실수: 비즈니스 상황에서 "Nice to meet you"만 쓰고 "pleasure" 표현을 놓침
+>
+> ---
+>
+> ### 🔹 표현 3 `I've heard a lot about you` : 선생님에 대해서는 말씀 많이 들었습니다
+>
+> **💡 뉘앙스 & 상황 맥락**:
+> - **"heard a lot about"** = 다른 사람으로부터 그 사람에 대해 자세하게, 여러 번 들었다
+> - **"heard from"** (발음이 비슷함) ≠ 단순히 사실을 전해 들었다는 뜻
+> - 비즈니스에서는 상대방의 평판이 좋다는 긍정적 뉘앙스 전달
+>
+> **🔊 발음 & 연음 팁 (Pronunciation Tip)**:
+> - "I've heard" → "Ahv heard" (I've의 [v] 발음)
+> - "a lot about you" → "ə lɑt ə'baʊt juː" (a lot의 [ə lɑt], about의 stressed 음절)
+> - 강세 패턴: **I've HEARD** a **LOT** about you (heard와 lot에 강세)
+>
+> **📝 실전 예문 (Real Examples)**:
+> - 🇺🇸 `I've heard a lot about your company.`
+>   - 🇰🇷 귀사에 대해 많이 들었습니다.
+> - 🇺🇸 `I've heard a lot of good things about you.`
+>   - 🇰🇷 선생님에 대해 좋은 소문을 많이 들었습니다.
+>
+> **💬 대화 스크립트 (Dialogue Context)**:
+> > **Smith**: Nice to meet you, too. I've heard a lot about you.
+> > ↳ *스미스: 저도 만나서 반갑습니다. 선생님에 대해서는 말씀 많이 들었습니다.*
+>
+> **🔄 패턴 응용 & 교체 연습 (Substitution Drill)**:
+> - `I've heard a lot about + [대상]` = 그 대상에 대해 긍정적으로 많이 들었다
+>   - I've heard a lot about **your new project** → 새 프로젝트에 대해 많이 들었습니다
+>   - I've heard a lot about **your success in Korea** → 한국에서의 성공에 대해 많이 들었습니다
+>
+> **🧱 문법 & 구동사 심층 분해**:
+> - **"heard about" vs "heard from"의 명확한 차이**:
+>   - `I've heard **about** you` = 제3자로부터 그 사람에 **관해** 들었다
+>   - `I've heard **from** you` = 그 사람으로부터 **직접** 소식/연락을 받았다
+>   - 비즈니스에서는 "heard about"이 훨씬 더 자주 사용됨
+>
+> **⚠️ 주의사항 & 콩글리시 방지 (Pitfalls & Common Mistakes)**:
+> - ❌ "I've heard from you a lot" (직접 그 사람으로부터 들었다는 뜻)
+> - ✅ "I've heard a lot about you" (제3자의 말을 통해 알고 있다)
+>
+> ---
+>
+> ### 🔹 표현 4 `stick around` : 한 장소에서 일정 기간 머무르다
+>
+> **💡 뉘앙스 & 상황 맥락**:
+> - 원래 의미: 그 자리에 "착 달라붙어 꼼짝하지 않는다"
+> - 비즈니스 문맥: "한 장소에서 일정 기간 동안 머무르다", "남아있다"
+> - 비격식적(Informal) 톤으로 편하고 자연스러운 느낌
+>
+> **🔊 발음 & 연음 팁 (Pronunciation Tip)**:
+> - "stick" [stɪk] - 강세음절
+> - "around" [əˈraʊnd] - 두 번째 음절에 강세
+> - 전체: "**STICK** aROUND" (stick에 주 강세)
+> - 구어체에서는 빠르게 "stick'round" 발음
+>
+> **📝 실전 예문 (Real Examples)**:
+> - 🇺🇸 `I'll stick around until we get the new project off the ground.`
+>   - 🇰🇷 새로운 프로젝트가 어느 정도 궤도에 오를 때까지 머무를 예정입니다.
+> - 🇺🇸 `Can you stick around for another hour?`
+>   - 🇰🇷 한 시간만 더 여기 있을 수 있습니까?
+>
+> **💬 대화 스크립트 (Dialogue Context)**:
+> > **John**: How long do you plan on staying in U.S.?
+> > ↳ *존: 미국에는 얼마나 머무를 예정입니까?*
+> > **Kim**: I'll stick around until we get the new project off the ground.
+> > ↳ *김: 새로운 프로젝트가 어느 정도 궤도에 오를 때까지 머무를 예정입니다.*
+>
+> **🔄 패턴 응용 & 교체 연습 (Substitution Drill)**:
+> - `stick around + [시간/기간]` = 그 기간 동안 머무르다
+>   - stick around **for a few days** → 며칠 동안 머무르다
+>   - stick around **until the project is done** → 프로젝트가 완료될 때까지 머무르다
+>
+> **🧱 문법 & 구동사 심층 분해**:
+> - **"stick"의 핵심 이미지**: 무언가에 "붙어있다", "고정되어 있다"
+> - **"around"의 의미**: 그 장소/그 상황에 "계속 있다"
+> - **결합 의미**: "stick" (붙어있다) + "around" (주변에) = 한 장소에 계속 머무르다
+> - **유사 표현 비교**:
+>   - `stay around` = stick around (동의어)
+>   - `hang around` = 한 장소에서 시간을 보내다 (더 비격식적)
+>   - `remain` = 남다 (더 격식적)
+>
+> **⚠️ 주의사항 & 콩글리시 방지 (
+
+---
+
+Situation 1 : Business Meeting
+
+Kim Young-ho is visiting his head office in San Hose. He is meeting with John and Smith to discuss future business operation.
+
+John: ①It's great see you again, Mr. Kim! This is Will Smith, my general manager.
+Kim: ②It's a pleasure to meet you!
+Smith: Nice meet you, too. ③I've heard a lot about you..
+John: How long do you plan on staying in U. S.
+Kim: I'll ④stick around until we get the new project off the ground. 
+상황 1 -- 비즈니스 미팅 
+
+( 김영호가 산호세에 위치한 본사를 방문하고 있다. 그는 향후 비즈니스 운영을 위해서 현재 존과 스미스를 만나고 있는 중이다.)
+존: 김 선생님, 다시 만나게 되어 대단히 반갑습니다. 이쪽은 윌 스미스 부장입니다.
+김영호: 만나 뵙게되어 반갑습니다.
+스미스: 저도 만나서 반갑습니다. 김 선생님에 대해서는 말씀 많이 들었습니다.
+존: 미국에는 얼마나 머무를 예정입니까
+김영호: 새로운 프로젝트가 어느 정도 궤도에 오를 때까지 머무를 예정입니다.
+
+< 어구해설>
+① "It's great see you" 는 상대방이 처음 만나는 사이일 때 "How do you do" 이상으로 가장 많이 사용되는 어구이다. 물론 "It's nice to see you" 로도 쓸 수 있다.
+② "It's a pleasure ∼" 는 일종의 상대방에 대한 존경의 표현으로써 자신을 낮추는 표현이 된다. "It's my pleasure ∼" 로 표현하여도 무방하다.
+③ "I've heard about" 는 다른 사람으로부터 어떠한 내용을 자세하게 들어서 이미 알고 있다는 의미이며 "I've heard from" 은 단순하게 "∼로부터 사실을 전해듣다" 라는 뜻이므로 native speaker 와 대화를 나눌 때에는 주의 할 필요가 있다.
+④ "stick around" 는 원문대로 보자면 그 자리에 착 달라붙어서 꼼짝하지 않는다는 뜻인데 여기서는 한 장소에서 일정기간동안 머문다는 "stay in one place for a long time "으로 이해하면 된다. 
+Situation 2: Briefing
+Anderson, CEO of Para Industries Co., Ltd. is briefing two potential customers.
+They are Kim Young-ho of Yurim and Cho In-soo of Hanjin Co., Ltd.
+
+Anderson: ①Let me introduce myself to you. My name is John Anderson.
+We are in the business of manufacturing shipping containers. In this line of business quality is the top priority and the quality of container is ②topnotch.
+30 minutes later
+Kim: Nice to meet you. I've looked over your annual report, and now I'd like youto expand on the operations on the Para Industries Co., Ltd.
+Cho: Well, we're quite impressed with your company. However, ③we'll need some time to make up our minds about dealing with Para Industries Co., Ltd.
+Anderson: Don't take too much time. After all time is money!
+상황 2 : 브리핑
+( 파라산업의 CEO인 앤더슨이 가망고객인 유림의 김영호와 한진산업의 조 인수에게 회사에 대한 브리핑을 하고 있다.) 
+
+앤더슨: 제 소개를 드리기로 하지요. 저는 존 앤더슨입니다. 파라산업은 선적 컨테이너를 제작하는 회사입니다. 이러한 사업분야에서 품질은 최우선적인 부분이지요. 우리회사의 컨테이너는 초일류급입니다.
+30 분 후
+김 영호: 만나서 반갑습니다. 귀사의 연례 보고서를 꼼꼼히 검토해 본 결과 저희 유림은 파라산업이 한국으로 사업을 확장하길 원하고 있습니다.
+조 인수: 귀사에 깊은 감명을 받았습니다. 하지만 귀사와 거래를 결심하는데는 시간이 좀 걸릴 것 같습니다. 
+앤더슨: 너무 생각하지 마십시오. 결국 시간이 돈이니까요!
+
+<어구해설>
+① "Let me introduce oneself to ∼" 는 공식적인 회의나 만남시 상대방에게 자신을 정식으로 소개할 때 사용하는 말이며 격식을 갖추어야 하는 자리에서는 반드시 사용해야만 한다. 
+② "notch" 는 "단계"나 "급(級)"을 나타내는 구어적 표현으로서 앞에 "top" 이 붙게 될 경우 "초일류의" 라는 형용사가 된다. 하이픈이 없이 "topnotch" 로 쓰는 경우에는 "최고점" 이라는 의미이다.
+③ "We'll need some time to ∼" 는 바이어와 상담 중 신속한 결정을 내리지 못할 때 사용되는 표현이다. 상대방에게 거절의사를 단호하게 밝힐 수 없는 경우 이 표현을 쓴다면 무리가 없을 것이다. 
+Situation 3 : Duty-free shop
+Mike is supposed to go to London for business trip. he looks around the duty-free shop. He wants to buy a present for his wife. 
+
+Clerk: ①May I help you Are you looking for something in particular
+Mike: Yes, I need a gift for my wife. ②Can you make a suggestion
+Clerk: ③How about some perfume
+Mike: That's a good idea.
+
+상황 3: 면세점
+(마이크는 사업차 런던에 갈 예정이다. 비행기를 기다리는 동안 그는 면세점을 둘러보고 있다.)
+
+점원: 무엇을 도와드릴까요 특별히 찾는 것 있으세요
+마이크: 예, 부인에게 줄 선물을 찾고 있는데요.
+점원: 향수가 어떠세요
+마이크: 그거 좋을 것 같군요
+
+<어구해설>
+① 다른 사람에게 의향을 물어볼 때 가장 흔하게 쓰는 표현이다. May 대신 Can을 사용할 수 있으며 반대로 상대방에게 도움을 요청하는 경우에는 "May I ask a favor of you"를 사용할 수 있다.
+② 이 표현은 여러 장소에서 다양하게 사용할 수 있다. 가령 음식점에서 메뉴를 정하지 못할 때 웨이터에게 질문하는 경우에도 유용하게 사용할 수 있다.
+③ "How about ∼" 은 상대방의 의향을 알고자 할 때 사용하며 "What about ∼" 도 같은 맥락에서 사용되는 구어적 표현이라고 할 수 있다.
+Situation 4: E-Mail 
+Laura, assistant manager of Java International Co., Ltd. visits his customer company in London. She asks whether Smith got her E-mail she sent last Monday.
+
+Laura: How are you ①Did you get the E-mail I sent to you last week
+Smith: Which E-mail would that be 
+Laura: The report summarizing the costs for the new project.
+Smith: No, I've been waiting for it all morning.
+Laura: Well, I sent it to your secretary.
+Smith: O well, that explains things! ② She's history. She was transferred to anotherbranch
+
+상황 4: 전자메일
+(자바 인터내셔널의 대리인 로라가 런던의 거래처 회사를 방문하고 있다. 그녀는 지난주에 보낸 E-mail을 상대방이 잘 받았는지 궁금해한다.)
+
+로라: 안녕하세요 스미스씨 제가 지난주에 보내드린 메일은 받으셨는지요
+스미스: 어떤 E-mail 말씀인가요
+로라: 신규 프로젝트에 드는 비용을 요약한 보고서인데요.
+스미스: 오전 내내 그것만 기다렸는데
+로라: 제가 비서에게 보내드렸는데요
+스미스: 아! 이제 알겠군요. 제 비서가 여기서 일을 안하거든요.
+다른 지사로 발령이 났어요.
+
+<어구해설>
+① "Did you + 동사 ∼" 로 시작하는 문장은 꼭 외워두어야 할 형식이다. 상대방에게 확인을 할 필요가 있는 경우 "∼ 하셨나요" 라는 표현이 가능하며 많은 활용이 가능할 것이다.
+② 어떤 사람이 일을 그만두거나 다른 곳으로 발령이 났다거나 또는 해고됐다거나 해서 현재 그 직장에서 일하지 않을 경우 이 표현을 쓸 수 있다. 즉 "She no longer works here" 와 같은 의미이다. 간단한 표현이므로 외워두면 유용할 것이다. 
+
+Situation 5 Appointment
+Kim In-soo wants to make an appointment with his partner Williams. He asks his partners to meet in his office. But Willams refuses his proposal.
+
+In-soo: Do you have time this afternoon 
+Williams: I'm sorry I have a previous appointment.
+In-soo: ① When will you be available How about dinner today 
+Williams: Not tonight, but Wednesday is okay. I'm terribly sorry, ②I'm booked uptoday.
+
+상황 5 : 약 속
+(김 인수가 회사 동료인 윌리엄스와 약속을 하려고 한다. 김 인수는 윌리엄스에게 자신의 사무실에서 만나자고 말하는데 . . .)
+
+인수: 오후에 시간 좀 있나요
+윌리엄스: 미안해요. 선약이 있거든요.
+인수: 그럼 언제 시간이 나죠 오늘 저녁은 어때요
+윌리엄스: 오늘은 안되겠는데요. 하지만 수요일은 괜찮은데.
+정말 미안한데요. 저 오늘 스케줄이 꽉 찼어요.
+
+<어구해설>
+① 여기에서 available 은 "시간이 있는", "여가가 있는" 의 의미이다. available 대신 free를 써도 된다. "When would it be most convenient "와 바꾸어 표현할 수도 있다.
+② "be booked up" 은 약속 등으로 이미 예약이 되어 있어서 "바쁘다" 는 의미이다. 다른 표현으로는 "I have a tight schedule today", "I'm tied up today" 로 바꾸어 쓸 수 있다.
+Situation 6: Telephone 1
+Lee Min-woo has a schedule to meet his customer and discuss the business problem with Mr. Johnson. he is confirming his appointment. with Johnson's secretary.
+
+Secretary: Good afternoon. Plaza Press. May I help you sir
+Lee: Good afternoon. ①This is Lee Dong-woo. I'm calling to confirm my appointment with Mr. Johnson tomorrow ②at 4:30 p. m
+Secretary: Oh, just a moment please . . . Yes, that's right. Tomorrow at 4: 30.
+Lee: Thank you.
+
+상황 6 : 전화통화 1
+( 이 민우는 고객인 존슨과 만날 예정이며 그와 비즈니스 상의 문제에 대하여 논의하려고 한다. 그는 전화로 존슨과의 약속을 확인하고 있다.)
+
+비서 : 안녕하십니까 Plaza Press입니다. 무엇을 도와드릴까요
+이민우: 제 이름은 이민우입니다. 내일 오후 4시 반에 존슨 씨와 약속을 확인하고 싶은데요.
+비서: 아 잠깐만 기다려 주십시오. . . 예, 맞습니다. 내일 오후 4시 반에 약속이 되어 있군요.
+이민우 : 감사합니다.
+
+<어구해설>
+① 자신의 이름을 밝힐 때 상대를 잘 알고 있는 경우에는 Mr. ____, 또는 Mrs. _______
+라고 last name만 말할 수도 있지만 full name을 쓰는 것이 더 보편적이고 바람직한 표현이다.
+② 군대 이외에서는 24시간제를 쓰는 것이 그리 흔하지 않으므로 낮 12시 이전은 a.m 그리고 그 이후는 p.m을 사용하는 것이 좋다. 그리고 뒤의 a.m (p.m) 은 생략해도 상관이 없다.
+Situation 7: Telephone 2
+Marian wants to talk with her financial consultant, James. But she did not speak to him. Marian tries to make another appointment.
+
+Marian : ① May I speak to Mr. James 
+Kim Mi-sun: I'm sorry he's in conference.
+Marian: Oh, I see. ②What time do you think he'll be free
+Kim Mi-sun: I think he will be free in an hour. Can I take a message
+Marian: No, I call back later.
+
+상황 7: 전화통화 2
+(매리언이 그녀의 금융 컨설턴트인 제임스와 통화하려고 한다. 하지만 그의 부재로 인해서 통화를 하지 못하고 다시 약속을 잡으려고 하는데. . . )
+
+매리언: 조인수 씨와 통화할 수 있을까요
+김미선: 죄송합니다만 그분은 회의 중이십니다.
+매리언: 예 알겠습니다. 언제쯤 끝날까요
+김미선: 제 생각으로는 한 시간 정도 후가 될 것 같습니다.
+전하실 말씀이라도 있으신가요
+매리언: 아닙니다. 제가 다시 걸도록 하지요.
+
+<어구해설>
+① 일반적으로 전화를 걸 때 가장 먼저 사용하게 되는 어구이다. "I'd like to speak to∼"로 바꾸어 말할 수도 있다. 
+②통화하고자 하는 상대가 외출등의 일로 부재중 때에는 "When will hw back", "When is he expected" 등의 표현을 사용했는데 회사에 있지만 다른 업무로 전화를 받을 시간이 없을 때에는 위의 표현이 보편적이다.
+Situation 8 : Take in 
+Sam is talking about the business with Oh Min-soo. Sam is his co-partner. Oh Min- soo is delighted to take in over a lot of money.
+
+Sam: ① How's business at the snack bar, Mr. Oh
+Oh: ②So far so good 
+Kim: How much did you ② take in today
+Mike: Today was a good day. I took in over $3,000
+
+상황 8: 수입을 올리다
+(샘이 오민수와 사업에 대해서 이야기한다. 샘은 오민수의 사업 파트너이다. 오민수는 많은 돈을 벌어서 기뻐하고 있다.)
+
+샘: 간이 식당 사업은 잘 되갑니까
+오민수: 지금까지는 그럭저럭 괜찮습니다.
+샘 : 오늘 수입은 얼마입니까
+오민수: 오늘은 괜찮은 편입니다. 3000달러 이상이나 수입을 올렸으니까요.
+
+<어구해설>
+① "How is ∼" 는 사람에 대한 안부나 일의 진행상태를 물어볼 때 사용하는 표현방법이다. how 와 관련된 표현은 사전에 보면 약 27가지가 있다. 특히 구어체에서는 자주 쓰이는 표현이 있으므로 숙지해 둘 필요가 있다.
+② "so far (지금까지)"를 이용하여 관용구처럼 쓰이는 숙어로서 외워두면 유용하게 사용할 수 있는 말이다.
+③ "take in" 의 뜻을 사전에서 찾아보면 약 11가지나 되는데 여기서는 "(수입을) 올리다, 얻다" 의 의미이다.
+Situation 9 After Reception
+
+Jane asks Min Ki-ho about the meeting with buyer. Min Ki-ho received his guest last night. He had a 
+bad headache.
+
+Jane: How was last night meeting
+Min: Oh, I feel ①terrible. Even my hair hurts.
+Jane: You drank like a fish last night and now you have a hangover.
+②It serves you right
+Boss : C'mon show a little sympathy.
+
+
+상황 9: 접대 다음날
+
+(바이어와의 미팅에 대해서 제인이 민 기호에게 묻는다. 민 기호는 어젯밤에 손님접대를 해서 두통이 아주 심한 상태이다.)
+
+
+제인: 어제 접대는 어땠나요
+민 기호: 아이구 죽겠어. 골치가 아파서 머리카락까지 아플 지경이야.
+제인: 어젯밤에 과음을 했으니 머리가 띵할 수 밖에요 자업 자득이네요.
+민 기호: 이봐 제인 좀 동정하는 내색이라도 보여줘.
+
+<어구해설>
+① "terrible" 이라는 말은 이 대화에서처럼 "대단한, 지독한" 이라는 의미 외에도 " very 의 뜻으로도 사용된다.
+② 이 말을 다른 말로 풀이하자면 "You deserve what happened to you because of how you acted and 
+what you did" 의 의미로서 상대방에 대한 책망이나 비웃음의 의미가 있으므로 상황에 맞추어 선별해서 
+사용해야 한다.
+Situation 10 : M&A
+Clark and Chang Lin is wondering about the M&A. Their company tries to merger with ABC corporation. They think two companies will be easily mergered.
+
+James: ① Do you really think we can take over the ABC corporation.
+Chang: Certainly. Their cash flow has dried up and their production is down. 
+In other words, they're ②a sitting duck
+James: Yes, Indeed 
+
+상황 10: 인수 합병
+클라크와 챙 린이 인수합병에 대해서 궁금해 한다. 그들의 회사는 ABC 사와 회사를 합병하려고 하는데 두 사람은 그것이 쉽게 이루어 질 것이라고 생각한다. 
+
+클라크: 우리가 정말 ABC 사를 인수할 수 있을 거라고 생각해
+창: 물론이지. 그 회사의 현금 유통액은 바닥이 났고 생산도 감소했어.
+말하자면 ABC 사는 쉽게 해치울 수 있는 목표물이라 이거지.
+제임스: 바로 그거야
+<어구해설>
+① "Do you think ∼" 로 시작되는 의문사에는 반드시 yes나 no 처럼 확실한 의견을 말해주어야 한다. 그리고 앞에 What 이나 Who 와 같은 의문사가 들어가는 경우에는 보다 구체적인 대답을 필요로 하는 문장형식이 된다.
+② 물위에 앉아 발놀림을 쉬고 있는 오리는 분명 사냥꾼에게는 아주 쉬운 표적이 된다. "sitting duck" 은 그러한 상황을 비유하여 쓰는 말로서 수월한 목표 만만한 사람을 가리킨다 
+Situation 11 Visit 
+John is telling sales manager of DM Korea. But He forgot the new company address. He asks the manager how to find him DM Korea. 
+Manager: Hello, this is DM Korea. 
+John: Hello this is John. ①How do I get to your new company
+Manager: First, take a left on Lawson St. 
+John: And then
+Manager: After two blocks. you'll see a park on the corner.
+Our building is next to it. and I'm in 3B.
+John: ②Got it, I'll see you about 4 : 00 p. m
+Manager: Good, see you then 
+상황 11 회사 방문
+존이 DM 코리아의 영업부장과 통화중이다. 하지만 주소를 기억하지 못해 회사를 찾아갈 수 있는 방법을 부장에게 전화로 묻고 있다. 
+부장: 안녕하십니까 DM 코리아입니다. 
+존: 안녕하십니까 제가 회사를 방문하려고 하는데요.
+부장: 우선 로손 가에서 왼쪽으로 도십시오.
+존 : 그 다음은 어디로 가지요
+부장: 두 블록을 지나면 구석에 공원이 하나 보일 거예요.
+저희 사무실은 그 공원 바로 옆 건물입니다.
+존: 아 이제 알겠어요. 4 시쯤 찾아뵙기로 하죠.
+부장: 알겠습니다. 그럼 이따가 봅시다. 
+
+< 어구해설>
+① "How do I get to --" 는 상대방에게 가능성 타진의 여부를 묻는 말로서 "do" 대신 can을 사용할 수도 있다. 
+② get 동사는 사전에서 여러 가지 의미로 사용되는 단어이다. 여기서는 "understand" 의미로서 사용되었다. 
+Situation 12 Restaurant 
+Sohn Min-ho is an assistant manager of Korea Chemicals Co., Ltd. He is serving his customer, Mike. He recommends Mike to eat Korean food. 
+
+
+Sohn: You like bulgogi, don't you
+Mike : ①I've never tried it, actually. What's that
+Sohn: It's marinated meat, cooked at our table. 
+Mike: ② Sounds great, what about drinks
+Sohn: Well, you've tried soju, haven't you 
+Mike: Yes, and I really like it. 
+Sohn: Okay, I'll order a bottle.
+상황 12 식 당
+한국 화학 주식회사의 대리인 손 민호가 고객인 마이크를 대접하고 있다. 그는 마이크에게 한국음식을 추천한다.
+손 민호: 불고기 좋아하십니까
+마이크: 먹어본 적이 없는데요. 그게 뭔데요
+손 민호: 양념된 고기를 테이블에서 요리해 먹는 음식입니다.
+마이크: 좋습니다. 술은 무엇으로 할까요 
+손 민호: 소주 마셔본 적 있나요 
+마이크: 그럼요 아주 좋아합니다.
+손 민호: 그럼 한 병 시키도록 하지요.
+
+< 어구해설>
+① never 는 not 보다 강한 부정을 나타내며 동사의 앞이나 조동사의 뒤에 놓인다. 일반적으로 "Have you ever ∼" 와 같은 질문에 대한 답변 형식으로 많이 쓰인다.
+② 여기에서 sound는 동사로 "∼하게 들리다, 느껴지다" 의미로 사용되었다. 원래는 It을 써서 "It sounds good"으로 표현해도 무방하다. 
+
+Situation 20 Seeing Off 
+Mr. Mike Frazer is about to leave Korea. Lee Ho-min is seeing him off at the airport. 
+Frazer: ①I'd like to thank you for seeing me off at the airport, Mr. Lee.
+Lee: It's my pleasure, Mr. Frazer. I've enjoyed meeting you and doing 
+business together.
+Frazer: Yes, me too. ②Have you ever thought of traveling to New York
+Lee: I've thought about it, but I have never had a chance to go.
+Frazer: I would like to invite you to New York, sometime. Just give me a call if you decide to come over.
+Lee: I'll be sure and do that, Mr. Frazer. 
+상황 20 배 웅
+마이크 프레이저가 한국을 떠나려하고 있다. 이 호민이 공항에서 그를 배웅하고 있다.
+
+프레이저: 공항까지 배웅해 주셔서 감사합니다. 이 선생님.
+이 호민: 천만예요. 프레이저 선생님. 만나 뵙고 같이 일하게 되어서 즐거웠습니다. 
+프레이저: 예 저도 그랬습니다. 뉴욕 여행에 대해 생각해 보신 적이 있습니까
+이 호민: 생각은 있었지만 기회가 전혀 없었습니다.
+프레이저: 언젠가 뉴욕에 선생님을 초청하고 싶습니다. 오실 기회가 있으면 전화 주십시오.
+이 호민: 예 그렇게 하기로 하겠습니다.
+
+< 어구해설 >
+① "감사" 의 표현은 여러 가지로 표현이 가능하다. 간단히 "thank you for -" 라고 의사를 전달해도 무리는 없겠지만 특히 격식을 차려야 하는 손님과의 대화에서는 가급적 전체 문장을 완성하여 전달하는 것이 좋다.
+② 과거의 경험을 물어볼 때 자주 사용하는 표현이다. 물론 현재완료의 표현은 그 행위가 현재까지도 영향을 미치는 상황이며 "Did you ∼"로 시작하는 과거형 문장에서는 ever, never, before 등의 부사를 함께 사용할 수 없다. 
+
+
+
+
+Situation 19 Reunion 
+Donald Cobb visited to Korea in order to participate in Trade Service Show 2001. 
+Kim: Excuse me, aren't you Donald Cobb
+Cobb: Yes, I am.①Have we met
+Kim: I believe we met about two years ago. I'm Su-mi Kim from the Opus Imports in Korea. Do you remember me
+Cobb: Yes, now I remember. It's been a long time. How have you been
+Kim: Fine, thank you. ②What do you think of Trade Service Show 2001 
+Kim: It's shaping up to be a great show. There seems to be a lot of potential buyers.
+상황 19 재회
+도널드 콥이 서울에서 열리는 무역 서비스 전시회 2001 에 참가하기 위해서 한국을 방문하였다.
+김수미: 실례합니다만 도널드 콥 선생님 아니십니까
+도날드 콥: 예 그렇습니다. 전에 만난 적이 있던가요 
+김수미: 제가 생각하기로는 2 년 전쯤에 뵌 것 같은데요. 저는 한국 오퍼스 수입상사의 김수미라고 합니다. 저를 기억하시겠어요 
+도날드 콥: 예, 기억납니다. 오랜만이군요. 어떻게 지내셨습니까
+김수미: 잘 지냈습니다. 감사합니다. 이번 무역서비스 전시회 2001에 대해서 어떻게 생각하십니까
+도날드 콥: 아주 성공적인 무역서비스 전시회인 것 같습니다. 구매를 하려는 회사들이 아주 많은 것 같습니다. 
+<어구해설>
+① 불확실한 상황을 상대방에게 질문할 때 사용 가능한 표현이다. 이와 반대로 "Haven't we met" 처럼 not을 사용하게 되면 확실한 상황을 다시 한번 확인하려는 의도의 질문이 된다. 
+② "어떻게 생각하십니까" 라는 문장은 여러 가지로 표현이 가능하다. 다음은 다른 사람의 의견을 묻거나 어떤 일을 해 달라고 요청 할 때 쓸 수 있는 정중한 표현들이므로 참고하여 유용하게 활용할 수 있다. 
+"What are you thought on" 
+"What's your opinion"
+"What does that sound like you"
+
+
+
+Situation 18 Business Trip 2
+Lee Min-ho is passing the custom office. He is being asked to submit his passport. 
+
+Custom Official: May I see your passport, please
+Lee: Yes, here it is. 
+Custom Official: ①Where are you coming from 
+Lee: ①-1 I'm coming from Korea.
+Custom Official: Mr. Lee, what is the purpose of your visit
+Lee: ②I'm here on a business trip. I work for a clothing manufacturer.
+Custom Official: O. K, here is your passport back. Enjoy your stay in the United States.
+Lee: Thank you.
+상황 18 출장 2
+이민호가 세관사무소를 지나가면서 여권 제출을 요구받는다 
+세관원: 여권을 좀 보여주세요.
+이민호: 예, 여기 있습니다. 
+세관원: 어디서 오셨죠 
+이민호: 한국에서 왔습니다. 
+세관원: 방문목적이 무엇입니까
+이민호: 업무 차 왔습니다. 저는 의류 회사에서 근무합니다.
+세관원: 좋습니다. 여기 여권이 있습니다. 즐거운 방문이 되시길 바랍니다. 
+이민호: 감사합니다.
+< 어구 해설 >
+① Where are you coming from 은 결국 과거의 의미를 포함하고 있으므로 Where did you coming from 이라는 문장으로도 질문이 가능하다. 그에 대한 답변으로는 come 동사를 사용하여 표현할 수도 있지만 간단히 "I'm from ∼" 으로 생략해서 사용한다.
+② 여기서는 be 동사와 전치사 on을 사용해서 목적의 의미를 나타내는 표현을 사용하였다. 간단한 문장구조이지만 실제 회화에서 아주 빈번하게 사용되므로 외워두면 유용하게 활용이 가능 할 것이다. 
+
+
+
+Situation 17 Visa Interview
+
+Mrs. Kim Hye-ri is applying for a visa in US Embassy in Seoul. 
+
+Official: Hello Mrs. Kim. You're applying for a short term visitors visa. Is that correct
+Mrs. Kim:①Yes It is
+Official: Why do you wish to travel to the United States
+Mrs. Kim: I am actually going to a trade fair in Chicago.
+Official: Will you be traveling elsewhere besides Chicago
+Mrs. Kim: ②I don't expect to.
+Official: Ok. I don't see any problems We'll prepare a visa for you. 
+
+상황 17 비자인터뷰
+
+김 혜리 여사가 주한 미국 대사관에서 비자신청을 하고 있다. 
+사무관: 안녕하세요 단기방문 비자를 신청하셨군요. 맞습니까 
+김: 예 그렇습니다.
+사무관: 미국여행의 목적은 무엇입니까
+김: 시카고에서 개최되는 무역박람회에 참가할 예정입니다. 
+사무관: 시카고 이외의 다른 지역을 여행하실 겁니까
+김: 아뇨 없습니다.
+사무관: 좋습니다. 별 문제가 없어 보이는군요. 곧 비자를 준비하도록 하겠습니다. 
+<어구해설>
+① 영어의 의문문과 그에 대한 답변은 같은 동사의 맥락에서 사용된다. 따라서 "can you speak English" 에 대한 답변은 "Yes I can"으로 대답해야 한다. 따라서 답변하기 전에 상대방이 어떠한 동사를 사용하였는지 생각해 보아야 한다. 
+
+② 이 대답은 ①번에서 설명한 규칙에는 어긋나지만 expect 동사를 사용해서 보다 구어적인 표현으로 사용할 수 있다. 일반적으로 우리가 가장 많이 접할 수 있는 표현은 "Do you think-" 라는 질문에 대해 "I don't think so" 라는 표현을 들 수 있다. 
+
+
+
+Situation 16 Business Trip 1 
+
+Min Sang-ho is planning to make a business trip to New York. He reserves his airplane ticket. 
+Travel Agent: Hello, This is a Seoul Travel. May I help you 
+Min: I want to reserve a ticket for New York.
+Travel Agent: Do you want to business class or economy
+Min: ①Business class, please.
+Travel Agent: Would you like to us to arrange accommodation for you as well
+Min: Yes I would. 
+Travel Agent: ②What kind of hotel are you looking for 
+Min: I'd like to stay in a hotel close to downtown. 
+상황 16 출장 1
+
+민 상호는 뉴욕으로 출장을 가기 위해서 비행기 티켓을 예약하려고 한다. 
+
+여행사직원 : 여보세요 서울 여행사입니다. 무엇을 도와드릴까요 
+민 상호: 뉴욕 행 표를 예매하고 싶은데요. 
+여행사직원 : 비즈니스 클래스를 원하십니까 아니면 이코노믹 클래스를 원하십니까
+민 상호: 비즈니스 클래스로 부탁드립니다.
+여행사 직원: 숙박하실 곳도 예약해 드릴까요
+민 상호 : 예 그렇게 해 주세요.
+여행사 직원: 어떤 호텔을 원하십니까
+민 상호: 시내에서 가까운 호텔에 묵었으면 하는데요.
+
+<어구해설>
+① 이 대답을 원래 문장으로 완성한다면 "I want to reserve business class" 가 된다. 하지만 여기서는 자신의 선택사항만을 전달하면 되므로 간단하게 의미를 전달한 후 please를 뒤에 가볍게 연결하면 자연스러운 문장으로 이어지게 된다. 우리말에서도 "식사 하셨습니까" 라는 질문에 "예 저는 식사를 했습니다" 라고 대답하지는 않기 때문이다.
+② "What kind of "는 의문문 앞에 부가적인 말로 사용할 수 있다. 예를 들어 "당신은 어떤 음식을 가장 좋아하십니까" 라는 표현은 "Do you like food" 이라는 문장 앞에 "What kind of"를 추가하면 된다.
+
+
+
+
+
+
+
+Situation 15 Trade Service Show 2001
+John is a manager of Falco Trading Co., Ltd. He wants to know some information about the Trade Service Show. 
+Kim: Trade Service Show 2001, may I help you
+John: Yes, ①I'm calling from Osaka, Japan. I want to get some information about the Show.
+Kim: This show will be held on Feb. 14. We can send you more detailed information concerning the show and the companies that will be represented. 
+John: ②That would be very nice of you. I would be very interested. 
+Situation 15 무역서비스 전시회 2001
+
+존 스미스는 일본 팔코 주식회사의 과장이다. 그는 한국에서 열리는 무역 서비스 전시회 2001 에 대한 정보를 얻고자 한다. 
+김: 안녕하십니까 무역서비스 전시회 2001 본부입니다. 무엇을 도와드릴까요
+존 스미스: 여기는 일본 오사카입니다. 이번에 열리는 서비스 전시회에 대한 정보를 얻을 수 있을까요
+김: 이번 전시회는 2월 14일에 개최될 예정입니다. 저희는 전시회와 이번에 참여하는 기업들의 보다 상세한 정보를 보내드릴 수 있습니다. 
+존 스미스 : 아주 친절하시군요. 저는 아주 관심이 많습니다. 
+<어구해설>
+① 맨 처음 전화를 받을 때 영어에서는 자신의 신분을 밝히는 것이 일반적인 관례이다. 이 대화에서 사용된 표현말고도 "This is John Smith from ∼" 이나 "I'm John Smith from ∼" 같이 이름을 직접 언급할 수도 있다.
+② 상대방의 친절에 대한 감사의 표현으로 단순히 "Thank you" 라고 간단히 표현하는 것 보다 훨씬 격식을 갖춘 표현이라고 볼 수 있다. " It is very nice of you" 도 자주 사용되는 표현이다. 
+
+
+
+
+
+
+
+Situation 14 Deadline 
+Susan ①was pressed with her work. She should submit the design for new car to his boss next week. However, she did not finished it. 
+Susan: I can't decide how to design the new car. 
+Lee Mi-ok: ②Can you decide before the deadline 
+Susan : When was the deadline
+Lee Mi-ok: Tomorrow 
+Susan: I should be ready by then. No problem.
+상황 14. 마감시간
+
+자신의 일에 쫓겨있는 수잔은 내일까지 신차 모델 디자인을 상관에게 제출해야만 한다. 그러나 아직까지 일을 끝마치지 못하고 있는데. . . 
+수 잔: 신차를 디자인하는 방법을 결정하지 못했어요
+이 미옥: 마감 전에 디자인을 결정할 수 있나요
+수 잔: 언제가 마감이었죠
+이 미옥: 내일까지요
+수 잔: 그때까지 준비되도록 해야죠. 
+<어구해설>
+① "be pressed with ∼" 는 글자그대로 보자면 무엇인가에 눌려있다는 의미이다. 따라서 여기서는 엄청난 일로 스트레스를 받고 있다는 의미로 해석하면 된다. 
+② can 으로 시작하는 의문문은 누구나 사용가능한 표현으로 간주되지만 막상 긴박한 상황에 처할 때 쉬운 표현도 생각나지 않을 때가 있다. 예를 들어 "잠깐 시간좀 내주시겠어요" 라는 표현도 can 동사를 사용하면 "Can I see you" 라고 간단히 표현할 수 있다.
+
+
+
+
+Situation 13 Reservation 
+Steve is asking hotel manager to reserve a room for his customer. He is expected to meet Korean buyer, Kim In-ho tonight and to discuss the imported agricultural product. 
+Steve: ①I'd like to reserve a room for tonight.
+Manager : For how many sir  
+Steves: Just one. 
+Manager: How long will you stay 
+Steve: For two days. 
+Manager : The name  
+Steve: S-T-E-V-E. 
+Manager : ②Thank you for calling Mr Steve. We will be expecting you.
+
+상황 13 호텔 예약
+
+스티브가 그의 고객이 투숙 할 호텔방을 예약하기 위해서 호텔 매니저에게 전화로 통화한다. 그는 오늘 밤 한국인 바이어인 김인호와 만나 수입 농산물에 대해서 논의할 예정이다.
+
+스티브: 오늘 밤 방을 하나 예약하고 싶은데요.
+매니저: 몇 명이 투숙하십니까
+스티브: 한명이요
+매니저: 몇 일동안 계실겁니까
+스티브: 2일 동안이요.
+매니저: 성함이 
+스티브: 스티브요 S-T-E-V-E
+매니저: 전화주셔서 감사합니다. 그럼 이따가 뵙기로 하지요.
+
+< 어구해설 >
+① "I'd like to∼" 는 어떠한 내용을 바라거나 원하는 경우 want 대신 구어적표현으로 사용하는 말이다. 일반적으로 would를 사용하지만 should 를 쓰기도 한다. 
+② Thank you for + 명사 (동명사) 형식은 감사의 뜻을 표현할 때 가장 널리 쓰이는 말로서 상대방에게 호의를 미리 유도하는 경우에도 사용 가능한 표현이다. 
+
+Situation 30 Buying Things
+Kim Ji-hoon, a consultant of RT trading Co., Ltd, is standing in front of cash desk. 
+Clerk: Sir, will that be everything
+Kim: Yes, that should do it.
+Clerk: Okay, the total comes to $68. ①Will that be cash or charge
+Kim: Charge. Do you take Visa
+Clerk: We sure do. Would you like it gift-wrapped
+Kim: No, thanks. This is all for me.
+Clerk: Okay, could you sign here, please
+Kim: Oh, wait a minute! ②There's something I forgot to buy.
+상황 30 물건 구입하기
+
+RT 무역 주식회사의 컨설턴트인 김지훈이 계산대앞에 서서 기다리고 있다.
+
+점원: 이게 전부입니까
+김지훈: 예, 그렇습니다.
+점원: 알겠습니다. 모두 합해서 68 달러입니다. 현금으로 계산하시겠습니까 아니면 카드로 할까요
+김지훈: 카드로 하겠습니다. Visa 카드도 받나요 
+점원: 물론이죠. 포장해 드릴까요
+김지훈: 아니요 됐습니다. 제가 사용할 겁니다.
+점원: 좋습니다. 여기에 서명해 주시겠습니까
+김지훈: 아 잠깐만요! 사야 할 물건이 더 있는 걸 깜박했군요. 
+<어구해설>
+① charge 란 말은 원래 "후지불 외상거래" 를 의미한다. 말하자면 신용카드(credit card) 의 의미 속에는 신용을 전제로 한 후불 외상거래가 포함되었다고 볼 수 있다.
+② 일반적이기는 하지만 something을 활용한 기본 문구만 익혀둔다면 여러 가지로 다양한 표현을 만들어 낼 수 있다. 가령 여기서는 점원이 "Is there something to buy" 라고 확인을 하는 경우도 생각할 수 있다. 
+
+
+
+
+Situation 29 Hobby
+Lee Sang-jin meets James Parker at lobby. He asks what his hobby is. 
+Lee: What do you do in your spare time
+Parker : I like to swim. Do you often ①work out
+Lee : Hmm... Not really. I rarely exercise. By the way, what's your favorite sport ②I'm crazy about baseball.
+Parker : Did you see the game on TV last night It was really exciting.
+Lee : It sure was. the Dodgers won 9 to 8.
+Parker : That's because they have good teamwork.
+상황 29 : 취 미 
+이상진이 회사 로비에서 제임스 파커를 만나 그의 취미를 묻고 있다. 
+이 상진: 여가시간에 무엇을 하세요
+파 커: 수영을 합니다. 상진씨는 운동 좀 하시나요
+이 상진: 글쎄요 거의 못하는 편이지요. 그런데 어떤 스포츠를 좋아하시나요 저는 야구를 아주 좋아하는 데요.
+파커: 어제 밤 경기 보셨나요 정말 재미있었는데.
+이 상진: 물론이죠. 다저스가 9대 8로 이겼잖아요.
+파커: 그들의 훌륭한 팀워크 때문에 이긴 것 같아요.
+<어구해설> 
+① 구조조정의 의미로도 통용되는 "work out" 은 원래 이 예문에서처럼 연습이나 점검의 의미로도 사용한다
+② 어떠한 일을 정말로 몰두해서 하는 경우 crazy 라는 형용사를 사용할 수 있다. "꼭 ∼ 하고 싶다" 는 "be crazy to + 동사 원형" 을 써서 표현한다. 
+
+
+
+Situation 28 In the Bank
+Kang Jin-su is making a business trip to Osaka. He wants to exchange his money.
+
+Clerk: Good afternoon sir, may I help you
+Kang: Yes, I would like to cash these travelers checks, please.
+Clerk: Do you ①have an account with us at the bank.
+Kang: No, I don't. Is it necessary to have an account with you
+Clerk: No, it's not, but ②we will require some identification. would you like to cash all of them
+Kang: No, just ones in $500 
+상황 28 은행에서
+강진수는 현재 오사카에서 출장업무 중이며 은행에서 환전을 원하고 있다.
+
+은행원: 어서 오십시오 어떻게 오셨습니까
+강진수:이 여행자 수표를 환전하고 싶습니다
+은행원: 저희 은행에 계좌를 갖고 계십니까
+강진수:아뇨 없습니다. 계좌를 갖고 있어야 합니까
+은행원:없어도 됩니다. 하지만 손님의 신분확인이 필요합니다. 이것을 모두 환전하시겠습니까
+강진수: 아닙니다. 500달러 짜리만 환전해 주십시오. 
+<어구해설>
+① 환전은 거래은행의 계좌가 없어도 은행원에게 제시를 하면 간단하게 처리할 수 있지만 외국으로 출발하기 전에 미리 국내에서 환전을 마친 후 떠나는 것이 훨씬 편리하다. 하지만 불가피한 경우 간단한 신분확인을 거친 후에 이용할 수 있다. 은행에 구좌를 개설하는 경우에는 "open an account" 라고 표현한다.
+② identification 은 줄여서 ID 로 표현하며 우리나라의 주민등록증에 해당하는 말이다. 
+
+
+
+
+Situation 27 Reducing Cost 
+Emile Baker and Dr. Kim Min young are in the product development center discussing SiwonTech's latest prototype. 
+
+Dr. Kim: Let' s keep in mind we don't have to develop a product that's going to ①cost us an arm and a leg to manufacture. 
+Emile: But I don't think we ②botched up the cost analysis. Also, we're swamped with orders for the Mercury.
+Dr. Kim: I agree, the PDA is a hit not only because our customers are in the market for it, but because we combined our proven technologies with an innovative idea.
+Emile: I get your point. I'm not suggesting that we cut corners or use inferior material in our next product. We have to ③zero in on a way to make a break through in design and power consumption. 
+
+상황 27 비용 절감
+
+에밀리 베이커와 김민영 박사가 제품 개발실에서 시원테크의 신개발 모델에 대해서 이야기 한다. 
+
+김박사: 우리는 비싼 생산비용이 예상되는 제품 개발을 할 필요가 없다는 것을 명심해야 할 것 같아요.
+에밀리: 하지만 저희가 비용분석을 엉터리로 했다고 생각하지는 않는데요. 그리고 현재 우리는 머큐리사에서 주문한 것 때문에 정신이 없잖아요.
+김박사: 나도 알아요, 우리 PDA 제품이 히트를 치고 있는 것은 소비자들이 구매를 원하고 있어서 뿐만 아니라 혁신적인 아이디어와 검증된 기술력이 결합했기 때문이지요
+에밀리 : 무슨 말 하시는지 알겠어요. 제 말은 비용을 절감하거나 질이 좋지 않은 재료를 사용하자는 것이 아니잖아요 
+<어구해설>
+① 이 표현은 팔과 다리를 희생하면서 까지 비용이 많이 발생한다는 의미로서 "be extremely expensive" 의 의미로 생각할 수 있다. 
+② "botch" 는 서투른 일이나 솜씨를 나타내는 말로서 여기서는 어떠한 일을 "망치다, 엉터리로 하다"는 의미이다. 
+③ 이 숙어는 원래 군대에서 포사격을 할 때 영점에 맞춘다는 의미이지만 여기서는 노력을 집중한다는 뜻으로 풀이할 수 있다. 
+
+
+
+
+
+Situation 26 Negotiation 1 
+Lee Min-ho visits Anderson Distribution. He is talking with Mitchell, vice manager of the company.
+
+Mitchell: Mr Lee ①what is your opinion of our distribution network
+Lee: Your distribution network is rather impressive. It is large and seems to be organized cohesively. It's definitely something that the Hanla company is looking for.
+Mitchell: I'm glad you think of it that way. 
+Lee: However, I'm concerned about the sales promotion of our products ②Could you give me an example
+Mitchell: No, problem. We can do that this afternoon, if you'd like. 
+
+상황 26 협상 1
+
+이민호가 앤더슨 유통회사를 방문하여 미첼과 이야기를 나누고 있다.
+
+미첼: 이 선생님, 저희 회사의 유통망에 대해서 어떻게 생각하십니까
+이민호: 귀사의 유통망은 아주 인상적입니다. 규모도 크고 탄탄히 조직되어 있는 것으로 보입니다. 
+분명히 한라가 찾고 있는 그런 회사입니다.
+미첼: 그렇게 생각하신다니 기쁘군요 
+이민호: 하지만 저희 제품의 판매 촉진책에 대해 걱정이 좀 되는군요.
+예를 들어주실 수 있습니까
+미첼:어렵지 않습니다. 괜찮으시다면 오늘 오후에 준비해 드릴 수 있습니다.
+<어구해설>
+① 바이어와 상담 시 상대방의 의견을 물어보는 표현으로는 "what do you think about∼" 이라는 표현을 쓰기도 한다. 여기서 사용된 표현은 약간 문어적인 느낌을 주기도 한다.
+② 무언가를 부탁해야 하는 경우 상대방에게 정중하게 할 수 있는 표현이다. 비슷한 표현으로는 "What would be an example " 이나 간단히 "Please give me an example" 이라고 쓰기도 한다. 
+
+
+
+
+
+Situation 25 Catching a bus 
+Park Jin-hee visited in New York. But she did not know how can she get to the Midland hotel. 
+Park: ① Could you tell me how can I get to Manhattan from here
+Driver: Yes, there are many different ways to get there. Did you want to take a taxi
+Park: I'd rather not. Is there some other way
+Driver: Yes, of course. ②the cheapest way would be to take the bus from here to the East Side terminal.
+Park: Which bus should I take
+Driver: The bus number is 106.
+Park: Thank you for your help. 
+Driver: Enjoy your stay in New York.
+상황 25 버스 타기
+박진희가 뉴욕을 방문하였다. 하지만 미드랜드 호텔로 가는 방법을 모른다 
+박진희: 맨하탄에 가려면 어떻게 해야 하는지 가르쳐 주시겠습니까
+택시기사: 예. 여러 가지 방법이 있습니다만 택시를 이용하고 싶으세요
+박진희: 아닙니다. 다른 방법이 있나요
+택시기사: 예 가장 저렴한 방법은 이스트 터미널로 가는 버스를 타는 것입니다.
+박진희: 어떤 버스를 타야 합니까
+택시기사: 106번 버스를 타십시오 
+박진희: 가르쳐주셔서 감사합니다.
+택시기사: 즐거운 뉴욕 방문이 되십시오. 
+<어구 해설>
+① could 는 허가나 의뢰를 나타내는 의문문에서 can 보다 정중한 표현으로 사용한다. 예를 들어 레스토랑에서 웨이터가 주문을 물어볼 경우에는 "Could I order sir" 라는 표현을 사용한다.
+② "가장 ∼한 방법(길)" 이라는 표현은 "최상급 + way + 동사" 의 형태를 사용한다.
+모 PC통신 광고문구에서 우리가 항상 볼 수 있는 "The best way to communicate" 도 이러한 형식을 활용한 경우이다. 
+
+
+
+
+
+Situation 24 Checking out 
+Lee Min-ho wants to check out of hotel.
+
+Lee: Good morning, I would like to check out, please.
+Manager : Yes, Mr. Lee, ①did you enjoy your stay 
+Lee: Yes I did. You have a lovely hotel.
+Manager: I am glad you like it. ②Was everything satisfactory 
+Lee: Yes, everything was fine.
+Manager: I hope to see you again.
+Lee: Yes, I will. Goodbye.
+상황 24 체크아웃 
+
+이민호가 투숙한 호텔의 체크아웃을 하려고 한다
+
+이민호: 안녕하세요 정산을 하고 싶습니다.
+지배인: 예, 이 선생님. 즐거운 체류가 되셨습니까
+이민호: 예, 멋진 호텔을 갖고 계시군요.
+지배인: 마음에 드셨다니 기쁩니다. 불편한 점은 없으셨습니까 
+이민호: 예, 모두 괜찮았습니다.
+지배인: 또 오십시오.
+이민호: 그렇게 하지요. 안녕히 계십시오.
+
+<어구해설>
+
+① Did you + 동사 원형은 과거의 사실을 상대방에게 확인할 때 사용가능한 표현이다. 현재완료도 유사한 의미를 내포하고 있기는 하지만 " 경험" 이나 "완료" 에 더욱 비중을 부여한다고 생각하면 된다.
+② 상대방의 생각에 대한 확신을 나타낼 때에는 대체적으로 be 동사를 활용한다. 일상적으로 우리가 사용하는 표현으로는 " Is everything all right" 등이 있다. 
+
+
+
+
+
+
+
+Situation 23 Propose
+Park Sang-jin, a manager of Il-dong Construction Co., Ltd proposes having a dinner. 
+Park: Mr. John Smith, ①I was wondering if you'd be interested in eating some Korean food. 
+Smith: Yes I would 
+Park: How about if I find out where there's a good Korean Restaurant and we both go
+Smith : Sure, ②why not That's a good idea.
+Park: Is Tuesday fine
+Smith: Yes it is. 
+상황 23 제안 
+
+일동건설 주식회사의 과장인 박 상진이 저녁식사를 제안한다.
+박상진: 존 스미스씨, 저녁으로 한국음식을 드셔보시겠습니까 
+스미스: 예 그렇게 하고 싶습니다.
+박상진: 둘이 갈만한 음식점을 제가 알아봐도 되겟습니까
+스미스: 물론입니다. 그거 좋은 생각이군요
+박상진: 이번 화요일 괜찮으시겠어요
+스미스: 좋습니다 
+
+<어구해설>
+① wonder라는 단어는 어느 쪽도 확신을 가질 수 없을 때 양쪽 모두에 비중을 두는 표현이다. 단어의 의미상 "궁금한 정도" 에서 그치기 보다는 "whether ∼ or"의 의미로 사용된다고 할 수 있다.
+② why not 은 두 가지 의미로 표현이 가능하며 따라서 세심한 구분이 필요하다. 여기에서는 "흔쾌한 찬성"의 의미로 사용되었으며 다른 한가지는 부정적인 응답의 이유를 물을 때 "왜 안되는 거죠" 라는 뜻을 내포하기도 한다.
+
+
+
+Situation 22 Party
+Lee Min-ho visits his buyer, Mr. Frazer in New York. He is invited for dinner party.
+Frazer: Mr. Lee. I'm glad you could ①make it to the party. Come on in.
+Lee: ②Should I take off my shoes
+Frazer: No, don't worry. Let me hang up your coat. Can I get you something to drink Whiskey, beer or wine
+Lee: A beer would be fine. thank you. 
+Frazer: Oh here comes Julie. We import clothing from her company. 
+Julie: How do you do Mr. Lee Nice to meet you. Is this first trip to America
+Lee: Yes, it is. 
+상황 22 : 파 티 
+
+이민호가 뉴욕에 있는 프레이저를 방문하여 파티에 초청을 받았다.
+
+프레이저: 이 선생님. 파티에 참석해주셔서 감사합니다. 
+이민호: 신을 벗어야 하나요
+프레이저: 아닙니다. 그냥 들어오세요. 코트를 걸어드리겠습니다. 마실 것 좀 갖다드릴까요
+위스키나 맥주 포도주가 있습니다. 
+이민호: 맥주가 좋겠습니다. 
+프레이저: 아 저기 줄리가 오는군요.
+줄리: 안녕하세요 이 선생님 만나서 감사합니다. 미국여행은 처음이신가요
+이민호: 예 그렇습니다. 
+
+<어구해설>
+① make 는 실제 회화에서 활용도가 높은 단어이므로 몇 가지 필수적인 구어적 표현들을 알아두어야만 한다. 여기에서 "make it to ∼" 는 "어떠한 장소에 도착하다" 라는 의미이다.
+② "Should I ∼" 로 시작되는 문장은 상대방으로 부터 허가를 얻고자 하는 질문 형태에서 일반적으로 사용된다. 원래는 shall 의 과거형으로 쓰이지만 미국영어에서는 주로 must 나 ought처럼 독립된 조동사의 역할을 하게 된다. 
+
+
+
+
+
+Situation 21 Customs Declaration 
+Lee Min-ho is flying to New York for the first time. He asks stewardess how to fill out the declaration form. 
+Lee: Excuse me. Can you help me 
+Stewardess: Sure. What can I do for you
+Lee: ①What are these form for
+Stewardess: ②This form is a customs declaration and the other is an I-94, an immigration form. You will have to present these to the officials when we land. 
+Lee: I see, do you have a pen I could borrow
+Stewardess: Yes. sir, right here. Do you have any other questions about the forms
+Lee: No, thank you for your help. 
+상황 21 세관 신고 
+
+이민호는 뉴욕으로 첫 번째 여행을 하고 있다. 그는 스튜어디스에게 신고서 작성방법을 묻는다.
+
+이민호: 실례지만 부탁하나 해도 될까요
+스튜어디스: 예 무슨 일 이시죠
+이민호: 이 서류들은 무엇이죠
+스튜어디스: 이것은 세관 신고서이고 다른 것은 I-94 즉 출입국 신고서입니다. 착륙 후 담당자들에게 제출하셔야 합니다. 
+이민호: 알겠습니다. 펜을 좀 빌릴 수 있을까요
+스튜어디스: 예 여기 있습니다. 서류에 대해서 물어보실 게 있습니까
+이민호: 없습니다. 도와주셔서 감사합니다. 
+
+<어구해설>
+① "What ∼for"의 형태는 두 가지로 사용된다. 하나는 What did you go there for 처럼 why의 의미이며 다른 하나는 본문에서처럼 목적이나 용도를 나타낼 때 사용한다. 
+② 비행기 기내에서 필요한 몇 가지 서류작성으로는 세관 신고서와 출입국 신고서이며 이것을 통해 여행의 목적이나 물건 소지 여부를 묻게 된다.
+
+Situation 40 Catch a Cold 
+Mike is talking to Miss Do Mi-ran. He wants to get some medicine.
+
+Mike: How are you I've got a fever and a really bad headache.
+Mi-ran: Oh, that's too bad. Why don't you take some aspirin
+Mike: I've already tried that. But it didn't help.
+Mi-ran: Well, maybe you should go to see a doctor. 
+상 황 40 감기에 걸리다
+마이크가 도 미란과 이야기를 나누고 있다. 그는 감기에 걸려서 약이 필요하다. 
+마이크: 안녕하세요 열도 좀 있고 머리도 몹시 아픈데요.
+미란: 이런, 그것 참 안됐군요. 아스피린을 좀 먹지 그러세요
+마이크: 벌써 먹었어요. 하지만 소용이 없군요.
+미란: 글쎄, 의사 진찰을 받으러 가야 되겠어요. 
+<어구해설>
+① 아픈 증상을 말하는 데는 두 가지 표현 방법이 있다. My legs hurt.(다리가 아파요)와 같이 동사 hurt을 이용하여「∼가 아프다」라고 말하는 방법과 I feel feverish.(열이 좀 있습니다.), I have a pain in my back.(난 요통이 있어요)과 같이 동사 feel이나 have를 이용하여「∼한 증상이 있다」고 말하는 방법이 그것이다. 
+② 이외에도 ache나 suffer를 이용해 아픈 증상을 다름과 같이 표현할 수도 있다. 
+I ached all over. (온 몸이 아팠습니다., 몸살이 났었습니다.) 
+I suffer from an ache in my left ear. (왼쪽 귀가 아파요.) 
+
+
+Situation 39 Direction 
+Kim Chang-gil is looking for the way to the bank. He meets a woman in the street. 
+Kim: Sorry to bother you, but ①would you please show me the way to the Bank of America
+Woman: The Bank of America Let me think for a moment... Ah, yes. It's on Main Street. ②Go two blocks until you come to the police station. 
+Kim: And then 
+Woman: Then make a left turn. It's at the corner on your right.
+Kim: Thank you very much. 
+상황 39 길 안내
+김창길이 은행을 찾고 있다가 한 여인을 길에서 만난다.
+김창길: 귀찮게 해 죄송합니다만, 아메리카 은행으로 가는 길을 가리켜 주시겠습니까
+여자: 아메리카 은행이요 잠깐만요... 아, 그래요. 메인 가에 있어요. 그리고 경찰서가 나올 때까지 두 블록을 가세요. 
+김창길: And then
+여자: 그리고 왼쪽으로 도세요. 은행은 오른쪽 길모퉁이에 있습니다. 
+김창길: 대단히 감사합니다. 
+<어구 해설>
+① 영어로 길을 가리켜 주거나 그 말을 알아 듣기는 쉽지 않다. 그러나 길을 안내할 때 사용되는 표현은 의외로 단순하고 아주 한정되어 있으므로 몇 가지 기본적인 구문만 이해한다면 쉽게 이해될 수 있을 것이다. 일잔적인 질문표현으로는 "How can I get to ∼" 로 표현이 가능하다. 
+② 길 안내를 간단한 단어를 사용하여 할 수 있는 표현은 다음과 같다
+Go straight ahead. (똑바로 가세요.) 
+Turn to the right. (오른쪽으로 도세요.) = Make a right turn. 
+It's on your right. (그곳은 당신 오른편에 있습니다.) 
+It's on your left. (그곳은 당신 왼편에 있습니다.) 
+You can't miss it. (쉽게 찾을 겁니다.) 
+Go two blocks until you come to Broadway. (브로드웨이에 다다를 때까지 두 블록을 가세요.) 
+
+
+
+
+Situation 38 Order 
+Min Ki-ho is ordering his lunch at Holiday Plaza. A waiter waits for his order.
+
+Waiter: Good afternoon, Sir. ①Are you ready to order now
+Min: Yes, ② I'd like a hamburger and a large order of french fries, please.
+Waiter: All right. And will you have a salad
+Min: Yes, I'll have a small salad with Italian on it. 
+상황 38: 주 문 
+민 기호가 홀리데이 플라자에서 점심을 주문하고 있다. 
+웨이터: 안녕하십니까 이제 주문할 준비가 되셨나요
+민기호: 네, 햄버거 하나 하고 프렌치 프라이 큰 것으로 하나 하겠습니다.
+웨이터: 알겠습니다. 샐러드도 드실 건가요
+민기호: 네, 작은 것으로 이탈리아식 드레싱을 쳐서 주세요.
+
+<어구 해설>
+① 음식주문을 권유하는 표현은 상당히 많으므로 익혀두면 상황에 따라 요긴하게 이용할 수 있다. 대체 표현은 다음과 같다. 
+What can I get for you / What would you like to order / Would you care to order now / Could I order sir /May(Shall) I take your order / Would you like to order now / Ready to order 
+② "∼으로 먹겠습니다." 라고 말하고 먹고자하는 음식 이름을 말하려면 "I'd like ∼ / I'll have∼. / I'll try ∼ / Could I have ∼ 등의 구문을 이용하면 된다. 
+
+
+
+Situation 37 English Skill 
+Sohn Mi-young, an interpreter of Giga Translation is greeting Mr. Brown at her office. 
+
+Brown: How do you do Miss. Sohn Mi-young. Nice to meet you. 
+Sohn: ①It gives me great pleasure to meet you, Mr. Brown. 
+Brown: You are good at English! Have you ever lived abroad
+Sohn: No, ②I've been to England twice for sightseeing. But I've never lived abroad.
+Brown: Where did you learn English, then Your English is so good.
+Sohn: I taught myself. 
+상황 37 : 영어실력 
+기가번역회사의 통역사인 손 미영이 브라운 씨를 맞이하고 있다. 
+브라운: 처음 뵙겠습니다. 손 미영씨 만나서 반갑습니다. 
+손미영: 만나서 대단히 반갑습니다. 브라운 선생님
+브라운: 영어를 참 잘하시는군요. 혹시 외국에서 생활해 본 적이 있으세요
+손미영: 아뇨, 관광차 영국에 두 번 가 보았지만 외국에서 살아 본 적은 없어요.
+브라운: 그러면 어디에서 영어를 배우셨죠 영어를 무척 잘하시는데요.
+손미영: 독학으로 공부했습니다. 
+<어구해설>
+① 다분히 격식을 차린 문장이라고 볼 수 있다. 일상회화는 구어체가 주를 이루고 있지만 이렇게 문어투인 표현도 사용가능 하다. "I am very pleased to see you." 라는 표현으로 바꾸어 쓸 수 있다. 
+② "경험"을 나타내는 현재완료 형태이지만 여기서 "I have gone to England" 라고 쓰면 영국에 가고 현재 여기 없다는 의미가 되어버린다. 
+
+
+
+
+
+
+Situation 36 Negotiation 2
+Henry Francois, a vice director of Mir Co., Ltd. is talking to Mr. Cho In-cheol who is a manager of KT trading. 
+
+Henry: Did you have a chance to look into ①the estimate
+Cho: Yes, I have.
+Henry: What do you think
+Cho: I think it's a bit high.
+Henry: You'll have to consider the market price of the raw material these days.
+Cho: Could you ②knock down the price
+Henry: I'm afraid that is the bottom line.
+상황 36 : 협 상 2
+
+미르 주식회사 차장인 앙리 프랑수와가 KT무역의 조 인철 과장과 이야기를 나누고 있다.
+앙리: 견적서를 보셨습니까
+조인철: 네, 보았습니다.
+앙리: 어떻게 생각하십니까
+조인철: 조금 높다고 생각합니다. 
+앙리: 요즘 원자재 시장 가격을 감안해야 됩니다.
+조인철: 값을 조금 깎아 주실 수 있습니까 
+앙리: 죄송합니다만, 그 가격이 최하가격입니다.
+<어구해설> 
+① 일반적으로 다른 회사와 거래를 하는 경우에는 사업진행에 대한 제반비용을 청구를 하는 경우가 있다. 이러한 서류를 "견적서"라고 부르며 영어로는 "written estimate"라고 쓴다. 
+② "knock down" 이란 단어는 원래 "때려눕히거나 타도한다" 는 의미를 가리키지만 여기서는 "가격이나 수량 등의 할인"을 표현하는 말이다. 예를 들어 knock down price는 (경매에서의) 최저가격을 나타낸다. 
+
+Situation 35 Agreeing on the Price
+
+Lee Han-soo is asking Charles Schneider to change the method of payment.
+Charles : Well, Mr. Lee ①have you been able to check into the altering your policy on payment methods
+Lee: I have, Mr. Charles. I can offer to change the method of payment, if you increase the size of your order
+Charles :②How big an order do you expect
+Lee : We feel that if you order a minimum of 300 climbers, we will allow you to make payment on delivery.
+
+
+상황 35 가격에 대한 합의
+이한수가 찰스 슈나이더에게 지불방법을 바꾸라고 요구하고 있다. 
+
+찰스 : 이 선생님. 지불방법에 대한 방침의 변경을 검토해 보셨습니까
+이한수: 예, 찰스씨. 주문량을 증가시키면 지불방법의 변경을 제안할 수 있습니다.
+찰스: 어느 정도의 주문을 원하십니까
+이한수: 최소한 300대 이상을 주문하시면 배달에 따른 지불을 허용할 수 있습니다. 
+
+<어구해설 > 
+① 좀더 유리한 제안을 요청할 때 당신의 의견에 동의하지 하지 않는 경우 그 생각을 바꾸고자 설득할 수 있다. 지난 강의에서 설명한 것처럼 여기서도 현재완료형 have를 사용하여 결과의 상황을 질문하는 문형을 제시하고 있다.
+② 기본적으로는 how + 형용사 주어 /동사의 형태에 간접의문문을 추가하여 의문문의 형태로 많이 표현되는 형식이다. 
+
+
+
+
+
+Situation 34 You Have the Wrong Number
+James Kim is calling to Hansung Trade. But he had the wrong extension number.
+
+Cha : Overseas Sales Department. May I help you
+Kim: Is this the Domestic Sales Department
+Cha: No, ①you have the wrong number What number are you dialing
+Kim: Your ②extension number is 1141
+Cha: NO, 1140 
+Kim: Oh I'm sorry. 
+Cha : That's all right. I'll connect you to 1141 
+
+상황 34 전화를 잘못걸다
+
+제임스 김이 한성 무역으로 전화를 걸었지만 잘못된 내선으로 걸었다.
+
+차 기영: 해외영업부입니다. 무엇을 도와드릴까요
+제임스: 국내영업부 입니까
+차기영: 아니요, 전화를 잘못 거셨군요 어디로 거셨나요
+제임스: 내선번호가 1141번 아닙니까
+차기영: 아니요 1140번입니다.
+제임스: 아, 미안합니다.
+차기영: 괜찮습니다. 1141번으로 연결해 드리겠습니다. 
+<어구해설>
+① 이번에는 have 동사를 이용하여 표현을 익히도록 하자. 잘못 걸린 전화를 받을 때 사용가능하며 가급적이면 정중하게 "I'm afraid ∼"를 함께 표현하는 것이 좋다.
+② 한국어의 "내선"을 의미하는 extension 이라는 말은 "연장"의 의미를 담고 있다. May I have Extension 1141 이라고 표현하기도 한다. 
+
+
+
+Situation 33 Picking Guest Up 
+Kim Sang-min, an assistant manager of Dong Jin Construction, picks John Smith up at airport. 
+
+John: Thank you picking me up today
+Kim: You're welcome. ①Let me check your schedule for tomorrow.
+John: ②I'm supposed to attend a meeting at ten o'clock at Hilton Hotel.
+Kim: Then I'll pick you up tomorrow morning. 
+John: Thank you
+Kim : Have a good rest 
+상황33 손님 데리러 가기
+동진건설의 대리인 김상진이 존스미스를 데리러 공항에 왔다
+존: 오늘 데리러 와주셔서 감사합니다.
+김상진: 천만에요. 내일 선생님의 일정을 알 수 있을까요
+존: 저는 내일 아침 10시에 힐튼 호텔에서 회의에 참석하기로 되어 있습니다.
+김상진: 그러면 내일 아침 모시러 가겠습니다.
+존: 감사합니다.
+김상진: 편히 쉬십시오
+<어구해설>
+① "Let me ∼" 의 형태는 일반적으로 자신의 행동을 상대방에게 허락받고자 할 때 사용한다. 다른 말로는 "Can I ∼" 나 "May I∼" 로도 바꾸어 쓸 수 있다
+② 예정이나 의무를 나타내는 표현이다. 단순히 have to 나 must에 한정되지 말고 보다 세련된 표현에 신경쓰기 바란다. 
+
+
+
+
+Situation 32 Rent a Car
+Seo Hee-ju is finding the rental agency. She needs a car for sightseeing Seattle. 
+Front Desk: Good morning sir, may I help you
+Seo: Yes, I was wanting to rent a car. ①Could you tell me if there are any rental agencies nearby
+Front Desk: There are a number of car rental companies downtown. There is Avis, Budget, and a discount rental agency called Car Crash
+Seo: Car Crash  Are you kidding
+Front Desk: No, sir the company rents order model cars at a lower rate than the other companies.
+Seo: ②Which is the best of the other companies
+Front Desk: They are pretty much equivalent. They both have good reputations and supply new model cars.
+상황 32 자동차 렌트
+
+서희주가 자동차 임대소를 찾고 있다. 그녀는 시애틀을 관광용 차가 필요하다.
+프론트 데스크: 안녕하세요 무엇을 도와드릴까요
+서희주: 예 차를 빌렸으면 하는데 부근에 차를 임대하는 곳이 있습니까
+프론트 데스크: 시내에는 자동차를 임대하는 곳이 여러 군데 있습니다. Avis, Budget, 그리고 카 크래쉬라는 할인 임대업소도 있습니다. 
+서희주: 카 크래쉬 라구요 농담이시죠
+프론트 데스크: 아닙니다. 그 회사는 다른 곳보다 저렴한 가격으로 구형 자동차를 빌려줍니다.
+서희주: 어느 곳이 더 나을까요
+프론트 데스크: 거의 비슷합니다. 두 군데 모두 평판도 좋고 신형자동차를 임대해 줍니다. 
+
+<어구해설>
+① could you + 동사 원형 if 의 형태는 if 이하가 사실인지 아닌지를 확인하는 표현이다.
+일상회화에서 자주 반복되어 쓰이고 있는 문형이므로 반복적으로 학습이 필요하다.
+② 둘 중 하나를 선택해야 하는 경우에는 which를 사용하여 표현한다. 간접의문문 절의 경우에는 which ∼to + 동사원형의 형태를 취할 수 있다. 
+
+
+
+
+Situation 31 Asking about product
+Park Min-soo visits 2001 Trade Fair and asks Stuart Miles about the product what he likes.
+
+Stuart: Mr. Park, ①do you have any questions
+Park: Yes, what can you tell me about this piece of equipment.
+Stuart:This is our stair climber. This model is our top model. 
+Park②How does it compare with the other companies
+Stuart: We feel that we have③ the edge on other companies especially in versatility.
+Park: Well, I'm very interested. Could we meet later and talk about this further
+Stuart: Of course, I'll be here for the duration of the fair. 
+상황 31 제품에 관한 문의
+
+박민수가 2001 무역 박람회에 참가하여 스튜어트 씨에게 그가 마음에 드는 제품을 문의하고 있다.
+스튜어트: 박 선생님, 뭐 궁금하신 게 있습니까
+박민수: 예, 이 기구에 대해서 설명해 주시겠습니까
+스튜어트: 이것은 계단 오르기 운동기구입니다. 저희회사의 최고 인기 상품입니다. 
+박민수: 다른 회사의 제품과 비교해서 어떻습니까
+스튜어트: 저희는 다른 회사들에 비해 특히 사용이 편리하다는 점에서 유리하다고 봅니다.
+박민수: 예 아주 흥미가 가는군요. 다음에 만나서 이 제품에 대해 더 이야기 할 수 있을까요
+스튜어트: 물론이죠 전시회 동안 있을 겁니다. 
+<어구해설> 
+① 상대방에게 의견을 물어볼 때 사용하는 표현으로 그냥 "Have you any question" 도 가능하며 간단히 Any question 으로 해도 의미는 통한다고 볼 수 있다. 
+② 어떻게 ∼할 수 있습니까 라는 유형의 질문을 하는 경우 이 문구를 기억한다면 쉽게 활용할 수 있으므로 꼭 기억해두도록 하자. 
+③ "edge" 구어적 표현으로 "우세, 유리"를 나타내는 말이다. 
+
+Situation 50 Traffic 
+Shin Min-ho has to go to the station. But he may be late. 
+Rora : I'll take you to the station to see you off. But I think we'd better hurry up.
+Shin: ① How long does it take to get there
+Rora: Half hours. But it'll take longer if traffic is bad.
+Shin: ②We should leave right away, then. 
+상황 50 교 통 
+
+신민호는 역으로 가야만 한다. 그러나 지각을 할 수도 있다.
+로라: 제가 역까지 배웅해드리죠. 하지만 서두르는게 좋을 것 같아요.
+신민호: 거기까지 가는데 시간이 얼마나 걸리죠
+로라: 30분이요. 하지만 교통사정이 좋지 않으면 더 걸릴 거예요. 
+신민호: 그럼 당장 출발해야겠군요.
+<어구해설>
+① 이번 대화에서는 주로 take 동사를 사용하여 여러 가지 표현을 제시하고 있다. 로라의 첫 번째 대화에 사용된 take는 "데리고 가다" 라는 의미로 사용되었으며 두 번째 문장에서는 "시간이 걸리다, 필요로 하다." 의 의미이다. 
+② should + 동사 원형은 "의무" 라는 뜻이지만 상대방에게는"∼하는 편이 좋겠다." 라는 의미로서 전달된다. 
+
+
+
+
+Situation 49 Accident 
+So Hee-won is talking about the news of Fred.
+So: By the way, have you heard about Susan
+Kim: No. What happened
+So: He was run over by a car last Monday, and he's in the hospital now.
+Kim: Oh, ①I'm sorry to hear that. 
+상황 49 사 고
+
+소희원이 수잔의 사고에 대해서 이야기 하고 있다
+소희원: 민주씨 수잔에 관해 얘기 들었어요
+김민주: 아니오. 무슨 일이 있나요
+소희원: 지난 월요일에 차에 치어서 지금 병원에 있어요.
+김민주: 저런, 그거 안됐군요. 
+<어구해설>
+①「그것 유감스러운 일이군요!」,「참 안됐습니다!」하고 좋지 않은 일에 대해 유감이나 애석함을 나타내는 표현으로는 다음과 같은 것들이 있다. 
+What a pity! (안됐군요!) 
+That's too bad. (그거 참 안됐군요.) 
+I'm sorry to hear that. (그거 유감이군요.) 
+That's terrible! (그거 안됐군요!) 
+How awful! (그거 안됐군요!) 
+What a shame! (참 안됐군요!) 
+That's a shame. (그거 안됐군요.) 
+
+「말씀드리기 유감스럽지만 ~」하는 의미로 말을 시작하는 표현이 I'm afraid ~이다. 
+따라서 I'm afraid 뒤에는 좋지 못한 일을 언급하게 된다. 
+
+
+
+Situation 48 Exercise 
+Kim Mi-ran meets James at the front desk. 
+
+Mi-ran: How often do you work out
+James: ①I always get up very early around 5 o'clock. And then I usually run for about half an hour.
+Mi-ran: You really like to stay in shape.
+James: You're in pretty good shape, too, Mi-ran.
+Mi-ran: Thanks. I jog for an hour every morning. And I take an aerobics class ②twice a week. 
+상황 48 : 운 동
+
+김미란이 프론트데스크에서 제임스를 만난다.
+김미란: 얼마나 자주 운동하세요 
+제임스: 언제나 5시 쯤 아주 일찍 일어납니다. 그리고는 대개 30분 정도 달리기를 하죠. 
+김미란: 당신은 정말 건강한 체력을 유지하고 싶어하는군요. 
+제임스: 미란, 당신도 매우 건강한 체격인데요. 
+김미란: 고마워요. 매일 아침 한 시간 정도씩 조깅을 해요.
+그리고 일주일에 두 번 에어로빅 강습을 받습니다. 
+<어구해설> 
+① 현재 지속되고 있는 습관적 사실을 말할 때에는 현재시제를 이용하게 되며 often, usually, always, every 등과 같은 말이 함께 쓰이는 것이 보통이다. 
+② 일주일에 두 번이라는 내용은 twice를 사용하여 twice a week 또는 twice per week 로 표현한다. 
+
+
+
+
+Situation 47 Parking 
+Kim Dong-soo is looking for the parking lot. He asks a janitor where parking lot is. 
+Kim: ①Is it OK to leave my car behind the building
+Janitor: Sure. You'll see some parking spaces there for residents.
+Kim: And what about when I have guests
+Janitor: Well, guests aren't allowed to leave their cars in the back. 
+상황 47 주 차
+김동수가 주차장을 찾고 있다가 수위아저씨에게 주차장이 어디에 있는지 물어본다.
+김동수: 건물 뒷 편에 주차해도 괜찮습니까 
+수위: 네. 그곳에 입주자용 주차장이 보일 겁니다. 
+김동수: 그런데 손님이 오면 어떻게 되죠 
+수위: 어, 손님들은 뒷 편에 주차할 수 없습니다. 
+<어구해설>
+① 허락을 구하거나 가능성을 타진하는 구문에는 Is it OK to ~, Can I ~, 또는 May I ~ 등이 있으며, 동사 allow가 사용되기도 한다. 
+Is it OK to leave my car here (이곳에 내 차를 주차해도 괜찮습니까) 
+Can I go out now (지금 나가도 됩니까) 
+You are not allowed to smoke in here. (이 안에서는 담배를 피울 수가 없습니다.) 
+②허락이나 허가를 하는 경우에는 다음의 표현을 쓸 수 있다. 
+Sure / Certainly /Of course / No problem. /Yes, you can. Yes, you may 
+
+
+
+
+Situation 46 Listening to Music
+Susan is asking her co-worker, Lee Mi-ran about the music concert. 
+Susan: Do you often go to concerts 
+Lee: Yes, but I like listening to records better. I can't stand ①mobs of pushy people.
+Susan: Yeah, I know what you mean. And how do you like disco music
+Lee: Well, ②I don't like it very much. 
+상황 46 음악 감상
+
+수잔이 그녀의 동료인 이미란에게 음악 콘서트에 대해서 물어본다.
+
+수잔: 연주회에는 자주 갑니까
+이미란: 예, 하지만 레코드 듣는 것을 더 좋아해요. 설쳐대는 사람들을 도저히 봐 줄 수가 없어요.
+수잔: 그래요, 무슨 말인지 알겠어요. 그런데 디스코 음악은 어때요
+이미란: 글쎄요, 그다지 좋아하지는 않아요. 
+<어구해설>
+① pushy 라는 말은 "나서기 잘하는" 이라는 의미로 이리저리 설쳐대는 사람을 의미하는 표현이다 
+②「~하는 것이 싫다」,「~하고 싶지 않다」의 뜻으로 hate, dislike나 like, feel like ~의 부정형이 사용된다. 또「~을 참을 수가 없을 만큼 싫어한다」의 뜻으로 cannot stand ~가 사용되기도 한다.「~하지 않는 것이 좋겠다」의 뜻으로는「I'd rather not＋동사원형」의 구문이 흔히 쓰인다. 
+
+
+
+
+Situation 45 Promotion 
+Shin San-ho, an assistant manager of Cheil Co., Ltd, was promoted to be manager.
+
+Shin: ①I have something to celebrate with you.
+
+Co-workers: We knew it. Congratulations on your promotion. All of us really think you deserve it.
+Shin: Thank you all. ② I'll treat you guys.
+Co-workers: All right. Let's celebrate !
+상황 45 승 진 
+제일 주식회사의 대리인 신상호가 과장으로 승진하였다. 
+신상호: 여러분에게 할 말이 있는데요
+동료직원: 알고 있어요. 승진 축하해요. 모두 당신이 자격이 있다고 생각해요.
+신상호: 모두들 고마워요. 제가 한턱낼게요.
+동료직원: 좋아요. 다 같이 축하합시다 !
+
+<어구해설>
+① Have something to + 동사원형 형태는 구어체 회화에서 자주 사용되는 표현으로서 
+"∼할 것이 있다."라는 의미로서 화자의 의지가 포함된 것이다. 가령 예를 들어 "나 너에게 할말이 있는데" 라고 표현한다면 I have something to tell you 이라고 표현한다.
+② 상대방을 대접한다는 의미로 treat 동사를 사용한다. 대체 표현 방법으로는 It's my treat 이라고 표현할 수도 있고 전치사 on을 사용하여 It's on me라고 사용하기도 한다. pay 동사를 사용한다면 I'll pay for it도 무난하다고 볼 수 있다. 
+
+
+
+
+
+
+
+:
+Situation 44 Direction 2 
+Henry Baker, a consultant of Delta Line is looking for some who can help him. He meets Kim Dong-su. 
+Baker: Excuse me sir. Do you know how to get to the Seoul University Hospital 
+Kim: Yes. It's easiest to use the ①subway. Try line number 2 to Tongdaemun stadium and transfer to the number 4 line. Then get off at Hyehwa.
+Baker: By the way, how can I get to the train station 
+Kim: You can take bus number 1, but ②you'd better go there by taxi. It's cold out there and you have to carry a lot of luggage
+
+상황 44 길 안내 2 
+
+델타라인의 컨설턴트인 헨리 베이커가 자신을 도와줄 누군가를 찾고 있다가 김동수를 만난다 
+베이커: 실례합니다. 혹시 서울대학병원에 어떻게 가는지 아세요 
+김동수: 네. 지하철을 이용하시는 게 제일 좋아요. 2호선을 타시고 동대문운동장 역에서
+4호선으로 갈아타세요. 그런 다음 혜화역에서 내리시면 돼요.
+베이커: 그런데, 기차역엔 어떻게 가죠 
+김동수: 1번 버스를 타시면 되지만 택시를 타고 가는 게 좋겠군요. 추운 데다가 짐도 많이 드셨으니까요.
+
+<어구해설>
+① 교통수단을 나타내는 전치사는 by 이다. 지하철을 영국에서는 underground, tube 라고 부르며 파리나 워싱턴에서는 metro 그리고 뉴욕에서는 subway 라고 부른다. 
+
+② had + better + 동사 원형의 표현은 " ∼하는 편이 낫다" 고 해석한다. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Situation 43 Be Late 
+Kim Sang-ho came late due to his busy working. He apologizes for waiting. 
+Adrian: Where have you been ①It's about time you showed up.
+Kim: I've been busy working on the marketing project.
+Adrian: But ②don't you know what time it is  We were supposed to have a meeting an hour ago.
+Kim: Oh, I forgot. I'm so sorry. 
+Adrian: Don't let it happen again. All right. 
+
+상황 43 지각하다
+김상호가 바쁜 업무 때문에 지각을 하여 기다리게 해서 미안하다고 사과한다. 
+애드리언: 어디에 있었어요  이미 나타날 시간이 다 됐잖아요.
+김상호: 마케팅 프로젝트에 매달리느라 바빴어요.
+애드리언: 하지만 지금 몇 신지 알기나 해요  한 시간 전에 회의에 참석했어야죠.
+김상호: 아, 깜빡했네요. 정말 죄송합니다.
+애드리언: 앞으론 늦지 말아요.
+김상호: 알았어요.
+<어구해설> 
+① It's about time 주어+동사는 과거동사를 사용하는 가정법 과거문장이다. It is time that 주어 should + 동사원형이나 It is time that 주어 + 동사의 과거형으로도 바꾸어 쓸 수 있다. 
+
+② 상대방의 행위를 확인하는 경우에 자주 사용하는 말이다. 이미 행동의 가부 여부를 확신하고 표현하는 말로서 단순한 확인을 의미하는 Did you know  와는 뉘앙스가 다르다. 
+
+
+
+Situation 42 Request 
+
+Susan, a vice manager of Dels Co., Ltd. is asking Lee Min-ho to help her jobs. 
+Susan: Excuse me, but ①could you do me a favor
+Lee: ②Sure.
+Susan: Please show me how to make five copies on this machine.
+Lee: Place the material here, set the counter at five, and press this button. 
+상황 42: 부탁요청 
+델스 주식회사의 차장인 수잔이 이민호에게 도움을 요청하고 있다.
+수 잔: 실례합니다만 부탁 좀 하나 들어 주시겠습니까
+이 민호: 그러죠.
+수 잔: 이 복사기로 5장을 복사하는 방법을 가르쳐 주십시오.
+이 민호: 복사할 것을 여기에 놓고 숫자를 5에 설정한 다음 이 단추를 누르세요. 
+<어구해설>
+① favor는「은혜, 호의」라는 뜻에서 출발하여「청, 부탁」이란 뜻을 갖게 되었다. 따라서 Will you do me a favor 라고 하면「제게 은혜를 베풀어 주시겠어요」하는 정도로 정중하고 완곡하게 부탁하는 표현이 된다.「부탁을 하나 들어 주시겠습니까」 정도의 의미로 알아두면 된다. 
+② 상대방에 대한 긍적적인 대답으로는 Sure 말고도 of course 나 certainly를 바꾸어 사용할 수 있다. 
+
+
+
+
+
+Situation 41 Driving 
+Han Sung-jin is driving his co-worker, Lian Zhu to his office
+
+Lian : Wow! Mr. Han, you're going too fast.
+Han: Now, come on. I'm not driving that fast.
+Lian: Fifty-five on a ①hairpin turn is a little fast. ②I really think you should slow down. 
+Han: All right, all right. I'll try to drive a little safer. 
+상황 41 운 전 
+
+한 성진이 자동차로 그의 동료인 리안 츄를 사무실로 데려가고 있다. 
+
+리 안: 너는 너무 빨리 달리고 있군요.
+한 성진: 자, 진정해요. 리 안씨 제가 그 정도로 빠르게 차를 모는 건 아닙니다.
+리 안: U자형 도로에서 55 마일은 좀 빠른 편 아닙니까 정말이지 속도를 줄여야 한다고 생각합니다. 
+한성진: 알겠어요. 좀 더 안전하게 운전하도록 하겠습니다. 
+<어구해설>
+① "hairpin turn" 이란 심하게 곡선을 이루고 있는 U자형 도로를 여자의 머리핀에 비유하여 표현하는 말이다. 
+
+② 상대방에게 조언이나 충고를 할 때에는 가급적 우회적인 표현을 사용하는 것이 바람직하다. 특히 상대의 의지와 반대되는 일을 충고할 때는 더 더욱 그렇다. 그러나 필요에 따라서는 직설적인 충고의 표현을 사용해도 무방하다. 강한 권고의 뜻이 담긴 이러한 직설적인 충고의 표현으로는 should나 had better 같은 조동사를 이용한 구문을 사용할 수도 있고, 동사 advise를 사용하여 "I'd advise you to ∼" 나 "My advise would be ∼" 의 구문으로 표현할 수도 있다.
+
+
+:
+Situation 60 Advice
+
+James Linton is talking to Do Gil-su who is a vice president 
+
+Do: I'm going to fly to Busan tomorrow.
+Linton: With all the tornadoes and the bad weather ①If I were you I'd take a bus or a train.
+James: Well, I could take the train, but it takes so long.
+Linton: ②I certainly would advise you to do anything but fly. 
+상황 60 조 언 
+제임스 린톤이 부사장인 도길수와 이야기를 나누고 있다
+도길수: 내일 비행기 편으로 부산에 갑니다.
+린톤 :이 폭풍과 나쁜 날씨에 말입니까 저라면 버스나 기차를 타겠어요.
+도길수: 글쎄요, 기차를 탈 수도 있겠지만 너무 시간이 오래 걸립니다.
+린톤: 하지만 저는 비행기말고 다른 방도로 가라고 권하겠어요. 
+<어구해설>
+①「내가 너라면 ∼할 텐테」라고 완곡하게 조언하는 표현으로 If I were you, I would 의 가정법 과거구문을 이용할 수 있다. 이외에도 가정법 동사를 이용한 완곡한 권고의 표현으로는 It might be a good idea to . (∼하는 것이 좋은 생각일지도 모릅니다.) / It would be nice to ∼. (하는 것이 좋을 겁니다.) / I think it would be helpful to ∼. (제 생각에는 ~하는 것이 도움이 될 것 같군요.) 등이 있다. 
+②「∼할 필요가 없다」,「∼하지 않아도 된다」는 뜻으로 다른 사람에게 권고나 조언을 할 때는 흔히 do not need to ∼를 사용한다. 같은 표현으로 have no need to ∼ / need not ∼ / don't have to ∼ 등을 쓸 수 있다. 
+
+
+
+
+Situation 59 Document 
+
+ 
+Ahn Su-jin is being asked by manager. She has to make an important 
+document. 
+
+ 
+Manager: Did you complete the document yesterday 
+Ahn: Of course. 
+Manager: ① Is it ready for the client 
+Ahn: ②You can be rest assured. 
+Manager: Good. You know it's an important document. 
+Ahn: I know. 
+
+ 
+
+ 
+상황 59 : 문 서 
+
+ 
+안수진이 과장님으로부터 요청을 받고 있다. 그녀는 중요한 서류를 끝내야만 한다. 
+
+ 
+과장: 그 서류 어제 다 끝냈나요 
+안수진: 물론이죠. 
+과장: 고객에게 전달할 준비가 되어 있지요 
+안수진: 염려 놓으셔도 됩니다. 
+과장: 잘 됐군요. 알다시피 중요한 서류거든요. 
+안수진 : 알고 있습니다. 
+
+ <어구해설> 
+① "- 할 준비가 되어 있다." 라는 표현을 할 때에는 ready 라는 형용사를 활용하면 여러 가지로 활용이 가능하다. 식당에서 웨이터가 손님에게 주문을 요구할 때에도 (Are you) ready to order, sir or madam  이라고 일반적으로 표현한다. 
+
+ 
+② Be rest assured 는 쉬다(rest)와 안심하다(assured)가 합쳐져서 문자 그대로 '마음 놓고 쉬다' 란 의미로 사용된다. 다음과 같은 표현으로도 사용이 가능하다. You don't have to worry about it / No need to worry about it '걱정할 필요 없어요'
+
+
+
+
+
+Situation 58  Telephone 3
+
+Ingster Brown is calling Mr Kim Shin-han, but she can't talk to him. 
+
+Brown : Hello, Can I speak to Mr. Kim Shin-han 
+Secretary:① May I have your name please 
+Brown: This is Ingster Brown. 
+Secretary: I can't hear you very well. Please speak a little louder 
+Brown: I'm Ingster Brown 
+Secretary: ②I beg you pardon 
+Brown: I'm sorry, we seem to have a bad connection 
+
+상황 58 전화 3 
+<![endif]>
+잉스터 브라운이 김신한씨에게 전화를 걸지만 그와 대화를 나누지 못한다. 
+
+잉스터: 여보세요 김신한씨와 통화할 수 있을까요 
+비서: 누구신데요잉스터 브라운이라고 합니다. 
+잉스터: 잘 안들리는데요. 좀 크게 말씀해 주시겠습니까 
+잉스터: 제이름은 잉스터 브라운입니다. 
+비서: 뭐라고요  
+잉스터: 죄송합니다. 연결상태가 안좋은 것 같군요. 
+
+< 어구해설 >
+①상대방의 이름을 확인할 때 사용하는 표현으로 대체적인 구문으로는 May I ask who’s calling  이나 May I let him know who’s calling 등으로 바꾸어 사용할 수 있다. 
+
+②I beg you pardon은 사전적 의미로 볼 때 두 가지로 표현이 가능하다. 모르는 사람에게 말을 걸때나 본의 아닌 실수를 사과할 때에는 문장 끝을 그대로 일정하게 발음을 하지만 여기서 처럼 상대방의 의견을 되묻는 경우에는 끝을 올리는 어조로 발음하여야 한다.
+
+
+
+
+Situation 57 Take a Break  
+
+ 
+Han Sang-su is talking to Michelle.  
+
+ 
+Han: Shall we take a break for a while 
+Michelle: I'd be delighted to 
+Han: Do you mind if I smoke 
+Michelle: I'm sorry but smoking is not permitted here. 
+
+ 
+상황 57 흡연 
+
+ 
+한 상수가 미셀과 이야기를 나누고 있다. 
+
+ 
+한상수: 잠깐 쉴까요 
+미셀: 그러는게 좋겠군요 
+한상수: 담배피워도 됩니까  
+미셀: 죄송합니다만 여기는 금연구역인데요 
+
+ 
+<어구해설> 
+
+ 
+Shall we +동사원형 구문은 “해도 될까요 합시다 ” 의 내용으로 Let's + 동사원형으로 바꾸어 사용할 수 있다. 
+
+ 
+mind 라는 동사는 “신경쓰다, 꺼려하다” 라는 부정의 의미가 포함되어 있다. 따라서 그에 대히여 상관없다”고 답할 때에는 No, I don't mind 라고 말해야만 한다.  
+
+
+
+
+Situation 56 Introduction of Company
+
+So In-kyung is introducing the condition of her company to foreign buyers. She explains the market share. 
+
+Buyer: ①How big is your company
+So: It's second in trading volume, and top in profits. 
+Buyer: ②How many employees do you have
+So: About 600 in the plant, and 200 in the office. 
+Buyer: What is your market share 
+So: We now have 18% of the market in micro chip. 
+상황 56: 회사소개 
+
+소인경이 외국 바이어에게 회사 상황을 소개하고 있다. 그녀는 시장점유율을 설명한다. 
+바이어: 귀사의 규모는 얼마나 되는 회사입니까
+소인경: 거래량으로는 2위이고 수익은 최고입니다.
+바이어: 종업원 수는 얼마나 됩니까
+소인경: 공장에는 약 600여명이 있고 사무소에는 200명이 있습니다. 
+바이어: 시장 점유율은 얼마나 됩니까
+소인경: 현재 마이크로칩 생산의 18%를 점유하고 있습니다. 
+<어구해설>
+① How + 형용사는 "어느 정도, 어느 만큼" 의 의미를 담고 있으며 우리가 쉽게 표현할 수 있는 구문인 "how old are you" 와 같은 기본문형을 알고 있다면 언제든지 대체사용이 가능하다. 
+② 여기서는 ①번과 마찬가지로 "how many∼" 라는 기본문형을 사용하여 대화를 나누고 있다. 예전의 영문법이나 일부 한영사전에서는 지금도 이것을 우리말로 "기하(幾何)" 라고 표현한 적도 있다. "how + ( ) " 공란에 much 나 often 등을 사용하여 달리 표현이 가능하다. 
+
+
+
+
+Situation 55 Schedule 
+Park Soo-dong, a manager of Wooil company and Kim Min-su are explaining their schedule. 
+Linda : ①I think we should discuss today's schedule before we leave.
+Park: Now I'd like to escort you to our company. We'll be leaving here at 9: 00 
+Linda: How long would it take us to go there 
+Kim: We'll drive to my company's factory, which is about 45 minutes from here. 
+Park: When we arrive at the factory, I will ②give you a tour of the facilities and introduce you to some of our key people. After that we can start our discussion.
+상황 55 스케줄
+
+우일산업의 과장인 박수동과 사원인 김민수가 그들의 스케줄에 대해서 설명하고 있다. 
+린다: 출발하기 전에 오늘 스케줄에 대해서 의논했으면 합니다.
+박수동: 이제 저희 회사로 안내해 드릴까요 여기서 9시에 출발할 예정입니다.
+린다: 그곳까지 가는데 어느 정도 걸릴까요
+김민수: 저희 공장에는 차로 가게되는데 여기에서 약 45분 걸립니다.
+박수동: 공장에 도착하면 시설을 돌아보고 중역분들을 소개해 드리겠습니다. 그리고 나서 상담을 시작합시다.
+<어구해설>
+
+① "I think 주어 + should" 는 "제가 생각하기에 ∼" 의 의미로서 상대방에게 자신의 의견을 전달하고 동의를 구하는 표현이다. 
+② "make a tour of" 는 본인이 여행을 하다는 의미이며 "give one a tour of ∼" 는 상대방에게 자신이 구경을 시켜준다는 표현방법이다. 영어에는 이처럼 동사 하나의 차이로 문장의 의미가 180도로 뒤바뀌게 되므로 잘 선별하여 표현해야 한다. 
+
+
+
+
+Situation 54 Collect Call 
+Oh Mi-ran is visiting to SET company in Canada. He wants to call Mr. anderson in Seoul. 
+Oh: May I use you telephone
+Guide: ①Sure. 
+Oh: I would like to ②make a collect call to Seoul, Korea. 
+5 minutes later
+Guide: Could I speak to Mr. Anderson
+Oh: Mr. Anderson is absent now. He will come back around three o'clock.
+
+상황 54 : 수신자부담 전화 
+
+오미란은 캐나다의 SET 회사를 방문하고 있으며 한국 서울의 앤더슨과 통화를 원한다.
+
+오미란: 전화 좀 사용할 수 있을까요
+안내: 물론입니다.
+오미란:서울로 수신자 부담 전화를 사용하고 싶습니다.
+5분경과 후 
+오미란: 앤더슨씨 와 통화할 수 있을까요
+안내: 앤더슨씨는 지금 외출중이십니다. 3시 경에나 오실텐데요
+
+<어구해설>
+① 허가를 문의하는 질문에 대답으로 상황 51에서 반복되는 표현이다. 대체가능한 표현으로는 no problem 이나 Yes you may 정도가 가능하다고 하겠다. 
+② collect call은 전화를 받는 사람이 요금을 지불하는 수신자 부담전화를 말한다. 
+
+
+
+
+Situation 53 Opinion 
+Patrick is asking Kim In-ho about his business trip.
+
+Patrick : ① How was your business trip to Japan
+Kim: It was wonderful! I really enjoyed it.
+Patrick: Really How long were you there
+Kim: ②I was there for two weeks. 
+상황 53 : 의 견
+
+패트릭이 김인호에게 출장에 대해서 묻고 있다.
+패트릭: 일본 여행은 어땠어요 
+김인호: 멋있었어요! 정말이지 재미있었습니다. 
+패트릭: 정말이요 얼마 동안이나 있었죠 
+김인호: 2주일 동안 있었어요. 
+<어구해설>
+①「∼은 어떻습니까」라고 상대방의 의견이나 견해를 묻고자 할 때에는 How is ∼ / What is ∼ like / How about ∼ing / What about ∼ing같은 구문을 이용하게 된다. 
+How was your flight (비행기 여행은 어땠습니까) 
+What was it like (그것은 어땠습니까)
+이외에도 Do you think ~ / Do you believe ~ / Do you suppose ~ 등의 표현을 사용하여 상대방의 의견을 유도해 내는 방법도 있다. 
+Do you think it will be exciting (그것이 재미있을거라고 생각합니까) 
+② 여기서 사용된 was는 "stay" 의미로 사용되어 머무르다는 의미로 쓰였다. 
+
+
+
+
+Situation 52 Calling for Help 
+Mike is asking Chang Soo-jin to see her. But she is not free. 
+Mike: ①Could I bother you for a minute
+Chang: I'm sorry, but I don't have time now.
+Mike: When can I talk to you
+Chang: Let me go to your room after I've finished the work. 
+상황 52 도움 요청 
+
+마이크가 장수진에게 면담을 요청하지만 그녀는 지금 시간이 없다 
+마이크: 귀찮으시겠지만 잠시 시간을 내 주실 수 있습니까
+장수진: 미안하지만 지금은 시간이 없습니다.
+마이크: 그럼 언제 이야기 할 수 있을까요
+장수진: 제가 일을 끝낸 후에 당신 방으로 갈께요. 
+<어구해설>
+bother는「∼를 귀찮게하다」는 뜻으로 bother를 사용한 질문은「귀찮으시겠지만 」의 뉘앙스를 풍긴다. 이런 분위기의 표현으로는 다음과 같은 것이 있다. 
+ex) May I interrupt you for a second (잠시 시간 좀 내 주시겠어요) 
+Could I trouble you for a minute (잠시 폐를 끼쳐도 되겠습니까) 
+May I inconvenience you for a second (잠깐만 폐를 끼쳐도 되겠습니까) 
+
+② 상대방에게 보다 정중하고 완곡하게 부탁을 하는 경우에 쓸 수 있는 표현으로 I wonder if you could/would ∼ (∼해 주실 수 있으신지 모르겠네요)가 있다. 또 Is it all right if I ask you to ∼ (~ 부탁을 드려도 괜찮은지요)나 I really don't want to ask you about this, but ∼ (정말이지 이런 부탁을 하고 싶지는 않지만, ∼)도 완곡하게 부탁을 청하는 구문이다. 
+
+
+
+
+Situation 51 Driver's License 
+Sam Brown is asking about the driver's license. 
+Sam: Can I drive with a foreign license in Pusan
+Lee: Yes. Foreign driving licenses can be used for up to one year.
+Sam: Is it necessary to drive with a seat belt
+Lee: No, it's not obligatory to wear seat belts here. 
+상황 51 : 운전면허증 
+
+샘 브라운이 운전면허증에 대해서 이야기하고 있다. 
+
+샘 : 부산에서 외국 면허증으로 운전할 수 있습니까
+이상호: 예. 외국 운전 면허증은 1년까지는 사용할 수 있습니다.
+샘: 안전 벨트를 맬 필요가 있습니까
+이상호: 아니오, 이곳에서는 안전 벨트를 매는 것이 의무적인 것은 아닙니다. 
+<어구해설>
+① 허락을 구하거나 가능성을 타진하는 구문에는 Is it OK to ~, Can I ~, 또는 May I ~ 등이 있으며, 동사 allow가 사용되기도 한다. 
+Is it OK to leave my car here (이곳에 내 차를 주차해도 괜찮습니까) 
+Can I go out now (지금 나가도 됩니까) 
+허락이나 허가를 하는 경우에는 다음의 표현을 쓸 수 있다. 
+Useful Expressions 
+Sure. (물론이죠.) 
+Certainly. (그럼요.) 
+Of course. (그렇고 말고요.) 
+No problem. (아무 문제 없습니다.) 
+Yes, you can. (네, 해도 좋습니다.) 
+Yes, you may. (네, 그래도 좋습니다.) 
+② 허락하지 않는 경우에는 다소 완곡하게 말하는 것이 좋다. 물론 경우에 따라서는 아주 직설적으로 말해야 하는 경우도 있다. 다음은 허락하지 않는 경우에 이용할 수 있는 표현들이다. 
+I'm sorry, but you can't. (죄송하지만, 그러실 수 없습니다.) 
+I'm afraid not. (유감스럽지만 안되겠군요.) 
+I don't think so. (안될 것 같습니다.) 
+You'd better not. (그러지 않는 것이 좋겠습니다.) 
+No way. (절대 안됩니다)
+
+Situation 70 Apartment 
+
+Pedro Williams is looking for his new apartment. Kim Dong su help him. 
+Kim: How do you like this apartment
+Pedro: It sure is big. May I check out the kitchen
+Kim: Sure, ①It's right this way.
+Pedro: ②Is the furniture included
+Kim: No, this is an unfurnished apartment.
+ 
+situation 70 아파트 
+페드로 윌리엄스가 새로운 아파트를 찾고 있다. 김동수가 그를 도와준다. 
+김동수: 이 아파트 어떠세요
+페드로: 좀 크지않나요 부엌을 살펴볼 수 있을까요
+김동수: 그럼요. 이쪽으로 오세요
+페드로: 가구들은 비치되어 있나요
+김동수: 아니요. 아직 갖추어지지 않았습니다. 
+<어구해설>
+① “이쪽입니다.” 라는 표현으로써 비교적 간단하지만 표현을 암기하고 있지 않으면 당황하기 쉽다. 간단히 follow me 라고 사용해도 된다.
+② include 라는 표현은 여러 방면으로 활용이 가능한 단어이다. 가령 “나를 비롯하여”라는 표현은 “James, Mike including me” 라고 표현할 수 있다. 
+
+
+
+
+Situation 69 Movie 
+Mike is talking to Kim Min-jung about movies
+Mike: What sort of movies do you like
+Kim: I like science fiction films, as a matter of fact.
+Mike: You're kidding. Science fiction films... they're so childish.
+Kim: Oh, I'm not joking at all. I’m serious. 
+상황 69 영 화 
+마이크가 영화에 대해서 김민정과 이야기를 나누고 있다. 
+마이크: 어떤 종류의 영화를 좋아하세요
+김민정:사실 공상 과학 영화를 좋아해요.
+마이크:농담하시는군요. 공상 과학 영화라니... 그것은 너무 유치해요.
+김민정:아, 농담이 아니에요. 
+<어구해설>
+ ① ”~이 더 좋다”라고자신의 선호 경향을 나타내고자 할 때는 prefer ~ / prefer to ~ / prefer ~ to ... / prefer ~ rather than ... 등의 구문을 이용하면 된다. 
+②feel like ~는 「~하고 싶다」는 자신의 의향을 나타내는 말이다.feel like 다음에는 명사나 동명사가 쓰이게 된다. 
+③차라리 ~하는 게 좋겠습니다」라고자신의 의향을 표현하고자 할 때는 would rather ~의 구문을 사용하고,「...보다 오히려 ~을 하는게 좋겠다」라고 비교의 대상을 덧붙여 말할 때에는 would rather ~ than ... / ~ rather than ... 등의 구문을 이용하면 된다. 
+
+
+
+
+Situation 68 Introduction 
+Park Chan-sung meets his buyer for the first time. 
+Paul: Mr Park, have you met Anne Peterson
+Park : No, I don't think so.
+Paul: Anne, this is Mr. Park. Mr. Park this is Anne Peterson.
+Park : Hi. Happy to meet you.
+Anne: Nice to meet you
+상황 68 인 사 
+
+
+ 박찬성이 처음으로 바이어를 만나고 있다
+
+폴 스미스 : 박 선생님 앤 피터슨을 만난 적이 있으셨나요
+박진성: 아니요 그렇지 않아요.
+폴 스미스 : 앤, 이쪽은 박 선생님입니다. , 이쪽은 앤 피터슨이고요
+박진성: 안녕하십니까 만나서 반갑습니다.
+앤 : 나도 만나서 반가워요. 
+<어구해설>
+①상대방에게 어떤 사람을 소개하는 경우에는Let me introduce ~ to you나 I'd like to introduce ~ to you.라는 표현을 쓸 수 있으나 이런 표현은 매우 격식을 차린 말이므로 일상 생활에서는 별로 사용하지 않는다. 이것보다는「당신이 ~를 만나 보았으면 좋겠습니다.」라는 뜻으로 I'd like you to meet ~.또는 I want you to meet ~.하고 말하는 것이 좀 더 일상적인 소개 표현이 될 것이다. 
+<![endif]>② 그러나 격식을 갖출 필요가 없는 상황에서는 간단히 This is ~.라는 표현으로 소개할 수도 있고, Have you met ~(~를 만났었나요) 나 Do you know each other(서로 아는 사이인가요)하는 말로 소개할 사람을 유도해 낼 수 있다. 
+
+
+
+
+Situation 67 Fast Food 
+Min Sang-jin orders a manager his lunch 
+Manager: May I take your order
+Min: Yes, please. I'd like a hamburger and french fries.
+Manager: ① For here or to go
+Min: For here, please.
+Manager: Anything else
+Min: One coke, please. 
+상 황 67 패 스 트 푸 드
+<![endif]>민 상진이 매니저에게 점심을 주문한다. 
+매니저:주문을 받을까요
+민상진:네. 햄버거하고 프랜치 프라이를 하겠어요.
+매니저:여기서 드실건가요, 가지고 가실 건가요
+민상진:여기서 먹을 겁니다.
+매니저:다른 것은요
+민상진:콜라 하나 주세요. 
+<어구해설>
+① Fast food restaurant (간이 음식점)에서햄버거나 핫도그 등을 주문하면 의례 Here, or to go 하고 묻게 된다. 이 말은「여기서 드시겠습니까, 싸 가지고 가시겠습니까」하고 묻는 표현이다. to go 대신 to take out이란 표현을 쓰기도 한다. 
+
+Situation 66 Occupation 
+Andrew Smith meets a woman in the office during his business trip.
+Andrew: ①Where do you work
+Choi: I work for Seoul Travel.
+Andrew: Oh, and ②what do you do there
+Choi: I'm a guide. I take people on tours. 
+상황 66 : 직업
+
+앤드류 스미스가 출장중에 사무실에서 한 여자를 만난다. 
+앤드류: 어디에 근무합니까
+최은미: 서울 여행사에서 근무합니다.
+앤드류: 아, 그런데, 거기선 무슨 일을 하죠
+최은미: 저는 가이드입니다. 사람들을 데리고 여행을 가죠. 
+<어구해설>
+①직업을 묻는 가장 보편적인 표현으로는「무슨 일을 하십니까」라는 뜻의 What do you do가 있으며, Where do you work(어디에서 일하고 계십니까)와 같이 근무지를 묻는 방법으로 상대의 직업을 알아 볼 수도 있다. 
+
+② 면접과 같은 공식적인 상황에서 직업을 물을 때는 다음과 같은 표현을 사용하면 된다. 
+What's your occupation (당신 직업은 무엇입니까) 
+Would you let me know your occupation (직업을 알려 주시겠습니까) 
+What line of business are you in (어떤 분야의 일에 종사하십니까) 
+What's your business (어떤 일을 하십니까) 
+What kind of job do you have (어떤 일을 하고 계십니까) 
+What's the name of your employer (당신이 근무하는 회사 이름이 무엇입니까)
+참고 : What's the name of your employer는 직역하면 「당신 고용주의 이름은 무엇입니까」이지만 실제로는「당신이 일하고 있는 회사의 이름이 무엇입니까」하는 뜻으로 쓰는 표현이다. 
+
+
+
+
+
+Situation 65 Inventory
+Alice Michelle wants to know there is another copying machine.
+Alice: Have you got any copying machine in a stock
+Sohn: I’ll call the warehouse to see if there are any on hand 
+5 minutes later
+Sohn: I’m sorry that product is out of stock at the moment
+Alice: When will you be able to deliver
+Sohn: It should reach you around the middle of the month. 
+
+
+상황 65 재 고 
+앨리스 미셀은 또 다른 복사기가 준비되어 있는지 알고 싶어한다 
+
+앨리스: 복사기 재고가 있습니까
+손기준: 창고에 문의해 보겠습니다. 
+5분 후 
+
+손기준: 죄송합니다만 지금 재고가 떨어졌습니다. 
+앨리스: 그럼 언제쯤 발송할 수 있을까요 
+손기준: 예 중순경에는 도착할 것입니다 
+
+
+<어구해설>
+
+①여기서 see 동사의 의미는 “보다” 라기 보다는 ‘살펴보다, 확인하다’ 라는 뜻이다 . see that 의 구문을 써서 다르게 표현도 가능하다.
+
+② 비인칭 주어 it 을 사용하여 물주구문의 형태를 취하고 있는 문장이다. 영어에서는 형식상의 가주어를 설정하고 사람을 목적보어 형태로 하여 해석상으로는 사람이 주체가 되는 것이다. 
+
+Situation 64 Price 
+Kim Mi-ran proposes the plan for indicating price in ads. 
+
+Kim: Jake, ① I'm in favor of announcing the price on our ads.
+Jake: Well, frankly I’m against it
+Kim: We had decided to launch a direct-mail campaign once a year. 
+Jake: Well, ②I’m not so sure about that 
+
+상황 64 가 격
+
+김미란이 광고에 가격을 표시하는 안을 제안하고 있다,
+
+미란: 제이크 저는 광고에서 가격을 표시하는 것에 찬성입니다.
+제이크: 글쎄요, 솔직히 말해서 저는 반대입니다
+김미란: 1년에 한번 직접 우편으로 보내서 켐페인을 하기로 결정했습니다.
+제이크: 글쎄요, 저는 그것이 효과가 있을지 어떤지 확신이 없습니다.
+
+<어구해설>
+
+①다른사람의 의견에 찬성하는 경우에는 favor 를 사용하고 반대의 경우에는 against를 사용한다. 기본적으로 be 동사와 결합되는 표현 중 실생활에 적용되고 있는 문장이 대부분이므로 외워두면 유용하게 활용이 가능하다. 
+
+② 어떠한 일에 대해 확신을 할 수 없을 때에는 sure를 사용하여 자신의 의견을 전달한다 . 대체표현으로 think나 guess 사용하여도 가능하다 
+
+
+
+Situation 63 Solving the Problem 
+Ko Joo-young worries about her job. She has a problem.
+
+Min : Good morning, what's up 
+Ko: Gee! This problem is too difficult. Can you help me
+Min: Sorry, I can't. ①I wish I could help you. ②Ted might help you solve this problem.
+Ko: OK. Thanks anyway. 
+상황 63 문제해결
+
+고주영이 그녀의 일에 대해서 걱정하고 있다. 그녀에게 문제가 하나 발생하였는데. . .
+
+민기호: 안녕하세요 무슨일이죠 
+고주영: 이런! 이 문제는 너무 어려워요. 좀 도와줄 수 있나요
+민기호: 미안해요, 안 되겠어요. 도와 줄 수 있으면 좋을 텐테. 테드라면 이 문제를 푸는 것을 도와 줄지도 모르겠는데.
+고주영: 알았어요. 어쨌든 고마워요. 
+<어구해설>
+① 현재 하지 못하는 일에 대한 소망을 나타내는 표현으로「I wish＋주어＋과거동사」의 구문을 사용한다. 이 구문은 단순히 소망을 나타내는 것이 아니라 현재 하지 못하는 일에 대한 유감의 뜻을 나타내는 표현임에 주의할 필요가 있다. 과거에 하지 못한 일을 소망하는 경우에는「I wish＋주어＋과거완료 동사」의 구문을 사용한다. wish 다음에 to부정사가 쓰이기도 한다. If only ~도 현재 하지 못한 일에 대한 소망을 나타내게 된다. 
+② wish가 실현할 수 없는 일을 소망하는 표현인 반면에 hope는 가능성 있는 희망을 표현하는 말이다. 
+
+
+
+Situation 62 Scout 
+
+Jim Simon proposes that Kim Sang-ho should work at his company  
+<![endif]>
+Jim: ①I have a proposal for you 
+Kim: What's that 
+Jim: I will double your pay and put you in charge of the section only if you say yes to my offer. 
+Kim: Well ② can I sleep on it, tonight  It's not an easy decision to make 
+
+상황 62 스카우트 
+
+ 짐 사이먼이 김 상호에게 자신의 회사에서 일해 줄 것을 제안한다. 
+사이먼: 제안을 하나 하지요 
+김상호: 무엇인데요 
+사이먼: 당신이 우리회사에 온다고만 하면 월급을 두배로 올려주고 부서의 책임업무를 맡기도록 하겠어요. 
+김상호: 글쎄요. 오늘밤 좀 생각해 봐도 될까요 
+<어구해설> 
+
+① “당신에게 할말이 있다” 즉 “상대방에게 볼일이 있다”는 표현은 have 동사를 기억해두면 언제든지 활용이 가능하다. I have something to tell you 나 I have no idea 와 같은 표현도 궁극적으로는 여기서 파생된 말이라고 볼 수 있다. 
+<![endif]>
+② 사전상의 의미로 얼핏 보아서는 “잠을 자다”라는 의미가 먼저 떠오를 수도 있지만 여기서는 전치사 on 과 함께 사용하여 어떠한 문제를 하룻밤동안 곰곰이 생각하다 라는 의미가 된다. 
+ 
+
+
+Situation 61 Weather 
+Bill asks Choi Hee-sup about the tomorrow weather.
+Bill: By the way, how's the weather tomorrow
+Choi: It'll rain, I think. You'd better take an umbrella.
+Bill: I've become so forgetful these days. Would you remind me to take ittomorrow 
+상황 61 날씨
+빌이 최희섭에게 날씨에 대해서 묻고 있다. 
+
+빌: 그런데, 내일 날씨가 어떻죠 
+최희섭: 비가 올 것 같으니 우산을 가져 가는게 좋겠네요.
+빌: 내가 요즈음 건망증이 무척 심해요. 우산을 가져가라고 내일 나한테 다시 상기시켜
+주시겠어요 
+<어구해설>
+①How is 는「∼은 어떻습니까」라는 뜻의 구문으로서 What is ∼ like도 같은 의미를 가진 구문이다. 날씨를 물을 때도 이 구문을 이용할 수 있다. 
+②추위나 더위 등의 기후에 대한 감각적 느낌을 나타낼 때는 hot (더운), warm (따뜻한), cool(선선한), chilly (으스스한), cold (추운), freezing(얼음이 어는, 어는듯한) 등의 형용사를 이용한다. 
+
+Situation 80 Assistance  
+
+Secretary Lee Young-sook wish to president a favor.  
+
+ 
+Lee: Too much work! 
+President: Miss Lee, can I help you  
+Lee: I think I do too much work at the office alone. I need an assistant desperately.
+President: I'm with you. I'll find someone by the end of the week.
+ 
+
+ 
+상황 80 보 조 
+
+ 
+비서인 이영숙이 사장에게 부탁할 것이 있다. 
+
+ 
+이영숙: 아 일이 너무 많아! 
+사장: 미스리 좀 도와줄까요 
+이영숙: 사무실에서 제가 혼자 너무 많은 일을 하는 것 같아요. 전 정말 보조자가 필요하다구요.
+
+사장: 미스 리 말이 맞는 것 같아요. 주말까지 사람을 찾아보도록 하지요.
+ 
+
+ 
+<어구해설> 
+Too much 라는 말은 미 구어체에서 다양하게 사용되고 있는 표현이다. 여기서는 단순한 수량 개념으로 과중한 일을 나타내고 있지만 그냥 too much 라고 말하는 경우에는 “ 너무하다” 라는 의미가 담겨있다. 
+
+ 
+be with you 라는 말은 직역하면 “당신과 함께 한다” 라는 말로서 상대방의 의견에 동감한다는 agree 의 의미이다.  
+
+ 
+
+ 
+Situation 79 English Skill 
+
+ 
+Han Su-jin is talking with Oh Mi-ran. She wants to learn English.  
+
+ 
+Oh: I think English is hard to learn. 
+Susan: I agree with you. It's very difficult to speak English well. 
+Oh: I hope my English will get better soon. 
+Susan: I hope so, too. 
+
+ 
+상황 79 영어 능력 
+
+ 
+한수진이 오미란과 이야기를 하고 있다. 그녀는 영어공부를 하려고 한다. 
+
+ 
+오미란: 영어는 배우기가 어려운 것 같아요. 
+한수진: 저도 같은 생각이에요. 영어를 잘하기란 아주 어려운 것 같아요. 
+오미란: 영어 실력이 빨리 좋아졌으면 좋겠어요. 
+한수진: 나도 그러길 바래요. 
+
+ 
+<어구해설>  
+I agree.를「나는 동의합니다.」라고만 생각해 버리면 쉽게 사용하기 힘든 표현이다.「그래요, 당신 말이 맞아요.」,「같은 생각입니다」 정도의 느낌으로 사용하도록 한다. 뒤에 오는 목적어가 사람이면 with를, 사물이면 to 또는 on을 사용한다. 
+
+ 
+상대의 의견에 동의하지 않는 경우에는 I don't think so.나 I don't think you're right.의 표현을 쓰게 된다. 이때는 I think you're wrong.이나 I think you're not right.라고는 말하지 않는 것이 좋다. 상대의 의견을 직설적으로 부정하기 보다는 I don't think you're right.처럼 자신의 생각을 부정하는 식으로 말하는 것이 보다 완곡한 표현이기 때문이다. 
+
+
+
+
+
+
+
+
+Situation 78 Rumor 
+Han Shin-young heard about the bad news. 
+
+Han: ①Good Heavens! Mr. Fred.
+Fred: What's the trouble 
+Han : Have you heard our company is going to be closed next month
+Fred: You're kidding! isn't really going to be closed tomorrow, is it
+Han: No, ②I'm positive. 
+상황 78 소 문
+한신영이 좋지 않은 소식을 듣는다.
+한신영: 세상에 이럴 수가 프레드씨!
+프레드: 무슨 일이 있나요
+한신영: 다음달에 우리회사가 문을 닫을 거라는 얘기 들었나요
+프레드: 설마! 우리가 정말로 문을닫는 건 아니지요, 그렇죠
+한신영: 아니요, 확실한 정보입니다. 
+<어구해설>
+① 어이가 없거나 황당한 일을 당했을 경우 사용하게 되는 표현이다. 영어에는 이런 경우에 욕설이 포함되는 경우가 대부분인데 여기서는 여성의 입장에서 직설적인 느낌이 좀 줄어든 표현이라고 할 수 있다. 
+②「확실하다」,「정말이다」,「진심이다」와 같이 말하는 사람의 확신을 나타내는 표현으로는 I'm sure. / I'm positive. / I'm serious. / I mean it. 등이 있다. 확신하는 내용을 함께 말할 때에는 It is certain that / It is obvious that / I'm sure that / I'm certain that 등이 있으며, I bet (you) that 의 구문을 쓸 수도 있다. 
+
+
+
+
+Situation 77 After Service
+Anderson is asking about the after service. 
+Manager: Hello Can I help you, sir
+Anderson: How long is the warranty of TN5
+Manager: ①We'll give a full warranty on this product for 2 years. 
+Anderson: ② Is after service possible even in America
+Manager: Yes of course. We have twenty service centers in the U.S. 
+상황 77 애프터 서비스
+
+앤더슨이 애프터 서비스에 대해서 묻고 있다.
+매니저: 안녕하세요 무엇을 도와드릴까요
+앤더슨 : TN 5의 보증기간은 언제까지입니까
+매니저: 우리는 그 제품에 대해서 2년간 완전 보증을 해드립니다.
+앤더슨: 미국에서도 애프터 서비스가 됩니까
+매니저: 물론이지요. 저희 회사는 미국에도 20개의 서비스 센터를 두고 있습니다. 
+
+<어구해설>
+① warranty 라는 단어는 상품에 대한 보증서의 의미로서 일정기간동안 추가적인 서비스를 담당한다는 의미를 담고 있다. 여기서는 동사 warrant 대신 give 동사를 이용하여 숙어로 표현하고 있다. 
+② possible을 사용할 때에는 사람주어를 사용하지 않는다. 
+
+
+
+
+Situation 76 Project 
+
+ 
+
+ 
+김만호가 프로젝트에 대해서 부장과 이야기를 하고 있다 
+
+Kim: I cannot finish the advertising design before Monday. 
+Manager: Why: Mr Kim 
+Kim: Well, I'm working on many other projects. 
+Manager:　Don't spread yourself too thin. 
+Kim :Should I only work on the project now 
+Manager: Yes. 
+Kim:　OK. I'll focus on the new car design. 
+Manager:　Good Plan. 
+
+ 
+
+ 
+상황 76 프로젝트 
+
+ 
+김만호가 프로젝트에대해서 부장과 이야기를 하고 있다 
+
+김만호: 월요일 전에는 광고 디자인을 결정 못할 것 같은데요. 
+부장: 왜죠 이 대리 
+김만호: 제가 다른 많은 프로젝트에도 관여하고 있거든요. 
+부장: 너무 이것저것 벌이지 말아요. 
+김만호: 지금은 한 프로젝트만 할까요 
+부장: 그게 좋겠군요 
+
+ 
+
+<어구해설> 
+spread oneself 는 '일을 벌이다'는 의미로서 여기서는 thin 과 결합하여 너무 많은 일을 
+벌이다' (to do too many things at once) 의 의미가 된다. 
+
+"Should I - -" 로 시작되는 의문문은 상대방에게 자신의 행동을 다시 한번 확인할 때 사용 
+하는 표현으로 “필연” 의 의미가 포함되어 있다. 
+
+ 
+
+ 
+
+ 
+
+ 
+Min Gi-yoon wants to transfer his job. 
+
+ 
+Min: I'm looking for a new job 
+Henry: Why Which department do you work in 
+Min: In the sales, but the work is the same everyday and I'm really stressed out due to work. 
+Henry: But it will be the same wherever you go. 
+
+ 
+상황 75 새 직장 
+
+ 
+민기윤이 직장을 옮기려고 한다. 
+
+ 
+민기윤: 새로운 직장을 찾고 있는 중입니다. 
+헨리: 왜요 어느 부서에서 근무하시는데요 
+민기윤: 영업부에 근무합니다. 하지만 하는 일도 매일 동일하고 그 일 때문에 스트레스를 많이 받습니다. 
+헨리: 하지만 어딜가나 마찬가지예요 
+
+ 
+<어구해설> 
+① 상대방에게 자신의 행동을 설명하는 경우, 가령 어떠한 물건이나 사람을 찾고자 할때 look 동사를 간단히 사용하여 의견을 전달할 수 있다. 여기서는 search 의 의미로 해석하면 된다. 
+
+ ② 두가지중 한가지를 선택하는 경우에도 which를 이용할 수 있지만 여기서는 what kind 
+of - 의 뜻으로 사용되었다. 
+
+
+
+
+Situation 74 Study  
+
+Donald Greg has to study accounting. He has a test next week 
+
+ 
+Park: What will you do this evening  
+Greg: I have to study for my accounting class. 
+Park: But you've been studying so much recently. 
+Greg: I know. But the test is next week 
+Park: You should let your hair down tonight. 
+Greg:　I really can't relax tonight. 
+
+상황 74 공 부 
+
+ 
+도날드 그렉은 회계학 공부를 해야 한다. 그는 다음 주에 시험을 앞두고 있다. 
+
+ 
+박준형:오늘 저녁에 뭐할겁니까  
+그렉: 회계학 공부를 해야 합니다. 
+박준형: 하지만 요즘 공부 열심히 했잖아요. 
+그렉: 알아요. 하지만 다음 주가 시험이거든요. 
+박준형: 오늘 밤엔 좀 쉬도록 하시죠. 
+그렉: 안돼요. 오늘 밤엔 쉴 수 없습니다. 
+
+ 
+<어구해설> 
+
+ 
+상대방의 계획을 물어볼 경우 사용하는 표현으로 Do you have any schedule to - 
+로도 표현이 가능하다. 
+
+ 
+직역을 하자면 “머리를 풀어늘어 뜨린다” 는 뜻으로 스트레스에서 오는 긴장에서 벗어 
+나자는 의미이다. 다음 대화의 relax와 같은 의미이다. 
+
+ 
+
+Situation 73 Message  
+
+ 
+Anderson wants to speak to Mr. Han In-soo. 
+
+ 
+Anderson: Could I speak to Mr. Han 
+Lee: I'm sorry, but he's just left the office. 
+Anderson: When do you think I can reach him 
+Lee: He won't be back until 1: 30. Any message 
+Anderson: No, thanks. I'll call back later. 
+Lee: All right. I'll tell him to expect your call. 
+
+ 
+상황 73 메시지 
+
+ 
+앤더슨이 한인수와 통화를 하려고 한다. 
+
+ 
+앤더슨: 한 선생님와 통화할 수 있습니까 
+이민: 방금 나가셨는데요. 
+앤더슨: 언제쯤 그와 통화할 수 있을까요 
+이민: 1시 30분이나 되야 돌아오실 건데요. 전하실 말씀이 
+있으십니까 
+앤더슨: 아니오, 괜찮습니다. 나중에 다시 전화하죠. 
+이민: 알겠습니다. 부장님께 전화 기다리라고 전해드리죠. 
+
+ 
+<어구해설> 
+
+ 
+"방금 사무실을 나가셨습니다” 라는 표현은 He's just stepped out of the office. 
+You've just missed him. 으로도 바꾸어 쓸 수 있다. 
+
+ 
+"전하실 말씀이 있으십니까" 라는 표현은 완성형으로 may I take your message 라고 
+일반적으로 사용한다. 
+
+ 
+
+ 
+
+
+
+Situation 72 Going home 
+
+ 
+Jane Abott makes an apology for going to home. 
+ 
+Jane: I hate to say this, but I must get going now. 
+Han: Oh It's 9 o'clock, though. Do you have to leave now 
+Jane: I'm afraid so. I have to get to work rather early tomorrow morning. I'm sorry, 
+Han: I understand It was good to have you with us today. 
+Jane: No, I should thank you. 
+
+ 
+상황 72 귀 가 
+ 
+제인 애봇이 집으로 돌아가는 것에 대해서 사과한다. 
+
+ 
+제인: 이런 말 하기는 싫지만, 이제 가봐야 합니다. 
+한수진: 아 이제 9시인데요 지금 꼭 가셔야 되나요 
+제인: 예 내일 직장에 일찍 나가야 합니다. 죄송해요 
+한수진: 괜찮아요. 오늘은 정말 즐거웠습니다.  
+제인: 아니요, 저야말로 즐겁게 지냈습니다. 
+
+ 
+<어구해설> 
+가아만 한다 의 “get going" 은 구어에서는 I‘d have to go 라는 표현으로 더 많이 사용된다.
+“만나서 즐거웠습니다” 라는 표현은 간단히 Nice to meet you 나 I was pleased at meeting you 또는 Nice to have with you 로도 바꾸어 쓸 수 있다.  
+
+
+
+
+
+Situation 71 Computer System 
+Hyde Phillip wants to see the computer his co-worker uses.
+
+Hyde: Oh! I see you have an excellent computer system.
+Jo:We've got some pretty good software. Why don't you try one
+Hyde:Oh, no. Your team is in the middle of operating the system.
+Jo:Our team are always trying to get somebody to use with them. 
+상황 71 컴퓨터 시스템 
+
+하이드 필립스가 그의 동료가 사용하는 컴퓨터를 보고싶어한다. 
+
+하이드: 아! 아주 훌륭한 컴퓨터 시스템을 갖고 있군요.
+조민영: 아주 훌륭한 소프트웨어 때문입니다. 한 가지 실험해 보시지요.
+하이드: 아, 아니에요. 당신의 팀원들이 지금 작동시키고 있잖아요.
+조민영: 저희 팀은 항상 다른 사람과 함께 하려고 하는걸요. 
+<어구해설>
+「~할까요」,「~하는 게 어떨까요」,「~하죠」하고 상대방에게 제안을 할 때에는 Let's ~ / How about ~ / Why don't we ~ 등의 구문을 이용하게 된다. 아주 직설적으로는 I suggest that ~의 구문을 쓰기도 하는데 suggest 다음에 오는 that절의 동사는「should+동사원형」이 쓰이거나 should가 생략되고 동사원형이 쓰인다는 것을 알아 두어야 한다. 또한 suggest someone to do의 형태로는 쓰이지 않는다는 것도 기억해야 한다. 
+
+Situation 90 Apology 
+A secretary, Ko Mi-soon forgot to send the letter her boss requested.
+
+Ko : Mr. Smith, I owe you an apology.
+Boss: For what
+Ko: I forgot to mail your letter yesterday.
+Boss: Oh Do you still have it
+Ko: No, I sent it this morning. I'm so sorry.
+Boss: It doesn't matter if it's a day late. 
+
+상황 90 사 과 
+비서인 고미순이 사장이 어제 부탁한 편지발송을 깜빡잊고 늦게 발송하였다
+
+고미순: 스미스 사장님. 제가 한가지 사과할 일이 있습니다.
+사장: 뭔데요
+고미순: 어제 사장님께서 부탁하셨던 편지 발송을 잊었습니다.
+사장: 오 아직도 가지고 있나요
+고미순: 아니오, 오늘 아침에 발송했습니다. 죄송합니다.
+사장: 괜찮아요. 하루 늦는거라면 상관없어요. 
+
+<어구 해설>
+「∼해서 죄송합니다.」하는 사과의 표현으로는 I'm sorry (that) ∼이나 I'm sorry to ∼의 구문을 사용한다. 이밖에도 Excuse me for ∼. / Forgive me for ∼. / I apologize for ∼. 등도 잘못에 대해 사과하는 표현이다. 
+상대방이 사과하거나 용서를 구하는 말에 대한 응답으로「괜찮습니다.」라고 하려면 다음과 같은 표현을 이용한다. 
+That's Okay. (괜찮습니다.) 
+That's quite all right. (정말 괜찮습니다.) 
+It doesn't matter. (괜찮습니다., 상관없습니다.) 
+No problem. (괜찮습니다., 아무 문제없습니다.) 
+
+
+
+Situation 89 Telephone 5 
+
+ 
+Ha Ji-won is calling to Mr. Moon. However He is absent now. 
+
+Peter: Overseas Sales Department. What can I do for you sir 
+Ha: I'm Ji-won Ha. May I speak to Mr. Moon 
+Peter: I'm sorry he is out now. 
+Ha: What time do you expect him back 
+Peter: He'll be back around 4 o'clock 
+Ha: I see, please tell him that I called. 
+ 
+
+ 
+상황 89 전 화 5 
+
+ 
+하지원이 문선생과 전화를 하려고 한다. 하지만 그는 부재중이다. 
+
+ 
+피터: 해외 영업부입니다. 무엇을 도와드릴까요 
+하지원: 하지원이라고 합니다. 문상호씨를 부탁합니다. 
+피터: 미안합니다만 그는 외출 중입니다. 
+하지원: 몇시쯤 돌아올까요 
+피터: 4시경에 돌아올 예정입니다. 
+하지원: 알겠습니다. 전화왔었다고 전해주십시오. 
+
+ 
+<어구해설> 
+① He is out now에서 out은 absent 의 의미이다. 발음을 할 때에는 out을 강하게 발음하도록 한다. 이처럼 기본적인 회화는 몇 가지 핵심단어의 활용이나 전치사를 추가해서 일반적으로 표현한다. 
+② around는 on처럼 정확한 시간이라기 보다는 대략적인 시간의 상태를 나타낼 때 사용한다.  
+
+
+
+
+Situation 88 Pay 
+
+ 
+Shin A-young is talking to Kim Cheol-soo about the pay. 
+
+ 
+Shin: Do you get paid a lot 
+Kim: I wish I did. I'm not at all satisfied with my salary. 
+Shin: I must have heard it wrong then. I heard it somewhere that you get paid a lot 
+Kim: That was before the IMF crisis. Now they've cut down on my wage by 40% 
+
+ 
+상황 88 월 급 
+
+ 
+신아영이 김철수에게 월급에 대해서 말하고 있다. 
+
+ 
+신아영: 월급 많이 받나요 
+김철수: 그랬으면 좋겠어요. 하지만 내 월급에 만족하지 않아요. 
+신아영: 그럼 내가 잘못 들었나 보네요. 당신이 많이 받는다고 어디에서 들었는데 
+김철수: 그건 IMF사태 이전의 일이지요. 지금은 그전보다 40%나 깎였어요. 
+
+ 
+<어구해설> 
+가정법문장으로 “자신이 그러한 상황에 처했으면 하고 바라는” 실현될 수 없는 상황을 나타낸다. 
+
+ 
+I heard 라는 표현은 2번의 somewhere라는 동사가 말해주듯 소문으로 어렴풋이 어딘가에서 들었다는 의미이며 I heard about은 정확한 정보를 들었다는 것을 나타낸다. 
+
+
+
+
+Situation 87  Subway
+Andrew Green visits Korea for the first time. He wants to know about the subway in Korea 
+Andrew: ①What is the subway like in Korea
+Jim: ②You don't wanna know. The subway is always jampacked, 
+and by the time you get off you're soaked with sweat. 
+Andrew: I didn't know it was that bad. 
+Jim: That's not all. If a person steps on your foot by accident they never say sorry
+상황 87 지하철
+
+앤드류 그린은 이번이 첫 번째 한국방문이며 한국의 지하철에 대해서 알고 싶어한다.
+
+앤드류: 한국의 지하철은 어떻습니까
+짐: 별로 알고 싶지 않을 거예요. 
+지하철은 언제나 사람들로 초만원이고 내릴때가 되면 땀으로 뒤범벅이 될테니까요 
+앤드류: 그렇게 심한 줄은 미처 몰랐는데요
+짐: 그게 다가 아닙니다. 만약 실수로 사람들이 당신의 발을 밟아도 미안하다는 말 한마디가 없어요. 
+<어구 해설>
+① 어떤 사물에 대한 상태를 질문하는 경우에는 "what is + 명사 + like 라고 표현한다.
+
+② wanna 는 구어체에서 want to를 줄여 사용하는 말이다. 다른식의 표현으로는 "is going to" 를 줄여서 "gonna" 라고 사용한다 
+
+
+
+
+Situation 86 Interviewing 
+
+Min Hye-ran is interviewing with personnel manager of Enters Co., Ltd.
+
+Min: ①What type of compensation package would I receive for the job 
+
+Personnel Manager: For your first year, you will make 20,000,000 won a year. You can expect a bonus at the end of the year if all goes well. 
+
+Min: Would you be more specific, please 
+
+Personnel Manager: Yes, ②we have a stock option available to all employees that have been with the company for over two years. You can see all about our compensation and benefits package in this brochure. I am sure it will be of great help to understand the company policy. 
+
+
+상황 86 : 면접보기
+
+민혜란이 엔터스의 인사부장과 인터뷰를 나누고 있다. 
+
+민혜란: 제가 받을 수 있는 급여보수내역에 대해 말씀해 주시겠어요 
+
+인사부장: 입사 첫해는 연봉 2 천만원으로 시작합니다. 일이 잘되면 연말에 별도의 상여금이 지급될 겁니다. 
+
+민혜란: 그밖에 더 다른 것은 없나요 
+
+인사부장: 네. 2년 이상 근무한 모든 직원들에게는 스톡옵션이 주어집니다. 이 책자를 보면 급여 및 수당에 대한 내용을 자세히 알 수 있을 겁니다. 회사의 정책을 이해하는 데 많은 도움이 될 거예요
+
+<어구해설>
+
+① 여기서의 type는 what - + 명사의 형태로서 하나의 주어구문으로 활용이 가능하다.
+기본문형을 익혀둔다면 여러 가지로 다양한 유형의 문장을 사용할 수 있다. 예를 들어 "무슨 스포츠를 좋아하십니까" 라고 묻는다면 "What kind of sports do you like best" 라고 표현하면 된다.
+② stock option 이란 닷컴 기업의 추락과 함께 낮설게 느껴지기도 하는 단어이지만 직원들의 급여이외에 업무 장려 차원에서 회사들이 앞다투어 채택하였던 제도이기도 하다. 
+여기서 사용되는 available이라는 형용사는 something처럼 명사뒤에 위치하여 수식하는 역할을 한다 
+
+
+
+
+
+Situation 85 Extension Service 
+
+ 
+Shin Sang-jin wants to extend his telephone in his office. 
+
+ 
+Clerk: Customer Services. May I help you 
+Shin: Yes, I'm thinking about some extensions of my phone. Could you give me a rough idea of how much two extensions would be 
+Clerk: Depends on how many parts I have to replace. I'd say around 20 dollars 
+Shin: Oh, boy! 
+Clerk: Not including parts. 
+
+ 
+상황 85 내선 서비스 
+
+ 
+신상진이 자신의 사무실에 있는 전화의 내선증설을 원하고 있다 
+
+ 
+직원: 고객 서비스실입니다. 도와드릴까요 
+신상진: 네. 제 전화의 내선을 뽑을까 생각 중인데요. 내선을 두 개 뽑는 데 대략 얼마나 드는지 알려 주실 수 있습니까 
+직원: 부속품을 얼마나 교체하느냐에 따라 달라집니다. 
+20달러 정도 될 것 같군요. 
+신상진: 원 세상에! 
+직원: 부속품 값은 포함이 안된 겁니다. 
+
+ 
+<어구해설> 
+-- 을 하는데 비용이 얼마나 듭니까」하고소요되는 비용을 물어볼 때는 보통 
+How much does it cost의 구문이 사용된다. 대부분의 경우 how much가 
+사용되며, 동사로는 charge나 cost가 사용된다. charge는 "서비스의 대가로 
+얼마를 청구하다" 라는 뜻으로 쓰이며, cost는「비용이 얼마가 들다"라는 뜻 
+으로 쓰인다.  
+
+ 
+
+Situation 84 Elevator 
+
+ 
+Julie is looking for the conference room, but she is a stranger in this building. 
+
+ 
+Front: May I help you 
+Julie: Well which floor is the conference room on 
+Front: It's on the fifth floor. 
+Julie: How can I get there 
+Front: Take the elevator to the fifth floor. You'll see it on the right side. This way 
+please. I'll show you the way. 
+Julie:Thanks 
+
+상황 84 엘리베이터 
+
+줄리가 회의실을 찾고 있지만 이 건물은 처음 방문이다. 
+
+ 
+프론트: 어서 오십시오 
+줄리: 회의실은 몇 층입니까 
+프론트: 5층에 있습니다. 
+줄리: 그곳에 어떻게 가지요 
+프론트: 엘리베이터로 5층까지 가십시오. 오른쪽 엘리베이터를 타시면 됩니다. 이쪽입니다 
+제가 안내해 드리지요. 
+줄리:　감사합니다. 
+
+ 
+<어구해설> 
+길 안내를 할 때에는 이외에도 Follow me please 라고 말할 수도 있으며 
+상대를 앞에 내세울 때에는 I'll follow you 또는 After you로 표현할 수도 있다. 정중한 표 
+현으로 말한다면 Would you come this way 라고도 한다.  
+
+
+
+Situation 83 Preparation 
+Mr. Ishihara asks Jo Woo-sung to help him.
+
+Ishihara: Do you know what time the next meeting start 
+Jo: It'll starts at 1: 30 p.m 
+Ishihara: Do you have something to do now 
+Jo: Not really.
+Ishihara: ①Would you prepare the material for the meeting 
+Jo: Sure. ②No problem. 
+상황 83 준 비
+
+이시하라가 조우성에게 도움을 요청하고 있다. 
+이시하라: 다음 회의가 몇 시에 시작하는지 아십니까
+조우성: 1시 반부터 시작합니다.
+이시하라: 지금 할 일이 있습니까
+조우성: 아니 별로 없습니다.
+이시하라: 회의에서 사용할 자료를 준비해 주시겠습니까
+조우성: 예 알겠습니다.
+<어구해설>
+①업무에 관해 지시하는 표현은 상당히 다양하므로 자신이 상황에 맞는 키워드를 미리 정리하여 그때마다 사용하도록 하자. 일반적인 표현으로는 "Could you give me a hand" "I need you to ∼" 또는 "Could you please ∼" 정도가 사용된다고 하겠다. 
+②원래는 "문제없다" 라는 의미이지만 여기 문맥상으로는 상대방의 의견에 이의가 없어서 긍정한다는 뜻이 된다 
+
+
+
+
+
+Situation 82 Discussion 
+
+ 
+Mr. Harding wants to know whether Kim In-soo contacted Mr. Green. 
+
+ 
+Harding: Have you discussed this problem with Mr. Green 
+Kim: I haven't been able to reach him. 
+Harding: Let me give you his home number. You might try calling him at home. 
+Kim: All right, I will. 
+
+ 
+상황 82 논의 
+
+ 
+하딩은 김인수가 그린과 연락을 취했는지 알고 싶어한다 
+ 
+하딩: 이 문제를 그린 씨와 상의했습니까 
+김인수: 그에게 연락을 취할 수가 없었습니다. 
+하딩: 그의 집 전화번호를 알려 드리죠. 집으로 전화해 봐야 할 겁니다. 
+김인수: 알겠습니다. 그렇게 하죠. 
+
+ 
+
+ 
+<어구해설> 
+
+ 
+「~할까요」,「~하는 게 어떨까요」,「~하죠」하고 상대방에게 제안을 할 때에는 
+Let's~ / How about ~ / Why don't we ~ 등의 구문을 이용하게 된다. 아주 직설적 
+으로는 I suggest that ~의 구문을 쓰기도 하는데 suggest 다음에 오는 that절의 동사는 
+「should+동사원형」이 쓰이거나 should가 생략되고 동사원형이 쓰인다는 것을 알아 두 
+어야 한다. 또한 suggest someone to do의 형태로는 쓰이지 않는다는 것도 기억해야 
+한다. 
+
+
+
+
+Situation 81 Telephone 4 
+
+ 
+Sung Jin-ah wants to talking with James. 
+
+Sung: Daehan Industries. May I help you 
+Front Desk: Hello. Is Mr. James there, please 
+Sung: She's gone for the day. I can take your number and have her call you 
+tomorrow. 
+Front Desk: No, don't bother me. I call back later 
+
+ 
+상황 81: 전 화 4 
+
+ 
+성진아가 제임스와 통화를 원하고 있다. 
+ 
+성진아: 대한 산업입니다. 무엇을 도와 드릴까요 
+프론트데스크: 여보세요. 제임스씨 계십니까 
+성진아: 퇴근하셨습니다. 전화번호를 받아 두었다 내일 전화드리도록 하겠습니다. 
+프론트 데스크:아닙니다. 신경쓰지 마십시오. 제가 나중에 전화를 드리도록 하지요 
+
+ 
+<어구해설> 
+① 전화 통화를 원하는 사람을 찾을 때 격식을 갖춘 가장 일반적인 표현은 May I speak to 나 May I speak with 의 구문을 사용하는 것이다. 그러나 전화 통화자를 찾을 때는 다음과 같은 표현들도 많이 사용되고 있다. 
+
+ 
+② 전화상으로「저는 ～입니다.」라고 말할 때는 I am -- 이라고 말하지 않는다. 반드시 This is ～나 This is ～ speaking.의 형식으로 말하게 된다. 전화를 거는 입장이라면 This is ～ calling의 구문을 쓰기도 한다. 
+
+Situation 100 Lunch 
+
+ 
+Sam and Jin Sang-ho have to attend a meeting. 
+
+Sam: We have to attend a meeting right now. 
+Jin : I suggest that we take a quick lunch in the office. 
+Sam: Oh, I've reserved a table for lunch at 12:00. But I'll ask my secretary to cancel the reservation I made and arrange some sandwiches and coffee. 
+Jin: That sounds great 
+
+ 
+
+ 
+상황 100 점 심 
+
+ 
+샘과 진상호가 회의에 참석해야만 한다. 
+
+ 
+샘: 지금 바로 회의를 해야 합니다. 
+진상호: 그럼 사무실에서 급히 점심을 먹기로 하죠. 
+샘: 내가 12시로 점심 예약을 해두었는데요. 하지만 내 비서한테 예약을 취소하게 하고, 
+대신 샌드위치와 커피를 좀 준비하라고 부탁하죠. 
+진상호: 그게 좋겠군요. 
+
+ 
+<어구해설> 
+「~할까요」,「~하는 게 어떨까요」,「~하죠」하고 상대방에게 제안을 할 때에는 Let's ~ / How about ~ / Why don't we ~ 등의 구문을 이용하게 된다. 아주 직설적으로는 I suggest that ~의 구문을 쓰기도 하는데 suggest 다음에 오는 that절의 동사는「should +동사원형」이 쓰이거나 should가 생략되고 동사원형이 쓰인다는 것을 알아 두어야 한다. 또한 suggest someone to do의 형태로는 쓰이지 않는다는 것도 기억해야 한다. 
+
+ 
+
+ 
+
+
+Situation 99 Advice 2 
+Lee Jae-young is supposed to go to business trip to Tokyo. 
+Han: Have you confirmed your flight yet
+Lee: No, I haven't. Actually I don't think the airlines require that anymore.
+Han: Well, I'd advise you to do it anyway. I think it would be safer. 
+Lee : I see. thank you
+상황 99 충고 2
+이재영은 동경으로 출장을 가기로 되어 있다.
+
+한인수: 비행기 편 예약을 확인하셨습니까
+이재영: 아니오. 사실 항공사에서 그런 것을 더 이상 요구하는 것 같지 않아요.
+한인수: 글쎄요, 어쨌든 저는 확인해 두라고 권하겠어요. 그게 더 안전할거라고 생각합니다. 
+이재영: 알겠어요. 감사합니다. 
+
+
+<어구 해설> 
+
+상대방에게 조언이나 충고를 할 때에는 가급적 우회적인 표현을 사용하는 것이 바람직하다. 특히 상대의 의지와 반대되는 일을 충고할 때는 더더욱 그렇다. 그러나 필요에 따라서는 직설적인 충고의 표현을 사용해도 무방하다. 강한 권고의 뜻이 담긴 이러한 직설적인 충고의 표현으로는 should나 had better 같은 조동사를 이용한 구문을 사용할 수도 있고, 동사 advise를 사용하여 I'd advise you to∼ 나 My advise would be∼ 의 구문으로 표현할 수도 있다. 
+
+
+
+
+
+Situation 98 New Job 
+
+ 
+Shin Na-young quitted his job. She is looking for new job. 
+
+Shin : Guess what I got a new job. 
+Mother : Good for you. When do you start 
+Shin: Next week. I'll be working the day shift. 
+Mother : I'm so happy to hear that. 
+
+ 
+상황 98 새로운 일자리 
+
+ 신나영이 일자리를 그만두고 새로운 일을 찾고 있다. 
+. 
+신나영: 무슨 일인지 알겠어요 내가 새 일자리를 구했어요. 
+어머니: 잘됐구나. 언제부터 시작하죠 
+신나영: 다음 주요. 주간 근무가 될 거예요. 
+어머니: 취직소식을 듣게 되다니 무척 기쁘구나. 
+
+ 
+<어구해설> 
+
+I'm glad to ~.는「~해서 반갑다」는 의미와「기꺼이 ~ 하겠다」는 의미가 내포된 표현이다. 이외에도 기쁨이나 만족감을 나타내는 표현으로는 I'm pleased with/at ~ / I'm pleased 
+to+동사원형 / I'm happy to+동사원형 / I'm delighted with/at ~ / I'm delighted to+동사 
+원형 / I'm satisfied with ~ 등의 구문이 있다. 
+
+ 
+
+ 
+
+ 
+
+ 
+Shin Na-young quitted his job. She is looking for new job. 
+Shin : Guess what I got a new job. 
+Mother : Good for you. When do you start 
+Shin: Situation 98 New Job Next week. I'll be working the day shift. 
+Mother : I'm so happy to hear that. 
+
+ 
+상황 98 새로운 일자리 
+
+ 
+신나영이 일자리를 그만두고 새로운 일을 찾고 있다. 
+. 
+신나영: 무슨 일인지 알겠어요 내가 새 일자리를 구했어요. 
+어머니: 잘됐군요. 언제부터 시작하죠 
+신나영: 다음 주요. 주간 근무가 될 거예요. 
+어머니: 취직소식을 듣게 되다니 무척 기쁘구나. 
+
+ 
+<어구해설> 
+
+ 
+I'm glad to ~.는「~해서 반갑다」는 의미와「기꺼이 ~ 하겠다」는 의미가 내포된 표현이다. 
+이외에도 기쁨이나 만족감을 나타내는 표현으로는 I'm pleased with/at ~ / I'm pleased 
+to+동사원형 / I'm happy to+동사원형 / I'm delighted with/at ~ / I'm delighted to+동사 
+원형 / I'm satisfied with ~ 등의 구문이 있다. 
+
+ 
+
+ 
+
+ 
+
+ 
+Situation 97 Telephne 6 
+
+ 
+James is calling to Mr. Han. But He is absent now. 
+
+ 
+James: Is Mr. Han in 
+Park: Who are you calling 
+James: I'm sorry. I'd like to speak to Mr. Han Jin-soo of Sales Dept. 
+Park: He is off today. 
+James: Can I have the phone number where can I contact him 
+Park : Sure. 
+
+ 
+상 황 97 전 화 6 
+제임스가 미스터 한과 통화를 원한다. 하지만 그는 부재 중이다. 
+
+ 
+제임스: 한 선생님 좀 부탁합니다. 
+박 신호: 누구에게 전화하셨습니까 
+제임스: 아 죄송해요. 영업부의 한 진수 씨와 통화하고 싶은데요. 
+박신호: 오늘은 그분이 쉬는 날인데요 
+제임스: 그에게 연락할 수 있는 전화번호를 알 수 있을까요 
+박신호: 그러죠 
+
+ 
+<어구해설> 
+“누구 있습니까” 라는 말은 간단히 be 동사를 이용해서 위와 같이 표현이 가능하다. 
+일반적으로는 Can I speak to -- 로 표현하기도 한다. 
+
+ 
+영어는 다분히 자기위주의 언어이다. 따라서 상대방의 전화번호를 알고자 하는 경우에도 직 
+역을 한다면 내가 당신의 번호를 얻을 수 있을까요 라고 해석이 되기 마련이다 
+
+
+
+
+Situation 96 Translation 
+Director, Han Sung-jin ask his secretary to help him. 
+
+Director: Would you do me a favor
+Secretary: Of course. What do you want me to do
+Director: Will you translate it for me, and tell me what it says
+Secretary: Sure, I will. Let me see it. 
+상황 96 번역 
+
+이사인 한성진이 비서에게 도움을 요청하고 있다. 
+이사: 나 좀 도와주겠어요 
+비서: 물론이죠. 무엇을 해 드릴까요
+이사: 이것을 번역을 해서 무슨 말이 쓰였는지 말해 줄래요 
+비서: 그러죠. 어디 보여 주세요. 
+
+<어구해설>
+favor는「은혜, 호의」라는 뜻에서 출발하여「청, 부탁」이란 뜻을 갖게 되었다. 따라서 Will you do me a favor라고 하면「제게 은혜를 베풀어 주시겠어요」하는 정도로 정중하고 완곡하게 부탁하는 표현이 된다.「부탁을 하나 들어 주시겠습니까」 정도의 의미로 알아두자. 
+
+
+
+
+
+Situation 95 Investing 
+
+Um Do-il is asking for the investing fund. 
+
+ 
+Um: When will it be ready 
+Manager: On Friday. 
+Um: On Friday But don't you have any faster service 
+Manager: Sorry. That's the best we can do. 
+
+ 
+상황 95 투 자 
+
+ 엄도일이 투자에 대해서 묻고 있다. 
+
+엄도일:언제 준비가 될까요 
+매니저:금요일에요. 
+엄도일:금요일이요 하지만 더 빨리 해 주실 수는 없나요 
+매니저:죄송합니다. 최선을 다하는 겁니다. 
+
+ 
+<어구 해설> 
+「~을 하는데 시간이 얼마나 걸립니까」하고 소요되는 시간을 물어볼 때는 보통 How long 
+does it take to ~의 구문이 사용된다. 물론 How long 대신에 How many hours나 How 
+many days 등의 표현이 쓰일 수도 있다. 
+
+ 
+
+
+
+
+Situation 94 Seeing off
+
+Lee Ho-min goes to see Ha Mi-ra off at the airport
+Lee: Now, here's your plane ticket.
+Ha: Thank you very much.
+Lee: James Folly, our branch manager, will meet you at the airport.
+Ha: It's very kind of you. 
+상황 94 배웅하기
+이호민이 공항에서 하미라를 배웅한다.
+이호민: 자, 여기 비행기표가 있습니다.
+하미라: 정말 고맙습니다. 
+이호민: 우리 지점장 제임스 폴리가 공항으로 마중을 나올 겁니다.
+하미라: 아주 친절도 하시군요. 
+<어구해설>
+도움을 주거나 친절을 베푼 사람에게 고마움을 표시할 때 쓸 수 있는 표현들은 다음과 같다. You are so kind.나 It's very kind of you. 또는 It's so nice of you. 같은 표현은 직역을 하면 「당신은 무척 친절하시군요.」이지만 「정말 고맙습니다.」의 의미 정도로 알고 사용하는 것이 좋다. 
+
+
+
+
+
+
+Situation 93 Document
+Rora is advising Han to prepare documents for meeting
+Han: This is James Han speaking. 
+Rora: Mr. Han. I think it would be helpful to have something in writing 
+before we schedule a meeting.
+Han: Well, I could prepare a short memorandum giving all the details.
+Rora: That would be helpful. 
+상황 93 문 서
+
+로라가 제임스 한에게 회의에 필요한 문서준비를 하라고 지시한다.
+제임스: 제임스 한입니다
+로라: 한 선생님. 회의 일정을 잡기 전에 서류상으로 좀 준비하는 게 도움이 되겠는데요.
+제임스: 글쎄요, 내용을 상세히 적어 놓은 메모를 준비할 수는 있겠습니다.
+로라: 그게 도움이 되겠군요.
+<어구 해설> 
+
+「내가 너라면 ∼할 텐테」라고 완곡하게 조언하는 표현으로 If I were you, I would ~의 가정법 과거구문을 이용할 수 있다. 이외에도 가정법 동사를 이용한 완곡한 권고의 표현으로는 It might be a good idea to ∼. (∼하는 것이 좋은 생각일지도 모릅니다.) / It would be nice to ∼ (∼하는 것이 좋을 겁니다.) / I think it would be helpful to ∼. (제 생각에는 ∼하는 것이 도움이 될 것 같군요.) 등이 있다. 
+「∼할 필요가 없다」,「∼하지 않아도 된다」는 뜻으로 다른 사람에게 권고나 조언을 할 때는 흔히 do not need to 를 사용한다. 같은 표현으로 have no need to / need not / don't have to 등을 쓸 수 있다. 
+
+
+
+
+
+
+Situation 92 Congratulation 
+
+ 
+Richard Sanderson was promoted to vice president.
+
+Ann: This is a present for you to congratulate you on your promotion.
+Richard : Oh, thank you. It's so lovely. 
+Ann : I'm so glad you like it.
+Richard: But you shouldn't have. 
+
+ 
+상황 92 축하인사 
+
+ 
+리차드 샌더슨이 부사장으로 승진하였다. 
+
+ 
+앤: 당신의 승진을 축하하는 선물이에요. 
+리차드: 오, 고맙습니다. 정말 아름답군요. 
+앤: 맘에 들어 하시니 기쁘네요. 
+리차드: 하지만 이러실 필요는 없었어요. 
+
+ 
+<어구 해설> 
+I'm glad to ~.는「~해서 반갑다」는 의미와「기꺼이 ~ 하겠다」는 의미가 내포된 표현이다. 
+이외에도 기쁨이나 만족감을 나타내는 표현으로는 I'm pleased with/at ~ / I'm pleased 
+to+동사원형 / I'm happy to+동사원형 / I'm delighted with/at ~ / I'm delighted to+동사 
+원형 / I'm satisfied with ~ 등의 구문이 있다. 
+
+
+
+
+Situation 91 Communication 
+Willams wants to know whether Kim Do-hoon called to Mr. Green.
+
+Williams: Have you discussed this problem with Mr. Green
+Kim: I haven't been able to reach him.
+Williams: Let me give you his home number. You might try calling him at home.
+Kim: All right, I will. 
+상황 91 연 락 
+윌리엄스는 김도훈이 그린에게 연락을 취했는지 알고 싶어한다
+윌리엄즈: 이 문제를 그린 씨와 상의했습니까
+김도훈: 그에게 연락을 취할 수가 없었습니다.
+윌리엄즈: 그의 집 전화번호를 알려 드리죠. 집으로 전화해 봐야 할 겁니다.
+김도훈: 알겠습니다. 그렇게 하죠. 
+<어구 해설>
+「∼할까요」,「∼하는 게 어떨까요」,「∼하죠」하고 상대방에게 제안을 할 때에는 Let's ∼ / How about ∼ / Why don't we ∼ 등의 구문을 이용하게 된다. 아주 직설적으로는 I suggest that ~의 구문을 쓰기도 하는데 suggest 다음에 오는 that절의 동사는「should+동사원형」이 쓰이거나 should가 생략되고 동사원형이 쓰인다는 것을 알아 두어야 한다. 또한 suggest someone to do의 형태로는 쓰이지 않는다는 것도 기억해야 한다. 
+
+Situation 110  Appreciation 
+
+ 
+Kwon Ji-yeon appreciates the help from George. 
+
+Kwon: Thank you for your help, George 
+George: It's my pleasure. 
+Kwon: I couldn't have done it without you. 
+George: As a matter of fact, I enjoyed myself. 
+
+ 
+상황 110  감 사 
+
+ 
+권지연이 조오지의 도움에 감사하고 있다 
+
+ 
+권지연: 도와 주셔서 고마워요, 조오지 
+조오지: 천만에요. 
+권지연: 당신이 아니었다면 그것을 해내지 못했을 거예요. 
+조오지: 사실은, 저도 즐거웠습니다. 
+
+ 
+<어구 해설> 
+감사에 대한 응답 표현으로는 다음과 같은 것들이 있으나 It's nothing. / Don't mention 
+it./ Not at all.등의 표현은 현대 구어체 영어에서는 좀처럼 사용되지 않는다는 점에 유의 
+할 필요가 있다. No big deal.도 상황에 따라서 감사에 대한 응답 표현으로 사용할 수 있다. 
+
+ 
+
+ 
+
+
+
+
+Situation 109 Air Pollution 
+
+ 
+Kim Mi-sun complains about the air pollution. 
+
+ 
+Kim: The air in our office has been too polluted these days. 
+Jo: Yes, it really has. Factories and cars put gases into the air, 
+furthermore many people smokes cigarettes 
+Kim: I think we should do something to make the air clean. 
+Jo: I think so, too. 
+
+ 
+상황 109 공기오염 
+
+김미선이 사무실 공기오염에 대해서 불평한다. 
+
+김미선: 요즈음은 사무실 실내가 너무 많이 오염된 것 같아요 
+조한나: 네, 정말 그래요. 공장과 자동차들이 공기 중에 가스를 내뿜고 있을 뿐만 아니라 
+많은 사람들이 사무실내에서 담배를 피워대니까요 
+김미선: 공기를 깨끗하게 하기 위해 어떻게든 해야 한다고 생각해요. 
+조한나: 맞습니다. 저도 그렇게 생각해요. 
+
+ 
+
+<어구 해설> 
+I agree.를「나는 동의합니다.」라고만 생각해 버리면 쉽게 사용하기 힘든 표현이다.「그래 
+요, 당신 말이 맞아요.」,「같은 생각입니다」 정도의 느낌으로 사용하도록 한다. 뒤에 오는 
+목적어가 사람이면 with를, 사물이면 to 또는 on을 사용한다. 
+I agree. 외에도「그래요, 당신 말이 맞아요.」,「같은 생각입니다」하고 상대방의 의견에 
+동의하는 표현으로는 다음과 같은 것들이 있다. 
+
+ 
+상대의 의견에 동의하지 않는 경우에는 I don't think so.나 I don't think you're right.의 표 
+현을 쓰게 된다. 이때는 I think you're wrong.이나 I think you're not right.라고는 말하지 
+않는 것이 좋다. 상대의 의견을 직설적으로 부정하기 보다는 I don't think you're right. 
+처럼 자신의 생각을 부정하는 식으로 말하는 것이 보다 완곡한 표현이기 때문이다. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+Situation 108 Application 
+
+ 
+Reigh Han is making an inquiry about the application. 
+
+ 
+Reigh: I'd like some information on how to get into bank company. 
+Front Desk : Well, first, you write the bank you want to get into, and 
+get an application form. Then, send it in with a copy of your school records. 
+Reigh: And do I need to take any tests 
+Front Desk: Yes, you have to take the TOEFL test. 
+
+ 
+
+ 
+상황 108 입사지원 
+
+ 
+레이 한이 입사에 대해서 질문을 하고 있다. 
+
+레이한: 은행에 입사 하는 방법을 좀 알고 싶습니다. 
+프론트 데스크: 우선 입사하고자 하는 은행에 편지를 써서 입사 원서를 얻으세요. 
+그런 다음 학교 성적증명서 1부와 함께 그 원서를 보내십시오. 
+레이한: 그리고는 어떤 시험을 치루어야 하나요 
+프론트 데스크: 네, TOEFL 시험을 봐야만 합니다 
+
+ 
+
+ 
+<어구 해설> 
+규정이나 방법 등에 대한 정보를 얻기 위해서는 Would you tell me how to ~나 I'd like some information on ~와 같은 표현을 사용하는 것이 보통이다. 
+
+ 
+Would you tell me how to use this computer (이 컴퓨터를 어떻게 사용하는지 말해 주 
+시겠습니까) 
+I'd like some information on this product. (이 상품에 대한 정보를 좀 얻고 싶습니다.) 
+Are there any rules about parking (주차 규정이 있습니까) 
+Do I need to take any tests (어떤 시험을 치러야 합니까) 
+
+
+
+
+Situation 107 Asking a Favor 
+
+ 
+Park Ji-won ask Kim Dong-so to close the window. 
+
+ 
+Kim: What's eating you 
+Park: I can't endure the noise! I wonder if you would close the window 
+Kim: Well, I guess so, sure. I don't mind. 
+Park: You're sure 
+Kim: I always do. 
+
+상 황 107 도움 부탁 
+
+ 
+박지원이 김동수에게 창문을 닫아달라고 요청한다. 
+
+ 
+김동수: 왜 그러세요 
+박지원: 소음을 참을 수 없어서요. 창문을 닫아주실 수 있을런지요. 
+김동수: 어, 그렇게 하죠. 상관없습니다. 
+박지원: 정말이세요 
+김동수: 항상 하는 일인걸요. 
+
+ 
+
+ 
+<어구 해설> 
+bother는「~를 귀찮게하다」는 뜻으로 bother를 사용한 질문은「귀찮으시겠지만 ~」의 뉘앙스를 풍긴다. 이런 분위기의 표현으로는 다음과 같은 것이 있다. 
+
+ 
+상대방에게 보다 정중하고 완곡하게 부탁을 하는 경우에 쓸 수 있는 표현으로 I wonder if 
+you could/would ~ (∼해 주실 수 있으신지 모르겠네요)가 있다. 또 Is it all right if I ask 
+you to ~ (~ 부탁을 드려도 괜찮은지요)나 I really don't want to ask you about this, 
+but (정말이지 이런 부탁을 하고 싶지는 않지만, ~)도 완곡하게 부탁을 청하는 구문이다. 
+
+ 
+
+
+
+Situation 106 Buyer 
+
+ 
+Linda Jung is asking manager about the meeting result. 
+
+ 
+Linda: What do you think of your buyer 
+Manager: In my opinion, He just tried to tell us how precious the diamond is. 
+Linda: Do you like it 
+Manager: Yes, I do. 
+
+ 
+상황 106 바이어 
+
+ 
+린다 정이 과장에게 회의 결과에 대해서 묻는다. 
+
+ 
+린다: 바이어에 대해서 어떻게 생각하세요 
+매니저: 내 의견으로 볼 때 그는 다이아몬드가 얼마나 값어치가 있는 것인가를 우리에게 말 
+하려 했던 것 같아. 
+린다: 그의 의견이 마음에 드세요 
+매니저: 응 마음에 드는군. 
+
+ 
+
+ 
+<어구해설> 
+자신의 솔직한 생각이나 개인적인 의견을 말하고자 할 때에는 상황에 따라 다음과 같은 어 
+구를 이용해 말을 시작하면 된다. 
+
+ 
+In my opinion, ~ (제 생각으로는 ~) 
+In my view, ~ (제 견해로는 ~) 
+As I see it, ~ (제가 보기로는 ~) 
+It seems to me that ~ (제게는 ~한 것 같습니다.) 
+As far as I am concerned, ~ (제가 보기에는 ~) 
+Talking of ~ (~라면, ~의 말이 났으니 말인데) 
+Frankly speaking, ~ (솔직히 말하면, ~) 
+To be frank with you, ~ (솔직히 말하면, ~) 
+Honestly, ~ (솔직히 말해, ~) 
+To be honest, ~ (솔직히 말해서, ~) 
+Honestly speaking, ~ (솔직히 말하면, ~) 
+Strictly speaking, ~ (엄밀히 말하면, ~) 
+To tell the truth, ~ (사실을 말하면, ~) 
+
+ 
+
+Situation 105 Be Late 2
+Lee Jin-soo is late for morning meeting.
+
+Manager: What is the matter with you
+Lee: I'm sorry to have kept you waiting so long.
+Manager: That's all right. The traffic is usually heavy at this time.
+Lee: Yes, it really is. I had to get off the bus and walk all the way here. 
+상 황 105 지각 2
+
+이진수가 아침 회의에 지각한다.
+과장: 어떻게 된 일인가
+이진수: 오래 기다리게 해서 죄송합니다. 
+과장: 괜찮아. 이 시간에는 대개 교통이 혼잡하니까.
+이진수: 네, 정말 그래요. 버스에서 내려 이곳까지 걸어와야 했습니다. 
+<어구 해설>
+「-해서 죄송합니다」하는 사과의 표현으로는 I'm sorry (that) 이나 I'm sorry to 의 구문을 사용한다. 이밖에도 Excuse me for / Forgive me for / I apologize for . 등도 잘못에 대해 사과하는 표현이다. 
+상대방이 사과하거나 용서를 구하는 말에 대한 응답으로「괜찮습니다.」라고 하려면 다음과 같은 표현을 이용한다. 
+That's Okay. (괜찮습니다.) 
+That's quite all right. (정말 괜찮습니다.) 
+It doesn't matter. (괜찮습니다., 상관없습니다.) 
+No problem. (괜찮습니다., 아무 문제없습니다 )
+
+
+
+
+
+
+Situation 104 Telephone 7 
+
+ 
+Han Hee-won is looking for Defont company in London. 
+
+ 
+Situation 103 Automobile. 
+
+ 
+Ahn Dae-shik is looking for a car. 
+
+Kim: What's the matter with you 
+Ahn: Mr. Kim. Can I possibly have the car tomorrow if you don't use it, 
+Kim: Why not It's fine with me. But perhaps you'd better check with your mother. 
+Ahn: Okay. Thanks. 
+
+ 
+상황 103 자동차 
+
+ 
+영업사원인 안대식은 자신이 사용할 자동차를 찾고 있다. 
+
+ 
+김상호: 무슨 걱정 있어요 
+안대식: 내일 차를 쓰지 않으시면 제가 좀 쓸 수 있을까요, 김상호씨 
+김상호: 나는 괜찮은데요. 부장님한테 상의해 보는 게 좋을거예요. 
+안대식: 알겠습니다. 고맙습니다 . 
+
+ 
+
+ 
+<어구해설> 
+상대방에서 어떤 일을 부탁할 때 흔히 쓰는 구문은 Could I ask you to ~ / Would you 
+please ~ / Could you ~등이 있다. 
+
+ 
+Why not은 상대방으로부터 권유나 제의를 받았을 때 흔쾌히 수락하는 경우에 사용할 수 
+있다. 직역하자면「왜 안되겠습니까」의 뜻이지만 우리말로는「물론 그렇게 하죠.」,「그 
+러고 말고요.」하는 정도의 뜻으로 보는 것이 좋다. 
+
+ 
+
+
+
+ Situation 102 Travel 
+So Han-soo is traveling in Brazil. 
+
+ 
+Jose: How do you do  
+So : Where do you work 
+Jose: I work for Fantasy Travel. 
+So: Oh, and what do you do there 
+Jose: I'm a guide. I take people on tours. 
+
+ 
+상황 102 여 행 
+소한수는 현재 브라질을 여행하고 있다. 
+
+ 
+호세: 안녕하세요 
+소한수: 어디에 근무하십니까 
+호세: 환타지 여행사에서 근무합니다. 
+소한수: 아, 그런데, 거기선 무슨 일을 하죠 
+호세: 가이드를 하고 있습니다. 사람들을 데리고 여행을 가죠. 
+
+ 
+<어구해설> 
+직업을 묻는 가장 보편적인 표현으로는 "무슨 일을 하십니까"라는 뜻의 What do you do 
+가 있으며, Where do you work(어디에서 일하고 계십니까)와 같이 근무지를 묻는 법으 
+로 상대의 직업을 알아 볼 수도 있다. 이외에도 직업을 나타내는 말에는 occupation (직업, 
+일), vocation (생계를 위한 직업, 생업), calling (천직, 가업), job (일자리, 직업), 
+profession (전문직의 직업), business (직업, 사업), line (사업 분야) 등이 있다. 
+
+ 
+
+
+
+
+
+Situation 101 Advice 2 
+
+ 
+Shin Ji-hyun is asking her boss to help her. 
+
+ 
+Shin: I wonder if you would advice me to manage this project. 
+Boss: Well, I guess so, sure. I don't mind. 
+Shin: You're sure 
+Boss: I always do. 
+
+ 
+상황 101 조 언 2 
+
+ 
+신지현이 상사에게 조언을 요청하고 있다. 
+
+ 
+신지현: 이 프로젝트를 처리하기 위해서 조언을 해 주실수 있는지요 
+상사: 어, 그렇게 하지요. 걱정말아요. 
+신지현: 정말이세요 
+상사: 항상 하는 일인걸요. 
+
+ 
+<어구해설> 
+
+ 
+상대방에게 보다 정중하고 완곡하게 부탁을 하는 경우에 쓸 수 있는 표현으로 I wonder if 
+you could/would ~ (∼해 주실 수 있으신지 모르겠네요)가 있다. 또 Is it all right if I 
+ask you to ~ (~ 부탁을 드려도 괜찮은지요)나 I really don't want to ask you about 
+this, but ~ (정말이지 이런 부탁을 하고 싶지는 않지만, ~)도 완곡하게 부탁을 청하는 구 
+문이다. 
+
+Situation 120 Missing the Plane 
+
+ 
+Ko Jin-woo has to get on airplane today. But he miss it.  
+
+ 
+Ko: Have I missed Flight 701 to Seoul 
+Guide: That flight closed 5 minutes ago. I can get you on the next flight. 
+Ko: I must catch that plane. Can't something be done 
+Guide : Let me check with boarding personnel. 
+Ko: I'm sorry to cause all this trouble. 
+
+ 
+상황 120 비행기를 놓치다 
+
+ 
+뉴욕 출장 중인 고진우는 701편 항공기를 오늘 꼭 타야만 한다. 하지만 놓치고 마는데. . . 
+
+ 
+고진우 : 서울행 701편 비행기가 떠났나요 
+가이드: 그 비행기는 5분 전에 탑승 완료했습니다. 
+다음 비행기편으로 가게 해 드리죠. 
+고진우: 그 비행기를 꼭 타야하는데요. 어떻게 할 수 없을까요 
+가이드: 탑승 요원에게 알아보도록 하죠. 
+고진우: 이렇게 귀찮게 해드려 죄송합니다. 
+
+<어구해설> 
+이 대화에서 사용된 close의 의미는 비행기의 탑승 게이트를 가리키는 door를 의미한다. 
+따라서 항공기 출발 이전의 상황에서 탑승자가 출입하는 출구가 이미 닫혀버렸다는 의미로 
+이해하면 된다.  
+
+ 
+Can't something be done “다른 대안은 없나요” 라는 좀 생소한 표현이기는 하지만 문형 자체를 외워두면 실제 대화에서 유용하게 사용가능하다. 
+
+ 
+
+ 
+
+
+
+Situation 119  Favor 
+
+ 
+Steve has to buy office stationary. but he does not know where it is. 
+
+ 
+Steve: Mr. Lee, may I ask a favor of you 
+Lee: Sure. 
+Steve: I have to buy some office stationery. 
+Is there any discount store around here 
+Lee: Certainly. It's a stone's throw away. 
+
+ 
+상황 119 부 탁
+
+ 
+사무용품이 필요한 스티브는 어디에서 구입해야 할지 난감해 한다 
+
+ 
+스티브: 이 대리님 부탁 좀 드려도 될까요 
+이재성 : 그럼요 
+스티브: 사무실 물품을 좀 사야하는데 이 근처에 할인 판매점이 있나요 
+이재성: 네. 바로 엎어지면 코 닺을 데 있어요. 
+
+ 
+<어구해설> 
+상대방에게 도움을 요청하는 경우 사용할 수 있는 표현은 아주 많지만 격식을 차려서 표현 
+하는 문장은 그리 많지 않은 편이다. 이 대화에서 사용되는 favor 동사도 그런 부류에 속하 
+는 표현이라고 할 수 있다. 이 문장은 평서문을 사용하여 I have a favor to ask of you. 
+라고 사용이 가능하다. 
+
+ 
+
+ 
+
+ 
+
+
+Situation 118 Disappointment 
+
+ 
+Jang Se-hyung excluded from the promotion list. 
+
+Jang: I was passed over for promotion again. 
+Oh: That was a tough break. 
+Jang: I guess it's not in the cards for me to be an assistant manager. 
+Oh: Don't get down on yourself like that. 
+Jang: What else can I do  
+Oh: Keep your chin up. 
+
+ 
+
+ 
+상황 118 실 망 
+
+ 
+장세형이 승진리스크에서 누락되었다. 
+
+ 
+장세형: 또 다시 난 진급에서 누락됐어. 
+오미란: 기회가 안 좋았나봐요 
+장세형: 난 아무래도 대리가 못될 팔자인가봐. 
+오미란: 너무 자신을 비관적으로 생각하지 마세요. 
+장세형: 그럼 내가 할 수 있는 게 뭐야  
+오미란: 의기소침해 하지마세요. 
+
+
+ 
+<어구해설> 
+ot in the cards는 카드에 없는 현상으로 '운명적으로 일어날 수 없는' 
+또는 '안될 팔자인'의 의미로 사용된다. 
+
+keep one's chin up은 턱을 치켜들고 다니라는 의미로 '당당하게 행동하라' 
+또는 '의기소침하지 말라'로 사용된다 
+
+
+
+
+
+Situation 117 Checking the Figure 
+
+ 
+Jin Sang-min is asking for checking the figure. 
+
+Jin: Can you check these figures We need them for the meeting tomorrow 
+Kim: I'd be glad to check them, but I can't do it by tomorrow. 
+Jin: Oh then don't worry about it. I'll get Lee to look at them. 
+Kim: I am sorry 
+
+ 
+상황 117 숫자 확인하기 
+
+ 
+진상민이 숫자 확인을 요구하고 있다. 
+
+ 
+진상민: 이 숫자를 검토해 주시겠어요 내일 회의에 필요하거든요. 
+김동수: 그렇게 하지요. 그러나 내일까지는 할 수 없겠어요 
+진상민: 아 그것에 대해서 염려하지 마세요. 미스터 리에게 부탁하지요 
+김동수: 죄송합니다. 
+
+ 
+<어구해설> 
+get 목적어 to do 는 “-에게 하게 하다” 라는 사역의 의미로서 일상생활에 많이 쓰이는 
+사역동사로는 get 이외에도 have가 있다. My mother had me clean my hands 
+
+ 
+여기서 do not worry 동사는 “걱정할 필요가 없다는” 라는 의미로 사용되었으며 need 동사를 사용하여 need not worry로도 사용이 가능하다. 
+
+
+
+
+
+Situation 116 Shipment 
+
+ 
+Shin Dong-min is asking Lee Han-soo about the last shipment. 
+
+ 
+Shin: What is that shipment coming 
+Lee: I don't know. Today's twenty-eighth. We placed our order on the sixth 
+Shin: Well, it must be lost. Ask for it to be reshipped, but have it sent the fastest, 
+surest way. 
+Lee: Yes. I got it. 
+
+ 
+상황 116 선 적 
+
+신동민이 나한수에게 지난 선적에 대해서 질문하고 있다. 
+
+ 
+신동민: 그 선적분은 언제 올까요 
+이한수: 잘 모르겠는데요. 오늘이 28일이지요. 6일날 주문을 했었는데요. 
+신동민: 선적분이 어디로 없어진 것이 분명해요. 다시 선적하되 가능한 한 빠르고 확실한 방법으로 보내도록 요청하세요 
+이한수: 알겠습니다. 
+
+ 
+<어구해설> 
+order는 순서나 서열을 나타내는 의미로도 사용되지만 비즈니스 영어에서 사용되는 의미는 
+대부분 선적에 대한 “주문” 이나 “주문품”을 나타낸다. 여기서는 place 라는 동사자체에도 주문을 하다라는 의미가 복합적으로 사용되었으며 어떠한 업체에 주문을 하는 경우에는 with 동사를 사용하여 다음과 같이 표현한다. 
+They placed an order with a company for the goods 
+
+
+
+
+
+Situation 115 Telephone 8 
+
+ 
+Dennis Park is trying to talk to Kim Ki-soo But he is absent. 
+
+Park: Hello. I'm trying to reach Mr. Kim Ki-soo. Do I have the right number 
+Lee: Yes, but manager isn't office now. 
+Park: Oh, I see. I wonder if I could leave a message for him to call me. 
+Lee: Yes, of course. 
+
+ 
+상 황 115 전화 8 
+
+ 
+데니스 박이 김기수와 통화하려고 한다, 하지만 그는 부재 중이다. 
+
+데니스 박: 여보세요. 김기수 씨에게 연락을 취하려는데요. 제가 맞게 전화했습니까 
+이미영: 네 그렇습니다. 하지만 김 과장님은 지금 사무실에 안 계시는데요. 
+데니스 박: 아, 알겠습니다. 김 과장님께 전화해 달라는 메시지를 남길 수 있는지요. 
+이미영: 그럼요. 
+
+ 
+<어구 해설> 
+통화 상대자가 자리에 없는 경우에는 메모를 남기거나, 또는 전화 받는 사람이 메모를 받아 
+두기도 한다. 다음은 이런 상황에서 쓸 수 있는 유용한 표현들이다. Any message는 Do 
+you have any message나 Is there any message의 뜻이 된다. 
+
+ 
+Could I leave a message (메모를 남길 수 있을까요) 
+Any message (전하실 말씀이 있나요) 
+Can I take your message (전할 말을 받아둘까요) 
+
+
+
+
+
+Situation 114 Name 
+
+ 
+Bill Douglas meets Mr. Song. He forgot his first name. 
+
+Song: How are you Mr. Bill 
+Bill: How are you　Sorry, what's your first name 
+Song : It's Jin-ho Song, but please call me Jin. 
+Bill: Are you working at Mobico company, too 
+Song: Yes, I'm a civil engineer. 
+
+ 
+상황 114 이름 부르기 
+
+ 
+빌 더글라스가 송진호를 만난다. 그러나 그의 이름이 생각나지 않는데. . . 
+
+ 
+송진호: 안녕하세요 빌  
+빌: 오! 안녕하세요 죄송하지만 이름이 어떻게 되지요 
+송진호: 제이름은 송진호입니다. 하지만 그냥 진이라고 불러주세요. 
+빌: 진호씨도 모비코회사에서 일하고 있나요 
+송진호: 예, 저는 기사입니다 
+
+ 
+<어구해설> 
+상대방과 친근하게 대하고 싶을 때에는 자신의 First name을 부르도록 하는 것이 좋으며, 
+보다 더 친해지고 싶을 때에는 자신의 애칭을 부르도록 한다. 자신의 애칭을 불러 달라고 
+하는 것은「저를 친구처럼 대해 주세요」하는 의미가 내포되어 있는 것이다. 
+
+ 
+My friends call me Eugene. (친구들은 저를 유진이라고 부른답니다.) 
+Please call me Carrie. (저를 캐리라고 불러 주세요.) 
+
+ 
+
+ 
+
+ 
+ 
+Situation 113 Meeting Schedule 
+
+ 
+Jeong Ji-hoon is supposed to meet his french buyer. But they are too late . 
+
+ 
+Jeong: We are too late. Let's hurry up.  
+Kim: Don't you think you ought to call your french buyer and let her know where we 
+are 
+Jeong: Oh, I think it'd be a good idea. 
+Kim: Yeah, I think she might be a little worried. 
+
+ 
+상황 113 미팅 약속 
+
+ 
+정 지훈은 프랑스 바이어와 만나기로 되어 있다. 그러나 약속시간에 상당히 늦었는데. . . 
+
+ 
+정지훈: 늦었군요. 서둘러요. 
+김현호: 프랑스 바이어에게 전화해서 우리가 어디에 있는지 알려 줘야 하지 않을까요 
+정지훈 아, 좋은 생각입니다. 
+김현호: 그녀가 걱정을 하고 있을 거예요. 
+
+ 
+<어구 해설> 
+내가 너라면 ~할 텐테」라고 완곡하게 조언하는 표현으로 If I were you, I would ~의 가 
+정법 과거구문을 이용할 수 있다. 이외에도 가정법 동사를 이용한 완곡한 권고의 표현으로 
+는 It might be a good idea to ~. (~하는 것이 좋은 생각일지도 모릅니다.) / It would 
+be nice to ~. (~하는 것이 좋을 겁니다.) / I think it would be helpful to ~. (제 생각에 
+는 ~하는 것이 도움이 될 것 같군요.) 등이 있다. 
+
+ 
+「~할 필요가 없다」,「~하지 않아도 된다」는 뜻으로 다른 사람에게 권고나 조언을 할 때 
+는 흔히 do not need to ~를 사용한다. 같은 표현으로 have no need to ~ / need not ~ 
+/ don't have to ~ 등을 쓸 수 있다. 
+
+ 
+
+ 
+
+ 
+
+
+
+
+Situation 112 Overtime Work 
+
+ 
+Manager Jeong is talking to Han Su-jin about the overtime work 
+
+ 
+Manager: Can you work overtime tonight 
+Han: Again When is it due 
+Manager: We have to get through the work by Monday to meet the deadline. 
+Han: Well, when I first started, I was here from eight in the morning until ten at night. 
+Manager: Ugh. Sounds like torture. 
+
+ 
+상 황 112 초과 근무 
+
+정과장이 한수진에게 초과 근무에 대해서 이야기 하고 있다. 
+
+과장: 오늘밤 초과근무 할 수 있겠나 
+한수진: 또요 언제까지 끝내야 되는데요 
+과장: 마감시간에 맞추려면 월요일까지는 일을 마쳐야 돼. 
+내가 처음 입사했을 땐 아침 8시부터 밤 10시까지 일 했어. 
+한수진 : 세상에, 끔찍하게 들리는군요. 
+과장: 꼭 그렇지 만은 않아. 일을 즐긴다면 말이야 
+
+ 
+<어구해설> 
+due 의 의미는 사전 상으로 여러 가지 의미를 지니고 있지만 여기서는 “지불기일이나 당 
+연히 치러야 할” 이라는 뜻으로 사용된다. 
+또 다른 의미로는 “예정” 이나 “정당한” 의 의미로도 표현이 가능하다. 
+
+ 
+The reward is due to Mr. Kim Dong-su. 
+(보상은 김동수씨에게 돌려야 합니다.) 
+
+The train is due in London at 5 p. .m. 
+(열차는 오후 5시에 런던에 도착할 예정이다.) 
+
+
+
+
+Situation 111 Conversation 
+President Mr. Yang asks employees about the working condition.
+
+President: You've been with the company for six month now. 
+How do you like it so far 
+Employee: I am very happy here. 
+President: I wonder whether it is what you expected or not. 
+Employee: Not exactly, but I am pleased with what I have found and developed. 
+상황 111 대 화
+
+양 사장이 직원들에게 근무조건에 대해서 질문한다. 
+
+사장: 우리 회사에서 일한지도 6개월이 되었군요. 지금까지 일하는 건 어땠나요 
+사원: 아주 즐거웠습니다. 
+사장: 업무가 기대했던 것만큼 이었는지 궁금하군요. 
+사원: 정확히 말해 꼭 그런 건 아니었지만, 제가 이곳에서 배우고 자기 개발이 된 점에 대해 감사하고 있습니다
+<어구해설>
+상대방의 이야기에 부정을 나타내는 표현도 여러 가지이다. 강한 부정과 부정에 대한 자신의 확신을 예의바르게 표현하고자 할 때 쓸 수 있는 문장들이다. 
+
+Certainly not. (확실히 아닙니다.) 
+Absolutely not. (정말 아니야.) 
+Surely not. (정말 아닙니다.) 
+Not really. (정말 그렇지 않아요.) 
+Not necessarily. (반드시 그런 건 아닙니다.) 
+Nothing at all. (결코 그렇지 않습니다.) 
+Far from it. (절대 아니에요
+
+Situation 130 Report 
+
+ 
+Manager Kim Dong-hyun is asking Lee Min-ho about the report. 
+
+ 
+Manager: When will it be ready 
+Lee: On Friday. 
+Manager: On Friday But don't you have any faster service 
+Lee: Sorry. That's the best we can do. 
+
+ 
+상황 130 보고서 
+
+ 
+김 동현 부장이 이민호에게 보고서에 대해서 묻고 있다, 
+
+ 
+부장: 보고서는 언제 준비됩니까 
+이 민호: 금요일에요. 
+부장: 금요일이요 하지만 더 빨리 제출할 수 없나요 
+이민호: 죄송합니만 최선을 다하는 겁니다. 
+
+ 
+<어구 해설> 
+「~을 하는데 시간이 얼마나 걸립니까」하고 소요되는 시간을 물어볼 때는 보통 How 
+long does it take to ~의 구문이 사용된다. 물론 How long 대신에 How many hours나 
+How many days 등의 표현이 쓰일 수도 있다. 
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+Situation 129 Negotiation 
+
+ 
+Ferry Anderson is under negotiation with Kim Jin-su of Gajin Trading. 
+
+ 
+Anderson: Would you show me the lines you displayed at the Seoul Trade Fair 
+Kim: We can show you our samples and the price list. 
+Anderson: We have received a number of inquires and if your prices are 
+competitive we may place an order with you. 
+Kim: We assure you our goods are very popular in European markets and will sell 
+very well. 
+
+ 
+상황 129 협 상 
+
+ 
+페리 앤더슨이 가진무역의 김진수와 협상 중이다. 
+
+ 
+앤더슨: 서울 무역박람회에서 전시했던 종류의 제품을 보여주시겠습니까 
+김 진수: 자 여기 우리제품 견본과 가격목록이 있습니다. 
+앤더슨:　당사는 이미 여러 곳에서 문의가 쇄도하고 있으며 귀사의 가격이 경쟁력이 있다고 생각되면 주문을 낼 것입니다. 
+김 진수: 저희 제품은 유럽 시장에서도 높은 인기를 끌고 있으며 판매량도 틀림없이 높을 
+것임을 장담하겠습니다. 
+
+ 
+<어구해설> 
+여기에서의 lines 는 제품의 종류나 품목 계열을 나타내는 말이다. 
+
+가격자체를 나타내는 문장일 경우에는 high나 low 또는 reasonable 이나 competitive 등과 같은 형용사를 함께 사용한다. cost 와 같은 비용의 경우에는 expensive 와 cheap를 쓰기도 한다.  
+ 
+
+
+
+
+Situation 128 Order 2
+Lee Su-jeong is ordering Hanjin Trade Co., Ltd the products . 
+Manager: How many products can you order from us 
+Lee: What is the minimum quantity acceptable for our order
+Manager: The minimum number of your order is 1,000 dozen.
+Lee: By when can you forward the order to us
+Manager:　The delivery date for that product will be the 20th of July
+상 황 128 주 문 2 
+
+이 수정이 한진무역에 제품을 주문하고 있다. 
+매니저: 저희에게 몇 가지 종류의 상품을 주문하실 예정입니까
+이수정:　저희가 주문할 수 있는 최소 물량은 어느　정도입니까　
+매니저:　최소 주문량은 1000 다스입니다.
+이수정: 언제쯤 저희에게 발주해 주실 수 있겠습니까
+매니저: 납기일은 7월 20일이 될 것입니다. 
+<어구 해설>
+forward 는 "앞으로 전방으로" 라는 전치사로 알려져 있지만 여기서는 편지나 화물등을 전송하다 회송하다라는 의미로 사용되었다. 
+예) Please forward ( 전송바람) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Situation 127 Terms of Payment 
+
+ 
+Choi Sang-ho is negotiating with Ko Jin-woo for a terms of payment. 
+
+Choi: What kind of terms of payment do you usually use 
+Ko: Would you accept cash on delivery for the first transaction with us 
+Choi: Please give us a little easier terms of payment rather than cash on delivery. 
+Ko: Sorry but we'd like it on a pay-as-you-go basis. We' re strapped for cash 
+right now. 
+
+ 
+상황 127 지불 조건 
+
+ 
+최상호가 고진우와 지불 조건에 대해서 협상을 벌이고 있다. 
+
+ 
+최상호: 귀사에서는 주로 어떤 지불조건을 사용하십니까 
+고진우: 저희와의 첫 거래이니 만큼 물건인수와 동시에 현금을 지불하는 것을 조건으로 했 
+으면 합니다. 
+최상호: 현금 교환조건 대신 좀 여유 있는 지불조건을 제시해 주시기 바랍니다. 
+고진우: 죄송합니다만 저희도 지금 자금사정이 나쁘기 때문에 현금판매를 원합니다. 
+
+ 
+<어구해설> 
+일반적으로 무역거래에서 사용하는 영어느 일정한 형식을 따라야 하며 용어도 이 분야에서 
+만 사용되는 단어를 선별해서 사용해야 한다. 다음과같은 단어는 외워두면 유용하게 사용 
+가능한 핵심 용어들이다. 
+
+ 
+Bill of exchange 환어음 / Clean Bill of Exchange 보통 환어음 
+documentary Against Payment / 지급인도방식  
+documentary bill 화환(貨換 )어음 /  
+CWO (cash with order) 주문불 / usance 지불유예기 
+COD ( cash on delivery) 대금상환 인도  
+ 
+
+
+
+
+Situation 126 Patent 
+
+ 
+Han Dong-jin, president of Dongjin Co., Ltd. is looking for a license to use patent. 
+He visits Abe Inc. 
+
+Han: We would like a license to use your patent. 
+Abe: Our trade mark is registered and cannot be used freely without our 
+permission. 
+Han: If you will allow us your patent rights, we can assure you of a large return. 
+Abe: And our company will give you special permission to introduce our engineering patent. 
+
+ 
+상황 126 특 허 
+
+동진 주식회사의 한동진 사장이 특허 사용에 대한 라이센스를 물색하고 있는중에 아베사를 
+방문한다. 
+
+ 
+한동진: 귀사의 특허를 사용할 수 있는 라이센스를 얻고 싶습니다. 
+아베: 저희 상표는 등록된 것이어서 허가없이 무단으로 사용하실 수 없습니다. 
+한동진: 귀사의 특허권을 사용하도록 허락해 주시면 그 보답으로 상당액수를 지급해 드리겠습니다. 
+아베: 그러시다면 귀사에게 저희 기술특허를 도입할 수 있도록 특별인가를 내어드리겠습 
+니다. 
+한동진: 감사합니다. 
+
+ 
+<어구해설> 
+우리가 흔히 “특허” 라고 알고 있는 “patent"는 여러 가지 형태로 쓰일 수 있습니다. 명사 
+로는 ”특허, 특권, 독특한 것“ 이라는 뜻으로 일반적으로 문장에서는 ”특허를 취득하다“ 의 미로서 take out 동사와 함께 사용됩니다. 또한 "특허를 출원하다"라는 의미일 경우에는 
+grant a patent라는 표현을 씁니다. 
+
+ 
+ 
+
+
+
+Situation 125 Project 
+Jang Dong-hyun is talking to Henry about the suspended project 
+
+ 
+Jang: Why did they stop work on the project so suddenly 
+Henry: Their engineer left them high and dry in the middle of it. 
+Jang: I'm surprised. He seemed like such a reliable guy. 
+Henry: we should look for the other engineer as soon as possible. 
+
+ 
+상황 125 프로젝트 
+
+ 
+장동현이 헨리에게 중단된 프로젝트에 대해서 이야기를 나누고 있다 
+
+ 
+장동현: 왜 그렇게 갑자기 그 프로젝트 작업이 중단되었지요 
+헨리: 기술자가 도중에 그만두었어요 
+장동현: 어머, 그래요 그 사람 믿을 만해 보였는데 
+헨리: 빨리 다른 기술자를 찾아야 겠어요 
+
+ 
+<어구해설> 
+leave somebody high and dry 중 high and dry는 배가 좌초되어 버려진 채로 남겨진다는 뜻으로서 여기서는 도움을 주지 않고 떠나다, 그만두다라는 의미이다. 
+
+ 
+
+
+
+
+
+Situation 124 Discount
+Adrian is looking for camera at the department store. 
+Clerk: Good afternoon What can I do for you 
+Adrian: How much is this camera
+Clerk: It is $ 450
+Adrian: Can you give me a discount on this How about $350
+Clerk: I can go to $400 but I have draw the line there. 
+상황 124 물건값 깎기
+에이드리언이 백화점에서 사진기를 고르고 있다.
+점원: 안녕하세요 무엇을 도와드릴까요
+에이드리언: 이사진기는 얼마예요
+점원: 450 달러입니다.
+에이드리언: 좀 깎아 주세요. 350달러 어때요
+점원: 400달러까지는 가능하지만 그 이하로는 안됩니다 
+<어구해설>
+how about 은 - 어때요 라고 상대방의 동의를 구하는 표현이므로 what about 이나 will you agree on -으로 바꾸어 표현할 수 있다. 
+draw the line 은 직역하면 "선을 긋는다"라는 의미로 여기서는 한계를 정하다 의 뜻이다.
+
+
+
+
+
+
+
+상황 123 휴 가 
+
+Kim Dong-su wants Bob to postpone his vacation. 
+
+ 
+Kim: Bob your vacation is next week isn't it 
+Bob: Yeah it is. Why are you asking. 
+Kim: I'm wondering if you could hold off just for a week. I could really use your 
+help on this project 
+Bob: No, way man, I've been waiting all year for this. 
+
+ 
+상황 123 휴 가 
+
+김 동수가 밥에게 휴가를 연기할 것을 원한다. 
+
+ 
+김동수: 밥 자네 휴가 다음주 맞지 
+밥:　응 그래. 한데 왜 그러는데 
+김동수: 자네가 한 일주일 가량만 휴가를 연기해 주었으면 해서 말이야. 
+이번 프로젝트에 자네 도움이 정말 필요해. 
+밥: 말도 안돼 내가 일년 내내 이 휴가를 얼마나 기다려 왔는지 알아 
+
+ 
+<어구 해설> 
+부가의문문의 경우 확실한 상황에 대한 추가적인 확인이 필요할 때 사용한다. 
+
+ 
+wonder의 경우에는 상대방의 의견에 대한 확신이 서질 않는 경우에 자주 사용하는 단어이 
+다. 대체적으로 if나 whether와 함께 사용한다. 
+
+ 
+
+ 
+
+
+
+
+
+Situation 122 Advertising 
+
+ 
+Sohn Ji-won inquires about the advertising. 
+
+ 
+TD: Hello, this is Trade Daily. May I help you 
+Sohn: I like to talk to somebody about taking out advertising in your newspaper. I will 
+need a half-page ad to appear in the first section for three consecutive Sundays. 
+TD: You'll want to talk to our commercial ad department 
+Sohn: Thank you. this is a major event for us. 
+
+ 
+상황 122 광 고 
+
+ 
+손지원이 광고문의를 한다. 
+
+무역일보: 여보세요, 무역일보입니다. 무엇을 도와드릴까요 
+손지원: 예 광고를 내려고 하는데 누구와 의논하면 될까요 저희는 연속 3주에 걸쳐서 일요일날 신문 제 1면에 반쪽 광고를 내려고 하는데요 
+무역일보: 아 그러면 상업광고부와 의논하셔야 겠는데요. 
+손지원: 아 감사합니다. 이 일은 우리에게 아주 중요한 일이거든요. 
+
+ 
+<어구 해설> 
+take out 이라는 동사는 “꺼내다, 끄집어 내다” 라는 의미로서 새로운 사실을 신문이나 방 
+송에 발표하는 것이다. take-out을 한단어로 쓰면 식당에서 먹지 않고 가지고 가는 음식을 
+지칭하는 말이다. 
+
+ 
+
+
+
+Situation 121 Bid 
+
+ 
+An assistant managerof EK, Lee Jae-sung wonders if they cant get the bid today. 
+
+Ko: We should submit a bid on that project. I think we can get it. 
+Lee: We've never done that kind of work before. I can't imagine why they'd give it to 
+us 
+Lee: We'd get it because we've never failed in anything we've tried. All of our projects come out just the way we say. 
+Lee: I hope so 
+
+ 
+상황 121 입찰 
+
+EK의 이 재성 대리는 오늘 입찰을 따낼 수 있을 지에 대해서 궁금하게 생각한다. 
+
+ 
+고진우: 그 사업에 입찰해야 합니다. 아마도 그 일을 따낼 수 있을 겁니다.  
+이재성: 전에 한번도 그 일을 해본 적이 없잖아. 그들이 그 사업을 우리에게 줄지도 모르 
+는 상태 아닌가 
+고진우: 우리가 시도했던 일에 실패한 적이 없으니까 이번 일도 해낼 수 있을 겁니다. 우리일은 모두 잘되고 있으니까요 
+이재성: 나도 그러길 바래. 
+
+ 
+<어구해설> 
+여기에 사용되는 bid 는 경매나 공개 경쟁시의 “입찰” 을 나타낸다. 
+
+ 
+실현될 가능성이 불확실한 경우 자신의 의견을 전달하는 경우에는 think 나 believe 보다는 
+imagine 동사를 주로 사용하게 된다. I hope so 의 경우에는 그러기를 바란다는 희망의 
+의지가 담겨있는 말이다. 
+
+
+
+Situation 140 Market Situation 
+
+ 
+David is asking Park Min-su about the market situation in Korea 
+
+David: Do you think there is a market for this 
+Park: Yes, this would appeal to the fitness club market, although we feel that the home 
+market is possible to meet sometime later to discuss this further 
+David: Sure I'll be in my office tomorrow afternoon 
+Park: I think so. 
+
+ 
+상황 140 시장 상황 
+
+데이빗이 박민수에게 한국의 시장상황을 묻고 있다. 
+
+ 
+데이빗: 이 제품은 시장성이 있다고 보십니까  
+박민수: 예, 이 제품은 피트니스 클럽 시장에서 각광을 받을 것 같습니다. 하지만 그 신장속 
+도를 감안할 때 가정용 시장에서도 가능성이 있다고 봅니다. 
+데이빗: 이 제품에 대해 더 논의 할 수 있도록 추후에 다시 만날 수 있을까요 
+박민수: 물론이죠. 
+
+ 
+<어구해설> 
+
+ 
+사업상의 교제나 협상에는 동의를 하거나 의견을 달리해야 할 경우들이 있을 것이다. 동의 
+를 하거나 의견을 달리 해야 할 때 쓰이는 표현에는 여러 가지가 있다. “동의할 수 있을 것 
+같지 않습니다” 와 같은 표현은 공손하기는 하지만 화자가 동의하지 않는다는 점을 듣는 
+이에게 분명히 전달한다. 
+
+
+
+
+Situation 139 Proposal 
+
+ 
+Mike is negotiating with Mr. Kim Se-won. Mike wants to know his views. 
+
+ 
+Mike: Mr. Kim, can we have your views on these proposals 
+Kim: Yes, I find them to be quite satisfactory and agreeable. 
+Mike: Then, we may take it that you're all set to sign the contract. 
+Kim: I need a final okay from the head office before I sign. 
+Mike: How soon can you get that 
+Kim: It's just a phone call away. 
+
+ 
+상 황 139 제 안 
+
+ 
+마이크가 김세원과 협상을 벌이고 있다. 마이크는 협상에 대한 그의 견해를 알고 싶어한다. 
+
+ 
+마이크: 김 선생님, 이 제안에 대한 선생님들의 견해를 말씀해 주시겠습니까 
+김세원: 예, 아주 만족스럽고 마음에 듭니다. 
+마이크: 그러면 계약서에서 서명할 마음이 있으신 걸로 받아들여도 좋겠군요. 
+김세원: 서명하기 전에 우선 본사에서 최종허락을 받아야 합니다. 
+마이크: 그 허락이 언제쯤이면 날 것 같습니까 
+김세원: 전화 한통화이면 됩니다. 
+
+ 
+<어구 해설> 
+우리말로 “언제까지” 라는 말을 영어로 옮기자면 말의 뉘앙스가 약간씩 달라지는 것을 알 수 있다. 가령 “When”과 “How soon” 을 비교한다면 when 의 경우에는 “최대한 받아낸다면” 이란 뉘앙스가 담기지 않는 점이 how soon 과 다르다. 
+
+ 
+ 
+ 
+
+ 
+
+
+
+
+Situation 138 D/ A  
+
+ 
+Kim Sang-jin suggests settling for 90 days after B/L date. 
+
+Anderson: Can you export on D/A terms with us 
+Kim: For how long 
+Anderson: What about 180 days after B/L date 
+Kim: One hundred-eighty days is too long and presents a heavy interest burden. 
+I could settle for 90 days after B/L date 
+Anderson:　Okay, I'll go along with that, but let me pay the interest separately. 
+
+ 
+상 황 138 인수도 조건 
+
+ 
+앤더슨이 B/L 발행일로부터 90일 결제가 어떻겠냐고 제안한다. 
+
+ 
+앤더슨: 당사에게 인수도 조건으로 수출할 수 있습니까 
+김상준: 기간은 얼마로 해서요 
+앤더슨: 선하증권 발행일로부터 180일후 결제 조건이면 어떨까요 
+김상준: 180일은 너무 길고 이자에 대한 부담도 너무 큽니다. 선하증권 발행일로부터 90일 
+결제 조건이라면 수락할 용의가 있습니다. 
+앤더슨: 알겠습니다. 그 조건에 따르겠습니다. 하지만 이자는 별도로 지불하게 해주십시오. 
+
+ 
+<어구 해설> 
+선하증권(B/L) 은 원래 “Bill of land” 라는 말을 줄여서 간단히 표현한 것이다. 인수도 조 
+건은 (D/A)은 Document Against Acceptance 의 약자로서 환어음의 지급인인 수입상으로 
+하여금 기한부 어음의 인수를 맡아 만기에 대금결제를 약속받고 선적서류를 인도하는 조 
+건의 결제방식을 말한다. 
+
+ 
+
+ 
+
+ 
+
+
+Situation 137 Quantity 
+
+ 
+Mr. Brown is looking for new product of Daehan Co., Ltd. 
+
+ 
+Brown: I'm looking into cotton shirts . . . quata 228. How many do you have available 
+Han: Well, what quantity did you have in mind 
+Brown: Oh, something in the area 5000 dozen. 
+Han: We've only got 1000 dozen at the present time, but I'll see what I can do about the rest. 
+
+ 
+상 황 137 수 량 
+
+ 
+브라운 씨가 대한상사의 신제품을 찾고 있다. 
+
+ 
+브라운: 면 티셔츠 쿼터 228에 대해서 좀 알고 싶습니다. 어느 정도 공급이 가능한가요 
+한지현: 수량은 얼마나 생각하고 계십니까 
+브라운: 대략 5000 다스 정도요. 
+한지현: 현재로는 1000 다스 밖에 없지만 나머지에 대해서는 제가 어떻게 알아보겠습니다. 
+
+<어구 해설> 
+우리말로 "--을 생각하고 계세요”처럼 '현재’의 때를 가리켜도 영어로는 When did 처럼 과거시제를 사용한다는 것을 유의해야 한다. 이런 용법은 구어에 흔히 나타나며 질문, 요청, 제안등을 좀 더 부드럽게 만드는 효과를 낼 수 있다. 
+
+ 
+Situation 136 Exchange Rate  
+
+Yamada is asking Mr. Kim about won-dollar exchange rate.  
+
+Yamada: Mr. Kim, the Korean won is going up and up these days. What happened  
+Kim: Yeah. The US is putting a lot of pressure on us to boost their exports. 
+Yamada: I bet, they are. How are you going to get around it 
+Kim: I don't know, but I sure hop it doesn't go too far. 
+Yamada: Well. it's gotta stop someplace. 
+
+상 황 136  환 율 
+
+ 야마다가 원-달러 환율에 대해서 김선우에게 질문하고 있다. 
+
+야마다: 김 선생님 한국의 원화가치가 요즘 계속해서 오르고 있는데 웬일입니까 
+김선우: 미국이 수출을 늘리기 위해서 우리에게 많은 압력을 가하고 있거든요. 
+야마다: 분명히 그래요 어떻게 피해나가실 생각입니까 
+김선우: 글쎄요 너무 지나친 것이 아니기를 바랄 뿐입니다. 
+야마다: 어느 선에 끝나게 되겠지요. 
+
+ 
+<어구 해설> 
+달러화에 대한 원화의 가치가 높아진다는 것은 환율 면에서는 달러화에 대한 원화의 환율이떨어지는 것을 의미하므로 사용에 혼동이 없도록 유의하자. 환율과 관계된 표현으로 “원화가치가 오르다/하락하다/ 변동하다” 라는 말은 "keep appreciate/ depreciate / fluctuate" 라고 표현 할 수 있다. 
+
+ 
+ 
+
+ 
+
+Situation 135 Offer 
+
+ 
+Kim Se-hoon introduces Mr. Brown to ADD products. 
+
+Kim: Mr. Brown let me introduce you to a new special offer, we've got going $21.00 a unit on ADD model . 
+Brown: It sounds great. How long is this effective 
+Kim: All orders must be placed by the end of this week. 
+Brown: You think you can hold it over for another week or so 
+Kim: Well, I don't know. I'd have to check with the head office. 
+
+ 
+상황 135 오 퍼 
+
+ 
+김세훈이 브라운에게 자사 제품인 ADD를 소개하고 있다. 
+
+ 
+김세훈: 브라운 씨 저희 회사가 지금 내놓고 있는 새로운 특별 오퍼 하나를 소개해 드리지요. 모델 ADD가 개당 21달러입니다. 
+브라운: 괜찮을 것 같군요. 언제까지 유효합니까 
+김세훈: 이번 주말까지 주문이 모두 확정되어야 합니다. 
+브라운: 저런 일주일 정도만 더 연장해 줄 수 없을까요 
+김세훈: 글쎄 모르겠는데요. 본사에 알아보아야 할 것 같습니다. 
+
+ 
+<어구 해설> 
+여기서 사용된 hold over 는 “-을 연기하다”, “다음으로 넘기다” 란 뜻이다. 우리말에서는 “일주일 더 기다려줄 수 있습니까” 라고 묻는데 이를 Can you wait for one more week 라고 하는 것은 우리말 식 영어가 되고 마는 것이다. 이럴 때는 영어식 표현으로 Can't you give us another week or so 라고 해야만 한다. 
+ 
+
+
+Situation 134  Distribution 
+
+Hillary Jones is asking Lee Chang-suk about Korean distribution.  
+
+ 
+Jones: What are the prospects for the distribution industry in Korea 
+Lee: Korea is notorious for its complicated distribution channels. 
+Jones: How is the product distributed 
+Lee: Consumer products flow from manufacturer to primary wholesaler, secondary wholesaler, to small wholesaler and then to retailer 
+
+ 
+상황 134 유 통 산 업 
+
+ 
+힐러리 존스가 이창석에게 한국의 유통구조에 대해서 묻고 있다 
+
+ 
+존스: 한국에서의 유통산업의 전망은 어떻습니까 
+이창석: 한국은 유통기구의 복잡함으로 악명이 높습니다. 
+존스: 제품은 어떻게 해서 시장에 나오게 됩니까 
+이창석: 소비자 물품은 제조업자에서 일차 도매상으로 다시 2차 도매상으로 거기서 소규모 
+도매상으로 그리고 나서 소매상으로 넘어갑니다. 
+
+ 
+<어구 해설> 
+우리나라 유통산업은 1997년 기준으로 전체 GDP의 10.6%, 전산업 고용인구의. 6%를 차지하고 있으며, 제조업의 
+경쟁력제고와 소비자 후생증진에 기여하는 국민경제의 대동맥역할을 담당하고 있다 1996년 1월 국내 유통시장이 전면 개방되면서 거대한 다국적 유통기업들의 국내 진출이 본격화되고 있다. 또한, 우리나라의 대기업들도 국내 유통시장 선점을 위한 자구책으로 유통부문 진출이 매우 활발히 진행되고 있는데 반해, 자본력·기술적인 노하우 등 경쟁력이 취약한 중소유통기업의 구조개선을 위한 조직화·협업화 확대가 시급한 과제로 대두되었으며, 우리 유통산업의 취약한 분야인 유통전문인력의 부족, 유통정보화 및 산업물류 기반의 미흡 등 유통하부구조의 개선을 정책적으로 지원할 필요성이 제기되었다. 
+
+ 
+
+ 
+
+ 
+Situation 133 Trouble 
+
+ 
+Lee Jin-mo calls the customer center. He wants to know about the troubleshooting. 
+
+Customer Center: Hello What can I do for you, sir 
+Lee: Our company bought your products last Sunday. But if something goes wrong 
+with your product, how do you cope with it 
+Customer Center: We assure you our product will be free from any troubles for at 
+least three years after purchase. 
+Lee: O. K . I got it. If there are no problems with this during the three month trial 
+period we will make repeat. 
+
+ 
+상황 : 133 문제발생 
+
+ 
+이 진모가 고객센터에 전화를 건다. 그는 문제해결책을 알고 싶어 한다. 
+
+ 
+고객센터: 여보세요 무엇을 도와드릴까요 
+이진호: 우리회사에서 지난 일요일 날 귀사의 제품을 구입했는데요. 만일 제품에 문제가 생 
+기면 어떻게 합니까 
+고객센터: 저희 제품은 구입 후 3년간은 어떠한 고장도 일으키지 않을 것임을 보장해 드릴 
+수 있습니다. 
+이진호 : 알겠습니다. 3개월의 시험 사용기간 후 아무런 문제가 없다면 재주문을 하도록 하 
+겠습니다. 
+
+ 
+<어구해설> 
+“free from” 이란 원래 어떠한 상황에서 해방되거나 제거된다는 뜻이지만 여기서는 “빚이 
+나 문제상황” 으로부터 자유로워진다는 의미로 해석하면 된다. 
+“make repeat” 는 여기서는 reorder의 뜻으로 이해하도록 하자. 
+ 
+
+
+
+
+
+Situation 132 Insurance 
+
+ 
+Sohn Ji-na recommends Mike to effect an insurance. 
+
+Sohn: I will be glad if you will insure this cargo. 
+Mike: Which is better, for us to take our insurance or for you to do it 
+Sohn: As this is ordered FOB, you' have to insure the goods yourself. 
+Mike: We would like to coverage Against All Risks on this cargo. 
+
+ 
+상황 132 보 험 
+
+ 
+손 지나가 마이크에게 보험계약을 권유하고 있다. 
+
+손지나: 이 화물에 대해 보험을 들어주시면 좋겠습니다. 
+마이크: 저희가 보험을 드는 것과 귀사에서 들어주는 것과 어느 것이 우리에게 더 안전합니까 
+손지나: 이것은 FOB 가격으로 주문된 것이니 보험은 그쪽에서 드셔야 합니다. 
+마이크: 이 화물에 대해 AAR 약관으로 보험을 들고 싶습니다. 
+
+ 
+<어구해설> 
+FOB -- 무역거래에서 가장 많이 사용되는 지불조건으로 매도인은 선적항에서 물품이 본 
+선의 현측 난을 통과함으로써 매도인의 물품인도 의무가 완료되는 조건을 말합니다. 즉 매 
+도인이 배에 짐을 싣기까지의 비용부담만을 부담하는 것을 말한다 
+
+ 
+AAR -- 보험조건의 구약관으로 제품의 고유한 하자, 선박의 지연 원자력 피해, 전쟁, 동맹 
+파업등을 제외한 모든 우발적 사고가 담보가 되는 조건으로 그 손해에 대해서는 면책 비율 
+이 적용되지 않는다 .
+
+
+
+
+
+Situation 131 Business Practices 
+
+ 
+James Lee wants to know the business practice in Korea 
+
+Han: You will have to adjust to business practices and customs here if you want to 
+succeed in the business in Korea. 
+James: Please let me have the complete details of the business and labor practices 
+Han: Good communication among businessmen is one of the most important things 
+in Korea. 
+James:　If you get any good ideas to meet the workers requirements would you let 
+me know in 
+Han: We are trying to encourage a team spirit and a sense of belonging by 
+introducing participation. 
+
+ 
+상황 131 비즈니스 관행 
+
+ 
+제임스 리는 한국에서의 비즈니스 관행에 대해서 알고 싶어한다. 
+
+한기수 :한국에서 사업에 성공하려면 이곳의 관행과 관습에 적응해야만 합니다. 
+제임스: 업무 및 근로에 대한 여러 관습에 대해 아주 상세히 알려 주십시오. 
+한기수: 한국에서는 사원들 간의 원활한 교류가 무엇보다도 중요합니다. 
+제임스: 근로자들의 요구를 만족시킬 수 있는 좋은 방안이 있으면 알려주시겠습니까 
+한기수: 저의 회사는 종업원 주주제를 도입하여 애사심과 소속감을 심어주기 위해 노력하고 
+있습니다.  
+
+ 
+<어구해설> 
+Do in Rome as the Romans do "로마에 가면 로마법을 따르라" 고 하지만 대체적으로 외 
+국사람들이 바라보는 한국에서의 비즈니스 상황은 그다지 좋은 점수를 얻고 있지 못한 듯하 
+다. 고임금에 높은 지대를 감수해야함은 물론이고 노동조합결성으로 인한 업무적 손실을 감 
+수해야하는 상황에서 우리나라도 이러한 부분들은 시정해야 할 듯 싶다. 
+
+
+Situation 150 Sample  
+
+ 
+Oh Shin-ah shows Mr. Williams the sample room.  
+
+ 
+Williams: Miss Oh, I'd like to look at some corduroy patterns and color swatches if 
+it's okay. 
+Oh: Sure, please come this way. I'll show you various swatches displayed in our 
+sample room. 
+Williams: Beautiful. What's the yardage price on this sample 
+Oh: That depends on the quality. Generally between $2.50 and $ 3.00. 
+Williams: How soon can we get it after the order is placed 
+Oh: About two months. 
+
+ 
+상황 150 샘 플 
+
+ 
+오신아가 윌리엄스에게 견본실을 보여주고 있다. 
+
+ 
+윌리엄스: 가능하면 패턴 및 색깔 참조용 골덴 견본 좀 봤으면 하는데요. 
+오신아: 예 이쪽으로 오세요. 저희 견본실에 진열된 다양한 견본들을 보여드리겠습니다. 
+윌리엄스: 멋있군요. 이 견본이라면 야드당 가격이 얼마나 되지요 
+오신아: 그건 품질에 따라서 다릅니다. 보통 1달러에서 2달러사이입니다. 
+윌리엄스: 주문을 하면 언제쯤 받을 수 있을까요 
+오신아: 약 2개월 정도 걸립니다. 
+
+ 
+<어구해설> 
+수나 양, 값을 물을 때는 how much 나 how many가 먼저 생각나기 마련이지만 주어가 
+price나 chance population 등이 될 때 우리말로 얼마에 해당하는 말은 what 으로 표현된 
+다.  
+
+
+
+
+Situation 149 Old Customer  
+
+ 
+Andrea Brown is looking for Mr. Choi Sang-ho of HORTON 
+
+ 
+Andrea: Mr. Kim who's in charge of machinery export these days 
+Park: Mr. Choi. remember him He used to be in the textile division. 
+Andrea: Oh, yeah. I haven't seen him in a long time 
+Park: His office is just down the hall. 
+Andrea: Thank you. 
+
+ 
+상황 149 옛 고객 
+
+ 
+안드레아 브라운이 호튼 사의 최상호를 찾고 있다. 
+
+ 
+안드레아: 김 선생님 요즈음에는 누가 기계수출을 담당하고 있나요 
+박석호: 바로 최상호씨입니다. 그를 기억하시겠죠 전에 섬유부서에서 일했는데요. 
+안드레아: 아, 예 그 사람 만나본지도 꽤 오래됐군요. 
+박석호: 그의 사무실은 이 복도를 쭉 따라가면 있습니다. 
+안드레아: 감사합니다. 
+
+ 
+<어구해설> 
+이 대화에서 down the hall을 “복도아래로” 로 오역하기 쉽다. 이때의 down은 아래에 란 
+뜻과는 무관하고 “을 따라(along)” 란 뜻이다. 가령 "walk down the alley about 
+30meters" 라고 말한다면 “그 골목을 따라 30m 쭉 들어가세요” 라고 표현된다.  
+ 
+
+
+
+
+
+Situation 148 Warranty 
+
+ 
+American buyer, Miss Julie wants to know what the warranty of this machine is. 
+
+ 
+Kim: Miss. Julie, I know you can't go wrong with this machine. 
+Julie: Well, how long is the warranty 
+Kim: It's good for one year. 
+Julie: And after that 
+Kim: There's a slight service charge. 
+
+ 
+상황 148 보증기간 
+
+ 
+미국 바이어인 줄리는 기계의 보증내용이 어떤 것인지에 대해서 알고 싶어 한다. 
+
+ 
+김 선호: 줄리 양 이 기계를 선택하면 전혀 문제가 되지 않을 것입니다. 
+줄 리: 저 보증기간은 얼마나 되지요 
+김 선호: 1년 동안입니다. 
+줄 리: 그 후에는 어떻게 되나요 
+김 선호: 약간의 서비스비용을 지불하셔야 합니다.  
+
+ 
+<어구 해설> 
+Warranty는 “(품질 등의) 보증, 보증서” 란 뜻이다. 이외에도 “인가, (수색)등의 영장”도 
+warranty 라고 한다. 기간을 물어보고 싶을 때 사용하는 표현으로는 다음의 것이 자주 사 
+용된다. 
+ex) How long is the warranty good for (품질보증은 얼마동안 유효합니까) 
+What's the warranty (품질보증의 내용은 어떤 것입니까) 
+
+ 
+
+
+
+Situation 147 Sales 
+
+ 
+Mr. Henderson meets Lee Han-soo at the export center 
+
+ 
+Lee: Mr. Henderson, nice to see you again. How are things going 
+Henderson: Couldn't be better. Things are really looking up these days. 
+Lee: Yeah. I hear you hit a high in sales last month. 
+Henderson: Boy, you know it. we've never quite had a month like that before 
+
+ 
+상황 147 매 상 
+
+ 
+이한수가 수출센터에서 헨더슨을 만나고 있다. 
+
+이 한수: 헨더슨 씨 다시 만나 뵙게 되서 기쁩니다. 경기는 어떠세요 
+헨더슨 : 더할 나위 없이 좋습니다. 요즘 경기가 정말 좋아지고 있으니까요. 
+이한수: 그렇군요. 소문에 지난달 매상이 기록적이었다면서요. 
+헨더슨: 이 선생님도 아시는 군요. 지금까지 그런달은 없었지요. 
+
+ 
+<어구 해설> 
+hit 에는 여러 가지 뜻이 있지만 여기서의 “hit” 는 “수량 수준 정도에 이르다” 란 의미 
+따라서 “hit a new low” 라고 하면 최저기록을 갱신하다란 뜻이다.  
+
+
+
+
+Situation 146 Latest Model 
+
+ 
+Charles, manager of UNB, asks Cho Min-hye to discount the price. 
+
+ 
+Cho: Mr. Charles, what do you think of our latest model 
+Charles: Look good, but it's a little on the high side. 
+Cho: well, that may be true in some respect, but look at it from a qualitative point of view. 
+Charles: I am, but I'm also thinking of the market, too. 
+
+ 
+상 황 146 최신 모델 
+
+UNB의 매니저인 찰스가 조민희에게 가격인하를 요구하고 있다. 
+
+ 
+조민희: 찰스 씨 당사의 새 모델을 어떻게 생각하십니까 
+찰스: 좋아 보이기는 하는데 가격이 다소 비싼 감이 듭니다. 
+조민희: 자 어떤 면에서는 그럴지도 모르지만 품질을 놓고 보셔야죠 
+찰스: 저도 그런 관점에서 보고는 있지만 시장도 역시 생각을 해야 하니까요. 
+
+ 
+<어구해설> 
+여기서 on the - side 는 “다소 - 한 기미가 보이는” 이란 뜻의 관용표현. 따라서 His hair was on the light side of brown 이라고 표현하면 “그의 머리빛깔은 옅은 브라운 색이었다” 라는 의미가 된다. it's a little on the high side는 It's not low enough라고 바꾸어 사용가능하다. 
+ 
+
+
+
+
+
+Situation 145 Deal 
+
+ 
+Kevin Jackson is asking Han Se-jin about the deal he took. 
+
+Kevin: When do you think we can sew up the deal 
+Han: As soon as we get the green light from upstairs. 
+Kevin: Well, when do you figure that will be 
+Han: The way things look now, it may be a little while yet. 
+
+ 
+상 황 145 거 래 
+
+케빈 잭슨이 자신이 떠맡은 거래에 대해서 한세진에게 문의하고 있다. 
+
+ 
+케　빈:　이 거래를 언제쯤 확정 지을 수 있을 것 같습니까 
+한세진: 상부로부터 정식허가가 나오는대로요 
+케　빈:　저 그게 언제쯤 될 것 같으세요 
+한 세진: 지금 현 상황으로는 아마 조금 시간이 걸릴지도 모르겠는데요 
+
+ 
+<어구해설> 
+green light는 원래 교통신호의 “푸른신호” 란 뜻인데 구어에서는 “공식허가, 또는 공인” 
+이란 의미로 자주 쓰인다. “푸른신호”를 blue light 라고 하지 않는 점에 유의하자. 
+
+
+
+
+
+Situation 144 Textile Export 
+
+ 
+Mr. Mike Baily is looking for a textile company. 
+
+Mike: Mr. Kim, would you recommend a company that deals chiefly in textile 
+exports 
+Kim: I know just the company you are looking for. They have very good 
+connections in textile export trade. 
+Mike: Really That's great. If you could just jot down their name and number, I'd be 
+very grateful. 
+Kim: I'll do even better than that. I'll personally introduce you to the President. 
+
+ 
+상황 144 섬유수출 
+
+ 
+마이크 베일리가 섬유회사를 찾고 있다. 
+
+ 
+마이크: 김 선생님 주로 섬유류를 수출하는 회사를 하나 소개해 주시겠습니까 
+김선호: 마이크씨가 찾는 자로 그런 회사를 제가 알고 있습니다. 그 회사는 섬유류 수 
+출에 있어서 좋은 거래선을 갖고 있습니다. 
+마이크: 그래요 그거 잘됐군요. 그 회사의 상호와 전화번호를 적어주시면 정말 고맙겠습니 
+다. 
+김선호: 그것만 적어드리는 게 아니라 직접 사장님도 소개해 드리겠습니다. 
+
+ 
+<어구해설> 
+여기서 회사와의 거래선은 “단골 거래처”로서 “connection” 으로 표현하며 “관계, 유대, 협 
+력” 이란 뜻의 복합어 tie-up과 비슷한 말이라고 볼 수 있다.  
+
+
+
+
+Situation 143 Good Seller 
+
+ 
+So Ji-sup of ASR recommends Brown new model. 
+
+So: Mr. Brown, I want you to have a look at the new special brand we're planning 
+to put out this autumn. 
+Brown: Okay, but before you do, I want to place an order for another 1000 boxes 
+of your regular brand to be delivered no later than Nov. 1st. 
+So: Take my word for it. Forget old brand and place an order for the new one. 
+Brown: That may be true, but we're playing it safe and sticking to the old one for 
+now. It's always a good seller. 
+
+ 
+상 황 143 잘 팔리는 상품 
+
+ 
+ASR 의 소 지섭이 브라운에게 새로운 모델을 추천하고 있다. 
+
+소지섭: 브라운씨 저희 회사에 오신 김에 가을에 생산할 계획으로 있는 새로운 특수 품목을 
+구경하시면 어떻겠습니까 
+브라운: 좋습니다. 그 전에 귀사의 정규품목 1000상자를 추가로 주문하고자 하는데 늦어도 
+11월 1일 까지는 인도되어야 합니다. 
+소지섭: 제 말을 믿으세요. 종전 것은 두시고 신규상품으로 주문하십시오. 
+브라운: 그럴지도 모르겠습니다만 저희는 안전한 것이 좋으니까 당분간 종전 것을 계속 
+쓰겠습니다. 항상 잘 팔리니까요 
+
+ 
+<어구 해설> 
+어구해설 이때의 "seller" 는 파는 사람이란 뜻이 아니고 "잘 팔리는 상품" 이란 의미이다. 따라 
+서 It's always a good seller 란 말은 It always sells well 또는 The demand is always 
+high 나 It always moves well 이라는 표현으로 대체할 수 있다. 
+
+
+
+
+
+Situation 142 Quality 
+
+ 
+Mr. Cho Jung-hyun of CCP Industry explains the quality of goods. 
+
+Cho: We pride ourselves on quality. That's our best selling point. 
+Yamada: We realize that. The only problem is price. We have to ask you for a ten 
+percent reduction. 
+Cho: But can you effectively handle the increase in quantity 
+Yamada: You don't have to worry. 
+
+ 
+상황 142 품 질 
+
+ 
+CCP 상사의 조 정현이 제품의 품질을 설명하고 있다.  
+
+ 
+조정현: 저희는 품질을 자랑합니다. 그것이 저희가 판매할 때 강조하는 점이지요. 
+야마다: 알고 있습니다. 단지 문제가 되는 것은 가격입니다. 10퍼센트는 깎아주셔야 겠습니다. 
+조정현: 주문수량을 어떻게 증가시킬 수는 없을까요 
+야마다: 걱정마세요. 
+
+ 
+<어구해설> 
+수량은 “quantity”이며 “수량을 배로 증가시키다” 라는 “double the order” 라는 표현이외에 
+“increase the quantity twice (two times)” 라고 표현해도 상관이 없다. 
+가격에 대한 할인이나 인하는 discount 라는 말을 많이 쓰며 가격에 대해서는 일반적으로 
+reduction을 사용하기도 한다.  
+
+
+
+
+Situation 141 Discount  
+
+ 
+Mr Brown wants Ko Jin-woo to discount the unit price. 
+
+Brown: How much are you asking on this item 
+Ko: Our factory price $10.00 per unit. 
+Brown: Gosh, that's high. Can't you quote anything cheaper 
+Ko: $9:00 is our rock bottom price. 
+Brown: Let's make it $8.50. 
+Ko: Then we'd practically be selling at cost. No. I am afraid it's $ 9.00 or nothing. 
+Take it or leave it. 
+
+ 
+상황 141 디스카운트 
+
+ 
+브라운이 고진우에게 개당 가격의 할인을 원하고 있다. 
+
+ 
+브라운: 이 품목의 가격은 얼마입니까 
+고진우: 공장도 가격은 개당 10불입니다. 
+브라운: 저런 좀 비싸군요. 좀 더 싸게 해줄 수는 없을까요 
+고진우: 9불이 최저 가격입니다. 
+브라운: 8불 50센트로 합시다. 
+고진우: 그렇게 되면 실제적으로는 원가에 판매하게 되는거니까 안됩니다. 9불로 하시던가 
+아니면 그만두셔야 합니다. 
+
+ 
+<어구해설> 
+마지막 문장에 나타난 표현들은 모두 강력한 의사표현들이며 최후통첩과도 같은 것으로 가 
+격협상의 마지막 단계에나 쓸 수 있는 표현이라 하겠다. 가금 이런 뜻으로 Under $9.00 is 
+impossible 이라고 표현하는 사람들이 있는데 이는 한국식 표현이라고 밖에 볼 수 없다.
+
+
+Situation 160 Chances 
+
+ 
+Kevin Jones, a director of Factos Co., Ltd asks Lee Han-kuk about the market 
+chances. 
+
+Kevin: What do you think our chances of cornering the market on those valves are 
+Lee: I think we stand a fairly good chance. 
+Kevin: In that case, let's go full speed ahead on production 
+Lee: We'll go all out in getting as many off the production line just as soon as 
+possible. 
+Kevin: The sooner the better. 
+
+ 
+상 황 160 가능성 
+
+팩토 주식회사의 케빈 존스가 시장가능성에 대해서 이 한국에게 묻고 있다. 
+
+케빈: 이 밸브에 대한 시장 석권 가능성에 대해 어떻게 생각하십니까 
+이한국: 가능성이 충분하다고 봅니다. 
+케빈: 그렇다면 생산에 최대한 박차를 가하도록 합시다. 
+이한국: 저희는 가능한 빨리 그만한 수량의 제품을 생산할 수 있도록 전력을 다하겠습니다. 
+케빈: 빠르면 빠를수록 좋습니다. 
+
+<어구 해설> 
+Stand a chance 는 “(성공 등의) 가망이 있다” 란 뜻의 관용표현이며 이때의 chance는 
+“가망, 공산, 승산” 이라는 뜻이다. 같은 의미로 다음과 같이 표현하기도 한다. 
+Chances are pretty good for us. / The odds are in our favor. 
+
+ 
+ 
+
+
+
+
+Situation 159 Report 
+
+ 
+Jang Hyun is talking to Lee Nam-ho about his report.  
+
+ 
+Jang: I really took it on the chin today. 
+Lee: Because of your report  
+Jang: I can't believe I was so wrong in my analysis. 
+Lee: The Board of Directors really chewed you out today. 
+
+ 
+상 황 159 보고서 
+
+ 
+장 현이 이 남호에게 자신의 보고서에 대해서 이야기한다. 
+
+장 현: 오늘 정말 한방 먹은 기분입니다 
+이 남호: 보고서 때문에 그런가요 
+장 현: 내 분석자료가 그 정도로 잘못되었다는 것을 믿을 수 없어요. 
+이 남호: 오늘 이사회에서 당신을 아주 호되게 질책하더니만 그렇게 되었군요. 
+
+ 
+<어구 해설> 
+take it on the chin은 복싱에서 턱으로 날아 들어오는 펀치는 일격으로 다운되거나 상대방에게 득점을 주게되는 상황을 말한다. 바로 이 같은 사실에서 유래된 표현으로 특히 그러한 급박한 상황을 참고 견디어내는 것을 의미한다. 
+ 
+
+
+
+
+
+Situation 158 Telephone 9
+Ha Ki-won wants to talk to Mustapha.
+
+Ha: Hello This is Ha Ki-won of Hankook Trading. Can I talk to Mustapha 
+Jane: I'm afraid he's with a client. Would you mind holding
+Ha: When will be he free
+Jane: He will be available in a few minutes
+Ha: I got it. I'll call back later. 
+
+상황 158 전 화 9 
+하기원이 무스타파와 통화를 원한다. 
+하기원: 여보세요 저는 한국무역의 하 기원입니다 무스타파씨 계십니까
+제인: 죄송하지만 손님과 면담 중이신데요. 기다리시겠어요
+하기원: 언제쯤 시간이 나시나요
+제인: 몇 분 뒤면 끝날 것 같습니다.
+하기원: 알겠습니다. 다시 걸도록 하지요. 
+<어구해설>
+통화를 원하는 상대에게 다른 용무로 전화를 받을 수 없는 경우에도 " 그래도 기다리시겠습
+니까" 라는 말에 해당하는 Would you mind holding 이라는 표현은 수준급의 전화응답이
+될 수 있다. Do you want to hold 라고 써도 된다. 
+
+
+
+
+
+
+
+Situation 157 New Model 
+ 
+Ihara, Japanese buyer, wants Kang Jin-ho to deliver new models by Oct. 1st. 
+ 
+Ihara: Mr. Kang, We' ll be needing these new models by October 1st. at the latest. 
+Kang: We' ll have them ready by that time Are you leaving the patterns to us 
+Ihara: Yes, but please forward a copy of them for our approval before you start 
+production. 
+Kang: Fine. Do you want them sent via DHL 
+Ihara: I think that it would be advisable. 
+ 
+상황 157 신형 모델  
+ 
+일본 바이어인 이하라가 강진수에게 신형 모델을 10월 1일까지 납기해 주기를 원한다. 
+ 
+이하라: 강 진수씨 저희는 늦어도 10월 1일까지는 이 새 모델들이 필요할 것 같습니다. 
+강진수: 그때까지는 완료하도록 하겠습니다. 도안은 저희에게 일임해 주시는 겁니까 
+이하라: 예 그러나 생산에 착수하기 전에 사본 한부를 보내서 저희 측의 승인을 받아 주십 
+시오 
+강진수: 좋습니다. DNL로 보내드릴까요 
+이하라: 그게 좋을 것 같군요.  
+ 
+<어구해설> 
+일임해 줄 것을 촉구하는 경우에 "leave" 는 "책임, 결정, 임무“ 등을 맡기다”  
+라는 의미이다. 이런 용법의 leave는 반드시 전치사 to를 수반한다. 여기서 with를 쓰면  
+“사람이나 물건을 맡기다” 라는 의미가 된다.  
+ 
+
+
+
+
+Situation 156  Product List
+ 
+Korean buyer, Donald Kim is looking for the Chinese toy company.  
+Kim: Mr. Lao what does your company produce in the line of toys 
+Lao: We've got a whole list of things to choose from. 
+Kim: Well, what for example 
+Lao: We produced stuffed toys, wind-up toys, talking dolls -- you name it. 
+Kim: Well have you got a list handy 
+Lao: Not right at the moment. Let me get the department manager on the phone. 
+ 
+상황 156 제품목록 
+
+한국 바이어인 도날드 김이 중국 장난감 회사를 찾고 있다. 
+
+도날드 김 : 김 선생님 귀사는 어떤 장난감을 생산하십니까  
+라오: 저희는 선택 할 수 있는 품목의 종류가 많습니다. 
+도날드 김: 저 예를 들어 어떤 것인가요 
+라오: 속을 채워 만든 모형인형과 태엽을 이용한 인형 그리고 말하는 인형등  
+없는 게 없습니다. 
+도날드 김 : 지금 목록을 볼 수 있을까요 
+라오: 지금 당장은 없구요. 제가 부장님께 전화로 연락을 해보죠. 
+ 
+<어구 해설> 
+"you name it" 은 우리말로 다르게 표현한다면 “뭐든지 말씀만 하십시오” 라는 뜻이라고 할 수  
+있다. 즉 “없는 게 없이 모두 갖추고 있다” 는 자신에 가득찬 대답이다. 
+
+"handy" 는 "가까이 있는, 바로 입수 되는, 편리하게 이용할 수 있는 " 이란 뜻으로  
+on hand 나 available 로 바꾸어 쓸 수 있는 말이다. 따라서 위의 표현은 Have you got  
+a list available now"로 바꾸어 표현이 가능하다. 
+ 
+ 
+
+
+
+
+Situation 155 Mistake 
+Greg is talking to Laymond Han about the Mike's mistake .
+
+Greg: Mike is really slipped up last week.
+Han: Mike He's the sharpest stock broker in Seoul. 
+Greg: He jump the gun on that new stock issue. 
+Han: I can't believe the news.
+상황 155 실 수 
+
+그렉이 레이몬드 한에게 마이크의 실수에 대해서 말하고 있다.
+그렉: 마이크가 지난주에 중대한 실수를 했어요.
+레이몬드: 마이크요 마이크는 서울에서 가장 빈틈없는 주식 중개인 아닙니까
+그렉: 새로 발행되는 주식 건에 대해서 너무 성급하게 처리했거든요.
+레이몬드: 정말 그 소식을 믿을 수 없군요.
+<어구해설>
+"jump the gun" 은 육상경기에서 출발을 알리는 총소리보다 먼저 출발하는 
+것에서 유래한 표현이다. 먼저 출발하면 자격이 박탈되었던 것처럼 너무 조급하게 일을 
+서둘러서 좋지 않은 결과로 끝나는 경우에 표현 가능하다 
+
+
+
+
+
+
+Situation 154 Price Change 
+Anderson asks Kim Won-hee about the price change.
+
+Anderson: Mr. Kim I noticed that you hiked your prices. How come 
+Kim: Materials have gone up in price and so it's no longer possible to supply you at the same prices.
+Anderson: From what day of the month will the change go into effect
+Kim: From the 15th.
+상황 154 가격 변동
+앤더슨이 김원희에게 가격변동에 대해서 묻고 있다.
+
+앤더슨: 김 선생님, 귀사 가격을 인상하셨더군요. 어째서지요
+김원희: 원료 값이 올라서 같은 가격으로는 더 이상 공급할 수가 없습니다. 
+앤더슨: :이 달 며칠부터 변동가격이 적용됩니까
+김원희: 15일부터입니다. 
+<어구해설>
+"go into effect" 는 새 법률등이 "발효되다, 실시되다" 는 뜻이다. 이 표현은 come into effect, be brought into effect, be put into effect등의 형태로 자주 쓰인다. 
+
+
+
+
+
+
+
+Situation 153 Urgent Order 
+
+ 
+Anderson is pressing Jo Min-su for urgent order. 
+
+ 
+Jo: How soon would you like to have them done 
+Anderson:　Well, this one is pressing, but the other can wait. 
+Jo: When is this one due 
+Anderson: At the latest, by June 16. 
+Jo: Oh that's impossible  
+
+ 
+상황 153 긴급한 주문 
+
+ 
+앤더슨이 조민수에게 긴급한 주문을 재촉하고 있다. 
+
+ 
+조민수: 그 주문들을 언제까지 완성시키면 되겠습니까 
+앤더슨: 이 주문은 아주 급한 거지만 다른 것은 기다릴 수 있습니다. 
+조민수: 이건 언제까지 되야 합니까 
+앤더슨: 늦어도 8월 12일 까지는 되야 합니다. 
+조민수: 그렇게는 불가능한데요. 
+
+ 
+<어구해설> 
+여기서의 pressing은 press 의 진행형이 아니라 “용무나 문제”등이 “긴급한 화급한” 의미의 
+형용사이다. 가령 pressing bill 하면 마감일이 임박한 청구서가 되고 pressing business는 
+급한 볼일 용무라는 뜻이 된다. 
+
+ 
+
+
+
+Situation 152 Production Cost 
+
+ 
+Joe Frederick asks Mr. Kim Jae-hyun about the production cost. 
+
+ 
+Joe: Mr. Kim, what's your asking price on this 
+Kim: Ten dollars and fifty cents is our best price. 
+Joe: Come on. I can get it for half that in Taiwan. 
+Kim: That's what it used to be here too., but the production cost alone has doubled 
+during the past year. 
+
+ 
+상황 152 생산비 
+
+조 프레데릭이 김재현에게 생산비에 대해서 이야기하고 있다. 
+
+ 
+프레데릭:　김 선생님 이것의 가격은 얼마입니까 
+김 재현: 10불 5센트가 저희의 최저 가격입니다. 
+프레데릭: 농담하지 마세요. 대만에서는 절반 값으로 살 수 있습니다. 
+김재현 : 여기서도 마찬가지 였습니다. 하지만 생산비만 하더라도 지난 1년 사이에 두배나 
+뛰었어요. 
+
+ 
+<어구해설> 
+배수를 사용할 때에는 double, triple과 fold라는 단어를 사용하여 three-fold, four-fold 
+등으로 표현해도 된다. 그러나 time을 쓸 때에는 주의를 할 필요가 있다. The price has 
+gone up 3 times. 라고 하면 가격이 3차례 인상되었다는 뜻이지 3배가 올랐다는 뜻은 
+아니다. 그러나 The price has gone up two times the original.처럼 표현하면 원래가격의 
+2배가 올랐다는 뜻이다.  
+
+
+
+
+Situation 151 Estimate 
+Manager Han Dong-su praises Miss. Kim sun-hee for her exact estimate.
+
+Han: Miss Kim is really amazing. I don't know how she does it.
+Boss: I take it you're referring to the construction estimate
+Han:Yes. Miss. Kim was right on the target. She figure it out to the last penny
+Boss: She really has knack for this. Maybe we should give her a promotion. 
+상황 151 견 적
+한동수 과장이 김선희의 정확한 견적에 대해서 칭찬한다.
+
+한동수:김선희씨는 정말 대단해요. 어떻게 그런일을 해내는지를 모르겠어요
+사장: 그녀가 뽑아낸 건축견적을 말하는 거지요 
+한동수: 글쎄 말이예요. 견적이 아주 정확했어요. 마지막 한자리수 까지 정확하게 계산했거든요
+사장: 그녀는 분명히 일처리하는 요령을 터득하고 있어요. 어쩌면 그녀를 진급시켜야 할 것 같군요.
+<어구해설>
+아주 오래 전에 사냥꾼이나 군인들은 자신이 겨냥한 목표물을 명중 시켰을 때 바로 right on the target 이라는 표현을 사용했다. 그러던 것이 지금에 와서는 어떤 것에 대한 평가나 견적 그리고 상황, 사건 등에 대한 예상이 "정확하고 틀림없는" 것일 때 포괄적으로 쓰고 있다.
+
+
+Situation 170 Paperwork 
+
+Manager Kim Jin asks Lee Jae-sung to finish the paperwork. 
+
+Manager: I need you to finish the paperwork on this account. 
+Lee: I can't take on any more work right now. 
+Manager: You have to. Nobody else is familiar with this account. 
+Lee: Why do I always get stuck with the extra work It's not fair 
+
+ 
+상황 170 서류작업 
+
+ 
+김 부장이 이대리에게 서류작업을 끝내줄 것을 부탁한다. 
+
+ 
+부장:　이 대리, 이 거래에 대한 서류작성을 마쳐줘야 겠어요. 
+이대리: 하지만 지금은 더 이상 일을 떠맡을 수 없어요. 
+부장: 이 대리가 해야만 합니다. 이 거래에 대해서는 잘아는 사람이 아무도 없으니까 
+이대리: 왜 저만 항상 초과 업무로 부대껴야 합니까 이건 공평치 않아요 
+
+ 
+<어구 해설> 
+take 동사는 사전상으로 36가지의 의미가 있으며 그 중에서 전치사와 결합하여 파생된 동사 
+는 그 수를 헤아릴 수 없을 정도로 많다. 여기서는 on 과 결합하여 “ 누구를 고용하다 또는 
+“어떠한 일을 떠맡다” 라는 의미가 있다.  
+
+
+
+
+
+Situation 169 Expensive Price 
+
+ 
+Park Hyun-il wants to buy a low price product 
+
+ 
+Park:　Mr. Hirota how much are you asking for on that item 
+Hirota: Unit price, FOB is $120. 
+Park: Really That's too steep. 
+Hirota: Why Dock Co. gets $ 150 for the same thing. 
+Park: Yes, but there comes with an extra set of component. 
+
+ 
+상황 169 비싼 가격 
+
+ 
+박현일이 보다 저렴한 가격의 제품구입을 원하고 있다. 
+
+ 
+박현일: 히로타씨 저 품목의 가격은 얼마입니까 
+히로타: 본선 인도가격으로 개당 120불입니다. 
+박현일: 정말입니까 그건 너무 비싼데요. 
+히로타: 어째서요. Dock사는 같은 것을 150달러를 받고 있습니다. 
+박현일: 하지만 그들은 컴포넌트 세트를 더 얹어 팔지요. 
+
+ 
+<어구 해설> 
+steep란 원래 가파른 이란 뜻으로 널리 쓰이는 단어이지만 구어에서는 값이나 이야기 따위 
+터무니 없는 엄청난 이란 뜻이 되기도 한다. 말하자면 that's too expensive 란 의미가 되 
+는 것이다 
+
+
+
+
+
+Situation 168 Delay of Delivery 
+
+ 
+Kang Shin-woo asks Henderson to delay the delivery. 
+
+ 
+Kang: We can't ship your goods in time due to a delay in shipment of raw 
+materials. Can you extend your validity date by one month 
+Henderson: No, we can't alter the agreement. So please airfreight the whole lot. 
+Kang: Well, then please extend it 15 days 
+Henderson: I can't I need the shipment on time. 
+
+ 
+상황 168 납기지연 
+
+ 
+강신우가 헨더슨에게 납기 지연에 대해서 요청하고 있다. 
+
+ 
+강신우: 원자재의 인도 지연으로 납기내에 귀사 상품을 선적 할 수가 없습니다. 유효기간을 
+연장해 주실 수 없습니까 
+헨더슨: 안됩니다. 이미 합의한 사항은 변경이 불가능합니다. 전량을 항공화물편으로 보내 
+주십시오. 
+강신우: 저 그러면 유효기간을 15일만 연장해 주십시오. 
+헨더슨: 그럴 수 없습니다. 상품은 정시에 도착해야만 합니다. 
+
+ 
+<어구해설> 
+extend는 기한을 연장한다는 의미로 사용되었으며 일반적으로 무역서신에서는 validity 
+date(유효기일) / expiration date (만기일)와 같은 기일과 함께 사용된다. 
+extend 동사는 “move up” 이나 “put ahead” 와 바꾸어 사용할 수 있다.  
+
+ 
+
+
+
+
+
+Situation 167 Original Order 
+
+ 
+George Adams complains about the original order. 
+
+ 
+George: Mr. Han the cables you sent us were not the right size. 
+Han: Why We sent them according to your specifications. 
+George: No. I'm afraid not. We ordered C-120, not C 121. 
+Han: The original order form has C 121 written on it. 
+George: Then someone must have made an error. 
+Han: Well then, please take it up with your president, and let me know the results. 
+
+ 
+상황 167 원래의 주문 
+
+ 
+조지 아담스가 원래의 주문에 대해서 불평하고 있다. 
+
+ 
+조오지: 한 과장님 귀사가 보낸 케이블은 저희가 원하던 규격이 아니었습니다. 
+한기호: 왜요 명세서에 있는대로 보낸건데요 
+조오지: 아닌 것 같은데요 저희가 주문한 것은 C 120이지 C 121이 아닙니다. 
+한기호: 주문서 원본에도 C 121이라고 쓰여 있는데요. 
+조오지: 그렇다면 누군가 실수를 한 겁니다. 
+한기호:　글쎄요. 그러면 귀사의 사장님과 그 문제를 논의해 보고 결과를 좀 알려 주십시오. 
+　 
+<어구해설> 
+Take it up with. . . 는 --와 (그것을) 상의하다 (문제삼다) 란 의미이다. 따라서 한기호의 마지막 대화는 다음과 같이 다르게 표현할 수 있다. 
+Please discuss it with your president 
+consult your president about it 
+talk it over with your president 
+ 
+
+
+
+
+
+Situation 166 Best Quality 
+
+ 
+Antonio Valdez is looking for the company suitable for the best quality.  
+
+ 
+Valdez: You say the quality of your product is good, Mr. Kim. 
+Kim: Yes, the quality is the finest available at this price. 
+Valdez: Well, that may be but the price is not competitive. 
+Kim: I don't know about that You couldn't buy a Mercedes Benz for the price of an Tico, could you 
+
+ 
+상황 166  좋은 품질 
+
+ 
+안토니오 발데즈가 가장 좋은 품질에 적합한 회사를 찾고 있다. 
+
+ 
+발데즈: 귀사 제품의 품질이 좋다고 하셨나요 
+김동호: 예 품질은 이 가격대에서 살 수 있는 것중 최고입니다. 
+발데즈: 그럴지도 모르지만 그 가격으로는 경쟁력이 없습니다. 
+김동호: 글쎄요. 그건 잘 모르겠군요. 티코 가격으로 벤츠를 살 수 는 없지 않습니까 
+
+<어구해설> 
+이때의 available은 “손에 넣을 수 있는 이용(입수)가능한” 이란 의미이며 다음과 같이 대체하여 표현할 수도 있다. 
+This is the best quality you can get at this price. 
+You can't find a better quality at this price. 
+There's no better quality at this price. 
+
+
+
+
+
+Situation 165 Proposal 2
+
+David Smith asks Min Han-su about the proposal. 
+
+ 
+David : How soon can we expect your answer to our proposal 
+Min: Well that depends on the head office. 
+David: Can you give me an approximate date 
+Min: Unless my guess is wrong. I'd say something next week. 
+
+ 
+상황 165 제안 2 
+
+데이빗이 민한수에게 제안에 대해서 묻고 있다. 
+
+ 
+데이빗: 저희가 한 제안에 대해 언제까지 답변해 주시겠습니까 
+민한수: 글쎄요. 그것은 본사에 달려 있습니다. 
+데이빗: 대략 언제쯤 될지 알수 없을까요 
+민한수: 제 짐작이 틀리지 않는다면 내주중이 될 것입니다. 
+
+<어구해설> 
+“언제까지” 란 우리말에 해당하는 영어 표현에는 How soon, How late, 
+How long, Until when 등 여러 가지가 있으므로 그때의 상황에 맞게 잘 선택해서 쓰도록 해야한다. 
+How long do you need to make/ How late do you expect it to be 
+
+
+
+
+
+
+Situation 164 Current Condition 
+
+ 
+Donald Fisher meets Jin Dong-man in the conference center. 
+
+ 
+Donald :I haven't seen you in years. How are things going for you 
+Jin: Well they haven't been easy, but I manage to get by. 
+Donald: What kind of work are you doing these days 
+Jin: Anything I can find to get by. Times are tough. Randy. 
+
+상황 164 현 상 황 
+
+ 
+도날드 피셔가 컨퍼런스 센터에서 진동만을 만난다. 
+
+ 
+도날드: 이게 몇 년만입니까 요즘 형편이 어때요 
+진동만 : 글쎄 좋지 않습니다. 하지만 그럭저럭 버티고 있어요 
+도날드: 요즈음은 어떤 일을 하시는데요 
+진동만:　살기 위해 할 수 있는 일은 모든 것이든지요. 힘든 세상이잖아요. 
+
+ 
+<어구해설> 
+get by는 어떤 특수한 상황에 잘 대처해 나가고 있을 때 특히 경제적인 측면에서 자주 사 
+용되는 표현이자 일반적으로 get by 라는 대답이 나오면 대개 호조의 상황을 나타낸다. 
+
+
+
+
+Situation 163 Model 
+
+ 
+Hose Martinez wants to buy the product of KFB. 
+
+ 
+Hong: Our model can't be compared with others. 
+Hose: Well, in what ways, for example 
+Hong: It's lighter in weight, for one which makes it easier to carry around. 
+Hose: I got it. That's a point in your favor. 
+
+ 
+상황 163 모 델 
+
+ 
+호세 마르티네즈가 KFB 의 제품구입을 원한다. 
+
+ 
+홍 민: 저희 모델은 타사모델과 비교가 안됩니다. 
+호 세: 예를 들어 어느 측면에서요 
+홍 민: 무게가 우선 가볍고요, 그래서 휴대가 용이하지요. 
+호 세: 아 알겠습니다. 그 점이 귀사의 강점이군요. 
+
+ 
+<어구해설> 
+In one's favor 는 “- 에게 유리하도록” 이란 뜻이다. 따라서 다음과 바꾸어 쓸 수 있다, 
+That's one of your strong points. 
+That's to your advantage.  
+
+
+
+
+
+Situation 162 Proposal 
+
+Sam Brown proposes to place an order to Kang Jin-ho. 
+
+Sam: We've come up with a proposal that can't be beat. 
+Kang: Well, okay. Let's see what it looks like. 
+Sam: We'll place an order for 4,000 units if you throw in the accessories free of 
+charge. 
+Kang: You mean include the set and accessories all under one price 
+Sam: That's right. The original unit price you quoted. Our offer holds good until the 
+end of the month. Take it or leave it. 
+ 
+상 황 162 제 안 
+
+ 
+샘 브라운이 강진호에게 주문에 대한 제안을 하고 있다. 
+
+ 
+샘 브라운: 강 선생님 아주 좋은 제안을 하나 하겠습니다. 
+강진호: 좋습니다. 어떤 것인지 좀 들어봅시다. 
+샘 브라운: 귀사 측에서 부품을 덤으로 넣어주시면 저희는 4000개를 주문하겠습니다. 
+강진호: 한개의 가격으로 세트와 액세서리를 포함한다는 말씀인가요 
+샘 브라운: 그렇습니다. 선생님이 처음에 부른 단가대로 말입니다. 저희의 제안은 이달말까지 유효하니 
+까 받아들이시든지 거절하시든지 하십시오. 
+
+ 
+<어구해설> 
+hold good 은 "유효하다, 적용되다” 란 뜻이고 "take it or leave it" 은 "있는 그대로(100%) 
+승낙하든지 거부하든지 하다” 란 의미의 관용표현이다. offer 따위가 언제까지 유효하다고 
+할 때의 "유효하다”는 valid 나 in effect를 사용하여 표현하기도 한다.  
+
+ 
+
+
+
+Situation 161 Factory 
+
+ 
+German buyer, Max Shneider visits Jeil Industry. But he doesn't know the way to 
+factory.  
+
+ 
+Jerry: Mr. Bae, I've never been to the factory. Can you tell me how to get there 
+Bae: Okay. Go straight down this road till you come to a fork in the road. 
+Jerry: A fork. Okay, then what can I do 
+Bae: Make a left and keep going straight for about a mile or so. 
+Jerry: I got you. 
+
+ 
+상황 161 공 장 
+
+ 
+독일 바이어인 막스 슈나이더가 제일 산업을 방문하였다. 하지만 공장으로 가는 길을 잘 모 
+르는데. . . 
+
+ 
+제리: 배 과장님 공장에 가본 적이 없어서 그러는데 공장에 가는 방법 좀 가르쳐 주시겠습 
+니까 
+배인섭: 그러죠. 이 도로를 따라서 곧장 가시면 갈림길이 나올겁니다. 
+제리: 갈림길이요 알겠습니다. 그 다음엔 어떻게 가지요 
+배인섭: 좌회전을 한 다음에 1마일 정도 똑바로 가세요. 
+제리: 아 이제 알겠습니다. 
+
+<어구해설>
+우리나라에서는 3거리, 4거리, 5거리라는 말을 자주 쓰지만 미국인들은 3거리를 a 
+three-way intersection 이라고 하기 보다는 a fork in a road(갈림길) 라고 표현한다. 
+
+길안내와 관련된 다음과 같은 표현들도 함께 알아두면 유용하게 쓰일 수 있다. 
+Turn right at the next intersection.( 다음 교차로에서 우회전을 하세요) 
+Take the overpass on the Samgakji rotary and turn left. 
+(삼각지 로터리에서 고가를 타고 좌회전을 하세요) 
+
+
+Situation 181 Time Difference 
+
+ 
+Kumiko asks Verdi about the business in New York 
+
+ 
+Kumiko: How was your flight 
+Verdi: Pretty smooth. I wish I could have slept a little more. 
+Kumiko: What's the time difference between Seoul and New York 
+Verdi: 15 hours, but I think it'll only take a day or two adjust. 
+Kumiko:: That's good. Let's get down to business. 
+
+ 
+상황 181 시 차 
+
+ 
+구미코가 페르디낭에게 뉴욕 출장에 대해서 물어본다. 
+
+구미코: 비행기 여행은 어땠습니까 
+베르디: 괜찮았습니다. 잠이 좀 부족했지 만요. 
+구미코: 서울과 뉴욕의 시차는 얼마나 됩니까 
+베르디: 15시간입니다. 아마도 한 이틀이면 적응이 될 것 같습니다. 
+구미코: 다행이군요 그럼 본 상담으로 들어갑시다. 
+
+ 
+<어구해설> 
+get to는 --에 도착하다, - 을 시작하다란 의미이며 부사 down은 “본격적으로” 란 뜻이다. 
+따라서 get down to는 “본격적으로 어떠한 일을 시작하다” 라는 의미이다. 
+
+ 
+ 
+
+ 
+
+Situation 180 Plant Land Problem 
+Kim Jin-seok is talking to Ha joon about plant land problem
+
+Kim: Are you ready for this meeting with Chinese buyer
+Ha: No, I can't understand these plant land problem.
+Kim: Why don't you consult with your manager
+Ha: Are you kidding He wouldn't give me the time of day.
+상황 180 공장부지문제
+
+김진석이 공장부지에 대하여 하준과 이야기 하고 있다.
+
+김진석: 이번 중국바이어와의 면담준비는 했어
+하 진: 아니 아직. 이번 공장 부지문제를 이해하지 못하겠어
+김진석: 부장님에게 물어보지 그래
+하 진: 농담하나 그는 내게 전혀 관심이 없단말이야. 
+<어구 해설> 
+사람이 쌀쌀맞거나 냉정하다고 할 때 "저 사람에게는 찬바람이 불어" 라고 표현한다. 이렇게 상대방에게 최소한의 관심(minimum of attention) 도 보이지 않는 사람을 가리켜 He won't give you the time of day 라고 한다. 
+
+
+
+
+
+
+
+Situation 179 Shipment 
+
+ 
+Pete Andre asks Park Na-ri about the new shipment. 
+
+ 
+Andre: When do we expect that new shipment of engine parts We can't keep our 
+generators going without them  
+Park:　I called the air freight company. They said we can expect it any time. 
+Andre: If one more engine goes out, we shout down the plant. 
+Park: I got it. I'll try to check another line. 
+
+ 
+
+ 
+상황 179 Shipment 
+
+ 
+피트 안드레가 박나리에게 새로운 견적분에 대해서 물어본다. 
+
+ 
+안드레: 엔진부품의 새로운 선적분은 언제 옵니까 그것들이 없으면 발전기를 계속해서 가 
+동할 수 없습니다. 
+박나리:　항공화물회사에 전화했었습니다. 오늘이라도 곧 도착할 수 있을 것이라고 말하던 
+데요 
+안드레：만약 엔진이 하나만 더 떨어지면 우리는 공장 문을 닫습니다. 
+박나리: 알겠습니다. 다른 경로를 통해서 확인하도록 하지요. 
+
+ 
+<어구 해설> 
+shipment는 일반적으로 선적이나 그 선적량을 말한다. 다른 말로는 납품의 의미가 되므로 
+When can you deliver the goods to us라고 하는 경우 언제 납품해 주실 수 잇습니까 라는 
+뜻이 된다.  
+ 
+
+
+
+
+
+Situation 178 Sample Price 
+
+ 
+Samuel Ferraro asks Ms. Asako about the estimate of price. 
+
+ 
+Samuel: What's your offer on my two samples. A and B  
+Asako: That depends on the quantity of each style. 
+Samuel: I need a quotation on 500 dozen for A and 1000 dozen for B. 
+Asako: Let me make a calculation. Just a minute. Well, $ 40 FOB for A and $50 FOB for B.  
+
+ 
+상황 178 견본 가격 
+
+ 
+사무엘 페라로가 아사코에게 가격에 대한 견적을 부탁하고 있다. 
+
+ 
+사무엘: 당사의 두 견본 A와 B에 대한 귀사의 가격은 어떻습니까 
+아사코: 그것은 각 모델별 주문수량에 따라 다릅니다. 
+사무엘: 견본 A는 500다스 견본 B 를 1000다스를 기준으로 하여 가격을 주십시오. 
+아사코: 제가 계산을 해 보겠습니다. 잠시만 기다려 주십시오. 저 A는 FOB 40달러이고 B는 FOB 50달러가 되겠네요. 
+
+ 
+<어구 해설> 
+값을 “깎아주다” 는 cut (lower, reduce) the price 라고 한다. 이외에 give a reduction make it cheaper와 같은 표현도 있고 take off와 knock off 라고 표현하기도 한다. 
+
+
+
+
+
+Situation 177 Estimate 2
+
+ 
+Hose Andre, a Spanish buyer, wants to go through the estimate of JKS. 
+
+Hose: I've gone through your estimate and I still think you can trim a little. 
+Cha:　Mr. Hose that estimate is based on our low price for each item. 
+Hose: Well, your lowest just isn't low enough. You're still not competitive. 
+Cha: Then, we'll just have to give it another try again tomorrow. 
+
+ 
+상황 177 Estimate 2
+
+ 
+스페인의 바이어인 호세 안드레가 JKS의 견적서를 검토하려고 한다. 
+
+ 
+호세:귀사의 견적을 자세히 검토해 봤는데요. 좀더 가격을 깎아 주실수 있다고 생각합니다. 
+차인경:　호세 씨 그 견적은 매품목마다 당사의 최저가격에 기준한 것입니다. 
+호세: 귀사의 최저가격은 별로 낮지 않은 것 같군요. 귀사 상품은 아직 경쟁력이 부족합니다 
+차인경: 그렇다면 내일 다시 절충을 시도해보도록 하지요 
+
+ 
+<어구해설> 
+estimate는 수량, 무게, 가치, 일등의 견적(액) 이란 뜻이고 go through는 여러 가지 뜻을 갖고 있으나 여기서는 “자세히 조사하다”(=examine carefully) 란 의미로서 해 over나 check through와 바꾸어서 사용이 가능하다. 
+
+ 
+
+ 
+
+Situation 175 Order Record 
+
+ 
+Kang Ji-hoon asks Lee Han about the order record. 
+
+ 
+Kang: What did you do with the record of this order 
+Lee: What is that, the Ajax account 
+Kang: Yes. They're on the phone and want to know what's going on with it 
+Lee: Ok, I'll check them. 
+
+ 
+상황 175 주문기록 
+
+ 
+강 지훈이 이한에게 주문기록에 대해서 물어보고 있다. 
+
+ 
+강지훈: 이 주문기록을 어떻게 했나요 
+이 한: 무엇인데요 아작스 거래처 말입니까 
+강지훈: 예, 거기서 전화가 왔는데 어떻게 되고 있는지 알고 싶어해요. 
+이 한: 알겠어요. 제가 확인해보도록 하지요. 
+
+ 
+<어구해설> 
+여기서 사용된 do with는 “처리를 하다” 라는 의미가 되지만 can과 같은 조동사와 함께 사용하면 “-을 바라다, 필요로 하다” 라는 의미가 된다. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+Situation 174 Branch Office 
+Kate meets Mr. Min Shin-tae, a marketing manager, on the lobby of KT building. 
+Min: Hi Kate. How are you
+Kate: Hi Mr. Min, do you get over to the branch office very often
+Min: Oh usually only about once or twice a year.
+Kate: Well, I was just there and they are doing really fine. 
+
+상황 174 지 사
+케이트가 KT 건물 로비에서 마케팅 매니저인 민신태를 만난다. 
+
+민신태: 안녕 케이트
+케이트: 안녕하세요 민 신태씨 요즈음도 지사에 자주 들르시나요
+민신태: 아 글쎄요. 보통 1년에 한 두 번 정도 뿐입니다.
+케이트: 그래요 얼마 전 거기에 갔었는데 모두들 잘하고 있더군요. 
+<어구해설> 
+get 동사도 have, make, take 와 함께 빈번하게 사용되는 단어중 하나이다.
+주로 사역이나 수동의 의미를 내포하는 숙어들이 대부분이다. 
+여기에서 get over to 는 "--로 건너가다" 라는 의미로 사용되었다. 
+
+
+
+
+
+
+Situation 173 Literature 
+
+ 
+Han Soo-jin is introducing the PC product to Smith. 
+ 
+Han: I'd like to show you our latest PC model. It works like a charm 
+Smith: How does it go on pricing 
+Han: It's the most reasonably priced model on the market to date. 
+Smith: H'm might be worth looking into for next Christmas. have you got anything 
+in print on it 
+Han: You bet. Hold on a second and I'll get you some literature on these machines. 
+
+ 
+상황 173 팜프렛 
+
+ 
+한수진이 스미스에게 PC 제품을 보여주고 있다. 
+
+ 
+한수진: 스미스 씨 저희 회사의 신형 PC모델을 보여드리겠습니다. 신기하게 작동이 잘됩니 
+다. 
+스미스: 가격은 어떻게 됩니까 
+한수진: 지금까지 시장에 나온 것 중 가장 가격이 저렴합니다. 
+스미스: 음 다음 크리스마스 용으로 검토해 볼 필요가 있겠군요. 그것에 관한 안내물이 있 
+습니까 
+한수진: 물론이죠. 잠깐만 계세요. 이것에 대한 팜프렛을 좀 갖다 드리겠습니다. 
+
+ 
+<어구해설> 
+literature에는 문학작품이라는 뜻 이외에 광고 팜프렛 따위의 인쇄물 이란 의미로도 쓰인 
+다. 따라서 위의 문장은 다음과 같이 다르게 표현할 수도 있다. 
+I'll bring some catalog(brochure) on these machine. 
+Let me give you some printed information on these machines. 
+
+ 
+
+ 
+
+
+
+Situation 172 Budget 
+
+ 
+Kim Sang-ho is talking to John Keith about the budget.  
+
+ 
+Kim: John What's up 
+John: The corporation budget's been cut again this year. 
+Kim: So we'll have even less money than before. is that right  
+John: I don't think so. It shouldn't affect our department one way or the other 
+
+ 
+상황 172 예 산 
+
+ 
+김상호가 예산에 대해서 존 키이스와 이야기 하고 있다. 
+
+ 
+김상호: 존 무슨 일입니까 
+존: 회사의 예산이 올해에 다시 삭감되었습니다. 
+김상호: 그러면 우리는 전보다 적은 돈을 받게 되겠군요. 그렇지요 
+존: 그렇게 생각하지 않습니다. 어떻게 해서든지 우리 부서에는 영향을 미치지 않을 겁니다. 
+
+ 
+<어구해설> 
+이번 대화에서는 구어체 표현을 익히기로 해보자. 우선 what happen 의 의미로 “무슨일이냐” 라는 표현을 할 때에는 what‘s up을 사용한다. 그리고 자신의 견해에 대한 가부간의 견해를 피력할 때에는 think를 써서 자신이 생각하는 바를 밝힐 수 있다.  
+
+
+
+
+
+Situation 171 Terms 
+
+ 
+Anderson is looking for the items service can be guaranteed. 
+
+Anderson: Look, there's a possibility on this item. But first what are you terms 
+Han:　When you open the L/C, make it so that the delivery date is minimum of 
+two months and a maximum of three months from the date of opening. 
+Anderson:　That's kind of long, but how abput the warranty 
+Han: We guarantee servicing of minor repair only. 
+
+ 
+상황 171 계약조건 
+
+ 
+앤더슨은 서비스 보증이 가능한 품목을 찾고 있다. 
+
+ 
+앤더슨: 이 품목에 에 관심이 있습니다만, 거래조건은 어떻습니까 
+한상철: 신용장을 개설할 때 납기는 신용장 개설일자로부터 최소한 2개월에서 최대한 3개월 
+로 해 주십시오. 
+앤더슨: 그건 좀 긴데요. 하지만 좋습니다. 그럼 품질보증은 어떻습니까 
+한상철: 간단한 수리에 대해서만 보장해 드리고 있습니다. 
+
+ 
+<어구 해설> 
+term은 단수로는 “용어, 기간” 이라는 뜻이 되지만 복수인 terms 로 쓰이게 되면 “지불, 계 
+약” 등의 조건이나 사이 관계를 의미한다. condition도 지불조건이란 의미로 쓰인다. 
+
+
+Situation 191 Planning  
+
+ 
+Kim Mi-ran and Kang Hyun-soo of Planning Team ask their manager to help them. 
+
+Kim: Sir, I'm a little confused about the project you gave us yesterday. 
+Manager: We'll review the project after lunch. 
+Kang: I'm a little confused, too. Couldn't you just run over the problems with us 
+now 
+Manager: O. K. we'll run over the problem, but very quickly 
+
+ 
+상황 191 기 획 
+
+ 
+기획팀의 김 미란과 강 현수가 담당부장에게 업무협조를 요청한다. 
+
+ 
+김미란: 부장님 어제 내주신 프로젝트가 뭔지 잘 모르겠어요. 
+부 장: 과제에 대해서는 점심시간 이후에 점검하는 게 낫겠군요. 
+강현수: 저도 잘 모르겠는데요. 저희하고 함께 그 문제점을 한번 흝어 보실 수 없나요 
+부 장: 좋아요, 과제를 한번 흝어 보도록 하지요. 
+
+ 
+<어구 해설> 
+run over는 일반적으로 informal 한 표현이지만 많은 상에서 쓰여지며 특히 짧은 시간 내에 신속하게 흝어보는 것을 말한다. 
+
+ 
+
+ 
+
+ 
+
+
+
+
+Situation 190 Run 
+
+ 
+Mike is talking to Mr. Kim Han-kyung about the department. 
+
+ 
+Mike: Hi, Mr. Kim, I hear you have a new job in the company. 
+Kim : That's right, I run the Accounting Department now. 
+Mike: Sound like a lot of work and responsibilities to me. 
+Kim: Sometimes it is hard to run a department of 25 people, but I like being in 
+charge of things.  
+
+ 
+상 황 190 부서 책임 운영 
+
+ 
+마이크가 김 한경과 부서에 대해서 이야기하고 있다. 
+ 
+마이크: 김 선생님 회사에서 새로운 업무를 맡았다면서요 
+김한경: 예 이제 경리과를 책임지고 있습니다. 
+마이크: 업무도 많고 책임도 무거울 것 같은데 
+김한경: 인원이 25명이나 되는 부서를 관리한다는 일이 때로는 힘들지만 난 책임자의 위치 
+가 마음에 듭니다. 
+
+ 
+<어구해설> 
+일반적으로 manage도 같은 의미이지만 run을 사용하게 되면 업무상의 위치나 책임정도를 
+보다 확실하게 제시해 준다. 
+
+ 
+
+
+
+
+Situation 189 Project Meeting 
+
+ 
+James Ashton asks Oh Dong-ho about the project meeting. 
+
+ 
+Ashton: Let's have negotiate this project meeting tonight 
+Oh: Sorry. I can't. 
+Ashton: Why not 
+Oh: I'm up to my ears in work. 
+
+ 
+상황 189 프로젝트 미팅 
+
+ 
+제임스 애쉬턴이 오동호에게 프로젝트 미팅에 대해서 묻고 있다. 
+
+ 
+애쉬턴: 오늘밤 프로젝트 미팅에 대해서 협상하도록 합시다 
+오동호: 죄송합니다. 저는 못하겠어요 
+애쉬턴: 왜 안되는 거지요 
+오동호: 일 때문에 꼼짝 못합니다. 
+
+ 
+<어구해설> 
+바쁘다는 의미는 일반적으로 busy라는 말을 사용하지만 여기서는 구어적인 표현을 한번 알아보기로 하자. up to my ears는 “물이 귀까지 차있다”는 의미로 사용된다. 이와 마찬가지로 be snowed under라는 표현도 일을 폭설에 비유하여 사용한 것이다. 
+
+
+
+
+
+Situation 188 Telephone 
+
+ 
+Kang Sung-ho wants to meet Mr. Bronsky for the union problems. 
+
+ 
+Kang: Hello, Can I talk to Mr. Bronsky  
+Jane: I'm afraid he's occupied. It is urgent 
+Kang: It's about the union meeting. 
+Jane:　Oh, He's finished his call. I'll put you through now 
+
+ 
+상황 188 전 화 
+
+강성호가 노조문제로 브론스키와 만나기를 원한다. 
+
+ 
+강성호: 여보세요, 브론스키씨와 통화할 수 있을까요 
+제인: 죄송합니다만 그분은 지끔 바쁘신데요. 급한일이십니까 
+강성호: 노조회의 때문입니다. 
+제인: 아 마침 통화가 끝나셨군요. 바로 연결해 드리겠습니다 
+ 
+<어구해설> 
+전화를 건 사람에게 용건을 묻는 것이 자칫 실례처럼 보일 수 있으나 극히 사적인 일이나 
+극비사항이 아닌 경우에는 가능하다. 하지만 caller가 It's personal call 이라고 말한다면 
+더 이상 캐묻지 않는 편이 좋다. 
+
+ 
+
+ 
+
+
+Situation 187 Banking Expert 
+
+ 
+Helen asks Ha Jin-soo about the Joe. 
+
+ 
+Helen: Joe comes like a banking expert, doesn't he 
+Han: Yeah, it's the impression he likes to create. 
+Helen: Is he really an expert 
+Han: No, he just comes on like he is. He really knows very little about banking. 
+
+ 
+상황 187 은행 전문가 
+
+ 
+헬렌이 한진수에게 조우에 대해서 묻고 있다. 
+
+ 
+헬 렌: 그는 마치 은행전문가처럼 행동하는 것 같습니다. 그렇지 않습니까 
+한진수: 그래 그 친구는 그런 인상을 주고 싶어 하는 것 같아요. 
+헬 렌: 그가 전문가인 것이 사실인가요 
+한진수: 천만에요. 그렇게 행세할 뿐이지요. 실제로는 은행업에 대해서 아는게 거의 없다구요. 
+
+ 
+<어구 해설> 
+come on은 일반적으로 상대방에 대한 행동촉구나 의심, 회의를 나타내는 감탄사의 역할을 하지만 이 대화에서는 의도적으로 어떤 모습으로 보이기 위해 특별난 태도나 행동방식으로 행동하는 것을 가리키며 대개는 가식적이거나 부정적인 의미가 함축되어 있다. 
+
+ 
+
+
+
+
+Situation 186 Importer 
+Anderson Smith suggests Park Dong-sik about the San Francisco importer. 
+
+Anderson: Mr. Park, I got an importer in San Francisco who's hot after your new model. 
+Park: Great! What are we talking about in the way of quantity
+Anderson: He says he'll start with 300 units a month for openers.
+Park: That's not bad. What are we looking for at price 
+Anderson: He says you gotta come down a ways from your original asking price.
+Park: Well, I'm open that but the question is how far. 
+
+상황 186 수입업자
+앤더슨 스미스가 박동식에게 샌프란시스코 수입업자에 대해 제안한다. 
+앤더슨: 박 선생님 샌프란시스코에 있는 수입업자 한 분을 알고 있는데 귀사의 새 모델에 큰 관심을 가지고 있답니다.
+박동식: 잘 됐군요. 수량은 어느정도 입니까
+앤더슨: 우선 한 달에 300 세트씩 주문하는 것으로 거래를 시작하겠다고 하더군요.
+박동식: 그 정도면 괜찮군요. 가격은 어떻것 같습니까
+앤더슨: 그분 말로는 귀사의 최초 제시가격이 좀 인하되어야 한다는 것입니다. 
+박동식: 그 문제에 대해서는 고려할 용의가 있습니다. 하지만 문제는 어느 정도냐 하는 것이죠.
+<어구해설>
+여기서의 open은 "(사상, 제안 등을) 금방 받아들이는 채용할 수 있는 (willing to hear and consider or to accept and deal with) 란 의미이다 
+
+
+
+
+
+
+Situation 185 Deliver
+Raymond Jones asks Kim Sang-hyun about the deliver. 
+
+Raymond: How soon can you deliver if I place an order right now
+Kim: Within three months upon arrival of your L/ C.
+Raymond: Can't you make it two month
+Kim: I'll let you know as soon as possible I check the production capacity.
+상황 185 납 기 
+레이몬드 존스가 김상현에게 납기에 문의하고 있다. 
+레이몬드: 지금 주문하면 언제쯤 상품인도가 가능할까요
+김상현: 신용장 도착 후 3개월 이내에 해드립니다.
+레이몬드: 2개월로 할 수는 없을까요
+김상현: 생산능력을 확인해 보고 알려드리겠습니다.
+<어구해설>
+가격에 대한 타협이 이루어지면 그 다음엔 납기 등의 문제로 대화가 옮겨지게 된다. 이 대화에서 사용된 make는 " (사람이나 물건을 어떤 상태로) 하다" 란 뜻의 불완전 타동사로 쓰였다.
+
+
+Situation 184 Fabric 
+
+ 
+Gilbert asks Ko Shin-hak of PS Co., Ltd about the fabric. 
+
+Gilbert:　This is a beautiful fabric all right, but why does it wear longer than the 
+others 
+Ko : Well let me tell you why. One reason is that the yarn is carefully selected for 
+quality. 
+Gilbert: I see, and what about the weave 
+Ko: That's the second reason. The yarn is twisted and woven very tightly in this 
+fabric. 
+
+ 
+상황 184 원 단 
+
+길버트가 PS 주식회사의 고신학에게 원단에 대해서 물어보고 있다. 
+
+길버트: 이 천은 정말 예쁘군요. 그런데 왜 다른 천보다 질기죠 
+고신학: 제가 그 이유를 설명해 드리지요. 한 가지 이유는 품질을 생각해서 실을 잘 선택한 
+다는 점입니다. 품질을 위하여 정선된 실이 사용되었지요. 
+길버트: 알겠습니다. 그럼 천의 짜임은 어떻습니까 
+고신학: 그게 바로 두 번째 이유죠. 원사의 꼬임상태와 천의 짜임이 모두 매우 촘촘합니다. 
+ 
+<어구해설> 
+(천 등이) “질기다” 란 말은 wear long, last long, be durable 등으로 표현된다. 이때의 
+wear는 “사용에 견디다, 오래가다” 란 의미이다. 
+
+
+
+Situation 183 Negotiation 
+
+Miguel negotiates with Han Sun-il for the price. 
+
+Han: I like your new models but the prices are just going to have to come down. 
+Miguel: Mr. Han as I already explained to you, we're offering you the very minimum. We can't come down any more than we have. 
+Han: If other companies can, you can , too 
+Miguel: Yes, but our product is head and shoulders above any others, you know 
+that. There's no compensation. 
+
+ 
+상 황 183 협 상 
+
+미구엘이 한선일과 가격에 대해서 교섭하고 있다. 
+
+ 
+한선일: 귀사에서 내놓은 새 모델이 마음에 들지만 가격을 좀 인하해 주셔야 겠습니다. 
+미구엘: 한 선생님 제가 이미 설명해 드렸듯이 저희는 귀사에게 최저가로 오퍼하고 있습니다. 
+미구엘: 저희가 깎아 드린 것 보다 더 깎아 드릴 수는 없습니다. 
+타사에서 가능하면 귀사에서도 가능하지 않습니까 
+미구엘:　하지만 품질에 관한 한 저희 제품이 타사에 비해서 월등히 우수합니다. 그 점을 잘 아시잖아요. 비교가 안됩니다. 
+
+ 
+<어구해설> 
+“head and shoulder” 는 원래 “키가 어깨에서 머리끝까지 차이만큼 큰” 이란 뜻에서 훨씬 
+이란 의미로 쓰인다. 
+Our product is far superior to ant others. 
+Our product can't be beat. 
+
+
+
+
+
+Situation 182 Flaws 
+
+ 
+Hans is talking to Mr. Jeon Ki-won about the flaws of product. 
+
+Hans: Look those flaws in the mold must be taken care of. 
+Jeon: I'll see to it. You can rely on me. 
+Hans: If that model arrives in the same shape it came last time, my boss will 
+absolutely tear me apart. 
+Jeon: Don't worry. Have I ever let you down before 
+Hans: No, you haven't, but we gotta be absolutely sure this time. 
+
+ 
+상 황 182 하 자 
+
+ 
+한스가 전기원과 제품하자에 대해서 이야기를 나누고 있다. 
+
+ 
+한스: 전기원씨 금형에 있던 그 흠집들은 반드시 해결해야 합니다. 
+전기원: 제가 그 점은 신경을 쓰겠습니다. 저만 믿으세요 
+한스: 지난번과 똑같은 상태로 그 모델이 도착한다면 상부로부터 질책을 받게될테니까요 
+전기원: 염려마세요. 제가 언제 실망시켜 드린 적 있습니까 
+한스: 그런 적은 없지만 이번엔 정말로 틀림없어야 합니다. 
+
+ 
+<어구 해설> 
+let down 은 “실망시키다” 라는 뜻으로 이때의 down 은 “의기소침한, 풀이죽은 ” 이란 
+의미를 포함하고 있다. 따라서 여기서 Jeon의 말은 "Have I ever disappointed you 
+before", "Have I given you any disappointment" 라고 바꾸어 쓸 수 있다. 
+
+
+Situation 201 Current Situation 
+
+ 
+Han Sang-jin meets Jang Cheol in the front of World Center. 
+
+ 
+Han: Mr. Jang I haven't seen you in years. How are you things going for you 
+Jang: Well, they haven't been easy, but I manage to get by. 
+Han: What kind of work are you doing these days 
+Jang: Anything I can find to get by. times are tough 
+
+ 
+상 황 201 현재 상황 
+
+ 
+한상진과 장철이 월드 센타 앞에서 만난다. 
+
+ 
+한상진: 장 선생님 이게 몇 년만입니까 요즈음 어떻게 지내시나요 
+장 철: 글쎄 벌로 좋지 않습니다. 하지만 그럭저럭 버티고 있지요. 
+한상진: 요즈음은 어떤 일을 하는데요. 
+장 철: 살기위해서는 모든 것이든 다하지요. 힘든 세상이잖아요. 
+
+ 
+
+ 
+<어구해설> 
+어떤 특수한 상황에서 잘 대처해 나가고 있을때 특히 경제적인 측면에서 자주 사용되는 표 
+현. 일반적으로 어떤 상황에 대해 get by 라는 대답이 나오면 대개 호조의 상태를 나타낸 
+다. 
+
+ 
+
+ 
+
+ 
+
+
+
+
+Situation 200 Report 
+
+ 
+Yang Jin-seok and Clark O'neil are talking about a report made by Allan. 
+ 
+Yang: What did you think of Allan's presentation 
+O'neil: Allan never pulls any punches, you can count on that! 
+Yang: Yeah, he always tells it like it is. 
+O'neil: Come on, nothing's perfect. 
+
+ 
+상황 200 보고서 
+
+ 
+양진석과 클라크 오닐이 앨런이 제출한 보고서에 대해서 이야기 한다. 
+
+ 
+양진석: 앨런의 의견서에 대해 어떻게 생각하나요 
+오닐: 앨런은 적당주의자가 아닙니다. 믿어도 돼요. 
+양진석: 그래요 그 사람은 항상 사실 그대로의 소리만 하지요. 
+오닐: 이 세상에 완벽한 것 없잖아요. 
+
+ 
+<어구해설> 
+"pull a punch"는 권투선수가 상대를 힘껏 가격해 K. O. 시키려고 하는 것이 아니라 적당히 봐줘가며 공격하는 것을 말하는데 여기서 유래한 표현이다. 일상회화에서는 “ 대충 얼버무리다, 두리 뭉실 넘어가다” 는 의미로 쓰인다. 
+
+ 
+ 
+
+
+
+
+
+
+Situation 199 Salary 
+
+ 
+Kim Young-hee is talking to Hayward about the her salary. 
+
+ 
+Kim: My boss gave me a big raise today. 
+Hayward: That's wonderful. 
+Kim: And then he told me he is increasing my workload 
+Hayward:　I guess there are no free lunches 
+
+ 
+상황 199 연 봉 
+
+ 
+김영희가 헤이워드에게 그녀의 연봉에 대해서 말하고 있다. 
+
+ 
+김 영희: 우리사장이 오늘 내 연봉을 크게 인상시켜 주었습니다. 
+헤이워드: 아주 잘 되었군요 
+김영희: 그리고는 내 업무량도 늘리겠다고 말하더군요 
+헤이워드: 세상에 공짜는 없다니까요 
+
+ 
+<어구해설> 
+이 표현은 미국 기업들이 오래전에 사용한 판매기법에서 유래하는데, 예를 들면 기업의 판매촉진 광고에 FREE LUNCH TOMORROW 라는 광고를 넣음으로써 잠재고객을 끌어들이려고 하는 전략을 말한다.  
+
+ 
+
+
+
+
+
+Situation 198 Batting Average 
+
+ 
+Han Seung-ho, a sales manager, is congratulating Carol. 
+
+ 
+Han: Carol, this is fantastic! our batting average last month was 150% 
+Carol: Well, thanks, Mr. Han. 
+Han: But, we're in front by a nose, but we can still nose. 
+Carol: I don't think so. The final round's going to be easy. The 
+other team don't have a chance against us. 
+
+ 
+상황 198 실 적 
+
+ 
+세일즈 매니저인 한승호가 캐롤을 축하하고 있다 
+
+ 
+한승호: 캐롤 정말 놀랍군요! 지난달 우리의 판매실적이 150 퍼센트나 되는군 
+캐롤: 감사합니다. 한 과장님. 
+한승호: 우리가 간발의 차로 이기고는 있지만 질 수도 있어요. 
+캐롤: 아닙니다. 최종 경쟁에서는 별 어려움이 없을 겁니다. 
+다른 부서가 우리를 이길 가능성은 없어요. 
+
+ 
+<어구해설> 
+be in front by a nose는 (사업, 학문 등의 경쟁) 에서 간발의 차로 리드를 하고 있다는 뜻 
+으로 경마에서 유래된 표현방식이다. 또한 야구선수의 타율을 나타내는 batting average는 
+비즈니스에서 "연구실적, 판매실적" 을 나타내는 말이다. 
+
+
+
+
+Situation 197　　Size  
+
+ 
+Kang Shin-beom asks Jin Dong-man if he checks the product sizes. 
+
+Kang: Have you had a chance to check into diversifying clothing sizes, yet 
+Jin: Yes, I have. The production manager informed me that it is possible to diversify the sizes. 
+Kang: Would it be a large increase in costs 
+Jin: Yes, the increase in costs would definitely raise our asking price. 
+
+ 
+상황 197 크 기 
+
+ 
+강 신범이 진동만에게 제품의 크기를 확인하고 있다. 
+
+강신범:　옷의 크기를 다양화하는데 대해 검토해 보셨습니까 
+진동만: 예 가능하다고 생산부장이 알려왔습니다. 
+강신범: 비용이 많이 증가하지 않을까요 
+진동만:　예, 비용증가는 저희의 요구가격을 인상시키게 될 것입니다. 
+
+ 
+<어구해설> 
+1) "have a chance to" 는 “-- 해 보셨습니까” 라는 의미로 사용되었다. 가령 “그를 만나는 절호의 기회이다” 라면 It is a good chance for you to meet him.이라고 표현한다. 
+
+ 
+2) Would는 여기서 불확실한 추측을 나타내는 의미로 사용되었다. 
+
+
+
+
+
+
+Situation 196 Meeting 
+
+ 
+Kim Dong-seok worries about the last meeting. 
+
+Han:　What's eating you 
+Kim: I'm worried about that remark that manager John made to me in the meeting yesterday. 
+Han: Take it with a grain of salt. He was just joking around you. 
+Kim: " Really I'm relieved to hear that! 
+
+ 
+상황 196 회 의 
+
+김동석이 지난 회의에 대해서 걱정하고 있다. 
+
+ 
+한기원: 무슨 일입니까 
+김동석: 과장님이 어제 회의에서 내게 한 말이 신경 쓰입니다. 
+한기원: 그냥 흘려버려요. 과장님 이 당신한테 농담한 거예요. 
+김동석: 그럴까요. 그 말을 들으니 안심이 좀 되네요. 
+
+ 
+<어구해설> 
+take something with a grain of salt는 be disciplined to believe something의 의미로 다른사람의 말을 “ 에누리하여 듣다, 심각하게 받아들이지 않다” 라는 의미이다.  
+ 
+
+
+
+
+
+Situation 195 Rudeness 
+
+ 
+Anna Hugh is talking to Kang Hye-mi about the Mark 
+
+ 
+Anna: Did you hear the news 
+Kang: What's that 
+Anna: I can't believe that Mark said that to his boss. 
+Kang: He certainly has a real knack for putting his foot in his mouth. 
+Anna: This time it'll cost him his job  
+
+ 
+
+ 
+상황 195 무례함 
+
+ 
+안나 휴가 강혜미에게 마크에 대해서 말하고 있다. 
+
+ 
+안나: 소식 들었나요 
+강혜미: 무슨 일인데요 
+안나: 마크가 상사에게 그렇게 말했다는게 믿어지지 않는군요 
+강혜미: 분명히 무례하게 말했을 거예요 
+안나: 이제 그는 직장을 잃게 되겠군요. 
+
+ 
+<어구해설> 
+여기서 knack 은 “요령, 솜씨, 기술” 을 말한다. put one's foot in one's mouth는 speaking 
+carelessly and rudely의 의미로 “상대방에게 무례하게 말하다, 실수를 범하다”fksms 의미 
+로 사용되었다. 
+
+
+
+
+Situation 194  Being Late 2 
+
+ 
+Mike Henderson, the president of GE Korea scolds Kim Han-soo for being late  
+
+ 
+President: You' re late again. This is the third time this week. 
+Kim: Sorry, there was a lot of traffic. 
+Prsident: I take it you'll be in on time from now on. 
+Kim: Yes, sir. I sure will. 
+
+ 
+상황 194 지각 2 
+
+GE 코리아의 마이크 헨더슨 사장이 김 한수에게 지각에 대해서 질책하고 있다. 
+
+사 장: 또 지각이군요. 이번 주 들어서 세 번째 아닌가요 
+김한수: 죄송합니다. 차가 너무 막혀서요. 
+사 장: 지금 이 시각부터는 정각에 출근하는 걸로 알고 있겠어요. 
+김 한수: 네 사장님. 반드시 그렇게 하겠습니다. 
+
+ 
+<어구해설> 
+여기서의 take는 “--을 간주하다, 생각하다” 란 의미이다. 특히 이 표현을 아랫사람들에게 
+쓰면 명령의 의미가 함축되어 있고 반면 동료나 웃사람에게 사용하면 상대방의 확인이나 인 
+가 등의 요청을 암시 할 수 있다. 
+
+ 
+
+ 
+
+Situation 193 Computer 
+
+ 
+Kim Sang-ok wants Dmitri to help him 
+
+ 
+Kim: Something wrong with my computer. 
+Dmitri: What's wrong with it 
+Kim: I don't know, it just won't start.  
+Dmitri: Here, let me fix it. It's simple enough Now that should do it  
+
+ 
+상황 193 컴퓨터 
+
+ 
+김상옥이 드미트리에게 도움을 요청한다. 
+
+ 
+김상옥: 제 컴퓨터에 이상이 생겼어요 
+드미트리: 어디가 고장인데요 
+김상옥: 모르겠어요. 부팅이 안되는데요 
+드미트리: 네가 한번 고쳐보지요. 간단한건데요 뭘 
+
+ 
+<어구해설> 
+should는 일반적으로 당위성이나 추측의 의미로 사용되는 조동사이다 “그 정도면 됐다”고 할 때 "that's enough" 나 That'll do 대신 That should do it 이라고 한다. 
+
+
+
+
+
+Situation 192 Investment  
+
+ 
+James Fanon asks Han Jin-seok to suggest any investment. 
+
+ 
+Han: What can I do for you 
+James: Do you know any good investment counselor 
+Han: Are you interested in long term investments or quick in-and-out speculation. 
+James: I want to my money to work for me. I don't really care. 
+
+ 
+상황 192 투 자  
+
+ 
+제임스 파논이 한진석에게 투자에 대한 제안을 요청한다. 
+
+ 
+한진석: 무엇을 도와드릴까요 
+제임스: 혹시 유능한 투자상담가를 아십니까 
+한진석: 장기투자를 원하시나요 아니면 단기차익을 노리는 투기에 관심이 있습니까 
+제임스: 투자가 잘되면 그만이지요. 결과만 좋으면 상관없어요. 
+
+<어구해설> 
+여기서 speculation 은 생각, 숙고의 의미가 아니라 “ 투기 투자 ” 라는 뜻으로 사용되었다. 
+in-and -out은 증권용어로서 “단기매매” 한다는 의미이다.
+
+
+Situation 211 Computer 
+
+ 
+Lee Sang-ho, a manager of HEO Co., Ltd. suggests the purchase of computer. 
+
+Boss: Manager Lee, I think we should consider getting a new computer system. You call the tune on purchasing, squeeze a little money out of the budget. 
+Manager: I may call the shots on purchasing, but our budget is used up. 
+Boss: Do you have a better idea 
+Manager: I'll find another route to purchase computer system. 
+
+ 
+상 황 211 컴 퓨 터 
+
+ 
+HEO 주식회사의 이상호부장이 컴퓨터 구매에 대해 제안한다. 
+ 
+사 장: 이 부장님 새 컴퓨터 시스템 도입을 생각해봐야 겠습니다. 구입 건에 대해서는 부장님이 결정권이 있으니까 예산을 한번 꾸려보세요. 
+이 부장: 사장님 제가 구입 건에 대해서 결정권은 있지만 우리 예산이 바닥났어요. 
+사 장: 다른 좋은 아이디어가 있나요 
+이 부장: 제가 다른 컴퓨터 구매방법을 찾아보도록 하지요. 
+
+ 
+<어구해설> 
+여기서 사용된 call은 자신의 기분이나 상태를 지시한다는 뜻이다. call the shot으로도 바꾸어 쓸 수 있다. 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+
+
+
+Situation 210 Overwork 
+
+ 
+Linda overworked from last night to this afternoon. 
+
+Linda: I'm so tired. I think I'll sleep for a week. 
+Kim: Don't you have a meeting tomorrow morning 
+Linda: Drat! I completely forgot. Can you wake me at 10:00 
+Linda : Sure. I'll call you at 10:00. 
+
+ 
+상황 210 초과근무 
+
+ 
+린다는 어제 밤부터 오늘 오후 까지 야근을 한 상태이다. 
+
+ 
+린다: 아주 피곤하군요. 일주일은 잘 수 있겠어요 
+김희정: 내일 아침 회의가 있잖아요 
+린다: 맙소사. 까맣게 잊어버렸어요. 10시에 깨워줄래요 
+김희정: 물론이지요. 
+
+ 
+<어구해설> 
+일반적으로 아침에 깨워주는 전화를 wake-up call 이라고 한다. 
+ 
+
+
+
+
+
+Situation 209 Stock 
+
+ 
+Anderson and Kang In-il is talking about the HOS Motors stock.
+
+ 
+Kang: I told him not to buy stock in HOS Motors. 
+Anderson: When did you tell him 
+Kang: Last week. 
+Anderson: You sure did call that. Their stock is worthless today. 
+
+ 
+상황 209 주 식 
+
+ 
+앤더슨과 강인일이 HOS 자동차 주식에 대해서 이야기 하고 있다. 
+
+ 
+강인일: 내가 그 사람한테 AMX 자동차 주식을 사지 말라고 했는데요 
+앤더슨: 언제 그런 말을 했는데요 
+강인일: 지난주에요. 
+앤더슨: 당신은 정확하게 예측을 했군요. 그 회사 주식은 지금 휴지조각이나 마찬가지예요. 
+
+ 
+<어구해설> 
+call 에는 여러 가지 의미가 있는데, 여기서는 “결과를 정확하게 예측하다” 라는 의미이다. 
+
+
+
+
+Situation 208 Overwork  
+
+ 
+Kim Hee-won talks to her doctor about the outcome of some medical tests. 
+
+Kim: Could you examine me 
+Doctor: Yes have a seat 
+
+ 
+30 minutes later 
+
+ 
+Doctor: You may be O.K 
+Kim: Doctor don't pull any punches, I want to know the truth, whatever it is. 
+Doctor: Actually, I have good news. You're just suffering from overwork and need a rest. 
+
+ 
+상황 208 과 로 
+
+ 
+김희원이 의사에게 진찰결과에 대하여 이야기한다. 
+
+ 
+김희원: 진찰 좀 해주시겠어요 
+의사: 이리 앉으시죠 
+
+ 
+30분 경과 후 
+
+ 
+의사: 이상이 없는데요 
+김희원 : 선생님 적당히 얼버무려서 이야기하지 마세요. 결과가 어떻게 나왔는지 모르지만 진실을 알고 싶습니다. 
+의사: 사실 별거 아닙니다. 과로를 좀 했을 뿐이고 약간의 휴식이 필요합니다. 
+
+<어구해설> 
+pull a punch는 권투선수가 상대를 힘껏 가격해서 K.O 시키려고 하는 것이 아니라 적당히 봐주면서 공격하는 것에서 유래한 표현으로 일상회화에서는 “대충 얼버무리다, 두루뭉술 넘어가다의 의미로 쓰인다” 
+
+ 
+
+
+
+
+
+Situation 207 Reception 
+
+ 
+Han Ki-dong and his boss Taylor is talking about the reception last night. 
+
+Han: Boss you look terrible What's wrong 
+Taylor: I took some Japanese buyers out last night and we drank Saki 
+Han: That's just wine isn't it 
+Taylor: Yes, but it goes down smooth and easy but it has a real kick 
+
+ 
+상 황 207 접 대 
+
+한기동과 그의 사장인 테일러가 지난밤 접대에 대해서 이야기 한다. 
+
+ 
+한기동: 사장님 별로 안 좋아 보이시는데 어쩐 일이십니까 
+사장: 어제 저녁에 일본바이어들과 사키를 상당히 많이 마셨거든 
+한기동: 그것은 와인 종류 아닙니까 
+사장: 물론 그렇지. 그런데 사키는 마실때는 부담이 없이 술술 넘어가지만 취기가 대단하다네 
+
+ 
+<어구해설> 
+여기서 사용된 “kick” 은 알코올 음료의 강한 자극성이나 효과를 말한다. 
+
+ 
+
+
+
+
+
+Situation 206 Relaxation 
+
+ 
+Antonio consoles Mr. Kim Hyung-min for his tough job. 
+
+Antonio: Mr. Kim, you're too tense! You're yelling at everyone for no one reason 
+Why don't you just kick back for a while 
+Kim: Kick back Antonio, that's easy for you to say, but how can I relax I'm facing a tough job interview in a few days. 
+Antonio: Try drinking a glass of water for a while. 
+Kim: I think I could kick back a lot better with a couple of beers  
+
+ 
+상황 206 긴장해소 
+
+ 
+안토니오가 힘든상황에 처해있는 김형민을 위로하고 있다.  
+
+ 안토니오: 김 형민씨 너무 긴장하고 있군요. 까닭도 없이 모두에게 고함을 치고 있잖아요. 잠시만 안정을 취하는 게 어때요 
+김형민: 안정이라구요, 안토니오 말은 쉽지만 제가 어떻게 안정을 취할 수 있겠어요 몇일 내로 어려운 일을 치러야 하는데요. 
+안토니오: 물 한 잔 하면서 좀 쉬지요. 
+김형민: 맥주 몇 잔을 하면 훨씬 더 안정이 될 것 같은데요 
+
+ 
+<어구 해설> 
+"kick back"의 어원은 오토바이로 장거리 여행을 할 때 운전자들이 앞 타이어에 “kick pegs” 라는 버팀목을 장치하고 다니다가 한적한 곳에서 이것을 펼쳐놓고 다리를 뻗으면서 몸을 뒤로 기대어 아주 편안한 자세로 휴식을 취한다고 하는데서 유래한다. 
+ 
+
+
+
+
+
+
+
+Situation 205 Ex-manager 
+
+ 
+Tracy and Kim Hee-won worry about their ex-manager. 
+
+ 
+Kim: Hey Tracy, how's it going 
+Tracy: Can't kick, but I'm worried about our manager Mr. Jung. First, she got fired from her job. Then she had a car accident. 
+Kim: Yeah. It must be a real kick in the teeth to be fired, have a car accident in the same day. 
+Tracy: That's a bad news 
+
+ 
+
+ 
+Situation 205  전 부장 
+
+ 
+트레이시와 김희원이 그들의 전(前)부장에 대해서 걱정하고 있다. 
+
+ 
+김희원: 트레이시, 요즈음 어때요 
+트레이시: 모든게 괜찮습니다. 하지만 정 부장님 때문에 걱정입니다. 먼저 직장에서 해고 당하더니 다음엔 자동차 사고를 당했지 뭐예요. 
+김희원: 정말 그래요. 하루사이에 직장에서 해고당하고 자동차 사고까지 당하다니 기가 막히는군요. 
+트레이시: 정말 안된 일입니다. 
+
+ 
+<어구 해설> 
+전혀 예상치도 않았던 좋지 않은 일들이 발생해 어려움을 당하거나 고통을 겪는 상황으로 자신이 자초한 일이 아닐 때 사용하는 표현이다. 
+
+ 
+ 
+
+
+
+Situation 204 Idea 
+
+ 
+Han Ji-ho and Ko San-hwa is talking about their co-worker. 
+
+Han: I can't believe I trust Mr. Jang. 
+Ko: Mr. Jang That snake in the grass You trusted him 
+Han: Yeah, I did. he kept telling me I was doing a great job. What he didn't tell me was that he was talking all my ideas and presenting them as his own. 
+Ko: That's his style. 
+
+ 
+상황 204 아이디어 
+
+ 
+한지호와 고산화가 그들의 동료에 대해서 이야기한다. 
+
+ 
+한지호: 제가 어떻게 장 선생님을 믿었는지 모르겠어요. 
+고산화: 장 선생님이요 그 위험한 사람 말인가요 그자를 믿었단 말인가요 
+한지호: 글쎄 그렇다니까요. 그자는 줄곧 내게 일을 훌륭하게 해내고 있다고 말했어요. 그리고 내 아이디어를 가로채서는 그것이 자기 아이디어인 양 제출했다는 말은 않했지요. 
+고산화: 그게 그 사람 스타일이잖아요. 
+
+ 
+<어구해설> 
+대부분의 사람들은 본능적으로 뱀을 혐오하거나 기피하는 경향이 있다. 이는 아마 생김새 때문이기도 하겠지만 기척도 없이 살그머니 접근해서 불시에 공격하는 뱀의 특성에 기인하는 것으로 보인다. 풀밭 속의 뱀은 사람의 눈에 띠지 않아 한층 위험스러운 존재라는 것을 쉽게 알 수 있을 것이다. 
+
+
+
+
+Situation 203  Complaint 
+
+ 
+Park Ji-song complains about his co-worker, Kim Han. 
+
+Park: I'm sick and tired of working with Mr. Kim Han. I want a new partner. Sir. 
+President : What seems to be the problem Mr. Park 
+Park: I do most of work while Kim is just dogging it. 
+President: Well, there's no room for shirkers here. I'll let him know that his days of dogging it are over. 
+
+상황 203 불 평 
+
+박지송이 자신의 동료인 김 한에 대해 불평하고 있다. 
+
+박지송: 김 한씨와 함께 일하는 게 지긋지긋 합니다. 사장님 다른 파트너를 찾아 주십시오. 
+사장: 문제가 뭡니까 
+박지송: 일은 제가 다하고 김 한씨는 그저 빈둥대기만 합니다. 
+사장: 알겠어요. 우리회사에는 그런 게으름벵이에게 자리를 주지 않을 겁니다. 
+
+ 
+<어구 해설> 
+무더운날 견공들은 거의 활동을 하지 않는다. 시원한 그늘밑을 찾아 늘어지게 잠을 자거나 
+그저 축 쳐져있기 마련 이 숙어는 바로 그런 모습에서 유래된 것으로 해야 할 일이나 업무 
+를 게을리 하고 전혀 노력을 기울이지 않는 불성실한 태도를 가리킬 때 사용한다. 
+
+ 
+
+
+
+
+
+Situation 202 New Manager 
+
+ 
+Kim Sang-ho is talking to Ahn Eun-kyung about their new manager. 
+
+ 
+Kim: Our new manager is really on eager beaver. 
+Ahn: I'll say! She's already re-organized the department and has plans to expand our entire organization. 
+Kim: She never seems to sleep. She's always here long after quitting time. 
+Ahn: She's cheerful and hardworking, just what the company needs. 
+
+ 
+상황 202 신임 부장 
+
+ 
+김 상호와 안 은경이 새로 부임한 부장에 대해서 대화를 나누고 있다. 
+
+ 
+김상호: 새로운 부장님 말이예요. 정말 왕성하게 일하시는 것 같아요. 
+안은경: 맞아요. 벌써 우리 부서조직을 재정비하고 거기다 전체 조직을 확장할 계획까지 가 
+지고 있다니까요. 
+김상호: 그녀는 잠도 안자나 봐요. 퇴근시간이 훨씬 지났는데도 사무실에 남아 있다니까. 
+안은경: 낙천적인데다가 열심히 일하니 회사가 필요로 하는 바로 그럼 사람입니다. 
+
+ 
+<어구해설 > 
+해리라고 불리는 이 수중동물은 상어와 같은 날카로운 이빨에 배의 노처럼 생긴 고리가 있 
+다. 이빨로 통나무를 베어 둑을 쌓아 그곳에서 사는 비버는 매우 활동적이며 장난을 잘 치 
+는 동물로서 아주 부지런한 사람을 가리켜 바로 eager beaver 라고 한다. 
+
+
+Situation 221 Jet lag 
+
+ 
+Jeff Kim returned from business trip. But he has jet lag. 
+
+Han: How was your business trip to America Was there any trouble to you due to the 
+terror in Sept. 11 
+Kim: Nothing happened. It was great. 
+Han: But, you don't look so good. 
+Kim: It's because of jet lag. 
+
+상황 221 시차적응 
+
+ 
+제프김이 출장에서 돌아왔으나 시차적응에 시달리고 있다. 
+
+한선희: 미국출장 어떠셨어요 9월 11일 테러로 인해서 어떤 문제는 없으셨나요 
+제프 김 : 아무 일도 없었습니다. 그런대로 좋았어요. 
+한선희: 근데, 안색이 안좋아 보이네요. 
+한선희: 시차적응 때문입니다. 
+
+<어구해설> 
+“시차 적응”은 비행기 여행의 결과로 생기는 현상이므로 비행기의 jet와 시간 착오라는 뜻 
+의 lag가 결합되어 jet lag 이라고 표현한다.  
+ex) He has jet lag. (그는 시차적응에 시달리고 있습니다.) 
+
+ 
+
+
+
+
+
+Situation 220 Flaws 
+
+ 
+Han Jin-soo asks Liang Zhu to check the flaws. 
+
+ 
+Han: Mr. Zhu, look, those flaws in the mold must be taken care of. 
+Zhu: I'll see to it. You can rely on me. 
+Han: If that model arrives in the same shape it came last time, my boss will absolutely 
+tear me apart. 
+Zhu: Don't worry. Have I ever let you down before 
+Han: No, you haven't, but we gotta be absolutely sure this time. 
+
+ 
+
+ 
+상황 220 제품결함 
+
+ 
+한진수가 리앙 주 에게 제품결함 확인을 요구하고 있다. 
+
+ 
+
+한진수: 저, 주 선생님, 금형에 있었던 그 흠집들은 반드시 해결하셔야 합니다. 
+주량: 제가 그 점은 신경을 쓰겠습니다. 저만 믿으세요. 
+한진수: 지난번과 똑같은 상태로 그 모델이 도착한다면, 저는 사장님께 혼납니다. 
+주량: 염려마세요. 제가 언제 실망시켜 드린 적이 있습니까 
+한진수: 예, 그런 적은 없지만 이번엔 정말 틀림없어야 합니다. 
+
+ 
+<어구해설> 
+let down 은 글자그대로 풀이하자면 어떤 대상을 “낮추다” 라는 의미가 포함되어 있지만 
+어떠한 상태에 대해 “낙심시키다, 실망시키다” 라는 의미로서 사용된다. 
+
+
+
+
+
+Situation 219 Authority 
+
+ 
+Ahn Jung-han and Baker Brown is talking about the authority.  
+
+ 
+Brown: Mr. Ahn you've got a good product. One of the best, but the price has got to 
+come down. 
+
+ 
+Ahn: Mr. Brown, for the quality you're getting, it's steal. 
+
+ 
+Brown: Yeah, but people just don't appreciate quality anymore. If they see something 
+that looks the same and it's cheaper, they'll buy it. 
+
+ 
+Ahn: But we don't want to sacrifice quality for quantity. 
+
+ 
+Brown:　You've got to if you want be competitive these days. Give us a 20% discount 
+on all models and you've got a deal. 
+
+ 
+Ahn: I'd like to, but I'm not authorized to do that. 
+
+ 
+상황 219 권 한 
+
+ 
+안정한과 베이커 브라운이 권한에 대해서 이야기 하고 있다. 
+
+ 
+브라운:　안 선생님, 귀사의 제품은 참 좋습니다. 최고품입니다. 하지만 가격은 좀 인하되어야 하겠습니다.
+안정한: 브라운씨, 품질을 놓고 볼 때 값은 매우 싼 것입니다.
+브라운: 예, 그런데 사람들이 이젠 질에 대해서 따지질 않는다구요. 모양은 같은데 가격이 싸면 사람들은 싼 것을 사거든요.
+안정한: 하지만 저희는 더 많이 팔 수 있다 해도 그것을 위해 질을 희생시키고 싶진 않습니다.
+브라운: 요즘엔 경쟁력을 갖추려면 그렇게 하셔야만 해요. 모든 모델에 대해 20%를 할인해 주시면 계약을 하죠.
+안정한: 그렇게 해드렸으면 좋겠지만 제겐 그렇게 해드릴 권한이 없습니다. 
+
+ 
+<어구해설> 
+어떠한 “권한을 갖고 있다” 는 표현은 일반적으로 have a authority over 라고 하지만 여기서는 수동형으로 be authorized 라to 로사용하고 있다.  
+
+ 
+
+
+
+
+Situation 218 Competitiveness  
+
+ 
+Kim Dong-man and Frederick Lewis is talking about the competitiveness. 
+
+Lewis: Mr. Kim, I think your new model has great potential. There is only one thing that bothers me. 
+Kim: What's that 
+Lewis: The price. It's not competitive. 
+Kim: Well, there's always room for negotiation on that count. But at the same time, there are limitations. 
+Lewis: Undoubtedly, but what I'm offering is within reason. $35.00 per unit for a minimum order of a thousand units. 
+Kim: Okay. When I get back, I'll recommend your offer be accepted. 
+
+ 
+상 황 218 경 쟁 력  
+
+ 
+김동만 과장이 미국 바이어인 프레데릭 루이스와 경쟁력에 대해서 이야기 하고 있다. 
+
+루이스: 김 선생님, 귀사의 새 모델이 장차 상당히 가능성이 있는 것으로 생각됩니다만, 한가지 마음에 걸리는 점이 있습니다. 
+김동만: 그게 뭐지요 
+루이스: 가격입니다. 경쟁력이 없거든요. 
+김동만: 가격에 대한 협상의 여지는 언제나 있습니다. 하지만 그와 동시에 한계도 있죠. 
+루이스: 당연하지요. 하지만 제가 제의하고자 하는 것은 무리한게 아닙니다. 주문수량은 최소한 1천개 이상이고 단가는 개당 35불이에요. 
+김동만: 좋습니다. 제가 돌아가면, 귀사의 제의가 수락되도록 권유 드리겠습니다. 
+
+ 
+<어구 해설> 
+가격에 경쟁력이 있다는 의미로 competitive 라는 형용사가 사용된다. 구체적인 상품의 경우에는 “cheap나 expensive”가 
+사용되지만 price 인 경우에는 high 나 low등의 형용사로 나타낸다.  
+
+ 
+
+
+
+
+Situation 217 New Model 
+
+ 
+Mr. Kang Jin-il introduces a new AV model to Mr Brown. 
+. 
+Kang: Mr. Brown, you really ought to see our new model A-21. 
+It comes in a set of four components. 
+Brown: What does a set comprise 
+Kang: Well, there's a player with a two speaker stereo sound system and an 
+all-purpose adapter. 
+Brown:I see. And how much are you asking per unit 
+Kang: The unbelievably low price of $50. 
+Brown: Well, I'll admit that's hard to beat. Okay, let's have a look at it. 
+
+ 
+상황 217 신모델 
+
+ 
+강진일이 브라운에게 신모델을 소개하고 있다. 
+
+ 
+강진일:　브라운 씨, 저희 새 모델 A-21을 꼭 한번 보십시오. 4개의 컴포넌트가 한 세트로 
+판매됩니다. 
+브라운: 한 세트는 무엇 무엇으로 구성됩니까 
+강진일: 저, 두 개의 스피커가 딸린 스테레오 사운드 플레이어가 포함되고 다목적 어댑터도 있지요. 
+브라운: 알겠습니다. 그러면 한 대당 가격은 얼마입니까 
+강진일: 믿어지지 않을 정도로 싼 가격인 대당 50불입니다.
+브라운: 그 가격이면 어디보다도 싸겠군요. 자, 어디 좀 볼까요 
+
+ 
+<어구해설> 
+이번 상황에서는 동사 2개를 주목해보도록 하자. 
+우선 맨 처음 대화에서 comes 는 여기서는 sell 의 의미로 사용되고 있으며 맨 마지막의 
+beat 동사는 discount라는 의미로 사용되었다. 
+
+ 
+
+
+
+
+Situation 216 Discount 
+
+ 
+Tina Hart asks Kim Jin-seok to discount the price. 
+
+Hart : Mr. Kim, what discount can you offer for orders over $10,000 
+Kim : We're prepared to offer a special discount of 5%. 
+Hart : Well, we can get a quality cloth elsewhere with a 10 ~15% discount. 
+Kim : Well, the quality may be good, but I bet it can't compare with ours. 
+Hart : If you're willing to make it 10%, we're willing to place an order for over 
+$20,000 net. 
+Kim : You've got a deal.
+ 
+
+
+상 황 216 할 인 
+
+ 티나 하트가 김진석에게 가격할인을 요구하고 있다. 
+
+하트: 김 선생님, 1만불 이상의 주문에 대해서 어느 정도 할인해 주실 수 있습니까 
+김진석 : 특별히, 5%까지는 할인해 드릴 용의가 있습니다. 
+하트: 다른 곳에서는 고급인 천도 10~15% 씩 할인하여 살 수 있습니다. 
+김진석 : 글쎄, 질이 좋을 수도 있겠지만 저희들 것과는 비교가 안되리라고 확신합니다. 
+하트: 10% 를 할인해 주신다면, 저희는 기꺼이 2만불 이상의 주문을 하겠습니다. 
+김진석: 그렇게 계약합시다. 
+
+ 
+<어구해설> 
+여기서 사용된 “discount” 는 일반적인 “할인, 감가” 라는 의미로 사용되었지만 무역용어로 
+보자면 어음과 관련된 “할인율이나 할인대차”를 말하기도 한다. 참고로 어음할인율을 
+"discount rate" 라고 한다. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+Situation 215 D/A Transaction 
+
+ 
+Mike asks Jin Sang-ok to transact D/A. 
+
+ 
+Mike : Is a D / A transaction possible with your firm 
+
+ 
+Jin : Well, that depends. Our company has a strict policy regarding D / A transaction. 
+
+ 
+Mike : What are your terms 
+
+ 
+Jin : The firm must have had more than a five-year favorable transaction period with 
+us. Your firm has only been doing business with us for two years. 
+
+ 
+Mike : In that case, I guess it's out of the question. 
+
+ 
+Jin : Yes, I guess you're right. 
+
+ 
+상 황 215 인수 인도 조건
+
+마이크와 진상옥이 인수 인도조건에 대해서 물어보고 있다. 
+
+ 
+마이크: 귀사와 D/A 거래가 가능합니까 
+진상옥 : 저, 경우에 따라 다르지요. 저희 회사는 D/A 거래에 관해서는 좀 까다롭습니다. 
+마이크: 조건이 어떤 것들인데요 
+진상옥 : 저희와 D / A 거래를 할 수 있는 회사는 과거 저희와 5년 이상의 양호한 거 
+래를 해온 회사여야 합니다. 귀사는 저희 회사와 거래한 지 2년밖에 되지 않았습니다. 
+마이크: A:: 그렇다면 전혀 불가능하겠군요. 
+진상옥 : 예, 그런 것 같습니다. 
+
+ 
+<어구 해설> 
+
+ 
+Document against Acceptance : D/A (인수인도 조건) 
+
+ 
+수출상이 상품을 선적한 후, 관련서류가 첨부된 연불환어음(Documentary usance bill)을 수입상을 지급인(Drawee)으로 발행하여, 자신의 거래은행이 추심을 의뢰하면, 수출상의 거래은행은 그러한 서류가 첨부된 환어음을 수입상의 거래은행으로 보내어 추심을 의뢰하고, 수입상의 거래은행은 그 환어음의 지급인인 수입상으로부터 어음의 인수를 받으며, 서류를 인도하고, 어음의 만기일에 대금을 지급받아 추심을 의뢰하며 온 은행으로 송금하여 결제하는 방법. 
+
+
+
+
+Situation 214 Outsourcing 
+
+ 
+Joseph Muhamad negotiates with Kim Sang-hyun for outsourcing.  
+
+Muhamad:　Mr. Kim, are you sure about putting out this item 
+Kim : Leave it to me. 
+Muhamad: How about the microchips How are you going to work that 
+out 
+Kim: We've already arranged to have them produced by Hanyang Electronics. 
+Muhamad:Hanyang Electronics Who are they 
+Kim : It's one of our subsidiary companies. 
+
+ 
+
+ 
+상 황 214 외주 의뢰 작업 
+
+ 
+조셉 무하마드가 김상현과 외주의뢰건에 대해서 협상하고 있다. 
+
+무하마드: 김 선생님, 이 제품을 정말 생산할 수 있나요 
+김 상현: 제게 맡기세요. 
+무하마드: 마이크로칩은 어떻게 하구요 어떻게 해결하실 건가요 
+김상현 : 이미 한양전자에게 생산하도록 의뢰해 놓았습니다. 
+무하마드: 한양전자요 어떤 회사죠 
+김상현: 우리 자회사 중의 하나입니다 
+
+ 
+<어구해설> 
+
+ 일반적으로 자회사라고 하면 affiliated company 라고 주로 사용한다. 
+여기서 사용된 subsidiary company는 모회사에 의하여 지탱되는 회사를 의미한다. 
+
+
+
+
+
+
+
+
+Situation 213 Secretary 
+
+ 
+Boss praises his secretary, Jane for her readiness. 
+
+Boss: Jane, I can't find the legal papers we were working on yesterday. 
+Jane: I've already put them onto a floppy disc. Get this, I've cross-referenced all 
+the pertinent points with every legal precedent. 
+Boss: You really are my right hand! What would I do without you! 
+Jane: For starters, you'd lose a lot of cases. 
+
+ 
+상 황 213 비서 
+
+ 
+사장이 비서인 제인의 준비성을 칭찬한다. 
+
+사장: 제인 우리가 어제 작성한 법률관련 서류를 찾을 수 없군요. 
+제인: 벌써 컴퓨터 디스켓에 입력시켰어요. 그리고 판례들과 비교해서 관련된 사항들을 모 
+두 참조시켜 놓았습니다. 
+사장: 자네는 정말로 내 오른팔과 같은 사람입니다. 당신이 없었으면 어떻게 되었겠어요! 
+제인: 무엇보다도 먼저 변호를 맡은 소송에서 패소를 하시겠죠. 
+
+ 
+<어구해설> 
+대부분의 사람들은 오른손잡이로 제 기능을 발휘하지 못한다면 크나큰 불편을 겪을 것은 분 
+명한 사실. 그만큼 오른손은 중요한 역할을 담당하고 있으며 일상생활에서 없어서는 안될 
+필요불가결한 부분이다. 여기서 right hand는 “몹시 중요하고 필요한 사람”을 의미한다 
+
+Situation 212 Mistake 
+
+ 
+Kim Seok-han and Na Jung-ho is taliking about their mistakes. 
+
+ 
+Kim: I think I made a big mistake. 
+Na: Me too. Why did you tell the boss you would quit unless you got a raise 
+Kim: I thought I could force him to give me more money. 
+Na: Well, he called your bluff. 
+
+ 
+상 황 212 실 수 
+
+ 
+김 석한과 나 정호가 그들의 실수에 대해서 이야기 하고 있다. 
+
+김석한: 아무래도 큰 실수를 한 것 같아요. 
+나정호: 나도 그래요. 당신도 사장에게 월급을 올려주지 않으면 사직하겠다고 했나요 
+김석한: 사장이 월급을 더 올려주지 않을 수 없게 만들 수 있다고 생각한거지. 
+나정호: 하지만 사장이 당신의 허세를 벗겨버리고 만 거군요. 
+
+ 
+<어구해설> 
+bluffing 은 카드놀이에서 유래한 표현으로 나쁜 패를 들고도 다른 사람에게 좋은 패를 가진 것처럼 보이기 위해 허세를 부리는 것을 뜻한다. call a bluff 란 그 같은 허세에 전혀 동요되지 않는 것을 의미한다.
+
+
+Situation 231 Payment 
+
+Lee Han-soo is asking Charles Schneider to change the method of payment. 
+
+ 
+Charles : Well, Mr. Lee have you been able to check into the altering your policy 
+on payment methods 
+Lee: I have, Mr. Charles. I can offer to change the method of payment, if you 
+increase the size of your order 
+Charles : How big an order do you expect 
+Lee : We feel that if you order a minimum of 300 climbers, we will allow you to 
+make payment on delivery. 
+
+ 
+상황 231 금액 지불 
+
+ 
+이한수가 찰스 슈나이더에게 지불방법을 바꾸라고 요구하고 있다. 
+
+ 찰스 : 이 선생님. 지불방법에 대한 방침의 변경을 검토해 보셨습니까 
+이한수: 예, 찰스씨. 주문량을 증가시키면 지불방법의 변경을 제안할 수 있습니다. 
+찰스: 어느 정도의 주문을 원하십니까 
+이한수: 최소한 300대 이상을 주문하시면 배달에 따른 지불을 허용할 수 있습니다. 
+
+ 
+<어구해설 > 
+좀 더 유리한 제안을 요청할 때 당신의 의견에 동의하지 하지 않는 경우 그 생각을 바꾸 
+고자 설득할 수 있다. 지난 강의에서 설명한 것처럼 여기서도 현재완료형 have를 사용하여 
+결과의 상황을 질문하는 문형을 제시하고 있다. 
+
+
+ 
+
+
+
+
+Situation 230Document 
+
+ 
+Kane is advising So Jin-ah to prepare documents for meeting. 
+
+ 
+So: This is So Jin-ah speaking. 
+Kane: Ms. So. I think it would be helpful to have something in writing before we 
+schedule a meeting. 
+So: Well, I could prepare a short memorandum giving all the details. 
+Kane: That would be helpful. 
+
+ 
+상 황 230 문 서 
+
+케인이 소진아에게 회의에 필요한 문서준비를 하라고 지시한다. 
+
+ 
+소진아: 소진아입니다 
+케인: 소비서. 회의 일정을 잡기 전에 서류상으로 좀 준비하는 게 도움이 되겠는데요. 
+소진아: 글쎄요, 내용을 상세히 적어 놓은 메모를 준비할 수는 있겠습니다. 
+케인: 그게 도움이 되겠군요. 
+
+ 
+<어구 해설> 
+「내가 너라면 ∼할 텐테」라고 완곡하게 조언하는 표현으로 If I were you, I would ~의 
+가정법 과거구문을 이용할 수 있다. 이외에도 가정법 동사를 이용한 완곡한 권고의 표현으 
+로는 It might be a good idea to ∼. (∼하는 것이 좋은 생각일지도 모릅니다.) / It would 
+be nice to ∼ (∼하는 것이 좋을 겁니다.) / I think it would be helpful to ∼. (제 생각에 
+는 ∼하는 것이 도움이 될 것 같군요.) 등이 있다. 
+
+ 
+
+ 
+
+
+
+
+
+Situation 229 Inventory 
+
+ 
+Alice Michelle wants to know there is another copying machine. 
+
+ 
+Alice: Have you got any copying machine in a stock 
+Sohn: I'll call the warehouse to see if there are any on hand 
+
+Sohn: I’m sorry that product is out of stock at the moment 
+Alice: When will you be able to deliver 
+Sohn: It should reach you around the middle of the month. 
+
+ 
+상황 229 재 고 
+
+ 
+앨리스 미셀은 또 다른 복사기가 준비되어 있는지 알고 싶어한다 
+
+앨리스: 복사기 재고가 있습니까 
+손기준: 창고에 문의해 보겠습니다. 
+
+손기준: 죄송합니다만 지금 재고가 떨어졌습니다. 
+앨리스: 그럼 언제쯤 발송할 수 있을까요 
+손기준: 예 중순경에는 도착할 것입니다 
+
+ 
+<어구해설> 
+여기서 see 동사의 의미는 “보다” 라기 보다는 ‘살펴보다, 확인하다’ 라는 뜻이다 . see 
+that 의 구문을 써서 다르게 표현도 가능하다. 
+비인칭 주어 it 을 사용하여 물주구문의 형태를 취하고 있는 문장이다. 영어에서는 형식상의 
+가주어를 설정하고 사람을 목적보어 형태로 하여 해석상으로는 사람이 주체가 되는 것이다. 
+
+ 
+
+
+
+
+
+Situation 228 Estimate 
+
+ 
+Frazer is talking to Mr. Kim Cheol who is a manager of JAL Co., Ltd. 
+
+Frazer: Did you have a chance to look into the estimate 
+Kim: Yes, I have. 
+Frazer: What do you think 
+Kim: I think it's a bit high. 
+Frazer: You'll have to consider the market price of the raw material these days. 
+Kim: Could you knock down the price 
+Frazer: I'm afraid that is the bottom line. 
+
+ 
+상황 228 : 견적서 
+
+
+프레이저가 JAL 주식회사의 과장인 김철과 이야기하고 있다. 
+
+ 
+프레이저: 견적서를 보셨습니까 
+김철: 네, 보았습니다. 
+프레이저: 어떻게 생각하십니까 
+김철: 조금 높다고 생각합니다. 
+프레이저: 요즘 원자재 시장 가격을 감안해야 됩니다. 
+김철: 값을 조금 깎아 주실 수 있습니까 
+프레이저: 죄송합니다만, 그 가격이 최하가격입니다. 
+
+ 
+<어구해설>
+ 
+"knock down" 이란 단어는 원래 "때려눕히거나 타도한다" 는 의미를 가리키지만 여기서는 
+"가격이나 수량 등의 할인"을 표현하는 말이다. 예를 들어 knock down price는 (경매에서 
+의) 최저가격을 나타낸다. 
+
+ 
+
+
+
+Situation 227 Security 
+
+ 
+Lee Hak-sung visits Global INC to meet Oh Su-jin. 
+
+ 
+Raymond: May I help you 
+Lee: Yes. I came to meet Mr. Oh Su-jin, the assistant manager, but the door is 
+locked. 
+Raymond: I see. For security reasons, people have to swipe their IDs through the 
+security machine to open the door. 
+Lee: This is urgent project. Would you help me 
+Raymond: I am glad to help you. 
+
+ 
+상황 227 보안 
+
+이학성이 오수진 대리를 만나기 위해서 글로벌 주식회사를 방문하고 있다. 
+
+레이몬드: 무엇을 도와 드릴까요 
+이학성: 예, 오 수진 대리를 만나러 왔는데요. 문이 잠겨있군요. 
+레이몬드: 아 그렇습니까 보안상의 문제로 신분증을 보안 기계에 넣어야만 문이 열립니다. 
+이학성: 기꺼이 도와 드리지요. 
+
+ 
+<어구해설> 
+대부분의 기업이나 직장에서는 보안상의 이유를 들어 외부 출입자에 대한 규제를 하고 있으 
+며 직원의 경우에는 신분보안 카드를 확인하여 출입을 허용하고 있다. 일반적으로는 목에 
+자신의 신분 카드를 거는 형식을 취하지만 더 중요한 보안이 요구되는 경우에는 이러한 방 
+법을 사용한다. 
+
+
+
+
+
+
+ 
+Situation 226 Sales Volume 
+
+Jang Jin-il calls Susan of FE in US about the sales volume. 
+
+ 
+Jang: Susan, how's the sales volume these days 
+Susan: Well, it's pretty much the same as we've had before. 
+Jang: No better, no worse, you mean 
+Susan:　Yeah, that's about it. The market's been pretty steady. 
+Jang: Do you expect any upturn in the near future 
+Susan: Not this year, as far as I can see 
+
+ 
+상황 226 매상고 
+
+ 
+장진일이 FE 미국지사의 수전에게 매상고에 대해서 이야기하고 있다. 
+
+ 
+장진일: 요즘의 매상고는 어떻습니까 
+수전: 글쎄요, 뭐 전이나 대동소이합니다. 
+장전일: 더 낫지도 않고, 더 못하지도 않다는 뜻이군요. 
+수전: 예, 대략 그런 뜻이죠. 시장이 상당히 안정된 상태를 유지하고 있습니다. 
+장전일: 가까운 시일 내에 가격상승이 있을 것 같지 않습니까 
+수전: 제가 아는 한 금년엔 없을 겁니다. 
+
+ 
+<어구 해설> 
+전화상의 통화에서는 시간이 긴박한 경우이므로 비교적 간단한 단어를 사용하여 표현한다. 
+No better, no worse 같은 경우에도 최소한의 단어를 사용하여 표현 한 경우라고 할수 있 
+다.  
+
+ 
+
+
+Situation 225 Advertising 
+
+ 
+Anderson is looking for the model of advertising the company. 
+
+ 
+Anderson: Mr. Kim, I'm sold on that model. It's just what we had in mind. 
+Kim: Good. I hope we can close a deal on it before the day's out. 
+Anderson: Let me firm it up with home office first before I put my name on any contract, okay 
+Kim: Okay, but do you think there'll be any hitch 
+Anderson: No, it's just routine procedure. Boss's orders, you know. 
+Kim: Yeah, I guess I know. Sure, go ahead. 
+
+ 
+상 황 225 광 고 
+
+ 
+앤더슨이 회사광고를 위한 모델을 찾고 있다. 
+
+ 
+앤더슨: 김 선생님, 저는 그 모델이 마음에 꼭 듭니다. 바로 저희가 염두해두고 있던 것이 
+지요. 
+김형호: 잘됐군요. 시기가 지나기 전에 그것에 대한 거래를 체결했으면 좋겠는데요. 
+앤더슨: 우선 본사와 상의하여 확정을 한 다음 어떤 계약서든 제가 서명을 하도록 하겠습니 
+다. 괜찮겠지요 
+김형호: 좋습니다. 그런데 문제가 될 만한 게 있나요 
+앤더슨: 아닙니다, 단지 관례적인 절차예요. 아시다시피 상사들의 명령이죠. 
+김형호: 예, 알 것 같습니다. 그렇게 하세요. 
+
+ 
+<어구해설> 
+I'm sold on that model 이란 직역하면 이상한 의미가 될 것이다. 이 표현은 구어로서 
+“-에 열중하다, - 가치를 인정하다” 라는 뜻이다. 
+
+
+
+
+
+Situation 224 Delayed Order
+
+ 
+Greg asks Kim Han-young about the delayed order. 
+ 
+Greg: Mr. Kim, you know things have been moving awfully slowly with that order we placed on model A-27. 
+Kim: Really 
+Greg: Well, we placed that order months ago and we still haven't received even a single shipment. 
+Kim: Things got tied up due to a strike. 
+Greg: Well, that's not helping us any. You know we've got a shipping schedule that we've got to meet, too. 
+Kim: Sorry to put you to so much trouble. But don't worry, I'll get something worked out.
+ 
+
+상황 224 늦어지는 주문
+
+ 
+그렉이 김한영에게 늦어지는 주문에 대해서 묻고 있다. 
+
+ 
+그렉: 김 선생님, 저희가 주문한 모델 A-27의 진행이 매우 늦고 있거든요. 
+김한영: 정말입니까 
+그렉: 저희가 몇 개월 전에 주문을 했는데, 아직까지 단 한차례의 선적품도 받지 못했습니다. 
+김한영: 파업 때문에 일이 좀 늦어 졌습니다. 
+그렉: 저, 그런 말씀은 전혀 도움이 되지 않습니다. 저희도 맞춰주어야 할 선적스케줄이 있으니 
+까요. 
+김한영: 곤란하게 해드려 죄송합니다. 하지만 걱정마세요. 제가 해결방법을 강구할 테니까요. 
+
+ <어구해설> 
+주문을 하다의 경우에는 order와 함께 place 동사를 사용한다.  
+tie up은 (파업이나 다른 이유로 인해) 교통이 마비되다는 의미로서 여기서는 일이 지체된다는 의미로 사용되었다  
+
+
+
+
+
+Situation 223 Out Of Stock 
+
+ 
+Marcos asks Kim Dae-seok about the shipment of model. 
+
+ 
+Marcos: Mr. Kim, we need that shipment of model-120 as soon as possible. How 
+soon can you get it off  
+Kim: If you can allow a slight delay, I think we can make it by December 1st. 
+Marcos: That's way too late. Why does it take so long 
+Kim: We are out of stock at the moment. 
+Marcos: Well, look, do you have anything similar in stock that's readily available 
+Kim: Yes, model-121. It's practically the same thing. 
+
+ 
+
+Situation 223 재고가 떨어짐 
+
+ 
+마르코스가 김대석에게 모델선적에 대해서 묻고 있다. 
+
+마르코스:　김 선생님, 제품모델-120은 가능한 한 빨리 선적해 주셔야겠습니다. 언제 출발 
+시킬 수 있겠습니까 
+김대석: 다소의 지연만 허용해 주신다면, 12월 1일까지는 선적이 가능하겠습니다. 
+마르코스: 그건 너무 늦은데요, 왜 그렇게 오래 걸리지요 
+김대석: 지금 재고가 없거든요. 
+마르코스: 저, 즉시 이용이 가능한 재고 중에 비슷한 성능의 제품이 없을까요 
+김대석: 예, 모델-121이 있어요. 실제로는 똑같은 것입니다. 
+
+ 
+<어구해설> 
+stock은 일반적으로 주식을 칭하는 말이지만 여기서 out of stock은 재고가 없다는 의미로 
+사용되었다. 
+
+
+
+
+
+
+Situation 222 MD Player 
+
+ 
+Yamada asks Kim Sang-ho to introduce new MD player. 
+
+ 
+Yamada: Mr. Kim, how would you compare your MD player to those of other 
+manufacturers 
+Kim: Well, compared with other product, ours is easier to operate. 
+Yamada: Well, in what ways, for example 
+Kim: To begin with, it's fully automated. All you do is press this remote control button 
+and it starts. 
+Yamada: Oh, yeah And how do you stop it 
+Kim: Just press the turn-off button and it goes off automatically.
+ 
+
+상황 222  MD Player 
+
+ 
+야마다와 김상호가 새로운 MD 플레이어 제품소개를 부탁하고 있다. 
+
+야마다: 김 선생님, 귀사의 MD 플레이어는 타사 제품과 비교했을 때 어떻습니까 
+김상호: 타사 제품과 비교하여 저희 제품은 작동시키기가 더 쉽습니다. 
+야마다: 예를 들어 어떤 면에서요 
+김상호: 완전 자동식입니다. 이 리모콘 버튼만 누르시면 MD가 켜집니다. 
+야마다: 그래요 그러면 전원을 끌 때는 어떻게 하지요 
+김상호: 전원 꺼짐 버튼을 누르면 자동적으로 꺼집니다. 
+
+ 
+<어구 해설> 
+“- 만 하면 된다는 표현으로는 All 주어 + be 동사를 사용한다. 이 표현은 if 동사로 바꾸 
+어 표현할 수도 있다. 
+
+
+Situation 241 Test 
+
+ Kang Min visits headhunting agency for interviewing. 
+
+ 
+Kate: The examination is all over and thank you for coming. 
+Kang: How soon will we know the results  
+Kate: We'll let you know as soon as we come to a decision. 
+Kang: Do you have any idea how many will be acceted 
+Kate: One for accounting staff and three for the sales department. 
+
+상황 241 입사 시험 
+
+ 
+강민이 인터뷰시험 때문에 헤드헌트 사무실을 방문한다. 
+
+ 
+케이트: 시험은 모두 끝났습니다. 와주셔서 감사합니다. 
+강민: 언제쯤 결과를 알게 됩니까 
+케이트: 결과가 나오는 대로 즉시 알려 드리겠습니다. 
+강민: 몇 명이나 뽑히게 될지 아십니까 
+케이트: 편집부원 한명과 판매부서 3명입니다. 
+
+ 
+<어구해설> 
+요즈음 각 기업에서는 한창 신업사원 채용을 위한 면접이 한창 일 것이다. 여기서는 합격여 
+부 통보에 대한 방법을 제시한다. 특히 서한으로 통보를 보내는 경우에는 “We will notify 
+you of the results as soon as--” 라고 표현해야 한다. 
+
+
+
+
+
+Situation 240 Auditor's Signature 
+
+ 
+Kim Yang-sun asks Han Jae-shik about the auditor's signature. 
+
+ 
+Kim: I'm afraid there is a discrepancy in these figures. 
+Han: Oh, is there 
+Kim: Yes there is more to it than that. 
+Han: Really 
+Kim: The auditor's signature is not the same as the last time. Would you look into this, 
+please 
+Han: Certainly. 
+
+ 
+상황 240 감사관의 서명 
+
+ 
+김양선이 한재식에게 감사관의 서명에 대해서 질문한다. 
+
+ 
+김양선: 이 숫자에 잘못이 있는 것 같은데요 
+한재식: 그렇습니까 
+김양선: 예 저 문서보다 더 잘못이 많군요. 
+한재식: 정말이요 
+김양선: 회계감사관의 서명이 지난번 것과는 틀리네요 한번 조사해 봐 주세요. 
+한재식: 알겠습니다 
+
+ 
+<어구해설> 
+“Would you look into-” 와 바꾸어 쓸 수 있는 표현으로는 Would you find out 이나 
+Please check it 이라고 간단하게 표현이 가능하다. 
+
+
+
+
+
+Situation 239 Leather Jacket 
+
+ 
+Park Hyun-soo is negotiating with Mark for the order of leather jacket. 
+
+ 
+Park: This is sample of the leather jacket I have in mind. I need 5,000 dozen. Can 
+you fill this order 
+Mark: Yes, we have no quota problem on this item. Do you need any approval 
+samples 
+Park: Oh, yes, I'll need six. Can you rush them to me by air mail in about two 
+weeks 
+Mark: No problem. What size and color did you have in mind 
+Park: Both boy's and men's, large, medium and small. 
+
+ 
+상황 239 가죽 자켓 
+
+ 
+박 현수가 마크와 가죽 자켓 주문협상을 벌이고 있다. 
+
+ 
+박현수: 이것이 제가 관심을 갖고 있는 가죽 자켓의 견본입니다. 5,000 다스가 필요한데 주 
+문에 응해 주실 수 있습니까 
+마 크: 예, 이 품목은 쿼터 문제도 없습니다. 승인견본이 필요합니까 
+박현수: 아, 그럼요, 6장이 필요합니다. 약 2주 내에 항공우편으로 급히 보내주실 수 있습 
+니까 
+박현수: 물론입니다. 사이즈와 색상은 어떤 것으로 할까요 
+마 크: 소년용과 성인용으로 대, 중, 소 각각 1장씩 만들어 주십시오. 
+
+ 
+<어구해설> 
+fill 동사는 일반적으로 “채우다” 는 의미로 사용되지만 여기서는 주문에 대한 “약속이행” 
+여부를 묻는 말이 된다. 
+rush 동사는 “돌진하다, 서두르다” 라는 기본적 의미와 함께 여기서는 “send quickly” 로 
+사용되었다. 
+
+ 
+
+
+
+
+Situation 238 Interviewing 
+
+ Jang Ki-Hyun is interviewing with personnel manager of Enters Co., Ltd.
+
+Jang: What type of compensation package would I receive for the job 
+
+Personnel Manager: For your first year, you will make 20,000,000 won a year. You can expect a bonus at the end of the year if all goes well. 
+
+Jang: Would you be more specific, please 
+
+Personnel Manager: Yes, we have a stock option available to all employees that have been with the company for over two years. You can see all about our compensation and benefits package in this brochure. I am sure it will be of great help to understand the company policy. 
+
+
+상황 238 : 면접보기
+
+장기현이 엔터스의 인사부장과 인터뷰를 나누고 있다. 
+
+장기현: 제가 받을 수 있는 급여보수내역에 대해 말씀해 주시겠어요 
+
+인사부장: 입사 첫해는 연봉 2 천만원으로 시작합니다. 일이 잘되면 연말에 별도의 상여금이 지급될 겁니다. 
+
+장기현: 그밖에 더 다른 것은 없나요 
+
+인사부장: 네. 2년 이상 근무한 모든 직원들에게는 스톡옵션이 주어집니다. 이 책자를 보면 급여 및 수당에 대한 내용을 자세히 알 수 있을 겁니다. 회사의 정책을 이해하는 데 많은 도움이 될 거예요
+
+<어구해설>
+
+ 여기서의 type는 what - + 명사의 형태로서 하나의 주어구문으로 활용이 가능하다.
+기본문형을 익혀둔다면 여러 가지로 다양한 유형의 문장을 사용할 수 있다. 예를 들어 "무슨 스포츠를 좋아하십니까" 라고 묻는다면 "What kind of sports do you like best" 라고 표현하면 된다.
+
+
+
+
+
+Situation 237 Terms of Payment 
+
+Min Song-eun is negotiating with Mark Grace for a terms of payment. 
+
+Min: What kind of terms of payment do you usually use 
+Grace: Would you accept cash on delivery for the first transaction with us 
+Min: Please give us a little easier terms of payment rather than cash on delivery. 
+Grace: Sorry but we'd like it on a pay-as-you-go basis. We' re strapped for cash 
+right now. 
+
+상황 237 지불 조건 
+
+민송은이 그레이스에게 지불 조건에 대해서 협상을 벌이고 있다. 
+
+민송은: 귀사에서는 주로 어떤 지불조건을 사용하십니까 
+그레이스: 저희와의 첫 거래이니 만큼 물건인수와 동시에 현금을 지불하는 것을 조건으로 했 
+으면 합니다. 
+민송은: 현금 교환조건 대신 좀 여유 있는 지불조건을 제시해 주시기 바랍니다. 
+그레이스: 죄송합니다만 저희도 지금 자금사정이 나쁘기 때문에 현금판매를 원합니다. 
+
+<어구해설> 
+일반적으로 무역거래에서 사용하는 영어느 일정한 형식을 따라야 하며 용어도 이 분야에서 
+만 사용되는 단어를 선별해서 사용해야 한다. 다음과같은 단어는 외워두면 유용하게 사용 
+가능한 핵심 용어들이다. 
+
+Bill of exchange 환어음 / Clean Bill of Exchange 보통 환어음 
+documentary Against Payment / 지급인도방식 
+documentary bill 화환(貨換 )어음 / 
+CWO (cash with order) 주문불 / usance 지불유예기 
+
+
+
+
+
+Situation 236 Project 
+
+
+김만호가 프로젝트에 대해서 부장과 이야기를 하고 있다 
+
+Kim: I cannot finish the advertising design before Monday. 
+Manager: Why: Mr Kim 
+Kim: Well, I'm working on many other projects. 
+Manager:　Don't spread yourself too thin. 
+Kim :Should I only work on the project now 
+Manager: Yes. 
+Kim:　OK. I'll focus on the new car design. 
+Manager:　Good Plan. 
+
+
+상황 236 프로젝트 
+
+김만호가 프로젝트에대해서 부장과 이야기를 하고 있다 
+
+김만호: 월요일 전에는 광고 디자인을 결정 못할 것 같은데요. 
+부장: 왜죠 이 대리 
+김만호: 제가 다른 많은 프로젝트에도 관여하고 있거든요. 
+부장: 너무 이것저것 벌이지 말아요. 
+김만호: 지금은 한 프로젝트만 할까요 
+부장: 그게 좋겠군요 
+
+
+<어구해설> 
+spread oneself 는 '일을 벌이다'는 의미로서 여기서는 thin 과 결합하여 너무 많은 일을 
+벌이다' (to do too many things at once) 의 의미가 된다. 
+
+"Should I - -" 로 시작되는 의문문은 상대방에게 자신의 행동을 다시 한번 확인할 때 사용 
+하는 표현으로 “필연” 의 의미가 포함되어 있다. 
+
+
+
+
+
+
+
+ 
+Situation 235 Application 
+
+ 
+Han Sang-ho is making an inquiry about the application. 
+
+ 
+
+Han: I'd like some information on how to get into bank company. 
+Front Desk : Well, first, you write the bank you want to get into, and 
+get an application form. Then, send it in with a copy of your school records. 
+Han: And do I need to take any tests 
+Front Desk: Yes, you have to take the TOEFL test. 
+
+ 
+
+상황 235 입사지원 
+
+ 
+한 상호가 입사절차에 대해서 질문을 하고 있다. 
+
+ 
+한상호: 은행에 입사 하는 방법을 좀 알고 싶습니다. 
+프론트 데스크: 우선 입사하고자 하는 은행에 편지를 써서 입사 원서를 얻으세요. 
+그런 다음 학교 성적증명서 1부와 함께 그 원서를 보내십시오. 
+한 상호: 그리고는 어떤 시험을 치루어야 하나요 
+프론트 데스크: 네, TOEIC 시험을 봐야만 합니다. 
+
+ 
+<어구 해설> 
+규정이나 방법 등에 대한 정보를 얻기 위해서는 Would you tell me how to ~나 I'd like 
+some information on ~와 같은 표현을 사용하는 것이 보통이다. 
+Would you tell me how to use this computer (이 컴퓨터를 어떻게 사용하는지 말해 주 
+시겠습니까) 
+I'd like some information on this product. (이 상품에 대한 정보를 좀 얻고 싶습니다.) 
+
+
+
+
+
+Situation 234 Indicating Price 
+
+ 
+Kim Mi-ran proposes the plan for indicating price in ads. 
+
+Kim: Jake, I'm in favor of announcing the price on our ads. 
+Jake: Well, frankly I'm against it 
+Kim: We had decided to launch a direct-mail campaign once a year. 
+Jake: Well, I'm not so sure about that 
+
+상황 234 가격표시하기 
+
+김미란이 광고에 가격을 표시하는 안을 제안하고 있다, 
+
+미란: 제이크 저는 광고에서 가격을 표시하는 것에 찬성입니다. 
+제이크: 글쎄요, 솔직히 말해서 저는 반대입니다 
+김미란: 1년에 한번 직접 우편으로 보내서 켐페인을 하기로 결정했습니다. 
+제이크: 글쎄요, 저는 그것이 효과가 있을지 어떤지 확신이 없습니다. 
+
+<어구해설> 
+
+다른 사람의 의견에 찬성하는 경우에는 favor 를 사용하고 반대의 경우에는 against를 사용 
+한다. 기본적으로 be 동사와 결합되는 표현 중 실생활에 적용되고 있는 문장이 대부분이므 
+로 외워두면 유용하게 활용이 가능하다. 
+
+어떠한 일에 대해 확신을 할 수 없을 때에는 sure를 사용하여 자신의 의견을 전달한다 . 대 
+체표현으로 think나 guess 사용하여도 가능하다 
+
+
+
+
+
+Situation 233 Shipment 
+
+ 
+Shin Dong-min is asking Lee Han-soo about the last shipment. 
+
+ 
+Shin: What is that shipment coming 
+Lee: I don't know. Today's twenty-eighth. We placed our order on the sixth 
+Shin: Well, it must be lost. Ask for it to be reshipped, but have it sent the fastest, 
+surest way. 
+Lee: Yes. I got it. 
+
+ 
+
+상황 233 선 적 
+
+ 
+신동민이 나한수에게 지난 선적에 대해서 질문하고 있다. 
+
+ 
+신동민: 그 선적분은 언제 올까요 
+이한수: 잘 모르겠는데요. 오늘이 28일이지요. 6일날 주문을 했었는데요. 
+신동민: 선적분이 어디로 없어진 것이 분명해요. 다시 선적하되 가능한 한 빠르고 확실한 
+방법으로 보내도록 요청하세요 
+이한수: 알겠습니다. 
+
+ 
+<어구해설> 
+order는 순서나 서열을 나타내는 의미로도 사용되지만 비즈니스 영어에서 사용되는 의미는 
+대부분 선적에 대한 “주문” 이나 “주문품”을 나타낸다. 여기서는 place 라는 동사자체에도 
+주문을 하다라는 의미가 복합적으로 사용되었으며 어떠한 업체에 주문을 하는 경우에는 
+with 동사를 사용하여 다음과 같이 표현한다. 
+
+ 
+They placed an order with a company for the goods 
+
+ 
+
+
+
+
+
+Situation 232 Preparation 
+
+ 
+Mr. Ishihara asks Jo Woo-sung to help him. 
+
+Ishihara: Do you know what time the next meeting start 
+Jo: It'll starts at 1: 30 p.m 
+Ishihara: Do you have something to do now 
+Jo: Not really. 
+Ishihara: ①Would you prepare the material for the meeting 
+Jo: Sure. ②No problem. 
+
+ 
+상황 232 준 비 
+
+ 
+이시하라가 조우성에게 도움을 요청하고 있다. 
+
+ 
+이시하라: 다음 회의가 몇 시에 시작하는지 아십니까 
+조우성: 1시 반부터 시작합니다. 
+이시하라: 지금 할 일이 있습니까 
+조우성: 아니 별로 없습니다. 
+이시하라: 회의에서 사용할 자료를 준비해 주시겠습니까 
+조우성: 예 알겠습니다. 
+
+ 
+<어구해설> 
+업무에 관해 지시하는 표현은 상당히 다양하므로 자신이 상황에 맞는 키워드를 미리 정리 
+하여 그때마다 사용하도록 하자. 일반적인 표현으로는 "Could you give me a hand" "I 
+need you to ∼" 또는 "Could you please ∼" 정도가 사용된다고 하겠다. 
+
+
+Situation 251 Price-earning ratio 
+
+ 
+Park Ji-hoon asks James Han about the price-earning ratio. 
+ 
+Park: What's the price-earning ratio 
+Han: It's currently 8.5. 
+Park: Has share value been rising recently 
+Han: No it's been rather than stagnant. 
+
+ 
+상황 251 주가 수익률 
+
+ 
+박지훈이 제임스 한에게 주가 수익률에 대해서 묻고 있다. 
+
+ 
+박지훈: 주가 수익률은 어느 정도입니까 
+제임스: 현재 8.5 배입니다. 
+박지훈: 최근에 주가가 상승경향을 띄고 있습니까 
+제임스: 아니요, 약간 정체기미를 띄고 있습니다. 
+
+ 
+<어구 해설> 
+"stagnant" 는 일정한 활동없이 중간상태를 유지하는 상태이며 대체로 강세를 나타내는 경우 
+에는 "bull" 을 사용하며 약세의 경우에는 "bear" 로 표현한다. 
+
+ 
+
+ 
+
+
+
+
+
+Situation 250 Overseas Market 
+
+ 
+Park Jin-hyun consults with Kim Min about the overseas market. 
+
+ 
+Park: What's the percentage of overseas markets in proportion to domestic markets 
+for your products 
+Kim: The ratio is about 7 overseas to 3 domestic. 
+Park: I see. what is the total amount of your annual sales 
+Kim: For the fiscal year 2000, it was a little over three hundred billion won. 
+
+ 
+상황 250 해외 시장 
+
+ 
+박진현이 김민과 해외시장에 대해서 이야기를 나누고 있다. 
+
+ 
+박 진현: 귀사의 제품은 국내 시장에 비례해서 해외시장의 비율은 어떻습니까 
+김 민: 그 비율은 해외 시장 대비 국내시장이 약 7대 3입니다. 
+박 진현: 알겠습니다. 연간매상은 얼마입니까 
+김 민: 2000년 회계연도에는 3000억원이 넘었습니다. 
+
+ 
+<어구 해설> 
+단순한 매상이 아니라 “순이익이 얼마냐고 물어볼 때에는 What's the total profit of your 
+annual sales 가 된다. 해외매상은 foreign이 아니라 overseas로 표현하며 국내도 national 
+이 아니라 domestic으로 표현한다. 
+
+ 
+
+
+
+
+
+Situation 249 Resignment 
+
+ 
+Park Jin-man asks Kim Sang-hyun about Paul's quitting. 
+
+ 
+Park: Is he really quitting 
+Kim: Yes, he is. It seems he's been offered a better job by another firm. 
+Park: Is there anyone to replace him 
+Kim: Well, I just can't think of anyone offhand, but there should be somebody we'd like to promote. To take over for him 
+Park: Yes. Please let me think it over. 
+
+ 
+상황 249 사직 
+
+박진만이 김 상현에게 폴의 사직에 대해서 묻는다. 
+
+ 
+박진만 : 그는 정말 그만둘 건가요 
+김상현: 그래요. 그는 다른 회사에서 더 나은 직책을 권유받은 것 같아요. 
+박진만:그의 후임자가 있나요 
+김상현: 음 금방은 누군지 알 수 없지만 진급시켜도 좋을사람이 있을 거예요. 
+박진만: 그에게 인수 인계를 받을 사람 말입니까 
+김상현: 네 충분히 생각해 보겠습니다. 
+
+ 
+<어구해설> 
+당장 회담을 피할 경우에는 위의 표현 말고도 Let me sleep on it 이라는 표현을 자주 쓴 
+다. “충분히 생각해 보겠습니다” 라는 말에는 I'll mull it over 도 있다. 
+
+
+
+
+
+Situation 248 Advance 
+
+ 
+Jang Ki-seok asks Sohn dong-ho about the advance. 
+
+ 
+Jang: I'm afraid this bank won't advance the money. What shall we do 
+Sohn: Well, what I suggest is this. We should try a joint venture in order to raise the cash. 
+Jang: I see. Do you have any particular company in mind 
+Sohn: Yes, How about John & Smith. 
+
+ 
+상황 248 대출금 
+
+ 
+장기석이 손 동호에게 대출금에 대해서 문의한다. 
+
+ 
+장기석: 이번 은행에서 자금 대부를 해주지 않을 것 같습니다. 어떻게 하면 좋을 까요 
+손동호: 이러면 어떨까요 현금조달을 위해서 합자회사의 설립을 시도하는 것 말입니다. 
+장기석: 알겠어요. 당신 의중에 어떤 특별한 회사가 있나요 
+손동호: 네, 존 앤 스미스 회사가 어때요 
+
+ 
+<어구해설> 
+어떤 의견을 제안할 때 “--는 어떨까요 제 생각은 이렇습니다” 는 본론을 꺼내기 위한 
+표현이다. May I suggest -나 I'd like to suggest that 으로 대체사용이 가능하며 친근한 
+사이일 경우에는 I'll tell you what 이라고 할 수도 있다. 
+
+
+
+
+
+Situation 247 Report 
+
+ 
+Choi Min-sik is talking to his manager about the report. 
+
+ 
+Choi: The report you wanted by the end of work today will take me another day or two. 
+Manager: That would be fine. Don't worry about it. 
+Choi: The shipment will be delayed. 
+Manager: Please do your best as you can. 
+
+ 
+ 
+상황 247 보고서 
+
+ 
+최민식이 부장에게 보고서에 대해서 이야기를 나누고 있다. 
+
+ 
+최민식: 오늘까지 끝마쳐야 할 보고서가 하루 또는 이틀 정도 시간이 걸릴 것 같습니다. 
+부장: 괜찮아요. 너무 걱정하지 말아요 
+최민식: 선적이 늦어질 것 같은데요 
+부장: 가능한 최대로 노력해보세요 
+
+ 
+<어구해설> 
+take는 어떠한 일을 처리하는데 소요되는 시간을 나타내는 말이다. 여기서는 문장 끝에 to 
+finish the work 가 생략되었다. 
+
+
+
+
+
+Situation 246 Black 
+
+ 
+Kim Han-jun asks Ha Man-su about the operation condition. 
+
+ 
+Kim: How's the Busan operation doing 
+Ha: They're little in black this half. 
+Kim: Things are picking up then. 
+Ha: It looks that way. 
+Kim: It's about time. 
+
+ 
+상황 246 흑 자 
+
+김 한준이 하만수에게 운영상태에 대해서 문의한다. 
+
+김한준: 상황 부산의 사업은 어떻게 되어가고 있습니까 
+하만수: 금년 상 하반기에 약간 흑자를 보고 있습니다. 
+김한준: 그러면 상황이 좋아지고 있군요. 
+하만수: 그런 것 같습니다. 
+김한준: 이제 잘될 때도 되었지요. 
+
+ 
+<어구해설> 
+수지에 대한 설명은 기본적으로 이익이나 손해 또는 균형을 이룬 것인지 세 가지의 경우가 
+있다. 영어로는 흑자(black), 적자(red), 균형 (break even) 이라고 하는 말을 쓴다. 그리 
+고 거기에 a little 과 way 라고 하는 수식어를 첨가하면 수지의 폭을 나타내게 된다. 
+
+
+
+
+Situation 245  Advice 2 
+
+ 
+Michael asks Jang Jae-min to advice consulting. 
+
+ 
+Michael: Whenever we get into a new market, we always start by consulting the official organizations. 
+Jang: What do you mean by official 
+Michael: Governmental, semi-governmental, and industrial associations for the most part. 
+Jang: I see. Let's start with the Chamber of Commerce and Industry. 
+
+ 
+상황 245 조 언 2 
+
+ 
+마이클이 장재민에게 컨설팅 조언을 요청한다. 
+
+ 
+마이클: 새로운 시장에 뛰어 들 때에는 우리는 반드시 공식 기관에 조언을 구하고 시작합니다. 
+장재민: 공식이란 무슨 뜻입니까 
+마이클: 정부 또는 그에 준하는 기관 단체 등을 말합니다. 
+장재민: 알겠습니다. 그럼 상공 회의소부터 시작하도록 하죠. 
+
+ 
+<어구해설> 
+어떠한 일의 시작을 제안하는 경우에 자주 사용되는 표현으로 구어에서는 Why don't you 
+-- 라고 더 많이 사용한다. chamber란 "침실”이나 "방”을 나타내는 단어이지만 여기서는 
+회의장이나 회관을 의미한다. 
+
+ 
+
+
+
+
+
+Situation 244 Lease Period 
+
+ 
+Ahn Dong-su negotiates with Yamada for the lease period. 
+
+Ahn: How long is the lease 
+Yamada: Five years. 
+Ahn: Would it be possible to rent it on a shorter lease 
+Yamada: I think it would. But let me have a word with my manager first. May I use 
+the phone 
+Ahn: Sure, Go ahead. And will you ask if the rent is still negotiable or not. 
+
+ 
+상황 244 임대 차용기간 
+
+ 
+안동수가 야마다와 차용기간에 대해서 협상하고 있다. 
+
+ 
+안동수: 차용기간은 얼마동안입니까 
+야마다: 5년입니다. 
+안동수: 좀 더 단기로 그것을 빌릴 수 있을까요 
+야마다: 가능하리라고 생각합니다. 그러나 우선 부장님께 여쭈어 보겠습니다. 
+안동수: 예 그렇게 하세요. 그리고 그 임대료는 아직도 협상의 여지가 있는지도 문의해 주 
+십시오 
+
+ 
+<어구해설> 
+어떤 일의 결정에 앞서 결정을 미루는 경우에는 "--to have a word with " 라는 표현을 
+사용한다. 허락을 받는 경우에는 Let me ask for permission first 라고 말한다. 
+
+ 
+
+
+
+
+Situation 243 Decision 
+
+ 
+Han Kyung-jin asks Adrian about the decision. 
+ 
+Adrian: I'm afraid the decision does not rest with me. 
+Han: I see. Who am I supposed to contact for getting a final decision on this 
+matter 
+Adrian: Theoretically, Mr. Anderson, chairman of the board, but practically it seems 
+that president Jang has the last say. 
+Han: Could you arrange a meeting with him 
+Adrian: Yes, of course. 
+
+ 
+상황 243 결 정 
+
+ 
+한경진이 에이드리언에게 결정사항에 대해서 문의한다. 
+
+에이드리언: 안됐습니다만 그 결정은 제게 달려 있지 않습니다. 
+한경진: 알겠습니다. 그러면 최종 결정을 얻기 위해 누구를 만나면 좋을까요 
+에이드리언: 이론적으로는 앤더슨 씨입니다마는 실질적으로는 장 회장님께서 최종결정을 하 
+시는 것 같습니다. 
+한경진: 그 분을 만날 수 있도록 주선해 주시겠습니까 
+에이드리언: 네 그러지요. 
+
+ 
+<어구해설> 
+“누가 최종 결정을 내립니까” 라고 물을 때에는 위에 사용된 질문이외에도 “Who do I 
+meet for getting a final decision”, “Who do I meet to inquire about this” 라고 해도 
+좋다. 
+
+ 
+
+
+
+
+
+
+Situation 242 Organization 
+
+ 
+James Ishihara visits FA company in order to check the organization. 
+ 
+Ishihara: How is your company's sales force organized 
+Park: Our sales force is organized on a regional basis with regional managers 
+reporting directly to the director of sales and marketing. 
+Ishihara: How does your company conducts sales 
+Park: We sell industrial products directly to the customer, and home appliances are 
+sold through our own chain stores. 
+
+ 
+상황 242 조직 구성 
+
+ 
+제임스 이시하라가 FA사의 조직구성을 확인하기 위해서 본사를 방문하였다. 
+
+ 
+이시하라: 귀사의 판매망은 어떻게 조직되어 있습니까 
+박인호: 당사의 판매조직은 지역별로 조직되어 있으며 지역 담당 책임자가 영업 부장 직할 
+로 되어 있습니다. 
+이시하라: 귀사는 어떠한 방법으로 판매를 하고 있습니까 
+박인호: 공업제품은 직접 고객에게 그리고 가전제품은 당사의 체인점을 통하여 판매하고 있 
+습니다. 
+
+ 
+<어구해설> 
+"sales force" 란 직역하면 영업력을 의미하지만 여기서는 회사 내의 제품 판매조직을 가리키 
+는 말이다. conduct 는 동사는 다른 명사와 결합되어 “--한 행위를 수행하다” 라는 의미 
+로 자주 사용된다.
+
+
+Situation 261 Stock Issue 
+
+ 
+Han Ji-won asks Kim Sang-hyun about the stock issue. 
+
+ 
+Han: When did you your company go public 
+Kim: We went public in 2000. 
+Han: Is your company's stock listed abroad 
+Kim: It's listed on the New York Stock Exchange. 
+
+ 
+상황 261 주식 발행 
+
+ 
+한지원이 김 상현에게 주식발행에 대해서 묻는다. 
+
+ 
+한지원: 귀사는 언제 주식을 공개했습니까 
+김상현: 저희회사는 2000년도에 주식을 공개했습니다. 
+한지원: 귀사의 주식은 해외에 상장되어 있습니까 
+김상현: 예, 뉴욕 증권거래소에 상장되어 있습니다. 
+ 
+<어구해설> 
+첫 번째 문장은 When did your company first issued stock 이라고 표현해도 된다. 
+비상장주는 "unlisted stock" 이라고 하며 주식을 소유하지 않은 사기업의 경우에는 "We're 
+privately held" 라고 표현한다. 
+
+ 
+
+
+Situation 260 Asking a favor
+
+ 
+Min Sang-ho asks a favor of Kim Ji-sook. 
+
+Min: Will you do me a favor 
+Kim: Yes. I'll be happy to, if I can What is it 
+Min: I got a letter from the local tax office, and it says I must go and see the man in 
+charge. 
+Kim: O. K. I'll call and find out about it for you. 
+
+ 
+상황 260 Asking a favor
+
+ 
+민 상호가 김 지숙에 부탁을 요청하고 있다. 
+
+민상호: 저 부탁 하나 해도 될까요 
+김지숙: 그러세요. 제가 도움이 된다면 좋겠는데 무슨 일이세요 
+민상호: 지방 세무서로부터 편지를 받았는데 가서 담당자를 만나보라고 되어있더군요. 
+김지숙: 알겠어요. 제가 전화를 걸어서 알아보도록 하겠습니다. 
+
+ 
+<어구해설> 
+다른 사람이 대신 전화를 걸어 알아보는 경우에는 I'll 대신에 Let me -를 사용하여 Let 
+me call and find out about it for you. 라고 할 수 있다. 
+
+
+
+
+Situation 259 Approval 
+
+ 
+Han Seung-ho asks his boss to approve the contract. 
+
+ 
+Han: May I have your approval on this contract  
+Boss: How soon do you need it  
+Han: I'd appreciate having it by tomorrow. 
+Boss: I see. why don't you leave it in that box I'll see what I can do and call you 
+when it's ready. 
+
+ 
+상황 259 승 인 
+
+ 
+한 승호가 계약승인을 상사에게 요청하고 있다. 
+
+ 
+한승호: 이 계약 건에 대해서 승인을 얻고 싶습니다. 
+보스: 그게 언제 필요한거죠 
+한승호: 내일까지 해주시면 감사하겠습니다. 
+보스: 알겠어요. 그 상자에 놔두면 할 수 있는 대로 하도록 하지요. 그리고 끝나면 전화할께 
+요. 
+
+ 
+<어구 해설> 
+상사의 결재를 받을 때 쓰는 표현으로 I got his seal of approval on - 이라고 말하면 실제 결제도장을 얻었다는 뜻보다 승인에 대한 보장을 받았다는 뜻이다. 
+
+ 
+
+
+Situation 258 Inquiry 
+
+ 
+Kim Sang-hee asks DALI trading about the ad. 
+
+ 
+Ami: Hello. May I help you 
+Kim: Yes. I'm calling to make an inquiry about the ad in the paper. Is the position still open 
+Ami: Yes, it is. 
+Kim: Can you tell me a little more about it 
+Ami: Sure. The minimum requirements for the job are a good command of English and shorthand. 
+Kim: I see. That's exactly the type of job I've been looking for. 
+
+ 
+상 황 258 문 의 
+
+ 
+김 상희가 달리 무역에 구인광고를 문의하고 있다. 
+
+ 
+아미: 무엇을 도와드릴까요 
+김상희: 네 신문광고를 보고 문의하러 전화 드렸는데요. 그 자리는 아직 공석인가요 
+아미: 네 그렇습니다. 
+김상희: 거기에 대해서 좀 더 설명해 주시겠습니까 
+아미: 그러지요. 이 일에 대한 최소조건은 유창한 영어 실력과 속기입니다. 
+김상희: 알겠습니다. 바로 그 일이 바로 제가 찾던 일입니다. 
+
+ 
+<어구 해설> 
+"-에 응모하고 싶다" 고 표현할 때에는 I'd like to answer the ad in the paper. 라고 표 
+현할 수 있다. "to make an inquiry" 대신에는 "to ask more about"이라고 쓴다. 
+
+ 
+ 
+
+
+
+
+
+Situation 257 Main Production 
+
+ 
+Han: Besides musical instruments, what else do you produce 
+Kim: Well, we manufacture furniture, motorbikes, skies and other sporting goods. 
+Han: What are your main products among those 
+Kim: They used to be motorbikes, but now skies and other sporting goods are 
+replacing them. I would put skies at the top of the list. 
+
+ 
+상 황 257 주력상품 
+
+ 
+앤디 한이 김 정원에게 생산제품에 대해서 문의한다. 
+
+ 
+앤디: 악기 이외에 또 무엇을 생산하십니까 
+김정원: 가구, 오토바이, 스키 그리고 기타 운동용품을 제조합니다. 
+앤디: 그 중에서 주력 상품은 무엇입니까 
+김정원: 예전엔 오토바이였는데 지금은 스키와 다른 운동기구가 대신하고 있습니다. 
+저는 스키를 첫째로 꼽고 싶습니다. 
+
+ 
+<어구해설> 
+주력상품이라고 표현할 때에는 main 보다는 major product 라고 한다. 기계류의 경우에는 
+product보다 model 이 더 낫다. 주력상품에 비해 그렇지 않은 제품은 minor product 또 
+는 marginal 이라고 쓴다. 
+
+ 
+
+
+
+Situation 256 Tax 
+
+ 
+Jo Su-jin asks a tax collector about the tax. 
+
+ 
+Jo: When do you file your tax returns 
+TC: Our tax returns must always be filed between mid-November and December. 
+Jo: Can you take a tax deduction for insurance premiums 
+TC: We get a tax break on life and medical care insurance premium, up to 500,000 
+won and 200,000 respectively. 
+
+ 
+상황 256 세 금 
+
+ 
+조수진이 세금 징수원에게 자신의 세금에 관하여 묻고 있다. 
+
+조수진: 납세신고는 언제 합니까 
+세금징수원: 11월 중순부터 12월 중순 사이에 납세신고를 해야 합니다. 
+조수진: 보험료에 대한 세금공제는 있습니까 
+세금징수원: 생명보험은 50만원까지이고 의료보험은 20만원까지입니다. 
+
+ 
+<어구해설> 
+premium은 보험회사에 의한 생명보험, 손해보험 등의 보험료라는 의미로 사용된다. 사회보 
+험의 경우에는 premium 외에도 contribution이 쓰인다. tax credit는 세금공제의 의미이다. 
+
+ 
+
+
+
+
+
+Situation 255 Proposal 2 
+
+ 
+Kang Jin-soo asks Han Jung-sook about the his proposal. 
+
+ 
+Kang: Have you decided on our proposal  
+Han: No, it's still under consideration. 
+Kang: When can we expect an answer 
+Han: You should be hearing from us by March 1 at the latest. 
+
+ 
+상황 255 제안 2 
+
+ 
+강 진수가 한 정숙에게 그의 제안에 대해서 문의하고 있다. 
+
+ 
+강진수: 우리의 제안에 대해 결정을 내리셨습니까 
+한정숙: 아니오. 아직 고려중입니다. 
+강진수: 언제쯤 우리가 답을 들을 수 있겠습니까 
+한정숙: 늦어도 3월 1일 까지는 답을 듣게 될 것입니다. 
+
+ 
+<어구해설> 
+should be hearing from us -” 는 “- 경에는 되리라고 확신합니다” 라고 마감을 애매하 
+게 표현하는 방법이다. 
+
+ 
+
+ 
+
+
+
+
+Situation 254 Technical Capability 
+
+ 
+Kim Han-dong visits a plant in Jeju. he wants to know the technical capability. 
+
+ 
+Kim: We'd like to know what your plant is technically capable of. 
+Ko: Could you put that in more specific terms 
+Kim: Certainly. The total amount of the monthly production, the possibility of 
+models changes, and quality control and guarantee system, etc., that we'd like to 
+know. 
+Ko: I see. let me get our production manager to answer you. 
+
+ 
+상황 254 기술적 능력 
+
+ 
+김한동이 제주도의 한 공장을 방문하였다. 그는 그 공장의 기술적 능력을 알고 싶어 한다. 
+
+ 
+김한동: 귀사의 공장이 기술적으로 가능한 것에 대해 알고 싶습니다. 
+고상식: 좀 더 구체적으로 설명해 주시겠습니까 
+김한동: 그러지요. 월생산량, 모델 변경 가능성, 그리고 품질관리와 보증제도 등을 알고 싶 
+습니다. 
+고상식: 알겠습니다. 생산부장이 대답해 드리도록 하겠습니다. 
+
+ 
+<어구 해설> 
+이야기의 내용이 애매하여 좀더 구체적으로 설명해 주시겠습니까 라고 내용 설명을 의뢰하 
+는 표현법이다. 구체적으로 라고 말할 때는 이 specific을 부사로 하여 specifically나 
+specifically speaking 또는 to be more specific 이 된다. 
+
+ 
+
+
+
+
+
+Situation 253 Advertising 
+
+ 
+Kim Mi-ran consults with Ha Ji-won about the advertising. 
+
+ 
+Kim: Who does your advertising 
+Ha: We use the local affiliate of a major American ad agency. 
+Kim: What media do you most commonly use for your advertising 
+Ha: In accord with our annual media schedule, we place ads in women's magazines, 
+general interest publications and daily newspapers. 
+
+ 
+상황 253 광 고 
+
+ 
+김 미란이 하 지원에게 광고에 대하여 상담하고 있다. 
+
+ 
+김미란: 귀사의 광고는 어디에서 광고를 담당하고 있습니까 
+하지원: 미국의 대형광고 회사의 계열회사를 이용하고 있습니다. 
+김미란: 광고를 낼 때 어떤 매체를 가장 보편적으로 사용합니까 
+하지원: 연간 매체 계획에 맞추어서 우리는 여성지와 일반잡지 그리고 일간지에 광고를 냅 
+니다. 
+
+ 
+<어구해설> 
+affiliate 는 계열회사를 말하는데 subsidiary 라고 하기도 한다. 이에 대해 모회사는 parent 
+company 라고 표현한다. 
+
+ 
+
+
+
+Situation 252 Copy 
+
+ 
+Jo Sang-jin asks Seo Hye-ri about the copy contents. 
+
+Jo: How do you like the copy 
+Seo: Frankly, it leaves something to be desired 
+Jo: How do you mean 
+Seo: Well, we were hoping for something more original. 
+
+상황 252 광고문안 
+
+ 
+조상진이 서혜리에게 광고문안 내용에 대해서 문의한다. 
+
+ 
+조상진: 그 광고문안 어떻습니까 
+서혜리: 솔직히 말해서 만족스럽지 못합니다. 
+조상진: 무슨 말씀이십니까 
+서혜리: 우린 좀더 독창적인 것을 원했습니다 
+
+ 
+<어구해설> 
+Frankly 다음엔 대개 부정적인 내용이 온다. To tell the truth나 To be frank with you도 자주 사용되는 말이다.
+
+
+Situation 271 Office Meeting 
+
+ 
+Kang Dong-sik asks Han Mi-young about the office meeting. 
+
+ 
+Kang: Do you have regular office meetings  
+Han: Yes, we have them every Tuesday. 
+Kang: At what time of the day are meetings usually held 
+Han: Usually in the morning, but sometimes over lunch. 
+
+ 
+상황 271 사내 회의
+
+ 
+강동식이 한미영에게 사내 회의에 대해서 묻고 있다. 
+
+ 
+강동식: 정기적인 사내 회의가 있습니까 
+한미영: 예, 매주 화요일에 있습니다. 
+강동식: 보통 하루 중 몇 시에 회의가 열립니까 
+한미영: 보통 아침에 합니다만, 가끔 점심식사를 하면서 하는 경우도 있습니다. 
+
+ 
+<어구 해설> 
+요즈음은 회사마다 차이가 있기는 하지만, 형식적이고 딱딱한 분위기의 사내 회의에서 점차 
+로 벗어나 자유로운 분위기에서 회의를 진행하고 있는 추세이다. 
+회의의 기간과 종류는 meeting 앞에 monthly/ weekly/ annual 이라는 단어를 붙이면 된 
+다. 
+ 
+
+
+
+
+Situation 270 Quality Control 
+
+ 
+Lisa Williams visits Korea to check the QC system of Donbang. 
+
+ 
+Lisa: Is there a high level of satisfaction with the quality of your company's 
+products 
+Jang: We've had very few complaints about quality. 
+Lisa: How is the quality of your companies products maintained 
+Jang: We make it company policy to never let a flawed product leave our factories. 
+
+ 
+상황 270 품질 관리 
+
+ 
+리사 윌리엄즈가 동방 주식회사의 품질관리 시스템을 확인하기 위해서 한국을 방문하였다. 
+
+ 
+리사: 귀사 제품의 품질에 대해 높은 만족도를 가지고 있습니까 
+장한나: 품질에 관한 불평은 거의 없습니다. 
+리사: 귀사 제품의 품질은 어떤 방법으로 유지하고 있습니까 
+장한나: 결함이 있는 상품을 공장에서 절대로 내놓지 않는다는 것을 당사의 방침으로 하고 
+있습니다. 
+
+ 
+<어구 해설> 
+defect는 가장 일반적인 결함을 의미하고 blemish는 표면적이나 외관적인 결합 그리고 
+flaw는 전체가 못쓰게 된 정도의 결함, 즉 있어서는 안되는 결함을 말한다. 
+
+ 
+
+Situation 269  Interview 2 
+
+ 
+Reporter Bonds interviews Jang Han-il of LT Corporation. 
+
+ 
+Bonds: Who in your company makes the most important business decisions 
+Jang: The president and the managing director do. 
+Bonds: Are most decisions made from the top down or from bottom up 
+Jang:　Most important proposals come originally from lower and middle level 
+managers and are later presented to top management for consideration. 
+
+ 
+상황269 인터뷰 2 
+
+ 
+본즈 기자가 LT 상사의 장한일을 인터뷰한다. 
+
+ 
+본 즈 : 귀사에서 누가 가장 중요한 사업결정을 합니까 
+장한일: 사장님과 상무님께서 하십니다. 
+본즈: 대부분의 결정은 상의하달식입니까 아니면 하의 상달식입니까 
+장한일: 대부분의 중요한 제안은 원래 하위 및 중간관리자로부터 나와서 최고 경영관리자가 
+검토할 수 있도록 합니다. 
+
+ 
+<어구해설> 
+일반적으로 상의 하달식은 미국식의 경영방식이며 하의 상달식 결정은 일본에서 흔히 사용 
+되는 경영방법이다. 최근에는 우리나라에서도 중간관리자들이 힘을 모아 회사경영개선에 적 
+극 나서는 추세가 되어가고 있다. 
+
+
+
+
+Situation 268 Hand 
+
+ 
+Park Ji-seon asks Kim Mi-ran to help him. 
+
+ 
+Park: I really need a hand with this project. Do you think you can help me out 
+Kim: Sure, what do you want me to do 
+Park: Would you find out who's available for sending out these orders 
+Kim: I could do that. That would be fine with me. 
+
+ 
+상황 268 조 력 
+
+ 
+박지선이 김 미란에게 도움을 요청하고 있다. 
+
+박지선: 이번 계획에 정말로 도움이 필요합니다. 
+김미란: 물론이죠. 제가 무엇을 도와드릴까요 
+박지선: 누가 이 주문품을 발송할 수 있는지 알아봐 주시겠습니까 
+김미란: 그러지요. 좋습니다. 
+
+ 
+<어구 해설> 
+“hand” 란 여기서는 “도움”의 의미로써 일상회화에서 도움을 요청할 때 give me a hand와 유사한 표현으로 보면 된다. help out은 어떠한 상황으로부터 벗어나게 도와준다는 의미를 내표하는 말이다. 
+
+ 
+
+ 
+ 
+
+
+
+
+Situation 267 Overseas Company 
+
+ 
+Oh Jin-dong is talking to Ha Sang Jin about the overseas planning. 
+
+ 
+Oh: We understand you're planning a move overseas. 
+Ha: That's right. It won't be happening for a while. 
+Oh: It sure does. 
+Ha: You see, we're in the business of helping companies like yours prepare for 
+such moves. 
+
+ 
+상 황 267 해외지사 
+
+ 
+오진동이 하상진과 해외지사에 대하여 대화를 나누고 있다. 
+
+ 
+오진동: 해외진출을 검토하고 계신다고 들었는데요 
+하상진: 네 하지만 당분간은 어렵습니다. 
+오진동: 아무래도 그렇겠지요. 
+하상진: 실은 귀사처럼 해외 진출을 계획하고 있는 회사들을 지원하는 것이 저희 임무입니 
+다. 
+
+ 
+<어구 해설> 
+첫 번째 문장은 “We heard that --” 이라고 바꾸어 쓸 수 있으며 Word has it 이나 
+Rumor has it 이라고 서두를 시작하기도 한다. 
+
+ 
+
+
+
+
+
+Situation 266 P/L statement. 
+
+ 
+Na Min-soo wants to see P/L statement. 
+
+ 
+Na: We'd like to have a P/L statement. 
+Jeong: I'm sorry, what does P/L stand for 
+Na: It stands for profit and loss. 
+Jeong: Oh, I see. I should have known that. 
+
+ 
+상황 266 손익 계산서 
+
+ 
+나 민수가 P/L 계산서를 보고 싶어 한다. 
+
+ 
+나 민수: P/L 계산서를 보고 싶습니다. 
+정성호: 죄송합니다만 P/L이 무슨 뜻입니까 
+나민수: 이익과 손해라는 뜻입니다. 
+정성호: 아 알겠습니다. 몰라서 죄송합니다. 
+
+ 
+<어구 해설> 
+국제비즈니스에서는 사물의 흑백을 분명히 처리하는 문화권의 상대이므로 모르는 것을 확실 
+히 하는 것이 중요하다. 용어의 의미와 명세, 일정 그리고 자신의 의도가 전해졌는지 분명 
+히 하는 화법을 몸에 익히도록 하자. 
+
+
+
+
+
+Situation 265 Paid Holidays 
+
+ 
+Jang Jin complains about the paid holidays. 
+
+ 
+Jang: I don't mind working 44 hours or even 48 a week, but I wish I could take a 
+longer leave of absence when I want. 
+Han: How many paid holidays do you get a year 
+Jang: Theoretically we are allowed to take three weeks, but actually we can't even 
+take three days in a row. 
+Han: It's the same with us. 
+
+ 
+상황 266 유급 휴가 
+
+ 
+장진이 유급휴가에 대해서 불평을 한다. 
+
+ 
+장 진: 일주일에 44시간이든 심지어는 48시간 일해도 상관이 없지만 내가 원하는 때에 좀 
+더 오래 쉴 수 있으면 합니다. 
+한 승원: 유급휴가가 1년에 며칠인데요 
+장 진: 이론적으로는 3주일을 갖도록 인정되어 있지만 실제로는 연속해서 3일조차 갖지 못 
+해요. 
+한 승원: 우리와 마찬가지군요. 
+
+ 
+<어구해설> 
+“휴가를 얻다” 라는 표현을 사용할 때에는 동사 get 을 사용한다. 미국에서는 휴가라고 할 
+때 일반적으로 vacation 아란 단어를 사용한다. 보통 때 일을 쉬는 것은 a day off 라고 말 
+한다. 
+
+
+
+
+
+Situation 264 Profits 
+
+ 
+Kim Han-kook wants to know the profits of KL trading. 
+
+ 
+Kim: What were your company's profits last year 
+James: Our profits were in excess of 1billion won. they showed a two percent increase over the previous year' s. 
+Kim: What is the estimate for this year's 
+James: We expect to increase our profit by three percent this year. 
+
+ 
+상황 264 수 익 
+
+ 
+김한국이 KL 무역회사의 수익에 대해서 알고 싶어한다. 
+
+ 
+김한국: 지난해 귀사의 수익은 얼마였습니까 
+제임스: 당사의 수익은 10억원을 돌파했습니다. 전년도에 비해 2% 정도가 증가했습니다. 
+김한국: 금년 수익전망은 어떻습니까 
+제임스: 금년은 3%의 증가를 기대하고 있습니다. 
+ 
+< 어구해설 > 
+마지막문장은 물주구문을 주어로 사용하면 An increase of 3 percent is expected this year로 바꾸어 사용할 수 있다. 
+
+ 
+
+
+
+
+
+Situation 263 New Project 
+
+
+
+Kim Man-ho is talking about new project with Judy 
+
+Kim: I cannot finish the advertising design before Monday. 
+Manager: Why: Mr Kim 
+Kim: Well, I'm working on many other projects. 
+Manager:　Don't spread yourself too thin. 
+Kim :Should I only work on the project now 
+Manager: Yes. 
+Kim:　OK. I'll focus on the new car design. 
+Manager:　Good Plan. 
+
+
+상황 263 신규 프로젝트 
+
+김만호가 신규 프로젝트에대해서 주디부장과 이야기를 하고 있다 
+
+김만호: 월요일 전에는 광고 디자인을 결정 못할 것 같은데요. 
+부장: 왜죠 김만호씨
+김만호: 제가 다른 많은 프로젝트에도 관여하고 있거든요. 
+부장: 너무 이것저것 벌이지 말아요. 
+김만호: 지금은 한 프로젝트만 할까요 
+부장: 그게 좋겠군요 
+
+
+<어구해설> 
+spread oneself 는 '일을 벌이다'는 의미로서 여기서는 thin 과 결합하여 너무 많은 일을 
+벌이다' (to do too many things at once) 의 의미가 된다. 
+
+"Should I - -" 로 시작되는 의문문은 상대방에게 자신의 행동을 다시 한번 확인할 때 사용 
+하는 표현으로 “필연” 의 의미가 포함되어 있다
+
+
+
+
+Situation 262 Reliable Supplier 
+
+ 
+Ahn Jin-won worries about the reliable supplier. 
+
+ 
+Ahn: I'm concerned about getting a reliable supplier. 
+Ha: Don't worry about that. 
+Ahn: You're sure that you can get a reliable source of supply in Korea 
+Ha: We have a supplier we have been dealing with for over 10 years. 
+
+ 
+상황 262 신뢰할만한 공급업자 
+
+ 
+안진원이 신뢰할만한 공급업자에 대해서 걱정한다. 
+ 
+안진원: 신뢰할 수 있는 공급업자를 구 할 수 있을지 걱정됩니다. 
+하민성: 그것은 걱정하지 마십시오 
+안진원: 한국에서 신뢰할 만한 공급업자를 구할 수 있다고 확신하십니까 
+하민성: 10년 이상 거래해온 공급업자가 있습니다. 
+
+ 
+<어구 해설> 
+reliable에서 파생된 “reliance” 와 “reliability” 간에는 약간의 의미상 차이가 있다. 
+reliance는 어떤 대상에 대한 사람들의 신뢰를 말하며 후자는 수치나 통계에 대한 신뢰도를 
+나타낸다. 
+
+
+Situation 281 customer complaints. 
+
+Jang Jin-sung interviews with Kim Ha-sung about the customer complaints. 
+
+ 
+Jang: How does your company handle customer complaints 
+Kim: All complaints are handled with two weeks of reaching our Customer Service 
+Department. 
+Jang: Would you explain your company's reputation with consumers 
+Kim: We maintained an excellent reputation for quality and quick response to 
+consumer needs. 
+
+ 
+상황 281 고객 불만 
+
+ 
+장진성이 고객 불만에 대해서 감하성과 이야기를 나누고 있다. 
+
+ 
+장진성: 귀사에 대한 소비자들의 평판을 설명해 주실 수 있습니까 
+김하성: 품질과 소비자의 요구에 대한 신속한 반응으로 우수한 평판을 유지해 왔습니다. 
+장진성: 귀사는 소비자 불만을 어떻게 처리하십니까 
+김하성: 모든 불만사항은 2주일 이내에 고객서비스 부에서 처리합니다. 
+
+ 
+<어구 해설> 
+소비자 운동의 대상이 될 수 있는 것으로는 defective car나 misleading labels 그리고 
+pyramid sales 등이 대상이 된다. 
+
+
+
+
+
+Situation 280 New Model Line 
+
+ 
+Park Dong-soo asks Min Sang-hee about new model line. 
+
+Park: What's your opinion of our new model line 
+Min: I think I will ask Mr. Han about that. 
+Park: Actually it might be better to talk to mr. Flynn. 
+Min: Oh, thank you. I'll do that. 
+
+ 
+상황 280 신제품 모델라인 
+
+ 
+박동수가 민 상희에게 신제품라인에 대해서 묻고 있다. 
+
+ 
+박 동수: 신제품 라인에 대한 의견이 있습니까 
+민상희: 한 선생님에게 물어보아야 할 것 같은데요 
+박동수: 사실 플린 씨와 이야기 하는게 더 낫지 않을까요 
+민상희: 아 그렇군요 감사합니다. 그렇게 하겠어요. 
+
+ 
+<어구해설> 
+actually와 might be better를 함께 사용하면 겸손한 느낌을 주면서도 충고를 하는 느낌을 
+줄 수 있다. 하지만 had better는 반대로 약간 상대를 낮추어보는 어투라고 볼 수 있다. 
+
+ 
+
+
+
+
+
+Situation 279 Convention 
+
+ 
+Lee Kang-hoon asks Oh Jin-suh about the meeting. 
+
+Lee: How often do you attend conventions or seminars 
+Oh: I believe that over the last ten years the number averages out to about two a 
+year. 
+Lee: What conventions have you recently 
+Oh: I attended a seminar on new advertising media last month and an annual home 
+appliance convention five years ago. 
+
+ 
+상황 279 회 의 
+
+ 
+이 강훈과 오 진서에게 회의방식에 대해서 묻고 있다. 
+
+ 
+이강훈: 회의 또는 세미나에 어느 정도 자주 참석하십니까 
+오진서: 지난 10년간 연평균 2회 정도 참가하고 있다고 생각하고 있습니다. 
+이강훈: 최근에는 어떠한 회의에 참가 하셨습니까 
+오진서: 지난달에는 새로운 광고매체 회의에 관한 세미나에 참가하고 5개월 전에는 가전업 
+계의 연차총회에 참가했습니다. 
+ 
+<어구 해설> 
+convention 이란 기업이나 학계등에서 개최하는 규모가 큰 회의방식을 말하며 seminar란 
+비교적 소수의 사람이 모여 하나의 주제를 두고 토론하는 방식을 말한다. 
+
+
+
+
+
+Situation 278 Liquidity Assets 
+
+ 
+Jang In-hong asks Han Min-young about the company's liquidity. 
+
+ 
+Jang: What's your company's liquidity 
+Han: Our liquidity assets comprise 23 percent of equity. 
+Jang: Does your company ever a cash-flow problem 
+Han: During the IMF, We were in a quite tight cash-flow situation. 
+
+ 
+상 황 278 유동자산 
+
+ 
+장 인홍이 한 민영에게 회사의 유동성에 대해서 묻고 있다. 
+
+ 
+장인홍: 귀사의 유동성은 어느 정도입니까 
+한민영: 당사의 유동자산은 자본이 23%로 구성되어 있습니다. 
+장인홍: 귀사는 자금 융통문제를 겪어본 적이 있습니까 
+한민영: IMF때 격심한 자금 융통상황이 있었습니다. 
+
+ 
+<어구해설> 
+"cash flow" 는 기업 내에서의 현금의 유입, 유출 및 그 차액과 잔고를 말한다. 
+참고로 고정자산은 fixed asset 이라고 한다. 
+
+
+
+
+
+Situation 277 Institutional Advertising 
+
+ 
+Kang Shin-young asks Kim Dong-han about the advertising. 
+ 
+Kang: How much advertising does your company do 
+Kim: We advertise extensively in the printed media and to a lesser degree in the 
+electronics media. 
+Kang: What type of advertising do you do -- institutional, product or recruiting 
+Kim: The vast majority of our advertising is for products, but we do some 
+recruiting and institutional advertising well. 
+
+ 
+상황 277 기업광고 
+
+ 
+강 신영이 김 동한에게 광고에 대하여 묻고 있다. 
+
+ 
+강 신영: 귀사는 어느 정도 광고를 내십니까 
+김 동한: 우리는 인쇄매체를 통해 광범위하게 광고를 내고 있고 대단치는 않지만 전파매체 
+도 사용합니다. 
+강 신영: 어떠한 광고를 내십니까 기업광고입니까 아니면 제품광고입니까 아니면 채용을 
+위한 광고입니까 
+김 동한: 대부분이 제품광고입니다만 채용광고나 기업광고도 함께 합니다. 
+
+ 
+<어구해설> 
+“institutional advertising”은 제품이나 서비스를 팔기 위한 것 뿐만 아니라 기업의 이미지 
+를 높이기 위한 광고를 말한다. 
+
+
+
+
+Situation 276 Diversification 
+
+ 
+Jean Michael asks Kim Dong-man about the diversification of company. 
+
+Jean: Has your company diversified over the years 
+Kim: We've diversified our product line, but we've remained generally within our 
+original and strongest field of business. 
+Jean: In what fields does your company specialize 
+Kim: We specialize in home appliances and industrial refrigeration. 
+
+ 
+상 황 276 경영다각화 
+
+ 
+진 마이클이 김동만에게 회사의 경영다각화에 대해서 묻고 있다. 
+
+ 
+진: 최근 수년간 귀사의 경영 다각화는 되었습니까 
+김동만: 제품라인을 다각화 하고 있습니다만 일반적으로 원래 가장 강한 분야를 유지하고 있습니다. 
+진: 귀사는 어떤분야가 전문입니까 
+김동만: 당사는 가전제품과 공업용 냉동 장치분야가 전문입니다. 
+
+ 
+<어구해설> 
+대기업들은 경영다각화를 통해 방대해진 조직에 활성화를 기하기 위해 몇개의 기업으로 조 
+직을 분할하기도 하는데 이를 분사(分社)라고 한다 
+분사의 장점으로는 "책임체제의 명확화”, “연구개발의 효율화”, “세제상의 이점” 등을 들 수 
+있다. 특히 최근 들어 간접부문의 분사를 통해 고용조정 효과를 거두는 기업들이 늘고 있다. 
+분사하는 기업을 인수하는 주체에 따라 ＭＢＯ(경영자인수)와 ＥＢＯ(종업원 인수) 등으로 
+구분된다. 
+
+
+
+
+Situation 275 M &A 2
+Na Han-young asks Lay Han about the M&A.
+Na: Are mergers and acquisition common
+Han: They are far less common in US.
+Na: What types of companies are merged or acquired most often
+Han: Nearly half of them are wholesalers or retailers
+상황 275 인수합병 2 
+나한영이 레이한 에게 인수 합병에 대해서 묻고 있다. 
+나한영: 합병과 매수가 자주 있습니까
+레이한: 미국에 비하면 훨씬 적습니다.
+나한영: 어떤 종류의 회사가 가장 많이 합병 또는 매수됩니까
+레이한: 거의 반수가 도매상인과 소매업자 회사입니다.
+
+<어구 해설>
+Merger and Acquisition 은 간단히 M&A 라고 표현하기도 한다. 디지털화의 물결 속에서
+전 세계적으로 M&A 가 급증하고 있는 상황에서 전통적인 가치사슬의 해체와 더불어 M&A
+는 이제 모든기업에게 전략목표달성을 위한 중요한 대안으로 떠오르고 있다. 
+
+
+
+
+
+Situation 274 New Model 
+
+ 
+Kang Ji-hoon wants Andy Zhu to deliver new models. 
+
+ 
+Kang: Mr. Zhu, we'll be needing these new models by Feb. 1st. at the latest. 
+Zhu: We'll have them ready by that time. Are you leaving the patterns to us 
+Kang: Yes, but please forward a copy of them for our approval before you start 
+production. 
+Zhu: Fine. Do you want them sent via DHL 
+Kang: I think that it would be advisable. 
+
+ 
+상황 274 신형 모델 
+
+ 
+강 지훈이 앤디 주에게 신형모델을 2월 1일까지 납기해 주기를 원한다. 
+
+ 
+강지훈: 주 선생님 저희는 늦어도 2월 1일까지는 이 새 모델들이 필요할 것 같습니다. 
+앤디 주: 그때까지는 완료하도록 하겠습니다. 도안은 저희에게 일임해 주시는 겁니까 
+강지훈: 예 그러나 생산에 착수하기 전에 사본 한부를 보내서 저희 측의 승인을 받아 주십 
+시오 
+앤디 주: 좋습니다. DHL로 보내드릴까요 
+강지훈: 그게 좋을 것 같군요. 
+
+ 
+<어구해설> 
+일임해 줄 것을 촉구하는 경우에 "leave" 는 "책임, 결정, 임무“ 등을 맡기다” 
+라는 의미이다. 이런 용법의 leave는 반드시 전치사 to를 수반한다. 여기서 with를 쓰면 
+“사람이나 물건을 맡기다” 라는 의미가 된다. 
+
+
+
+Situation 273 Application 
+
+ 
+Han Ji-young is making an inquiry about the application. 
+
+ 
+Han: I'd like some information on how to get into bank company. 
+Personnel dept.: Well, first, you write the bank you want to get into, and 
+get an application form. Then, send it in with a copy of your school records. 
+Han: And do I need to take any tests 
+Personnel dept.: Yes, you have to take the TOEFL test and interview with our manager. 
+
+ 
+
+ 상황 273 입사지원 
+
+ 
+한 지영이 입사에 대해서 질문을 하고 있다. 
+
+ 
+한 지영: 귀사에 입사 하는 방법을 좀 알고 싶습니다. 
+인사부: 우선 입사하고자 하는 부서에 문의편지를 써서 입사 원서를 얻으세요. 
+그런 다음 학교 성적증명서 1부와 함께 그 원서를 보내십시오. 
+한 지영: 그리고는 어떤 시험을 치루어야 하나요 
+인사부: 네, TOEFL 시험과 함께 인사부장님과 면접을 치러야 합니다. 
+
+ 
+<어구 해설> 
+규정이나 방법 등에 대한 정보를 얻기 위해서는 Would you tell me how to ~나 I'd like some information on ~와 같은 표현을 사용하는 것이 보통이다. 
+
+ 
+Would you tell me how to use this computer (이 컴퓨터를 어떻게 사용하는지 말해 주 
+시겠습니까) 
+I'd like some information on this product. (이 상품에 대한 정보를 좀 얻고 싶습니다.) 
+Are there any rules about parking (주차 규정이 있습니까) 
+Do I need to take any tests (어떤 시험을 치러야 합니까) 
+
+
+
+
+
+Situation 272JIT system 
+
+Park In-ho asks Yoshida Kenji about the JIT system. 
+
+ 
+Park: Does your company use the just-in-time system  
+Yoshida: We've been using the just-in-time method since five years ago when we 
+installed an advanced computer to track production and inventories. 
+Park: What's the volume of output for your leading product 
+Yoshida: We produce 150,000 DVD player per month. 
+
+ 
+상황 272 JIT 시스템 
+
+ 
+박인호가 요시다 겐지에게 JIT 시스템에 대해서 문의한다. 
+
+ 
+박인호: 귀사에서는 JIT 시스템을 사용하고 있습니까 
+요시다: 생산과 재고를 추적하기 위하여 첨단의 컴퓨터를 설치한 5년 전부터 JIT 방식을 취 
+하고 있습니다. 
+박인호: 귀사의 주요 제품의 생산량은 얼마입니까 
+요시다: 월간 약 15만대의 DVD를 생산하고 있습니다. 
+
+ 
+< 어구 해설 > 
+JIT는 재고를 가능한 적게 하기 위하여 필요한 물건을 필요한 때에 생산하는 것을 기본개념 
+으로 하여 일본의 Toyota 자동차 회사가 처음으로 개발한 독자적인 생산관리 방식을 말한 
+다. 
+
+
+Situation 291 Proposal 3 
+
+ 
+Jang Jin-young proposes to accept his requirement. 
+ 
+Jang: You don't think that you can accept our proposal 
+Han: No, I'm afraid not. 
+Jang: In light of the service, certification and delivery requirement, they think that 
+there is enough value added to justify the prices. 
+Han: I'll have to consult with our board about it. 
+
+ 
+상 황 291 제 안 3 
+
+ 
+장진영이 자신의 조건을 제안하고 있다. 
+
+ 
+장진영: 우리의 제안을 받아들일 수 없으신가 보군요 
+한인수: 예 그렇습니다. 
+장진영: 서비스, 증명서, 인도조건면에서 볼때 가격에 합당한 충분한 가치가 있습니다. 
+한인수: 그렇다면 우리 중영회의에 문의해 보도록 하지요. 
+
+ 
+< 어구해설 > 
+상대의 질문에 대해 바람직한 대답의 경우에는 I hope 라고 표시하며 그렇지 못한 경우에 
+는 I'm afraid 라고 표현한다. 부정문으로 질문하는 대답에 긍정으로 대답하는 경우에는 No 
+를 동반하게 된다. 
+
+
+
+
+
+Situation 290 Telephone 10 
+
+ 
+Ha Dong-su wants to talk to Sales dept. 
+
+ 
+Sales Dept.: Hello 
+Ha: This is Mr. Western speaking. Could you put me through to the sales 
+department, please 
+Sales Dept.: Do you wish to talk to anyone in particular 
+Ha: I'm calling in connection with the order we placed a long time ago. it hasn't 
+arrived yet. 
+
+ 
+상황 290 전화 10 
+
+ 
+하동수가 판매부서와 통화를 원하고 있다. 
+
+ 
+판매부: 여보세요 
+하동수: 저는 하동수라고 합니다. 판매부서좀 연결해주시겠어요 
+판매부: 어떤 특정한 담당자와 이야기 하실 건가요 
+하동수: 우리가 오래전에 주문한 것을 여쭈어 보려고 하는데요. 그게 아직 도착하지 않았거 
+든요 
+
+ 
+<어구해설> 
+전화를 건 사람이 용건을 끄집어 낼 때의 표현으로 I'm calling in connection with 대신에 
+I'm phoning in connection with 라고 표현이 가능하다. 
+
+ 
+
+
+
+
+
+Situation 289 Recruit 
+
+ 
+Ahn Jung-il asks Kim Sang-ho to recruit his students. 
+
+Ahn: I wonder if you could help me find my students a job. 
+Kim: Tell me more about your students. 
+Ahn: They're majoring in business admiration and graduating next spring. 
+Kim: We like to recruit capable young men, of course. So why don't you send them 
+over with their personal histories and letters of recommendation 
+
+상황 289 채 용 
+
+ 
+안정일이 김상호에게 학생들의 취업에 대해 요청한다. 
+
+ 
+안정일: 귀사는 저희 학생들이 취직하는데 도움이 되실 것 같군요. 
+김상호: 당신의 학생들에 대해서 더 이야기해 보십시오. 
+안정일: 그들은 경영학을 전공했으며 올 봄에 졸업할 예정입니다. 
+김상호: 물론 우리는 유능한 젊은이들을 채용합니다. 그러니 그들의 이력서와 추천서를 지 
+참시켜 보내지요. 
+
+ 
+<어구해설> 
+recruit 는 사람을 모집하다하는 의미이지만 명사로는 신입사원이라는 의미도 된다. 
+따라서 50 recruits joined our company는 신입사원 50명을 채용했다 라고 표현한다. 
+
+ 
+
+
+Situation 288 Turnaround 
+
+ 
+Ha Jung-il is talking to Min Sang-ho. 
+
+Ha: The Appliance Department is really taking a beating. 
+Min: Yes, they are way in the red this month. 
+Ha: Any chance of a turnaround 
+Min: Not any time soon. 
+
+ 
+상황 288 경기 회복 
+
+ 
+하정일과 민상호가 이야기를 나누고 있다. 
+
+ 
+하정일: 전기제품 부분이 어려움을 당하고 있습니다. 
+민상호: 네 이번 달에 많은 적자를 냈습니다. 
+하정일: 만회할 가능성이 있을까요 
+민상호: 곧 만회하는 것은 무리입니다. 
+
+ 
+<어구해설> 
+take a beat는 직역하면 누구에게 두드려 맞는다는 의미로서 “어려움을 당하다” 로 바꾸면 
+된다. be in the red 도 같은 맥락에서 “적자나 손해를 보다”라는 의미이다. 
+
+
+
+
+
+Situation 287 Discount Program 
+
+ 
+Park Jin-young asks Han Ji-won about the discount program. 
+
+ 
+Park: Could I see your discount program for volume purchases 
+Han: I believe that you may qualify for the large volume discount program. 
+Park: How much do I have to order 
+Han: You would qualify if you could increase your order by 20%. 
+
+ 
+상황 287 할인 제도 
+
+ 
+박진영이 한지원에게 할인제도에 대해서 묻고 있다. 
+
+ 
+박진영: 대량구입에 대한 귀사의 할인제도를 알고 싶습니다. 
+한지원: 귀사라면 대량 구입시 할인 프로그램의 적용을 받을 자격이 있다고 생각합니다. 
+박진영: 어느 정도의 양을 주문하면 좋겠습니까 
+한지원: 발주량을 20% 늘릴 수 있다면 그 자격을 갖추게 됩니다. 
+
+ 
+<어구해설> 
+Can I see -- 로 시작하는 경우에는 상대방에게 어떠한 요청을 확인하는 표현으로서 Can 
+I see you now 하면 “지금 잠깐 볼 수 있을까요” 라는 말이 된다. 
+
+
+
+
+Situation 286 Credit Report 
+
+ 
+Kim Min-soo asks Lim Kang-ho about the bank reference. 
+
+Kim: According to this bank reference, I see some shortage in their operating 
+funds. 
+Lim: Oh, really We'll have to investigate this further. 
+Kim: Should I ask for a credit report on that company 
+Lim: I think it would be good to get the current status. 
+
+ 
+상황 286 신용보고서 
+
+김민수가 임강호에게 은행 신용조회에 대하여 묻고 있다. 
+
+ 
+김민수: 이 은행의 신용조회에 의하면 약간의 운영자금 부족이 예상됩니다. 
+임강호: 아 그렇습니까 더 조사해 볼 필요가 있군요. 
+김민수:　그 회사의 신용보고서를 요구할까요 
+임강호: 현상황을 파악하는 것이 좋다고 생각합니다. 
+
+ 
+<어구 해설> 
+신용정보란 금융거래나 상거래에서 거래상대방에 대한 신용도의 판단을 위하여 필요로 하는 
+정보들을 말하며, 기본적으로 신용불량정보, 신용거래정보, 공공기록정보 등을 말한다. 이러 
+한 정보들은 “신용정보의 이용 및 보호에 관한 법률”에 의하여 관리되고 있으며, 금융업계 
+의 신용대출, 신용카드발급 등의 신용관련업무와 일반업체의 신용거래 개설 시 중요한 정보 
+로 활용되고 있다. 
+
+ 
+
+ 
+
+
+
+Situation 285 Price 
+
+Han Su-jin asks Park Ji-young about the delivery. 
+
+ 
+Han: When can we expect its delivery 
+Park: :It's already in production, so you can expect it in stores before the end of 
+the month. 
+Han: How much will it cost 
+Park: We've priced it at $98, almost 30% less than the competition. 
+
+ 
+상황 285 가 격 
+
+ 
+한수진이 박지영에게 출하에 대해서 묻고 있다. 
+
+ 
+한수진: 언제 제품이 출하될 예정입니까 
+박지영: 이미 생산 중에 있으니까 이달 말 이전에 상점에서 볼 수 있을 겁니다. 
+한수진: 예정 가격은 얼마입니까 
+박지영: 99달러로 가격이 정해졌으며 경쟁가 보다 약 30% 정도 가격이 낮습니다. 
+
+ 
+<어구해설> 
+여기서 price는 “가격을 매기다” 라는 의미로 사용되었다. 일반적으로 물품을 매매할 때의 
+값을 price라고 하며 cost 는 생산에 드는 시간과 노력에 지불하는 돈의 총액을 말한다. 
+
+
+
+
+
+Situation 284 Check Out 
+
+ 
+Pierre Valencia wants to check out Western Chosun Hotel. 
+
+ 
+Valencia: I'd like to check out. My room number is 842. 
+Front Desk: Let me prepare your bill. Here you are. 
+Valencia: Here is my credit card. 
+Front Desk: Please sign here. Thank you. Here is your card and receipt. Please 
+stay with us again soon. 
+
+ 
+상황 284 체크 아웃 
+
+ 
+이탈리아 관광객인 피에르 발렌시아가 웨스턴 조선 호텔에서 체크아웃을 원하고 있다. 
+
+ 
+발렌시아: 체크아웃을 하고 싶습니다. 방 번호는 842호입니다. 
+프론트 데스크: 청구서를 준비해 드릴께요. 여기 있습니다. 
+발렌시아: 여기 제 신용카드가 있습니다. 
+프론트 데스크: 여기에 서명하세요. 감사합니다. 여기 카드와 영수증이 있습니다. 다음에도 
+저의 호텔을 다시 찾아주시기 바랍니다. 
+
+<어구해설> 
+2002 월드컵을 맞이하여 외국관광객이 많이 입국할 것으로 예상된다. 기본적으로 호텔이나 
+숙박업소에서 일어날 수 있는 상황을 중심으로 표현을 알아두는 것도 좋을 것이다. 
+
+
+
+Situation 283 Specification
+
+Han Jin-seok explains new product X 200. 
+
+ 
+Kim: Could we see the specifications for the X200 
+Han: Certainly we also have test results that we're sure you'd be interested to see. 
+Kim: How about feed-back from your retailers and consumers 
+Han: We have that right here in this report. 
+
+상황 283 설계 명세서
+
+한 진석이 자사 신제품인 X 200에 대해서 설명하고 있다. 
+
+ 
+김지훈: X 200의 설계 명세서 좀 볼 수 있을까요 
+한진석: 물론이죠. 여러분들이 궁금해야 할 테스트 결과도 가지고 있습니다. 
+김지훈: 제품에 대한 소매상과 소비자의 반응은 어떻습니까 
+한진석: 바로 이 보고서에 다 들어 있습니다. 
+
+ 
+<어구 해설> 
+specification 은 일반적으로 특정한 명세사항이나 제품에 들어있는 사용설명서의 사양을 말 
+하며 간단하게 instructions (manual) 이라고도 한다. 
+
+ 
+
+
+
+
+Situation 282 Traffic Accident
+
+ 
+Han So-yeon is being late for traffic accident. 
+
+ 
+Lim: What is the matter with you 
+Han: I'm sorry to have kept you waiting so long. 
+Lim: Today, the traffic was good. And why 
+Han: Yes, it really is. There was a traffic accident. Therefore I had to get off the bus 
+and walk all the way here. 
+
+ 
+상 황 282 교통 사고
+
+ 
+한 소연이 사고로 인해 출근시간에 지각을 하였다. 
+
+ 
+임상호: 어떻게 된 일인가요 
+한소연: 오래 기다리게 해서 죄송합니다. 
+임상호: 오늘은 교통도 그렇게 혼잡하지 않았는데. 
+한소연: 네, 그래요. 하지만 사고나 생겨서 버스에서 내려 이곳까지 걸어와야 했어요. 
+
+ 
+<어구 해설> 
+「-해서 죄송합니다」하는 사과의 표현으로는 I'm sorry (that) 이나 I'm sorry to 의 구문을 
+사용한다. 이밖에도 Excuse me for / Forgive me for / I apologize for . 등도 잘못에 
+대해 사과하는 표현이다. 
+
+
+Situation 301 Competitive Price 
+
+ 
+Lim Ji-hoon wants Kim Min-seo to discount the price. 
+
+ 
+Lim: We need more competitive price. 
+Kim: What do you have in mind 
+Lim: Actually, we were hoping for ten percent off current prices. 
+Kim: Well, I don't think we can go that far. 
+
+ 
+상 황 301 경쟁 가격 
+
+ 
+임지훈이 김민서에게 가격할인을 원하고 있다. 
+
+임지훈: 우리는 좀더 경쟁적인 가격을 원합니다. 
+김민서: 어떤 생각을 갖고 계신가요 
+임지훈: 사실 현재 가격에서 10퍼센트 인하된 가격을 생각하고 있습니다. 
+김민서: 글쎄요. 거기까지는 무리인 것 같은데요. 
+
+ 
+<어구해설> 
+명사 “competence” 가 능력이나 적성, 자격을 의미하는 반면에 “competition” 은 “경쟁이 
+나 시합”을 나타낸다. 여기서 competitive 는 “(다른 것과 비교하여) 경쟁력이 있는” 이라 
+는 의미이다. 
+
+
+Situation 300 Sales Increase 
+
+ 
+Kim Sang-hyun asks Han Ji-won about the sales increase. 
+
+ 
+Kim: How has this product done in Korea  
+Han: Sales for this product have increased by 20% every year for the last three 
+years. 
+Kim: How about outside of Korea 
+Han: The response hasn't been as vigorous, but it's showing signs of picking up. 
+
+ 
+상 황 300 판매 증가량 
+
+ 
+김상현이 한지원에게 판매증가량에 대해서 묻고 있다. 
+
+ 
+김상현: 이 제품의 한국에서의 판매는 어떻습니까 
+한지원: 과거 3년간 판매 신장율은 매년 20% 입니다. 
+김상현: 한국이외에서는 어떻습니까 
+한지원: 반응이 대단한 것은 아니었지만 증가할 조짐은 있습니다. 
+
+ 
+<어구 해설> 
+vigorous 라는 형용사는 원래 “정력적인, 활발한” 이란 의미이지만 여기서는 “반응이 대단 
+하다” 는 표현으로 사용되었다. 
+
+Situation 299 Refund 
+
+ 
+Kim Jin-seok asks Jo Min about the refund. 
+
+ 
+Kim: What percent of your salary do you pay in personal income tax 
+Jo: Around 30% of my income goes toward paying. 
+Kim: Did you receive a tax refund last year 
+Jo: I received a refund because of an overpayment of my estimated tax. 
+
+ 
+상 황 299 환 급 
+
+ 
+김진석이 조민에게 환급에 대해서 묻고 있다. 
+
+ 
+김진석: 당신은 급료의 몇 퍼센트를 개인소득세로 내고 있습니까 
+조 민: 급료의 약 30% 가 소득세로 지급됩니다. 
+김진석: 지난해에는 세금을 환불 받았습니까 
+조 민: 예정 납세액의 과다 지출로 인한 세금 환불을 받았습니다. 
+
+ 
+<어구 해설> 
+연말정산은 원천징수의무자가 종업원의 연간 근로소득에 대해 종업원별 공제액을 차감한 금 
+액을 과세표준으로 하여 세액계산과 세액공제후 이미 종업원으로부터 징수·납부한 소득세를 
+차감하여 더 낸 세금은 돌려(환급)주고, 덜낸 세금은 추가 징수납부하여 근로소득만 있는 
+자의 종합소득세 신고에 갈음하는 절차임. 
+
+
+
+
+Situation 298 New Job 
+
+ 
+Ha Gi-yoon wants to quit his job. 
+ 
+Ha: I'm looking for a new job 
+Jang: Why Which department do you work in 
+Ha: In the sales, but the work is the same everyday and I'm really stressed out due 
+to work. 
+Jang: But it will be the same wherever you go. 
+
+ 
+상황 298새직장 
+
+ 
+하지윤이 직장을 그만두길 원한다. 
+
+ 
+하지윤: 새로운 직장을 찾고 있는 중입니다. 
+장인성: 왜요 어느 부서에서 근무하시는데요 
+하지윤: 영업부에 근무합니다. 하지만 하는 일도 매일 동일하고 그 일 때문에 스트레스를 많이 
+받습니다. 
+장인성: 하지만 어딜가나 마찬가지예요 
+
+ 
+<어구해설> 
+상대방에게 자신의 행동을 설명하는 경우, 가령 어떠한 물건이나 사람을 찾고자 할때 look 
+동사를 간단히 사용하여 의견을 전달할 수 있다. 여기서는 search 의 의미로 해석하면 된다. 
+
+ 
+
+
+
+
+Situation 297 Hotel
+
+ 
+So In-kyung asks Kim Mi-ran about the way to the hotel. 
+
+ 
+So: Can you tell me how to get there from the hotel 
+Kim: We'll pick you up at seven, so will you just wait in the lobby 
+So: Thank you. I'll be there. 
+Kim: The meeting begins at 7: 30. We'll prepare all the necessary material
+If you have any question, 
+
+ 
+상 황 297 호텔 
+
+ 
+소인경이 김미란에게 호텔로 가는길을 묻고 있다. 
+
+ 
+소인경: 호텔에서 그곳까지 어떻게 가는지 말해주시겠어요 
+김미란: 7시에 당신을 모시러가죠. 로비에서 기다려 주시겠어요 
+소인경: 고마워요. 그곳에 있겠습니다. 
+김미란: 회의는 7시 30분에 시작합니다 그리고. 우리가 모든 필요한 자료들을 준비할겁니다. 
+ 
+<어구 해설> 
+“무언가 확실치 않은 점이 있으시면 언제든지 전화해 주십시오” 라고 말할 때의 정해진 관 
+용표현이다. "just free feel to ” 는 “-로 주저하지 말고 -해 주시오.” 라는 의미가 된다. 
+Please don't hesitate to 라고 바꾸어 쓸 수도 있다. 
+
+ 
+
+ 
+
+
+
+Situation 296 Claim 
+
+Kim Sang-woo asks Park In-sung about the claim. 
+ 
+Kim: What are the common clauses regarding claim 
+Park: First, we have to define the terms of the notices of claim. 
+Kim: How many days do you need 
+Park: The notice of claim must be submitted within 10 days after the arrival of 
+goods. 
+
+ 
+상 황 296 클레임 
+
+ 
+김 상우가 박 인성에게 클레임에 대해서 묻고 있다. 
+
+ 
+김상우: 클레임에 관한 일반조항은 어떤 것이 있습니까 
+박인성: 우선 클레임의 통지 기간을 규정해야 합니다. 
+김상우: 몇 일 정도 생각하고 계십니까 
+박인성: 클레임의 통지는 화물이 하역장에 도착한 후 10일 이내에 해야 합니다. 
+
+ 
+<어구 해설> 
+ 매매당사자간의 상사분쟁으로 인한 구상(求償)은 당사자간의 타협에 의해 해결하는 방법 
+과 제3자의 중재에 의해서 해결하는 방법으로 대별할 수 있다. 매매당사자간에 체결되는 무 
+역조건협정서에 클레임 약관을 정해 두어, 분쟁이 악화되지 않도록 유의할 필요가 있다. 그 
+러나 약정품의 수도나 대금결제 등에 있어서는 매매 계약시부터 거래가 끝날 때까지는 상당 
+한 시일이 소요되며 또한 원거리 거래라는 점 등 여러 조건 때문에 쌍방 당사자가 선의인 
+경우에서도 약간의 클레임이 생기는 경우가 있다. 
+참고로 무역서한예제 30-38을 참고하면 클레임 제기와 관련한 영문 서식을 참고할 수 있을 것이다. 
+
+
+
+
+
+Situation 295 Stomach Ache 
+
+ 
+Kang Jin-sung worries about Kim Hye-ri. 
+
+ 
+Kang: You don't seem to be eating at all. What's the matter 
+Kim: My stomach's been upset lately. 
+Kang: Oh, that's too bad. That's probably because of heavy stress from your work. 
+Kim: I'm afraid so. 
+
+ 
+상 황 295 복 통 
+
+강진성이 김혜리를 염려한다. 
+
+ 
+강진성: 요즘 전혀 먹지 못하네요 
+김혜리: 요즈음 배탈이 났거든요. 
+강진성: 저런 안됐군요. 아마도 일 때문에 심한 긴장을 느끼기 때문인가 보군요. 
+김혜리: 그런 것 같아요 
+
+ 
+<어구 해설> 
+upset 이라는 말은 “기분이 뒤집힌다”, “마음의 평온을 잃다” 는 의미이다. 다른 표현으로 
+는 I have a stomach ache 라고 해도 된다. “구역질이 난다” 라는 말은 I feel sick 으로 
+간단히 표현한다. 
+
+
+
+Situation 294 Capability 
+
+ 
+Park Jin-young asks Han Sang-hyun about the capability of plant. 
+
+ 
+Park: We'd like to know what your plant is technically capable of. 
+Han: Could you put that in more specific terms 
+Park: Certainly. The total amount of the monthly production, the possibility of 
+model changes, and quality control and guarantee system, etc., that we'd like to 
+know. 
+Han: I see. Let me get our production manager to answer you. 
+
+ 
+상황 294 가동능력 
+
+ 
+박진영이 한상현에게 공장의 가동능력에 대해서 묻는다. 
+
+ 
+박진영: 귀사의 공장이 기술적으로 가능한 것에 대해서 알고 싶습니다. 
+한상현: 좀 더 구체적으로 설명해 주시겠습니까 
+박진영: 그러지요. 월생산량, 모델 변형 가능성, 그리고 품질관리와 보증제도등을 알고 싶습 
+니다. 
+한진영: 알겠습니다. 생산부장님께서 알려드리도록 하겠습니다. 
+
+ 
+<어구해설> 
+이야기의 내용이 애매하여 좀 더 구체적인 표현으로 설명해 주시겠습니까 라고 내용설명을 
+의뢰하는 표현법으로 specifically 나 to be more specific 으로 달리 사용한다. 
+
+ 
+
+ 
+
+
+
+Situation 293 Phone 
+
+ 
+Kim Sang-ho asks Jeong Jin-hee to use the phone. 
+
+Kim: Excuse me. Can I use the phone 
+Jeong: Yes, but not this one, I'm afraid. I'm expecting a call on this one. Why don't 
+you use that one. 
+Kim: Thank you. Can I dial outside numbers directly 
+Jeong: No, first press 0. Then your number. 
+
+ 
+상 황 293  전화걸기 
+
+ 
+김상호가 정진희에게 전화사용을 부탁하고 있다. 
+
+ 
+김상호: 실례합니다만 전화 좀 쓸 수 있을까요 
+정진희: 네, 그런데 이 전화 말고요. 이 곳에 곧 전화가 걸려올 예정이라서요. 저 쪽 전화를 
+쓰시지요. 
+김상호: 감사합니다. 외부전화를 직통으로 걸 수 있나요 
+정진희: 아니요. 먼저 0번을 누르고 그 다음에 전화번호를 누르세요. 
+
+ 
+<어구 해설> 
+두 번째 문장은 So please use another phone 이라는 의미를 우회적으로 표현한 말이다. 
+전화가 고장난 경우에는 This phone is out of order. 라고 한다. 
+
+
+
+
+Situation 292 Durability 
+
+ 
+Kim Mi-ok asks Park In-hee about the product. 
+
+ 
+Kim: I still don't understand how this is any different from the ones made by other 
+manufacturers. 
+Park: This product has exceptional durability. 
+Kim: Do you have any test figures for me on that 
+Park: Yes. These charts show test figures for every field condition that you can imagine. 
+
+ 
+상 황 292 내 구 성 
+
+ 
+김미옥이 박인희에게 제품에 대해서 묻고 있다. 
+
+ 
+김 미옥: 타사제품과 비교할 때 어떻게 다른지 모르겠습니다. 
+박 인희: 이 제품은 내구성이 아주 뛰어납니다. 
+김 미옥: 그것에 관한 확실한 실험수치를 갖고 계십니까 
+박 인희: 예, 야외 조건상에서 테스트 결과를 이 도표로 알 수 있습니다. 
+
+ 
+<어구 해설> 
+Exceptional 이란 “예외적인, 보기가 드문” 이라는 의미이지만 여기서는 “뛰어난 
+excellent), 특수한 (special)" 으로 사용되었다. 
+
+
+Situation 311 Mass-Production 
+
+ 
+Kim Sang-ho asks Park In-seong about the mass-production. 
+
+Kim: Does your company use mass-production techniques 
+Park: Almost all our products are mass-produced on assembly lines. 
+Kim: To what degree are assembly lines automated 
+Park: Very highly. Whenever possible, robots are used. 
+
+ 
+상 황 311 대량생산 
+
+ 
+김상호가 박인성에게 대량생산에 대해서 묻고 있다. 
+
+김상호: 귀사에서는 대량생산 방식을 사용하고 있습니까 
+박인성: 거의 대부분의 제품은 조립공정에서 대량 생산되고 있습니다. 
+김상호: 조립공정은 어느 정도 자동화 되어 있습니까 
+박인성: 대부분은 자동화 되어 있습니다. 가능하다면 로봇을 이용하는 편이지요. 
+
+ 
+<어구해설> 
+소량생산의 경우에는 small-lot production 이라고 말하고 정량생산의 경우에는 batch 
+production 이라고 말한다. 
+
+ 
+ 
+
+
+
+
+Situation 310 Trade Exhibition 
+
+ 
+Han Jin-seok asks Kim Sang-hoon about the trade exhibitions. 
+ 
+Han: Do you often take part in trade exhibitions 
+Kim: We often participated in regional, national, and international exhibitions. 
+Han: What marketing tools have you found most useful 
+Kim: Consumer giveaway campaigns well-targeted advertising have been quite successful. 
+
+ 
+상황310 무역전시회 
+
+ 
+한진석과 김상훈이 무역 전시회에 대하여 묻고 있다. 
+
+ 
+한진석: 무역전시회에 자주 참가하십니까 
+김상훈: 우리는 지역, 국내 그리고 해외 전시회에 종종 참가합니다. 
+한진석: 어떠한 판매방법이 지금까지 가장 효과적이었습니까 
+김상훈: 소비자에 대한 경품 서비스 운동과 적합한 대상을 향한 광고효과가 대단한 성과를 올리고 있습니다. 
+
+ 
+<어구 해설> 
+무역서비스 전시회를 통해서 무역서비스 제공업체에게는 무역업체 담당자들과의 Face to 
+Face Meeting의 기회를, 무역업체에게는 거래처 발굴에서 무역결제대금의 회수에 이르기까 
+지 수출입활동에 필요한 정보와 노하우를 제공하게 된다. 
+
+
+
+
+
+Situation  309 FOB 
+
+ 
+Han Tae-won is talking to Oh Young-soo about the FOB. 
+
+ 
+Han: We are going to offer XYZ at this price on an FOB basis in US dollars. 
+Oh: In other words, we have to pay the cost of insurance and freight, haven't we 
+Han: Yes, you have to. 
+Oh: What are the terms 
+Han: It's all spelled out on the back of the order blank. 
+
+ 
+상 황 309 본선인도조건 
+
+ 
+한태원이 오영수와 FOB에 대해서 이야기를 나누고 있다. 
+
+한 태원: 우리는 FOB 베이스, 달러화로 이 가격에 XYZ를 제공하겠습니다. 
+오 영수: 다른 말로 하자면 보험료와 운송료를 우리가 물어야 한다는 것이지요 
+한 태원: 네 그렇습니다. 
+오영수: 그 조건은 어떻습니까 
+한태원: 그것은 주문서의 뒷면에 전부 기재되어 있습니다. 
+
+ 
+<어구 해설> 
+FOB (Free On Board: 본선인도 조건)는 물품이 지적선적항 본선간을 통과할 때 매도인이 
+인도하는 것을 뜻하며 이는 매수인이 그 지점부터 물품에 대한 모든 비용 및 멸실 또는 손 
+상의 위험을 부담해야 한다는 것을 의미한다. FOB 조건은 매도인이 물품을 수출통관 하도 
+록 요구하며 해상 또는 내륙 수로 운송에만 사용될 수 있다. 
+
+
+
+
+
+
+Situation 308 Latest Model 
+
+ 
+Ray Han asks Jang Do-il about the latest model. 
+
+ 
+Han: How has our latest model been accepted 
+Jang: It's been very well accepted. There's still a great demand for our old model, 
+too. 
+Han: Oh, why 
+Jang: Because the price is reasonable and it's easy to carry. 
+
+ 
+상 황 308 최신 모델 
+
+ 
+레이 한이 장 도일에게 최근 모델에 대해서 문의하고 있다. 
+
+레이한: 우리 회사의 최신형 상품이 시장에서 반응은 어떻습니까 
+장도일: 아주 호응이 좋습니다. 수요도 역시 많습니다. 
+레이한: 무슨 이유라고 있나요 
+장도일: 값이 비싸지 않고 갖고 다니기도 쉽기 때문이죠. 
+
+ 
+<어구 해설> 
+수요가 엄청나게 많다고 표현할 때 There is 구문을 이용하면 편리하다. 이와 반대로 수요 
+에 비해 공급이 부족한 경우에는 The supply cannot meet the demand for our old 
+model too. 라고 표현한다. 
+ 
+
+
+
+
+Situation 307 Employee Training 
+
+Lee Min-ho asks Park Jin-young about the employee training. 
+
+Lee: What sort of employee training is provided in your company 
+Park: New employees go through a six month training phase during which they are 
+thoroughly indoctrinated in corporate philosophy. 
+Lee: How is on-the-job training conducted 
+Park: Our program begins with group training, then each trainee is assigned to work for a 
+while with a designated supervisor. 
+
+ 
+상 황 307 사원교육 
+
+ 
+이민호가 박 진영에게 사원교육에 대해서 묻고 있다. 
+
+ 
+이민호: 귀사에서는 어떤 종류의 사원교육이 이루어집니까 
+박진영: 신입사원은 6개월 동안 훈련을 받습니다. 그 기간 동안 회사의 경영철학을 철저히 가르치고 
+있습니다. 
+이민호: 실지훈련은 어떤 방법으로 운영되고 있습니까 
+박지영: 당사의 프로그램은 단체연수로 시작합니다. 그런 후에 각 연수자들은 지명된 상사로부터 한 
+동안 일을 할당받습니다. 
+
+ 
+<어구 해설> 
+on-the -job training은 OJT라고 약자로 표현하기도 한다. 
+
+
+
+
+Situation 306 Competitive Price2 
+
+ 
+Park Chan ho asks Kang Ki-won about the competitive price. 
+
+Park: This said that your prices are not competitive. 
+Kang: I think in light of our quality standards, these prices are quite reasonable. 
+Park: Well, your competition is offering similar product at much cheaper prices. 
+Kang: What kind of a different are we talking about 
+Park: I'd say that you're about 10% high. 
+
+ 
+상 황 306 경쟁가격 2
+
+ 
+박찬호가 강 기원에게 제품가격에 대해서 묻고 있다. 
+
+박찬호: 귀사의 가격은 경쟁력이 없는 것 같습니다. 
+강기호: 우리들의 품질기준에 따르면 이 가격은 적당한 것이라고 생각하는데요. 
+박찬호: 타 회사는 제품을 훨씬 더 싼 가격으로 제공하고 있습니다. 
+강기호: 어느 정도 차이가 있는데요 
+박찬호: 10% 정도도 높습니다. 
+
+ 
+<어구해설> 
+가격을 나타낼 때 price를 기준으로 하는 경우에는 high 나 low 또는 reasonable 등과 같 
+은 형용사만을 사용할 수 있으며 물건을 주어로 하는 경우에는 expensive나 cheap 와 같 
+이 구체적인 상태를 나타내는 단어를 사용할 수 있다. 
+
+ 
+
+ 
+
+
+
+
+Situation 305 License 
+
+Oh Jin-seo wants to get a license to use patent. 
+
+Oh: We would like a license to use your patent. 
+Ha: Our trade mark is registered and cannot be used freely without our 
+permission. 
+Oh: If you will allow us your patent rights, we can assure you of a large return. 
+Ha: And our company will give you special permission to introduce our engineering patent. 
+
+상황 305 라이센스
+
+오진서가 특허사용을 위한 라이센스 취득을 원하고 있다.
+
+오진서: 귀사의 특허를 사용할 수 있는 라이센스를 얻고 싶습니다. 
+하인호: 저희 상표는 등록된 것이어서 허가없이 무단으로 사용하실 수 없습니다. 
+오진서: 귀사의 특허권을 사용하도록 허락해 주시면 그 보답으로 상당액수를 지급해 드리겠습니다. 
+하인호: 그러시다면 귀사에게 저희 기술특허를 도입할 수 있도록 특별인가를 내어드리겠습 
+니다. 
+오진서: 감사합니다. 
+
+<어구해설> 
+우리가 흔히 “특허” 라고 알고 있는 “patent"는 여러 가지 형태로 쓰일 수 있습니다. 명사 
+로는 ”특허, 특권, 독특한 것“ 이라는 뜻으로 일반적으로 문장에서는 ”특허를 취득하다“ 의 미로서 take out 동사와 함께 사용됩니다. 또한 "특허를 출원하다"라는 의미일 경우에는 
+grant a patent라는 표현을 씁니다. 
+
+
+
+
+
+
+Situation 304 Holidays 
+
+Jo Kang-hyun complains about his holidays 
+
+ 
+Jo: I don't mind working 44 hours or even 48 a week, but I wish I could take a longer leave of absence when I want. 
+
+ 
+Oh :How many paid holidays do you get a year 
+Jo: Theoretically we are allowed to take three weeks, but actually we can't even take three days in a row. 
+Oh: It's the same with us. 
+
+ 
+상황 304 휴가
+
+ 
+조강현이 자신의 휴가에 대해서 불평을 하고 있다. 
+
+ 
+조강현: 나는 일주일에 44 시간이든 심지어 48시간 일해도 상관없지만 내가 원하는 때에 좀 더 오래 쉴 수 있었으면 합니다. 
+오미란: 유급휴가는 일 년에 며칠인데요 
+조강현:　이론적으로는 3주일을 갖도록 인정되어 있지만 실제로는 계속해서 3일을 사용할 수 없습니다. 
+오미란: 우리와 마찬가지군요. 
+
+ 
+＜어구 해설> 
+“휴가를 얻다”라고 표현할 때에는 동사 get을 쓰는 점에 유의하자. holidays 라는 말은 영국에서는 휴가를 나타내지만 미국에서는 축제일이나 공휴일을 뜻한다. 
+ 
+
+
+
+
+Situation 303 Price 2 
+
+ 
+Han Jin-man asks Kim min-ho about the price. 
+
+ 
+Han: We've been doing our best to bring the price down on this product. 
+Kim: It's apparently still not enough. 
+Han: I understand that there is serious competition. 
+Kim: As soon as people recognized the potential, it seems that everyone got into the 
+act. 
+
+ 
+상 황 303 가 격 2 
+
+ 
+한 진만이 김민호와 가격에 대해서 문의하고 있다. 
+
+ 
+한진만: 이 제품의 가격을 인하시키려고 우리는 최대한의 노력을 해왔습니다. 
+김민호: 아직 그렇게 충분하지는 않습니다. 
+한진만: 경쟁이 대단하다고 들었습니다. 
+김민호: 유망한 시장이라는 것을 알아차리지 마자 모두들 곧 행동에 들어간 것 같습니다. 
+
+ 
+<어구해설> 
+bring down 이란 원래 “어떠한 물체를 맞추어 떨어 뜨리다” 라는 의미이지만 여기서는 가 
+격을 하락시키다 라는 뜻으로 사용되었다. 
+ 
+
+
+
+
+Situation 302 Schedule 
+
+ 
+Ha Soo-young is talking to Kim In-ho about the schedule. 
+
+Ha: There is a few changes in our schedule for this week. 
+Kim: What are they 
+Ha: The sales promotion meeting on Tuesday was canceled. 
+Kim: I see. We'll have to tell Mr. Kim all these changes. Do you know how to 
+reach him 
+
+ 
+상황 302 스케줄 
+
+ 
+하수영이 김인호와 스케줄 변동에 대해서 이야기 한다. 
+
+ 
+하수영: 이번 주의 우리계획에 조금 변동이 있는데요. 
+김인호: 뭔가요 
+하수영: 화요일에 있는 판매 촉진회의가 취소되었습니다. 
+김인호: 알겠습니다. 김 선생님에게 이 변경사항을 이야기 해야겠군요. 그와 연락할 방도를 
+알고 계십니까 
+
+ 
+<어구해설> 
+상대의 행선지를 물어보는 경우에 쓰는 관용표현이다. 장소는 알지만 연락이 되지 않는 경 
+우에는 “I know where he is, but You can reach him at this number." 
+
+
+Situation 321 Loan Project 
+
+ 
+Kim Han-soo is talking to Mr. Jones about the loan project. 
+
+Kim: Is it true about the project being delayed again  
+Jones: No, only that the banks haven't come through. 
+Kim: Have they actually denied the loan 
+Jones: They just haven't made a decision yet. 
+
+ 
+상 황 321 융자 프로젝트
+
+ 
+김 한수가 존스 씨에게 융자 프로젝트에 대해서 대화를 나누고 있다. 
+
+ 
+김 한수: 그 계획이 지연되고 있다는 것이 사실입니까 
+존 스: 아니요 그저 은행에서 아직 처리를 해주지 않았습니다. 
+김 한수: 융자가 사실상 거부된 것입니까 
+존 스: 아직 결정을 못 내리고 있는 것 같습니다. 
+
+ 
+<어구 해설> 
+"It is true -" 형태의 질문은 이미 사실을 안 상태에서 상대방에게 확인하는 것으로 I heard about 로 사용가능하다. 
+ 
+
+
+
+Situation 320 Shipment cost. 
+
+ 
+Kang Su-jin asks Ha Do-il about the shipment cost. 
+
+Kang: Who assumes shipment cost 
+Ha: That would be the responsibility of the buyer. We are prepared, howeve, to 
+provide all the documentation costs. 
+Kang: We would also want you to cover insurance and the cost of transporting the 
+good to the port. 
+Ha: In that case, we might need to reopen the question of prices. 
+
+ 
+상 황 320 선적비용 
+
+ 
+강수진이 하도일에게 선적비용에 대해서 묻는다. 
+
+강수진: 선적비용은 누가 부담합니까 
+하도일: 구매자가 부담합니다. 하지만 모든 선적 비용을 제공할 준비가 되어있습니다. 
+강수진: 우리는 당신 측에서 보험료와 항구까지의 상품운송 비용도 지급하기를 원합니다. 
+하도일: 그런 경우에는 가격문제를 재검토할 필요가 있을 것입니다. 
+
+ 
+<어구해설> 
+assume 이란 동사는 추측, 가정하다 라는 의미 외에도 역할이나 임무를 맡다로도 사용될 
+수 있다. That would be는 조건절의 내용을 언외에 함축시켜 표현을 완곡하게 표현한 것이 
+다. 
+
+
+
+
+Situation 319 Price List 
+
+ 
+Ha Jin-soo asks Kim Min-seok about the price list. 
+ 
+Ha: A distributor just called asking about the spring prices. 
+Kim: Did you check them all 
+Ha: Sure. Should I fax them the new price list 
+Kim: Yes. And you can use it in place of the old price from now on. 
+
+ 
+상황 319 가격표 
+
+ 
+하진수가 김민석에게 가격표에 대해서 묻고 있다. 
+
+ 
+하진수: 판매 대리점에서 봄 상품가격에 대해 전화로 문의해 왔습니다. 
+김민석: 확인해 보았나요 
+하진수: 예, 새로운 가격표를 팩스로 보낼까요 
+김민석: 그러세요. 그리고 이제부터 이전 가격 대신에 이것을 사용하세요. 
+
+ 
+<어구 해설> 
+상황 319 에서는 조동사를 사용하여 상대방에게 의견을 구하는 표현을 제시한다. 
+일반적으로 can 이나 may가 주로 사용되며 허가나 양보의 의미로 쓰인다. 
+Should는 약간의 의무가 수반된 표현이라고 할수 있다. 
+
+ 
+
+
+
+
+Situation 318 Remittance 
+
+ 
+Kim Sang-woo asks Park In-kyu about the remittance. 
+
+ 
+Kim: I have another question regarding price. 
+Park: Go right ahead, Mr. Kim. 
+Kim: Is there any possibility of reducing the price by paying a cash remittance 
+Park: No, I'm afraid not. We'd prefer to receive payment by letter of credit. 
+
+ 
+상 황 318 송 금 
+
+ 
+김 상우가 박 인규에게 송금에 대해서 묻고 있다. 
+
+김 상우: 가격에 관한 또 하나의 질문이 있습니다. 
+박 인규: 말씀하십시오. 김 상우 씨 
+김 상우: 현금을 송금하면 가격을 낮출 가능성이 있습니까 
+박 인규: 그렇지 않습니다. 우리는 신용장 결제 방식을 원하고 있습니다. 
+
+ 
+<어구해설> 
+신용장(letter of credit: L/C)이란 무역거래의 대금지불 및 상품 입수의 원활을 기하기 위하 
+여 수입상의 거래은행이 수입업자(신용장 개설의뢰인)의 요청으로 수출업자로 하여금 일정 
+기간 및 일정조건하에서 운송서류(transport document)를 담보로 하여 수입업자, 신용장 개 
+설은행 또는 개설은행이 지정하는 환거래 취급은행을 지급인으로 하는 화환어음을 발행하도 
+록 하여 이 어음이 제시될 때에 지급 또는 인수할 것을 어음발행인(수출업자) 및 어음수취 
+인 (어음매입은행)에 대하여 확약하는 증서(document)이다. 바꾸어 말하면 신용장이란 특정 
+은행이 수입업자의 지불능력을 특정조건아래 보증하는, 즉 상업신용(trade credit, 
+commercial credit)을 은행신용(bank credit)으로 전환시켜주는 금융수단이다. 
+
+
+
+
+Situation 317 Incentives 
+
+ 
+Kim Jin-seok asks Lee Jin-dong about the incentives. 
+
+ 
+Kim: Are there any bonus incentives for sales performance 
+Lee: Not at present. 
+Kim: I think it would help to give the representatives an incentive for achieving 
+sales targets. 
+Lee: It's a little too early to judge what targets are reasonable. 
+
+ 
+상황 317 인센티브 
+
+ 
+김진석이 이진동에게 인센티브에 대해서 묻고 있다. 
+
+ 
+김진석: 판매실적에 대한 격려금은 있습니까 
+이진동: 현재는 없습니다. 
+김진석: 판매목표를 달성시키기에 보상금을 대리점에 제공하는 것이 좋다고 생각합니다. 
+이진동: 타당한 판매목표가 얼마인가를 판단하는 것은 다소 시기 상조 입니다. 
+
+ 
+<어구해설> 
+각 기업에서는 효율적인 업무진행과 직원들의 사기진작이나 궁극적으로는 커다란 영업 
+이익을 올리기 위해서 직원들이나 각 영업 대리점을 대상으로 실적에 대해 보상해주는 인센티브제를 실시하고 있다. 
+
+
+
+
+Situation 316 Market Analysis 
+
+ 
+Kim Min-seok asks Jang Jin-young about the market analysis. 
+
+ 
+Kim: Could you tell me some more about your market analysis 
+Jang: Yes, our market analysis tells us our prime user will be between 40 and 60. 
+Kim: How soon can you have your product ready 
+Jang: We certainly expect our product to be available by Oct. 1. 
+
+ 
+상 황 316 시장 분석 
+
+ 
+김 민석이 장 진영에게 시장분석에 대해서 문의하고 있다. 
+
+ 
+김민석: 귀사의 시장분석에 대해서 자세히 말씀해 주시겠습니까 
+장진영: 예, 저희 시장분석에 다르면 상품 주 고객은 40대에서 60대까지입니다. 
+김민석: 제품은 언제까지 생산할 수 있습니까 
+장진영: 10월 1일 까지면 만들 수 있을 것 같습니다. 
+
+ 
+<어구 해설> 
+How soon- 이란 when을 나타내는 의미 이외에도 “어느 정도나 빨리” 진행 될 수 있느 
+냐를 나타낸다. 
+
+ 
+
+
+
+
+Situation 315 Contract 
+
+ 
+Han Su-jin asks Kim Sang-hyun about the contract. 
+
+Han: When will the contract become effective 
+Kim: It'll begin March 1. 
+Han: How long will the contract extend 
+Kim: As the contract now stands it will be in effect for two years from the time of 
+our signature. 
+
+ 
+상 황 315 계 약 
+
+ 
+한 수진이 김 상현에게 계약에 대해서 질문하고 있다. 
+
+ 
+한수진: 언제 계약이 효력을 발생하죠 
+김상현: 3월 1일 부터입니다. 
+한수진: 얼마나 오래 계약이 연장됩니까 
+김상현: 계약이 체결되었으므로 우리의 서명 시점으로부터 2년 동안 효력이 있습니다. 
+
+ 
+<어구해설> 
+(계약에) “효력이 생기다”라는 표현으로는 enter (come) into effect 라고 한다. 
+의미상으로는 “be in effect” 의 내용을 담고 있다. 
+
+
+
+
+Situation 314 Ship-back 
+
+ 
+Ahn Jeong-nam explains the ship-back clauses to Zao Lim. 
+
+Ahn: The ship-back clause says that if the goods are found to be out of tolerance, 
+we are to ship them back to Korea. 
+Zao: That's right. 
+Ahn: And you'll pay the freight of course. 
+Zao: If they are out of tolerance. We'd like to have rejected goods returned by 
+freight forward. 
+
+ 
+상 황 314 반송 조항 
+ 
+안정남이 자오 림에게 반송조항에 대해서 설명한다. 
+ 
+안정남: 반송조항에는 상품 품질에 불량이 있으면 중국으로 반송토록 되어 있습니다. 
+자오림: 맞습니다. 
+안정남: 물론 운임은 그쪽에서 지불 하겠지요. 
+자오림: 품질 불량이 있으면 반품은 운임 선불로 반송해 주십시오. 
+ 
+<어구해설> 
+ship-back 이란 어떠한 물건에 대해서 규격이나 조건이 맞지 않는 경우에 통관을 보류한 
+후 일정기간이 지나도 개선의 여지가 없는 경우에는 NG 판정을 내려 귀국 조치시키는 과정 
+을 말한다. 
+
+
+
+
+Situation 313 Summary report. 
+
+ 
+Kim In-seong asks Han Dong-jun about the summary report. 
+
+ 
+Kim: There should have been an executive summary included. 
+Han: I'm sorry I didn't realized that. 
+Kim: Well, we'll just have to go with that document this time. 
+Han: O. K. And I'll be sure to include one in the future. 
+
+ 
+상 황 313요약보고서 
+
+김인성이 한동준에게 요약보고서에 대해서 묻고 있다. 
+
+ 
+김인성: 결제용개요서를 첨부했어야 하지 않나요 
+한동준: 죄송합니다. 미처 몰랐습니다. 
+김인성: 이번에는 그냥 이대로 쓸 수 밖에 없군요. 
+한동준: 알겠습니다. 다음부터는 꼭 첨부하도록 하겠습니다. 
+
+ 
+<어구해설> 
+should have + 과거분사의 형태는 “했어야 했는데 -- 하지 못했다” 라는 의미가 담겨있는 
+표현형태이다. 
+
+ 
+
+ 
+
+Situation 312 Order 
+
+ 
+Park In-sung is talking to Kim moon-soo about the order 
+
+ 
+Park: Your orders for the new model are way up. 
+Kim: Yeah, it's beginning to move. 
+Park: With a better price sales would really go. 
+Kim: Well, we're having trouble keeping up with demand as it is. 
+
+ 
+상황 312 주 문 
+
+박인성이 김문수에게 주문사항에 대해서 이야기 한다. 
+
+ 
+박인성: 신 모델의 주문이 정말 늘었군요. 
+김문수: 네, 활기 있게 움직이기 시작합니다. 
+박인성: 가격만 조금 내려주시면 매출이 정말 신장될 텐데요. 
+김문수: 글쎄요. 지금 이대로도 수요를 따라가기가 어려운 실정입니다. 
+
+ 
+<어구해설> 
+be way up 이란 구어적 표현으로 “성업 중이다”를 나타낸다. With a better price에서는 if를 나타내는 절을 분사구로 전환하여 간략하게 표현한 것이다.
+
+
+Situation 331 Order 
+
+ 
+Kang Min-seok asks Han Dong-shin about the order .
+
+ 
+Kang: Are they serious about cancelling the order 
+Han: Yeah, I think they mean it. 
+Kang: Then, we're going to have to offer them a better deal. 
+Han: I guess we could lower the price. 
+
+ 
+상황 331 주 문 
+
+ 
+강 민석이 한 동신에게 주문에 대해서 묻고 있다. 
+
+ 
+강민석: 그들이 주문을 취소한다는 게 정말입니까 
+한동신: 네, 정말 그런 것 같습니다. 
+강민석: 그렇다면 그들에게 더 나은 조건을 제시해야 겠군요. 
+한동신: 제 생각에는 가격을 인하할 수 있을 것 같은데요. 
+
+ 
+<어구 해설> 
+serious 란 단어를 사용하여 상대방에게 문제의 진의 여부를 물을 수 있다. 
+true를 쓰는 경우에는 사람이 주어가 아니라 it이나 문장전체를 받게 된다. 
+
+
+
+
+Situation 330 Price 
+
+ 
+Kim Young-soo asks Ha Do-il about the price. 
+
+ 
+Kim: I'm wondering if we can hold these old prices, in light of their requests for 
+certification and delivery. 
+Ha: I'm afraid that you're right. 
+Kim: What do you suggest that we do 
+Ha: I'll have to request a new price in consideration of these new requirements. 
+
+ 
+상 황 330 가 격 
+
+김 영수가 하 도일에게 가격에 대해서 질문하고 있다. 
+
+ 
+김영수: 증명서와 인도에 대한 그들의 요구로 볼 때 종래의 가격을 그대로 유지할 수 있을지 걱정됩 
+니다. 
+하도일: 저도 그렇게 생각하고 있습니다. 
+김영수: 어떻게 하면 좋다고 생각하십니까 
+하도일: 이러한 추가요구를 고려해서 새로운 가격을 요구해 봐야 겠습니다. 
+
+ 
+<어구 해설> 
+in light of 에서 light는 “빛”의 의미를 강조하여 “- 의 관점에서 볼 때, -에 비추어 보면” 
+으로 이해하면 된다. 
+
+
+
+
+Situation 329 Application 
+
+ 
+
+Kim: Let's get started. First, I'd like to know which position you're applying for. 
+Han: For the sales ads dept. 
+Kim: How about your expectation 
+Han: I'm very interested in advertising, so I want to learn a lot if I worked for your 
+company. 
+
+ 
+상 황 329 응 시 
+
+ 
+김미선이 한지원에게 응시에 대해서 묻고 있다. 
+
+ 
+김미선: 자 시작하도록 합시다. 우선 어떤 직종에 지원했는지 알고 싶군요. 
+한지원: 영업 광고 부서입니다. 
+김미선: 당신이 기대하는 것은 무엇인가요 
+한지원: 저는 광고에 흥미가 있어서 귀사에서 일하게 된다면 많은 것을 배우고 싶습니다. 
+
+ 
+<어구해설> 
+get +과거분사의 형태는 수동의 형태로 “- 당하다” 라는 의미이다. get + 현재분사와 구 
+별해서 익혀두어야 할 표현이다. 
+
+ 
+
+
+
+Situation 328 Trade Services Show 2002 
+
+ 
+Chinese merchandiser Mao asks You Shin-han about the COEX mall. 
+ 
+Mao: Is the COEX Mall near here 
+You: Yes, it's within walking distance. Let me show you around it now. 
+Mao: Oh, thank you. I'd like to meet Mr. Park, service dept. manager of Trade 
+Services Show 2002. 
+You: I'll introduce him to you. 
+
+ 
+상황 328 무역서비스 정보 전시회 2002 
+
+ 
+중국계 머천다이저인 마오가 유신한에게 코엑스 몰에 대해서 묻는다. 
+
+마오: 코엑스 몰이 여기서 가까운가요 
+유신한: 예, 걸어서 갈 수 있는 거리입니다. 자 한번 둘러볼까요 
+마오: 감사합니다. 무역서비스 정보 전시회 2002 서비스 담당자인 박과장님을 만나고 싶은 
+데요. 
+유신한: 제가 소개해 드리도록 하겠습니다. 
+
+ 
+<어구해설> 
+고객이나 바이어등을 안내 할 때에는 단순히 follow me -- 라고 표현하기 보다는 “Let 
+me show you --” 라고 표현하여 격식을 갖추도록 한다. 
+ 
+ 
+
+ 
+
+
+
+
+Situation 327 Exchange Rate 
+
+Han Ji-won asks Mr. Lim about exchange rate. 
+
+ 
+Han: Mr. Lim the Korean won is going up and up these days. What happened  
+Lim: Yeah. The US is putting a lot of pressure on us to boost their exports. 
+Han: I bet, they are. How are you going to get around it 
+Lim: I don't know, but I sure hop it doesn't go too far. 
+Han: Well. it's gotta stop someplace. 
+
+ 
+상 황 327 환 율 
+
+한지원이 환율에 대해서 임수한에게 질문하고 있다. 
+
+ 
+한지원: 임 선생님 한국의 원화가치가 요즘 계속해서 오르고 있는데 웬일입니까 
+임수한: 미국이 수출을 늘리기 위해서 우리에게 많은 압력을 가하고 있거든요. 
+한지원: 분명히 그래요 어떻게 피해나가실 생각입니까 
+임수한: 글쎄요 너무 지나친 것이 아니기를 바랄 뿐입니다. 
+임수한: 어느 선에 끝나게 되겠지요. 
+
+ 
+<어구 해설> 
+달러화에 대한 원화의 가치가 높아진다는 것은 환율 면에서는 달러화에 대한 원화의 환율이 떨 
+어지는 것을 의미하므로 사용에 혼동이 없도록 유의하자. 환율과 관계된 표현으로 "원화가치가 
+오르다/하락하다/ 변동하다" 라는 말은 "keep appreciate/ depreciate / fluctuate" 라고 표현 
+할 수 있다. 
+
+
+
+
+
+Situation326Schedule 
+
+Rora is advising Han to prepare documents for meeting. 
+
+ 
+Han: This is Han speaking. 
+Rora: Mr. Han. I think it would be helpful to have something in writing we schedule a meeting. 
+Han: Well, I could prepare a short memorandum giving all the details. 
+Rora: That would be helpful 
+
+ 
+상황  326스케쥴 
+
+ 
+로라가 제임스 한에게 회의에 필요한 문서준비를 하라고 지시한다. 
+
+ 
+제임스: 제임스 한입니다 
+로라: 한 선생님. 회의 일정을 잡기 전에 서류상으로 좀 준비하는 게 도움이 되겠는데요. 
+제임스: 글쎄요, 내용을 상세히 적어 놓은 메모를 준비할 수는 있겠습니다. 
+로라: 그게 도움이 되겠군요. 
+
+ 
+<어구 해설> 
+「~할 필요가 없다」,「~하지 않아도 된다」는 뜻으로 다른 사람에게 권고나 조언을 할 때는 흔히 do not need to 를 사용 한다. 같은 표현으로 have no need to need not / don't have to 등을 쓸 수 있다. 
+
+ 
+
+
+
+Situation 325 Promissory Note 
+
+ 
+Park In-kwon asks Jang min-soo about financial matters. 
+ 
+Park: Next we'd like to focus on financial matters. 
+Jang: Can you accept our promissory note in the local currency 
+Park: No, our price is quoted in US dollars. I'm afraid that we can't accept local 
+currency. 
+Jang: Local banks can change your promissory note into U.S dollars. 
+
+ 
+상 황 325 Promissory Note 
+
+ 
+박 인권이 장 민수에게 결제관계에 대해서 문의한다. 
+
+박인권: 다음은 결제 문제로 화제를 옮기도록 합시다. 
+장민수: 현지 통화의 약속어음은 받으실 수 있습니까 
+박인권: 아닙니다. 우리 가격은 미 달러로 견적을 냈으므로 현지 통화는 받을 수 없습니다. 
+장민수: 약속어음을 미 달러로 환전하는 것은 현지 은행에서 할 수 있습니다. 
+
+ 
+<어구 해설> 
+promissory는 “지불을 약속하는” 이라는 형용사로서 약속어음이란 발행인이 소지인에 대하 
+여 일정기일에 일정금액을 지급할 것을 약속하는 어음으로서 간단히 P.N 이라고 한다. 
+
+
+
+
+
+Situation 324 Advertising campaign 
+
+ 
+Han Jin-young proposes advertising strategy. 
+
+Han: I'd like to propose an advertising campaign using the Internet homepage. 
+Mike: Using Internet would be a good idea, but we may need to research its 
+effectiveness. 
+Han: Let's subcontract production of the illustrations for a really professional look. 
+Mike: That sounds great. 
+
+ 
+상황 324 광고 캠페인 
+
+ 
+한 진영이 광고전략을 설명하고 있다. 
+
+ 
+한진영: 인터넷 홈페이지를 이용한 광고 캠페인을 제안하고 싶습니다. 
+마이크: 인터넷 활용은 좋은 생각이지만 그것이 효과적인지는 조사해볼 필요가 있군요. 
+한진영: 전문적인 외형을 위해서 일러스트레이션은 다른 업체에 맡기도록 하지요. 
+마이크: 그거 좋은 생각입니다. 
+
+<어구 해설> 
+“I'd like to --” 는 상대방에 대한 바램을 표현하는 경우에 쓰이며 굳이 간단하게 표현한다면 I want to -- 로 바꾸어 쓸 수 있다. 
+ 
+
+ 
+ 
+
+
+
+
+
+Situation 323 Expected Price 
+
+ 
+Jo Nam-su explains x 2500 to Kim Sang-ho. 
+
+Jo: According to the X 2500, I'd happy to answer any questions that you might have. 
+Kim: When can we expect its delivery 
+Jo: It's already in production, so you can expect it in stores before the end of the month. 
+Kim: What do you expect it to go for 
+Jo: We've priced it at $98. 
+
+ 
+상 황 323 예상 가격 
+
+ 
+조 남수가 X 2500에 대해서 김 상호에게 설명하고 있다. 
+
+ 
+조 남수: X 2500 제품에 대해서 질문을 하시면 기꺼이 대답해 드리겠습니다. 
+김 상호: 그 제품이 언제 출하될 예정입니까 
+조 남수: 이미 생산 중에 있으니까 이달 말 이전에 상점에서 볼 수 있을 겁니다. 
+김 상호: 소매가는 어느 정도로 예상하십니까 
+조 남수: 98달러로 매겼습니다. 
+
+ 
+<어구해설> 
+go for 는 원래 “-- 으로 통하다, 통용되다” 라는 의미로서 여기서는 (어느 정도의) 가격으로 정해지다 라는 의미가 된다. 
+
+ 
+ 
+
+
+
+Situation 322 Service 
+
+ 
+Kim Sang-ok asks Han Dae-soo about the product service. 
+
+Kim: What sort of guarantee do you offer on your product 
+Han: A standard one. Replacement during the first year if all rules for proper use 
+have been followed. 
+Kim: Tell us about your post purchase servicing. 
+Han: We use service centers at major stores. 
+
+ 
+상 황 322 서비스 
+
+ 
+김상옥이 한대수에게 제품 서비스에 대해서 질문한다. 
+
+ 
+김상옥: 귀사의 제품은 어떠한 보증이 있습니까 
+한대수: 일반적인 겁니다. 정상적인 사용법을 따랐을 경우 처음 1년 동안만 물건을 교체해 
+드립니다. 
+김상옥: 구입 후 서비스에 대해 말씀해 주십시오. 
+한대수: 저희 회사는 주요지점마다 서비스 센터를 두고 있습니다. 
+
+ 
+<어구 해설> 
+“What sort of +명사” 로 (어떠한 형태의) 종류나 유형을 지칭할 때 사용한다. sort 대신 
+kind를 바꾸어 쓸 수도 있다. replacement 는 substitute 의 의미가 된다. 
+
+
+Situation 341 Interview 
+
+ 
+Han dong-jin is holding an interview with Park Chan-ho. 
+
+ 
+Han: Have you ever had vocational training 
+Park: I went to a computer school and learned how to operate SQL and JAVA. 
+Han: Did you work part-time while you were going to university 
+Park: No, but I occasionally worked evenings for a fast food chain. 
+
+ 
+상황 341 인터뷰 
+
+ 
+한 동진이 박 찬호와 인터뷰를 하고 있다. 
+ 
+한동진: 지금까지 직업 훈련을 받아 본 적이 있습니까 
+박찬호: 컴퓨터 학원에 다녔으며 SQL과 Java 시스템을 운영할 수 있습니다. 
+한동진: 학교에 다닐 적에 아르바이트 경험은 있습니까 
+박찬호: 아니요 하지만 야간에 패스트 푸드점에서 일한 경험이 좀 있습니다. 
+
+ 
+<어구해설> 
+vocation은 신학에서 유래된 단어로 신의 소명이나 부름을 나타내는 말이다. 여기서는 전문 
+가 교육이라는 표현으로 professional education 으로 바꾸어 사용할 수도 있다. 
+
+ 
+
+
+
+Situation 340 M & A 
+
+ 
+Kim Jin-ho asks Park In-seok about the M&A. 
+
+ 
+Kim: Do some mergers and acquisition fail 
+Park: Yes, some fail because the companies involved neglect to streamline 
+management or fail to establish harmony with the acquired company. 
+Kim: Is your company seeking companies to merge with or acquire  
+Park: Right now our company would consider a merger or acquisition with a 
+company in a certain field of technology. 
+
+ 
+상황 340 인수합병
+
+김 진호가 박 인석에게 M&A에 대해서 묻고 있다. 
+
+ 
+김진호: 실패로 끝나는 합병이나 매수도 있습니까 
+박인석: 예, 합병한 기업이 경영의 능률화를 태만히 하거나 합병된 기업 내의 조화를 구축 
+하고자 하지 않았기 때문에 실패한 예도 있습니다. 
+김진호: 귀사는 합병이나 매수를 목적으로 회사를 찾고 있습니까 
+박인석: 현재 당사는 어떤 분야의 기술을 가진 기업이 있다면 합병매수를 고려해 보겠습니 
+다. 
+
+ 
+<어구해설> 
+M&A 란 경영환경의 변화에 대응하기 위하여 기업의 업무 재구축의 유효한 수단으로 행하여 
+지는 기업의 매수합병을 말한다. M은 기업합병을, A는 매수(종업원 포함)를 뜻하며 M은 매수한 
+기업을 해체하여 자사(自社) 조직의 일부분으로 흡수하는 형태를, A는 매수한 기업을 해체하지 
+않고 자회사/ 별회사/ 관련회사로 두고 관리하는 형태를 말한다. 
+
+
+
+
+Situation 339 Advertising Campaign 
+
+Kim Min-seok asks Han Min-ho about the advertising campaign. 
+
+ 
+Kim: Could you tell me how much we can spend on the advertising campaign. 
+Han: I think the limit would be 20 percent of the total expenses. 
+Kim: When do you need the report on company restructuring 
+Han: By Friday at the latest. I need it before the meeting on Monday. 
+
+ 
+상 황 339 광고 캠페인 
+
+ 
+김 민석이 한 민호에게 광고 캠페인에 대해서 묻고 있다. 
+
+ 
+김 민석: 광고에 우리가 쓸 수 있는 비용이 어느 정도인지 말씀해 주시겠어요. 
+한 민호: 한도액은 총 비용의 20% 라고 생각합니다. 
+김 민석: 회사 구조조정 보고서는 언제 필요하십니까 
+한 민호: 늦어도 금요일까지, 즉 월요일까지는 필요합니다. 
+
+ 
+< 어구해설 > 
+최근의 기업광고 형식을 보면 일정한 캠페인 형식을 띠기도 한다. 예를 들어 BC 카드의 경 
+우 “부자 되세요” 라는 카피 문구를 통해서 국민적 정서를 이끌어 내기도 하며 서울은행의 
+경우에는 기업 로고를 과감히 수정하여 녹색이라는 희망적인 색깔을 주제로 고객에게 희망 
+과 행복을 주겠다는 의지를 나타내고 있다. 
+
+
+
+
+
+Situation 338 Union 
+
+ 
+Kim Min-jeong asks the purpose of union. 
+
+Kim: What are the goals of the union  
+Ahn: Its principal goal is to secure fair compensation and good working conditions 
+for all its members. 
+Kim: How are the relations between union members and management 
+Ahn: Now, they are good, but they were rocky during a prolonged labor dispute a few years ago. 
+ 
+상황 338 노동조합 
+
+ 
+김 민정이 노동조합의 목적에 대해서 묻고 있다. 
+
+ 
+김민정: 노동조합의 목적은 무엇입니까 
+안혜원: 주요목적은 정당한 보수와 모든 조합원을 위한 좋은 근로조건을 확보하는 것입니 
+다. 
+김민정: 조합원과 경영자 측의 관계는 어떻습니까 
+안혜원: 지금은 좋습니다만 2-3년 전에 노사분쟁이 장기화 되었을 때에는 불안정 해졌습니 
+다. 
+
+ 
+<어구해설> 
+노동시장에서 노동력을 제공하여 임금을 지급받는 노동자와 노동력 수요자로서의 사용 
+자가 형성하는 관계이다. 단위 사업장에서 노동시장을 매개로 하여 개별 노동자와 사용 
+자가 형성하는 관계를 개별적 노사관계라고 하며, 노동자 집단과 개별적 사용자 혹은 
+노동자 집단과 사용자 집단간의 관계를 집단적 노사관계라고 한다. 노사관계란 일반적 
+으로 집단적 노사관계를 의미하는 개념이다. 산업화 과정에서 사업장을 중심으로 노사 
+간에 많은 노동문제가 발생하였고, 이러한 문제에 대하여 노동자들이 저항하는 과정에 
+서, 노동조합을 조직하게 되었다. 
+
+
+
+
+
+Situation 337 Negotiation 
+
+Miguel negotiates with Han Sun-il for the price. 
+
+Han: I like your new models but the prices are just going to have to come down. 
+Miguel: Mr. Han as I already explained to you, we're offering you the very minimum. We can't come down any more than we have. 
+Han: If other companies can, you can , too 
+Miguel: Yes, but our product is head and shoulders above any others, you know 
+that. There's no compensation. 
+
+상 황 337 협 상 
+
+미구엘이 한선일과 가격에 대해서 교섭하고 있다. 
+
+한선일: 귀사에서 내놓은 새 모델이 마음에 들지만 가격을 좀 인하해 주셔야 겠습니다. 
+미구엘: 한 선생님 제가 이미 설명해 드렸듯이 저희는 귀사에게 최저가로 오퍼하고 있습니다. 
+미구엘: 저희가 깎아 드린 것 보다 더 깎아 드릴 수는 없습니다. 
+타사에서 가능하면 귀사에서도 가능하지 않습니까 
+미구엘:　하지만 품질에 관한 한 저희 제품이 타사에 비해서 월등히 우수합니다. 그 점을 잘 아시잖아요. 비교가 안됩니다. 
+
+<어구해설> 
+“head and shoulder” 는 원래 “키가 어깨에서 머리끝까지 차이만큼 큰” 이란 뜻에서 훨씬 
+이란 의미로 쓰인다. 
+Our product is far superior to ant others. 
+Our product can't be beat. 
+
+
+
+
+
+Situation 336  Service System 
+
+Han Sang jin advises Kim Mi-jung about the service system. 
+ 
+Han: I gather things are going very well for you. 
+Kim: Couldn't be better. We can hardly keep up with things. 
+Han: You should be expanding your servicing arm. 
+Kim: Yes, I will check the situation right now. 
+
+ 
+상황 336 서비스 시스템 
+
+ 
+한상진이 김미정에게 서비스 시스템에 대해서 이야기 하고 있다. 
+
+ 
+한상진: 최근에 사업이 아주 잘 되시는 것 같습니다. 
+김미정: 아주 좋습니다. 바빠서 정신을 차릴 수 없군요. 
+한상진: 서비스 부분을 확장하지 않으면 안되겠군요. 
+김미정: 알겠습니다. 상황을 확인하도록 하지요. 
+
+ 
+<어구해설> 
+위에서 사용된 gather 는 "모으다, 수집하다” 라는 의미로서 여기서는 hear의 의미로 파악 
+할 수 있다. 굳이 해석한다면 “제가 듣기로는” 정도가 될 것이다. 
+
+
+
+
+Situation 335 IT business 
+
+ 
+Kang Jin-man explains the situation of IT business. 
+
+Kang: IT business is really taking a beating. 
+Ha: They're way in the red this month. 
+Kang: Any chance of a turnaround 
+Ha: Not anytime soon. 
+
+ 
+상 황 335 IT business 
+
+ 
+강진만이 IT 비즈니스의 상황에 대해서 설명한다. 
+
+ 
+강진만: IT 분야는 정말 호되게 고전하고 있습니다. 
+하진식: 이번달에 많은 적자를 냈어요 
+강진만: 만회할 가능성이 있을 까요 
+하진식: 곧 만회하는 것은 무리입니다. 
+
+ 
+<어구해설> 
+take a beat는 직역하면 “얻어맞다” 라는 뜻으로 어려움을 겪고 있다는 의미이다. 
+Not anytime soon 이란 It's going to take time 이라는 뜻으로 시간이 좀 걸릴 것 같다는 
+의미로 보면 된다. 
+
+ 
+
+
+
+
+Situation 334 Plug-in 
+
+ 
+Kim Sang-hyun asks Oh Mi-ran to help him. 
+
+ 
+Oh : What's wrong  
+Kim: I can't figure out how to use this database in this PC. 
+Oh: Is it plugged in 
+Kim: Whoops. Thanks a lot. 
+
+ 
+상 황 334 플러그 인 
+
+ 
+김상현이 오미란에게 도움을 요청하고 있다. 
+
+ 
+오미란: 무엇이 문제입니까 
+김상현: 이 컴퓨터 내의 데이터베이스를 어떻게 사용하는지 모르겠어요. 
+오미란: 전기 플러그가 꽂혀 있나요 
+김상현: 이런! 그렇군요. 감사합니다. 
+
+ 
+<어구 해설> 
+plug는 (구멍이나 입구를) 막는다는 의미로 plug-in 이라고 하면 플러그로 전기에 접속한 
+이라는 의미가 된다. 반대의미로는 plug out을 사용한다. 
+
+ 
+
+
+
+
+Situation 333 Requirement  
+
+Reigh Han is making an inquiry about the application. 
+
+Reigh: I'd like some information on how to get into bank company. 
+Front Desk : Well, first, you write the bank you want to get into, and 
+get an application form. Then, send it in with a copy of your school records. 
+Reigh: And do I need to take any tests 
+Front Desk: Yes, you have to take the TOEFL test. 
+
+
+상황 333 입사조건
+
+레이 한이 입사에 대해서 질문을 하고 있다. 
+
+레이한: 은행에 입사 하는 방법을 좀 알고 싶습니다. 
+프론트 데스크: 우선 입사하고자 하는 은행에 편지를 써서 입사 원서를 얻으세요. 
+그런 다음 학교 성적증명서 1부와 함께 그 원서를 보내십시오. 
+레이한: 그리고는 어떤 시험을 치루어야 하나요 
+프론트 데스크: 네, TOEFL 시험을 봐야만 합니다 
+
+
+<어구 해설> 
+규정이나 방법 등에 대한 정보를 얻기 위해서는 Would you tell me how to ~나 I'd like some information on ~와 같은 표현을 사용하는 것이 보통이다. 
+Would you tell me how to use this computer (이 컴퓨터를 어떻게 사용하는지 말해 주 
+시겠습니까) 
+I'd like some information on this product. (이 상품에 대한 정보를 좀 얻고 싶습니다.) 
+Are there any rules about parking (주차 규정이 있습니까) 
+Do I need to take any tests (어떤 시험을 치러야 합니까) 
+
+
+
+
+Situation 332 Proposal 
+
+Han Jin-young is negotiating with Mr. Kim Se-won. 
+
+Han: Mr. Kim, can we have your views on these proposals 
+Kim: Yes, I find them to be quite satisfactory and agreeable. 
+Han: Then, we may take it that you're all set to sign the contract. 
+Kim: I need a final okay from the head office before I sign. 
+Han: How soon can you get that 
+Kim: It's just a phone call away. 
+
+상 황 332  제 안 
+
+한진영이 김세원과 협상을 벌이고 있다. 
+
+한진영: 김 선생님, 이 제안에 대한 선생님들의 견해를 말씀해 주시겠습니까 
+김세원: 예, 아주 만족스럽고 마음에 듭니다. 
+한진영: 그러면 계약서에서 서명할 마음이 있으신 걸로 받아들여도 좋겠군요. 
+김세원: 서명하기 전에 우선 본사에서 최종허락을 받아야 합니다. 
+한진영: 그 허락이 언제쯤이면 날 것 같습니까 
+김세원: 전화 한통화이면 됩니다. 
+
+<어구 해설> 
+우리말로 “언제까지” 라는 말을 영어로 옮기자면 말의 뉘앙스가 약간씩 달라지는 것을 알 수 있다. 가령 “When”과 “How soon” 을 비교한다면 when 의 경우에는 “최대한 받아낸다면” 이란 뉘앙스가 담기지 않는 점이 how soon 과 다르다. 
+
+Situation 351 Project 
+
+Kim Dong-seong is talking to Mike about the suspended project. 
+
+Kim: Why did they stop work on the project so suddenly 
+Mike: Their engineer left them high and dry in the middle of it. 
+Kim: I'm surprised. He seemed like such a reliable guy. 
+Mike: we should look for the other engineer as soon as possible. 
+
+상황 351 프로젝트 
+
+김동성이 마이크에게 중단된 프로젝트에 대해서 이야기를 나누고 있다. 
+
+김동성: 왜 그렇게 갑자기 그 프로젝트 작업이 중단되었지요 
+마이크: 기술자가 도중에 그만두었어요 
+김동성: 어머, 그래요 그 사람 믿을 만해 보였는데 
+마이크: 빨리 다른 기술자를 찾아야 겠어요 
+
+<어구해설> 
+leave somebody high and dry 중 high and dry는 배가 좌초되어 버려진 채로 남겨진다는 뜻으로서 여기서는 도움을 주지 않고 떠나다, 그만두다라는 의미이다. 
+
+
+
+
+Situation 350 Connection 
+
+Mr. Mike Baily is looking for a textile company. 
+
+Mike: Mr. Kim, would you recommend a company that deals chiefly in textile 
+exports 
+Kim: I know just the company you are looking for. They have very good 
+connections in textile export trade. 
+Mike: Really That's great. If you could just jot down their name and number, I'd be 
+very grateful. 
+Kim: I'll do even better than that. I'll personally introduce you to the President. 
+
+상황 350 거래처
+
+마이크 베일리가 섬유회사를 찾고 있다. 
+
+마이크: 김 선생님 주로 섬유류를 수출하는 회사를 하나 소개해 주시겠습니까 
+김선호: 마이크씨가 찾는 자로 그런 회사를 제가 알고 있습니다. 그 회사는 섬유류 수 
+출에 있어서 좋은 거래선을 갖고 있습니다. 
+마이크: 그래요 그거 잘됐군요. 그 회사의 상호와 전화번호를 적어주시면 정말 고맙겠습니 
+다. 
+김선호: 그것만 적어드리는 게 아니라 직접 사장님도 소개해 드리겠습니다. 
+
+<어구해설> 
+여기서 회사와의 거래선은 “단골 거래처”로서 “connection” 으로 표현하며 “관계, 유대, 협 
+력” 이란 뜻의 복합어 tie-up과 비슷한 말이라고 볼 수 있다. 
+
+
+
+
+Situation 349 Salary Negotiation 
+
+ 
+Kim Sang-hyun asks Han Ki-won about the union negotiation. 
+
+ 
+Kim: Are union negotiations important in determining salaries 
+Han: The outcome of central union negotiations during the spring labor offensive 
+often influences what happens in our company. 
+Kim: Can you personally negotiate your salary with your boss 
+Han: No, There's no room for personal negotiation s in the Korean system. 
+
+ 
+상 황 349 급여 협상 
+
+ 
+김 상현이 한 기원에게 조합 교섭에 대해서 이야기 하고 있다. 
+
+ 
+김 상현: 조합교섭이 급여를 결정하는데 중요합니까 
+한 기원: 춘투 기간 중에 행해지는 중앙의 노조교섭 결과가 우리 회사의 승급에 영향을 줍 
+니다. 
+김 상현: 당신은 상사와 개인적으로 급여교섭을 할 수 있습니까 
+한 기원: 아니요. 한국 시스템에는 개인적인 교섭의 여지가 전혀 없습니다. 
+
+ 
+< 어구해설 > 
+급여를 삭감하는 경우에는 make cuts in pay 라고 표현하며 동결의 경우에는 wage 
+freeze 라고 한다. 
+
+
+
+
+Situation 348 Sales 
+
+Mr. Henderson meets Lee Han-soo at the export center. 
+
+Lee: Mr. Henderson, nice to see you again. How are things going 
+Henderson: Couldn't be better. Things are really looking up these days. 
+Lee: Yeah. I hear you hit a high in sales last month. 
+Henderson: Boy, you know it. we've never quite had a month like that before 
+
+상황 348 매 상 
+
+이한수가 수출센터에서 헨더슨을 만나고 있다. 
+
+이 한수: 헨더슨 씨 다시 만나 뵙게 되서 기쁩니다. 경기는 어떠세요 
+헨더슨 : 더할 나위 없이 좋습니다. 요즘 경기가 정말 좋아지고 있으니까요. 
+이한수: 그렇군요. 소문에 지난달 매상이 기록적이었다면서요. 
+헨더슨: 이 선생님도 아시는 군요. 지금까지 그런달은 없었지요. 
+
+<어구 해설> 
+hit 에는 여러 가지 뜻이 있지만 여기서의 “hit” 는 “수량 수준 정도에 이르다” 란 의미 
+따라서 “hit a new low” 라고 하면 최저기록을 갱신하다란 뜻이다. 
+
+
+
+
+Situation 347Mandatory Retirement System 
+
+ 
+Kim Sang-hyun asks Kang Shin-beom about the mandatory retirement system. 
+
+ 
+Kim: Does your company have a mandatory retirement age  
+Kang: For regular employees the mandatory retirement age is 65. 
+Kim: Do you get a pension or a lump-sum retirement allowance 
+Kang: I have an option between a pension and a lump-sum payment. 
+
+ 
+상황 347정 년 제 
+
+ 
+김상현이 강신범에게 정년제에 대해서 묻고 있다. 
+
+ 
+김상현: 귀사에는 정년제도가 있습니까 
+강신범: 일반 직원의 정년은 65세입니다. 
+김상현: 연금이나 일시불로 퇴직 수당을 받을 수 있습니까 
+강신범: 연금과 일시불 중 하나를 선택해서 받을 수 있습니다. 
+
+ 
+<어구해설> 
+mandatory는 "명령의, 위임된” 이라는 의미이며 "mandatory retirement system" 이란 
+정년제를 가리키는 말이다. 
+
+ 
+
+ 
+
+
+Situation 346 Union Meeting
+
+Kang Sung-ho wants to meet Mr. Bronsky for the union problems. 
+
+Kang: Hello, Can I talk to Mr. Bronsky  
+Jane: I'm afraid he's occupied. It is urgent 
+Kang: It's about the union meeting. 
+Jane:　Oh, He's finished his call. I'll put you through now 
+
+상황 346 노조회의 
+
+강성호가 노조문제로 브론스키와 만나기를 원한다. 
+
+강성호: 여보세요, 브론스키씨와 통화할 수 있을까요 
+제인: 죄송합니다만 그분은 지끔 바쁘신데요. 급한일이십니까 
+강성호: 노조회의 때문입니다. 
+제인: 아 마침 통화가 끝나셨군요. 바로 연결해 드리겠습니다 
+
+<어구해설> 
+전화를 건 사람에게 용건을 묻는 것이 자칫 실례처럼 보일 수 있으나 극히 사적인 일이나 
+극비사항이 아닌 경우에는 가능하다. 하지만 caller가 It's personal call 이라고 말한다면 
+더 이상 캐묻지 않는 편이 좋다. 
+
+
+
+
+
+Situation 345 Stock 2 
+
+ 
+Nam Sang-seok is talking to Ahn dong-ho about the stock. 
+
+ 
+Nam: Is your stock actively traded 
+Ahn: No. The volume of daily transactions is rather moderate. 
+Nam: Who are the biggest shareholders in your company  
+Ahn: Institutional investors are our major shareholders. 
+
+ 
+상황 345 주 식 2 
+
+ 
+남상석이 안동호에게 주식에 대해서 이야기 한다. 
+
+ 
+남상석: 귀사의 주식은 활발하게 거래되고 있습니까 
+안동호: 아닙니다. 매일매일 거래량은 그다지 많지 않습니다. 
+남상석: 귀사의 가장 큰 대주주들은 누구입니까 
+안동호: 기관투자가들이 주요 주주입니다. 
+
+ 
+<어구해설> 
+주식의 “거래량이 많다”고 하는 경우에는 "heavy"를 사용하며 거의 없는 경우에는 light 라 
+는 형용사로 상태를 표시한다. 
+
+
+
+
+Situation 344 Proposal 
+
+ Na shin-young proposes to place an order to Kang Jin-ho. 
+
+Na: We've come up with a proposal that can't be beat. 
+Kang: Well, okay. Let's see what it looks like. 
+Na: We'll place an order for 4,000 units if you throw in the accessories free of 
+charge. 
+Kang: You mean include the set and accessories all under one price 
+Na: That's right. The original unit price you quoted. Our offer holds good until the 
+end of the month. Take it or leave it. 
+
+상 황 344 제 안 
+
+나신영이 강진호에게 주문에 대한 제안을 하고 있다. 
+
+나신영: 강 선생님 아주 좋은 제안을 하나 하겠습니다. 
+강진호: 좋습니다. 어떤 것인지 좀 들어봅시다. 
+나신영: 귀사 측에서 부품을 덤으로 넣어주시면 저희는 4000개를 주문하겠습니다. 
+강진호: 한개의 가격으로 세트와 액세서리를 포함한다는 말씀인가요 
+나신영: 그렇습니다. 선생님이 처음에 부른 단가대로 말입니다. 저희의 제안은 이달말까지 유효하니 
+까 받아들이시든지 거절하시든지 하십시오. 
+
+<어구해설> 
+hold good 은 "유효하다, 적용되다” 란 뜻이고 "take it or leave it" 은 "있는 그대로(100%) 
+승낙하든지 거부하든지 하다” 란 의미의 관용표현이다. offer 따위가 언제까지 유효하다고 
+할 때의 "유효하다”는 valid 나 in effect를 사용하여 표현하기도 한다. 
+
+
+
+
+
+Situation 342 Batting Average 
+
+Han Seung-ho, a sales manager, is congratulating Carol. 
+
+Han: Carol, this is fantastic! our batting average last month was 150% 
+Carol: Well, thanks, Mr. Han. 
+Han: But, we're in front by a nose, but we can still nose. 
+Carol: I don't think so. The final round's going to be easy. The 
+other team don't have a chance against us. 
+
+상황 342 실 적 
+
+세일즈 매니저인 한승호가 캐롤을 축하하고 있다. 
+
+한승호: 캐롤 정말 놀랍군요! 지난달 우리의 판매실적이 150 퍼센트나 되는군 
+캐롤: 감사합니다. 한 과장님. 
+한승호: 우리가 간발의 차로 이기고는 있지만 질 수도 있어요. 
+캐롤: 아닙니다. 최종 경쟁에서는 별 어려움이 없을 겁니다. 
+다른 부서가 우리를 이길 가능성은 없어요. 
+
+<어구해설> 
+be in front by a nose는 (사업, 학문 등의 경쟁) 에서 간발의 차로 리드를 하고 있다는 뜻 
+으로 경마에서 유래된 표현방식이다. 또한 야구선수의 타율을 나타내는 batting average는 
+비즈니스에서 "연구실적, 판매실적" 을 나타내는 말이다
+
+Situation 361 Factory 
+
+German buyer, Max Shneider visits Jeil Industry. But he doesn't know the way to 
+factory. 
+
+Jerry: Mr. Bae, I've never been to the factory. Can you tell me how to get there 
+Bae: Okay. Go straight down this road till you come to a fork in the road. 
+Jerry: A fork. Okay, then what can I do 
+Bae: Make a left and keep going straight for about a mile or so. 
+Jerry: I got you. 
+
+상황 361 공 장 
+
+독일 바이어인 막스 슈나이더가 제일 산업을 방문하였다. 하지만 공장으로 가는 길을 잘 모 
+르는데. . . 
+
+제리: 배 과장님 공장에 가본 적이 없어서 그러는데 공장에 가는 방법 좀 가르쳐 주시겠습 
+니까 
+배인섭: 그러죠. 이 도로를 따라서 곧장 가시면 갈림길이 나올겁니다. 
+제리: 갈림길이요 알겠습니다. 그 다음엔 어떻게 가지요 
+배인섭: 좌회전을 한 다음에 1마일 정도 똑바로 가세요. 
+제리: 아 이제 알겠습니다. 
+
+<어구해설>
+우리나라에서는 3거리, 4거리, 5거리라는 말을 자주 쓰지만 미국인들은 3거리를 a 
+three-way intersection 이라고 하기 보다는 a fork in a road(갈림길) 라고 표현한다. 
+
+길안내와 관련된 다음과 같은 표현들도 함께 알아두면 유용하게 쓰일 수 있다. 
+Turn right at the next intersection.( 다음 교차로에서 우회전을 하세요) 
+Take the overpass on the Samgakji rotary and turn left. 
+(삼각지 로터리에서 고가를 타고 좌회전을 하세요
+
+
+
+
+
+Situation 360 Deal 
+
+Kevin Jackson is asking Han Se-jin about the deal he took. 
+
+Kevin: When do you think we can sew up the deal 
+Han: As soon as we get the green light from upstairs. 
+Kevin: Well, when do you figure that will be 
+Han: The way things look now, it may be a little while yet. 
+
+상 황 360 거 래 
+
+케빈 잭슨이 자신이 떠맡은 거래에 대해서 한세진에게 문의하고 있다. 
+
+케　빈:　이 거래를 언제쯤 확정 지을 수 있을 것 같습니까 
+한세진: 상부로부터 정식허가가 나오는대로요 
+케　빈:　저 그게 언제쯤 될 것 같으세요 
+한 세진: 지금 현 상황으로는 아마 조금 시간이 걸릴지도 모르겠는데요 
+
+<어구해설> 
+green light는 원래 교통신호의 “푸른신호” 란 뜻인데 구어에서는 “공식허가, 또는 공인” 
+이란 의미로 자주 쓰인다. “푸른신호”를 blue light 라고 하지 않는 점에 유의하자. 
+
+
+
+
+
+Situation 359 Deliver
+Raymond Jones asks Kim Sang-hyun about the deliver. 
+ 
+Raymond: How soon can you deliver if I place an order right now
+Kim: Within three months upon arrival of your L/ C.
+Raymond: Can't you make it two month
+Kim: I'll let you know as soon as possible I check the production capacity.
+상황 359 납 기 
+레이몬드 존스가 김상현에게 납기에 문의하고 있다. 
+레이몬드: 지금 주문하면 언제쯤 상품인도가 가능할까요
+김상현: 신용장 도착 후 3개월 이내에 해드립니다.
+레이몬드: 2개월로 할 수는 없을까요
+김상현: 생산능력을 확인해 보고 알려드리겠습니다.
+<어구해설>
+가격에 대한 타협이 이루어지면 그 다음엔 납기 등의 문제로 대화가 옮겨지게 된다. 이 대화에서 사용된 make는 " (사람이나 물건을 어떤 상태로) 하다" 란 뜻의 불완전 타동사로 쓰였다.
+
+
+
+
+Situation 358 Shipment 
+
+Pete Andre asks Park Na-ri about the new shipment. 
+
+Andre: When do we expect that new shipment of engine parts We can't keep our 
+generators going without them 
+Park:　I called the air freight company. They said we can expect it any time. 
+Andre: If one more engine goes out, we shout down the plant. 
+Park: I got it. I'll try to check another line. 
+
+상황 358 Shipment 
+
+피트 안드레가 박나리에게 새로운 견적분에 대해서 물어본다. 
+
+안드레: 엔진부품의 새로운 선적분은 언제 옵니까 그것들이 없으면 발전기를 계속해서 가 
+동할 수 없습니다. 
+박나리:　항공화물회사에 전화했었습니다. 오늘이라도 곧 도착할 수 있을 것이라고 말하던 
+데요 
+안드레：만약 엔진이 하나만 더 떨어지면 우리는 공장 문을 닫습니다. 
+박나리: 알겠습니다. 다른 경로를 통해서 확인하도록 하지요. 
+
+<어구 해설> 
+shipment는 일반적으로 선적이나 그 선적량을 말한다. 다른 말로는 납품의 의미가 되므로 
+When can you deliver the goods to us라고 하는 경우 언제 납품해 주실 수 있습니까 라는 
+뜻이 된다. 
+
+
+
+
+
+Situation 357 Unit Price 
+
+ 
+Kim Nam-shim asks Han Jin-man about the unit price. 
+
+ 
+Kim: That brings us to the question of price. What do you have in mind 
+
+Situation 356 Latest Model 
+
+Charles, manager of UNB, asks Cho Min-hye to discount the price. 
+
+Cho: Mr. Charles, what do you think of our latest model 
+Charles: Look good, but it's a little on the high side. 
+Cho: well, that may be true in some respect, but look at it from a qualitative point of view. 
+Charles: I am, but I'm also thinking of the market, too. 
+
+상 황 356 최신 모델 
+
+UNB의 매니저인 찰스가 조민희에게 가격인하를 요구하고 있다. 
+
+조민희: 찰스 씨 당사의 새 모델을 어떻게 생각하십니까 
+찰스: 좋아 보이기는 하는데 가격이 다소 비싼 감이 듭니다. 
+조민희: 자 어떤 면에서는 그럴지도 모르지만 품질을 놓고 보셔야죠 
+찰스: 저도 그런 관점에서 보고는 있지만 시장도 역시 생각을 해야 하니까요. 
+
+<어구해설> 
+여기서 on the - side 는 “다소 - 한 기미가 보이는” 이란 뜻의 관용표현. 따라서 His hair was on the light side of brown 이라고 표현하면 “그의 머리빛깔은 옅은 브라운 색이었다” 라는 의미가 된다. it's a little on the high side는 It's not low enough라고 바꾸어 사용가능하다. 
+
+
+
+
+
+Situation 355 Warranty 
+
+Mr. James wants to know what the warranty of this machine is. 
+
+Kim: Mr. James, I know you can't go wrong with this machine. 
+James: Well, how long is the warranty 
+Kim: It's good for one year. 
+James: And after that 
+Kim: There's a slight service charge. 
+
+상황 355 보증기간 
+
+미국 바이어인 줄리는 기계의 보증내용이 어떤 것인지에 대해서 알고 싶어 한다. 
+
+김선호: 제임스씨 이 기계를 선택하면 전혀 문제가 되지 않을 것입니다. 
+제임스: 저 보증기간은 얼마나 되지요 
+김 선호: 1년 동안입니다. 
+제임스: 그 후에는 어떻게 되나요 
+김 선호: 약간의 서비스비용을 지불하셔야 합니다. 
+
+<어구 해설> 
+Warranty는 “(품질 등의) 보증, 보증서” 란 뜻이다. 이외에도 “인가, (수색)등의 영장”도 
+warranty 라고 한다. 기간을 물어보고 싶을 때 사용하는 표현으로는 다음의 것이 자주 사 
+용된다. 
+ex) How long is the warranty good for (품질보증은 얼마동안 유효합니까) 
+What's the warranty (품질보증의 내용은 어떤 것입니까) 
+
+
+
+
+
+
+Situation 354 Report 
+
+Manager Kim Dong-hyun is asking Lee Min-ho about the report. 
+
+Manager: When will it be ready 
+Lee: On Friday. 
+Manager: On Friday But don't you have any faster service 
+Lee: Sorry. That's the best we can do. 
+
+상황 354 보고서 
+
+김 동현 부장이 이민호에게 보고서에 대해서 묻고 있다, 
+
+부장: 보고서는 언제 준비됩니까 
+이 민호: 금요일에요. 
+부장: 금요일이요 하지만 더 빨리 제출할 수 없나요 
+이민호: 죄송합니만 최선을 다하는 겁니다. 
+
+<어구 해설> 
+「~을 하는데 시간이 얼마나 걸립니까」하고 소요되는 시간을 물어볼 때는 보통 How 
+long does it take to ~의 구문이 사용된다. 물론 How long 대신에 How many hours나 
+How many days 등의 표현이 쓰일 수도 있다. 
+
+
+
+
+
+Situation 353  Bid 
+
+Lee tae-jung wonders if they cant get the bid today. 
+
+Ko: We should submit a bid on that project. I think we can get it. 
+Lee: We've never done that kind of work before. I can't imagine why they'd give it to 
+us 
+Lee: We'd get it because we've never failed in anything we've tried. All of our projects come out just the way we say. 
+Lee: I hope so 
+
+상황 353 입찰 
+
+이 태정이 입찰을 따낼 수 있을 지에 대해서 궁금하게 생각한다. 
+
+고진우: 그 사업에 입찰해야 합니다. 아마도 그 일을 따낼 수 있을 겁니다. 
+이태정: 전에 한번도 그 일을 해본 적이 없잖아요. 그들이 그 사업을 우리에게 줄지도 모르 
+는 상태 아닌가요 
+고진우: 우리가 시도했던 일에 실패한 적이 없으니까 이번 일도 해낼 수 있을 겁니다. 우리일은 모두 잘되고 있으니까요 
+이재성: 나도 그러길 바랍니다. 
+
+<어구해설> 
+여기에 사용되는 bid 는 경매나 공개 경쟁시의 “입찰” 을 나타낸다. 
+
+실현될 가능성이 불확실한 경우 자신의 의견을 전달하는 경우에는 think 나 believe 보다는 
+imagine 동사를 주로 사용하게 된다. I hope so 의 경우에는 그러기를 바란다는 희망의 
+의지가 담겨있는 말이다. 
+
+
+
+
+
+Situation 352 Estimate 
+
+Park Min-soo is talking to Mr. Kim Cheol who is a manager of Hana Co., Ltd. 
+
+Park: Did you have a chance to look into the estimate 
+Kim: I think it's a bit high. 
+Park: You'll have to consider the market price of the raw material these days. 
+Kim: Could you knock down the price 
+Park: I'm afraid that is the bottom line. 
+
+
+상황 352 견적서 
+
+
+박민수가 하나주식회사의 과장인 김철과 이야기하고 있다. 
+
+프레이저: 견적서를 보셨습니까 
+김철: 조금 높다고 생각합니다. 
+프레이저: 요즘 원자재 시장 가격을 감안해야 됩니다. 
+김철: 값을 조금 깎아 주실 수 있습니까 
+프레이저: 죄송합니다만, 그 가격이 최하가격입니다. 
+
+<어구해설>
+"knock down" 이란 단어는 원래 "때려눕히거나 타도한다" 는 의미를 가리키지만 여기서는 
+"가격이나 수량 등의 할인"을 표현하는 말이다. 예를 들어 knock down price는 (경매에서 
+의) 최저가격을 나타낸다. 
+
+
+Situation 371 Working Situation 
+
+ 
+Andy wants to change the working situation . 
+
+ 
+Andy : I need a change of scenery. 
+Lee: What do you mean 
+Andy : I want to transfer to the Pusan office. 
+Lee: There's only one problem with your plan. 
+Andy : What's that 
+Lee: The boss will hit the ceiling if you ask him. 
+
+ 
+상황 371 근무 조건 
+
+ 
+앤디는 자신의 근무 조건을 바꾸기를 원한다. 
+
+ 
+앤 디: 난 환경을 좀 바꾸고 싶어요. 
+이 한수: 무슨 소리입니까 
+앤디 : 부산 사무소로 가고 싶다구요. 
+이 한수: 부산으로 가는 데는 한가지 문제가 있어요. 
+앤 디 : 그게 뭔데요 
+이 한수: 사장님이 그 요구를 들으시면 노발대발 하실겁니다. 
+
+ 
+<어구해설> 
+흔히 사람이 화가 머리끝까지 치밀면 참지 못해 그 자리에서 폴짝폴짝 뛴다는 말이 있다. 
+화가 극심하게 난 상태에서는 천장(ceiling)에 머리가 닿을 정도로 뛰어 오를 수도 있다는 
+뜻에서 'hit the ceiling'이란 말은 '노발대발 화를 내다' 또는 '대로하다'로 해석 가능하다. 
+흔히 'hit the roof'라고도 쓰며 의미는 같다. ceiling이나 roof 모두가 높은 곳에 위치하고 
+있기는 마찬가지이기 때문이다. 
+
+ 
+
+ 
+
+
+
+
+Situation 370 Rumor
+
+Kim Gwang-min asks Do Ji-won about the rumor. 
+
+ 
+Kim : Nasty rumors are being spread about our company. 
+Do: Our competitor are just jealous of our success. 
+Kim : What can we do 
+Do: Let sleeping dongs lie. 
+Kim : But I don't like being under a cloud. 
+Do: Let the consumers decide who has the best products. 
+
+ 
+상황 370 루머 
+
+김광민이 도지원에게 루머에 대해서 묻고 있다. 
+
+ 
+김광민: 우리 회사에 관해서 추잡한 소문이 돌고 있어요. 
+도지원: 경쟁사가 우리 회사 잘 되는 게 배 아파서 그럴 거예요. 
+김광민: 우리가 할 수 있는 게 뭐죠 
+도지원: 긁어 부스럼 만들지 마세요. 
+김광민 : 하지만 난 소문에 휩쓸리는 거 싫거든요. 
+도지원: 어느 쪽 제품이 최고인지는 고객들이 판단하게 하자구요. 
+
+ 
+<어구 해설> 
+이 숙어에서 'cloud'는 'suspicion(의심)'이나 'charge(혐의)'와 같은 뜻이다. 따라서 'under a cloud'는 'under suspicion(or a charge)'과 같은 말로 '의심을 받고 있는' 또는 '~의 혐의가 있는'이란 뜻이 된다. 종종 'under a cloud of suspicion'이라고도 쓰인다. 
+'be jealous of'는 '~을 시샘하다' 또는 '~을 질투하다'라는 뜻의 숙어다. 
+'let sleeping dogs lie'는 하나의 격언(proverb)으로 직역하면 잠자는 개는 그대로 누워 있게 하라는 뜻. 잠자는 개를 깨우면 더 크고 시끄러운 문제가 일어날 수가 있기 때문에 '긁어 부스럼 만들지 마' 또는 '평지풍파를 일으키지 마'와 같이 번역한다. 
+
+ 
+
+
+
+
+Situation 369 Contract Proposal
+
+ 
+Jang Hyeon-soo is talking to Kang Jin-ho about the contract proposal. 
+
+ 
+Jang : You look like death warmed over. 
+Kang: I didn't get much sleep last night. 
+Jang : Why not 
+Kang: I finished up the contract proposal. 
+Jang : You'll get sick if you keep burning the candle at both ends. 
+Kang: You're right. I have to slow down. 
+
+ 
+상황 369 계약서
+
+ 
+장현수가 강진호에게 계약서에 대해서 이야기를 나누고 있다. 
+
+ 
+장 현수 : 몹시 지쳐 보입니다. 
+강 진호: 어젯밤에 한숨도 못 잤어요. 
+장 현수 : 왜요 
+강 진호: 계약서 끝마무리를 했거든요. 
+장 현수: 계속해서 그렇게 무리하면 병나요 
+강 진호: 맞아요 좀 쉬면서 해야겠어요. 
+
+ 
+<어구 해설> 
+'burn the candle'이란 촛불을 밝히는 것인데 'at both ends', 즉 초 양쪽에다 불을 붙여서 
+태우니 촛불이 두 배의 속도로 밝지만 타들어가는 속도 또한 두 배나 빠르다. 다시 말해 
+'burn the candle at both ends'는 밤을 새워 빠른 속도로 급히 정열을 소진시키는 것을 의 
+미하는 말로 '자신을 혹사하다' 또는 '무리하다' 등의 뜻으로 번역한다. 
+'like death warmed over'는 slang으로 '몹시 지친' 또는 '중병을 앓고 있는' 이란 뜻이다. 
+우리가 전날 밤에 잠을 한숨도 못자거나 또는 술을 지나치게 마시면 그 다음날 마치 숨만 
+간신히 붙어 있는 송장(death)과 같다고 해서 'like death warmed over'라는 표현을 쓴다. 
+
+ 
+
+
+
+
+Situation 368 New Factory 
+
+ 
+Han Seo-min asks Oh Mi-ran about the new factory. 
+
+ 
+Han: Are you sure our new factory was built legally 
+Oh: Of course, everything is strictly on the up and up. 
+Han : But I didn't see a building permit in our files. 
+Oh: We have to keep the permit at the building site. 
+Han : Oh, that's a load off my mind. 
+Oh: You worry too much. 
+
+ 
+상황 368 신공장 
+
+ 
+한서민이 오미란에게 신공장에 대해서 묻고 있다. 
+
+ 
+한서민 : 우리 회사 신축공장이 법적으로 하자가 없는 거지 
+오미란: 물론, 모든 일이 엄격하고 정직하게 진행되고 있어. 
+한서민 : 하지만, 서류철에서 건축허가증을 못 봤는데. 
+오미란: 그건 건축현장에서 보관하게 돼있어. 
+한서민 : 그렇다면 안심이야. 
+오미란: 걱정도 팔자군. 
+
+ 
+<어구해설> 
+요즘 전국이 국회의원 선거열기에 들떠서 야단들이다. 후보들마다 필승의 전략으로 상대방 
+을 헐뜯고 비방하는 것이 보통이다. 'be on the up and up'이란 영어표현은 음흉한 책략이 
+나 교활함이 없고 허세, 겉치레나 우쭐거리지 않고 정해진 원칙이나 규칙을 고수하는 '정직 
+한', '공정한' 또는 '곧은'이란 뜻이다. 흔히 'strictly on the up and up'으로도 표기한다. 
+
+ 
+
+
+
+Situation 367 Promotion 
+
+ 
+Kim Sang-ho is talking to Ahn Jin-man about the promotion. 
+
+ 
+Kim: The boss offered me a promotion. 
+Ahn: That's great! Are you getting a raise, too 
+Kim : We didn't have a chance to talk turkey yet. 
+Ahn: When are you going to find out 
+Kim : All in good time. 
+
+ 
+상황 367 승 진 
+
+ 
+김상호가 안진만에게 승진에 대해서 이야기 한다. 
+
+ 
+김상호 : 사장님께서 나를 진급시켜 주신데. 
+안진만: 잘됐네. 월급도 돌려주신대 
+김상호 : 아직 솔직하게 말할 기회가 없었어. 
+안진만: 언제쯤이면 알게 돼 
+김상호 : 곧 다 알게 되겠지. 
+
+ 
+<어구 해설> 
+흔히 돈과 관련된 이야기를 할 경우, 먼저 그 얘기를 꺼내 말하기는 어렵고 상대방이 먼저 
+물꼬를 터주기를 바라는 것이 인지상정. 또 행위에 대한 대가로 금전을 주고 받는 경우에 
+도 공식처럼 정해진 액수가 없이 서로 협의해서 액수를 정할 때는 더욱 그러하다. 
+이렇게 돈과 관련된 일을 화제로 삼아 이야기 할 때 '툭 까놓고 말하다', '단도직입적으로 
+말하다' 또는 '솔직히 말하다' 등의 뜻으로 'talk turkey'를 사용한다. 또 'talk cold turkey' 
+라고도 한다. 
+
+
+
+
+Situation 366 Transfer 
+
+ Kim Hyun-chul asks Han Sang-jin about the transfer.  
+
+Kim: I hear you're being sent to American Fantastic Co., Ltd. 
+Han: Yes, I was ordered to work at the New York branch. 
+Kim: That sounds like an exciting opportunity. 
+Han:　It'll be my first abroad. 
+
+ 
+상황 366 전 근 
+
+ 김현철이 한상진에게 전근에 대해서 묻고 있다. 
+
+ 
+김 현철: 아메리칸 판타스틱 회사로 가신다고 들었습니다. 
+한 상진: 그래요. 뉴욕 지사로 전근명령을 받았어요. 
+김 현철: 아주 좋은 기회가 되겠군요. 
+한 상진: 이번이 해외로 나가는 첫 번째 경험입니다. 
+
+ 
+<어구해설> 
+order to work at one's place 는 다른 말로 하면 디른 지역으로 전근을 가는 경우이므로 
+transfer로 대치할 수 있다. 
+
+
+
+
+
+Situation 365 Good Seller 
+
+So Ji-sup of ASR recommends Brown new model. 
+
+So: Mr. Brown, I want you to have a look at the new special brand we're planning 
+to put out this autumn. 
+Brown: Okay, but before you do, I want to place an order for another 1000 boxes 
+of your regular brand to be delivered no later than Nov. 1st. 
+So: Take my word for it. Forget old brand and place an order for the new one. 
+Brown: That may be true, but we're playing it safe and sticking to the old one for 
+now. It's always a good seller. 
+
+상 황 365  잘 팔리는 상품 
+
+ASR 의 소 지섭이 브라운에게 새로운 모델을 추천하고 있다. 
+
+소지섭: 브라운씨 저희 회사에 오신 김에 가을에 생산할 계획으로 있는 새로운 특수 품목을 
+구경하시면 어떻겠습니까 
+브라운: 좋습니다. 그 전에 귀사의 정규품목 1000상자를 추가로 주문하고자 하는데 늦어도 
+11월 1일 까지는 인도되어야 합니다. 
+소지섭: 제 말을 믿으세요. 종전 것은 두시고 신규상품으로 주문하십시오. 
+브라운: 그럴지도 모르겠습니다만 저희는 안전한 것이 좋으니까 당분간 종전 것을 계속 
+쓰겠습니다. 항상 잘 팔리니까요 
+
+<어구 해설> 
+어구해설 이때의 "seller" 는 파는 사람이란 뜻이 아니고 "잘 팔리는 상품" 이란 의미이다. 따라 
+서 It's always a good seller 란 말은 It always sells well 또는 The demand is always 
+high 나 It always moves well 이라는 표현으로 대체할 수 있다. 
+
+
+
+
+Situation 364 Authority 
+
+Ahn Jung-han and Baker Brown is talking about the authority. 
+
+Brown: Mr. Ahn you've got a good product. One of the best, but the price has got to 
+come down. 
+
+Ahn: Mr. Brown, for the quality you're getting, it's steal. 
+
+Brown: Yeah, but people just don't appreciate quality anymore. If they see something 
+that looks the same and it's cheaper, they'll buy it. 
+
+Ahn: But we don't want to sacrifice quality for quantity. 
+
+Brown:　You've got to if you want be competitive these days. Give us a 20% discount 
+on all models and you've got a deal. 
+
+Ahn: I'd like to, but I'm not authorized to do that. 
+
+상황 364 권 한 
+
+안정한과 베이커 브라운이 권한에 대해서 이야기 하고 있다. 
+
+브라운:　안 선생님, 귀사의 제품은 참 좋습니다. 최고품입니다. 하지만 가격은 좀 인하되어야 하겠습니다.
+안정한: 브라운씨, 품질을 놓고 볼 때 값은 매우 싼 것입니다.
+브라운: 예, 그런데 사람들이 이젠 질에 대해서 따지질 않는다구요. 모양은 같은데 가격이 싸면 사람들은 싼 것을 사거든요.
+안정한: 하지만 저희는 더 많이 팔 수 있다 해도 그것을 위해 질을 희생시키고 싶진 않습니다.
+브라운: 요즘엔 경쟁력을 갖추려면 그렇게 하셔야만 해요. 모든 모델에 대해 20%를 할인해 주시면 계약을 하죠.
+안정한: 그렇게 해드렸으면 좋겠지만 제겐 그렇게 해드릴 권한이 없습니다. 
+
+<어구해설> 
+어떠한 “권한을 갖고 있다” 는 표현은 일반적으로 have a authority over 라고 하지만 여기서는 수동형으로 be authorized 라to 로사용하고 있다. 
+
+
+
+
+
+Situation 363 Negotiation 
+
+Ferry Anderson is under negotiation with Kim Jin-su of Gajin Trading. 
+
+Anderson: Would you show me the lines you displayed at the Seoul Trade Fair 
+Kim: We can show you our samples and the price list. 
+Anderson: We have received a number of inquires and if your prices are 
+competitive we may place an order with you. 
+Kim: We assure you our goods are very popular in European markets and will sell 
+very well. 
+
+상황 363협 상 
+
+페리 앤더슨이 가진무역의 김진수와 협상 중이다. 
+
+앤더슨: 서울 무역박람회에서 전시했던 종류의 제품을 보여주시겠습니까 
+김 진수: 자 여기 우리제품 견본과 가격목록이 있습니다. 
+앤더슨:　당사는 이미 여러 곳에서 문의가 쇄도하고 있으며 귀사의 가격이 경쟁력이 있다고 생각되면 주문을 낼 것입니다. 
+김 진수: 저희 제품은 유럽 시장에서도 높은 인기를 끌고 있으며 판매량도 틀림없이 높을 
+것임을 장담하겠습니다. 
+
+<어구해설> 
+여기에서의 lines 는 제품의 종류나 품목 계열을 나타내는 말이다. 
+
+가격자체를 나타내는 문장일 경우에는 high나 low 또는 reasonable 이나 competitive 등과 같은 형용사를 함께 사용한다. cost 와 같은 비용의 경우에는 expensive 와 cheap를 쓰기도 한다. 
+
+
+
+
+
+Situation 362 Budget 
+
+Kim Sang-ho is talking to John Keith about the budget. 
+
+Kim: John, What's up 
+John: The corporation budget's been cut again this year. 
+Kim: So we'll have even less money than before. is that right  
+John: I don't think so. It shouldn't affect our department one way or the other. 
+
+상황 362 예 산 
+
+김상호가 예산에 대해서 존 키이스와 이야기 하고 있다. 
+
+김상호: 존, 무슨 일입니까 
+존: 회사의 예산이 올해에 다시 삭감되었습니다. 
+김상호: 그러면 우리는 전보다 적은 돈을 받게 되겠군요. 그렇지요 
+존: 그렇게 생각하지 않습니다. 어떻게 해서든지 우리 부서에는 영향을 미치지 않을 겁니다. 
+
+<어구해설> 
+이번 대화에서는 구어체 표현을 익히기로 해보자. 우선 what happen 의 의미로 “무슨일이냐” 라는 표현을 할 때에는 what‘s up을 사용한다. 그리고 자신의 견해에 대한 가부간의 견해를 피력할 때에는 think를 써서 자신이 생각하는 바를 밝힐 수 있다. 
+
+
+Situation 381English Training 
+
+ 
+Baker asks Lee Han-soo about the last English training. 
+
+ 
+Baker : How was the English training course 
+Lee: It was hell on earth. 
+Baker : Why was it so hard 
+Lee: We had to speak only English for three whole days. 
+Baker : Wow, that must have been tough. 
+Lee : The teachers really put us through the wringer. 
+
+ 
+상황 381 영어훈련 
+
+베이커가 이한수에게 지난 영어 훈련코스에 대해서 묻고 있다. 
+
+베이커 : 영어훈련코스가 어땠어요 
+이한수: 지옥이 따로 없더군요. 
+베이커 : 왜 그렇게 힘든거죠 
+이 한수: 사흘 내내 영어만 써야 했거든요. 
+베이커 : 와, 죽을 맛이었겠군요. 
+이 한수: 선생님들이 우릴 반 죽이는 거 있죠. 
+
+<어구 해설> 
+'wringer'는 'wring'이란 동사에서 나왔다. 'wring'은 '빨래를 짜다'라는 동사이고 어미에 '_er'을 
+붙인 'wringer'는 '짜는 사람(것)', '엄한 시련' 또는 '가혹한 경험' 등의 뜻으로 주로 'trial'이나 
+'ordeal', 즉 '시련'을 뜻하는 단어다. 따라서 'put (someone) through the wringer'는 '~를 짜 
+는 것을 통과시키다', 즉 '엄한(가혹한) 시련을 겪게하다' 라는 뜻으로 쓰인다. 흔히 학교에서 실 
+시하는 극기훈련 과정을 말한다. 
+
+
+
+
+
+
+Situation 380 Big Order
+
+Kang Hye-ran informs Jang Mi-young the order from Japan. 
+
+ 
+Kang : We just got a monster order from Japan. 
+Jang: When do they want delivery 
+Kang: They want it yesterday. 
+Jang: But we're running short of parts. 
+Kang : Our parts suppliers have to speed up delivery. 
+Jang: We're at a standstill until we can get more parts. 
+
+ 
+상황 380 대량 주문
+
+강 혜란이 장미영에게 일본으로부터의 주문을 알린다. 
+
+강혜란 : 일본으로부터 엄청난 주문을 받았어요. 
+장미영: 언제까지 보내달라고 하던가요 
+강혜란: 급하게 보내주길 원하고 있어요. 
+장미영: 하지만 부품이 거의 다 떨어졌는데. 
+강혜란: 부품 공급업자들이 서둘러 납품해야겠군요 . 
+장미영: 부품이 추가로 들어오기 전까진 아무 것 할 수 없어요. 
+
+ 
+<어구 해설> 
+ 'standstill' 이란 단어는 원래 'stand still' 즉, '가만히(정지하여) 서 있다' 라는 두 단어가 결합 
+한 형태로 명사 '정지' 또는 '멈춤' 의 뜻을 갖는다. 발음상 가운데 'd'발음을 하지 않고 
+stan(d)still로 하는 게 일반적이다. 따라서 'be at a standstill'은 '가만히 멈추어 서 있다' 또는 ' 
+아무 일도 하지 않고 있다'라는 뜻이 된다. 
+'They want it yesterday' 는 'They want it done yesterday'와 같이 주문은 지금 받았지만 납 
+기는 이미 지났다는 말. humorous한 표현으로 'They want it done very quickly' 뜻으로 '급하 
+게) 보내달라고 하자' 라고 해석하면 적합하다. 
+
+ 
+
+
+
+
+Situation 379 Engineer's Explanation
+
+ 
+Kim Joon is talking to Lee Mi-ran about the engineer's explanation. 
+
+ 
+Kim : Did you follow the engineer's explanations 
+Lee: I didn't have a clue as to what he was talking about. 
+Kim : Yeah, it was all Greek to me, too. 
+Lee: What should we do now 
+Kim : We'd better do some research. 
+
+ 
+상황 379 기술자 설명
+
+김 준이 이 미란에게 기술자의 설명에 대해서 이야기 하고 있다. 
+
+ 
+김 준 : 기술자가 해준 설명을 알아들었어요 
+이미란: 아니요, 무슨 소릴 했는지 도대체 감도 못 잡겠어요. 
+김 준: 그래요, 나도 도무지 뭐가 뭔지 모르겠던데요 
+이미란: 그럼 이제 어떡하지요 
+김 준: 연구를 좀 해야겠어요. 
+
+<어구 해설> 
+중세(in Medieval times) 상류지식층 사람들은 저마다 자신의 지식과 신분을 과시하기 위해 
+'ancient Greek'(고대 그리스어)을 사용했다. 반면에 보통 사람들은 그리스어를 알아듣지 못했 
+는데 여기서 유래해 'It's all Greek to me'란 말이 나왔다. 즉 'I don't understand what it 
+means'(무슨 말인지 도무지 모르겠다)란 뜻으로 통한다. 
+흔히 토론의 주제가 너무 어려워 이해가 어려운 경우나 전문분야의 지식이 없는 사람이 그 분야 
+의 전문가가 하는 수준 높은 설명을 듣고도 무슨 소린지 알아듣지 못하는 경우에 그 알아듣지 
+못하는 내용을 가리켜 'Greek'라고 한다. 
+
+ 
+
+
+
+Situation 378 Staff meeting 
+
+Jason and Min Ki-ho are talking about staff meeting. 
+
+Jason : I forgot all about the staff meeting this morning. 
+Min: So did I. 
+Jason : What are we going to do 
+Min: Let's tell the boss we were meeting a client. 
+Jason: It's not that easy to pull the wool over his eyes. 
+
+ 
+상황 378 간부 회의 
+
+ 
+제이슨과 민기호가 간부회의에 대해서 이야기 하고 있다. 
+
+ 
+제이슨 : 오늘 아침 간부회의가 있다는 걸 깜박 잊었습니다 . 
+민기호: 나도 그랬어요. 
+제이슨: 우린 이제 어떻게 되는 거죠 
+민기호: 고객 면담 중이었다고 사장님께 말씀드릴까요. 
+제이슨: 사장님을 속이는 게 그렇게 쉬운 일은이 아닙니다. 
+
+ 
+<어구 해설> 
+'pull the wool over one's eyes' 이 표현을 그냥 해석하면 '양모를 당겨 눈위로 뒤집어 씌우다' 
+이다. 여기서 'wool'이란 양모 그 자체의 재질이 아니라 그것으로 만든 물건, 즉 caps나 hats를 
+가리킨다. 사람이 쓰고 있는 cap을 꾹 눌러 씌우면 눈을 가리게 되어 그 사람을 속이기가 쉽게 
+된다. 따라서 'pull the wool over one's eyes'는 '~를 속이다'라는 idiom이다. 
+
+
+
+
+
+Situation 377 Software 
+
+ 
+Park Jin-hyeong is talking to Anderson about the software. 
+
+ 
+Park: Our competitor is rolling out their software next month. 
+Anderson: They're rushing just to beat us to the market. 
+Park: That's why we have to speed up production. 
+Anderson: That would be playing right into their hands. 
+Park: What do you mean 
+Anderson: They're trying to undermine our reputation for quality. 
+
+ 
+상황 377 Software 
+
+ 
+박진형이 앤더슨과 소프트웨어에 대해서 이야기 하고 있다. 
+
+ 
+박진형: 경쟁사가 다음달에 그들의 소프트웨어 시판을 개시한대. 
+앤더슨: 시장에서 우리 제품을 이겨 보려구 서두르는 거라구. 
+박진형: 우리가 생산을 서두르는 이유가 바로 그거야. 
+앤더슨: 그건 이적 행위가 될 수 있어. 
+박진형: 무슨 뜻이지 
+앤더슨 : 그 쪽 회사는 품질에 대한 우리의 명성을 깎아 내리려고 하거든. 
+
+ 
+<어구 해설> 
+이 표현은 card game에서 비롯됐는데 'hands' 는 player가 손에 들고 있는 'cards'를 뜻한다. 
+'bridge' 같은 카드게임에서는 한 player가 들고 있는 card를 무심코 빼버림으로서 상대방이 결 
+정적으로 승기를 잡는 경우가 있다. 이런 경우를 가리켜 'play into his opponent's hands', 즉 
+'상대방에게 유리한 카드를 내다'라고 표현한다. 여기서 유래하여 'play into someone's hands'는 '이적 행위를 하다'라는 뜻을 갖게 됐다. 
+
+
+
+
+
+Situation376New job  
+
+ 
+Kim Sang-ho asks Han Su-jeong about the new job offer. 
+
+ 
+Kim: Are you going to accept that new job offer 
+Han: I haven't decided yet. 
+Kim: How long are you going to sit on the fence 
+Han: I guess I'll have to decide soon. 
+
+상황376 새 직장 
+
+ 
+김 상호가 한 수정에게 새 직장에 대해서 묻고 있다. 
+
+ 
+김미현: 새로 오라는 회사로 갈 거예요 
+한수정: 아직 미정입니다. 
+김미현 : 얼마 동안이나 관망만하고 있을 거죠 
+한수정: 곧 결정하게 될 겁니다. 
+
+ 
+<어구 해설> 
+이 말의 본래 뜻은 '울타리 위에 앉아 있다'이다. 
+울타리에 올라앉아서 이쪽과 저쪽 중 어디로 뛰어내릴지 결정하지 못하고 우물쭈물하는 경우를 두고 하는 말로 어느 한쪽으로 결정하지 않고 관망하는 것을 뜻한다. 따라서 '어정쩡한 태도를 취하다' 또는 '형세를 관망하다'로 번역한다. 
+
+ 
+
+ 
+
+
+
+Situation 375 Work Schedule
+
+ 
+Cha Ha-na is talking about the work schedule. 
+ 
+Cha : We're falling way behind schedule in our work. 
+Jang: But we have to finish the sales report by Friday. 
+Cha: I think Friday would be touch and go. 
+Jang: We have no choice. 
+Cha: That's only two days. 
+Jang: Let's put our nose to the grindstone and wrap it up. 
+
+ 
+상 황375 업무 스케쥴
+
+ 
+차하나가 업무 스케쥴에 대해서 이야기 하고 있다. 
+
+차하나 : 일이 계획보다 좀 늦어지겠어요. 
+장혁: 하지만 금요일까진 판매보고서를 끝내야 되는데. 
+차하나 : 내 생각에 금요일까지는 곤란할 것 같아요. 
+장혁: 선택의 여지가 없다구요. 
+차하나 : 그래야 고작 이틀 후인데. 
+장혁: 죽었다 하고 밀어 부쳐서 끝장을 보도록 하지요 
+
+<어구해설> 
+'grindstone'은 우리말 '맷돌'에 해당하는 단어로 앉아서 한 손으로 돌리는 그런 작은 것이 아니 
+라 소나 말이 돌리는 큰 크기의 'grinding', 'polishing' 또는 'sharpening tool'이다. 
+따라서 코를 똑바로 세워서 grindstone에 들이대는 것은 열심히 일한다는 뜻. 'put' 대신 'keep', 
+'have' 또는 'hold'를 쓰기도 하며 '악착같이 일하다' 또는 '죽도록 일하다'라고 번역한다. 
+'touch and go'는 항공기가 착륙지점에 'touch'하고도 정지하지 못하고 다시 'go'하는 상황, 즉 ' 
+숨막히는 상황', '긴급상황' 또는 '몹시 곤란한 형국' 등의 뜻이다. 
+
+ 
+
+ 
+
+
+
+
+Situation 374 Meeting 
+
+Lee Min-ho asks Kim Min-young about the last meeting. 
+ 
+Lee : Why didn't you say anything at the meeting 
+Kim: I didn't want to embarrass anyone. 
+Lee : If you have something to say, you should spit it out. 
+Kim: I didn't want to seem like a squeaky wheel. 
+
+ 
+상황 374 회 의 
+
+ 
+이민호가 김민영에게 지난 회의에 대해서 묻고 있다. 
+
+ 
+이민호 : 왜 회의석장에서 한마디도 안 했어 
+김민영: 사람들을 난처하게 만들고 싶지 않았어. 
+이민호 : 할 말이 있으면 참지 말고 해버려. 
+김민영: 돌출행동으로 남의 눈총사고 싶지 않았어. 
+
+<어구해설> 
+'squeaky'는 '삐걱대는' 또는 '날카로운 불협화음이 나는'이란 뜻으로 주로 금속성의 귀에 
+거슬리는 삐걱거리는 소리를 나타내는 형용사. 'a squeaky wheel'은 자동차의 네 바퀴중에 
+하나가 불협화음의 금속성 소리를 내는 경우 '그 소리내는 바퀴'라는 뜻이다. 또 이 표현은 
+다른 멤버들과 화합을 못하고 돌출행동을 하는 회원을 가리키기도 한다. '돌출행동을 하는 
+사람' 또는 '다른 사람들과 화합을 못하는 사람'등의 뜻. 
+
+
+
+
+Situation 373 Successful Manager 
+
+ 
+Kim Jin-man asks Ahn sung-ki about the sucessful manager. 
+
+Kim : What is the key to being a successful manager 
+Ahn: Define successful. 
+　Kim : Someone who is liked and has a bright future. 
+　Ahn: Don't step on any toes while you're climbing the corporate ladder. 
+　Kim : That's a good piece of advice. 
+　
+ 상황 373 성공한 관리자 
+　
+김진만이 안성기에게 훌륭한 중간관리자에 대해서 묻고있다. 
+ 
+　김 진만: 훌륭한 중간관리자가 되는 비결이 무엇입니까 
+　안 성기 : 훌륭하다는 의미가 무엇인가요  
+　김 진만: 남들이 모두 좋아하고 또 장래가 보장된 사람이죠. 
+　안 성기: 하지만 승진과정에서 누락된 사람의 감정을 상하게 하지는 마세요. 
+　김 진만: 잘 알겠습니다 
+　
+ 
+　<어구해설> 
+　step on one's toes 는 '(남의) 발가락을 밟다'라는 뜻. 한 줄로 서서 차례차례 순서대로 
+　입장하는 경우, 뒷사람이 앞사람의 뒤꿈치를 밟을 수는 있지만 발가락을 밟을 수는 없다. 
+　뒷사람이 앞사람의 발가락을 밟는 것은 앞사람보다 먼저 들어가려고 순서를 어길 때 발 
+　생한다. 
+
+
+
+
+Situation 372 Sales 
+
+ 
+So Ji-seop asks Billy about the sales. 
+
+ 
+So : Our sales are falling. 
+Billy: Our competitors are on our heels. 
+So : What are we going to do about it 
+Billy: The boss thinks it'll just pass. 
+So : He's burying his head in the sand. 
+Billy: I agree with you. 
+
+ 
+상황 372 판매량 
+
+ 
+소지섭이 판매고에 대해서 빌리에게 묻고 있다. 
+
+ 
+소지섭 : 판매고가 떨어지고 있어요. 
+빌리: 경쟁회사가 우리 뒤를 바짝 따라 붙고 있습니다. 
+소지섭 : 그 문제를 어찌 대처할 건데요 
+빌리: 사장님은 그걸 일과성이라고 생각하십니다. 
+소지섭 : 정말 문제의 심각성을 제대로 인식하지 못하시는 것 같아요. 
+빌리: 제 말이 그 말입니다. 
+
+ 
+<어구 해설> 
+이 말의 원래 표현은 'bury one's head in the sand like an ostrich'인데 끝에 붙은 'like 
+an ostrich'가 빠진 형태. 'ostrich'는 '타조'란 뜻이다. 타조는 위험에 직면하면 모래 속에 
+머리만 묻어버리고 안심하는 경향이 있다. 다시 말해 머리만 모래 속에 감추고 몸통과 꼬리 
+는 그대로 노출시키고 있으면서도 위기를 넘겼다고 태연해 하는 타조의 습성을 비꼬아 하는 
+표현으로 '현실을 도피하다' '눈 가리고 아웅하다' 또는 '사태의 심각성을 인식하지 못하다' 
+등으로 번역한다. 
+
+
+Situation 392 Investment 
+
+Yoon Shin asks Han Jin-seok to suggest any investment. 
+
+Han: What can I do for you 
+Yoon: Do you know any good investment counselor 
+Han: Are you interested in long term investments or quick in-and-out speculation. 
+Yoon: I want to my money to work for me. I don't really care. 
+
+상황 392 투 자 
+
+윤 신이 한진석에게 투자에 대한 제안을 요청한다. 
+
+한진석: 무엇을 도와드릴까요 
+윤 신: 혹시 유능한 투자상담가를 아십니까 
+한진석: 장기투자를 원하시나요 아니면 단기차익을 노리는 투기에 관심이 있습니까 
+윤 신: 투자가 잘되면 그만이지요. 결과만 좋으면 상관없어요. 
+
+<어구해설> 
+여기서 speculation 은 생각, 숙고의 의미가 아니라 “ 투기 투자 ” 라는 뜻으로 사용되었다. 
+in-and -out은 증권용어로서 “단기매매” 한다는 의미이다
+
+
+
+
+
+Situation 391 Business Trip
+
+ 
+Ahn Min-seok calls to Mao about the business trip. 
+
+Ahn: I'm planning to attend a seminar about new invention in Taiwan from Sep.10 to 
+Sep. 25. Could I meet you during those two weeks 
+Mao: You're coming to Taiwan Very good! When can I see you 
+Ahn: How about Sep. 12 I think I'm free on that day. 
+Mao: Very good. Why don't you call me again when you arrive in Taiwan 
+
+ 
+상 황 391 출 장
+
+안민석이 마오에게 출장에 대해서 전화하고 있다. 
+
+ 
+안민석: 제가 9월 10일부터 9월 25일까지 타이완의 새 발명품 세미나에 참가할 예정입니다. 그 
+기간 에 뵐 수 있을까요 
+마오: 타이완에 오신다고요 잘 됐군요. 언제쯤 뵐까요 
+안민석: 9월 12일쯤 어떨까요 그땐 제가 시간을 낼 수 있을 것 같습니다. 
+마오: 잘 됐습니다. 타이완에 도착하셔서 전화 주세요. 
+
+ 
+<어구 해설> 
+세미나에 참석차 외국에 갈 기회가 있을 때, 가능하면 Business상 다른 기업들을 만나 보고 올 
+수 있다면 더욱 좋지 않을까. 그런 경우, 여행을 가기전 담당자와 연락하여 약속을 미리 정해놓 
+는 것이 현명한 선택일 것이다. 여기서 be planning to~ 는 "~할 예정이다"의 의미로 사용되며, 
+attend는 "(모임, 회의 등)에 참석하다"의 뜻이다. 또한 자주 쓰이는 표현으로 "Let me get in 
+touch with you"(당신과 연락을 하겠다)를 알아두면 좋다. 
+
+ 
+
+
+
+
+Situation 390 Depression 
+
+ 
+Park Ki-won is talking to Jang Ri-ra about the depression. 
+
+ 
+Park : Depression of trade is acutely felt. 
+Kim: Some people's luxury is getting out of control. 
+Park: There are many people living on unearned incomes. 
+Kim: They are going on the racket living in clover. 
+
+ 
+상황 390 경기 침체 
+
+ 
+박기원이 장 리라와 경기 침체에 대해서 묻고 있다. 
+
+ 
+박기원: 경기 침체가 심각합니다. 
+장리라: 일부 사람들의 사치가 점점 더 지나쳐 지고 있습니다. 
+박기원: 불로소득으로 생활하는 사람들이 많습니다. 
+장리라: 그들은 호화롭게 방탕한 생활을 하고 있습니다. 
+
+ 
+<어구 해설> 
+(경기나 무역이) 심각하게 침체되고 있다. 라는 표현으로 “Depression of trade is acutely felt.” 이라는 표현을 사용할 수 있습니다. Get out of control 이라고 하면 “도가 지나치다” 라는 표현입니다. Live on unearned incomes 라고 하면 “불로소득으로 생활하다” 라는 표현이며, Go on the racket, live in color 는 방탕하다, 사치하다 라는 표현입니다. 
+
+ 
+
+  
+
+ 
+Park Ki-won is talking to Jang Ri-ra about the depression. 
+
+ 
+Park : Depression of trade is acutely felt. 
+Kim: Some people's luxury is getting out of control. 
+Park: There are many people living on unearned incomes. 
+Kim: They are going on the racket living in clover. 
+
+ 
+상황 390 경기 침체 
+
+ 
+박기원이 장 리라와 경기 침체에 대해서 묻고 있다. 
+
+ 
+박기원: 경기 침체가 심각합니다. 
+장리라: 일부 사람들의 사치가 점점 더 지나쳐 지고 있습니다. 
+박기원: 불로소득으로 생활하는 사람들이 많습니다. 
+장리라: 그들은 호화롭게 방탕한 생활을 하고 있습니다. 
+
+ 
+<어구 해설> 
+(경기나 무역이) 심각하게 침체되고 있다. 라는 표현으로 “Depression of trade is acutely felt.” 이라는 표현을 사용할 수 있습니다. Get out of control 이라고 하면 “도가 지나치다” 라는 표현입니다. Live on unearned incomes 라고 하면 “불로소득으로 생활하다” 라는 표현이며, Go on the racket, live in color 는 방탕하다, 사치하다 라는 표현입니다. 
+
+ 
+
+
+
+
+ 
+Situation 389 Five Day Workweek. 
+
+ 
+Park Mi-ran asks Kim Jeong-mi about the five day workweek. 
+
+ 
+Park : How do you feel about the five day workweek 
+Kim : I'm in favor of it. 
+Park: But not everyone in the office likes the idea. 
+Kim : We should put out some feelers. 
+Park : OK, we should form a consensus before we spring it on the boss. 
+Kim: That's a good idea. 
+
+ 
+상황 389 Five Day Workweek 
+
+ 
+박 미란이 김 정미에게 주 5일제 근무에 대해서 묻고 있다. 
+
+박미란: 주 5일 근무에 대해 어떻게 생각해 
+김정미 : 난 찬성이야. 
+박미란: 우리 사무실에 있는 모든 사람이 다 찬성하는 건 아니야. 
+김정미: 의견 수렴을 해 봐야 해. 
+박미란 : 좋아, 무턱대고 사장님께 올리기 전에 의견일치를 봐야지. 
+김정미: 그거 좋은 생각이야. 
+
+ 
+<어구 해설> 
+시각이 발달되지 못한 하급 동물들은 움직이고 먹이사냥을 할 때 눈 대신 '더듬이'를 이용한다. 
+이 '더듬이'가 바로 'feeler'다. 따라서 주변의 상황이나 정세를 탐지하기 위해서는 안테나를 뽑 
+아 올리듯이 더듬이를 끌어내면 탐지가 된다고 해서 'put out some feeler'는 '의견 수렴을 하다 
+', '타진하다' 또는 '염탐하다'의 뜻으로 해석한다. 
+'spring something on someone'은 깜짝 놀랄만한 뉴스나 정보를 예상 밖으로 갑자기 전하는 
+것을 의미하는 말이다. 
+
+ 
+
+
+
+Situation 388 Insurance 
+
+ 
+Kim Ha-lim recommends Ha Ji-won to effect an insurance. 
+
+Kim: I will be glad if you will insure this cargo. 
+Ha: Which is better, for us to take our insurance or for you to do it 
+Kim: As this is ordered FOB, you' have to insure the goods yourself. 
+Ha: We would like to coverage Against All Risks on this cargo. 
+
+ 
+상황 388 보 험 
+
+ 
+손 지나가 마이크에게 보험계약을 권유하고 있다. 
+
+김하림: 이 화물에 대해 보험을 들어주시면 좋겠습니다. 
+하지원: 저희가 보험을 드는 것과 귀사에서 들어주는 것과 어느 것이 우리에게 더 안전합니까 
+김하림: 이것은 FOB 가격으로 주문된 것이니 보험은 그쪽에서 드셔야 합니다. 
+하지원: 이 화물에 대해 AAR 약관으로 보험을 들고 싶습니다. 
+
+ 
+<어구해설> 
+FOB -- 무역거래에서 가장 많이 사용되는 지불조건으로 매도인은 선적항에서 물품이 본 
+선의 현측 난을 통과함으로써 매도인의 물품인도 의무가 완료되는 조건을 말합니다. 즉 매 
+도인이 배에 짐을 싣기까지의 비용부담만을 부담하는 것을 말한다 
+
+ 
+
+
+Situation 387 Client
+
+Han Jae-seok advices Kang Min-ho about the client. 
+
+Han: We should tread lightly when we meet our client today. 
+Kang : Why We got to be good friends last night. 
+Han: It's okay to take liberties when you're drinking together. 
+Kang: Yeah, we should be more formal at the meeting. 
+Han : Just stick to business. 
+Kang: I'll be on my best behavior. 
+
+ 
+상황 387 고객
+
+한재석이 강민호에게 고객접대에 관해서 충고하고 있다. 
+
+ 
+한재석: 오늘 고객을 대할 때에는 신중해야 합니다. 
+강민호: 왜 그러죠 어젯밤에 이미 친구가 되었는데. 
+한재석: 같이 술을 마실 때는 허물없이 지내도 좋습니다. 
+강민호: 그러니까, 회의석상에서는 좀더 격식을 갖추어야 한다, 이거지요 
+한재석: 업무에는 충실하라는 말입니다. 
+강민호: 알겠습니다. 최선을 다하도록 하겠습니다. 
+
+<어구 해설> 
+'take liberties'는 '자유를 택하다' 라는 의미지만 실제로는 '버릇없이 굴다' 또는 '허물없이 행동 
+하다'의 뜻으로 사용된다. 사람들과 관계를 유지함에 있어 지나치게 자유를 택해서 마음대로 행 
+동하며 무례를 범하기 때문이다. 
+'tread lightly'에서 'tread'는 '걷다' 또는 '지나가다'라는 뜻으로 'lightly'란 부사와 함께 '사뿐사 
+뿐 걷다'지만 그 의미가 확장돼 '주의 깊게 행동하다' 또는 '처신을 신중히 하다'라는 뜻으로도 
+쓰인다. 'stick to'는 '~에 전념하다' 또는 '~에 매달리다'라는 말이다. 
+
+ 
+
+
+Situation 385 Retirement 
+
+ 
+Kim Jin-seok is worried by his father. 
+ 
+Kim: My father is worried about his job. 
+Lee: Why 
+Kim: His company is trying to put him out to pasture. 
+Lee: They're forcing him to retire 
+Kim: They're not exactly showing him the door yet. 
+Lee: Just giving subtle hints, right 
+
+ 
+상황 385 퇴 직 
+
+ 
+김전석이 자신의 부친을 걱정하고 있다. 
+
+ 
+김진석 : 우리 아버지께서 회사에서 밀려날까봐 걱정이셔. 
+이민호: 왜 
+김진석 : 다니시는 회사에서 아버지를 내보내려고 하나봐. 
+이민호: 회사가 퇴직을 강요하는 거야 
+김진석 : 꼭 대놓고 나가라고는 않지만. 
+이민호: 묘한 암시를 하고 있다 이거지 
+
+ 
+<어구 해설> 
+'put out to pasture' 이란 표현의 근원은 경마인데, 경마에 참가하는 말들 중 나이가 들었거나 
+병에 걸려 허약해져서 더 이상 racehorse(경주마)로서 제 구실을 수행하기 어려운 말들은 들판 
+(pasture)으로 쫓겨나서 풀을 뜯어 먹으며 살게 된다. 이것을 가리켜 'put someone out to 
+pasture'라고 하며 'retire', 즉 '~를 퇴직시키다' 또는 '(자리에서)내보내다'라는 뜻으로 쓰인다. 
+'show someone to the door'는 '~에게 문을 가리켜주다', 즉 나가는 문쪽을 가리키는 것은 밖 
+으로 나가라고 말하는 것은 아니지만 암묵적으로 그것을 의미하는 행동으로 '~를 나가라고 암 
+시하다'라는 뜻. 위의 'put someone out to pasture'와 'show someone to the door'는 같은 의 
+미이다. 
+
+
+
+
+Situation 384 Stocks 
+
+ 
+Ha Ki-won boast of his stocks. 
+
+Ha: I bought some stocks in an Internet venture company. 
+Min: Yeah Maybe I should buy some, too. 
+Ha: No, you've got to get in on the ground floor. 
+Min: That's right. How's the stock doing 
+Ha: I doubled my money in two months. 
+Min: Wow! Then, I guess the sky's the limit. 
+
+ 
+상황 384 주 식 
+
+ 
+하기원이 자신의 주식보유를 자랑한다. 
+
+ 
+하기원: 인터넷 벤처 회사의 주식을 좀 샀습니다. 
+민상식: 그래요 저도 좀 사고 싶은데. 
+하기원 : 안됩니다, 초창기부터 투자를 했어야지요. 
+민상식: 그렇군요 그런데 지금 그 주식시세가 좋은가요 
+하기원 : 두 달 만에 배로 올랐습니다. 
+민상식: 와! 그럼, 대박 터지겠군요. 
+
+<어구 해설> 
+'the sky is the limit'는 말 그대로 '하늘이 한도'란 말로 하늘이란 무한한 것이기 때문에 
+'limitless' 또는 'endless', 즉 한도나 끝이 없다는 뜻이 된다. 
+돈을 얼마를 벌건 그 제한이나 한도가 없다는 것은 요즘 우리 사회의 신조어인 '대박'을 의 
+미한다. 따라서 위의 대화에 쓰인 'I guess the sky is the limit'를 '대박 터지겠군'이라고 
+번역했다. 'get in on the ground floor'에서 'ground floor'는 건물의 '1층'이란 뜻으로 '시 
+작' 또는 '출발'을 의미한다. 다시 말해 'get involved in an investment at the very start', 
+즉 '초창기에 투자하다'라는 뜻이다. 
+
+
+
+
+Situation 383 Golden Holiday 
+
+ 
+Park In-han asks Kim Seo-young about the golden holiday. 
+
+Park: What are you doing this golden holiday 
+Kim : I'm planning to backpack through Europe. 
+Park: You should get a good guidebook. 
+Kim: No, I want to avoid the usual tourist traps. 
+Park : But you'll miss all the interesting sights. 
+Kim: I want to travel off the beaten track. 
+
+ 
+상황 383 황금연휴 
+
+ 
+박 인한이 다가오는 황금연휴에 대해서 묻고 있다. 
+
+ 
+박인한 : 이번 여름에 뭘 할 거예요 
+김서영: 유럽배낭여행을 계획하고 있습니다. 
+박인한 : 그러면 제대로 된 안내책자를 구해야 해요. 
+김서영: 아니예요, 관광객이 많이 몰리는 소문난 곳은 피하고 싶거든요. 
+박인한 : 하지만 유명한 곳은 몽땅 빼먹을 텐데. 
+김서영: 저는 잘 알려지지 않은 곳을 여행하고 싶거든요. 
+
+ 
+<어구 해설> 
+'beaten' 이란 단어를 살펴보면, 먼저 'beat'는 동사로 '두드리다', '(길을) 밟아 
+다지다' 또는 '개척하다'라는 뜻이 있다. 'beaten'은 '(길을) 밟아 다지다'의 뜻의 
+동사가 과거 분사형으로 바뀐 것으로서 '밟아 다져진'이란 뜻이 된다. 따라서 
+'the beaten track'은 '많은 사람이 드나들어서 길이 잘 나 있는 장소'란 말이며 
+'off'는 흔히 '벗어난'이란 뜻이므로 'off the beaten track'하면 '인적이 드문 곳' 
+또는 '잘 알려져 있지 않은 곳'이란 뜻이 된다. 
+
+
+
+
+
+Situation 382 Afternoon Meeting 
+
+ 
+Jang Min-soo is talking to Min Ji-young about the afternoon meeting. 
+
+Jang : Can you stand in for me at the two o'clock meeting 
+Min: Sure, are you working on the sales report 
+Jang : No, I'm training a new salesperson. 
+Min: Don't you think you have too many irons in the fire 
+Jang : Maybe, but there's no one else to do the work. 
+Min: You should hire an assistant. 
+
+ 
+상황 382 오후 회의 
+
+ 
+장 민수가 민 지영에게 오후 회의에 대해서 이야기 하고 있다. 
+
+장민수 : 2시 회의에 내 대신 참석할 수 있니 
+민지영: 물론, 넌 지금 판매보고서 작성 중이지 
+장민수 : 아냐, 신규판매사원 훈련시키는 중이야. 
+민지영: 넌 너무 많은 일에 관여한다고 생각하지 않니 
+장민수 : 그럴 수도 있지만, 그 일을 할 사람이 달리 없어서 그래. 
+민지영: 조수를 하나 채용해야지. 
+
+ 
+<어구 해설> 
+이 표현의 유래를 살펴보면, 대장간(blacksmith)에서 쇠붙이를 불에 달궈 여러 가지 연장을 만 
+드는 경우(forge:단조) 불에 쇠붙이를 달랑 한 개만 올려놓고 달구는 것보다 능률적으로 작업을 
+하기 위해서는 불 위에 여러 개의 쇳덩어리(irons)를 올려놓고 식는 동안 번갈아 가며 한 가지씩 
+처리하면 동시에 낫 괭이 호미 또는 곡괭이 등의 다양한 물건들을 만들 수 있다. 
+따라서 오늘 날 'have too many irons in the fire'를 비유적으로 '동시에 여러 가지 일에 손을 
+대다' 또는 '여러 가지 일(또는 계획) 을 시도하다' 등의 뜻으로 해석되고 있다. 
+
+
+Situation 402 Technical Tie-up 
+
+ 
+Sakai wants to tie with KT Micro. 
+
+ 
+Sakai: Mr. Cho. I understand your company puts out the best when it comes to micro 
+chips. 
+Cho: Thank you for saying so. In fact, Nobody beats us on this field. 
+Sakai: That's great. We're interested in a technical tie-up with your company. 
+Cho: What type of arrangement do you have on your mind 
+
+ 
+상황 402 기술 제휴 
+
+사카이가 KT 마이크로와 제휴를 원한다. 
+
+ 
+사카이: 조 선생님, 마이크로 칩에 관한 한 귀사가 최고의 제품을 만들어 내는 걸로 알고 있는데 
+요. 
+조진기: 그렇게 말씀해 주시니 감사합니다. 사실, 이 부분에 있어서 저희를 능가할 회사는 없습 
+니다. 
+사카이: 대단하군요. 저희는 귀사와의 기술제휴에 관심이 있습니다. 
+조진기: 어떤 종류의 협정을 구상하고 계신가요 
+
+ 
+<어구 해설> 
+외국 바이어(buyer)와의 거래 중 가장 큰 비중을 차지하는 부분이 상담과 계약 체결이다. 따라 
+서, 상담 내용과 계약서를 사전에 작성해 두고 상대방의 예상 질문에 대한 답변 내용도 철저히 
+준비해 두는 것이 필요할 것이다. 본문에서 tie-up은 "체휴, 협력"의 의미로 a technical tie-up 
+은 "기술제휴"를 의미한다는 것을 알아두는 것이 좋다. 
+
+
+
+
+Situation 401 Refund 
+
+ 
+Park Min-Ah wants to talk with sales manager. 
+
+ 
+Park: Can I talk to the sales manager 
+Kim: I am an assistant manager, Kim Sang-in. What can I do for you 
+Park: Despite our E-mail in request for immediate delivery, we haven't received our 
+order as of today. 
+Kim: What is your demand 
+Park: Please cancel it and refund $1,000 in full immediately. 
+
+ 
+상황 401 반 환 
+
+ 
+박민아가 판매담당 과장과 통화하길 원한다. 
+
+ 
+박민아: 판매 담당 과장님과 얘기할 수 있습니까 
+김상인: 저는 김상인 대리라고 합니다. 무엇을 도와 드릴까요 
+박민아: 제가 즉시 납품해 달라고 e-mail을 보냈는데, 지금까지 주문품이 도착하지 않았습니다. 
+김상인: 어떻게 해 드리면 되겠습니까 
+박민아: 취소하고 싶으니 1,000달러 전액을 즉시 반환해 주시기 바랍니다. 
+
+ 
+<어구 해설> 
+주문취소나 주문과 관련된 금액 전액을 환불요청 시에는 Please cancel it and refund ~ in 
+full. 이라는 표현을 사용할 수 있다. 여기에서 refund는 "금전을 돌려주다, 반환, 환불하다" 라 
+는 표현이며 in full 은 '전액으로' 라는 의미가 된다. “as of”는 어느 시점 현재를 나타내는 말이 
+며 as from 은 법률 등의 시효나 기간의 시작을 나타낸다. 
+
+
+
+
+
+Situation 400 Schedule 
+
+ 
+David asks Kim Mi-ran to see the schedule of Dr. Han. 
+
+Kim : Can I help you 
+David: Yes. This is David. Is Dr. Han available tomorrow 
+Kim: Hold on, please. Let me check his calendar. I see he has 
+about 30 minutes at 12. 
+David: Could I come at that time 
+Kim: Sure. I'll put you down for that time. 
+
+ 
+
+ 
+상황 400 스케쥴 
+
+ 
+데이빗이 김미란에게 한박사의 스케쥴 확인을 요청하고 있다. 
+
+ 
+김미란: 무엇을 도와 드릴까요 
+데이빗: 네, 저는 데이빗 하셀입니다. 한스 박사께서 내일 시간이 있으십니까 
+김미란: 잠깐 기다리세요. 그분의 스케줄을 확인해 보겠습니다. 
+ 아, 12시에 30분 정도 시간이 있습니다. 
+데이빗: 그 때 들러도 되겠습니까 
+김미란: 네. 그 시간에 오시는 것으로 예약해 놓겠습니다. 
+
+ 
+<어구 해설> 
+사람을 만나게 되었을 때 "~와 그 시간에 만나도록 약속을 정하다” 라는 표현으로 "put 
+someone down for that time" 이라는 표현을 사용할 수 있다. Put down 이라고 하면 "이름을 
+기록하다 , ~앞으로 달아 놓다” 등의 의미이지만 위와 같은 경우에는 "약속을 잡아 놓다” 의 표 
+현으로 사용된다. Put it down to my account. 라고 하면 그것은 “내 앞으로 달아 놓으세요 ” 
+라는 표현이 된다. 
+
+
+
+
+
+Situation 399 Proposal 
+
+Kim Sang-ho asks Han Su-jin about the proposal. 
+
+Kim : How soon can we expect your answer to our proposal 
+Han: Well that depends on the head office. 
+Kim: Can you give me an approximate date 
+Han: Unless my guess is wrong. I'd say something next week. 
+
+상황 399 제안
+
+김상호가 한수진에게 그들의 제안에 대해서 묻고 있다. 
+
+김상호: 저희가 한 제안에 대해 언제까지 답변해 주시겠습니까 
+한수진: 글쎄요. 그것은 본사에 달려 있습니다. 
+김상호: 대략 언제쯤 될지 알수 없을까요 
+한수진: 제 짐작이 틀리지 않는다면 내주중이 될 것입니다. 
+
+<어구해설> 
+“언제까지” 란 우리말에 해당하는 영어 표현에는 How soon, How late, 
+How long, Until when 등 여러 가지가 있으므로 그때의 상황에 맞게 잘 선택해서 쓰도록 해야한다. 
+How long do you need to make/ How late do you expect it to be 
+
+
+
+
+
+Situation 398 Advertising 
+
+Jang won-hee inquires about the advertising. 
+
+Agent: Hello, this is KOTIS Agent . May I help you 
+Jang: I like to talk to somebody about taking out advertising in your agency. I will 
+need a half-page ad to appear in the first section for three consecutive Sundays. 
+Agent: You'll want to talk to our commercial ad department 
+Jang: Thank you. this is a major event for us. 
+
+상황 398 광 고 
+
+장원희가 대행업체에 광고문의를 한다. 
+
+대행업체: 여보세요, 코티스 대행업체입니다. 무엇을 도와드릴까요 
+장원희: 예 광고를 내려고 하는데 누구와 의논하면 될까요 저희는 연속 3주에 걸쳐서 신문 제 1면에 반쪽 광고를 내려고 하는데요 
+대행업체: 아 그러면 상업광고부서와 의논하셔야 겠는데요. 
+장원희: 아 감사합니다. 이 일은 우리에게 아주 중요한 일이거든요. 
+
+<어구 해설> 
+take out 이라는 동사는 “꺼내다, 끄집어 내다” 라는 의미로서 새로운 사실을 신문이나 방 
+송에 발표하는 것이다. take-out을 한단어로 쓰면 식당에서 먹지 않고 가지고 가는 음식을 
+지칭하는 말이다. 
+
+
+
+
+
+Situation 397 Delayed Order 
+
+ 
+Anderson Palmer complains about the order. 
+
+ 
+Anderson : We will lay claim about our order. 
+Lee : What's the matter with you sir 
+Anderson : Unless our order is delivered by May, we will have to cancel it. 
+Lee: I will make it certain immediately. 
+
+ 
+상황397 지연된 주문 
+
+ 
+앤더슨 파머가 이 한영에게 자신의 주문사항에 대해서 불평을 하고 있다. 
+
+ 
+앤더슨: 우리는 당신의 주문에 대해 이의를 제기할 예정입니다. 
+이 한영: 무슨 문제가 있습니까 
+앤더슨: 5월까지 주문품이 도착하지 않으면, 취소할 수 밖에 없습니다. 
+이 한영: 제가 즉시 확인해 보겠습니다. 
+
+ 
+<어구 해설> 
+“언제까지 주문한 물건이 도착하지 않아 주문을 취소할 수 밖에 없다“는 표현으로 
+Unless order is delivered by ~, we will have to cancel it. 이라는 표현을 사용할 수 있다. 
+make it은 구어적 표현으로 원래의 의미는 “일을 제대로 성공하다, 수행하다.” 라는 의미이며 
+여기서는 certain 과 결합하여 확인하다는 의미로 사용되었다. 
+
+ 
+
+
+
+
+Situation 396 Contract
+
+ 
+Han Ji-soo asks Kim Mi kyung to put off the contract. 
+
+Han: I hate to put you in a spot, but I'd like to postpone our contract. 
+Kim: I'm afraid it's not up to me. 
+Han: Then, who should I speak to 
+Kim: The person to talk to is my President. 
+
+ 
+
+ 
+상황 396 계 약
+
+ 한지수가 김미경에게 계약연기를 요청하고 있다. 
+
+한지수: 당신의 입장을 난처하게 만들고 싶지 않지만, 계약을 연기해야겠습니다. 
+김미경: 안됐지만 그건 제가 결정할 일이 아니군요. 
+한지수: 그러면 누구에게 말씀드려야 합니까 
+김미경: 저희 사장님께 한번 말씀해 보십시오. 
+
+ 
+<어구 해설> 
+in a spot 은 구어적 표현으로 “매우 곤란한, 나쁜 상태에 처해 있는” 의 의미이며 
+여기서는 put과 함께 상대를 “곤경에 빠뜨리다, 난처하게 만들다”로 해석한다. 
+ 
+
+ 
+
+
+
+
+
+
+
+Situation 395 Invoice 
+
+ 
+Kim Jin- ho wantsto speaks Park Jin-seong.
+ 
+Kim: Hello, Is this Mr. Park in accounting department 
+Park: Yes, Park speaking. May I help you 
+Kim: This is calling from manufacture. I know you have been busy lately, 
+and this may `have slipped your mind. 
+Park: Are you talking about the payment that the due date for Invoice number 
+20010108 was May, 25, 2001 
+Kim: Yes, we still haven't received your payment yet. Have you posted the payment 
+Park: Yes, we just did it. 
+
+ 
+상 황 395 인보이스
+
+ 김진호가 박진성과 이야기를 하고 싶어한다. 
+
+ 
+김진호: 여보세요, 회계부 박 진성 씨 좀 부탁드립니다. 
+박진성: 네, 제가 박 진성 인데요. 무엇을 도와드릴까요 
+김진호: 여기 공장인데요. 최근 무척 바쁘실 것이라는 사실을 잘 알고 있는데요. 그래서 
+대금 지불을 깜빡 잊었으리라 생각됩니다. 
+박진성: 5월 25인 대한 지불 인보이스20010525 5월 25일을 말하시는 건가요 
+김진호: 네. 아직까지 대금을 받지 못했어요. 혹시 송금하셨나요 
+박진성: 네, 방금 보냈습니다. 
+
+ 
+<어구 해설> 
+위 문장 중 slip one's mind 란 표현이 있다, "깜빡 잊다"는 뜻이며, 만약 우리가 무엇을 잊었다고 말하고 싶을 때 "It slipped my mind." 또는 "I forgot it"이라고 간단하게 표현하면 된다. 그리고 보통 금융상 지불에 대한 마감일자는 due date 라고 하며, "송금하다" 는 Post 라는 표현을 사용한다. 
+
+
+
+
+
+Situation 394 Payment 
+
+Lee Han-soo is asking Charles Schneider to change the method of payment. 
+
+Charles : Well, Mr. Lee have you been able to check into the altering your policy 
+on payment methods 
+Lee: I have, Mr. Charles. I can offer to change the method of payment, if you 
+increase the size of your order 
+Charles : How big an order do you expect 
+Lee : We feel that if you order a minimum of 300 climbers, we will allow you to 
+make payment on delivery. 
+
+상황 394 금액 지불 
+
+이한수가 찰스 슈나이더에게 지불방법을 바꾸라고 요구하고 있다. 
+
+찰스 : 이 선생님. 지불방법에 대한 방침의 변경을 검토해 보셨습니까 
+이한수: 예, 찰스씨. 주문량을 증가시키면 지불방법의 변경을 제안할 수 있습니다. 
+찰스: 어느 정도의 주문을 원하십니까 
+이한수: 최소한 300대 이상을 주문하시면 배달에 따른 지불을 허용할 수 있습니다. 
+
+<어구해설 > 
+좀 더 유리한 제안을 요청할 때 당신의 의견에 동의하지 하지 않는 경우 그 생각을 바꾸 
+고자 설득할 수 있다. 지난 강의에서 설명한 것처럼 여기서도 현재완료형 have를 사용하여 
+결과의 상황을 질문하는 문형을 제시하고 있다. 
+
+
+
+
+Situation 393 Reservation 
+
+ 
+Kim Joo-hyung asks KA about the reservation. 
+
+Kim: I want to confirm my reservation on flight 202 to L. A. on March 21 from Seoul. 
+KA: Could I have your name, please 
+Kim: My name is Joo-hyung Kim. 
+KA: Mr.Kim. Your flight reservation has been confirmed. 
+
+ 
+상황 393 예 약 
+
+ 
+김주형이 대한항공에 예약상황을 묻고 있다. 
+
+ 
+김주형: 서울에서 예약한 3월 21일 LA행 202편 탑승권 예약을 확인하고 싶은데요. 
+대한항공: 성함을 말씀해 주시지요 
+김주형: 제 이름은 김 주형입니다. 
+대한항공: 아, 김 선생님 귀하의 예약이 확인되었습니다. 
+
+ 
+<어구 해설> 
+사전에 예약한 사항을 확인하는 경우에는 confirm 이란 동사를 사용한다. 예약을 하다라 
+고 표현하는 경우에는 make a reservation 이라고 사용하면 된다. 
+
+
+Situation412Reception 
+
+ 
+Mr.SongisgoingtoserveMr.Mikewithsomewhisky. 
+ 
+Song:Mr.Mike,howdoyoulikeyourwhisky 
+Mike:Withwaterandice,please. 
+Song:Ialwaystakeminestraight. 
+Mike:Don'tyoufineitabitstrong 
+Song:Yes,butittastebetterthatway. 
+
+ 
+상황412접대 
+
+ 
+송철민은마이크에게위스키를대접하려고한다. 
+
+ 
+송철민:마이크씨,위스키를어떻게해서드시겠어요 
+마이크:물과얼음을넣어주세요. 
+송철민:저는늘스트레이트로마십니다. 
+마이크:좀독하다고느끼지않으세요 
+송철민:예.하지만그렇게마시는게맛이좋거든요. 
+ 
+<어구해설> 
+howdoyoulikeyourwhisky는위스키를좋아하냐를묻는것아니라 
+straight로들겠는지아니면cocktail을해서들겠는지를묻는말이다. 
+다른표현으로는 
+Howdoyoutake[prefer]yourwhisky 
+(위스키를어떻게해서드시겠습니까) 
+한국의'일화생수'나'진로탄산석수''진로믹서'등과같이 
+whisky에타서마시는탄산수를미국인들은soda(water)나clubsoda라고부른다. 
+한편우리나라의'오란씨'는pinesoda로, 
+'써니텐'은orangesoda,applesoda등으로부를수있다. 
+
+
+
+
+
+
+
+Situation 411 Claim
+Brown talks with Mr. Kim about the defect on the item 
+Brown : Look, Mr. Kim, there's no way your company can avoid 
+the blame for the defect.
+Kim : Mr. Brown, I tell you, I'm positive there was no defect 
+when the item left the factory.
+Brown : Mr. Kim, I don't want to argue about that. 
+Either our claim gets settled or the deal is off.
+Kim : We don't want to lose this deal, let's be reasonable. 
+
+상황 411 클레임
+브라운은 김정식과 제품의 결함에 대해서 말하고 있다. 
+브라운 : 저, 김 선생님, 귀사가 결함에 대한 책임을 면할 수 있는 방법은 없습니다.
+김정식 : 브라운씨, 분명히 말씀드립니다만 그 제품이 공장에서 떠날 때는 
+전혀 하자가 없었습니다.
+브라운 : 김 선생님, 그 점에 대해서는 논쟁하고 싶지 않습니다. 
+당사 클레임이 해결되던가 아니면 거래는 끝장입니다.
+ 김정식 : 우리는 이 거래를 놓치고 싶진 않습니다. 서로 이성적으로 해결을 합시다. 
+
+<어구 해설>
+argue는 사리를 밝히고, 증거를 들어서 주장을 폄으로써 
+상대방을 납득시키려고 하는 행위를 말한다. 
+discuss나 talk about은 언쟁과는 무관한 토론이나 대화일 수도 있고 때로는 언쟁을 의미할 때도 있다.
+다음의 관련표현들도 함께 알아두자.
+What were you arguing about so loudly 
+(뭘 가지고 그렇게 큰 소리로 언쟁을 했습니까)
+
+
+
+
+
+
+Situation 410 Schedule
+Richard asks Mr. Park about his schedule.
+Richard : Mr. Park, what's on tap for tomorrow
+Park : Well, let's see, let's go over tomorrow's schedule, shall we
+Richard : Right. You said something about going down to the plant, didn't you
+Park : Yes, but I'm afraid that's out.
+Richard : Oh, way the sudden change
+Park : I'm afraid there just isn't enough time for that. 
+상황 410 스케줄
+리처드가 박정민에게 일정에 대해서 물어본다.
+리처드 : 박 선생님, 내일 일정이 어떻게 되죠
+박정민 : 자, 가만있어 보자. 내일의 일정을 한번 검토해 볼까요
+리처드 : 좋습니다. 공장에 내려가 보셔야 한다고 하셨잖아요
+박정민 : 예, 한데 못 갈 것 같은데요.
+리처드 : 그래요 왜 갑자기 변경하시게 됐죠
+박정민 : 그럴 만한 시간이 없을 것 같아서요. 
+<어구 해설>
+on tap은 '언제든지 쓸 수 있는, 준비가 되어' 란 뜻으로 일정을 물어볼 때 사용한다. 
+가령 미국의 구어체에서 come out on top 라 하면 '승리를 거두다, 뛰어나다' 라는 표현이다. 
+go over는 '검토하다, 주의 깊게 조사하다' 란 표현으로 
+ 대신에 
+Let's run over tomorrow's schedule. 
+(내의 일정을 대충 다시 한 번 훑어봅시다.)와 같이 말해도 좋을 것이다. 
+
+
+
+
+
+Situation409Appointment 
+
+ 
+PaulwassupposedtomeetMr.Songbuthedidn't.
+SoMr.SongcallsPaulformakinganotherappointment. 
+
+ 
+Song:(onphone)Mr.PaulWhathappenedtodayWewerewaitingforyou. 
+Paul:I'msorryIcouldn'tgettoyourofficetoday,Mr.Song.
+Thingsgotkindofhecticdownatthefactory. 
+Song:Isee.Well,areyousetfortomorrow 
+Paul:Well,okay.Aroundwhattimeshouldweexpectyou 
+Song:Say,around10:00orso.How'sthatOkay 
+
+ 
+상황409약속 
+
+ 
+폴은송민식을만나기로했지만약속을지키지못했다.
+그래서송민식은다시약속을잡기위해서폴에게전화한다. 
+
+ 
+송민식:(전화로)폴씨세요오늘무슨일이있으셨어요기다리고있었는데요. 
+폴:오늘사무실에못가서죄송합니다,송선생님.
+공장의사정이좀골치아프게되었습니다. 
+송민식:알겠습니다.그럼,내일약속을하면어떨까요 
+폴:좋습니다.몇시쯤오시겠어요 
+송민식:저,10시경이어떨까요,괜찮겠습니까 
+
+ 
+
+ 
+<어구해설> 
+ '사무실에가다'를gotoyouroffice처럼goto를쓰지않고
+getto란표현을사용한다. 
+다음과같이표현해도좋다. 
+I'msorryIcouldn'tmakeit[comeover]toyouroffice. 
+(사무실에못가서미안합니다.) 
+Icouldn'tfindanytimetogetover[comeover]toyouroffice. 
+(시간을낼수가업어서사무실에못갔습니다.) 
+
+ 
+
+
+
+
+
+Situation408Order 
+
+Howardwantstoorderthenewmodel. 
+
+Tony:Mr.Park,I'msoldonthatmodel.It'sjustwhatwehadinmind. 
+Park:Good.Ihopewecancloseadealonitbeforetheday'sout. 
+Tony:LetmefirmitupwithhomeofficefirstbeforeIputmynameonany 
+contract,okay 
+Park:Sure,goahead. 
+ 
+상황408주문 
+
+하워드씨는새로운모델을주문하기를원한다. 
+
+토니 :박선생님,저는그모델이마음에꼭듭니다.바로우리가생각했던것입니다. 
+박진수:잘됐군요.시기가지나기전에그것에대한거래를체결했으면좋겠는데요. 
+토니:우선본사와상의하여확정을한다음어떤계약서든제가서명을하도록하겠습니다.
+괜찮겠지요 
+박진수:물론이지요. 그렇게하세요. 
+
+ 
+<어구 해설>
+besoldon에서sell은‘팔다’란뜻이아니고'(남에게)…을받아들이게하다,납득시키다'란
+뜻이다. 이표현대신에 
+Ihavedefinitelydecidedonthatmodel.(저는그모델로확정했습니다.) 
+와같은뜻이라고할수있다. 
+besoldon의다른표현으로는 
+IamsoldonSorak-san.That'stheplaceforme. 
+(저는설악산이마음에듭니다.제가제일좋아하는곳이지요.) 
+
+
+
+
+
+Situation 407 New Contract 
+
+ 
+Howard asks Kim Moon-su about the new contract. 
+
+Howard : Mr. Kim, what do you think of the new contract 
+Kim : Well, it is okay, up to a point. 
+Howard : What do you mean 
+Kim : Well, I liked the part about the technical tie-up, but the distributorship does not 
+sit too well with us. 
+Howard : Well, if you talk it over with them, maybe they`ll consider amending it. 
+Kim : Yeah. Well, I think they`ll have to. We can`t buy it as it stands. 
+
+ 
+상황 407 새로운 계약 
+
+하워드 존스가 김문수에게 새로운 계약에 대해서 이야기 하고 있다.   
+
+하워드: 김 선생님, 새로 맺은 계약에 대해 어떻게 생각하십니까 
+김문수 : 글쎄요, 어느 정도는 괜찮은 것 같습니다. 
+하워드 : 그게 무슨 말씀이세요 
+김문수 : 저, 기술제휴에 관한 부분은 마음에 들지만, 판매권은 별로 맘 에 들지 않는군요. 
+하워드 : 저, 그 사람들이랑 얘기를 해보면, 아마 수정하는 방향으로 고려 해 주실 겁니다. 
+김문수 : 예, 꼭 그렇게 해주셔야 할 것 같은데요. 현 상태로는 합의할 수 가 없습니다. 
+
+ 
+<어구 해설> 
+up to the point에서 이때의 point는 「정도, 단계」라는 뜻으로 up to a point는 up to a 
+certain point와 같은 뜻이라고 할 수 있다. 이 표현 대신에 
+Some of it is okay. (어떤 부분은 괜찮습니다.) 
+Most of it is okay. (대부분 괜찮습니다.)와 같이 말해도 좋을 것이다. 
+가령 Can you drink라고 물었을 때, 그 대답으로 Up to a point. 라고 말했다면 이는 「어 
+느 정도는 마실 수 있습니다.」란 뜻이 된다. 
+
+ 
+
+
+
+Situation 406 Business Trip 
+
+Jo Min-sun wants to talk with Mr. Hong. 
+
+ 
+Jo: This is Jo Min-sun from KJ Imports. May I speak to Mr. Hong please 
+Kim: He's out of town on business. 
+Jo: When do you expect him back 
+Kim: He'll be in the office on Friday afternoon. 
+Jo: Oh, I see. I'll call back then. 
+
+ 
+
+ 
+상황 406 출 장 
+
+조민선이 홍 인석 과장과 통화를 원한다. 
+
+ 
+조민선: KJ 무역의 조민선인데요, 홍 선생님을 부탁드립니다. 
+김민희: 현재 출장중이신데요. 
+조민선: 언제 돌아오시죠 
+김민희: 금요일 오후에 출근하실 예정입니다. 
+조민선: 예, 알겠습니다. 그때 다시 전화하죠. 
+
+ 
+<어구 해설> 
+He is out of town on business. 쉬운 표현인 것 같지만 막상 전화로 얘기 하자면 영어가 쉽게 
+나오지 않는다. 누군가 출장 중일 경우에는 더 간단하게 "He's on a business trip." 라고 할수 있
+다. 상대방이 통화하고 싶은 사람이 자리에 없을 땐 "He can't come to the phone right now." 
+또는 "He's not available right now." 라고 하시고, 전화한 사람에게 메시지를 남겨 놓겠냐고 
+물을 경우에 메모(Memo)가 아닌 Would you like to leave a message 라고 한다는 것 기억하 
+자. 
+
+
+
+
+Situation 405 Urgent Order 
+
+Kang Jae-sung is pressing Ha In-su for urgent order. 
+
+Kang: How soon would you like to have them done 
+Ha:　Well, this one is pressing, but the other can wait. 
+Kang: When is this one due 
+Ha: At the latest, by June 16. 
+Kang: Oh that's impossible 
+
+상황 405 긴급한 주문 
+
+강재성이 하인수에게 긴급한 주문을 재촉하고 있다. 
+
+강재성: 그 주문들을 언제까지 완성시키면 되겠습니까 
+하인수: 이 주문은 아주 급한 거지만 다른 것은 기다릴 수 있습니다. 
+강재성: 이건 언제까지 되야 합니까 
+하인수: 늦어도 8월 12일 까지는 되야 합니다. 
+강재성: 그렇게는 불가능한데요. 
+
+<어구해설> 
+여기서의 pressing은 press 의 진행형이 아니라 “용무나 문제”등이 “긴급한 화급한” 의미의 
+형용사이다. 가령 pressing bill 하면 마감일이 임박한 청구서가 되고 pressing business는 
+급한 볼일 용무라는 뜻이 된다. 
+
+
+
+
+
+
+Situation 404  Budget 
+
+Kang Hye-soo is talking to Moon Kyu-sik about the budget. 
+
+Kang: Mr. Moon What's up 
+Moon: The corporation budget's been cut again this year. 
+Kang: So we'll have even less money than before. is that right  
+Moon: I don't think so. It shouldn't affect our department one way or the other 
+
+상황 404 예 산 
+
+강혜수가 문규식에게 예산에 대해서 이야기 하고 있다. 
+
+강혜수: 문 선생님 무슨 일입니까 
+문규식: 회사의 예산이 올해에 다시 삭감되었습니다. 
+강혜수: 그러면 우리는 전보다 적은 돈을 받게 되겠군요. 그렇지요 
+문규식: 그렇게 생각하지 않습니다. 어떻게 해서든지 우리 부서에는 영향을 미치지 않을 겁니다. 
+
+<어구해설> 
+우선 what happen 의 의미로 “무슨일이냐” 라는 표현을 할 때에는 what‘s up을 사용한다. 그리고 자신의 견해에 대한 가부간의 견해를 피력할 때에는 think를 써서 자신이 생각하는 바를 밝힐 수 있다. 
+
+
+
+
+
+
+Situation 403 Copy 
+
+Cha Ha-na wants to copy document in the office. 
+
+ 
+Cha : I'd like three copies of these documents. 
+Song: How many pages are there 
+Cha: Twenty-three. Well, I'd like them printed on both sides. 
+Song: All right, I will do for you. 
+
+ 
+상 황 403 문서 복사 
+
+ 
+차하나가 사무실에서 문서복사를 하려고 한다. 
+
+ 
+차하나: 이 서류를 3부 복사하고 싶은데요. 
+송승헌: 몇 페이지죠 
+차하나: 23페이지입니다. 그런데 양면으로 복사를 해주세요. 
+송승헌: 알겠습니다. 제가 도와드리지요. 
+
+ 
+<어구 해설> 
+The copying machine doesn't work. 는 “복사기가 고장 났어요” 라는 의미이며 "The 
+copying machine is out of work."이라고도 한다. 또는, 양면복사를 할 수 있나요 "Can I 
+make copies on both sides" 또는, 이 페이지를 80%로 축소해 줄 수 있나요 "Could you 
+please reduce this page to 80%." 와 같이 각각 표현한다. 
+
+
+Situation422MarketCondition 
+
+ 
+BarberwantstoputaholdonthatsecondshipmentofTVs. 
+
+ 
+Barber:Mr.Hang,I'mafraidwe'llhavetoputaholdon 
+thatsecondshipmentofTVs. 
+Hang:WhyWhat'stheproblem 
+Barber:Well,there'saglutontheTVmarketrightnow. 
+Hang:Howlongdoyouthinkit'lllast 
+Barber:That'sanybody'sguess. 
+Hang:Isee.Well,letmeknowwhenthingseaseoffabit,willyou 
+
+ 
+상황422시황 
+
+ 
+바버는TV의2차선적을보류하기를원한다. 
+
+ 
+바버:황선생님,TV의2차선적을보류해야만할것같군요. 
+황철기:왜요무슨일입니까 
+바버:저,지금TV시장이공급과잉상태라서요. 
+황철기:그런상태가얼마나오래갈것같습니까 
+바버:그건아무도모르죠. 
+황철기:알겠습니다.사정이조금이라도풀리면알려주시겠습니까 
+
+ 
+<어구해설> 
+last란단어는<최후의;최후로>란뜻외에 
+<(시간적으로)계속되다;오래가다'(…동안)견뎌내게하다>란의미의동사용법도있다. 
+다음은last의주요동사용법이다. 
+Howlongdoyouthinkthismoneywilllastme 
+(이돈이면제가며칠간쓸수있을것같습니까) 
+Thisamountofgaswillonlylastusuntiltomorrow. 
+(이정도의휘발유면내일까지밖에쓰지못합니다.) 
+
+
+
+
+
+
+Situation421Shipment 
+
+ 
+Mr.JorgeasksMr.Kimaboutwhenshipmentwillbeready. 
+
+ 
+Jeorge:Mr.Kim,howlongdoyouthinkit`lltakebefore 
+thatsecondshipmentwillbereadytoleave 
+Kim:Well,thatIhavetofigureout. 
+Jeorge:Seeifyoucancomeupwithaguesstimaterealquick,willyou 
+Kim:WhyWhat`syourrush 
+Jeorge:Ijustgotacallfromtheheadofficeaskingaboutit. 
+Kim:Okay,thengivemeacoupleofhoursorsoifyoucan. 
+
+ 
+
+ 
+상황421선박 
+
+ 
+조지는김광수에게언제선적준비가완료되는지묻는다. 
+
+ 
+조지:김선생님,2차선적분의선적준비가완료되는데까지는 
+시간이얼마나걸릴것같습니까 
+김광수:글쎄요,좀따져봐야알겠는데요. 
+조지:대략적인날짜라도얼른알수없습니까 
+김광수:왜요왜그렇게서두시는거죠 
+조지:방금그것을알아보라는본사의전화를받았습니다. 
+김광수:좋습니다.그렇다면한두세시간정도여유를주십시오. 
+
+ 
+<어구해설> 
+figureout은「계산하다;(생각끝에)…이라는것을알다,이해[평가]하다」란뜻이다. 
+다른표현으로는 
+Ican`ttellrightaway.I`llhavetogiveitsomethought. 
+(당장은말씀드릴수가없고,생각을좀해봐야되겠습니다.)있다. 
+비슷한상황에쓰일수있는다음표현도잘익혀두자. 
+Idon`tknowrightnow.I`llhavetocheckitoutwithmymanager. 
+(당장은모르겠습니다.저희부장님과확인해알아보겠습니다.) 
+
+ 
+
+
+
+Situation420Price 
+
+ 
+Mr.MinaskesMr.Choiabouttheprice. 
+
+ 
+Min:Ihaveaproposition. 
+I'dappreciateitverymuchifyoucouldreducethecostslightly. 
+Choi:I'dliketo,butIthinkitwillbeverydifficult. 
+Min:Can'tyouthinkitover 
+Choi:No,I'mafraidwecan't. 
+Min:Iunderstandyourposition, 
+butcan'tyoudoanythingtosolvethismatter 
+Choi:Sorry,it'soutofthequestion. 
+Min:Okay,Iunderstand. 
+
+ 
+상황420가격 
+
+ 
+민현기는최대철에게가격에대해서물어본다. 
+
+ 
+민현기:제안할것이한가지있는데요. 
+가격을조금깎아주시면대단히고맙겠습니다. 
+최대철:저도그러고싶지만매우어려울것같은데요. 
+민현기:다시한번생각해봐주실수없을까요 
+최대철:안되겠는데요. 
+민현기:귀사입장은이해합니다만, 
+그래도어떻게좀해주실수없을까요 
+최대철:죄송하지만,불가능합니다. 
+민현기:좋습니다.알겠습니다. 
+
+ 
+<어구해설> 
+thinkover의over는'다시한번;되풀이하여'란뜻이다. 
+따라서thinkover는reconsider와동의어가된다. 
+thinkover와비슷한표현으로thinktwice가있다. 
+행동하기전에다시한번생각해본다는뜻이다. 
+I'dliketothinktwiceaboutthecontractbeforesigningit. 
+(계약서에서명하기전에재고를좀해보고싶다.) 
+
+
+
+
+
+
+Situation419Introduction 
+
+ 
+Mr.JangintroducesMrs.Kellytohisfellowworkersattheoffice. 
+
+ 
+Jang:Mrs.Kelly,I'dliketointroduceyoutomyimmediatesuperior,Mr.Choi. 
+Kelly:HowdoyoudoMypleasure. 
+Jang:Mr.Choiisdirectorofourdepartment. 
+Andthisismyimmediatesubordinate,Mr.Song. 
+Kelly:Mr.Song,pleasuretomeetyou. 
+Jang:Mr.SonghandlesallofABC'saccounts. 
+
+ 
+상황419소개 
+
+ 
+장석진은켈리에게직장동료를소개한다. 
+
+ 
+장석진:켈리씨,제직속상관최선생님을소개해드리겠습니다. 
+켈 리:처음뵙겠습니다.뵙게되어서기쁩니다. 
+장석진:최선생님은우리부서의부장님이시고 
+이사람은제바로밑의직원송진영입니다. 
+켈 리:송선생님,만나서반갑습니다. 
+장석진:송씨는ABC사와의모든거래를맡아처리하고있습니다. 
+
+ 
+<어구해설>
+ 
+상하를밝히지않고소개할때는, 
+They'remyco-workers. 
+(모두한직장동료들입니다.)와같이말하면된다. 
+미국인들은, 
+Thesepeopleworkinmysection. 
+(이사람들은내부서의직원들입니다.)라고표현하기도한다. 
+"상관"은superior대신boss로표현해도좋다. 
+
+
+ 
+
+
+
+Situation418Drink 
+
+ 
+MrKimandMrBrownarehavingsomecoffeeforwaitingforMr.Lee. 
+
+Kim:Pleasehaveaseat.Mr.Leewillbeheresoon. 
+Brown:Thankyou. 
+Kim:I'llordersomecoffee. 
+Brown:I'dlikemineblack,please. 
+Kim:I'llcallandtellher. 
+Brown:WhydoallthepeoplehereassumeIwantcreamandsugarinmycoffee 
+Kim:That'showwealldrinkit. 
+Brown:I'mtryingtoloseweight.Sugarisfattening. 
+Kim:Well,shecanbringitblackforyou. 
+
+ 
+상황418음료수 
+
+ 
+김석돌과브라운은이전무가오기를기다리는동안커피를마신다 
+
+김석돌:앉으세요.이전무님은곧오실겁니다. 
+브라운:고맙습니다. 
+김석돌:커피를시켜야겠군요. 
+브라운:전블랙으로마시겠습니다. 
+김석돌:그럼전화로아가씨한테얘길하지요. 
+브라운:왜여기사람들은모두커피라면당연히크림과설탕을타서 
+마시다고생각하는거지요 
+김석돌:저희들모두가다그렇게해서마시거든요. 
+
+ 
+<업무일지> 
+커피를시킬때는반드시상대방에게, 
+Howdoyoulikeit(어떻게해서마시겠습니까)라고물어봐야한다. 
+Doyoutakecreamandsugarwithyourcoffee
+(커피에크림과설탕을타서드십니까) 
+라고물어볼수도있다. 
+상식적인얘기지만black이란말이coffee와관련하여쓰이는경우 
+'withoutmilkorcream'이란뜻이므로설탕을타는것과는 
+상관없이크림을넣지않는것을blackcoffee라부른다. 
+상대방이가령Ilikemycoffeeblack.(저는커피를black으로주세요.) 
+라고말했다면커피와설탕그릇만갖다주면된다. 
+
+
+
+Situation417Location 
+
+ 
+Mr.ChoiistalkingwithMr.BrownaboutwhereMr.Parkisworking. 
+
+ 
+Brown:Say,Mr.Choi,who'sinchargeofmachineryexportthesedays 
+Choi:Mr.Park.RememberhimHeusedtobeinthetextiledivision. 
+Brown:Oh,yeah.Gee,Ihaven'tseenhiminalongtime. 
+Choi:Hisofficeisjustdownthehall. 
+Brown:Youmeanthatoneoverthere. 
+Choi:No,it'sfurtherupahead. 
+
+ 
+상황417위치 
+
+ 
+최준기는브라운과박영모가일하고있는 곳에 대해서이야기하고 있다. 
+
+ 
+브라운:저,최선생님.요즈음은누가기계수출을담당하고있나요 
+최준기:박영모씨입니다.그를기억하시죠전에섬유부에서일했었는데요. 
+브라운:아,예.참,그사람만나본지도꽤오래됐군요. 
+최준기:그의사무실은이복도를쭉따라가면있습니다. 
+브라운:저기저방말인가요 
+최준기:아뇨,좀더앞쪽에있는것말입니다. 
+
+ 
+<어구해설> 
+downthehall을"복도아래로"로오역하는사람이많다.
+이때의down은"~을따라(along)"란뜻이다. 
+가령Walkdownthealleyabout30meters.라고말한다면 
+이는"그골목을따라약30미터쯤쭉들어가세요."라는뜻이된다. 
+건물의"층"을얘기할때는미국영어와영국영어사이에한층의차이가있다는점에 
+유의해야한다. 
+영국영어에서1stfloor는2층이고,1층은groundfloor라고해야한다. 
+
+
+
+
+
+Situation416Decision 
+
+ 
+Mr.DavidtalkswithMr.Songabouttheproductwhatheordered. 
+
+ 
+David:Mr.Song,thecablesyousentuswerenottherightsize. 
+Song:WhyWesentthemaccordingtoyourspecifications. 
+David:No,I'mafraidnot.WeorderedC-120,notC-121. 
+Song:TheoriginalorderformhasC-121writtenonit. 
+David:Thensomeonemusthavemadeanerror. 
+Song:Well,then,pleasetakeitupwithyourpresident,andletmeknowtheresults. 
+
+ 
+
+ 
+상황416결정 
+
+ 
+데이빗은송진민과주문한상품에대해서이야기하고있다. 
+
+ 
+데이빗:송선생님,귀사가보낸케이블은저희가원하던규격이아니었습니다. 
+송진민:왜요명세서에있는대로보낸건데요. 
+데이빗:아닌것같은데요.저희가주문한것은C-120이지C-121이아닙니다. 
+송진민:주문서원본에도C-121이라고쓰여있는데요. 
+데이빗:그렇다면틀림없이누군가가실수를한겁니다. 
+송진민:글쎄요.그러면귀사의사장님과그문제를의논해보고결과를좀알려주십시오. 
+
+ 
+
+ 
+<어구해설> 
+'take(it)upwith…'는'…와(그것을)상의하다[문제삼다]란뜻이다. 
+다음과같은표현으로사용할수있다. 
+Pleasediscussitwithyourpresident. 
+takeup에는다음과같이다양한뜻이있다. 
+Whydon'tyoutakethismatterupwithalawyer 
+(이문제를변호사와상의해보세요.) 
+TheworktookupallofSunday. 
+(그일로일요일하루가다걸렸다.) 
+
+ 
+
+
+
+
+Situation415Price 
+
+ 
+Mr.ParkandMr.Minaretalkingaboutthenewmodelprice. 
+
+ 
+Min:Mr.Park,IgotanimporterinSanFranciscoshe'shotafteryournewmodel. 
+Park:Great.Whatarewelookingatprice 
+Min:Ah,that'swhatIgottatalkwithyouabout.
+Hewaysyougottacomedownawaysfromyouroriginalaskingprice. 
+Park:Well,I'mopentothat,butthequestionishowfar. 
+
+ 
+
+ 
+상황415가격 
+
+ 
+박성식과민현기는새모델의가격에이야기하고있다. 
+
+ 
+민현기:박선생님,샌프란시스코에있는수입업자한분을알고있는데
+귀사의새모델에대해큰관심을가지고있답니다. 
+박성식:잘됐군요.가격이어떨것같습니까 
+민현기:저,바로그점을말씀드리려고하는데요.
+그분말씀은귀사의최초제시가격이다소인하되어야한다는것입니다. 
+박성식:저,그문제에대해서는고려할용의가있습니다.하지만문제는어느정도냐하는것이죠. 
+
+ 
+<어구해설> 
+
+ 
+open은'(사상,제안등을)금방받아들이는;채용할수있는(willingtohearandconsiderortoacceptanddealwith)'란뜻이다.그래서Therewasonlyonecourseopentome.라고말한다면이는'내가취할수있는길은하나밖에없었다.'란뜻이된다. 
+
+ 
+다음의예문들도함께익혀두자. 
+
+ 
+A:Howaboutcuttingthepricesomeiftheorderislarge 
+(주문량이많다면좀깎아주시는것은어떨까요) 
+B:I'mopentothatononecondition. 
+(한가지조건만단다면그점에대해협상할용의가있습니다.) 
+
+
+
+
+Situation414Invitation 
+
+ 
+Mr.JanginvitesMr.Joeltohavedinner. 
+
+ 
+Jang:(onphone)Mr.Joel,mywifeandIwouldlovetohave 
+youandMrs.Joeloverfordinnertonight. 
+Joel:Thankssomuch,Mr.Jang,butI'mafraidmywifeisn'tfeelingverywell. 
+Jang:Oh,what'sthematterNothingseriousIhope. 
+Joel:No,it'sjustaslightheadacheandupsetstomach. 
+Itmusthavebeensomethingsheate. 
+Jang:Oh,I'msorrytohearthat.CanIgethersomethingfromthedrugstore 
+Joel:Oh,nothanks.Idon'twantyoutogotoanybother. 
+
+ 
+상황414초대 
+
+ 
+장효섭은조엘을저녁에초대한다. 
+
+ 
+장효섭:(전화로)조엘씨,제아내와제가오늘저녁두분내외분께저녁식사를 
+대접해드렸으면하는데요. 
+조엘:대단히고맙습니다만아내가몸이좀불편해서요. 
+장효섭:저런,왜요심하신건아니겠지요. 
+조엘:아닙니다.두통이약간있고배탈이난것뿐이랍니다. 
+틀림없이음식먹은게잘못돼서그럴거예요. 
+장효섭:안됐군요.제가약국에서약을좀사다드릴까요 
+조엘:아니,괜찮습니다.수고를끼쳐드리고싶지않군요. 
+
+ 
+<어구해설> 
+bother는'귀찮은,성가신일'이란명사다. 
+이외에'걱정하다,일부러…하다'란뜻의동사용법도자주쓰인다. 
+Idon'twantyoutotroubleyourself. 
+(일부러그렇게수고하시지마세요.) 
+anybother는gotoanytrouble로바꾸어사용할수있다. 
+이에대한응답으로는, 
+It'snobother.(번거로울것없습니다.) 
+와같이말하면된다. 
+
+
+
+
+
+
+Situation 413 Lunch Time
+Crage asks Mr. Yoon to have the Lunch Time.
+
+Crage : Mr. Yoon. How about putting this business aside for a while 
+and grabbing a bite to eat
+Yoon : I'm all for it. I'm about half-starved, 
+but we've gotta wind it all up today, don't forget.
+Crage : Don't worry. I haven't forgotten. 
+We'll finish it all by five, I guarantee.
+Yoon : Say, I've got a great idea. Why don't we order in 
+Then we can kill two birds with one stone.
+Crage : Not a bad idea. 
+상황 413 점심식사
+크렉은 윤석진에게 점심식사를 하자고 제안한다.
+
+크 렉 : 저, 윤 선생님, 잠깐 일을 치우고 간단히 식사를 하는 게 어떨까요
+윤석진 : 대찬성입니다. 저도 몹시 배가 고프거든요. 
+그러나 오늘 내로 모든 일을 끝마쳐야 한다는 거 잊지 마세요.
+크 렉 : 염려마세요. 잊지 않았습니다. 
+틀림없이 5시까지는 다 끝낼 수 있을 겁니다. 
+윤석진 : 참, 좋은 생각이 있습니다. 음식을 시켜다 먹는 게 어떨까요 
+그러면 일석이조가 될 테니까요.
+크 렉 : 그것도 괜찮겠군요. 
+<어구 해설>
+
+wind up은 '(…이라는) 처지가 되다; (…으로) 끝맺다, 끝나다'라는 의미로 
+we've gotta wind it all up today는 '오늘 내로 모든 일을 끝마쳐야 한다'로 표현될 수 있다. 
+order in은 직역하면 '안으로 주문하다'가 되므로 곧 '시켜다 먹다'를 의미하는 것이다. 
+다음과 같이 표현해도 좋을 것이다.
+How about ordering something from the restaurant instead of going out 
+(나가지 말고 식당에 주문하여 시켜다 먹는 것은 어떨까요)
+
+
+Situation432Decision 
+
+ 
+Mr.PeterasksMr.Mintodiscounttheprice. 
+
+ 
+Peter:Mr.Min,you'vegotagoodproduct. 
+Oneofthebest,butthepricehasgottocomedown. 
+Min:Mr.Peter,forthequalityyou'regetting,it'sasteal. 
+Peter:Yeah,butpeoplejustdon'tappreciatequalityanymore. 
+Min:Butwedon'twanttosacrificequalityforquantity. 
+Peter:You'vegottoifyouwanttobecompetitivethesedays.Giveusa20%discountonallmodelsandyou'vegotadeal. 
+Min:I'dliketo,butIamnotauthorizedtodothat. 
+
+ 
+상황432결정 
+
+ 
+피터는민신영에게가격할인을요구한다. 
+
+ 
+피터:민선생님,귀사의제품은참좋습니다.최고품입니다.하지만가격은좀인하되어야하겠습니다. 
+민신영:피터씨,품질을놓고볼때값은매우싼것입니다. 
+피터:예,그런데사람들이이젠질에대해서따지질않는다구요. 
+민신영:하지만저희는더많이팔수있다해도그것을위해질을희생시키고싶진않습니다. 
+피터:요즘엔경쟁력을갖추려면그렇게하셔야만해요.모든모델에대해20%를할인해주시면계약을하죠. 
+민신영:그렇게해드렸으면좋겠지만제겐그렇게해드릴권한이없습니다. 
+
+ 
+<어구해설> 
+authorize는'…에게권한을주다,위임하다'란뜻이다. 
+다음과같이표현할수도있다. 
+I'mnotinapositiontodecidethat.(저는그런결정을할입장이못됩니다.) 
+Thedecisiondoesn'trestwithme.(그결정권은저에게없습니다.) 
+이때의restwith는'(죄,책임,결정권따위가)…에달려있다,걸려있다,…나름이다'란뜻이다. 
+
+
+
+
+Situation431Quality 
+
+ 
+MrBrownasksMr.Kimtodiscount. 
+
+ 
+Brown:Mr.Kim,whatdiscountcanyouofferforordersover$10,000 
+Kim:We'repreparedtoofferaspecialdiscountof5%. 
+Brown:Well,wecangetaqualityclothelsewherewitha10-15%discount. 
+Kim:Well,thequalitymaybegood,butIbetitcan'tcomparewithours. 
+Brown:Ifyou'rewillingtomakeit10%, 
+we'rewillingtoplaceanorderforover$20,000net. 
+Kim:You'vegotadeal. 
+
+ 
+상황431품질 
+
+ 
+브라운은김영수에게할인해달라고요청한다. 
+
+ 
+브라운:김선생님,1만달러이상의주문에대해서어느정도할인해주실수있습니까 
+김영수:특별히5%까지는할인해드릴용의가있습니다. 
+브라운:다른곳에서는고급인천도10-15%씩할인하여살수있습니다. 
+김영수:글세,질이좋을수도있겠지만저희들것과는비교가안되리라고확신합니다. 
+브라운:10%를할인해주신다면,저희는기꺼이2만달러이상의주문을하겠습니다. 
+김영수:그렇게계약합시다. 
+
+ 
+<어구해설> 
+Ibet..은'..라고생각한다'란뜻의구어이다. 
+이때의compare는'필적하다,동등하다(with)'란뜻의자동사이다. 
+결국becomparedwith와comparewith는거의같은뜻이나 
+능동의comparewith는주로부정문에서만나타난다. 
+
+
+
+
+
+Situation430Mail 
+
+ 
+MrJohnwantstohaveasampleofmodel54-A. 
+
+ 
+John:Mr.Choi,didyoubringasampleofmodel54-Awithyou 
+Choi:Oh,gosh.Itcompletelyslippedmymind.Gee,I'llsorryaboutthat. 
+John:Noproblem.Canyouhaveitsentbyexpressmail 
+Choi:Surething.I'llgetonthephonerightawayandhavethecompanyrushitoff. 
+John:Howlongdoyouthinkit'lltake 
+Choi:Notmorethanfivedaysatthemost. 
+
+ 
+상황430우편 
+
+ 
+존은모델54-A의견본을보고싶어한다. 
+
+ 
+존:최선생님,모델54-A의견본을갖고오셨나요 
+최재석:아,이런,제가깜빡잊어버렸습니다.이거참,죄송합니다. 
+존:상관없습니다.그것을속달우편으로보내주시겠습니까 
+최재석:물론입니다.당장회사에전화를걸어서,그것을급송하도록하겠습니다. 
+존:그러면얼마나걸리겠습니까 
+최재석:많이걸려야5일이면됩니다. 
+
+ 
+<어구해설> 
+'속달등기'는registeredairmailexpress라고표현한다. 
+그러나우체국의express는도착지에서배달과정을속달한다는뜻이므로 
+일반항공우편보다약1일정도가빠를뿐이다. 
+그러나speedpost(국제특급우편)제도를이용하면1-3일이면보내고자하는 
+서류나견본등을원하는곳에도착시킬수가있다. 
+다음과같이표현해도좋다. 
+Wouldyouhaveitsentviaspeedpost 
+(그것을국제특급우편으로보내주시겠습니까) 
+CanyousenditbyDHL 
+(그것을DHL을통해보내주실수있습니까) 
+DHL이란국제간서류나견본등의속달서비스를하고있는회사이름이다. 
+
+
+
+
+
+
+Situation429Conversation 
+
+ 
+Mr.PaulandMr.Parkaretalkingabouttheweather. 
+
+ 
+Paul:Boy,it'sreallymuggy,isn'tit 
+Park:Yeah.DoesitgetthiswayinAmerica,too 
+Paul:Yes,itreallydoes.Evenworsesometimes. 
+Park:Wow!Ican'tpictureitanyworsethanthis. 
+Paul:Howaboutfindinganiceair=conditionedplace
+I'maboutreadytodrop. 
+Park:Idon'tthinkIcantakemuchmoremyself.
+Say,there'sagreatplacejustoverthere. 
+
+ 
+상황429대화 
+
+ 
+폴과박종민은날씨에대해서이야기하고있다. 
+
+ 
+폴:야,날씨정말찌는군요. 
+박종민:그렇군요.미국도이렇게덥습니까 
+폴:예,그럼요.때로는더덥지요. 
+박종민:세상에!이보다더더운건상상이안되는데요. 
+폴:냉방이잘된곳을좀찾아볼까요전거의쓰러질지경이예요. 
+박종민:저도더이상견딜수가없을것같습니다.바로저기좋은곳이있군요. 
+
+ 
+<어구해설> 
+바람이없는hotanddamp(덥고습기찬)한날씨를일컬어muggy라고표현한다. 
+비슷한말에sultry가있다.'찌는듯이더운;후덥지근한'으로번역이된다. 
+그러나'습기가많은'이란뜻으로는humid,damp,moist와같은단어들이쓰인다. 
+다음은무더운날씨와관련된표현들이다. 
+Seoulsummersareusuallyhotandmuggy. 
+(서울의여름날씨는보통후덥지근합니다.) 
+It'ssteaminghottoday.(오늘은찜통같은더위군.) 
+Todayisreallyadogday,isn'tit(오늘은매우덥군요.) 
+
+ 
+
+
+
+
+Situation428Contract 
+
+ 
+Mr.WinstonwantstomakeancontractwithMr.Kim. 
+ 
+Winston:Whendoyouthinkwecanreachanagreement 
+Kim:Well,let`snotbehasty.Couldyouwaituntiltheendofnextweek 
+Winston:I`mafraidwedon`thavemuchtimeleft. 
+CouldIhaveyouranswersooner 
+Kim:Youknow,I`llhavetotalktomyboss. 
+Winston:Then,howabouttheendofthisweek 
+Kim:Okay,I`lltrymybest. 
+
+ 
+상황428계약 
+
+ 
+윈스톤은김영식과계약하기를원한다. 
+
+ 
+윈스톤:우리는언제쯤합의가가능하겠습니까 
+김영식:저,서두르지맙시다.다음주말까지좀기다려주실수있습니까 
+윈스톤:저희는시간이많지않습니다. 
+좀더빨리답변해주실수없을까요 
+김영식:아시다시피,저희사장님한테여쭤봐야하거든요. 
+윈스톤:그럼이번주말은어떨까요 
+김영식:좋아요,최선을다해보겠습니다. 
+
+ 
+<어구해설> 
+hasty는「급한,경솔한,성급한」이란뜻으로 
+「서두르다:서두름:경솔」이란단어haste의형용사형이다. 
+같은의미로다음과같이표현하기도한다. 
+Let`snotrushit.(그것을너무성급히하지맙시다.) 
+이때의rush는「부랴부랴보내다[데리고가다];부리나케[급히]해치우다」란뜻이다. 
+
+ 
+
+
+
+Situation427Entry 
+
+ 
+HansonasksMr.Simifhehasanythingtodeclare. 
+
+ 
+Hanson:Doyouhaveanythingtodeclare 
+Sim:No,allIhaveareafewsampleproducts. 
+Hanson:Doyouhaveaninvoiceforthem 
+Sim:Hereitis. 
+Hanson:Okay,h`m,what`sthisitemhere 
+Sim:It`sginsengpowder. 
+
+ 
+상황427통관 
+
+ 
+한슨은심형섭에게신고한물품이있는지물어본다. 
+
+ 
+한 슨:신고하실물품은없습니까 
+심형섭:없습니다.저한테있는건견본몇개뿐입니다. 
+한슨:그견본들에대한송장을갖고계신가요 
+심형섭:여기있습니다. 
+한 슨:좋습니다,저,여기이품목은뭐지요 
+심형섭:인삼가루입니다. 
+
+ 
+
+ 
+<어구해설> 
+declare는「선언하다」란뜻이아니고「(소득액·과세품을)신고하다」란의미다. 
+명사형declaration은「(과세·관세등의)신고서」란뜻이다. 
+한편「신고할것이있느냐」라는세관원의질문에대하여특별히신고할것이없을경우, 
+No,Idon`t.Ionlyhavepersonaleffects.(아니오,없습니다.개인소지품뿐입니다.) 
+이때의effects는「재산(property);물건(goods)」이란뜻이다. 
+
+
+
+
+
+
+
+Situation426Closingday 
+
+ 
+Mr.PeterasksMr.Leeaboutaclosingday. 
+
+ 
+Peter:Howsoonwouldyouliketohavethemdone 
+Lee:Well,thisoneispressing,buttheotheronecanwait. 
+Peter:Whenisthisonedue 
+Lee:Atthelatest,byJune16. 
+Peter:Oh,that'simpossible. 
+Lee:Iunderstand,butcouldyoupleasesqueezeitinsomewhere 
+
+ 
+상황426마감날 
+
+ 
+피터는이신영에게마감날에대해서물어본다. 
+
+ 
+피터:그주문들을언제까지완료시키면되겠습니까 
+이신영:저,이주문은급하지만,저건좀여유가있습니다. 
+피터:이건언제까지되어야합니까 
+이신영:늦어도6월16일까지는되어야합니다. 
+피터:아,그렇게는불가능한데요. 
+이신영:이해는갑니다만어렵더라도 
+(작업일정)어디엔가좀끼워넣어주실수없을까요 
+
+ 
+<어구해설> 
+pressing은동사press의진행형이아니고 
+'(용무.문제등이)긴급한,화급한'이란뜻의순수한형용사이다. 
+
+ 
+다음과같이활용되어사용된다. 
+pressingbills(마감일이박두한청구서), 
+pressingdanger(눈앞에닥친위험), 
+pressingneed(긴급한필요), 
+pressingquestion(긴급문제), 
+pressingbusiness(급한볼일) 
+
+
+
+
+
+
+Situation425Order 
+
+ 
+Mr.RichardorderstheleatherjacketfromPark'sCompany. 
+
+ 
+Richard:ThisisasampleoftheleatherjacketIhaveinmind.Ineed5,000dozen. 
+Canyoufillthisorder 
+Park:yes,wehavenoquotaproblemonthisitem. 
+Doyouneedanyapprovalsamples 
+Richard:Oh,yes,I'llneedsix. 
+Canyourushthemtomebyairmailinabouttwoweeks 
+Park:Noproblem.Whatsizeandcolordidyouhaveinmind 
+Richard:Bothboy'sandmen's,large,mediumandsmall. 
+
+ 
+상황425주문 
+
+ 
+리처드는박인환의회사에가죽자켓을주문한다. 
+
+ 
+리처드:이것이제가관심을갖고있는가죽자켓의견본입니다. 
+5,000다스가필요한데주문에응해주실수있습니까 
+박인환:예,이품목은쿼터문제도없습니다. 
+약2주내에항공우편으로급히보내주실수있습니까 
+리처드:아,그럼요,6장이필요합니다. 
+약2주내에항공우편으로급히보내주실수있습니까 
+박인환:물론입니다.사이즈와색상은어떤것으로할까요 
+리처드:소년용과성인용으로대,중,소,각각1장씩만들어주십시오. 
+
+ 
+<어구해설> 
+fill은'(주문을)받아,…을이행하다;(요구등을)충족시키다(fulfill;meettheneedsordemandsof)'란뜻이다. 
+다음과같이표현할수있다. 
+Canyoutakecareof[handle]thisorder(이주문을좀처리해줄수있겠습니까) 
+동사fulfill은우리말뜻으로는fill과비슷하지만fillanorder라고는해도
+fulfillanorder라고는하지않는다. 
+
+ 
+
+
+
+
+
+Situation424Introdution 
+
+ 
+MrDavidasksMr.Songabouthiscompany. 
+
+ 
+David:Iunderstandyouareoneofthelargestmanufacturersofopticalgoods 
+inthiscountry.CouldIaskabitmoreaboutsalesfigures 
+Song:Sure.Gorightahead. 
+David:What'syourmarketshare 
+Song:IfI'mnotmistaken,itwasovereight-fivepercentlastyear. 
+
+ 
+상황424소개 
+
+ 
+데이빗은송창식에게회사에대해서물어본다. 
+
+ 
+데이빗:저는귀사가이나라의최대광학제품제조업체중하나라고알고있습니다. 
+판매상황에대해좀더여쭤봐도될까요 
+송창식:예,얼마든지물어보세요. 
+데이빗:시장점유율은어느정도나됩니까 
+송창식:제가알기로는작년에85퍼센트가넘었습니다. 
+
+ 
+<어구해설> 
+share는「(개인,그룹의)몫(thepartbelongingtooneperson；portion)」이란뜻으로셀수있는명사형이다. 
+Ifyouwantasharein[of]thepay,you'llhavetodoyourshareofthework. 
+(너도한몫지급받으려면,네몫의일을해야만한다.) 
+It'sbuyer'smarketsoyououghttokeepyoursharesuntilit'saseller'smarket. 
+(지금은구매자에게유리한시장이므로판매자에게유리한시장이될때까지는시장점유율을그대로유지하시는것이좋겠습니다.) 
+
+
+
+
+
+
+Situation423Quantity 
+
+ 
+Mr.PeterandMr.Sungaretalkingaboutthepriceandquantity. 
+
+ 
+Peter:Weprideourselvesonquality;that'sourbestsellingpoint. 
+Sung:Werealizethat.Theonlyproblemisprice. 
+Wehavetoaskyouforatenpercentreduction. 
+Peter:Butcanyoueffectivelyhandletheincreaseinquantity 
+Sung:Youdon'thavetoworry.We'veexpandedourdistributionnetwork. 
+Wearereadytodoubleourorder. 
+Peter:Isupposewecouldreduceitbytenpercent, 
+ifyouguaranteetodoubleyourorder. 
+Sung:That'snoproblem.Wecantakecareoftheformalcontractrightaway. 
+
+ 
+상황423수량 
+
+ 
+피터와성득경은가격과수량에대해서이야기한다. 
+
+ 
+피터:저희는품질을자랑합니다.그것이저희가판매할때강조하는점이지요. 
+성득경:알고있습니다.단지문제가되는것은가격입니다. 
+10퍼센트는깎아주셔야겠습니다. 
+피 터:수량을좀어떻게증가시킬수는없을까요 
+성득경:걱정마세요.판매망을확장했기때문에주문량은배로도늘릴수있습니다. 
+피터:주문수량만배로확실히늘려주신다면10퍼센트할인을해드릴수가있습니다. 
+성득경:문제없습니다.당장정식계약을체결할수도있습니다. 
+
+ 
+
+ 
+<어구해설> 
+수량은quantity,따라서'수량을배로증가시키다'는 
+doubletheorder라는표현외에increasethequantitytwice[twotimes]라고해도좋다. 
+double의다른용례도함께알아두자. 
+Ifyoudoublefiveyougetten.(5를두배하면10이된다.) 
+Pricesdoubledinfiveyears.(가격이5년사이에두배가되었다.) 
+
+
+
+Situation442Quality 
+
+Mr.KimexplainsMr.Tomaboutanewmodel. 
+
+ 
+Kim:Mr.Tom,ourmodelcan'tbecomparedwithothers. 
+Tom:Well,inwhatways,forexample 
+Kim:It'slighterinweight,forone,whichmakesiteasiertocarryaround. 
+Tom:Well,that'sapointinyourfavor. 
+
+ 
+
+ 
+상황442품질 
+
+ 
+김인웅은톰에게새모델에대해서설명한다. 
+
+ 
+김인웅:톰씨,저희모델은타사모델과비교가안됩니다. 
+톰:예를들면어떤측면에서요 
+김인웅:무게가우선더가볍고요,그래서갖고다니기가더욱용이하지요. 
+톰:그것은귀사가갖는유리한점이지요. 
+
+ 
+<어구해설> 
+inone'sfavor는'..에게유리하도록'이란뜻이다. 
+다음과같이표현할수도있다. 
+That'stoyouradvantage.(그것은귀사에게유리한점이지요.) 
+toone'sadvantage는'..에게유리하게[한],..에게안성맞춤으로'란뜻의부사구이다. 
+
+ 
+
+
+
+
+
+Situation441Newmodel 
+
+ 
+Mr.ParkintroducesanewmodelA-21toMr.Stevens. 
+
+ 
+Park:Mr.Steven,youreallyoughttoseeournewmodelA-21. 
+Itcomesinasetoffourcomponents. 
+Steven:Whatdoesasetcomprise 
+Park:Well,there'saplayerwithatwospeakerstereosoundsystem 
+andanall-purposeadapter. 
+Steven:Okay,let'shavealookatit. 
+
+ 
+상황441새모델 
+
+ 
+박영모는새모델A-21를스티븐에게소개한다. 
+
+ 
+박영모:스티븐씨,저희새모델A-21을꼭한번보십시오. 
+4개의컴포넌트가한세트로판매됩니다. 
+스티븐:한세트는무엇무엇으로구성됩니까 
+박영모:저,두개의스피커가딸린스테레오사운드플레이어가포함되고 
+다목적어댑터도있지요. 
+스티븐:자,어디좀볼까요. 
+
+ 
+
+ 
+
+ 
+<어구해설> 
+동사comprise는'(조직·단체등이)…으로이루어지다;…을구성하다'란뜻의타동사이다. 
+한편이동사는수동태의문형을취하기도하는데이때전치사by를쓰지않고of가쓰이는것이특이하다. 
+다음은'구성되다'에해당되는영어표현들의활용이다. 
+What'sthemake-upoftheclass-Theclassismadeupof60students. 
+(반은몇명으로구성되어있습니까-그반은60명으로구성되어있습니다.) 
+Whatisthisricecakemadewith-It'smadewithriceflourandredbeans. 
+(이떡은무엇으로만듭니까-쌀가루와팥으로만듭니다.) 
+
+
+
+
+
+
+Situation440Offer 
+
+ 
+Mr.DavisnegotiateswithMr.Kimtheprice. 
+
+ 
+Davis:Mr.Kim,Ithinkyournewmodelhasgreatpotential. 
+There'sonlyonethingthatbothersme. 
+Kim:What'sthat 
+Davis:Theprice.$35.00perunitforaminimumorderofathousandunits. 
+Kim:Okay.WhenIgetback,I'llrecommendyourofferbeaccepted. 
+
+ 
+상황440오퍼 
+
+ 
+데이비스는김성식과가격협상을한다. 
+
+데이비스:김선생님,귀사의새모델이장차상당히가능성이있는것을생각됩니다만, 
+한가지마음에걸리는점이있습니다. 
+김성식:그게뭐지요 
+데이비스:가격입니다.주문수량은최소한1천개이상이고단가는개당35불이에요. 
+김성식:좋습니다.제가돌아가면,귀사의제의가수락되도록권유드리겠습니다. 
+
+ 
+<어구해설> 
+Okay,whenIgetback,I'llrecommendyourofferbeaccepted. 
+(좋습니다.돌아가면귀사의오파가수락되도록권고를드리겠습니다.) 
+라는표현에서 
+종속절은'가정법현재'구문으로서be앞에는should가생략되어있다. 
+주절의동사가'제안,충고,희망,명령,요구,주장,기대'등의뜻을가진동사 
+propose,advise,command,demand,desire,require,suggest,request,ask,insist등일때현대의미국영어에서는종속절의술어동사는원형을쓰는것이보통이다. 
+ 
+
+
+
+
+
+Situation439Confirmation 
+
+ 
+Mr.Yoonwantstoknowaboutthelettermorespecific. 
+
+ 
+Yoon:Mr.David,yourletterisabitvague. 
+Couldyoubealittlemorespecific 
+David:Well,inwhatways,forexample 
+Yoon:Well,itstatesthatyouareinterestedinimportingelectronicand 
+telecommunicationparts,butitdoesn'tspecifywhichitems. 
+David:Oh,Isee.Okay,I'llhaveanewlettermadeupandsentofftoyou 
+whenIgetbacktotheStates. 
+
+상황439확인 
+
+ 
+윤태준은편지에대해서자세히알고싶어한다. 
+
+윤태준:데이브씨,편지의내용이다소불분명한데요. 
+좀더구체적으로말씀해주시겠어요 
+데이브:저,예를들어,어떤거죠 
+윤태준:편지에는귀사가전자및원격통신제품의수입에관심이있다고되어있는데, 
+어떤품목인지에대해서는구체적으로명시되어있지않군요. 
+데이브:알겠습니다.제가미국으로돌아가면새로편지를작성해서보내드리겠어요. 
+
+ 
+<어구해설> 
+specific은(명확한,분명하고구체적인(detailedandexact))란뜻이다. 
+specifically(명확하게,구체적으로말하여)처럼부사형으로도잘쓰인다. 
+명사는speciication(명세사항,세목:상술)이고 
+동사는specify(…을구체적으로말하다). 
+
+
+
+
+
+Situation438 agencyterritory
+
+Mr.StevenandMr.Kimaretalkingabouttheagencyterritory. 
+
+Steven:Mr.Kim,I`vebeenlookingoveryourproposal. 
+I`mafraidthereareafewpointswecan`taccept. 
+Kim:Well,let`ssee.Maybewecanironthemout. 
+Steven:Ihopeso,We`dliketoincludetheFarEastintheagencyterritory. 
+Kim:I`msorry,butwealreadycommittedourselvesto
+anotherfirmfortheFarEastarea. 
+Steven:Then,thatsortofcomplicatesthings. 
+
+ 
+상황438관할구역
+
+ 스티븐과김화식은관할구역에대해서이야기한다. 
+
+스티븐:김선생님,저희는귀사의제안을검토해봤습니다. 
+그런데,몇가지받아들일수없는사항들이있더군요. 
+김화식:저,어디좀봅시다.아마조정할수있을겁니다. 
+스티븐:저도그럴수있기를바랍니다.극동지역을관할구역으로포함시키고싶습니다. 
+김화식:죄송합니다만극동지역은이미타회사에주기로약속을했습니다. 
+스티븐:그렇다면일이좀복잡해지는데요. 
+
+ 
+
+ 
+<어구해설> 
+Iron은원래「다림질하다」란뜻이지만,Ironout이라고쓰이면 
+「가지런히하다,(장애를)고르게하다」란의미이다. 
+things는「사정,상황,사태(matters)」란뜻이다. 
+complicate란동사를응용해보도록하자. 
+Don`tcomplicatetheproblemanyfurther. 
+(문제를더이상복잡하게만들지마세요.) 
+Ifyoudothat,itwillbecomplicatethingsevenmore. 
+(그렇게하시면사정을더어렵게만들게됩니다.) 
+
+ 
+
+
+
+
+Situation437ExchangeRate 
+
+ 
+Mr.JangasksMr.Jonesaboutthedollar. 
+
+ 
+Jang:Mr.Jones,whatdoyouthink 
+Doyouthinkthedollarwillkeepweakening 
+Jones:Well,Idon'tknow.That'sanybody'sguess. 
+Jang:Gosh,Ihopenot. 
+Jones:Whatmakesyousaythat 
+Jang:It'sgettingtougherandtoughertoexport 
+
+ 
+상황437환율 
+
+ 
+장효섭은존스에게달러가치에대해서물어본다. 
+
+ 
+장효섭:존스씨생각은어때요달러가치가계속하락할까요 
+존스:글쎄,모르겠는데요.그건아무도모르죠. 
+장효섭:제발안그랬으면좋겠는데. 
+존스:왜지요 
+장효섭:수출하기가점점더어려워질테니까요. 
+
+ 
+
+ 
+<어구해설> 
+
+ 
+환율에관련되는다음과같은표현을알아두자. 
+Themorethedollarweakens,themorewe'reabletoexport. 
+(달러의가치가떨어지면수출은점점더늘어나게된다.) 
+Howlowdoyouthinkthewon-dollarexchangeratewilldrop 
+(원화와달러간의환율은얼마까지내려갈것같습니까) 
+Iftheratefallsbelow￦700toadollar,thenwecan'texport. 
+(환율이1달러당700원이하로내려가면수출은불가능합니다.) 
+
+
+
+Situation436LetterofaCredit 
+
+ 
+Mr,LeeasksMr,Barbertocorrectanletterofacredit. 
+
+ 
+Lee:Mr.Barber,youcametoKoreajustattherighttime. 
+IreallywanttoaskyoutoattendyourL/CNo.21304. 
+Barber:Inwhatway 
+Lee:TheL/Csaysthatpartialshipmentisprohibited 
+whilethecontractsaysitisallowed. 
+Barber:Oh!Ifthat`sthecase,wemadeamistakewhenweappliedfortheL/C. 
+Lee:Wouldyoupleasesendatelexandrequestamendmentassoonaspossible 
+Barber:Surething,I`llgetitouttoday. 
+
+ 
+상황436신용장 
+
+ 
+이종윤은바버에게신용장을수정하기를요청한다. 
+
+ 
+이종윤:바버씨,한국에때마침잘오셨습니다. 
+귀사신용장21304번에대한수정을부탁드리고싶습니다. 
+바버:어떻게요 
+이종윤:계약서에는분할선적이허용되어있는데신용장엔금지하는걸로되어있습니다. 
+바버:아,그렇다면저희가신용장개설신청을할때실수를한모양입니다. 
+이종윤:텔렉스를보내서가능한한빨리수정을하도록해주시겠습니까 
+바버:예,그렇게해드려야죠.오늘당장텔렉스를보내겠습니다. 
+
+ 
+<어구해설> 
+get은「(어떤장소·상태따위에)이르게하다」란불완전타동사이다.이를다르게는, 
+I`llsendittoday.처럼표현할수도있다. 
+급히발송하겠다고말하려면getitout[off]대신rushitout이나 
+hurryitoff와같은표현을쓰면좋다. 
+
+ 
+
+
+
+
+Situation435Claim 
+
+ 
+Mr.TomandMr.Yoonaretalkingaboutthedefectintheitem. 
+
+ 
+Tom:Look,Mr.Yoon,there'snowayyourcompanycanavoidtheblameforthedefect. 
+Yoon:Mr.Tom,Itellyou,I'mpositivetherewasnodefectwhentheitemleftthefactory. 
+Tom:Mr.Yoon,Idon'twanttoargueaboutthat. 
+Eitherourclaimgetssettledorthedealisoff. 
+Yoon:Wedon'twanttolosethisdeal,butatthesametime, 
+wecan'tsettledorthedealisoff. 
+
+ 
+상황435클레임 
+
+ 
+톰과윤석원은제품의결함에대해서이야기한다. 
+
+ 
+톰:저,윤선생님,귀사가결함에대한책임을면할수있는방법은없습니다. 
+윤석원:톰씨,분명히말씀드립니다만그제품이공장에서떠날때는전혀하자가없었습니다. 
+톰:윤선생님,그점에대해서는논쟁하고싶지않습니다. 
+당사클레임이해결되던가아니면거래는끝장입니다. 
+윤석원:이거래를놓치고싶진않지만동시에우리측이잘못이아닌손해배상청구에응할수는없습니다. 
+
+ 
+<어구해설> 
+argue는사리를밝히고,증거를들어서주장을폄으로써상대방을납득시키려고하는행위를말한다. 
+discuss나talkabout은언쟁과는무관한토론이나대화일수도있고때로는언쟁을의미할때도있다. 
+다음의관련표현들도함께알아두자. 
+Whatwereyouarguingaboutsoloudly 
+(뭘가지고그렇게큰소리로언쟁을했습니까) 
+Don'targueaboutsuchasmallthing. 
+(그런사소한일로왈가왈부하지말아요.) 
+
+
+
+
+
+
+Situation434Present 
+
+ 
+Mr.YoonvisitsMr.RichardinNewYork. 
+
+ 
+Richard:Mr.Yoon.WelcometoNewYork.Howwasyourtrip 
+Yoon:Alittlelong,butnottoobad. 
+Richard:Hopethejetlagdoesn'tbotheryoutoomuch. 
+Yoon:Ihopeso,too.I'vegottoomuchtodohere.
+Oh,bytheway, IbroughtyoualittlesomethingfromKorea. 
+Richard:Oh,youshouldn'thavebothered,butthankssomuchanyway. 
+Yoon:Don'tmentionit.It'smypleasure. 
+
+ 
+상황434선물 
+
+ 
+윤지석은뉴욕에있는리처드를방문한다. 
+
+ 
+리처드:윤선생님,뉴욕에오신걸환영합니다.여행은어땠습니까 
+윤지석:약간지루하기는했지만그런대로괜찮았습니다. 
+리처드:시차병이심하지않으셔야할텐데 
+윤지석:저도그랬으면좋겠어요.여기서해야할일이굉장히많거든요.
+오,그건그렇고,한국에서약소한선물을하나가지고왔습니다. 
+리처드:오,그렇게까지신경쓰지않으셔도되는데.아무튼대단히감사합니다. 
+윤지석:별마씀을요.오히려제가기쁩니다. 
+
+ 
+<어구해설> 
+우리말에도자신이베푸는것을매우낮추어말하는표현이있듯이 
+영어에도이와비슷한겸손의표현이있다. 
+'선물'을alittlesomething으로표현하는것도그런예에속하는것이라고할수있다. 
+이때의something은'(일종의)어떤물건'이란뜻의부정대명사이다. 
+
+ 
+한편한국적사고방식이라고할수있는 
+'빈손으로와서죄송합니다.(I'msorryIdidn'tbringanythingforyou.)'와같은말은하지않도록해야한다. 
+미국적사고방식에의하면좀이상하게들리기때문이다. 
+
+
+
+
+
+
+Situation433Price 
+
+ 
+Mr.FosterasksMr.Choiabouttheprice. 
+
+ 
+Foster:Mr.Choi,howmuchareyouaskingforonthatitem 
+Choi:Unitprice,FOBis$120. 
+Foster:ReallyThat'stoosteep. 
+Choi:WhyXYCo.gets$150forthesamething. 
+Foster:Yes,buttheirscomewithanextrasetofcomponents. 
+Choi:Iknow,butthatdoesnotamounttoanything. 
+
+ 
+상황433가격 
+
+ 
+포스터는 최진석에게가격에대해서물어본다. 
+
+ 
+포스터:최선생님,저품목의가격은얼마입니까 
+최진석:본선인도가격으로개당120달러입니다. 
+포스터:정말입니까그건너무비싼데요. 
+최진석:어째서요XY사는같은것을150달러나받고있는데요. 
+포스터:그렇지만그들은특별히컴포넌트한세트를더얹어팔죠. 
+최진석:저도알아요.하지만그건대단한게아니에요. 
+
+ 
+
+ 
+<어구해설> 
+steep은원래'가파른'이란뜻으로많이쓰이는단어지만, 
+구어에서는값이나이야기따위가'터무니없는,엄청난'이란뜻이되기도한다. 
+다음은가격이너무비싸다표현이다. 
+That'soutofsight. 
+That'sanunworkableprice. 
+That'sanunrealisticquotation. 
+
+
+
+Situation 33 Picking Guest Up 
+Mr. Kim, an assistant manager of Dong Jin Construction, picks Mr. John up at airport. 
+ 
+John: Thank you picking me up today
+Kim: You're welcome. Let me check your schedule for tomorrow.
+John: I'm supposed to attend a meeting at ten o'clock at Hilton Hotel.
+Kim: Then I'll pick you up tomorrow morning. 
+John: Thank you
+Kim : Have a good rest 
+상황33 손님 데리러 가기
+동진건설의 대리인 김상진이 존을 데리러 공항에 왔다
+존: 오늘 데리러 와주셔서 감사합니다.
+김상진: 천만에요. 내일 선생님의 일정을 알 수 있을까요
+존: 저는 내일 아침 10시에 힐튼 호텔에서 회의에 참석하기로 되어 있습니다.
+김상진: 그러면 내일 아침 모시러 가겠습니다.
+존: 감사합니다.
+김상진: 편히 쉬십시오
+<어구해설>
+ "Let me ∼" 의 형태는 일반적으로 자신의 행동을 상대방에게 허락받고자 할 때 사용한다. 
+다른 말로는 "Can I ∼" 나 "May I∼" 로도 바꾸어 쓸 수 있다
+"I'm supposed to attend a meeting at ten o'clock at Hilton Hotel." 은 
+예정이나 의무를 나타내는 표현이다. 단순히 have to 나 must에 한정되지 말고 보다 
+세련된 표현에 신경쓰기 바란다. 
+
+
+
+
+
+
+
+Situation 10 : M&A
+Mr. Clark and Mr. Chang is wondering about the M&A. 
+Their company tries to merger with ABC corporation. 
+They think two companies will be easily mergered.
+ 
+James: Do you really think we can take over the ABC corporation.
+Chang: Certainly. Their cash flow has dried up and their production is down. 
+ In other words, they're a sitting duck
+James: Yes, Indeed 
+
+상황 10: 인수 합병
+클라크와 창재민이 인수합병에 대해서 궁금해 한다. 그들의 회사는 ABC 사와 회사를 합병하려고 하는데 두 사람은 그것이 쉽게 이루어 질 것이라고 생각한다. 
+
+클라크: 우리가 정말 ABC 사를 인수할 수 있을 거라고 생각해
+창재민: 물론이지. 그 회사의 현금 유통액은 바닥이 났고 생산도 감소했어.
+ 말하자면 ABC 사는 쉽게 해치울 수 있는 목표물이라 이거지.
+제임스: 바로 그거야
+<어구해설>
+
+ "Do you think ∼" 로 시작되는 의문사에는 반드시 yes나 no 처럼 확실한 의견을 말해주어야 한다.
+ 그리고 앞에 What 이나 Who 와 같은 의문사가 들어가는 경우에는 보다 
+구체적인 대답을 필요로 하는 문장형식이 된다.
+ 
+물위에 앉아 발놀림을 쉬고 있는 오리는 분명 사냥꾼에게는 아주 쉬운 표적이 된다. 
+"sitting duck" 은 그러한 상황을 비유하여 쓰는 말로서 수월한 목표 만만한 사람을 가리킨다 
+
+
+
+
+
+
+
+Situation450Invitation 
+
+ 
+Mr.ThomasarehavingagoodtimewithMr.Leeatthehishouse. 
+
+ 
+Thomas:Mr.Lee,it'sbeenawonderfulevening.Thankyousomuch. 
+Lee:Oh,mustyoubegoingalready 
+Thomas:Yes,I'mafraidso,I'vegotanearlydaytomorrow. 
+Lee:Oh,that'sashame.Iwasgoingtoaskyouforanightcap. 
+Thomas:I'mafraidI'llhavetotakearaincheckonthat. 
+Lee:Okay,sure,someothertime,then. 
+
+ 
+상황450초대 
+
+ 
+토마스는이태완의집에서재미있는시간을보내고있다. 
+
+ 
+토마스 :이선생님,아주멋진저녁이었습니다.대단히고맙습니다. 
+이태완 :아니,벌써가셔야해요 
+토마스 :그래야할것같습니다.내일일찍일어나야하거든요. 
+이태완 :유감인데요,술한잔하자고말씀드리려했는데요. 
+토마스 :그건다음기회로미뤄야할것같습니다. 
+이태완 :좋습니다.그러면다음기회에하기로하죠. 
+
+ 
+
+ 
+<어구해설> 
+
+ 
+go대신begoing을쓰면'의지'나'감정'이포함되지않은단순한'정보'만을원하는질문이된다. 
+다음과같이표현해도좋다. 
+Doyouhavetoleavealready 
+(벌써떠나야합니까) 
+What'sthehurryPleasestayalittlelonger. 
+(왜그렇게서두르세요좀더계시다가십시오) 
+raincheck은‘우천교환권’으로사용하지만 
+구어체에서는‘사용한물건등을나중에받는다’는표현으로사용되어 
+I'llhavetotakearaincheckonthat. 
+(나중에꼭참석하겠다.다음기회로미뤄야할것같다)로표현한다. 
+
+ 
+
+Situation449Deal 
+
+ 
+Mr.McCainwantstofirmupthedealwithMr.Jang. 
+
+ 
+McCain:Listen,Mr.Jang.I'dliketofirmupthisdealassoonaspossible. 
+Jang:Fine.Samehere. 
+McCain:Okay,younameadate. 
+Jang:I'llhavetoconsultwithMr.Songfirst. 
+McCain:WhyWhat'shegottodowiththisdeal 
+Jang:He'smypartner. 
+
+ 
+상황449거래 
+
+ 
+맥케인은장지식과함께거래를확정짓기를원한다. 
+
+ 
+맥케인:저,장선생님,가능한한빨리이거래를확정짓고싶습니다. 
+장지식:좋습니다.저도마찬가지입니다. 
+맥케인:좋아요,날짜를말씀해보세요. 
+장지식:우선송선생님과상의를해봐야겠습니다. 
+맥케인:왜요그분이이거래와무슨상관이있습니까 
+장지식:그는동업자랍니다. 
+ 
+<어구해설> 
+name은‘이름’이란의미의명사형으로주로쓰이지만 
+여기에서는‘(사람,일시,가격따위를)지정하다’의동사형으로쓰였다. 
+
+ 
+'A는B와관계가있다'는'Ahas(something)todowithB'로, 
+'A는B와관계가없다'는'AhasnothingtodowithB'로표현한다. 
+여기서something을what으로바꾸고has대신같은뜻인hasgot을쓰면 
+WhathasAgottodowithB란의문문이만들어지는것이다. 
+
+ 
+
+
+
+
+Situation448JetLag 
+
+ 
+Mr.KimvisitsMr.Simon. 
+
+ 
+Simon:It'sapleasuretoseeyouagain. 
+Kim:Howhaveyoubeen 
+Simon:We'vebeenquitebusy,thanks.Howwasyourflight 
+Kim:Yes,I'mstillalittletired. 
+Simon:Doyouhavemuchtroublewithjetlag 
+Kim:Yes,itreallyhitsmehard. 
+
+ 
+상황448시차병 
+
+ 
+김찬희는시몬을방문한다. 
+
+ 
+시몬:다시뵙게되어반갑습니다. 
+김찬희:어떻게지내셨습니까 
+시몬:꽤바쁘게보냈습니다.비행기여행은어떠셨어요 
+김찬희:예,아직약간피곤하군요. 
+시몬:비행기를타면시차병때문에고생을많이하십니까 
+김찬희:예,상당히고생을합니다. 
+
+ 
+<어구해설> 
+고속비행으로여러시차대를통과하면서여행을하다보면인체의생리리듬이깨지고 
+신경이과민해지며계속피로감으로졸리는경우가적지않다. 
+이런현상,즉'제트증후군'을jetlag라고한다. 
+'…을받기쉬운,당하기쉬운,…에걸리기쉬운'이란뜻의형용사subject를써서, 
+Areyousubjecttojetlag(제트증후군을잘느끼십니까) 
+라고표현할수도있다. 
+
+
+
+
+Situation447Literature 
+
+ 
+Mr.HangintroducesthenewPCmodeltoMr.Morrison. 
+
+ 
+Hang:Mr.Morrison,I'dliketoshowyouourlatestPCmodel.Itworkslikeacharm. 
+Morrison:Howdoesitgoonpricing 
+Hang:It'sthemostreasonablypricedmodelonthemarkettodate. 
+Morrison:H'm,haveyougotanythinginprintonit 
+Hang:Youbet.Holdonasecondand 
+I'llgetyousomeliteratureonthesemachines. 
+
+ 
+
+ 
+상황447팜플렛 
+
+ 
+황진석은모리슨에게새로운PC모델을소개한다. 
+
+ 
+황진석:모리슨씨,저희회사의신형PC모델을보여드리겠습니다. 
+신기하게작동이잘됩니다. 
+모리슨:가격은어떻게됩니까 
+황진석:지금까지시장에나온것중가장가격이저렴합니다. 
+모리슨:음,그것에관한안내인쇄물이있습니까 
+황진석:물론이죠.잠깐만계세요.이기계류에관한팜플렛을좀갖다드리겠습니다. 
+
+ 
+
+ 
+<어구해설> 
+
+ 
+literature에는'문학(작품)'이란뜻외에'(광고,팜플렛따위의)인쇄물(printedmatter,esp.givinginformation'이란의미로도쓰인다. 
+다음은literature에대한용례들이다. 
+Haveyougotanyliteraturethatgivessomeinformationonthesemachines 
+(이기계에대하여설명이되어있는인쇄물같은것은없습니까) 
+Thisisthelatestliteraturewehaveonit. 
+(이것이그것에관한가장최근의팜플렛입니다.) 
+
+
+
+
+
+Situation446 Terms
+
+ 
+Mr.PeterasksMr.Sonabouttheitem. 
+
+ 
+Peter:Mr.Song,look,there'sapossibilityonthisitem. 
+Butfirst,whatareyourterms 
+Song:Okay,whenyouopentheL/C,makeitsothatthedeliverydateisaminimum
+oftwomonthsandamaximumofthreemonthsfromthedateofopening. 
+Peter:That'skindoflong,but,okay,howaboutthewarranty 
+Song:Weguaranteeservicingofminorrepairsonly. 
+
+ 
+
+ 
+상황446 거래조건
+
+ 
+피터는송윤호에게품목에대해서물어본다. 
+
+ 
+피터:송선생님,이품목에가능성이있습니다.그렇지만우선거래조건은어떻습니까 
+송윤호:저,신용장을개설할때,납기는신용장개설일자로부터 
+최소한2개월에서최대한3개월로해주십시오. 
+피터:그건좀긴데요.하지만좋습니다.품질보증은어떻습니까 
+송윤호:간단한수리에한해서만보장해드리고있습니다. 
+피터:커다란결함에대해서는어떻게하지요 
+
+ 
+
+ 
+<어구해설> 
+term은단수로는'용어;기간'이란뜻이되지만 
+복수인terms로쓰이게되면,'(지불,계약등의)조건'이나'사이,관계'를의미한다. 
+conditions도'지불조건'이란의미로쓰인다. 
+다음과같이표현할수있다. 
+Whatareyourconditions 
+Whatareyourtermsofpayment 
+
+ 
+
+
+
+
+Situation445PriceIncrease 
+
+ 
+Mr.Adwardwantstobuy200colorTVsets.
+
+ 
+Adward:Wewanttoplacethesameorderweplacedlastyear. 
+ThatisorderNo.1214,butthistimewewant200colorTVsets. 
+Min:Thepricehasgoneupsincelastyearonthesamemodel. 
+Adward:ReallyHowmuchhasitgoneup 
+Min:$5.00oneachset.However,sincethequalityhasalsoimproved,theraiseisjustifiable. 
+
+ 
+ 
+상황445가격인상 
+
+ 
+에드워드는컬러텔레비전수상기200대를사기를원한다. 
+
+ 
+에드워드:작년에했던것과꼭같은주문을하려고하는데요.주문번호1214번말입니다.
+이번에는컬러텔레비전수상기200대를사고자합니다. 
+민창기:그모델의가격이작년보다많이올랐는데요. 
+에드워드:그래요얼마나올랐습니까 
+민창기:대당5달러요.하지만품질도향상되었기때문에가격인상은정당한겁니다. 
+
+ 
+ 
+<어구해설> 
+'가격을인상하다'는raisetheprice나increasetheprice란표현이많이쓰이고, 
+'(가격이)오르다'는goup,increase,rise등으로표현하면된다. 
+
+ 
+다음과같이표현해도같은뜻이된다. 
+Howmuchhasthepriceincreased 
+Howmuchdidyouincreasetheprice 
+
+ 
+
+
+
+
+Situation444Price 
+
+ 
+Mr.SongasksMr.Philipaboutthenewmodel. 
+
+Song:Mr.Philip,whatdoyouthinkofourlatestmodel 
+Philip:Looksgood,butit'salittleonthehighside. 
+Song:Well,thatmaybetrueinsomerespect, 
+butlookatitfromaqualitativepointofview. 
+Philip:Iam,buti'malsothinkingofthemarket,too. 
+
+ 
+상황444가격 
+
+ 
+송진영은필립에게새모델에대해서묻는다. 
+
+ 
+송진영:필립씨,당사의새모델을어떻게생각하십니까 
+필립:좋아보이긴하는데가격이다소비싼감이듭니다. 
+송진영:저,어떤면에선그럴지도모르지만품질을놓고보셔야지요. 
+필립:저도그런관점에서보고는있지만,시장도역시생각을해야하니까요. 
+
+ 
+
+ 
+<어구해설> 
+onthe..side는'다소..한,..한기미가보이는'이란뜻의관용표현이다. 
+onthehighside를응용해보자. 
+Doyouthinkourpriceisalittleonthehighside 
+(저희들의가격이다소비싸다고생각하십니까) 
+Thepricesinthatdepartmentstorearealittleonthehighside. 
+(그백화점의가격은약간비싼편입니다.) 
+
+ 
+
+
+
+
+
+Situation443Claim 
+
+ 
+Mr.JorgeandMr.Kimaretalkingabouttheinferiorgoods. 
+
+ 
+Jorge:Mr.Kim,whathaveyoudoneaboutourclaim 
+Kim:Well,I'velookedintoitthoroughly,butIcan'tfindanyfaultonourpart. 
+Jorge:Mr.Kim,believeme,thatshipmentwasabsolutelyuseless. 
+Kim:Mr.Jorge,thatshipmentwascompletelyinspectedbeforeitlefthere, 
+andtherewasabsolutelynodefectwhatsoever. 
+Jorge:Well,itcouldn'thavehappenedintransit,sothefaultmustliewithyou. 
+Kim:Mr.Jorge,excusemeforsaying, 
+butIthinkyou'rejusttryingtopassthebuck. 
+
+ 
+상황443클레임 
+
+ 
+조지와김인환은불량품에대해서이야기한다. 
+
+ 
+조지:김선생님,당사의클레임에대하여어떤조치를취하셨습니까 
+김인환:철저히조사해보았지만,저희측의하자는전혀발견하지못했습니다. 
+조지:선생님,정말이지그선적품은전혀사용할수가없는상태였어요. 
+김인환:조지씨,선적품은이곳을떠나기전에철저한검품을거쳤는데 
+절대조그마한하자도없었습니다. 
+조 지:그런일이수송중에일어날수는없으니까잘못은당연히귀사측에있는거지요. 
+김인환:조지씨,이런말하게되어안됐지만 
+당신은책임을전가하려고만하시는것같군요. 
+
+ 
+<어구해설> 
+buck은원래포커에서(돌릴차례를나타내기위해다음번선앞에놓는패)를의미했다.그래서passthebuck은((남에게)책임을전가하다)란뜻이다. 
+명사적으로는buckpasser(책임을전가하는사람)라한다.
+
+
+
+Situation 462 Shopping 
+
+ 
+Mr. Gehry tells Mr. Min that he will go to shopping in the afternoon. 
+
+ 
+Gehry : Mr. Min , I'm going to try to get in some shopping this afternoon. 
+Min : Oh, well, let me keep you company on your shopping trip. 
+Gehry : Thanks so much, but I really don't want to bother you. 
+Min : No trouble at all. I'd be only too glad to help you out with anything I can. 
+
+ 
+
+ 
+상황 462 쇼핑 
+
+ 
+게리는 민현기에게 오후에 쇼핑을 할 예정이라고 말한다. 
+
+ 
+게 리 : 김 선생님, 저 오늘 오후에 쇼핑을 할 생각입니다. 
+민현기 : 오, 그럼, 제가 동행해 드릴께요. 
+게 리 : 고맙습니다만, 폐를 끼치고 싶진 않습니다. 
+민현기 : 천만에요. 제가 할 수 있는 일이라면 어떤 일이든 도와드릴 수 있다면 좋겠습니다. 
+
+ 
+
+ 
+<어구 해설> 
+
+company란 말은 '사귐, 교제'란 뜻도 있지만 이때는 '동석, 동행'이란 뜻이다. 
+같은 어원의 단어 accompany(남을 …까지 동행[수행]하다)를 이용하여 표현할 수도 있다. 
+다음은 company(사귐;동석, 동행;친구, 벗)의 실용적인 용례들이다. 
+Are you expecting any company 
+(오실 동행이 계십니까) 
+Are you expecting a lot of company 
+(손님이 많이 오십니까) 
+
+
+
+
+Situation 461 Plane
+
+ 
+Mr. Song is taking the plane for the business. 
+
+ 
+Walters : Welcome aboard, sir. May I see your boarding pass, please 
+Song : OK! Here it is. 
+Walters : Thank you. Please step to your left. Your seat is on the next aisle. 
+Song : Thank you. 
+
+ 
+
+ 
+상황 461 비행기
+
+ 
+송민식은 출장을 가기 위해서 비행기에 탑승한다. 
+
+ 
+월 터 : 어서 오십시오. 탑승권 좀 보여주시겠습니까 
+송민식 : 네. 여기 있어요. 
+월 터 : 감사합니다. 왼쪽으로 가십시오. 손님 좌석은 다음 통로측에 있습니다. 
+송민식 : 감사합니다. 
+
+ 
+<어구해설> 
+
+ 
+비행기의 trap을 오르게 되면 입구에 서있는 승무원에게 탑승권(boarding pass)을 제시하게 된다. 이때 자기의 좌석이 어디인지를 정확히 모르면 승무원에게 물어보면 된다. 
+[통로측 좌석]은 aisle seat라고 부르고 [창측좌석]은 window seat라고 한다. 
+[통로]가 aisle이므로 단순히 next aisle에 있다고 하면 next aisle의 우측에 있는지 좌측에 있는지는 본인이 직접 확인하여야 한다. 
+
+ 
+
+
+
+
+Situation 460 Hotel 
+
+ 
+Mr. Park asks Mr. Joseph to wake up call in the morning. 
+
+ 
+Park : Hello, operator. I'd like a wake-up call in the morning, please. 
+Joseph : Certainly, sir. At what time should we ring you 
+Park : Oh, make it around 6:45, if you will. 
+Joseph : Surely. That's Room 117 at 6: 45, right 
+Park : Yes, And please leave instructions with the operator to keep ringing
+ until I answer, okay I'm a heavy sleeper. 
+Joseph : Surely, sir. Have good night's rest now. 
+
+ 
+상황 460 호텔 
+
+ 
+박성식은 요셉에게 모닝콜을 부탁한다. 
+
+ 
+박성식 : 여보세요, 교환수. 아침에 전화로 저를 좀 깨워주셨으면 합니 다. 
+요 셉 : 예, 알겠습니다. 몇 시에 전화를 드리면 될까요 
+박성식 : 6시 45분쯤에 깨워주세요. 
+요 셉 : 예, 117호실 6시 45분이요, 맞습니까 
+박성식 : 예, 그리고 제가 받을 때까지 전화벨을 계속 울리도록 좀 다른 교환수에게도 
+지시를 남겨주십시오. 저는 잠귀가 어두우니까요. 
+요 셉 : 알겠습니다. 그럼 편히 주무십시오. 
+
+ 
+
+ 
+<어구해설> 
+
+호텔방에는 대체로 자명종(alarm clock)이 없다. 그래서 오전 일찍 중요한 약속이라도 있는 날은 사전 교환에게 몇 시에 깨워달라는 부 탁을 하고 자는 것이 안전하다 하겠다. 
+여기서 wake-up call은 '잠을 깨우기 위한 전화'란 뜻이다. 
+
+ 
+
+ 
+
+
+
+
+Situation 459 Changes 
+
+ 
+Mr. Kim asks Mr. Nichols where Mr. Jang is. 
+
+ 
+Kim : Mr. Nichols, you know, I didn't see Mr. Jang in the office today. 
+Nichols : Oh, he's been transferred to another department. 
+Kim : Really Who's in charge now 
+Nichols : Mr. Williams. You don't know him. He's new. 
+Kim : When was Mr. Jang transferred 
+Nichols : Just last week. 
+
+ 
+상황 459 부서이동 
+
+ 김진우는 니콜스에게 장우석이 어디에 있는지 묻는다. 
+
+
+ 
+김진우 : 니콜스씨, 오늘 사무실에 장우석씨가 안 보이네요. 
+니콜스 : 예, 그분은 다른 부서로 옮겼습니다. 
+김진우 : 그래요 지금은 누가 그 자리를 맡고 계세요 
+니콜스 : 윌리암즈씨가요. 선생님은 모르시는 분입니다. 새로 오셨거든요. 
+김진우 : 장우석씨는 언제 옮기셨지요 
+니콜스 : 바로 지난주에요. 
+
+ 
+
+ 
+<어구 해설> 
+
+ 
+transfer는 '옮기다;…을 전임(전학)시키다'란 뜻 외에 
+'(석판 따위에) (디자인 따위를) 옮기다, 전사하다'란 뜻으로도 쓰인다. 
+다음과 같이 표현해도 근무부서를 옮겼다는 뜻이 된다. 
+He's ben shifted to another department. 
+He went to another department. 
+
+ 
+
+
+
+
+Situation 458 Deadline 
+
+Susan was pressed with her work. She should submit the design for new car to his boss next week. However, she did not finished it. 
+
+ 
+Susan : I can't decide how to design the new car. 
+Lee : Can you decide before the deadline 
+Susan : When was the deadline 
+Lee : By tomorrow 
+Susan : I should be ready by then. No problem. 
+
+ 
+상황 458 마감시간 
+
+ 
+자신의 일에 쫓겨있는 수잔은 내일까지 신차 모델 디자인을 상관에게 제출해야만 한다. 그러나 아직까지 일을 끝마치지 못하고 있는데. . . 
+
+ 
+수 잔 : 신차를 디자인하는 방법을 결정하지 못했어요 
+이미옥 : 마감 전에 디자인을 결정할 수 있나요 
+수 잔 : 언제가 마감이었죠 
+이미옥 : 내일까지요 
+수 잔 : 그때까지 준비되도록 해야죠. 
+
+ 
+<어구해설> 
+"be pressed with ∼" 는 글자그대로 보자면 무엇인가에 눌려있다는 의미이다. 
+따라서 여기서는 엄청난 일로 스트레스를 받고 있다는 의미로 해석하면 된다. 
+can 으로 시작하는 의문문은 누구나 사용가능한 표현으로 간주되지만 
+막상 긴박한 상황에 처할 때 쉬운 표현도 생각나지 않을 때가 있다. 
+예를 들어 "잠깐 시간 좀 내주시겠어요" 라는 표현도 
+can 동사를 사용하면 "Can I see you" 라고 간단히 표현할 수 있다. 
+
+
+
+
+
+Situaion457Shipment 
+
+ 
+Mr.ClintonasksMr.Kangwhenshipmentisready. 
+
+ 
+Clinton:Mr.Kang,howsoondoyouthinkyoucanmakeshipment 
+Kang:Ifmyguessiscorrect,I`dsaysomewherearoundthe15thofnextmonth. 
+Clinton:Doyouknowifit`llbeadirectshipment 
+Kang:Well,Ican`tsayoffhand.I`llhavetocheck. 
+
+ 
+
+ 
+상황457선적 
+
+ 
+클린턴은강석철에게선적이언제준비되는지물어본다. 
+
+ 
+클린턴:강선생님,선적을얼마나빨리해주실수있겠습니까 
+강석철:추측컨대다음달15일쯤될겁니다. 
+클린턴:직항선에의한선적인가요 
+강석철:저,당장은모르겠습니다.확인해봐야겠습니다. 
+
+ 
+
+ 
+<어구해설> 
+
+ 
+이때의offhand는「즉석에선,준비없이(withouttimetothink;atonce)」란뜻이다. 
+‘offhand'의관용표현을보자. 
+OffhandIdon`tknow. 
+(당장은모르겠습니다.) 
+Heansweredmeinanoffhandmanner. 
+(그는내게퉁명스럽게대답했다.) 
+Canyoutellmeoffhandhowlongitis 
+(얼마나걸릴지지금말씀해주시겠습니까) 
+
+
+Situation456Hotel 
+
+ 
+Mr.SongcalledtheHotelOtanitomakesurethereservation. 
+ 
+Song:Hello,isthistheHotelOtani 
+Simon:Yes,that'sright.MayIhelpyou,sir 
+Song:Yes,mynameisSongMin-Suck.I'mcallingfromNaritaAirport. 
+IbelieveIhaveareservationfortonight. 
+Simon:Justamoment,I'llcheck,sir.No,I'msorry. 
+There'snoreservationlistedinyourname. 
+Song:ButIcalledMr.OyomafromSeoulandhetoldme 
+thatareservationwasmadeforme. 
+Simon:Well,Mr.Oyomaisnotherenow,sir. 
+Anyway,we'reallbookedupfortonight, 
+soI'mafraidwecan'taccommodateyoutonightinanycase. 
+
+ 
+상황456호텔 
+
+ 
+송민석은예약확인을위해서오타니호텔에전화한다. 
+
+ 
+송민석:여보세요.오타니호텔입니까 
+시몬:예,그런데요.무슨일이세요 
+송민석:예,저는김원제라고합니다. 
+지금나리타공항에서전화를드리는건데오늘저녁예약이되어있을텐데요. 
+시몬:잠시만요.확인해보겠습니다.죄송하지만없는데요. 
+예약부에선생님의이름이기록되어있지않습니다. 
+송민석:하지만제가서울에서오요마씨에게전화를했을때는예약이됐다고했는데요. 
+시몬:오요마씨가지금여기안계시거든요어쨌든오늘밤은방이다찼으니까 
+손님께서묶으실수는없을것같습니다. 
+
+ 
+
+ 
+<어구해설> 
+
+ 
+'예약을해두었다'란표현은다음과같이여러가지가있을수있다. 
+IunderstandIhaveareservationfortonight. 
+Ibelieveareservationhasbeenmadejinmyname. 
+IcalledyourhotelandmadeareservationfromSeoul. 
+
+ 
+다음의예약과관련된표현들도잘알아두자. 
+Idon'tbelievewehaveareservationforyou. 
+(댁의이름으로예약이된것이없는것같습니다.) 
+Whodidyoutalktowhenyoumadethereservation 
+(예약하실때누구와통화를하셨습니까) 
+
+
+
+ 
+
+
+
+Situation455Rebate 
+
+ 
+Mr.DillerasksMr.Leetorebate. 
+
+ 
+Diller:Mr.Lee,youoweusarebateonthoselastitemsyoushipped,youknow. 
+Lee:Yeah,Iknowyouhavearebatecoming, 
+butIcan'trecollectwhatitisoffhandexactly. 
+Diller:Theamountdueusis$675.00. 
+Lee:Oh,isthatallitisIthoughtitwasmore. 
+
+ 
+
+ 
+상황455환불 
+
+ 
+딜러는이종찬에게환불금을지불할것을요청한다. 
+
+ 
+딜러:이선생님,귀사에서보낸지난번그제품들에대해저희가환불받을게있잖아요. 
+이종찬:예,환불해드려야할게있다는건알고있는데 
+정확한금액이얼마인지는얼른생각이나질않는데요. 
+딜러:저희에게지불하셔야할금액이675불입니다. 
+이종찬:그게전부입니까저는더많은줄알았습니다. 
+
+ 
+
+ 
+<어구해설> 
+dueus는duetous(우리에게마땅히주어져야할)에서to가생략된형태이다. 
+‘Theamountdueusis$675.00.’은다음과같이표현할수있다. 
+Youoweus$675. 
+Youhavetopayus$675. 
+
+ 
+due에관계되는표현 
+ⅰ)due가'마땅히지불해야할,지불기일이된'의뜻일때 
+Whenistherentdue 
+(집세(방세,땅세)는언제지불하기로되어있습니까) 
+ⅱ)due가'…할예정인,…하기로되어있는'의뜻일때 
+I'mdueatameetinginonehour. 
+(나는1시간후에회의에참석하기로되어있다.) 
+
+ 
+
+
+
+
+Situation454Conversation 
+
+ 
+Mr.HongwantstotalktoMr.Brooks. 
+
+ 
+Hong:Mr.Brooks,couldItalktoyouforamoment 
+Brooks:Well,I'monmywaytoameetingnow.Canitwait 
+Hong:Sure,noproblem.What'sthemeetingabout 
+Brooks:Newproductdevelopment. 
+
+ 
+상황454대화 
+
+ 
+홍기태는브룩스와이야기하기를원한다. 
+
+ 
+홍기태:브룩스씨,잠시얘기할수있을까요 
+브룩스:저,지금회의에참석하러가는중인데요,나중에얘기하면안되는겁니까 
+홍기태:그러지요,괜찮습니다.회의의주제가뭐지요 
+브룩스:차기상품개발입니다. 
+
+ 
+<어구해설> 
+
+ 
+회의의주제를묻는표현에는‘What'themeetingabout'외에도 
+다음과같은표현도있다. 
+
+ 
+What'sthesubjectofthemeeting 
+What'sthemeetingagendaabout 
+
+ 
+'…에대하여'란뜻의전치사에는about외에on도있지만on은보통전문적인내용에쓴다. 
+
+ 
+
+ 
+
+Situation453Model 
+
+ 
+Mr.FordtalksaboutareceiverandatransmitterwithMr.Kim. 
+
+ 
+Ford:Mr.Kim,whatI'vegotinmindisamodelthatwillfunctionasboth 
+areceiverandatransmitter. 
+Kim:Well,nowthat'ssomethingthat'sbeyondme. 
+Mr.Song'sreallyuponthatmatter.Let'scallhimin. 
+Ford:Okay,then,whydon'twedothat 
+Kim:Oh,Iforgot.Mr.Songisn'theretoday.He'soutatthefactory. 
+Ford:Oh,well,itcanwait.Tomorrow'salwaysanotherday. 
+
+ 
+상황453모델 
+
+ 
+포드는김인웅과수신기와송신기에대해서이야기한다. 
+
+ 
+포드:김선생님,제가염두에두고있는것은수신기와송신기의기능을 
+동시에갖는모델입니다. 
+김인웅:저,그것은제가잘모르는분야랍니다. 
+송선생님이그문제에대하여잘아시니까그분을좀모셔오도록하지요. 
+포드:좋습니다.그러면그렇게하지요. 
+김인웅:이런,제가깜박잊었군요.송선생님은오늘여기안계십니다.공장에가셨지요. 
+포드:저,그러면좀미뤄도됩니다.내일도있으니까요. 
+
+ 
+
+ 
+<어구해설> 
+
+ 
+Mr.Song'sreallyuponthatmatter.Let'scallhimin. 
+라고얘기를한다.이때의up은'뛰어나서;정통하여'란뜻이다. 
+다음과같은표현으로대체해도좋다. 
+Mr.Songisreallyintheknowwhenitcomestothis. 
+(이런문제에대해서는송씨가그내용을잘알고있습니다.) 
+
+
+
+Situation 472 A barbershop
+
+ Mr. Choi goes a barbershop to cut his hair nicely.
+
+Mac:Have a seat here, please, sir.
+Choi: Thank you. I'd like my hair cut in the back and on the sides, but not on the top.
+ Mac: Okay, sir. How would you like your hair parted
+Choi: Part my hair on the left side, please.
+Mac: Okay, would you care for a shampoo first, sir
+Choi: No, just a haircut will be fine, thanks. 
+
+상황 472 이발소
+
+맥 : 여기로 앉으십시오. 손님.
+최우룡: 감사합니다. 뒷머리와 옆머리를 잘라주세요. 위는 자르지 말고요.
+맥 : 예, 알겠습니다. 가리마는 어느 쪽으로 탈까요
+최우룡 : 왼쪽으로 타 주십시오.
+맥 : 예. 먼저 샴푸부터 하시겠습니까
+최우룡 : 아니, 괜찮습니다. 그냥 머리만 잘라주십시오. 
+
+<어구 연구>
+
+이발소에 들어가면 많이 하는 주문이 "가리마를 타주세요"이다 이와 관련된 표현은,
+
+Please part my hair on the right side,
+
+라고 하며, separate나 divide같은 단어를 사용하면 안된다.
+중앙 가리마는 in the middle을 쓰면 된다.
+
+
+
+
+
+
+
+
+
+Situation 471 Hotel
+
+ Miss Park asks the hotel clerk whether a message is or not for him. 
+
+Park:Pardon me, are there any messages for me
+Tom : What's your room number, sir
+Park : 425, but I moved there from 332 last night. So you might check both.
+Tom : I'll do that, sir. Oh, yes. You had a call from a certain Mr. Brown. Here it is,sir.
+Pakr : H'm, did he happen to say what his number was
+Tom : No, but he said he'll call back around 10:00. 
+
+상황 471 호텔
+
+박진솔이 호텔 직원에게 그를 위한 메시지가 있는지 묻는다.
+
+박진솔 : 실례합니다. 저한테 연락온 것 없습니까
+탐 : 몇 호실이지요
+박진솔 : 425호실인데 어젯밤에 332호실에서 옮겨왔거든요. 그러니까 양쪽 방을 다 확인해 주세요.
+탐 : 그러지요. 아, 예, 브라운씨라는 분한테서 전화가 왔었습니다. 여기 있습니다.
+박진솔 : 음, 혹시 그분이 자기 전화번호를 알려주시던가요
+탐 : 아니오, 하지만 10시경에 다시 전화하겠다고 하셨습니다. 
+
+<어구 연구>
+
+호텔에 돌아와서 메시지가 있는지 없는지를 물을 때, 위의 표현을 써도 되지만, 다음과 같은 표현도 있다.
+
+Did anyone call me
+Did anyone leave a message for me
+
+관련표현으로 
+
+If anyone calls me while I'm out, please tell him he can reach me at 701-4756.
+(제가 없는 사이에 전화가 오거든 701-4756으로 전화를 하면 연락이 된다고 해주세요.)
+
+If you call me and I'm out, please leave a message with the front desk.
+(전화했을 때 내가 없으면 프론트에 전갈을 남겨두게.)
+
+도 많이 쓰인다.
+
+
+
+
+
+
+
+Situation 470 Bus
+
+Mr. Kim inquires a bus No. at the bus station.
+
+Kim: Excuse me, does bus number 105 stop here
+Patty: That's right. That's the one I'm taking.
+Kim : Oh good, then maybe you can help me. How do I pay the fare
+Patty : You use coins, but you must have the exact change .... 80 cents.
+Kim : Oh, gosh. All I've got is a dollar bill. What shall I do
+Patty : Here, I think I can change it for you
+
+상황 470 버스
+
+김주한이 버스정류장에서 버스 번호에 대해 문의한다.
+
+김주한 : 실례합니다. 105번 버스가 여기서 서나요
+패티 : 예, 저도 그 버스를 탑니다.
+김주한 : 아, 잘됐군요. 그러면 절 도와주실 수 있겠군요. 요금을 어떻게 내죠
+패티 : 동전으로 내시는데 잔돈으로 정확한 액수를 내셔야 해요, 80센트요.
+김주한 : 오, 이런. 1달러짜리 지폐밖에 없는데, 어떻게 하지요
+패티 : 저, 제게 바꿔드릴 잔돈이 있을 것 같습니다. 
+
+<어구 연구>
+
+
+미국에서는 주마다 버스요금 제도가 다르며, 요금을 거슬러주지 않기 때문에 동전을 꼭 준비해야 한다. 이럴 경우
+
+How do I pay the fare
+(요금을 어떻게 냅니까)
+
+라고 한다.
+
+버스 및, 철도 요금은 Fare로 다음과 같이 질문한다. 쉬운 표현들이므로 여러번 큰소리로 읽으며 익혀두도록 하자.
+
+Excuse me, would you tell me how I pay the bus fare
+(죄송하지만, 버스요금을 내는 방법을 가르쳐 주시겠습니까)
+
+What's the bus fare system in the US
+(미국의 버스요금제도는 어떻습니까)
+
+다음과 같은 표현도 알아두자.
+
+Is there any place I can get some change
+(잔돈을 바꿀 수 있는 곳이 없을까요)
+
+Can you change a dollar bill for me
+(1불짜리 지폐를 잔돈으로 바꿔주실 수 있습니까)
+
+How much change do I need for the bus
+(버스를 타려면 잔돈을 얼마나 준비해야 합니까)
+
+Doesn't the driver make change
+(운전수가 잔돈을 거슬러주지 않습니까)
+
+
+
+
+
+
+
+
+Situation 469 Airport
+
+Miss Lee arrives at New York airport. She embarrasses because of first time trip for her. So Miss Lee asks Julia where the way out is at airport.
+
+Lee : Excuse me, Where is the way out
+Julia: Well, that's what I'm looking for myself.
+Lee : It's very confusing in here, isn't it
+Julia : Absolutely, yes. Oh, do you see a sign there
+Lee : It should be the way out.
+Julia: OK. Let's go and see. 
+
+상황 469 공항
+
+이진이 뉴욕에 도착했다. 이번이 처음 여행이라 공항에서 그녀는 당황해하고 있다. 그래서 줄리아에게 길을 묻는다.
+
+이진 : 실례합니다. 출구가 어디지요
+줄리아: 글쎄요. 저도 지금 찾고 있는 중입니다.
+이진: 여긴 굉장히 헷갈리는데요.
+줄리아 : 정말 그래요. 저기 표지판이 보이지요
+이진: 거기가 출구일 거예요.
+줄리아 : 좋아요, 그럼 가 봅시다. 
+
+<어구 연구>
+
+way out은 [출구]라는 뜻. way-out처럼 붙이면 [이상한(unusual)]이란 뜻이 되어 버리므로 유의해야 한다. 한편 입구는 way in으로 표현하면 된다. Mr. Kim의 질문은 다음과 같이 표현해도 좋다.
+
+How do I find my way out
+(어디로 나가야 합니까)
+Where is the exit
+(출구가 어디 있습니까)
+How do you get out of this place
+(밖으로 나가려면 어떻게 해야지요)
+
+다음은 way out에 관련된 표현들이다.
+
+After you get out of subway train, take the way out to[on] the left.
+(전철을 내린 다음 좌측 출구로 나가세요.)
+If you take the way out to the right, it leads you [you'll come] to City Hall.
+(오른쪽 출구로 나가시면 시청이 나옵니다.)
+
+
+
+
+
+
+Situation 468 Flight booking 
+
+ 
+Mr. Kim inquires about a flight booking in the airport. 
+
+ 
+Kim:I'd like to make a booking for a flight to Chicago and New York. 
+Brad : Okay, sir. We have a direct flight to Chicago, and we can book you all the way through to New York without any delay. 
+Kim : I'm not sure how long I'll stay in Chicago, so please leave it open. 
+Brad : Okay, sir, we'll leave that open for you. 
+Kim : How about my baggage Can that be checked all the way through to New York 
+Brad : No, sir. You'll have to pick it up in Chicago and recheck it through after you decide which flight you're taking to New york. 
+
+ 
+<상황 468: 항공권 예약> 
+
+ 
+김서얼이 공항에서 항공권 예약에 대해 문의한다. 
+
+ 
+김서얼 : 시카고 경유 뉴욕행 비행기를 예약했으면 합니다. 
+브래드 : 시카고까지 바로 가는 비행기가 있습니다. 그리고 뉴욕까지 지체없이 타고 가실 수 있도록 예약해 드리겠습니다. 
+김서얼 : 시카고에서 며칠이나 머물지 잘 모릅니다. 그러니까 무예약으로 해주십시오. 
+브래드 : 알겠습니다. 무예약으로 해드리겠습니다. 
+김서얼 : 짐은 어떻게 되지요 뉴욕까지 곧장 탁송됩니까 
+브래드 : 아닙니다. 시카고에서 짐을 찾으셨다가 뉴욕행 항공편을 결정하신 뒤에 다시 부치셔야 합니다. 
+
+ 
+항공권 예약할 경우, 얼마나 머무를지 잘 모를때, open을 사용해 다음과 같이 표현한다. 
+
+ 
+I'm not sure how long I'll stay in Chicago. So please leave it open. 
+(시카고에서 얼마동안 머물지 아직 잘 모릅니다. 그러니까 미정으로 [무예약으로] 해두세요 
+여기서 open은 미결정(undecided)한 상태를 말한다. 
+위에서 ‘leave it open은 
+Don't put any flight number or time on the ticket.이란 뜻이다. 
+이와 비슷한 미해결의 뜻으로 open이 쓰이는 경우를 익혀두자. 
+
+ 
+Would you care to leave it open 
+(그 사항은 미정으로 해두시겠습니까) 
+I don't know offhand. Just leave it open. 
+(지금 당장은 모르겠습니다. 그냥 무예약으로 해주십시오) 
+I have an open ticket. Do you have any seats available on the next flight to New York 
+(비행편 번호와 시각이 미정인 항공권을 가지고 있습니다. 차기 뉴욕행 항공편에 좌석이 있습니까) 
+
+
+
+
+Situation 467 Hotel
+Mr. O is telling about his key to hotelkeeper.
+Oh : Oh, excuse me. I did a terrible thing. I left my key in the room.
+Hotelkeeper : No problem, sir. The bellboy will let you in.
+Oh : Oh, what a relief! I thought I wouldn't be able to get back in.
+Hotelkeeper : Well, don't worry about that, sir. The bellboys are always able to get a second room key.
+Oh : I don't know how I could have done such a stupid thing.
+Hotelkeeper: Oh, please think nothing of it. Hotel guests are doing that all the time. 
+상황 467 호텔
+오종수씨가 호텔담당자에게 열쇠에 대해 말하고 있다.
+
+오종수: 실례합니다. 좀 난처한 일이 생겼습니다. 열쇠를 방에 두고 나와버렸습니다.
+담당자:걱정마십시요,손님. 벨보이가 안으로 들어가게 해줄겁니다..
+오종수:아, 정말 안심되는군요. 전 다시는 방으로 못들어가는 줄 알았습니다.
+담당자:그런 점은 걱정 마세요. 항상 벨보이가 여분의 방열쇠를 갖고 있습니다.
+오종수: 내가 왜 그런 멍청한 짓을 한지 모르겠네요.
+담당자:너무 그렇게 자책하지 마세요. 손님분들한테는 그런일이 늘상 있는 일이거든요.
+<어구 해설>
+'깜박 잊고 두고 오는 [가는] 것'은 leave를 써서 표현한다
+I left my key in the room and locked the door.(깜박 잊고 열쇠를 방안에 두고 문을 잠가 버렸습니다.)
+I locked myself out.(실수로 열쇠를 방안에 두고 문을 잠가 버렸습니다.)
+I'm locked out.(문이 잠겨 못 들어가고 있습니다.)
+여기서 lock out은 [(자동 자물쇠가 걸리거나 열쇠를 잃어) 못 들어가게 하다]란 뜻.
+다음 표현을 보며 익혀두자.
+I shut the door of my room behind me and left the key inside.(열쇠를 방안에 둔 채 문을 잠그고 나와 버렸습니다.)
+I locked the door and forgot to take my key with me.(깜박 잊고 열쇠도 안 가지고 나오고 문을 잠가 버렸습니다.)
+
+
+
+
+
+Situation 466 Agreement 
+
+ 
+Mr. Park is in consultation with Mr. Ali. 
+
+ 
+Park : Well, Mr. Ali, I guess we're all in agreement now, aren't we 
+Ali : No, not quite yet. 
+Park : Oh, really Which point do we still differ on 
+Ali : We still haven't settled the question of liability insurance. 
+Park : Oh, don't worry about that. We're fully covered. 
+Ali : Well, if you say so. 
+ Your export manager gave me a different impression, however. 
+
+ 
+상황 466 합의사항 
+
+ 
+박종월은 알리와 상담을 하고 있다. 
+
+ 
+박종월 : 저, 브라운씨, 이젠 모든 점이 합의가 된 것 같군요, 그렇지요 
+알리 : 아니오, 아직 완전히 다는 아닙니다. 
+박종월 : 그래요 어떤 점에서 아직 견해가 다르지요 
+알리 : 손해보험문제를 아직 해결하지 않았습니다. 
+박종월 : 그 점은 염려마세요. 저희가 충분하게 부보했으니까요. 
+알리 : 저, 김 선생님, 그렇게 말씀하시지만, 
+ 귀사 수출부장님의 말씀은 좀 다른 것 같은 인상을 받았습니다. 
+
+ 
+<어구 해설> 
+
+‘…점에 있어서 견해가 다르다’는 differ on을 쓴다. 
+다음과 같이 표현해도 좋다. 
+Which (what) problems are still outstanding (아직 어떤 점들이 미해결입니까) 
+What's the problem (hitch) (무엇이 문제입니까) 
+
+ 
+다음의 관련표현들도 함께 알아두자. 
+He disagreed with me on every topic. 
+(그는 모든 문제에 있어서 나와 의견이 맞지 않았다.) 
+My wife and I differ on the way of managing household finances. 
+(내 아내와 나는 가계예산을 운영해 나가는 방법에 있어서 의견이 맞지 않는다.) 
+
+ 
+
+
+
+
+Situation 465 Telephone3 
+
+ 
+Mr. Yoon is calling to make an injury about the ad in the paper. 
+
+ 
+Julia : Hello, May I help you 
+Yoon : Yes. I'm calling to make an inquary about the ad in the paper. Is the position still open 
+Julia : Yes, it is. 
+Yoon : Can you tell me a little more about it 
+Julia : Sure. The minimum requirements for the job are a good command of English and shorthand. 
+Yoon : I see. That's exactly the type of job I've been looking for. 
+
+ 
+상황 465 : 전화3 
+
+윤민상이 신문에 난 광고를 보고 전화를 하고 있다. 
+
+ 
+줄리아 : 안녕하세요. 무엇을 도와드릴까요 
+윤민상 : 네, 신문에 난 광고에 대해 문의하고자 전화 드렸습니다. 그 자리 아직 있습니까 
+줄리아 : 네, 있어요. 
+윤민상 : 좀 더 자세히 광고에 대해 설명해 주실 수 있습니까 
+줄리아 : 물론이죠. 그 일의 최소 요구 조건은 영어와 속기를 잘해야 하는 것입니다. 
+윤민상 : 알겠습니다. 바로 제가 찾던 타입의 일이군요. 
+
+ 
+<어구 해설> 
+
+ 
+신문 광고를 보고 거기에 응모할 때, 편지글의 경우 이렇게 시작한다. 
+I'd like to answer the ad in the paper.라고 답을 하면 된다. 
+to make an inquiry 대신에 단순히 to ask more about라고 해도 된다. 
+
+ 
+
+ 
+
+ 
+
+Situation 464 Promise 
+
+ 
+Mr. Kang and Mr. Brooks are talking about the golf club. 
+
+ 
+Kang : Mr. Brooks, we missed you the golf club yesterday. 
+Brooks : Yeah, I wish I had gone, but you know, I just couldn't get away. 
+Kang : Always busy. Don't you ever take time out to relax 
+Brooks : I'd love to, but you know how things are. 
+Kang : Yeah, always making money. 
+Brooks : Well, not always. This year was pretty bad, as a matter of fact. 
+
+ 
+상황 464 약속 
+
+ 
+강민창과 브룩스는 골프클럽에 대해서 이야기 하고 있다. 
+
+ 
+강민창 : 브룩스씨, 어제 골프클럽에 안 나오셔서 섭섭했습니다. 
+브룩스 : 예, 저도 가고 싶었어요, 그렇지만 꼼짝할 수가 없었습니다. 
+강민창 : 늘 바쁘신 것 같군요. 김 선생님은 쉬지도 않고 일하세요 
+브룩스 : 저도 그러고 싶습니다만 사정이 어떤지 아시잖아요. 
+강민창 : 그래요, 항상 돈을 잘 버시잖아요. 
+브룩스 : 글쎄요, 꼭 그렇지도 않아요. 실은 올해 경기가 별로 좋지 못했습니다. 
+
+ 
+
+ 
+<어구해설> 
+
+get away는 '떠나다, 외출하다.( go away: leave)' 란 뜻이다. 
+어디에 참석하기로 약속을 해놓고도 불가피한 사정 때문에 참석하지 못하게 된 경우엔 
+
+ 
+다음과 같은 표현을 이용하면 좋다. 
+
+ 
+I wanted to go, but I couldn't make it. 
+(가고 싶었지만 갈 수가 없었어.) 
+I really meant to go, but I got sidetracked. 
+(꼭 갈 생각이었는데 그만 다른 데로 가게 되었어.) 
+
+ 
+
+
+
+
+Situation 463 Discrepancy 
+
+ 
+Mr. Yoon found a discrepancy in figures. 
+
+Yoon : I'm afraid there is a discrepancy in these figures. 
+Matthews : Oh, is there 
+Yoon : Yes, and there is more to it than that. 
+Mattews : Oh! 
+Yoon : This signature is not the same as the last time. 
+ Would you look into this, please 
+Mattews : Certainly. 
+
+ 
+상황 463 착오 
+
+ 
+윤태준은 숫자에 차이가 있는 것을 발견했다. 
+
+ 
+윤태준 : 숫자에 차이가 있는 것 같군요. 
+매 튜 : 아, 그렇습니까 
+윤태준 : 예, 그뿐만이 아닙니다. 
+매 튜 : 그래요 
+윤태준 : 이 서명이 지난번 것과 일치하지 않습니다. 이 서류 좀 검토해 보시겠습니까 
+매 튜 : 예. 
+
+ 
+<어구해설> 
+
+look into는 '...을 들여다보다(direct one's eyes into)'가 그 기본적인 의미인데 
+이 뜻은 나아가 '...을 조사 검토하다(examine)'란 뜻으로 의미가 확장된다. 
+
+ 
+한편 '조사하다'란 뜻은 look into 대신 look over(examine, inspect)나 
+check(점검하다), 해 over(examine thoroughly)를 이용하여 
+
+ 
+Would you check this, please (이것 좀 검토해 주시겠습니까) 
+Would you look this over, please (이것 좀 검토해 주시겠습니까) 
+Would you go over this, please (이것 좀 면밀히 검토해 주시겠습니까) 
+
+ 
+처럼 표현하는 방법도 좋다. 
+
+
+
+Situation 482 Business conditions
+
+A: Mr. Kim, I;m afraid we'll have to put a hold on that second shipment of TVs.
+K: Why What's the problem
+A: Well, there's a glut on the TV market right now.
+K: How long do you think it'll last 
+A: That's anybody's guess.
+K: I see. Well, let me know when things ease off a bit, will you 
+
+상황 482 경기
+
+A: 김 선생님, TV의 2차 선적을 보류해야만 할 것 같군요.
+K: 왜요 무슨 일입니까
+A: 저, 지금 TV 시장이 공급과잉상태라서요.
+K: 그런 상태가 얼마나 오래갈 것 같습니까
+A: 그건 아무도 모르죠.
+K: 알겠습니다. 사정이 조금이라도 풀리면 알려주시겠습니까
+
+<어구 연구>
+
+미국의 color TV 시장이 공급과잉현상(glut)을 보이자 Mr. Brown은 선적을 좀 보류해 줄 것을 제의한다. 그러자 대한상사의 Mr. Kim은,
+
+How long do you think it'll last (그런 현상이 얼마나 오래갈 것 같습니까)
+
+여기서 last는 '최후의'란 뜻 외에 '계속하다' , '오래가다'란 뜻도 있다. 따라서 다음과 같은 표현도 가능하다.
+
+How long do you think it'll go on[continue]
+When do you think it'll let up (그런 현상이 언제 끝나겠습니까)
+Do you see any end in sight ((공급과잉현상이) 끝날 것 같습니까
+
+
+
+
+
+
+
+
+
+
+
+Situation 481 A catalog
+
+Mr.Hong : I'd like to know more about your products.
+ Mr.Gil: We appreciate your interest. I have some catalogs I'd like you to look at.
+Mr.Hong : Thank you. Do these cover complete product line
+Mr.Gil : Yes. everything we export is included.
+Mr.Hong : Are the prices up-to-date
+Mr.Gil : Yes, but they're scheduled to be revised at the end of the year.
+Mr.Hong : Do you have any samples with you
+Mr.Gil : No, I'm afraid I don't, but we can get them to you immediately.
+Mr.Hong : Good. Let us look over the catalogs. We'll get in touch with you soon 
+
+상황 481 상품소개
+
+홍민규 : 귀사 제품에 대해서 좀더 알고 싶습니다.
+ 길수인: 관심을 가져 주시니 고맙습니다. 보여드릴 카탈로그가 몇 가 지 있는데요.
+홍민규 : 고맙습니다. 여기에 귀사의 전품목이 다 나와 있습니까
+길수인 : 예, 저희가 수출하는 품목은 모두 포함되어 있습니다.
+홍민규 : 가격은 최근의 것인가요
+길수인 : 예, 그런데 연말경에 변경이 될 예정입니다.
+홍민규 : 견본이 좀 있습니까
+길수인 : 없는데요, 하지만 곧 보내드릴 수는 있습니다.
+홍민규 :좋습니다. 카탈로그를 좀 살펴본 다음 곧 연락을 드리겠습니 
+
+<어구 연구>
+
+카탈로그를 내놓았을 때, 그 속에 상품이 다 들어 있습니까 라고 묻는건 다음과 같이 한다.
+
+Do these cover your complete product line 
+
+이때의 cover은 포함하다란 뜻이고, 다음과 같이 표현해도 같은 뜻이 된다.
+
+Do these cover everything you have
+
+Do these include all your products
+
+
+
+
+
+
+
+Situation 480 Coffee 
+
+ 
+Mr.Kim : Please have a seat. Mr. Lee will be here soon. 
+Mr.Brown: Thank you. 
+Mr.Kim : I'll order some coffee. 
+Mr.Brown: I'd like mine black, please. 
+Mr.Kim : I'll call and tell her. 
+Mr.Brown: Why do all the people here assume I want cream and sugar in my coffee 
+Mr.Kim : That's how we all drink it. 
+Mr.Brown: I'm trying to lose weight. Sugar is fattening. 
+Mr.Kim : Well, she can bring it black for you. 
+
+ 
+상황 480 음료수 
+
+ 
+김이라 : 앉으세요. 이 전무님은 곧 오실 겁니다. 
+브라운: 고맙습니다. 
+김이라 : 커피를 시켜야겠군요. 
+브라운: 전 블랙으로 마시겠습니다. 
+김이라 : 그럼 전화로 아가씨한테 얘길 하지요. 
+브라운: 왜 여기 사람들은 모두 커피라면 으레 크림과 설탕을 타서 마시는 것으로 생각하는 거지요 
+김이라 : 저희들 모두가 다 그렇게 해서 마시거든요. 
+브라운: 체중을 줄이려 하는데, 설탕을 먹으면 살이 찌거든 요. 
+김이라 : 저, 블랙으로 타 올 수도 있습니다. 
+
+ 
+<어구 연구> 
+
+ 
+커피를 시킬때는 상대방에게 반드시 다음과 같이 물어봐야 한다. 
+
+ 
+How do you like it (어떻게 해서 마시겠습니까) 
+또는 
+Do you take cream and sugar with your coffee 로 묻는다. 
+
+ 
+그리고, 커피 마시는 스타일이 같을 경우, 다음과 같이 표현한다. 
+
+ 
+That's how we all drink it. 
+That's the way we enjoy it. 
+
+ 
+
+ 
+
+
+
+Situation 479 Money changing
+
+Mr. Cha wants money changing.
+
+ Cha: Excuse me, can you cash this traveller's check for me
+George: Yes, sir, do you have any ID
+Cha : ID I'm sorry. I don't understand. What do you mean by ID
+ George: Identification. Driver's license, for example, will do
+Cha : I'm sorry. I don't have a driver's license. How about my passport
+George: That'll be fine, sir. 
+
+상황 479 환전
+
+차두리는 환전을 하고자 한다.
+
+ 차두리: 실례합니다. 이 여행자수표를 현금으로 좀 바꿔주시겠습니까
+조지 : 예, ID가지고 계세요
+차두리 : ID요 미안하지만 무슨 말씀인지 모르겠는데요. ID가 뭐지요
+조지 : 신분증이요. 가령 운전면허증 같은 것도 됩니다.
+차두리 : 죄송합니다. 운전면허증이 없는데요. 여권은 안 될까요
+조지 : 그것이면 됩니다. 
+
+<어구 연구>
+
+여행자 수표를 현금으로 바꿀 때, 
+
+Excuse me, Can you cash this traveller's check for me
+
+라고 표현할 수 있으며 같은 표현으로는
+
+Can I cash this traveller's check here
+
+Where can I get this check cashed
+
+이다. 관련표현도 알아두자.
+
+Can I pay by traveller's check
+(여행자수표로 지급해도 됩니까)
+
+Can I use this credit card here
+(여기서 이 신용카드의 사용이 가능합니까)
+
+Please endorse this check.
+(이 수표에 이서를 해주십시오.)
+
+
+
+
+Situation 478 Introduction
+
+Miss Lee puts Mr. Kim in touch with some new people owing to business.
+
+
+Miss Lee: Mr. Kim we're in the market for a good supplier of PVC. Does your firm handle that material
+Mr.Kim : No, but I think I can put you in touch with some new people.
+Miss Lee: Good, but remember, the quality's got to be good, the price reasonable, and the supply dependable.
+Mr.Kim : Leave it to me, Mr. Brown. I've got just the outfit you're looking for.
+Miss Lee: Great. I'll leave it in your hands.
+Mr.Kim : Sure. Don't worry. You can always count on me. 
+
+상황 478 소개
+
+이상미가 일과 관련해, 새로운 사람을 소개한다.
+
+이상미: 김 선생님, 저희는 PVC 제품에 대한 훌륭한 공급업체 를 찾고 있습니다. 귀사도 그 제품을 취급하십니까
+김홍일 : 아니오, 하지만 다른 업체를 소개해 드릴 수는 있습니 다.
+이상미: 좋습니다. 그렇지만 품질이 좋고, 가격이 저렴하며, 공 급을 확실하게 해줄 수 있는 회사여야 한다는 점을 염두에 두셔야 합니다.
+김홍일 : 제게 맡기세요, 브라운씨. 귀사가 찾고 있는 그런 회사 를 알고 있으니까요.
+이상미: 좋습니다. 선생님께 맡기겠습니다.
+김홍일 : 예, 염려 마세요. 항상 저를 믿으세요. 
+
+<어구 연구>
+
+ put은 "(...한 상태로) 되게 하다"란 뜻 이고,
+ in touch with는 "...와 접촉[연락]하여"란 뜻이다.
+ 따라서 put you in touch with some new people은 "당신이 다른 사람들과 접촉 상태가 되게하다"란 뜻이 된다.
+
+같은 뜻을 가진 표현은
+
+I think I can introduce some new people [companies] to you. (새로운 사람[회사]들을 소개해 드릴 수 있을 겁니다.)
+I think I can have you contact some new people. (새로운 사람들과 만나실 수 있게 해드릴 수 있을 겁니다.) 
+I think I can give you the names of some companies which handle that. (그 제품을 취급하는 회사들의 이름을 알려드릴 수 있을 겁니 다.)
+
+
+
+
+
+
+
+Situation 477 Shopping
+
+Mr, Hwang asks a big favor of Mr. Lee. 
+
+ Hwang: Mr.Lee, could I ask you a big favor
+Lee : Sure, anything you like.
+Hwang : I promised my daughter I'd get her a smoky topaz ring while I'm here.
+Lee: Oh, yeah, I know what you mean. I'll be gald to pick up one for you.
+Hwang : Gee, thanks a million. I know she'll appreciate it.
+Lee : That's all right. Any time. 
+
+상황 477 쇼핑
+
+황순귀가 이민우에게 부탁을 한다.
+
+ 황순귀: 이 선생님, 어려운 부탁 한 가지 드려도 되겠어요
+ 이민우: 물론이죠. 선생님께서 원하는 것이라면 무엇이든 해드려야죠.
+황순귀 : 한국에 나온 김에 딸아이에게 연수정 반지를 하나 사다 주겠다고 약속을 했거든요.
+ 이민우: 아, 예, 그러시군요. 제가 하나 사다 드릴게요.
+황순귀 : 이거, 정말 고맙습니다. 제 딸이 고마워할 거예요.
+ 이민우: 아니에요. 언제든지 또 부탁하세요
+
+<어구 연구>
+
+황순귀가 부탁했을 때, 이민우가 한 말은 다음과 같다.
+
+That's all right. Any time.
+(천만에요. 언제든지 또 부탁해요.)
+
+이 외에 같은 뜻을 가진 어구로는
+
+Think nothing of it.
+(<상대방으로부터 감사나 사과의 말을 듣고 나서> 천만에요, 뭘요; 괜찮습니다.)
+The pleasure's (all) mine.
+(<상대방의 감사하다는 말에 대해> 별말씀을요. 오히려 제가 기쁩니다.)
+
+이 있다. 미묘한 의미차이가 있기 때문에 상황에 맞게 사용해야 한다.
+
+
+
+
+
+Situation 476 A company guidance
+
+Mr. Kim is looking for Mr. Lee's office.
+
+Sam: Good morning, sir. May I help you 
+Kim: Yes, please, I have a ten-thirty appointment with Mr. Lee. 
+Sam: Oh, are you Mr. Kim 
+Kim: That's right. 
+Sam: Fine. Please take the elevator to the fifth floor. After you get off, his room is the first one immediately to your right. 
+Kim: Oh, I see. Thank you very much. 
+Sam: You are welcome. 
+
+
+상황 476 회사 안내
+
+
+샘: 안녕하세요 뭘 도와드릴까요 
+김종관: 예, 이 전무님과 10시 30분에 약속이 있습니다. 
+샘: 아, 김종관씨세요 
+김종관: 그렇습니다. 
+샘: 예, 엘리베이터를 타고 5층으로 올라가세요. 내리셨을 때 우측 제일 첫 번째 방이 이 전무님 방입니다. 
+김종관: 예, 알겠습니다. 대단히 고맙습니다. 
+샘: 천만에요. 
+
+<어구 연구>
+
+건물 층 안내와 관계된 표현을 익혀두자.
+
+The office is on the fifth floor. (그 사무실은 5층에 있습니다.)
+Please take the elevator down to the third floor. (승강기를 타고 3층으로 내려가세요.)
+Get off the elevator at the fifth floor. (5층에서 승강기를 내리세요.)
+This elevator doesn't stop at the third floor. (이 승강기는 3층에 서지 않습니다.)
+This elevator only stops at even number floors. (이 승강기는 짝수 층에만 섭니다.)
+
+
+
+
+
+Situation 475 Hotel
+
+Mr. hong signs the slip to pay a hotel charge at hotel before he leaves.
+
+Kam : How do you intend to pay your hotel bill, Mr. Hong
+Hong: I'm going to use a credit card.
+Kam : Okay, is it an international card
+Hong : I have an American Express Card. Will that be OK
+Kam : That will be fine. May I have it now
+Hong : Here you are.
+Kam : We'll make out the slip now, and fill out the charges when you leave.
+Hong : Fine. 
+
+상황 475 호텔
+
+홍신의가 호텔을 나오기전 호텔숙박료를 지불하기위해 신용카드전표에 사인한다.
+
+
+감유인 : 홍 선생님, 호텔 숙박비를 어떻게 지불하실 겁니까
+홍신희 : 신용카드로 지불할 생각입니다.
+감유인 : 좋습니다. 국제적으로 쓸 수 있는 카드인가요
+홍신의 : 아메리칸 익스프레스 카드를 갖고 있는데 되겠습니까
+감유인 : 됩니다. 지금 좀 주시겠습니까
+홍신의 : 여기 있습니다.
+감유인 : 전표는 지금 작성해 드리고 비용은 체크아웃하실 때 기입해 드리죠.
+홍신의 : 좋습니다. 
+
+<어구 연구>
+호텔비를 credit card로 낸다고 했을 때, 호텔 직원은
+
+We'll make out the slip.
+(저희가 전표를 작성해 드리죠.)
+
+라고 응답한다.
+여기서 make out은 fill out과 거의 같은 뜻이나, 
+fill out은 여백을 남김없이 메꾸다의 의미가 강하다. 반면
+make out은 '서류를 작성하여(make) 내다(out)' 즉 여백을 다 메우고 나면 하나의 문서가 된다는 뉘앙스가 강하다. 다음의 표현은 같은 뜻을 가진 것이다.
+
+We'll fill out the slip.
+We'll take care of the slip.
+
+인감증명을 신청할 때 쓰는 작은 종이쪽지도 slip이고, 도서관의 대출신청서 양식도 slip이라고 부른다.
+
+
+When you check out some books from the library, you have to make out a slip.
+(도서관에서 책을 대출받으려면　대출신청서를 작성해야 한다.)
+
+
+Situation 474 Restaurant
+
+Mr. Kil is eating a supper at a restaurant. 
+
+Kil : Oh, waiter! Could I see you for just a moment
+Waiter : Yes, sir. Anything I can do for youKil : Yes, I'm afraid we have a problem here.
+Waiter : Oh, is there something wrong with the ham
+Kil : No, but this is not what we asked for, I'm afraid.
+Waiter : Oh, good heavens, please excuse me. I must have gotten the orders mixed up. 
+
+상황 474 식당
+
+길용민이 식당에서 저녁을 먹고 있다.
+
+길용민 : 웨이터! 잠깐만요
+웨이터 : 예, 손님. 뭐 도와드릴 것 있나요
+길용민 : 예, 여기 뭔가 좀 잘못된 거 같아서요.
+웨이터 : 아, 햄에 뭐 잘못된 거라도 있습니까
+ 길용민: 아뇨, 그게 아니라, 이건 우리가 주문한 음식이 아닌 것 같은데요.
+웨이터 : 오, 맙소사, 죄송합니다. 제가 다른 주문과 혼동을 한 모양입니다. 
+
+<어구 연구>
+
+식당에서 주문한 음식이 잘못나왔을때, 다음과 같이 표현하기도 한다.
+
+I don't ask for this.
+I didn't order this.
+(저는 이걸 시키지 않았는데요.)
+
+I'm afraid this is someone else's order.
+(이건 다른 분이 시킨 것이 아닌가 싶습니다.)
+
+You brought the wrong order.
+(주문을 잘못 가지고 오신 것 같습니다
+
+
+
+
+Situation 473 A Paid holiday
+
+Mr. U has a conversation with his friend about a paid holiday. 
+
+U: I don't mind working 44 hours or even 48 a week, but I wish I could take a longer leave of absence when I want. 
+Lee: How many paid holidays do you get a year
+U:Theoretically we are allowed to take three weeks, but actually we can't even take three days in a row.
+Lee: It'[s the same with us.
+
+상황 473 유급휴가
+
+유유민이 친구랑 유급휴가에 대해 얘기한다.
+
+유유민: 난 일주일에 44시간을 일하든, 48시간을 상관없지만, 내가 쉬고 싶을때 좀 더 많이 쉬었음 좋겠어.
+이진우:일년에 유급휴가 며칠 쓸 수 있어
+유유민: 이론적으로는 3주를 쓸 수 있는데, 실제론 한번에 3일도 낼 수 없어.
+이진우: 우리랑 같네.휴~
+
+<어구 연구>
+
+유급휴가는 일년에 며칠이냐를 물을 때, get 을 씀을 주의하라.
+Holiday는 영국에서는 일반적으로 휴가란 의미를 나타내나, 미국에서는 축제일, 공휴일로 쓰인다. 미국에서 쓰이는 일반적 휴가는 vacation.dlek. 
+보통 때, 일 쉬는 것은 a day off이다.
+
+
+Situation 492 A marriage
+
+Hong : Are you doing anything in particular this coming weekend 
+Han : Yes, I have to attend a wedding. 
+Hong : Who's getting married 
+Han : I hear Tom and Mary are tying the knot. 
+Hong : Finally! It's about time. 
+Han : Yes, they've been dating for quite some time. 
+ 
+
+ 상황492 결혼
+
+홍수현 : 이번 주말에 특별히 뭐 하는 일 있어요 
+한석규 : 네, 결혼식에 참석해야 해요. 
+홍수현 : 누가 결혼하는데요 
+한석규 : 톰과 메리가 결혼한다고 들었습니다. 
+홍수현 : 마침내 결혼하는군요! 
+한석규 : 네, 상당히 오랫동안 연애를 했지요. 
+
+<어구연구>
+
+"그들이 결혼한다고 들었어요. " 를 
+영어로는 "I hear they are tying the knot." 라고 한다. 여기서 'knot' 는 
+매듭이란 의미며, 'tie the knot' 는 '끈으로 묶다' 즉 '결혼하다' 는 표현으로 
+'get married' 와 같은 뜻이다. 
+ 
+I hear they are tying the knot.Isn't it surprising
+(그들이 결혼한다면서요. 놀랍지 않습니까) 
+
+"I hear they are tying the knot." 와 비슷한 표현에 
+
+I hear they're are getting married.
+
+I hear they are to be wed.
+
+
+
+
+
+
+Situation 491 Call
+
+Mr.Lee : After we advertised our product on TV calls have been pouring in. 
+Miss Nam: You must be doing good business! 
+Mr. Lee : But we can't do any other work. 
+Miss Nam: You're making money, though. 
+Mr.Nam : There're a limited number of products but people still call to buy them. 
+Mr. Lee: In that case it does interrupt your other office work. 
+
+
+상황 491 전화
+
+이진우 : 텔레비젼에 상품광고가 나간 후 전화가 빗발치듯 걸려오고 있어요. 
+남수현 : 장사가 잘 되겠군요. 
+이진우 : 하지만 다른일을 할수가 없어요. 
+남수현 : 그래도 돈을 벌쟎아요. 
+이진우 : 상품은 한정되어 있는데 아직도 구입하려는 사람들이 전화를 해요. 
+남수현 : 그렇다면 다른 업무에 지장이 있겠군요. 
+
+<어구연구>
+
+사업이 잘돼 전화가 빗발치듯 걸려오네요.
+
+다른 표현으로
+
+"Calls are coming torrents." 
+
+ "Calls are flooding in"
+
+가 있습니다.
+
+이런 표현을 평소에도 외우고 다니면 정말 사업이 잘되겠죠
+
+
+
+
+
+
+
+Situation 490 Person
+
+A : Hello. Electric Repair.
+B : Yes. I brought an electric typewriter in yesterday. 
+ My name is zirokim.
+A : Oh, yes,Mr. Kim. I remember.
+B : Are you the same person I talked to yesterday
+A : Yes, I am.
+B : Well, I was wondering if you could put a rush on 
+ my typewriter. I need it by the weekend. 
+
+
+상황 490 사람
+
+A : 여보세요. 전자제품 수선소입니다.
+B : 네, 어제 타지기 1대를 가져갔던 사림입니다. 김지로 입니다.
+A : 아, 네, 김씨. 기억이 납니다.
+B : 어제 저와 말씀을 나누었던 분입니까
+A : 네, 그렇습니다.
+B : 저, 제 타자기를 좀 빨리 고쳐 주실 수 없을까 해서요. 
+ 주말까지는 써야 되기 때문에 그렇습니다. 
+
+<어구연구>
+
+어제 통화를 한 사람을 모를때, 다음과 같이 표현한다
+
+Are you the same person that I talked to about ××× matter yesterday
+(선생님이 어제 ××× 문제에 대하여 저와 통화를 하셨던 분인 가요)
+
+
+어제말고 조금전이란 표현은 a while ago이다
+
+관련표현을 알아두자
+
+Did I talk to you yesterday 
+(어제 저와 통화를 하셨던 분이지요)
+Aren't you the one I spoke with last time 
+(지난번 저와 통화를 하셨던 분이 아닙니까)
+Are you the one I talked to a while ago 
+(조금 전에 저와 통화를 하셨던 분이죠)
+
+
+
+
+
+Situation 489 Boss
+
+Oh : You look depressed today. What's the matter. 
+Patty : I feel terrible today. 
+Oh : Tell me why 
+Patty : I want to find a new job. Working with my boss is too stressful. 
+Oh : Really I thought your boss was cool. 
+Patty : No. Actually, he is hot-tempered. 
+
+상황 489 상사
+
+
+오수현 : 오늘 침울해 보이는 구나. 무슨일이니 
+패티 : 오늘 기분이 엉망이야. 
+오수현 : 이유를 말해봐. 
+패티 : 새 직장을 찾고 싶어. 상사와 일하는게 너무 힘들어. 
+오수현 : 그래 너희 상사가 멋진분이라고 생각했는데.. 
+패티 : 아니야. 사실은 성미가 급해. 
+
+<어구 연구>
+
+My boss is hot-tempered.는 비슷한 표현으로
+
+ "He flies off the handle too easily"
+ 
+"He's a quick temper"
+ 
+"He's always a volcano about to erupt' 등이 있다. 세번째 표현은 화산이 분출하는 것같다는 표현에서 "불같은 성미"의 소유자일 때, 이렇게 말할 수 있다.
+
+
+
+
+
+
+
+Situation 488 Depatrment 2
+
+Miss Park: Good morning. May I help you
+Mr. Pakr: Yes, Is this the Internaional Department
+Miss. Park: Yes, it is.
+Mr. Park: Could I see the general manager, please
+Miss Park: Did you make an appoinment
+
+
+상황 488 부서2
+
+박선영: 안녕하세요 어떻게 오셨습니까
+박도권: 여기가 국제부 맞습니까
+박선영: 그렇습니다.
+박도권: 담당 부장님을 뵐수 있을까요
+박선영: 약속은 하셨습니까
+
+<어구 연구>
+
+회사로 찾아와서 약속된 사람을 만날때, 손님을 기다리게 해야하는 경우 다음과 같은 표현을 쓴다.
+
+Would you mind waiting for a while(잠시만 기다려 주시겠습니까)
+
+Please wait in the lounge for a moment.
+(라운지에서 잠시 기다려 주십시요)
+Pleast take a seat over there and wait for a moment.
+( 저쪽에 앉으셔서 잠시만 기다려 주십시요)
+
+
+
+
+
+Situation 487 Salary
+
+Mr. Han: Mr. Black, I have something to talk with you about.
+Mr. Black: Yes, what is it
+Mr. Han: In these days of rising costs, it is not easy to live on a shoe-stringbudget, and....
+Mr. Black:You don't have to beat around the bush, just say it.
+Mr. Han: Well, can you give me a raise, Mr. Black
+
+상황 487 봉급
+
+한영민: 블랙씨, 드릴 말씀이 있습니다.
+블랙: 네, 그게 뭔데요
+한영민: 요즘처럼 물가가 계속 오르니 적은 생활비로 살아가는 게쉽지 않습니다. 그래서...
+블랙: 머뭇거리지 말고 요점을 말하세요.
+한영민: 저, 봉급을 올려주시면 안될까요
+
+<어구연구>
+
+봉급을 올려달라는 표현은 단도직입적으로 표현하기가 힘들다. 
+그럴 경우, 다음과 같이 표현한다.
+
+I wonder if you could give me a raise.
+
+I'd appreciate it greatly if you'd give me a raise.
+
+급여가 인상되었다는 표현은
+
+I had a raise in salary
+
+I got a raise.
+
+라고 한다.
+
+
+
+
+
+
+
+Situation 486 Depatrment
+
+Miss Yoon: Are you still with K & C co., Ltd
+Miss U : Yes, I am. Why
+Miss Yoon: I called yur office the other day, and the man who answerd the phone said there was no such person there.
+Miss U: That's probably because I've been transferred. 
+I'm in the sales department and my office is in an annex.
+Pleast drop by when you can come out this way.
+
+상황 486 소속부서
+
+윤연화: 아직 케이 애드 씨 주식회사에 계시죠
+유정주: 네, 왜 그러시죠
+윤연화: 전날 사무실에 전화했는데, 전화받은 사람이 그런 사람 없다고 하더라구
+요.
+유정주: 아, 그건 아마 제가 자리를 옮겼기 때문일거에요.
+전 판매부서에 있는데, 사무실이 별관에 있거든요.
+이쪽으로 오시는 길에 들러주세요.
+
+<어구 연구>
+
+~에 있습니다란 소속을 말할때,
+
+[I'm in~]으로 표현한다. 
+
+여러가지 부서명을 알아두자.
+
+총무부: the managing department
+인사부: the personnel department
+편집부:the editing department
+광고부:the publicity department
+
+
+
+
+
+Situation 485 A plant guide
+
+Mr. Han: Is your plant near here
+Mr.Jang: Yes, it's within walking distance. Let me show you around it now.
+Mr. Han: Oh, thank you.
+Mr. Jang: I's like you to meet Mr. Park, head of the plant.
+If you have any ntechnical questions, please ask him.
+
+상황 485 공장 안내
+
+한창인: 운영하는 공장이 여기서 가깝나요
+장민국: 네, 걸어서 충분히 갈 수 있는 거립니다.
+자, 공장을 한번 둘러볼까요
+한창인: 네, 감사합니다.
+장민국: 공장장인 미스터 박 한번 만나보시죠.
+혹 기술적인면에 의문이 있으면 그분한테 물어보시면 됩니다.
+
+<어구연구>
+
+plant는 식물이라는 뜻 외에 공장, 설비시설의 의미를 가지고 있다. 위에서는 이런 뜻으로 쓰였다.
+
+한번 둘러볼까요는
+
+Let me show you around plant. 인데, 집안을 보여줄때는 
+
+Let me show you around my house. 
+
+이다. [~로 모시고 가겠습니다.]는
+
+Let me take you to~
+
+로 표현한다.
+
+
+
+
+
+Situation 484 A business talk
+
+Mr.Brown: Can you get this machine to start working
+Mr.Kim : Certainly, sir. All you have to do is plug it in like this and then regulate it.
+Mr.Brown: It looks like it's doing a good job.
+Mr.Kim : Yes, sir. Would you like to try it yourself The actual weight of this electric fan is only two and a half pounds.
+Mr.Brown: Sounds lighter than most other makes.
+Mr.Kim : Much lighter, and for exporting, it's the ideal electric fan. 
+
+상황 484 비즈니스 상담
+
+Mr.Brown: 이 기계를 좀 작동시켜 봐 주시겠습니까
+Mr.Kim : 알겠습니다. 이렇게 플러그를 끼운 다음 조절만 해주 면 됩니다.
+Mr.Brown: 성능이 괜찮은 것 같군요.
+Mr.Kim : 그렇습니다. 직접 한 번 작동해 보시겠어요 이 선풍기 의 실제 무게는 2.5파운드밖에 안 됩니다.
+Mr.Brown: 대부분의 다른 제품들보다 더 가벼운 것 같군요.
+Mr.Kim : 훨씬 가볍습니다. 수출하는 데 있어선 이상적인 선풍기 지요. 
+
+<어구 연구>
+
+All you have to do is plug it in like this and regulate it. (플러그를 이렇게 끼운 다음 조절만 해주면 됩니다.)
+
+란 표현에서 쓰인 get은 "...하게 하다(cause), (어 떤 장소, 상태 따위에) 이르게 하다(put into a place or state)"란 뜻이다.
+
+Can you get this machine going (이 기계를 좀 작동시켜 봐 주시겠습니까)
+
+이런 get은 사용하던 것이 고장났을 때나 자신의 힘으로 작동시키 지 못했을 때 쓰면 적당하다. 그렇지 않은 경우에는,
+
+Can you start this machine (이 기계를 좀 작동시켜 봐 주시겠습니까)
+
+처럼 get을 쓰지 않는 것이 보통이다. 그러나 이것은 일반적인 원 칙일 뿐이며 사실은 같은 뜻으로 쓰일 때도 많다. 
+
+
+
+
+
+
+
+Situation 483 A break
+
+Mr. Choi: Oh, there's still an overwhelming amount of work to do.
+Mr. Lee: There sure is. Look at this stack of files to sort out.
+Mr. Choi: Shall we take a break for a while now
+Mr. Lee: No, let's not. Otherwise we won't be able to get through this today.
+Mr. Choi: You may be right.
+
+상황 483 휴식
+
+최태민: 아, 해야할 일이 아직도 산더미야.
+이수윤: 확실히 그래. 분류해야할 서류철 더미 좀 봐.
+최태민: 잠시 쉴까
+이수윤: 아니, 쉬면, 오늘 내로 일 끝낼 수 없어.
+최태민: 그래, 맞어..
+
+
+<어구 연구>
+
+[잠시 쉴까요] 나 [자 휴식합시다]는 관용표현이다. 
+
+to take a break란 관용구는 외워두자. 
+
+Shall we take a coffee break [커피라도 마시면서 쉴까요]
+
+란 표현도 알아두자.
+
+Situation 502 Main business
+
+Rew: Is hat all you wanted to see me about
+Ahn:No, not quite. Now let me got down to the main business.
+Rew: O.K
+Ahn: The board of directors finally agreed to set up an overseas office in 
+New York.
+Rew: Oh, did it
+Ahn: And they wanted me to ask if you are still interested in working abroad.
+
+상황 502 본론
+
+류시인:그게 절 보자고 한 이유인가요
+안혜정: 아닙니다. 이제 본론에 들어갑시다
+류시인: 좋아요.
+안혜정: 이사회(중역회)는 결국 뉴욕에 해외 지사를 설립하기로 의견이 모았습니
+다.
+류시인:그렇습니까
+안혜정: 그리고 그쪽에서 당신이 아직도 해외에서 근무하고 싶어하는지 
+물어보라는군요.
+
+<어구 연구>
+
+자, 본론에 들어갑시다, 또는 중요한 내용을 언급하겠습니다.
+로 용건을 꺼낼 경우에 
+
+Let me get down to the main business.
+
+로 표현한다.
+
+이외 관용적 표현으로
+
+Let's get down to brass tacks.
+
+Let's get back to talk about~.
+
+Let's get back to the main business.
+
+도 좋다.
+
+
+Situation 501 Main products
+
+Seong: Besides musical instruments, what else do you produce
+Park: Well, we manufacture furniture, motorbikes, skies and other sporting goods.
+Seong: What are you main products among those
+Park: They used to be motorbikes, but now skis and other sporting goods are
+ replacing them. I would put skis at the top of the list.
+
+상황 501 주력 상품
+
+성지윤: 악기 외에 또 무슨 상품을 생산합니까
+박오룡: 가구, 오토바이, 스키 , 그리고 시타 운동 용품 제조합니다.
+성지윤: 그 중 주된 상품은 무엇이죠
+박오룡: 예전엔 오토바이였는데, 지금은 스키과 다른 운동기구를 대신 생산
+합니다. 그 중 전 스키를 첫째로 꼽고 싶습니다.
+
+<어구연구>
+
+회사 주력 상품은 무엇입니까 의 표현은 
+
+What are your major products
+
+도 가능하다.
+
+기계류의 경우
+
+What are your main models
+
+주력 상품이 아닐 경우, marginal products 또는 minor products라고 한다.
+
+
+
+
+Situation 500 Things
+
+Kim: We're getting a raise. 
+Kim: But prices have increased, too. 
+Kim: One-third of my salary goes to taxes. 
+Kim: I know that's the way it goes. 
+
+상황 500 세상일
+
+김진우: 월급이 오른데요. 
+김수현: 그렇지만 물가도 상승했잖아요. 
+김진우: 내 월급의 3분의 1이 세금으로 나가요. 
+김수현: 알아요. 세상 일이 다 그런거죠, 뭐
+
+<어구연구>
+
+이와 비슷한 표현으로 
+
+That's the way the cookie crumbles, 
+That's the way the ball bounces. 
+
+ That is too bad. Those things happen.의 뜻을 가진다.
+Ex. Charlie wrecked his car and then lost his job. 
+That's the way the cookie crumbles. 
+(챨리는 차를 망가뜨리고 또 직장도 잃었어. 참 안됐어.) 
+
+
+
+
+
+Situation 499 Phone
+
+Gang: Hello. ABC Company. May I help you 
+Yun: Is this the export department
+ I'd like to order 500 dozen men's leather jacket. 
+Gang: I'm sorry, but you have the wrong department.
+ Leather jacket department is 763-1096. 
+Yun: Oh, I see. Who should I ask for 
+Gang: Probably Mr. Kim. He's the manager. 
+
+상황 499 전화
+
+강원민: 여보세요. ABC 상사입니다. 무슨 일이십니까 
+윤지원: 거기 수출부입니까 
+ 남성용 가죽재킷 500타스를 주문하려고 하는데요. 
+강원민: 죄송하지만, 부서를 잘못 찾으셨군요. 
+ 가죽재킷 부서는 763-1096입니다. 
+윤지원: 알겠습니다. 누굴 찾으면 됩니까 
+강원민: 아마 김부장님을 찾으시면 될 거예요. 
+
+<어구연구>
+
+어느 분을 찾아야 하지요 란 표현은 
+
+Who should I ask for 
+
+라고 한다. 관련 표현을 알아두자.
+
+Who can help me out (누가 이 문제를 도와줄 수 있지요)
+Who should I talk to (어느 분과 얘기를 해야 합니까)
+Who'd be the best person to talk to (어느 분과 상담을 하는 것이 제일 좋지요)
+
+
+
+
+
+
+Situation 498 Things 
+
+Kim : How's everything these days  
+Moung : So-so. We're just managing. 
+Kim : Most of us are going through hardship. 
+Moung : For sure. We have to work even harder. 
+Kim : But you're doing fine. What's the worry  
+Moung : I guess you could say that. Things are coming along. 
+
+상황 498 일
+
+김진우 : 요즘 어떻게 지내세요 
+명세빈 : 그저 그래요. 근근히 생활하고 있어요. 
+김진우 : 우리 대부분이 어려움을 겪고 있죠. 
+명세빈 : 맞아요. 우리는 더욱 열심히 일해야만 해요. 
+김진우 : 하지만 잘 하고 계시는데 무엇이 걱정입니까 
+명세빈 : 하긴 그렇군요. 일이 차차 나아지고 있어요
+
+<어구 연구>
+Things are coming along.
+
+여기서 Things는 모든것을 의미하고, coming along는 일이 순조롭게 된다는 숙어입니다. 그러니까 모든일이 좋아지고 있다는 뜻을 가지고 있죠. 이와 비슷한 표현으로는
+ 
+Things are improving.
+
+Things are looking up.
+
+등이 있습니다. 
+
+
+
+
+
+
+Situation 497 Meeting
+
+Go: I'm afraid the decision does not rest with me.
+Lee: I see. Who am I supposed to contact for getting a final decision on this matter, then
+Go: Theoretically Mr. Collin, chairman of the board, but practically it seems that Mr. Shreider has the last say.
+Lee: Could you arrange a meeting with him
+Go: Yes, of course.
+
+상황 497 만남
+
+고한수: 안됐습니다만, 그 결정은 제 관할이 아닙니다.
+이인재: 알겠습니다. 그러면 최종결정을 위해 누구를 만나면 됩니까
+고한수: 콜린스씨가 담당이라 되어있지만, 실질적으로 슈라이더씨께서 
+최종결정을 하시는 것 같습니다.
+이인재:그분과 만날 수 있도록 주선해 주시겠습니까
+고한수: 네 그러죠.
+
+<어구연구>
+
+"누가 최종 결정을 내립니까" 의 다른 표현은 
+
+Who do I meet for getting a final decision
+
+Who do I meet for this matter
+
+Who do I meet to inquire about this
+
+이다. 
+
+
+
+
+
+Situation 496 Absence
+
+Lim : Hello
+ Gong: Is Mr. Wilson in yet
+Lum : No, Miss Lee. He hasn't come back yet.
+Gong : Oh, I am really sorry to keep bothering you.
+Lim : That's all right. He's hard to track down.
+Gong : Well, please have him call me, so I won't have to interrupt you again.
+
+상황 496 부재
+
+임재경 : 여보세요.
+ 공효민: 윌슨씨 아직 안들어 오셨습니까
+임재경: 아직 안들어 오셨는데요.
+공효민 : 이렇게 자꾸 귀찮게 해 드려서 죄송합니다.
+임재경 : 괜찮습니다. 어디 계시는지 알아낼 수가 없군요.
+공효민 : 저, 들어오시는대로 제게 전화 좀 해 달라고 전해주십시오. 
+ 그러면 제가 다시 귀찮게 해 드리지 않아도 될테니까요.
+
+<어구연구>
+
+"아직 안들어 왔는데요" 라는 표현은 부정의 표현으로 할 수도 있지만,
+가급적 긍정문 형식으로 표현한다.
+
+Didn't Mr. Wilson come in yet->Is Mr. Wilson in yet
+Has Mr. Wilson returned yet 
+
+더 정중한 표현은
+
+I'm sorry to bother you again, 
+but has Mr. Wilson come in yet (다시 전화해서 미안합니다만 아직 윌슨씨 안들어 오셨습니까)
+
+라고 하면된다.
+
+
+
+
+
+
+Situation 495 Works
+
+Gang : How's the report coming along  
+Lee : I'm working on it. 
+Gang : Working on it  What's the delay 
+Lee : I'm trying to finalize a few numbers. That's all. 
+Gang : You've already missed Friday's deadline. 
+Lee : I'll have it on your desk by this evening. 
+
+
+상황 495 업무
+
+강민재 : 보고서가 어떻게 돼가고 있죠 
+이순영: 추진중입니다. 
+강민재 : 추진중이라고요 왜 이렇게 늦죠 
+이순영 : 몇가지 수치를 확정지으려고 하는 중입니다. 
+강민재: 금요일 마감시한이 벌써 지났어요. 
+이순영 : 오늘 저녁때까지 책상위에 올려 놓겠습니다
+
+<어구연구>
+
+"추진중이다"라고 할때 
+
+I'm working on it.
+
+ 이와 비슷한 표현으로는
+
+I'm doing it now. 
+
+ I'm in the middle of it.
+
+입니다.
+
+
+
+Situation 494 Appreciation
+
+Seo : You shouldn't have. 
+Kwon : This isn't much. 
+Seo : How did you know I wanted this 
+Kwon : I thought it would go well in your living room. 
+Seo : I don't know how to thank you. 
+Kwon : No need to. It's a small token of my appreciation. 
+
+상황 494 성의
+
+서진우 : 이렇게 하지 않으셔도 되는데요. 
+권시라 : 별것 아니예요. 
+서진우 : 제가 이것을 원하는지 어떻게 아셨죠 
+권시라 : 당신 거실에 잘 어울릴 거라고 생각 했지요. 
+서진우 : 어떻게 감사를 드려야 할지 모르겠군요. 
+권시라 : 그러실 필요 없어요. 저의 조그만 성의 입니다. 
+
+
+<어구연구>
+
+올해도 어김없이 추석이 다가왔네요. 서로 선물을 주고 받을 일이 많은데요
+
+그럴 경우, 위와 같은 표현을 합니다. 
+
+ '이렇게 하지 않으셔도 되는데요'는' You shouldn't have
+
+ '별것 아니예요'는' This isn't much.'라고 표현하지요.
+ 
+그리고 ' 어떻게 해야 할지~'라는 표현은 ' I don't know how to ~' 의 문구를 많이 이용하죠. 
+
+"It's small token of my appreiciation" 과 같은 표현으로는
+
+'It's a sign of my thanks.' 
+'It's something to show my gratitude.' 
+'It's just a way of saying thanks.'
+
+등이 있습니다.
+
+
+
+
+
+
+Situation 493 Phone
+
+☎ : Hello. ABC Company. May I help you
+☏ : Is Mr. Carlton in yet This is Mr. Kim again.
+☎ : I'm sorry, but he hasn't returned. Is he at the Hyatt 
+☏ : No, I called him but there was no answer.
+☎ : Well, then, I don't know what to say.
+☏ : Please have him call me at 763-1096 the minute he gets in. 
+
+
+상황 493 전화
+
+☎ : 여보세요. ABC 회사입니다. 말씀하세요.
+☏ : 칼튼씨는 아직 안 들어오셨습니까 아까 전화 드렸던 김인데요.
+☎ : 죄송하지만 아직 안 들어오셨는데요. 하이얏트에 계시지 않 던가요
+☏ : 아뇨, 걸어보았는데 전화를 받지 않더군요.
+☎ : 그렇다면 어쩔 도리가 없군요.
+☏ : 그분이 들어오시는 대로 763-1096으로 제게 전화 좀 해주십사 전해 주십시오.
+
+<어구연구>
+
+사무실로 전화를 했는데 아무도 받지 않을 경우,
+
+I called him but there was no answer.
+
+란 표현을 한다. called대신 tired를 써서,
+ 
+I tried but there was no answer. (전화를 해봤으나 아무도 전화를 받지 않았다.)라
+ 
+고 해도 된다.
+
+
+관련표현을 알아두자.
+
+I tried but no one [nobody] answered. (전화를 해봤지만 아무도 전화를 받지 않았다.)
+I called but no one was there. (전화를 했지만 아무도 없었다.)
+
+
+
+Situation 513 Work
+
+Lee: Do you enjoy working at our company
+Yun: Well, not very much, really, Why
+Lee: I don't, either. I don't seem to be doing the right type of work. I'm not mechanically minded at all. I prefer to handle people.
+Yun: Then, why don't you think of changing
+Lee: As a matter of fact, I am.
+
+상황 513 직업
+
+이수령: 우리회사에서 일하는 게 즐거워요
+윤연화: 아, 실은 별로에요. 왜 그러시죠
+이수령: 나도 그래요. 아무래도 이 일은 내게 맞지 않은 것 같아요. 저도 기계에 
+대한 건 전혀 맞지 않아요. 오히려 사람 상대하는게 더 좋아요.
+윤연화:그렇다면 직업을 바꾸는 건 어때요
+이수령: 네, 그래야겠어요.
+
+<어구 연구>
+
+[아무래도 이 일은 내게 맞지 않는 것 같습니다] 라 말할 때의 관용적 표현은
+
+I don't seem to be doing the right type of work.
+
+이다.
+
+work 대신에, job이라 하면 의미가 좁아져 목전의 일을 뜻하는 것처럼 여겨진다.
+
+회사가 마음에 들지 않을 경우엔 
+
+I don't like it here 
+
+I don't enjoy working here
+
+로 표현한다.
+
+
+
+
+
+
+Situation 512 Bonus
+
+Yun: In addition to the salary, how much bonus would I get
+Ji:That I don't know. I'll find out about it and let you know.
+Yun: Would you, please If the terms are favorable, I'll take it.
+Ji: Is there anything else you'd like to know
+Yun: No, I don't think so. I'm afraid I've got to go now.
+Ji: It was very nice of you to come.
+
+상황 512 보너스
+
+윤연규: 월급건에 덧붙여, 전 보너스가 얼마나 되죠
+지동철:그건 저도 모릅니다. 알아보고 알려드리죠.
+윤연규: 그래주시겠습니까 만일 조건이 유리하다면 받아들이겠습니다.
+지동철: 다른 알고 싶은 점은 없습니까
+윤연규:네, 없습니다. 이젠 가봐야겠네요.
+지동철: 와주셔서 감사합니다.
+
+<어구 연구>
+
+[보너스]의 지급 유무를 물을 때 쓰는 표현이다. 
+
+How much bonus would I get
+
+말고 다른 표현으로는
+
+Does your company give a bonus
+
+이 있다.
+
+[보너스는 언제 나옵니까] 라고 물을 때는
+
+When will we get paid a bonus
+
+라고 하면 된다.
+
+
+
+
+
+
+
+Situation 511 An intention
+
+Du:I wonder if you can get them done somehow in a way that...
+Nam: May I ask what you are getting at
+Du: Sure. All I want to know is if it's possible to expect any reduction on theseprices.
+Nam: I'm afraid it's not. These are really our bottom wholsesale prices.
+Du: I see.
+Nam: Actually due to the current oil shortage, materials have gone up 
+incredibly, you know.
+
+상황 511 의도
+
+두준호: 다음과 같은 방법대로 어떻게든지 해놓을 수 있는지요
+남민희:지금 말씀하신게 무슨 뜻이죠
+두준호:제가 알고 싶은 건, 이 가격으로 할인이 가능한지 입니다.
+남민희: 그렇게는 안될 겁니다. 이 가격이 저희 최저 도매 가격이니까요.
+두준호: 알겠습니다.
+남민희: 석유 부족 때문에 자재값이 엄청나게 올랐어요.
+
+<어구 연구>
+
+[지금 말씀하시는 것이 무슨 뜻이죠]라고 상대방의 진의가 분명치 않을 때
+확인하는 표현으로
+
+May I ask what you are getting at
+
+이 있다.
+
+보다 분명히 묻고자 할 때는
+
+What are you getting at
+
+이외에
+
+What is it that you are tring to say
+
+란 표현도 쓰이니 알아두자.
+
+
+
+
+Situation 510 Approval
+
+Kim: Yes
+Pong: May I have your approval on this contract
+Kim:How soon do you need it
+Pong: I'd appreciate having it by tomorrow.
+Kim:I see. Why don't you leave it in that box I'll see what 
+I can do and call you when it's ready.
+
+상황 510 재가
+
+김일진:왜 그러시죠
+봉상훈:이 계약건에 대해 승인을 얻고 싶습니다.
+김일진: 언제까지 필요한겁니까
+봉상훈: 내일까지 부탁드리겠습니다.
+김일진: 알겠어요. 상자에 놔두세요. 할수 있는대로 해보고 전화 연락드릴게요.
+
+<어구 연구>
+
+상사의 결재를 받을 때 쓰이는 표현이다. 
+
+I got his seal of approval on this contract. 
+
+라고 하면 실제 결재 도장을 얻었다는 뜻보다 
+
+[승인에 대한 보장을 받았다] 가 된다.
+
+"상사의 허락을 받았는가" 는
+
+Did your boss okey it
+
+으로 간단히 해도 된다.
+
+
+
+
+
+Situation 509 Drink
+
+Yun: What will you have
+Nam: I'll have beef stew and some rice.
+Yun: Would you like a drink
+Nam: No, thank you. I'm not used to drinking at this time of day. But if you want to, please go ahead and drink.
+yun: I see. O.K, I better not, then. Anything else
+
+상황 509 술
+
+윤사준:뭘 드시겠습니까
+남기남: 비프스튜와 밥 먹을게요.
+윤사준: 한 잔 하시겠습니까
+남기남:아니요. 보통 이시간에 술 마시는 건 익숙지 않아서요. 하지만 드실거면
+저도 먹죠.
+윤사준:네, 그럼 저도 술은 안 먹겠습니다.
+또 다른 건 안드시는 거 없나요
+
+<어구 연구>
+
+~하는 일에 익숙지 않습니다
+
+I'm not used to drinking.
+
+같은 표현은로
+
+I'm not accustomed to drinking. 
+
+이 있다.
+
+
+
+
+
+
+Situation 508 Stock
+
+Su hyun: Why don't you invest in the stock market  
+Jin woo: That's not a good idea. I began to buy stocks a few months ago and lost so much money. 
+Su hyun: But stocks are soaring these days. 
+Jin woo: I thint there's a lot at stake, though. 
+Su hyun: But now is the time to buy. 
+Jin woo: I say it's better to be safe than sorry(regret). 
+
+
+상황 508 주식
+
+수현 : 주식에 투자하는게 어때 
+진우 : 별루 좋은생각이 아니야. 몇달전 주식에 손 댔다가 손해 많이 봤어. 
+수현 : 하지만 지금 주가가 치솟고 있는데 
+진우 : 그래도 위험부담이 많다고 봐. 
+수현 : 하지만 지금이 살 시기야. 
+진우 : 후회하는것보단 안전한 것이 나아. 
+
+<어구연구>
+
+I think there's a lot at stake. 와 비슷한 표현에는
+ 
+There's a lot at risk
+
+There's a lot riding on this. 
+
+The stakes are high.
+ 
+
+등이 있다. 
+
+
+
+
+
+Situation 507 Get back
+
+S : Hello Do you have any of the items on sale left 
+A : I don't know. 
+S : Well, is your manager there 
+A : No, But he'll be back soon. 
+S : Then, will you ask him at that time 
+A : Sure. Let me get back to you in a few minutes. 
+
+
+상황 507 
+
+수현 : 세일 품목중에 남은것이 있나요 
+점원 : 잘 모르겠습니다. 
+수현 : 그럼, 책임자 계십니까 
+점원 : 아뇨, 하지만 곧 돌아오실 겁니다. 
+수현 : 그럼 그때 그분에게 알아봐 주시겠습니까 
+점원 : 그러죠. 잠시후에 연락을 드리겠습니다
+
+<어구 연구>
+
+"잠시후에 연락드리죠". 는 많이 쓰이는 생활문구입니다.
+
+Let me get back to you in a few minutes.
+
+와 비슷한 표현으로는 
+
+Can I get back to later 
+
+I'llget back to you after a while.
+
+ 등이 있지요. 
+
+ 
+
+
+
+
+Situation 506 Variety
+
+Dong: How many hours a week do you work in Korea
+Shin: Well, it vzries from company to company.
+Dong: How about in your company
+Shin: We work forty-four hours a week. In some other companies forty hours but not every week, every other week.
+Dong: I see.
+
+상황 506 다양성
+
+동규상: 한국에서는 일주일에 몇시간 일을 하죠
+신한창: 아, 그건 회사마다 다릅니다.
+동규상: 그럼 당신 회사는 어떻습니까
+신한창: 우리는 일주일에 44시간 일합니다.
+어떤 회사는 매주일이 아니라 격주마다 40시간 일하기도 합니다.
+동규상: 네, 그렇군요.
+
+<어구연구>
+
+"~에 따라 다릅니다"의 관용적 표현은
+
+It varies from A to B 
+
+로 표현한다. 여기서 A,B에 해당하는 말에는 관사가 붙지 않는다.
+
+"~에 달렸습니다"라고 할 경우에는
+
+That depends on~.
+
+"일반적으로 말하기는 곤란합니다만" 으로 서두를 시작할 때는
+
+It's very difficult to generalize but~.
+
+이다.
+
+
+
+
+
+Situation 504 Apologize
+
+Jin : I do apologize for what I've done.
+ Uoo: Don't worry about it.
+Jin : That was foolish of me to spill my coffee on your dress. 
+Uoo : It's no big deal. Accidents will happen. 
+
+상황 504 사과
+
+진신우 : 제가 한 일에 대해 진심으로 사과드립니다.
+우수현 : 걱정하지 마세요.
+진신우 : 커피를 당신 옷에 엎지르다니 제가 어리석었어요
+우수현 : 큰일이 아니잖아요. 사고란 늘 일어나기 마련이에요
+
+<어구연구>
+
+" 제 잘못입니다" 의 표현은.
+
+I do apologize 이다.
+
+단어 풀이를 간략히 하면
+
+◇ apologize 사과하다
+◇ big deal 대단한 것, 중대사건
+ ※ it's no big deal.(괜찮아) 〓 That's all right
+◇ worry about 걱정하다
+◇ foolish 어리석은, 바보같은
+◇ Accidents will happen 사고는 생기기 마련이다. (격언) 
+
+관련 표현을 알아두자.
+
+1. However that may be, I'm wrong.
+2. It's entirely my fault.
+3. It was careless of me.
+4. I'm responsible for what has taken place
+
+
+
+Situation 503 Support
+
+Dong: Prior to the meeting, I wonder if we could get your personad suppoer on this matter.
+Chang: When is the meeting
+Dong: Tomorrow afternoon at three.
+Chang: I see. Let me go over the material today and let's talk about it tomorrow morning again. Would that be all right
+Dong: Certainly.
+Chang: I'll call you when I'm ready.
+
+상황 503 협조
+
+동민진: 회의에 앞서 지지좀 부탁드립니다.
+창인룡: 회의가 언제죠
+동민진:내일 오후 3시입니다.
+창인룡:알겠어요. 오늘 그 자료를 정밀 조사해서 내일 아침 다시 의논해 봅시다.
+그래도 괜찮겠죠
+동민진: 그럼요.
+창인룡: 다 되면 연락드리겠습니다.
+
+<어구 연구>
+
+"회의에 앞서 개인적 지지를 얻고 싶은데요"의 관용적 표현은
+
+Prior to the meeting, I wonder if we could get your personal support on this matter.
+
+이다.
+다음과 같은 표현들도 알아두자.
+
+상대방의 의향을 타진하다-> to sound ~ out
+
+
+그 사람의 의사를 타진해 보다-> I'll sound him out.
+
+
+
+Situation 523 Spending
+
+S : Didn't you buy anything for yourself 
+P : I just did some grocery shopping. 
+S : Why They're having a clearance sale now. 
+P : I know. but I have to cut down on my spending. 
+S : I suoppose we should tighten our belts. 
+P : That's right. Especially since my husband lost his job. 
+
+상황 523 소비
+
+수현 : 네 것은 아무것도 사지 않았니 
+패티 : 그냥 식품만 샀어. 
+수현 : 왜 지금 점포정리 세일을 하고 있는데... 
+패티 : 알지만 지출을 줄여야 돼 
+수현 : 허리띠를 졸라매야 한다는 생각이 들긴 해. 
+패티 : 맞아, 특히 남편이 직장을 잃었으니까. 
+
+<어구 연구>
+
+어려운 때, [소비를 줄여야겠어요]라고 표현하는 것은
+
+Just cut down on ours spending.
+
+이다.
+이와비슷한 문구로는
+ 
+I have to tighten my belt.
+ I'm on a strict budget. 
+
+가 있다.
+
+
+
+
+Situation 522 Life
+
+C : I don't feel like doing anything these days. 
+J : What's gotten into you You've changed. 
+C : Nothing works out the way I want. 
+J : That's life. But you should live life by the minute. 
+C : What do you mean 
+J : We should appreciate every minute of life.
+ 
+상황 522 삶
+
+
+최진실 : 요즘 아무것도 하고 싶지가 않아. 
+김진우 : 왜그러니 변했구나. 
+최진실 : 내가 원하는대로 되는게 없어. 
+김진우 : 사는것이 다 그렇지. 하지만 인생을 즐기고 살아야지. 
+최진실 : 무슨 뜻이야 
+김진우 : 매 순간 감사해야 해. 
+
+<어구연구>
+
+일상에 찌들었을 때, 친구에게 할 수 있는 표현이다.
+
+You should live life by the minute.(매순간 즐기면서 살아.)
+
+이와 비슷한 표현으로
+
+Enjoy every monent.
+
+Live life to the fullest.
+ 
+Make the most of your life.
+
+가 있다.
+
+
+
+
+
+
+
+Situation 521 Drinks
+
+Dae: Do you have anything to do after this
+Cha: No, I don't.
+Dae: Shall we drop in somewhere for a couple of drinks on the way home
+Cha: That sounds like a good idea.
+Dae: I know a very interesting place.
+Cha: Oh, do you Good.
+
+상황 521 한 잔
+
+대준우: 일 끝나고 할 일 있나요
+차준민: 아니요.
+대준우: 가다가 잠깐 한잔 할래요
+차준민: 좋습니다.
+대준우:아주 괜찮은 데를 알고 있습니다.
+차준민: 그래요 그리고 갑시다.
+
+<어구연구>
+
+[귀가 도중 잠깐 한잔 할까요]라고 동료에게 권유할 때의 표현은
+
+Shall we drop in somewhere for a couple of drinks on the way home
+
+여기에서 "drinks는 술을 의미한다. 
+이와 비슷한 표현으로
+
+Would you like a drink 
+
+이며 "바로 맥주 한잔 어때"란 표현은 
+
+Shall we have a quick drink of beer
+
+이다.
+
+
+
+
+Situation 520 Re-compile
+
+Kim: I'm afraid this material for the next comference does not seem to be quite up-to-date.
+Wang:Now that the conference is postponed till next week, I can still collect more data, if you want me to.
+Kim: Will you re-compile it
+Wang: Certainly.
+
+상황 520 자료정리
+
+김의영: 최근 자료가 아니라서 다음 회의에 이거 안되겠는데요.
+왕윤영: 회의가 다음주로 미뤄졌으니까요, 괜찮다면 제가 자료를 더 모 아보겠습니다.
+김의영: 다시 자료를 수집해 줄수 있겠소
+왕윤영:네, 확실히 해드리겠습니다.
+
+<어구연구>
+
+자료를 다시 한번 정리해 주기를 부탁하는 표현은
+
+Will you re-compile the material
+
+이다. 새로운 자료를 부가할 경우의 표현은
+
+collect data 또는 gather new material
+
+를 쓴다.
+
+Material은 "자료"라는 의미로 단수, 복수 모두 쓸 수 있다.
+
+
+
+
+
+
+Situation 519 Workaholic
+
+Tae: You know something
+Jang:No, what
+Tae:Mr. Park came down with a cold again. So we'll have to get someone to fillin for him.
+Jang: I'm not surprised at that. He is a real workaholic.
+Tae: I know. He must be overworked.
+Jang: He must at least stop moonlighting.
+
+상황 519 일벌레
+
+태장훈: 그거 알아요
+장준석: 아니, 뭔데요
+태장훈: 미스터 박 또 감기에 걸렸대요. 그래서 그 사람이 하던거 다른 사람한테
+맡겨야겠어요.
+장준석: 그렇게 놀랄일은 아니군요. 정말 일에 미친 사람이니까요.
+태장훈:알고 있어요. 과로한 것 같군요.
+장준석:밤늦게까지 일했을거에요.
+
+<어구연구>
+
+부지런히 열심히 일하는 사람을 가리켜
+
+He is a real workaholic.
+
+이라고 한다.
+
+비슷한 표현으로
+
+He works like a mule. (노새처럼 일해.)
+
+He is busy as a beaver.(정말 부지런한 사람이야)
+
+가 있다. 
+
+또한 무슨일이든 닥치는대로 하는 사람은 
+
+He is a hard worker. 
+
+work의 의미는 [일하다], [공부하다], [연구하다]의 의미를 가진다.
+workaholic이란 말은 alcoholic이란 말에서 나온말로 [일에 중독된 사람]이란 뜻이다.
+
+
+
+
+
+Situation 518 Annual sales
+
+U: What's the percentage of overseas markets in proportion to domestic 
+markets for your products
+Hong: The ratio is about 7 overseas to 3 domestic.
+U: I see. What is the total amount of your annual sales
+Hong: For the fiscal year 2002it was a little over three hundred billion won.
+
+상황 518 연간 매출
+
+유민:당신네 회사 제품은국내 시장에 비해 해외시장 비율이 어떻습니까
+홍관의:해외시장대 국내시장이 약 7:3입니다.
+유민:네, 그렇군요. 연간 매출은 어느정도입니까
+홍관의: 2002년 회계연도에는 3천억원이 조금 넘었습니다.
+
+<어구연구>
+
+[연간 매상이 얼마입니까]라고 매상고를 물을 때 쓰는 표현은
+
+What's the total amount of your annual sales
+
+이다. 
+[순이익이 얼마입니까]는
+
+-> What's the total profit of your annual sales
+
+[이익률은 얼마입니까]
+
+-> What's the percentage of your profit
+
+라고 표현한다.
+
+[국내매출] 은 sales앞에 domestic을 붙이고
+[해외매출] 은 overseas sales 또는 sales abroad라고 하면 된다.
+
+
+
+
+Situation 517 Health
+
+Ji:You don't seem to be eating at all. What's the matter
+Don't you like fish
+Park: I do like fish, but I just can't eat much. My stomach's been upset lately.
+Ji:Oh, that's too bad. That's probably because of heavy stress from your work.
+Park: I'm afraid so.
+
+상황 517 건강
+
+지정현: 잘 못드시는군요. 어디가 안좋으세요 생선을 좋아하지 않나요
+박은주: 생선은 정말 좋아하는데요, 지금은 잘 못먹겠네요. 요즘들어 배탈이 잘 나네요.
+지정현: 아이구, 힘드시겠어요. 아마 업무때문에 받는 스트레스가 많아서 그런것 같군요.
+박은주:네 그런가봐요.
+
+<어구연구>
+
+[요즘 배탈이 났어요]라고 말하는 표현인다.
+
+My stomach's been upset lately.
+
+upset은 위의 뜻외에 [열받다] 또는 [마음의 평정을 잃다]라고 할 경우에도 쓴다.
+
+He's upset. She's upset.
+
+이와 더불어 배질환과 관련한 표현을 알아두자.
+
+I have a stomach ache.( 배가 아프다)
+
+I have diarrhea.( 설사를 한다.)
+
+ [구역질이 난다]의 우회적 표현은
+
+I feel sick. 
+
+이며 직접적인 표현을 해야할 경우
+
+I feel like throwing up. 
+
+이다.
+
+
+
+
+
+
+
+
+Situation 413 Lunch Time
+
+Crage : Mr. Yoon. How about putting this business aside for a while 
+ and grabbing a bite to eat
+Yoon : I'm all for it. I'm about half-starved, 
+ but we've gotta wind it all up today, don't forget.
+Crage : Don't worry. I haven't forgotten. 
+ We'll finish it all by five, I guarantee.
+Yoon : Say, I've got a great idea. Why don't we order in 
+ Then we can kill two birds with one stone.
+Crage : Not a bad idea. 
+상황 413 점심식사
+크 렉 : 저, 윤 선생님, 잠깐 일을 치우고 간단히 식사를 하는 게 어떨까요
+윤석진 : 대찬성입니다. 저도 몹시 배가 고프거든요. 
+ 그러나 오늘 내로 모든 일을 끝마쳐야 한다는 거 잊지 마세요.
+크 렉 : 염려마세요. 잊지 않았습니다. 
+ 틀림없이 5시까지는 다 끝낼 수 있을 겁니다. 
+윤석진 : 참, 좋은 생각이 있습니다. 음식을 시켜다 먹는 게 어떨까요 
+ 그러면 일석이조가 될 테니까요.
+크 렉 : 그것도 괜찮겠군요. 
+<어구 해설>
+
+wind up은 '(…이라는) 처지가 되다; (…으로) 끝맺다, 끝나다'라는 의미로 
+we've gotta wind it all up today는 '오늘 내로 모든 일을 끝마쳐야 한다'로 표현될 수 있다. 
+order in은 직역하면 '안으로 주문하다'가 되므로 곧 '시켜다 먹다'를 의미하는 것이다. 
+다음과 같이 표현해도 좋을 것이다.
+How about ordering something from the restaurant instead of going out 
+(나가지 말고 식당에 주문하여 시켜다 먹는 것은 어떨까요)
+
+
+
+
+
+
+Situation 515 Computer
+
+Won : This computer froze three times already today. 
+Chang : Why don’t you get a new computer Yours is an antique! 
+Won : Are you kidding I can’t afford a new computer. 
+Chang : It doesn’t have to be that expensive.
+ I can help you put together one. 
+
+상황 515 컴퓨터
+
+ 원창인: 오늘 벌써 세번 다운이야. 
+장철호 : 하나 새로 좀 사지 그래 그건 골동품이야. 
+원창인 : 장난해 새것 살 돈이 어디 있어. 
+장철호: 그렇게 비싼 것은 필요없어. 조립하는걸 내가 도와 줄께. 
+
+
+<어구 연구>
+
+일 하다 보면 컴퓨터가 말썽일 때가 많죠. 그에 관한 표현입니다.
+
+1. Help me put in/set up a modem. 모뎀 설치하는 것 좀 도와줘. 
+
+2. I think my computer got a virus. 컴퓨터가 바이러스에 감염된 것 같아. 
+
+3. Do you know how to use Linux 리눅스 사용법 알아
+
+4. Could you help me put together a computer컴퓨터 조립하는 것 좀 도와줘. 
+
+
+
+
+
+
+Situation 514 Ask
+
+Kwon: Well, I'm a little hazy about your question. How much is the national income per capita-is that what you are asking
+Kang:No, it's not. What I'd like to ask is if it has been rising in this countrylately or not
+Kwon: I see. May I draw your attention to this chart
+Kang: Here, obviously it's rising very fast.
+
+상황 514 질문
+
+권태란: 질문하신 게 좀 애매한 느낌이 드네요. 일인당 국민 소득이 얼마인가-하는
+걸 물은 거죠
+강민희: 아니요. 그렇지 않습니다.
+제가 묻고 싶은 건 최근 이 나라에서 소득이 오르고 있는가 하는 점입니다.
+권태란: 알겠군요. 이 도표를 봐주세요
+여기, 보이시죠. 소득이 아주 빠르게 오르고 있네요
+
+<어구연구>
+
+상대방의 질문내용이 애매하여 확인을 구할 경우 묻는 표현은
+
+Is that what you are asking
+
+이며 이 외에
+
+Would you mind repeating your question
+
+으로 직접 되묻는 수도 있다.
+
+상대방의 말의 중심, 즉 상대가 하고 싶어하는 말의 요점을 파악하지 못한 경우
+
+Is this what you are getting at
+
+이라고 한다.
+
+
+
+Situation 533 Shopping
+
+Park : Excuse me, how much is this lighter over here
+Do : It's on sale for $11.00, sir.
+Park : H'm, looks pretty good. Where was this made
+Do : In Korea, I believe.
+Park : Oh, is that a fact That's where I come from.
+Do : Really Well, sir, many of the items you see on this counter were importedfrom Korea. 
+
+상황 533 쇼핑
+
+박도권 : 실례합니다, 여기 이 라이터는 값이 얼마죠
+도민진 : 11불에 판매 중입니다.
+박도권 : 음, 꽤 괜찮은데요. 이거 어느 나라 제품입니까
+도민진 : 한국에서 만든 것일 거예요.
+박도권 : 아, 그게 사실이에요 제가 한국사람이거든요.
+도민진 : 정말이세요 저, 손님, 이 판매대에 보이는 많은 상품이 한국에서 수입해 온 것들입니다. 
+
+<어구연구>
+
+박도권이 기념품(souvenir)을 사기 위해 shopping을 하러 백화점에 들러서 진열장 속의 상품을 가리키며,
+
+Where was this made
+(이거 어느 나라 제품입니까)
+
+라고 제조국을 물어보고 있다. 
+
+Where was this manufactured
+Where was this from
+Where was this imported from
+In what country was this made
+
+다음의 관련표현들도 함께 알아두자.
+
+Do you have this item imported from Taiwan
+(이 물건은 대만에서 수입해 옵니까)
+
+
+
+
+Situation 532 Taxi
+
+Chae : Excuse me, driver. Is the airport much further away My flightleaves in 40 minutes.
+Na : We're almost there. Don't worry. You'll catch it in time.
+Chae : Yeah, but, it's an international flight and I have to check mybag and go through the body check and all that, you know.
+ Na: Well, you ought to give yourself more time for internationalflights, you know.
+K : Yeah, I know. Say, by the way, all I've got is a twenty. Will you be able to change it
+Na : Oh-ho! Gee, haven't you anything smaller I'm all out of change. 
+
+상황 532 택시
+
+채진규 : 실례지만 기사양반, 공항까지 아직 멀었습니까 비행기가 40분 후에 출발하거든요.
+나홍인 : 거의 다 왔습니다. 염려 마십시오. 충분히 타실 수 있습니다.
+채진규 : 예. 하지만 국제선이라서 짐도 탁송해야 하고 보안검색 등 여러 가지 절차가 있잖아요.
+나홍인 : 국제선을 타실 때에는 더 많은 시간을 가지셔야지요.
+채진규 : 예, 알겠습니다. 그런데 제게 20달러 짜리 밖에 없는데, 바꿔주실 잔돈이 되세요
+나홍인 : 아, 이런 야단났군요! 잔돈 가지신 것 없으세요 잔돈이 다 떨어졌거든요. 
+<어구연구>
+
+공항에 가기위해 택시를 타고 가지만, 예기치 못한 상황으로 지체될 때, 기사에게
+다음과 같이 묻는다.
+
+Excuse me, driver. Is the airport further away
+(기사양반, 아직 공항이 멉니까)
+
+further away는 '훨씬 떨어진, 더 멀리 떨어진'이란 뜻. 원래 far의 비교급으로 farther는 '거리'에 대해서 쓰고,
+ further는 '정도·시간·수량'에 대하여 쓴다고 하지만 실제로는 이 구분이 엄밀하게 지켜지고 있지 않으며 구어체에서는 어느 경우에나 further을 쓰는 경향이 있다. 다음과 같이 물어볼 수도 있다.
+
+Have we much further to go before we reach the airport
+(공항까지 가려면 아직 많이 남았나요)
+
+Are we there yet
+(이제 다 와 갑니까)
+
+Are we almost at the airport
+(공항에 다 와 갑니까)
+
+
+
+
+
+Situation 531 Luggage
+
+Kim : Excuse me. Is the JAL I'd like to find out how much youcharge for overweight.
+ Tom: Basically, we charge 700 yen for each extra kilogram.
+Kim : Well, I weighed my bag on a scale and it showed 32 kilograms.So I guess that would come to about 8,400 yen, right
+Tom : Wait, sir. How many bags did you say you have
+Kim : I'm checking one bag through. The other two are forhand-carrying.
+Tom : Oh, well, in that case, there's no charge, sir. We go by thenumber of bags you have, not by weight. 
+
+상황 531 수화물
+
+김진수 : 실례합니다. JAL 입니까 초과중량에 대한 탁송료가 어느 정도인지 알고싶은데요.
+탐 : 기본적으로, 1킬로 추가될 때마다 700엔을 받습니다.
+김진수 : 제 가방을 저울로 달았더니 32킬러였으니까 약 8,400엔 정도가 되겠군요.
+탐 : 잠깐만요. 가방이 몇 개라고 말씀하셨지요
+김진수 : 가방 하나는 수하물편으로 부치고 나머지 두 개는 휴대할 예정입니다.
+탐 : 아! 그러면 요금을 안 내셔도 됩니다. 저희는 무게가 아니라 가방으로 따지거든요. 
+
+<어구연구>
+
+김진수는 수하물에 대한 탁송료가 얼마인지 Luggage service에 전화로 문의를 하고 있다.
+수하물이 몇 개냐는 질문에 김진수는 다음과 같이 답한다.
+
+I'm checking one bag through. The other two are for hand-carrying.
+(가방 하나는 수하물편으로 부치고 나머지 2개는 휴대할 예정입니다.)
+
+check은 [(짐을) 물표를 받고 부치다]란 뜻이고
+ hand-carry는 [휴대하여 나르다]란 뜻이다. for hand carrying 대신에 carry-on을 써도 좋다.
+ 이때의 carry-on은 [항공기내에 들고 들어가는 짐]이란 뜻.
+
+다음과 같이 표현할 수도 있다.
+
+I'm sending just one and I'll carry the other two on board.
+(하나만 부치고 둘은 탑승할 때 휴대할 것입니다.)
+
+This goes in the baggage compartment and I'll hand-carry these two.
+(이것은 수하물편으로 부치고, 이 2개는 휴대할 예정입니다.)
+
+
+
+
+
+
+
+
+
+
+Situation 530 At the airport
+
+Gang : Excuse me, do you know what gate flight 202 leaves form
+Alex : Yes, I believe it's Gate 24.
+Gang : How do I proceed to Gate 24
+Alex : Go straight ahead as far as you can go and make a left. You'll see a sign pointing to Gate 24.
+Gang : Thanks so much for your help.
+Alex : Don't mention it. You'd better hurry,sir. The flight leaves in ten minutes. 
+
+상황 530 공항에서
+
+강순재 : 실례합니다. 202호기편이 몇 번 게이트에서 출발하지요
+알렉스 : 예, 24번 게이트일 거예요.
+강순재 : 24번 게이트는 어떻게 가지요
+알렉스 : 똑바로 쭉 끝까지 가시다가 왼쪽으로 돌아가세요. 24번 게이트를 가리키는 표지판이 보일 거예요.
+강순재 : 도와주셔서 대단히 감사합니다.
+알렉스 : 뭘요. 서두르셔야겠네요. 그 비행기는 10분만 있으면 출발하니까요
+
+<어구연구>
+
+외국 공항에서 몇번 게이트로 나가야 할 지 몰라 난감할 때, 다음과 같이 묻는다.
+
+Do you know what gate flight 202 leaves form
+
+또는 다음과 같이 물을 수도 있다.
+
+What gate do I proceed to for flight 202
+(202호기를 타려면 몇 번 게이트로 나가야 합니까)
+
+자신이 check in해야 할 게이트의 위치를 모를 때는,
+
+How do I get to gate 24
+(24번 게이트는 어디로 갑니까)
+
+Is this the right way to gate 24
+(이게 24게이트로 가는 길 맞습니까)
+
+라고 한다.
+
+
+
+
+
+
+Situation 529 On the plane
+
+
+ Choi: Excuse me, where's the men's room
+ Stewardess:The lavatories are to the rear of the plane, sir, but I'm afraid you'll have to wait until after take-off.
+Choi : Gee, it's kind of an emergency.
+Stewardess: Well, alright, but you'll have to make it snappy, sir. We're due for take-off at any moment. 
+
+상황529 기내에서
+
+최부연 : 실례합니다. 남자 화장실이 어디지요
+승무원 : 화장실은 뒷편에 있습니다만, 이륙할 때까지 기다리셔야 할 것 같은데요.
+최부연 : 어휴, 좀 급한데요.
+승무원 : 좋아요, 하지만 빨리 끝내셔야 합니다. 곧 이륙할 테니까요. 
+
+<어구연구>
+
+비행기에 탑승했을 때, 화장실의 위치를 알아두는 건 중요하다. Mr.Choi가 승무원에게 다음과 같이 묻는다.
+
+Excuse me, where is the men's room
+(실례합니다만 남자화장실이 어디지요)
+
+"화장실"이란 용어로 일반적으로 많이 쓰이는 것은,
+rest room, bathroom, wash room
+ little boy's room이나 little girl's room이란 말도 자주 쓰이며
+ 비행기에서 쓰는 건 lavatory.bathroom이다.
+
+화장실 관련표현을 알아두자.
+
+The lavatory is occupied[being used].
+(화장실에 사람이 있습니다.) 
+
+Someone is using the lavatory.
+(누군가가 사용 중입니다.)
+
+It's kind of an emergency.
+(좀 급합니다.)
+
+
+
+
+
+Situation 528 Hotel 
+
+K : Excuse me, is the dining room still open
+A : Yes, but I'm afraid you'll have to hurry if you want to get something to eat.
+K : Oh, is it almost closing time
+A : Yes, in about ten minutes.
+K : Oh, gosh, I'll have to hurry.
+A : In case you don't make it, there's a very nice little restaurant across the street that stays open until late. 
+
+상황 528 호텔
+
+K : 실례합니다. 식당이 아직 영업을 하나요
+A : 예. 하지만 식사를 하시려면 서두르셔야 할 거예요.
+K : 아니, 벌써 문 닫을 시간이 다 되어가나요
+A : 예, 10분 정도만 있으면 닫습니다.
+K : 이런, 서둘러야겠군요.
+A : 만약 못 드시게 되면, 길 건너편에 작지만 괜찮은 식당이 하나 있는데 밤늦게까지 영업을 합니다. 
+
+<어구 연구>
+
+호텔 영업시간에 대한 문의는
+
+Excuse me, is the dining room still open
+(죄송하지만, 식당이 아직 영업을 합니까)
+
+"영업을 하다"를 " do a business"로 표현하지 않는다.
+대신 "stay open" 이나 "is open"으로 한다.
+
+"영업을 합니까" 와 같은 의미로 
+
+Has the dining room been closed yet
+
+로 나타낼 수 있다. 
+open과 close 관련 표현을 알아두자.
+
+How late does the drugstore stay open
+(약국은 몇 시까지 영업을 합니까)
+
+How soon do they open
+(그들은 몇 시면 문을 엽니까)
+
+How late do they stay open
+(그들은 몇 시까지 영업을 합니까)
+
+
+
+
+
+
+Situation 527 Restaurant
+
+Yoon : Mr. Kim, I'm terribly sorry. I hope I haven't kept you waiting too long.
+ Hong: Not at all. I arrived just a few minutes ago myself.
+Yoon : Oh, thank goodness. I got held up in that awful rush hourtraffic.
+Hong : I know how it is, Mr. Brown. This way, please. Where would you like to sit
+Yoon : Anyplace will do.
+ Hong: Let's sit here by the window, shall we
+
+
+상황 527 식당
+
+윤대원 : 김선생님, 정말 미안합니다. 오래 기다리시지나 않았는지 모르겠습니다.
+홍라윤: 아니에요. 저도 바로 몇 분 전에 도착했어요.
+윤대원: 오, 다행이군요. 러시아워라 차가 너무 막혀서 꼼짝할 수 없었지 뭐예요.
+홍라윤: 어떤 건지 알겠습니다. 브라운씨. 이쪽으로 오세요. 어디 앉을까요
+윤대원: 어디든 괜찮습니다.
+ 홍라윤: 여기 창 옆에 앉을까요. 
+
+<어구연구>
+
+약속시간보다 조금 더 늦게 나타난 Mr.윤이 홍라윤에게 
+
+Let's sit here by the window, shall we
+(우리 창 옆에 앉읍시다.)
+
+
+라며 테이블 자리를 정한다.by는 [...의 곁에]란 뜻으로, Come and sit by me.라고 하면 [이리 와서 내 곁에 앉아요.]란 뜻이 된다.
+by 대신 next to 나 near를 써서,
+
+Let's sit next to [near] the window.
+How about sitting next to [near] the window
+
+라고 해도 같은 뜻이다. 
+관련표현을 알아두자.
+
+It's too close to the door. Let's sit over there.
+(바로 문 앞이니까 저쪽으로 앉읍시다.)
+
+Oh, darn it, this is right near the restroom. Let's find [move to] a better place.
+(아, 이런, 바로 화장실 옆이네. 다른 데로 옮깁시다.)
+
+Oh, those people are leaving. Let's grab that table.
+(아, 저 사람들이 일어서는군요. 저 테이블 우리가 잽싸게 차지합시다.)
+
+
+
+
+
+
+Situation 525 Hotel
+
+Lee : Hello, is there a room available tonight
+Brian : What kind of room do you have in mind
+Lee : I'd like a twin room, please.
+Brian : Hold on, please. ...I'm afraid we're fully booked. The onlyroom available at the moment is a suite.
+Lee : Oh, I see. Thank you just the same. 
+
+상황525 호텔
+
+ 이진우: 오늘밤 묵을 방이 있을까요
+브라이언: 어떤 방을 생각하고 계십니까
+이진우 : 2인용 방으로요.
+브라이언 : 기다리세요. ...예약이 끝난 것 같은데요. 지금 비어 있는 방은 스위트뿐입니다.
+이진우: 아, 알겠습니다. 아무튼 감사합니다. 
+
+<어구연구>
+
+호텔에서 직원이 손님에게
+
+What kind of room do you have in mind
+(어떤 방을 생각하고 계십니까)
+
+라고 묻고 있다. 같은 뜻으로,
+
+What kind of room do you want[prefer]
+
+와 같은 표현도 잘 쓰인다.
+다음은 호텔예약과 관련된 표현들이다.
+
+I had in mind something in the area of 80 to 100 dollars a night.
+(일박 숙박료가 80불에서 100불 정도 되는 것이면 좋겠습니다.)
+
+Do you have any single rooms
+(1인용 방이 있습니까)
+
+Keep in mind that the checkout time is 12:00.
+(체크아웃 시간이 12시이니까 차질없으시기 바랍니다.)
+
+If I leave at three o'clock, what will the charge be
+(3시에 나가면 숙박료가 어떻게 됩니까)
+
+
+
+
+
+Situation 525 Way
+
+Kim : Excuse me, can you tell me where the Hotel Ritz is
+Adams: Yeah. You go straight down to the next corner, cross the street, and keep going straight ahead. It's about 150 yards down on your left.
+Kim : How will I know when I get there
+Adams : Oh, there's a big sign out front. you can't miss it.
+Kim : Gee, thanks a lot.
+Adams : Don't mention it. Glad I could help. 
+
+상황 525 길
+
+김진수 : 실례합니다. 리츠호텔이 어디 있는지 아세요
+아담스: 다음 블록의 모퉁이까지 쭉 가시다가 길을 건너서 앞으로 계속 가십시오.
+김진수 : 거기에 다 왔는지 어떻게 알 수 있지요 150야드쯤 가시면 왼쪽에있습니다.
+아담스 : 건물 앞쪽에 커다란 표지판이 있으니까, 쉽게 찾으실 수 있을 거예요.
+김진수 : 아, 대단히 감사합니다.
+아담스 : 뭘요. 도움이 됐으면 좋겠군요. 
+
+<어구연구>
+
+김진수가 Ritz 호텔의 위치를 행인에게 물어보자 그는, 
+
+It's about 150 yards down on your left.
+(약 150야드쯤 쭉 가시면 왼쪽에 있습니다.)
+
+라고 답한다. 여기서 "down"은 "아래로"란 뜻이 아니고, along(쭉 따라서)이나 away from the person speaking(말하는 사람으로부터 멀리)혹은 to or at the far end of(저 끝에 [끝으로])란 뜻이다. 따라서 행인의 얘기 중에 나오는 down은 우리말로 [쭉 따라간 지점에]란 뜻이 되는 것이다. 
+
+이와 관계된 표현들을 알아두자.
+
+They live just down the road.
+(그들은 이 도로를 쭉 따라간 지점에 삽니다.)
+
+Go down the alley about 40 meters.
+(골목을 따라 약 40m쯤 쭉 들어가세요.)
+
+How far down the street is it to the nearest gas station
+(가장 가까운 주유소는 이 거리를 따라 얼마나 가야 있습니까)
+
+You'll find a grocery store down the street.
+(그 거리를 쭉 따라가면 식료품가게가 하나 나옵니다.
+
+
+
+
+
+Situation 524 Specific ask
+
+Dong: We'd like to know what your plant is technically capable of.
+Yang: Could you put that in more specific terms
+Dong:Certainly. The total amount of the monthly production, the possibility of model changes, and quality control and guarantee system, etc., that we'd
+like to know.
+Yang: I see. Let me get our production manager to answer you.
+Just a moment, please.
+
+상황 524 구체적 질문
+
+동향주:알고 싶은게 있습니다. 당신네 공장에서 기술적으로 가능한게 뭔가요
+양영민: 좀 더 구체적으로 말씀해주시겠습니까
+동향주:그러죠, 월 생산량, 모델 변형 가능성, 그리고 품질 관리와 보증제도 등을 알고싶습니다.
+양영민: 알겠습니다. 생산부 부장이 답해드릴 겁니다. 
+잠시만요.
+
+<어구연구>
+
+이야기 내용이 애매하여 
+[좀 더 구체적으로 설명해 주시겠습니까] 란 표현은
+
+Could you put that in more specific terms
+
+"구체적으로" 라고 말할 때는 이 Specific을 부사로 하여 specifically나 
+specifically speaking, 또는 to be more specific로 해도 된다.
+
+예를 들어 [구체적으로 무엇을 하면 좋겠습니까]는
+
+Can you tell me what to do more specifically
+
+로 표현가능하다.
+
+
+
+Situation 543 Holiday
+
+Da : Mr. Go, I heard that this coming Tuesday's a holiday in Korea.
+Go : That's right. It's a double holiday : Children's Day and Buddha's Birthday.
+Da : Well, I guess you'll be off for about three days then.
+Go : How do you figure that
+Da : Well, there's Sunday, Tuesday's a holiday, and Monday's a sandwich day.
+Go : Oh, not in Korea. We work on sandwich days. I'll be in my office, as usual. 
+
+상황 543 휴일
+
+ 다지훈: 고선생님, 오는 화요일이 한국에서는 공휴일이라면서요.
+고하명 : 그렇습니다. 공휴일이 겹쳤지요. 어린이날에다 석가탄신일이니까요.
+다지훈 : 저, 그러면 3일 정도 연휴가 되겠네요.
+고하명 : 어째서 그런 계산이 나옵니까
+다지훈 : 저, 일요일에다, 화요일은 공휴일, 그리고 월요일은 샌드위치데이잖아요.
+고하명 : 아, 한국에서는 그렇지 않습니다. 우린 샌드위치데이에도 근무를 하거든요. 저도 그날 평소대로 회사에 나옵니다. 
+
+<어구연구>
+
+한국에 출장을 와 있는 다지훈과 고하명은 한국의 휴일에 관한 얘기를 주고받는다. 
+지난 5월 3일은 일요일이었고 하루 건너 화요일은 어린이날이자 석가탄신일로 공휴일이었다. 이렇게 휴일 사이에 끼이게 되는 월요일과 같은 날을 미국인들은 sandwich day라고 부른다. 
+즉 a day between two holidays를 sandwich day라고 부르는 것이다. 
+다음 은 sandwich day와 관련되는 표현들이다.
+
+1.A day between two holidays is called a sandwich day. 
+(휴일 사이에 오는 날은 샌드위치데이라고 부른다.)
+
+2.In the United States, when a sandwich day occurs (comes)
+ between two big of important holidays, then we take off sometimes.
+ (미국에서는 중요한 공휴일 사이에 오는 근무일엔 쉬는 경우도 있다.) 
+
+3.When a sandwich day comes between two big holiday, then we usually take off.
+ (중요한 공휴일 사이에 오는 날엔, 우리는 보통 휴무를 한다.)
+
+만일 sandwich day라는 표현을 모를 경우에는,
+
+Do you work on a working day that comes between two holidays
+ (양 휴일의 중간에 오는 근무일에도 근무를 합니까)
+
+라고 물어보면 될 것이다. 
+
+
+
+
+
+
+
+Situation 542 Accompany
+
+Yoon : Mr.Lee, I'm going to try to get in some shopping this afternoon.
+Lee : Oh, well, let me keep you company on your shopping trip. 
+Yoon : Thanks so much, but I really don't want to bother you.
+Lee : No trouble at all. I'd be only too glad to help you out with anything I can.
+Yoon : That's really very kind of you.
+Lee : Don't mention it. My time is your time. 
+
+상황 542 동행
+
+윤대원 : 이 선생님, 저 오늘 오후에 쇼핑을 할 생각입니다.
+이진우 : 오, 그럼, 제가 동행해 드릴께요.
+윤대원 : 고맙습니다만, 폐를 끼치고 싶진 않습니다.
+이진우 : 천만에요. 제가 할 수 있는 일이라면 어떤 일이든 도와드릴 수 있다면 좋겠습니다.
+윤대원 : 매우 친절하시군요.
+이진우 : 별말씀을요. 전 언제든지 시간을 낼 수 있습니다.
+
+<어구연구>
+
+윤대원이 쇼핑을 가려고하자, 이진우가 다음과 같이 말한다.
+
+Let me keep you company on your shopping trip.
+(쇼핑가시는 데 제가 함께 동행해 드리겠습니다.)
+
+company란 말은 '사귐, 교제'란 뜻도 있지만 이때는 '동석, 동행'이란 뜻이다. 같은 어원의 단어 accompany(남을 …까지 동행[수행]하다)를 이용하여 표현할 수도 있다.
+
+Let me accompany you.
+(함께 따라가 드릴께요.)
+
+May I accompany you
+May I come along
+May I come with you
+(같이 가 드릴까요)
+
+
+company(사귐;동석, 동행;친구, 벗)의 실용적인 용례들이다.
+
+Why don't you keep her company
+(그녀의 상대가 되어주렴.)
+
+Are you expecting any company
+(오실 동행이 계십니까)
+
+
+
+
+
+
+
+Situation 541 A Gift
+
+Jin: Mr. Guk. Welcome to New York. How was your trip
+Guk: A little long, but not too bad.
+Jin: Hope the jet lag doesn't bother you too much.
+Guk: I hope so, too. I've got too much to do here. Oh, by the way,
+ I brought you a little something from Korea.
+Jin: Oh, you shouldn't have bothered, but thanks so much anyway.
+Guk: Don't mention it. It's my pleasure. 
+
+상황 541 선물
+
+진민규: 국선생님, 뉴욕에 오신 걸 환영합니다. 여행은 어땠습니까
+국감희: 약간 지루하기는 했지만 그런대로 괜찮았습니다.
+진민규: 시차병이 심하지 않으셔야 할 텐데
+국감희: 저도 그랬으면 좋겠어요. 여기서 해야 할 일이 굉장히 많거든요.
+ 오, 그건 그렇고, 한국에서 약소한 선물을 하나 가지고 왔습니다.
+진민규: 오, 그렇게까지 신경쓰지 않으셔도 되는데. 아무튼 대단히 감사합니다.
+국감희: 별마씀을요. 오히려 제가 기쁩니다. 
+
+<어구연구>
+
+국감희는 출장을 갔다오면서, 진민규를 위해 선물을 하나 준비했다. 선물을 건네면서
+
+I brought you a little something from Korea.
+(조그마한 선물을 하나 한국에서 가져왔습니다)
+
+
+ 라고 표현한다. 
+영어에도 겸손한 표현이 존재한다. 위의 문장에서처럼 
+'선물'을 a little something 으로 표현하는 것도 그런 예에 속하는 것이라고 할 수 있다.
+ 이때의 something은 '(일종의) 어떤 물건'이란 뜻의 부정대명사.
+다음과 같이 표현해도 같은 뜻이 된다.
+
+I brought you a small gift from Korea.
+Here's a little something for you from Korea.
+
+다음엔 관련표현들을 활용해 보자.
+
+Here's little korean doll for your daughter.
+(따님에게 드리라고 한국 인형 한 개를 가지고 왔습니다.)
+I picked up a bottle of Scotch for you on my way over here.
+(오는 길에 양주 한 병을 사가지고 왔습니다.)
+
+
+
+
+
+
+Situation 540 Competitors
+
+ Whang: Mr. Ki, I heard there are a lot of companies bidding on thiscontract.
+Ki : Yeah, we're up against a lot…13 in all.
+Whang : Who are your main competitors
+Ki : There are several. Competition is stiff.
+Whang : What are your chances
+Ki : We did the lowest, I'm sure. So I think our chances are good. 
+
+상황 540 경쟁사
+
+황순귀 : 기선생님, 이 계약을 따내기 위해 많은 회사가 경합을 하고 있다고 들었습니다.
+기단식 : 저희와 경합하고 있는 회사는 모두 13개사나 됩니다.
+황순귀 : 주요 경쟁사들은 어떤 회사들입니까
+기단식 : 몇 개 있습니다. 경쟁이 치열합니다.
+황순귀 : 귀사의 가능성은 어는 정도나 됩니까
+기단식 : 저희의 입찰가가 최저가일 것이 틀림없습니다. 제가 보기에는 승산이 높습니다. 
+
+<어구연구>
+
+황순귀는 대한상사가 이번에 참여한 경쟁입찰에 대하여 기단식에게,
+
+Who are your main competitors (주경쟁사들은 어떤 회사들입니까)
+
+와 같이 물어보고 있다. 황순귀의 질문은 다음과 같이 표현되기도 한다.
+
+Who do you compete against for the most part (대부분 누구와 경쟁을 합니까)
+Who do you mainly compete against (주로 어느 회사와 경쟁이 됩니까)
+
+이번엔 compete의 파생어들을 활용해 보자.
+
+Are there many competitors in your field (귀사의 업종에는 경쟁사가 많습니까)
+There were a lot of competitors for the job. (그 취직차리를 놓고 경쟁이 치열했다.)
+Is your product competitive (귀사의 제품은 경쟁력이 있습니까)
+
+
+
+
+Situation 539 Taxi
+
+Kim : Mr.Brown, wait here just a second. I'll grab us a taxi as soon as one comes in sight.
+Brown : Mr.Kim, I'd like to ask you something about the taxi fare. Is it more expensive at night
+Kim : Yeah, There's an extra charge after midnight.
+Brown : And does the meter keep running even when the taxi stops
+Kim : That's right. Just like in New York.
+Brown : Yeah, unfortunately, you just gotta hope and pray you don't get stuck in heavy traffic. Otherwise it costs you a fortune.
+
+
+상황 539 택시
+
+ 김이금: 브라운씨, 여기서 잠시만 기다리세요, 택시가 보이면 금방 잡을 테니까요.
+브라운 : 김 선생님, 택시 요금에 관해 여쭤보고 싶은 게 있는데요. 밤에는 요금이 더 비싼가요
+김이금 : 예, 12시 이후에는 할증요금을 받습니다.
+브라운 : 그리고 택시가 멈췄을 때에도 미터기가 계속 돌아가나요
+김이금 : 맞아요. 뉴욕과 마찬가지죠.
+브라운 : 예, 불행히도 차가 막히지 않도록 빌어야겠군요. 그렇지 않으면 택시요금이 엄청 많이 나올 테니까요
+
+<어구연구>
+
+한국에 와서 일전에 처음으로 심야에 택시를 타본 Mr.Brown은 밤에는 택시요금이 더 비싸냐구 Mr.Kim에게 묻는다. 이에 대해 Mr.Kim은
+
+There's an extra charge after midnight.
+(자정 이후에는 할증요금이 적용됩니다.)
+
+라고 대답을 해주고 있다. '할증요금'은 extra charge라 하고 이때의 extra는 '가외의'란 뜻. Mr.Kim의 얘기는 다음과 같이 표현할 수도 있다.
+
+The fare goes up after midnight.
+(심야 이후에는 요금이 비싸집니다.)
+
+The fare is more expensive after 12 o'clock.
+(12시가 넘으면 요금이 더 비쌉니다.)
+
+The meter runs faster after midnight.
+(자정 이후에는 요금미터기가 더 빨리 돌아갑니다.)
+
+
+
+
+
+
+Situation 538 Taxi
+
+Brian : Mr.Kim, a terrible thing happened. I think I must have dropped my wallet in the taxi last night.
+Kim : Are you sure you didn't leave it some place else
+Brian : Positive. I've checked everywhere.
+Kim : I'll call the lost and found. What color is it
+Brian : It's a brown leather billfold. It's got my driver's license, my credit card, and about 10,000won, I think.
+Kim : Okay, let's hope the driver will turn it in. 
+
+상황 538 택시
+
+브라이언: 김 선생님, 큰일났습니다. 제가 어젯밤 택시에다 지갑을 두고 내린 것 같아요.
+김동기 : 다른 곳에 놔둔 건 분명히 아니시지요
+브라이언 : 틀림없어요. 사방을 다 찾아보았거든요.
+김동기 : 제가 분실물 신고처에 신고해 드리겠습니다. 어떤 색이죠
+브라이언 : 갈색 가죽지갑이에요. 거기에 운전면허증 크레디트 카드 그리고 돈 만원이 들어 있을 거예요.
+김동기 : 알겠습니다. 택시 운전수가 그것을 돌려줬으면 좋겠군요. 
+
+<어구연구>
+
+깜박 잊고 택시에 지갑을 두고 내린 Mr.Brian은 이 문제에 대하여 Mr.Kim과 대화를 나누고 있다. Mr.Kim은 우선 분실물 신고처에 신고를 해주겠다며,
+
+Let's hope the driver will turn it in.
+(택시 운전수가 그것을 돌려줘야 할 텐데)
+
+라고 말하고 있다. turn in은 원래 '(필요가 없어졌을 때 당사자에게 돌려주다, 반환하다'란 뜻으로 쓰이는 말이나 위와 같은 경우에도 쓰인다. 따라서 I'll turn it in for another.라고 하면 '나는 그것을 반납하고 다른 것으로 교환하겠다.'란 뜻이 된다.
+이런 상황에서 쓰이는 실용표현들을 좀도 살펴보자.
+
+Let's hope the driver will turn it in[over] to the lost and found department.
+(그 운전수가 그것을 분실물 신고처에 돌려주었으면 좋겠는데.)
+
+Why don't you check the lost and found department at the Namdaemun police station
+(남대문 경찰서 내에 있는 분실물 신고부서에 확인해 보시죠)
+
+Why don't you report it to the radio station
+(라디오 방송국에 신고를 하시지 그래요) 
+
+
+
+
+Situation 537 Promise
+
+No : (on phone) Mr. Smith What happened today We were waiting for you.
+Smith : I'm sorry I couldn't get to your office today, Mr. No. Things got kind of hectic down at the factory.
+No : I see. Well, are you set for tomorrow
+Smith : I'm afraid I'll be tied up all day again. Let's make it for the day after, okay
+No : Well, okay. Around what time should we expect you
+Smith : Say, around 10:00 or so. How's that Okay 
+
+상황 537 약속
+
+노진학 : (전화로)브라운씨세요 오늘 무슨일이 있으셨어요기다리고 있었는데요.
+스미스 : 오늘 사무실에 못 가서 죄송합니다, 김 선생님. 공장의 사정이 좀 골치 아프게 되었습니다.
+노진학 : 알겠습니다. 그럼, 내일 약속을 하면 어떨까요
+스미스 : 유감입니다. 내일도 하루 종일 바쁠 것 같으니까, 모레로 하는 게 어때요, 괜찮겠어요
+노진학 : 좋습니다. 몇 시쯤 오시겠어요
+스미스 : 저, 10시경이 어떨까요, 괜찮겠습니까 
+
+<어구연구>
+
+사무실에 오기로 했던 Mr. Smith이 나타나지 않자 Mr. No는 그의 사무실로 전화를 한다. 이에전화를 받은 Mr. Smith는
+
+I'm sorry I couldn't get to your offie today.
+(오늘 사무실에 갈 수 없어 미안합니다.)
+
+라고 사과하고 있다. '사무실에 가다'를 go to your office처럼 go to를 쓰지 않고 get to(=succeed in reaching or communicating with)란 표현을 쓴다는 점에 유의해야 한다.
+Mr. Smith의 얘기는 다음과 같이 표현해도 좋다.
+
+I'm sorry I couldn't make it[come over] to your office.
+(사무실에 못 가서 미안합니다.)
+
+I couldn't find any time to get over[come over] to your office.
+(시간을 낼 수가 업어서 사무실에 못 갔습니다.)
+
+다음의 표현들도 함께 알아두자.
+
+Why couldn't you get to our office yesterday
+(어제 우리 사무실에 왜 못 왔니)
+
+I won't be able to get to your office tomorrow.
+(내일 네 사무실에 못 갈 것 같습니다.) 
+
+
+
+
+
+Situation 536 Shopping
+
+Nam : Mr.Brown, if you have nothing planned after this, how about taking a drive down to the Folk Village
+Brown : Well, actually I wanted to get some shopping done this afternoon. I heard that Itaewon is a great for bargains, but I don't have the slightest idea where it is.
+Nam : Well, if you like, I'll come along with you.
+Brown : Oh, that'd be great, but are you sure it's no bother
+Nam : No trouble at all. I'll be glad to assist you.
+Brown : Great. Then afterwards, I might take you up on that drive, if it isn't too late. 
+
+상황 536 쇼핑
+
+남기남 : 브라운씨, 이후에 아무 계획이 없으시면, 민속촌에 가보시지 않을래요
+브라운 : 저, 실은, 오늘 오후에 쇼핑을 좀 하고 싶었어요. 이태원에 가면 아주 싸게 살 수 있다는 소리를 들었는데 어딘지를 전혀 몰라서요.
+남기남 : 저, 원하시면, 같이 가 드릴게요.
+브라운 : 오, 그래 주시겠어요, 그렇지만 폐를 끼치는 것은 아닌지요
+남기남 : 폐는 무슨 폐예요. 기꺼이 도와드릴게요.
+브라운 : 좋아요. 그러면 쇼핑하고 난 다음에 시간이 너무 늦지 않으면 선생님 제안대로 드라이브를 갈 수 있을지도 모르겠군요. 
+
+<어구연구>
+
+Mr.Brown은 오늘 오후 이태원에 가서 쇼핑할 예정이나 이태원이 어디 있는지 모른다. 이런 사정을 들은 Mr.Nam은,
+
+If you like, I'll come along with you.
+(원하시면, 같이 가 드릴게요.)
+
+라고 제의를 하고 있다. 상대방이 가는 곳으로 함께 가는 것은 go along with가 아니라 come along with라고 해야 옳다. 이런 상황에서 쓸 수 있는 같은 표현들로,
+
+If it's okay with you, I'll be glad to guide [accompany] you.
+(괜찮으시면, 제가 안내해[따라가] 드리지요.)
+
+If you like, I'll show you the way.
+(원하시면, 제가 길을 안내해 드리겠습니다.)
+
+
+
+
+
+
+
+Situation 535 Visit
+
+Brown: Hello, Mr. Lee.
+Lee: Hello, Mr. Brown. What a surprise! It's been quite a while, hasn't it
+Brown: It certainly has. How have you been
+Lee: Quite well, thank you, and how's the world treating you
+Brown: Not very well. I'm still doing the same routine at the same old company. 
+Howerer,I was finally promote to manager of a small section recently.
+Lee: Manager! That's great. Congratulations!
+Brown: Thanks very much, but it sure took a long time. 
+
+상황 535 방문
+
+브라운: 안녕하세요, 이 전무님.
+이재민: 아, 브라운씨 아니세요 이게 웬일이십니까 참 오랜만이군요, 그렇죠
+브라운: 정말 그렇군요. 어떻게 지냈습니까
+이재민: 덕분에 잘 지냈습니다. 브라운씨는 어떻게 지내십니까
+브라운: 그저 그렇습니다. 똑같은 회사에서 같은 일을 하고 있습니다 그런데 참, 제가 드디어 작은 부서의 부장으로 승진이 됐습니다.
+이재민: 부장요! 잘됐군요. 축하합니다!
+브라운: 대단히 고맙습니다. 하지만 너무 오래 걸렸어요. 
+
+<어구연구>
+
+오랜만에 미국인 buyer Mr. Brown의 목소리를 화로 듣자 Mr. Lee는 반가워하며,
+
+It's been quite a while, hasn't it
+(꽤 오래간만이지요)
+
+라고 인사를 건넨다.
+
+while은 '잠깐동안'이란 뜻도 있지만 이외에 '일정기간: 동안'이란 뜻도 있어
+ a little while은 '조금동안'이란 뜻이 되고, 
+a long while이나 quite a while은 '오랫동안'이란 의미가 된다.
+
+오랜만이란 말은 다음과 같이 표현하기도 한다.
+
+It's a long time since I saw you last.
+(지난번 만난 이후 오랜 시간이 지났다, ; 오랜만입니다.)
+Long time no see.
+(오랜만입니다.)
+I haven't seen you in a long time.
+(못 만난 지가 매우 오래 되었군요.)
+
+
+
+
+Situation 534 Invitation
+
+Kim: (on phone) Mr. Brown, my wife and I would love to have you and Mrs. Brown over for dinner tonight.
+Brown: Thanks so much, Mr. Kim, but I'm afraid my wife isn't feeling very well.
+Kim: Oh, what's the matter Nothing serious I hope.
+Brown: No, it's just a slight headache and upset stomach. It must have been something she ate.
+Kim: Oh, I'm sorry to hear that. Can I get her something from the rugstore
+Brown: Oh, no thanks. I don't want you to go to any bother. 
+
+상황 534 초대
+
+김동훈: (전화로) 브라운씨, 제 아내와 제가 오늘 저녁 두 분 내외분께 저녁식사를 대접해 드렸으면 하는데요.
+브라운: 대단히 고맙습니다만 아내가 몸이 좀 불편해서요.
+김동훈: 저런, 왜요 심하신 건 아니겠지요.
+브라운: 아닙니다. 두통이 약간 있고 배탈이 난 것뿐이랍니다. 틀림없이 음식 먹은 게 잘못돼서 그럴 거예요.
+김동훈: 안됐군요. 제가 약국에서 약을 좀 사다드릴까요
+브라운: 아니, 괜찮습니다. 수고를 끼쳐드리고 싶지 않군요. 
+
+<어구연구>
+
+김동훈이 브라운을 저녁식사에 초대하려고 하지만, 브라운의 부인이 아픈다는 말을 듣고 약을 사놓겠다고 하자, 브라운은 즉각 다음과 같이 답한다.
+
+Oh, no thanks. I don't want you to go to any bother.
+(아니, 됐습니다. 일부러 그렇게 안 해주셔도 됩니다.)
+
+bother는 '귀찮은, 성가신 일'이란 명사다. 이외에 '걱정하다, 일부러 …하다'란 뜻의 동사용법으로 쓰인 것이다.
+
+이에 브라운의 대답은
+ 
+I don't want you to trouble yourself.
+I don't want you to make any trouble for yourself.
+(일부러 그렇게 수고하시지 마세요.)
+
+Please don't bother.
+(그냥 두세요.)
+
+이다.
+
+
+
+Situation 553 Lunchtime
+
+Kwon : Mr. Whang, it's getting close to lunchtime. Why don't we stop for a while We've been at this for hours.
+Whang : Just a few more minutes.
+Kwon : We'd better quit now or a few minutes will turn into an hour or more.
+Whang : Okay, you're probably right. Let's go ahead and finish up after lunch.
+Kwon : Great, what would you like to have 
+
+상황 553 점심시간
+
+권기대 : 브라운씨, 점심시간이 다 되어가는데 잠깐 쉴까요 우린 지금 몇 시간째 계속 이 일을 해왔습니다.
+황수인 : 조금만 더 합시다.
+권기대 : 지금 그만두는 게 좋아요. 그렇지 않으면 조금이라던 것이 한 시간 이상이 되고 말 테 니까요.
+황수인 : 좋습니다. 선생님 말씀이 옳은 것 같군요. 일단 점심부터 먹고 마무리합시다.
+권기대 : 좋습니다. 뭘 드시고 싶습니까 
+
+<어구연구>
+
+외국인 buyer와 상담을 하다가 점심시간이 다 되어 가면,
+
+Mr. Whang, it's getting close to lunchtime. (황수인씨, 점심시간이 다 되어 갑니다.)
+
+와 같은 얘기를 하게 된다. 아니면 다음과 같이 말해도 좋을 것이다.
+
+Let's stop here and take a lunch break. (여기서 중단하고 점심식사시간을 가집시다.)
+Let's continue after lunch. (점심 식사 후에 계속합시다.)
+What say we continue after lunch (점심을 먹고 계속하는 게 어떨까요)
+
+□ What say…:(상대방의 의향을 물어)<…은>어떻습니까(=What do you say…)
+
+Aren't you hungry Let's stop for lunch and have a bite to eat. (배고프지 않으세요 잠시 중단하고 간단히 점심이나 합시다.)
+
+□ a bite (to eat): (음식의) 한 입 ; 소량의 식사, 가벼운 식사
+
+다음은 관련표현이다.
+
+My stomach tells me it's time to eat. What about you
+ (뱃속에서 점심시간이 다 되었다고 알리는데 선생님은 어떠세요)
+
+Shall we finish it up before lunch or wait till after (일을 끝내고 점심을 할까요, 아니면 점심을 먹고 나서 할까요)
+
+□ wait : 늦추다, 미루다 (postpone)
+
+There's only a little left, Let's finish up first and then go to lunch. (조금밖에 남지 않았으니까, 먼저 끝내고 점심을 하러 갑시다.) 
+
+
+
+
+Situation 552 Money changing
+
+Park : I'd like to have this cashed, please.
+Cashier : Okay. May I see your passport, please
+Park : Yes. Here it is, right here.
+Cashier : Okay. Would you sign over here, please
+Park : Right over here Okay.
+Cashier : What denominations would you prefer, sir
+
+
+상황 552 환전
+
+ 박장희: 이것을 현금으로 좀 바꾸었으면 합니다.
+ 현금출납원: 예. 여권을 좀 보여주시겠습니까
+박장희 : 예. 여기 있습니다. 여기요
+현금출납원 : 예. 여기 서명 좀 해주시겠어요 
+박장희 : 바로 여기요 예.
+현금출납원 : 얼마짜리로 드릴까요
+
+<어구연구>
+
+택시요금이나 간단한 식사대금을 일일이 여행자수표로 지불할 수는 없다. 그래서 현금이 필요할 때는 수표를 현금으로 바꿔서 쓰게 된다. 현금이 필요한 박장희는 자신이 묵고 있는 호텔의 환전소에 가서, 
+
+I'd like to have this cashed, please.
+( 이 수표를 현금으로 바꾸었으면 합니다.)
+
+라고 말하고 있다. 이때 cashier(현금출납원)는 보통 다음과 같이 물어본다.
+
+What denomination would you prefer, sir
+(얼마짜리로 바꿔드릴까요)
+
+여기서 denomination이라는 단어의 뜻을 모르면 당황하게 된다. 이때의 denomination은 [화폐(단위)금액]을 의미하므로,
+
+How would you like it
+(어떻게 바꿔드릴까요)
+
+와 같은 의미라 하겠다.
+다음의 관련표현들도 함께 알아두자.
+
+Would you cash this for me
+(이걸 현금으로 좀 바꿔 주시겠습니까)
+
+I'd like it all in ten-dollar bills.
+(모두 10불짜리 지폐로 주십시오.)
+
+Can I change as much as I want
+(환전은 원하는 만큼 할 수 있습니까)
+
+What's the exchange rate for today
+(오늘 환율은 얼마나 됩니까)
+
+
+
+
+
+
+Situation 551 Product
+
+Brown : Mr. Kim, we're interested in your product, but what we'd like to know is how much of a variety is available in patterns and sizes.
+Kim : We can offer you a wide choice of sizes and types from stock.
+Brown : Well, how about sizes
+Kim : It's available in three sizes ; small, medium and large.
+Brown : Okay, and how about patterns
+Kim : They're illustrated here in this catalog. 
+
+상황 551 상품
+
+브라운: 김 선생님, 귀사 제품에 관심이 있습니다만, 상품이 패턴과 규격면에서 얼마나 다양한 지 알고 싶습니다.
+김기철 : 다양한 규격과 스타일을 즉시 공급해 드릴 수가 있습니다.
+브라운 : 사이즈는 어떤가요
+김기철 : 3가지 규격이 있습니다. 대, 중, 소로요.
+브라운 : 좋습니다. 패턴은 어떻게 됩니까
+김기철 : 여기 이 카탈로그에 나와 있습니다. 
+
+<어구연구>
+
+미국의 수입업자인 Mr. Brown은 대한상사의 제품에 관심이 많다. 그래서 현재 공급이 가능 한 규격과 스타일에 대하여 물어보자 Mr. Kim은, 
+
+We can offer you a wide choice of sizes and types from stock. (다양한 규격과 스타일의 상품을 재고에서 공급해 드릴 수가 있습니다.)
+
+라고 자기 회사의 여건을 얘기해 준다. 이때의 offer는 '제공하다;제안하다'란 뜻이고, choice 는 '(범위를 나타내는 수식어와 함께) 선택의 범위, 종류'란 의미로 쓰였다. 한편 from stock 은 '재고로부터'란 뜻이므로 '즉시 공급이 가능함'을 의미한다. 따라서 Mr. Kim의 얘기는 다음과 같이 표현할 수도 있다.
+
+A wide choice of sizes and types are available from stock. (다양한 규격과 스타일을 재고에서 공급해 드리는 것이 가능합니다.)
+There is a wide variety ( selection) of choices in sizes and types. (다양한 규격과 스타일의 제품이 있습니다.)
+
+이때의 variety는 '여러 가지'란 뜻이고, selection 은 '(같은 종류의)구색'이란 의미이다. 이번엔 이런 용법의 variety 와 choice를 활용해 보자.
+
+There is no end to the variety of sizes and types. (규격과 스타일이 매우 다양합니다.)
+The shop has a large choice of bags. (그 가게에는 여러 가지 종류의 가방이 있습니다.) 
+
+
+
+
+
+
+Situation 550 A file
+
+Chang: Mr. Hong, did you bring a sample of model 54-A with you
+Hong: Oh, gosh. It completely slipped my mind. Gee, I'm sorry about that.
+Chang: No problem. Can you have it sent by express mail
+Hong: Sure thing. I'll get on the phone right away and have the company rush it off.
+Chang: How long do you think it'll take
+Hong: Not more than five days at the most. 
+
+상황 550 서류
+
+장지훈: 홍선생님, 모델 54-A의 견본을 갖고 오셨나요
+홍관의: 아, 이런, 제가 깜빡 잊어버렸습니다. 이거 참, 죄송합니다.
+장지훈: 상관없습니다. 그것을 속달우편으로 보내주시겠습니까
+홍관의: 물론입니다. 당장 회사에 전화를 걸어서, 그것을 급송하도록 하겠 습니다.
+ 장지훈:그러면 얼마나 걸리겠습니까
+홍관의: 많이 걸려야 5일이면 됩니다. 
+
+<어구연구>
+
+상거래를 하다 보면 급히 서류나 견본 등을 보내야 할 일이 생긴다. 이때 이용할 수 있는 방법이 여러 가지 있겠지만 미국의 장지훈은 홍관의에게
+
+Can you have it sent by express mail (그것을 속달우편으로 보내주시겠습니까)
+
+라고 요청하고 있다. 한편 '속달등기'는 registered airmail express라고 하면 된다. 그러나 우체국의 express는 도착지에서 배달과정을 속달한다는 뜻이므로 일반항공우편보다 약 1일 정도가 빠를 뿐이다. 그러나 speed post(국제특급우편) 제도를 이용 하면 1-3일이면 보내고자 하는 서류나 견본 등을 원하는 곳에 도착시킬 수가 있다. 장지훈의 얘기는 다음과 같이 표현해도 좋을 것이다.
+
+Can you send it airmail express (그것을 속달로 보내주실 수 있습니까)
+Would you have it sent via speed post (그것을 국제특급우편으로 보내주시겠습니까)
+Can you send it by DHL (그것을 DHL을 통해 보내주실 수 있습니까)
+
+DHL이란 국제간 서류나 견본 등의 속달 서비스를 하고 있는 회사 이름이다. 다음의 관련표현들도 함께 알아두자.
+
+Which is faster, express or speed post (속달과 국제특급우편 간에는 어느 쪽이 더 빠릅니까)
+How long does it take if you send it by DHL (DHL로 보내면 시간이 얼마나 걸립니까)
+Does DHL deliver direct to your office (DHL은 수취인의 사무실까지 직접 배달해 줍니까)
+I have someone who can hand-carry this for you. (당신을 대신하여 이것을 직접 휴대하여 전해드릴 사람이 있습니다.) 
+
+
+
+
+
+
+Situation 549 Claim
+
+ Hong: Look, Mr. Guk, there's no way your company can avoid the blame for the defect.
+Guk : Mr. Hong, I tell you, I'm positive there was no defect when the item left the factory.
+ Hong: Mr. Guk, I don't want to argue about that. Either our claim gets settled or the deal is off.
+Guk : We don't want to lose this deal, but at the same time, we can't settled or the deal is off.
+ Hong: You leave us no choice, then. We'll have to void the contract.
+Guk : Oh, come on, let's be reasonable. You stand to lose by doing that just as much as we do. 
+
+상황 549 클레임
+
+홍재관: 저, 국선생님, 귀사가 결함에 대한 책임을 면할 수 있는 방법은 없습니다.
+국이성 : 홍재관씨, 분명히 말씀드립니다만 그 쩨품이 공장에서 떠날 때는 전혀 하자가 없었습니 다.
+홍재관: 국선생님, 그점에 대해서는 논쟁하고 싶지않습니다. 당사 클레임이 해결되던가 아니면 거래는 끝장입니다.
+국이성 : 이 거래를 놓치고 싶진 않지만 동시에 우리측이 잘못이 아닌 손해배상 청구에 응할 수는 없습니다.
+홍재관 : 선택의 여지를 주시지 않는군요. 저희는 그 계약을 취소하는 수밖에 없겠습니다.
+국이성 : 자, 이러지 말고 서로 이성적으로 해결을 합시다. 우리가 손해보는 만큼 손해를 보시게 될 텐데요. 
+
+<어구연구>
+
+대한상사가 지난번 선적한 제품에 이상이 발견되었기 때문에 홍재관은 손해배상을 청 구해 놓고 있다. 서로가 하자가 없다고 주장하자 두 사람은 언성이 높아진다. 이때 다소 화 가 난 국이성은,
+
+I don't want to argue about that. (그 점에 대해서는 논쟁하고 싶지 않습니다.)
+
+라고 말한다. argue는 사리를 밝히고, 증거를 들어서 주장을 폄으로써 상대방을 납득시키려 고 하는 행위를 말한다. discuss나 talk about은 언쟁과는 무관한 토론이나 대화일 수도 있 고 때로는 언쟁을 의미할 때도 있다. 따라서 홍재관의 얘기는,
+
+I dont't want to discuss (talk about) that. (그것에 관해 얘기하고 싶지 않습니다.)
+Let's drop (forget) it. (없었던 일로 합시다.)
+
+등으로 다르게 표현할 수도 있다. 다음의 관련표현들도 함께 알아두자.
+
+What were you arguing about so loudly (뭘 가지고 그렇게 큰 소리롤 언쟁을 했습니까)
+Don't argue about such a small thing. (그런 사소산 일로 왈가왈부하지 말아요.) 
+
+
+
+
+Situation 548 A mix-up
+
+Whang : Mr. Dan. The order we placed with you was for 600 cartons of size B undershirts, right
+Dan : Yes, I believe that`s right.
+Whang : Then how come you sent us 500 cartons of size A
+Dan : Really Let me check on that a moment.
+Whang : Okay. Do that and call me back.
+ Dan: Yes, you`re right, Mr.Whang. I`m sorry. There`s been a bit of a mix-up. 
+
+상황 548 혼동
+
+황순귀 : 단선생님, 저희가 낸 주문이 B사이즈 내의 600 카톤이었죠
+단지훈 : 예, 그런 걸로 알고 있는데요.
+황순귀 : 그러면 어째서 A 사이즈로 500 카톤을 보내셨습니까
+단지훈 : 정말입니까 지금 한번 확인해 보죠.
+황순귀 : 예, 그렇게 해주세요. 그리고 다시 전화 주세요.
+단지훈 : 예, 황순귀씨 말씀이 맞습니다. 죄송합니다. 다소 혼동이 있었 던 것 같습니다. 
+
+<어구연구>
+
+특히 봉제제품인 경우에는, 제작지시서에서부터 색상 및 사이즈별 구색을 맞추어 지시대로 박스에 포장을 할 때까지 세심한 주의를 기울이지 않으면 안 된다. 사이즈별 포장에 문제가 있다는 황순귀의 얘기를 듣고 확인을 해 본 단지훈은,
+
+I`m sorry. There`s been a bit of a mix-up. (죄송합니다. 약간의 혼동이 있었군요.)
+
+라고 잘못을 시인한다. mix up을 동사로 쓰면 「혼동하다, 잘못 알 다」란 뜻이 되고 mix-up처럼 복합어로 쓰면 「혼란, 뒤얽힘」이란 명사가 된다. 다음과 같이 표현해도 좋다.
+
+There was some confusion[mistake, misunderstanding]. (약간의 혼동이 있었습니다.)
+They got it wrong. (그들은 그것을 혼동[오해]했습니다.)
+Something went wrong somewhere. (어딘가가 잘못됐군요.)
+Something got fouled up[messed up, screwed up]. (무언가가 잘못되었습니다.)
+
+다음은 관련표현들이다.
+
+There`s been a bit of a delay[trouble]. (다소의 지연[말썽]이 있었다.)
+You`re a bit to blame as well, too. (당신에게도 약간의 잘못이 있다.)
+I`m afraid you`re mixing this up with something else. (이것을 다른 것과 혼동하고 계신 것 같군요.) 
+
+
+
+
+
+
+
+
+Situation 547 Claim
+
+Cheon : Hi, Mr. Park. Say, listen, before we talk about any new business, I'd like to business, I'd like to discuss your order No. 1001 ,which the opening bank refused to accept the document. I'd like to ask you why the documents were refused.
+Park : I was informed by the opening bank that you negotiated documents against L/G 10 days later than the date specified on the L/C.
+Cheon : We had an unavoidable situation.
+Park : Well, due to the delay, we missed the season and, therefore, my customers wouldn't accept the goods at the contracted amount, but demanded a discount.
+Cheon : Okay, we can offer you a discount. What would you suggest 
+Park : One dollar on every dozen.
+Cheon : We can accept that. Please contact your opening bank and ask them to release the documents.
+Park : Thank you, Mr. Kim. I'll do that. 
+
+상황 547 클레임
+
+천수만 : 안녕하세요, 박규동씨. 저, 신규거래에 관해 얘기하기 전에, 개설은행에서 선적서류 인수 를 거부한 귀사 주문번호 1001에 대해 의논하고 싶습니다. 서류가 인수되지 못한 이유가 뭐지요
+박규동 : 개설은행으로부터 통보받기로는 귀사가 신용장상의 선적기일보다 10일 늦게 선적을 한 다음 각서를 쓰고 수출환어음 매입을 의뢰하셨다면서요.
+천수만 : 불가피한 사정이 있었습니다.
+박규동 : 저, 지연됨으로 인해 우린 시즌을 놓쳤으며, 그 결과 저희 고객들이 계약단가로는 물건 을 인수하려 들지 않고 할인을 요구했습니다.
+천수만 : 좋습니다, 할인해 드릴 수 있습니다. 어느 정도 해드리면 되겠습니까
+박규동 : 다스당 1달러씩 할인해 주십시오.
+천수만 : 좋습니다. 개설은행에 연락해서 선적서류를 양도해 주도록 해주십시오.
+박규동 : 감사합니다, 김 선생님. 그렇게 하겠습니다. 
+
+<어구연구>
+
+대한상사는 불가피한 사정으로 선적을 계약대로 이행하지 못하게 되었고, 이에 대하여 박규동은 고객으로부터 가격인하요청을 받고 있다고 전한다. 이에 대하여 천수만은 고객으로부터 가격인하요청을 받고 있다고 전한다. 이에 대하여 박규동은,
+
+We can offer you a discount. What would you suggest (할인해 드릴 수 있습니다. 어느 정도 해드리면 될지 제안해 보세요.)
+
+라고 말하고 있다. what을 (무엇)으로만 해석해서는 안 될 때가 많으므로 유의해야 한다. (어느 정도 (할인해 드리)면 될지 제안해 보세요.)를 한국인이라면 십중팔구는 How much would you suggest 로 표현 할 것이다. 미국인들은 이렇게 표현하지 않는다. 다음의 경우도 한국인들이 틀리기 쉬운 부분이므로 잘 익혀두자.
+
+◇ 가격이 얼마입니까
+What's the price(O)
+How much is the price(X)
+How much is it(O)
+
+◇댁의 가능성은 어느 정도나 됩니까
+What are your chances(O)
+How much are your chances(X)
+
+◇그의 나이는 얼마나 됩니까
+What's his age(O)
+How old is his age(X)
+How old is he(O)
+
+Situation 545 Trade fair
+
+Han : Good morning, sir, can I help you
+Nicol : Yes, I was wondering if you had the time to show me around this exhibition
+Han : I'd be glad to, sir, but may I ask what line of business you are in
+Nicol : I'm in the textile business.
+Han : I see. Would you be interested in seeing some of these rayon print dresses They are made by Seoul Rayon Company. 
+
+상황 545 무역 박람회
+
+한진기 : 안녕하세요. 좀 도와드릴까요
+니콜 : 예, 이 전시장을 한바퀴 안내해 주실 수 있는지요
+한진기 : 기꺼이 해드리지요. 그런데 무슨 사업을 하고 계시지요
+니콜 : 섬유업에 종사하고 있습니다.
+한진기 : 알겠습니다. 인견사에 나염한 이 의류들을 한번 보시겠습니까 서울레이온사(社) 제품 입니다. 
+
+<어구연구>
+
+Trade Fair 전시관에서 안내를 맡고 있는 한진기에게 어떤 외국인이 방문을 하여 안내를 부탁한다. 이에 대해 한진기는
+
+I'd be glad to, sir, but may I ask what line of business you are in
+ (기꺼이 해드리죠. 그런데 어떤 분야의 사업을 하고 계시는지요)
+
+라고 질문을 하며 우선 상대방의 관심품목이 무엇인가를 알아낸다. 
+이때의 line은 (사업, 직 업)이란 뜻이다. 그냥 What lime are you in 이라고만 해도 (하시는 사업은 무엇입니까) 란 의미가 된다. 
+이외에 다음과 같이 말할 수도 있을 것이다.
+
+May I ask specifically what you are looking for 
+(구체적으로 어떤 제품을 찾으십니까)
+
+What do you have in mind in particular 
+(특별히 어떤 상품에 관심을 갖고 계십니까)
+
+What items are you specifically (especially) interested in
+ (특별히 어떤 품목을 구매하실 의향입니까)
+
+다음의 관련표현들도 함께 알아두자.
+
+What items are you interested in importing
+ (어떤 품목의 수입에 관심을 갖고 계십니까)
+
+What kind of items do you deal in 
+(어떤 품목을 취급하고 계십니까)
+
+
+
+
+
+
+Situation 545 Promise
+
+Park: (on telephone) Hello, Mr.Whang when did you get in
+Whang: Just a little while ago, as a matter of fact.
+Park: I hope you had a good trip. When will I get to see you
+Whang: Well, I had a long trip. Maybe I'd better just rest up tonight.
+Park: Can I expect you tomorrow morning then
+Whang: You bet. I'll give you a call at the office before I leave. 
+
+상황 545 약속
+javascript:isvalid()
+박순재: (전화로) 여보세요, 브라운씨. 언제 입국하셨습니까
+황민수: 실은 조금 전에 왔습니다.
+박순재: 여행은 즐거웠는지 모르겠습니다. 언제쯤 뵐 수 있을까요
+황민수: 저, 여행을 좀 오래 해서. 오늘밤은 그냥 쉬는 게 좋을 것 같습니다.
+박순재: 그러면 내일 아침에 이쪽으로 오실 수 있겠습니까
+황민수: 그러지요. 출발하기 전에 김 선생님 사무실로 전화 드리겠습니다. 
+
+<어구연구>
+
+수입 상담차 한국에 온 박순재는 제일 먼저 거래처인 대한상사에 전화를 걸어 자신의 입국을 알린다. 긴 여행을 하였기 때문에 오늘 저녁엔 좀 쉬어야겠다는 사정도 밝힌다. 그러자 대한상사의 황민수는
+
+Can I expect you tomorrow morning then
+(그럼 내일 아침에는 저희 사무실에서 좀 뵐 수가 있을까요)
+
+라고 물어 내일은 만날 수 있는지를 확인하고 있다. 이때의 expect는 '(오는 것을) 기대하다, 기다리다'라는 뜻이기 때문에 황민수의 얘기는 다음과 같이 다르게 표현할 수도 있다.
+
+Can I see you at my office tomorrow morning
+(내일 아침 저희 사무실에서 뵐 수 있을까요)
+
+Can I count on you coming tomorrow morning
+(내일 아침 여기로 오시는 것으로 기대해도 될까요)
+
+이때의 you는 엄격한 문어체에서는 소유격 your를 써야 옳으나 현대 구어체에서는 동명사의 의미상 주어를 소유격대신 목적격으로 표시하는 경향이 강하다.
+동사 expect를 좀 더 활용해 보자.
+
+A: Can I expect you there
+(거기 오시는 것으로 기대해도 될까요)
+
+B: Yes, but not until 9 o'clock.
+(예, 그러나 9시경이나 되어야 합니다.)
+
+
+
+Situation 544 New product
+
+Do: Mr. Gi, you know, your new model's okay, but the styling is a bit outmoded.
+Gi : Oh, really What's the trend in styling these days
+Do : Well, for one, the edges should be rounded out more smoothly.
+Gi : Oh, I see, to give it a more streamlined look, you mean.
+Do : Yeah, that's it. And also the color. It needs to be toned down a bit.
+Gi : H'm, yes. I'll have to admit it is a bit too loud. 
+
+상황 544 신제품
+
+ 도진환: 기선생님, 저, 귀사 새 모델이 좋긴 한데 스타일이 다소 유행 에 뒤진 것 같아요.
+기일상 : 오, 그래요 요즘 스타일의 경향은 어떻습니까
+도진환 : 한 가지 말씀 드리자면, 모서리가 좀더 둥글게 처리되어야 합 니다.
+기일상 : 알겠습니다. 더 날씬한 모양이 되어야 한다는 뜻이군요.
+도진환 : 예, 바로 그렇습니다. 색상도 약간 엷어져야 하구요.
+기일상 : 아, 그렇군요. 색상이 좀 요란스럽다는 점은 저도 인정합니 다. 
+
+<어구연구>
+
+한국상사가 이번에 신제품으로 내놓은 상품을 보고 스타일이 다소 유 행에 뒤진(outmoded) 것 같다고 도진환이 말하자 기일상은
+
+What's the trend in styling these days (요즘 스타일의 경향은 어떻습니까)
+
+라고 질문을 한다. trend는 '(여론, 사태 등의) 동향, 추세 ; (옷 등의) 유행'이란 뜻. 옷이나 행동 등의 유행을 가리키는 말로는 이외에 fashion도 있다. 따라서 기일상의 얘기는
+
+What's the fashion in styling[style] these days
+What trend is popular in styling these days
+What's the ongoing trend in styling these days
+
+등으로 다르게 표현할 수 있다. 여기서 ongoing은 '진행중인, 계 속되고 있는'이란 뜻이다.
+
+
+Situation 563 A ticket
+
+Jang : I'd like to buy a ticket to Seoul on the next flight out.
+ Han: Okay, let me check to see if any seats are available.
+Jang : Thank you.
+Han : Sir, there are two seats left. One is first class and the other is economy. Which would you pefer
+Jang : Economy class, please. What is the date and time on that flight
+Han : It leaves tomorrow at 1:30 local time. 
+
+상황 563 티켓
+
+장준원 : 다음번 서울행 비행기표를 사려고 하는데요.
+한수인 : 예, 좌석이 있는지 알아보겠습니다. 
+장준원 : 감사합니다.
+한수인 : 손님, 좌석 2개가 남아 있습니다. 하나는 1등석이고 또 하나는 보통석입니다. 어느 쪽으로 하시겠습니까
+장준원 : 보통석으로 해주세요. 그 항공편의 출발일과 시간은 어떻게 되지요
+한수인 : 현지 시간으로 내일 1시간 30분 출발입니다. 
+
+<어구연구>
+
+항공권에는 일등석(first class)과 보통석 혹은 2등석(economy class)이 있는데 일등석의 항공료는 보통석에 비해 약 40%가 더 비싸다. 최근에는 일등석과 보통석의 중간 좌석을 개발 하여 보통석보다 약간 비싸게 받는 경우도 있다. 미국출장에서 돌아오기 위하여 장준원은 여행사에 전화 를 걸어 표사정을 알아본다. 이때 그는 여행사로부터,
+
+There are two seats left. One is first class and the other is economy.
+(좌석이 2개 남아 있는데 하나는 일등석이고 다른 하나는 보통석입니다.)
+
+라는 답변을 듣게 된다.
+다음의 관련표현들도 함께 알아두자.
+
+Which do you prefer, first class or economy
+(1등석과 보통석 중 어느 쪽으로 하시겠습니까)
+
+Economy class is all filled up. But we have one available seat in 1st class.
+(보통석은 모두 찼습니다. 하지만 1등석은 좌석이 하나 있습니다.) 
+
+A : What's the difference between first class and economy
+(1등석과 2등석의 차이는 무엇입니까)
+B : In first class, there are only two seats on each side, are free.
+(1등석에는 양쪽에 의자가 2개씩만 놓여 있어 자석의 가운데 공간이 넓으며 음료가 무료로 제공됩니다.) 
+
+If you can't seat me in economy, please put me in first class.
+(보통석에 앉게 해줄 수 없으면 1등석으로 해주세요.) 
+
+
+
+
+
+
+
+
+Situation 562 Schedule
+
+ Kim: Mr. Hong, we've gotta get over to the factory some day.
+ Hong: Gee, I don't know how we're going to fit it in.
+Kim : I know your schedule's real tight, put could you please squeeze it in somehow
+Hong : You're asking the impossible.
+
+상황 562 스케쥴
+
+ 김가인: 홍선생님, 언제 한번 공장에 내려가 보셔야죠.
+홍승희 : 글쎄요, 시간을 어떻게 내야 할지 모르겠습니다. 
+김가인 : 매우 바쁘신 줄은 알지만, 어떻게 좀 짬을 낼 수 없을까요
+홍승희 : 불가능할 것 같군요. 
+
+<어구연구>
+
+김가인이 홍수인에게 간곡한 부탁을 하면서 다음과 같이 말하고 있다.
+
+Could you please squeeze it in somehow (바쁘시지만 그럴 시간을 어떻게 해서든지 좀 내주시겠습니까)
+
+여기서 squeeze something in은 '무엇을 밀어(쑤셔)넣다'가 원뜻이 지만, '바쁘더라도 짬을 내어 …을 하다' 란 뜻으로 쓰인다. 왜냐하면 squeeze it in은 squeeze it into your schedule (그것을 당신의 스케줄 속에 밀어 넣다) 이 줄어든 말로 볼 수 있기 때문이다. 이런 용법의 squeeze in은 work …in (…을 애써 포함시키다), fit …in(… 을 맞추어 집어넣다) 등으로 바꾸어 표현해도 같은 뜻이 된다. 결국 
+
+Could you find time for it (그것을 위한 시간 좀 낼 수 없을까요)
+Could you manage it somehow (어떻게든 그것을 좀 해주시겠습니까)
+Do you think you could manage somehow to slip it in (어떻게 해서든 그것을 할 시간을 좀 내주실 수가 없을까요
+
+와 같은 뜻이 된다. slip in은 '…을 (재빨리) 들어가게 하다 ; 포함시키다'란 뜻으로 squeeze …in 이나 fit …in과 비슷한 말이라 하겠다. 수출입회사인 경우는 작업 schedule을 놓고 왈 가왈부할 때가 많은데, 이때는 다음 표현들을 이용해 보자.
+
+Please put my order ahead of everybody else's (다른 주문을 제쳐놓고 우리 것을 최우선적으로 작업해 주세요.)
+We can start working on your order the week after next. (다음다음 주에 귀사의 주문이 작업에 들어갑니다.) 
+
+
+
+
+Situation 561 Shopping
+
+Park : I'm looking for a souvenir for my daughter.
+ Gang: How about this miniature Empire State Building It's a steal at $50.
+Park : Can you offer me something a little cheaper
+Gang : Well, let me see. What price range do you have in mind
+Park : I want to stay under $20, if possible.
+Gang : How about this adorable little replice of the Statue of Liberty.
+It's on sale for $19.95. 
+
+상황 561 쇼핑
+
+박지성 : 딸에게 줄 기념품을 찾고 있는데요.
+ 강민주: 이 엠파이어 스테이트 빌딩 모조품이 어떨까요 50불이니 거저지요.
+박지성 : 좀더 싼 것 없을까요
+강민주 : 글쎄요, 봅시다. 어느 정도 가격대의 물건을 생각하고 계신데요
+박지성 : 될 수 있으면 20불 미만짜리로 사려고 하는데요.
+강민주 : 이 자유의 여신상 모조품은 어떨까요 아주 귀여운데요. 이건 19불 95센트이거든요. 
+
+<어구연구>
+
+해외로 나가게 되면 예상보다 경비가 초과되는 경우가 많다. 이럴 때일수록 예산을 세워서 요령껏 지출을 해야 하는데 특히 쇼핑을 할 때 가 그렇다. 박지성은 뉴욕의 어느 백화점에서 기념품을 사는데 점원으로부터, 
+
+What price range do you have in mind
+(어느 가격대의 것을 생각하고 계십니까)
+
+라는 질문을 받는다. 가령 이때 [20불 미만짜리로 살 예정입니다.]라고 답변을 하려면,
+
+I want to stay under $20.
+
+와 같이 표현을 하면 된다. 혹은,
+
+I don't want to spend more than 20 dollars.
+My limit is 20 dollars.
+I don't want to go over 20 dollars.
+
+라고 해도 좋을 것이다. 다음의 관련표현들도 함께 알아두자.
+
+It's a little too expensive for me.
+(제겐 좀 비싼 것 같군요.)
+
+I'm not prepared to spend that much.
+I can't afford that much.
+(그만한 금액을 지불할 처지가 못 됩니다.)
+
+Could you show me something a little cheaper
+(좀더 싼 것을 보여주실 수 있을까요)
+
+Have you got anything that's more reasonable in price
+(가격이 좀더 싼 것도 있습니까) 
+
+
+
+
+Situation 560 Entertainment
+
+Kim : Thank you very much for your understanding and cooperation, Mr.Brown. I'm sure that, because of your signature on this contract, the Ministry of Commerce and Industry will give us an OK by the end of this month.
+ Brown: I'm glad to hear that. By the way, Mr.Kim, are you free this evening
+Kim : Yes, I am. Why do you ask
+Brown : I just thought that we might go to the Korean restaurant, Pinehill
+Kim : Oh, that's very kind of you. Then I'll try to wrap up today's work and be ready in half an hour.
+Brown : OK, I'll wait for you at the coffee shop across the street in front of this building.
+
+
+상황 560 접대
+
+김진수 : 여러 가지로 이해해 주시고 협력해 주셔서 대단히 감사합니다. 브라운씨. 이 계약서에 서명을 해주신 덕택에 상공부에서 이달 말까지는 확실히 허가를 내줄 겁니다.
+브라운 : 반가운 이야기군요. 그런데, 김 선생님. 오늘 저녁에 시간 있으세요
+김진수 : 예, 있는데요, 왜 그러세요
+브라운 :한국식당인 파인힐에 함께 가면 어떨까 하는 생각이 들어서요.
+김진수 : 오, 무척 친절하시군요. 그러면30분 내에 오늘 일과를 마무리짓고 준비하겠습니다.
+브라운 : 좋습니다. 이 건물 건너편에 있는 다방에서 기다리겠습니다. 
+
+<어구연구>
+
+지난번에는 Mr.Kim이 접대를 했었지만 이번엔 답례로 Mr.Brown이 '파인힐'에서 저녁을 사겠다고 제의를 한다. 이에 대해 Mr.Kim은,
+
+I'll try to wrap up today's work and be ready in half an hour.
+(30분 내에 오늘 일과를 마무리짓고 준비를 하겠습니다.)
+
+라고 말하며 쾌히 승낙을 한다. wrap up은 직역하면 보따리 따위를 '완전히 포장하다[싸다]란 뜻이지만 구어에서는 '(활동이나 일 따위를) 마치다'란 뜻으로도 쓰인다. 따라서 Mr.Kim의 얘기는 다음과 같이 해도 된다.
+
+I can get done in half an hour.
+(30분이면 끝낼 수 있습니다.)
+
+I can finish (up) what I'm doing in half an hour.
+(지금 하고 있는 일을 30분이면 끝낼 수 있습니다.) 
+
+I'm tied up at the moment but I can be done in half an hour.
+(지금은 바쁘지만 30분 후면 끝낼 수 있습니다.)
+
+wrap up과 비슷한 말로 hang up이 있는데 이는 하던일을 일시적으로 미루는 것을 뜻한다. 따라서 Let's wrap it up and hang up. 이라고 말하면 이는 '그것을 마무리짓고 다음에 합시다'란 뜻이 된다. 
+
+
+
+
+
+
+
+Situation 559 Hotel
+
+ Kim: How do you do I'm Mr. Kim Won-je. I believe I have a reservation.
+ Su: Mr. Kim Won-je Just a minute please, sir. I'll check.
+Kim : I phoned in my reservation from Korea last week.
+Su : I'm sorry sir, but your reservation was not confirmed, and I'm afraid we're all booked up for tonight.
+Kim : Oh, that's a problem. Look, do you know anyplace which might have a vacant room
+Su : You could try the Crown Hotel just down the street. Let me call first and see if they have any vacancies. 
+
+상황 559 호텔
+
+ 김원제: 안녕하세요. 저는 김원제라고 합니다. 예약이 되어 있을 텐데요.
+수이영 : 김원제씨요 잠깐만요. 확인해 보겠습니다.
+김원제 : 지난주에 한국에서 전화로 예약을 했습니다.
+수이영 : 죄송합니다만 예약 재확인을 안 하신데다가 오늘밤은 빈방이 전혀 없는데요.
+김원제 : 그거 큰일인데요. 저, 혹시 빈방이 있을 만한 곳 없을까요
+수이영 : 길 바로 저쪽에 있는 크라운호텔에 가서 알아보시지요. 제가 먼저 전화를 걸어서 빈방이 있는지 알아보겠습니다. 
+
+<어구연구>
+
+김원제는 미국으로 출장을 떠나기 며칠 전에 전화를 걸어 호텔예약을 해두었다. 미국에 도착하자마자 그 호텔로 전화를 걸었더니 재확인을 안 했기 때문에 예약은 취소가 되었고 현재 빈 방이 전혀 없다고 한다. 깜짝 놀란 김원제는
+
+Look, do you know any place which might have a vacant room
+(저, 혹시 빈 방이 있을 만한 곳 없을 까요)
+
+라고 물어볼 수밖에 없었다. 이때 김원제가 한 말은 다음과 같이 표현할 수도 있다. 
+
+Is there any hotel you know of that might have a vacant room
+(빈 방이 있을 만한 호텔을 알고 계신지요)
+
+Could you recommend another hotel where I might be able to stay
+(제가 묵을 만한 다른 호텔을 좀 소개해 주시겠습니까)
+
+다음에 이상의 표현 패턴을 다른 상황에 활용해 보자.
+
+Would you recommend another store that might have this item
+(이 물건이 있을 만한 다른 가게를 좀 소개해 주시겠습니까)
+
+Do you happen to know of any store that might have this in stock
+(혹시 이 물건의 재고를 가지고 있을 만한 가게가 없을까요) 
+
+
+
+
+
+Situation 558 Flight reservation
+
+ Whang: I'd like to reconfirm my flight reservations.
+Kim : What is the flight number and date, sir
+Whang : It's KAL flight 011 on June 25th.
+Kim : Thank you. One minute, please. Your reservation has been confirmed, sir.
+Whang : Thank you. Could you give me the departure time, please
+Kim : KAL flight 011 departs Los Angeles at 1:30 local time. 
+
+상황 558 항공권 예약
+
+ 황수인: 예약을 재확인하려고 합니다.
+김진미 : 편명과 날짜가 어떻게 되지요
+황수인 : 6월 25일 대한항공 011호기편입니다.
+김진미 : 감사합니다. 잠깐만요. 예약이 확인되었습니다.
+황수인 : 감사합니다. 출발 시간을 알려주시겠습니까
+김진미 : 대한항공 011호기편은 현지시간으로 1시 30분에 로스엔젤레스를 출발합니다. 
+
+<어구연구>
+
+여행 도중 어느 지점에서 72시간 이상 체류할 경우에는 일반적으로 항공편 출발 72시간 전까지 재확인(reconfirmation)을 꼭 해두어야 한다. 만약 예약만 된 상태로 소정의 기간 내에 재확인을 하지 않을 경우에는 항공사가 일방적으로 그 좌석을 다른 사람에게 줄 수도 있다. 항공사측에서 본다면 최초 예약을 한 사람이 예고도 없이 당일 그 항공편을 이용하지 않는다면 항공사만 손해를 보기 때문이다. 탑승 24시간 전에 예약의 재확인을 안 해둔 좌석에 대해서는 항공사 임의로 좌석을 타인에게 줄 수가 있으므로 이용하는 항공사의 재확인 규정을 잘 알아두어야 한다.
+
+I'd like to reconfirm my flight reservations.
+(예약을 재확인하려고 합니다.)
+
+라고 말하면 여행사직원은 항공편 번호와 시각을 물어오게 된다.
+다음의 관련표현들도 함께 알아두자.
+
+Please reconfirm your flight reservation before you go to the airport.
+(공항으로 출발하기 전에 예약을 재확인하세요.)
+
+I forgot to reconfirm my reservation and I got bumped.
+(깜박 잊고 재확인을 안 해서 좌석이 최소되었다.)
+
+The airlines ask you to make reconfirmation in order to prevent no-shows.
+(예약을 해놓고도 손님들이 안 나오는 것을 막기 위해 항공사는 재확인을 요구한다)
+
+Please put me on stand-by for a no-show ticket.
+(예약을 해놓고 안나타나는 사람 대신 탈 수 있도록 저를 대기자 명단에 올려주십시오.) 
+
+
+
+
+
+
+Situation 557 Hotel
+
+ Lim: Excuse me, where can I send a telex
+ Gang: Just fill out the form at the front desk, sir.
+Lim : Oh, I see. Will they send it out right away
+Gang : I'm sure they'll send it as quickly as they can, sir.
+Lim : How long will it take for the telex to reach Korea
+Gang : I'm sorry, but I don't know, sir. You'll have to inquire at the front desk. 
+
+상황 557 호텔
+
+임원재 : 실례합니다. 어디 가면 텔렉스를 보낼 수 있을까요
+강병완 : 프론트에 가서 양식에 기입하여 신청하시면 됩니다.
+임원재 : 아, 알겠습니다. 곧장 보내주나요
+강병완 : 가능한 한 빨리 보내줄 겁니다.
+임원재 : 텔렉스가 한국까지 도착하는 데 시간이 얼마나 걸릴까요
+강병완 : 죄송하지만 모르겠는데요. 프론트에서 여쭤보셔야 겠습니다.
+
+<어구연구>
+
+업무로 해외출장을 다니다 보면 호텔에서 긴급히 텔렉스나 펙시밀리를 이용해야 할 때가 있다. 큰 호텔이라면 이런 시설들이 통상 다 있으므로 프론트 데스크에,
+
+Excuse me, where can I send a telex
+(실례지만, 텔렉스를 어디 가면 보낼 수 있을까요)
+
+라고 물어보면 된다. 다음과 같이 물어봐도 좋다.
+
+Is there any place where I can send a telex
+(텔렉스를 보낼 수 있는 곳이 있습니까)
+
+Is there a fax service here
+(여기에 팩시밀리 시설이 있습니까)
+
+A : Is it possible to send a telegram to Korea
+(한국에 전보를 보낼 수 있을까요)
+B : Yes, just dial the operator and give her the message. It'll be charged to your hotel bill.
+(예, 교환양에게 전화로 전보내용을 불러주기만 하시면 됩니다. 요금은 숙박료에 함께 계산이 됩니다.)
+A : Can I send a letter from the hotel
+(호텔에서 편지를 부칠 수 있습니까)
+B : Yes, just give it to the clerk at the front desk.
+(예, 프론트계원에게 주시면 됩니다.) 
+
+
+
+
+
+Situation 556 Taxi
+
+Kang : How much is the fare, please
+Adam : That'll be $2.00 even.
+Kang : Here you are. Two dollars.
+Adam : Is that all
+Kang : Well, that's what the meter says, doesn't it
+Adam : Well, ain't you gonna give me any tip
+
+
+상황 556 택시
+
+강민규 : 얼마지요
+아담 : 꼭 2불입니다.
+강민규 : 여기 있어요. 2불이요.
+ 아담: 이것만 주시는 거예요
+강민규 : 미터기에 2불로 나와 있잖아요
+아담 : 저, 팁은 안 주시는 겁니까 
+
+<어구연구>
+
+한국에는 택시운전기사에게 tip을 주지 않지만 미국은 그렇지 않다. 음식점이나 호텔 등 봉사가 뒤따르는 곳에는 으레 tip이란 것이 있다. 처음엔 귀찮고 신경이 쓰이지만 익숙해지면 괜찮다. 처음 미국으로 출장을 간 강민규는 택시를 탔을 때 tip을 지불하는 것이 아직 습관이 되질 않아 택시기사에게 미터요금만 지불을 하게 된다. 그러자 강민규는
+
+Ain't you gonna give me any tip
+(팁은 안 주는 겁니까)
+
+라는 신경질적인 질문을 택시운전수로부터 받는다. 택시기사들은 교육정도가 그리 높지 않은 탓도 있겠지만 하여튼 ain't와 같은 속어나 gonna와 같은 informal한 발음을 자주 구사한다. 어떤 운전수는 팁을 못 받을 경우,
+
+How about a tip
+No tip
+
+과 같이 더욱 strong한 표현을 써 올지도 모른다.
+다음의 관련표현들도 함께 알아두자.
+
+Do I have to pay a tip to the driver
+Is it necessary to tip the driver
+(운전수에게 팁을 주어야 합니까) 
+
+How much of a tip do you give the driver in th US
+(미국에서는 운전수에게 팁을 얼마나 줍니까)
+
+What do you usually tip a driver
+(운전수에게 팁을 보통 얼마나 줍니까)
+
+Usually 10% of the fare [the amount on the meter] will do.
+(미터요금의 10%면 됩니다.)
+
+Keep the change.
+(거스름돈은 가지세요.)
+
+This is for you.
+(이 팁 받으세요.)
+
+In America, who do you have to tip
+(미국에서는 팁을 어떤 사람들에게 줍니까) 
+
+
+
+
+Situation 555 A claim
+
+Seo : Mr. Kim, what have you done about our claim
+Kim : Well, I've looked into it thoroughly, but I can't find any fault on our part.
+Seo : Mr. Kim, believe me, that shipment was absolutely useless.
+Kim : Mr. Seo, that shipment was completely inspected before it left here, and there was absolutely no defect whatsoever.
+Seo : Well, it couldn't have happened in transit, so the fault must lie with you.
+Kim : Mr. Seo, excuse me for saying, but I think you're just trying to pass the buck. 
+
+상황 555 클레임
+
+ 서세진: 김 선생님, 당사의 클레임에 대하여 어떤 조치를 취하셨습니까
+김종민 : 저, 철저히 조사해 보았지만, 저희측의 하자는 전혀 발견하지 못했습니다.
+서세진 : 김 선생님, 정말이지 그 선적품은 전혀 사용할 수가 없는 상태였어요.
+김종민 : 서세진씨, 선적품은 이곳을 떠나기 전에 철저한 검품을 거쳤는데 절대 조그마한 하자도 없었습니다.
+서세진 : 그런 일이 수송 중에 일어날 수는 없으니까 잘못은 당연히 귀사측에 있는 거지요.
+김종민 : 서세진씨, 이런 말하게 되어 안됐지만 당신은 책임을 전가하려고만 하시는 것 같군요. 
+
+<어구연구>
+
+불량선적품을 놓고 선적당사자인 한국상사와 수입선인 서세진은 서로 책임소재를 따져 보지만 서로 상대방의 잘못이라고 주장을 한다. 다소 화가 난 김종민은,
+
+Excuse me for saying, but I think you're just trying to pass the buck. 
+(이런 얘기해서 안됐지만 당신은 책임을 전가하려고만 하시는 것 같군요.)
+
+라고 언성을 높인다. buck은 원래 포커에서 (돌릴 차례를 나타내기 위해 다음번 선 앞에 놓 는 패)를 의미했다. 그래서 pass the buck은((남에게) 책임을 전가하다)란 구어가 되었다. 명 사적으로는 buck passer(책임을 전가하는 사람)라 한다. 좀더 쉬운 말로는,
+
+You're only trying to put (shift) the blame on us. (댁은 오직 우리만 비난하려고 하시는군요.)
+
+로 표현할 수도 있다. lay (put, place) the blame on a person for ...는 (남에게 ...의 죄를 씌우다(책임을 지우다))란 뜻. 다음의 표현들도 함께 기억해 두자.
+
+He always tries to pass the buck when something goes wrong. (그는 뭐가 잘못되면 항상 남에게 책임을 전가하려고 한다.) 
+
+
+
+
+
+Situation 554 A meal
+
+Smith: Say, Mr. Kim. How about putting this business aside for a while and grabbing a bite to eat
+Kim: I'm all for it. I'm about half-starved, but we've gotta wind it all up today, don't forget.
+Brown: Don't worry. I haven't forgotten. We'll finish it all by five, I guarantee.
+Kim: Say, I've got a great idea. Why don't we order in Then we can kill two birds with one stone.
+Brown: Not a bad idea. There's a restaurant here that delivers.
+Kim: Great, then make mine a cheeseburger with everything on it. 
+
+상황 554 식사
+
+스미스: 저, 김 선생님, 잠깐 일을 치우고 간단히 식사를 하는 게 어떨까요
+김진한: 대찬성입니다. 저도 몹시 배가 고프거든요. 그러나 오늘 내로 이 일을 끝마쳐야 한다는 거 잊지 마세요.
+스미스: 염려마세요. 잊지 않았습니다. 틀림없이 5시까지는 다 끝낼 수 있을 겁니다. 
+김진한: 참, 좋은 생각이 있습니다. 음식을 시켜다 먹는 게 어떨까요 그러면 일석이조가 될 테 니까요.
+스미스: 그것도 괜찮겠군요. 근처에 배달해 주는 식당이 있습니다.
+김진한: 잘됐군요. 그럼 전 갖은 양념과 야채를 다 집어넣은 치즈버거로 하겠습니다
+
+<어구연구>
+
+오전 내내 상담을 하고 있던 스미스는 시장기를 느끼자 상담을 중단하고 점심을 먹자 는 제의를 한다. 이에 대해 김진한은
+
+I've got a great idea. Why don't we order in (좋은 수가 있습니다. 우리 점심을 시켜서 먹읍시다.)
+
+라고 제의를 한다. 김진한의 얘기 중 order in이라는 표현은 직역하면 '안으로 주문하다'가 되므로 곧 '시켜다 먹다'를 의미하는 것이다. 다음과 같이 표현해도 좋을 것이다.
+
+How about ordering something from the restaurant instead of going out (나가지 말고 식당에 주문하여 시켜다 먹는 것은 어떨까요)
+How about having something delivered (음식을 배달해 달라고 하는 것은 어떨까요)
+How about having lunch here in the office I can order something. (사무실에서 점심을 먹는 것은 어떨까요 주문을 할 수 있거든요.)
+We're short of time, so how about ordering something here[in] (시간도 없고 하니까 여기서 뭘 시켜다 먹으면 어떨까요)
+How about having something brought here (식사를 여기로 갖다 달라고 하면 어떨까요)
+If you call the restaurant, they'll bring your order here. (식당에 전화를 걸면, 여기까지 주문한 것을 배달해 줄 겁니다.) 
+
+
+Situation 573 Arrival
+
+Lee : Hello, Mr.Jang! It's good to hear your voice. When did you get here
+Jang : I just came in yesterday. I wanted to call you last night, but it was too late and I was exhausted.
+Lee : That's okay. No problem. I've been looking forward to seeing you. How about 11:00 here at my office
+Jang : Listen, I've got to run over to the US Embassy first before I do anything else. That may take some time, so how about making it for lunch instead
+Lee : That's fine. Can I pick you up at your hotel
+Jang : Please don't bother. I'll just drop by your office and we'll go straight from there. 
+
+상황 573 도착
+
+ 이수동: 안녕하세요, 장명환씨! 목소리를 들으니 반갑습니다. 언제 도착하셨지요
+장명환 : 바로 어제 왔습니다. 어젯밤에 전화를 드리고 싶었지만 너무 늦고 피곤해서 안 드렸습 니다.
+이수동 : 괜찮습니다. 그동안 뵙고 싶었어요. 제 사무실에서 11시에 뵐까요
+장명환 : 그런데, 만사 제쳐놓고 미대사관에 먼저 갔다 와야 할 일이 있어요. 시간이 좀 걸릴지도 모르니까 대신 점심이나 같이 할까요
+이수동 : 좋습니다. 호텔로 모시러 갈까요
+장명환 : 일부러 수고하실 필요 없습니다. 제가 그냥 김 선생님 사무실에 들를 테니까 거기서 곧장 가도록 하지요. 
+
+<어구연구>
+
+ 장명환이 한국에 도착하여 거래처인 대한상사에 전화를 거는 장면이다. 대한상사의 이수동은 목소리만 듣고도 그가 장명환임을 알아차리고 반가워하면서,
+
+When did you get here (언제 한국에 들어오셨습니까)
+
+라고 질문을 한다. 이때의 get은 '도착하다'란 뜻. 다음과 같이 물어볼 수도 있다.
+
+When did you come (get) in (어제 입국하셨습니까)
+When did you arrive (언제 도착하셨습니까)
+
+다음은 위와 같은 상황에서 쓰일 수 있는 관련표현들이다.
+
+Oh, you're here in Korea already. When did you arrive (오, 벌써 한국에 도착하셨군요. 언제 도착하셨습니까)
+What brings you here this time (이번엔 어떤 용건으로 오셨습니까)
+Are you here for importing component systems (컴포넌트 시스템 수입차 여기 오신 겁니까)
+Are you here to see about (look over) cotton shirts (면셔츠에 관하여 알아보시려고 오신 겁니까)
+Are you back so soon What brings you back so soon again (벌써 다시 들어오신 겁니까 얼마 되지도 않았는데 어떤 일로 이렇게 또 들어오셨습니까) 
+
+
+
+
+
+
+Situation 572 Time
+
+Smith : Mr. Nam, do you happen to know any place where I can get my watch fixed It doesn't seem to be keeping good time.
+Nam : Come right this way, Mr. Brown. I know a place down the street that does an A number one job.
+ Smith: Oh, you can just tell me where it is. I'm sure I can find it on my own.
+Nam : I wouldn't think of it. I'll be more than happy to accompany you.
+Smith : Thank you very much for sparing your precious time.
+Nam : Think nothing of it. It's my pleasure. 
+
+상황 572 시간
+
+스미스 : 남선생님, 혹시 제 시계를 고칠 수 있을 만한 곳을 알고 계세요 시간이 잘 안 맞는 것 같아서요.
+남정난 : 이쪽으로 오세요, 브라운씨. 거리 저쪽에 아주 잘 고치는 곳을 알고 있지요.
+스미스 : 그곳이 어디에 있다고 말씀만 해주세요. 저 혼자 찾아갈 수 있으니까요.
+남정난 : 그런 말씀 마세요. 기꺼이 같이 가 드리겠습니다.
+스미스 : 귀중한 시간을 내주셔서 대단히 감사합니다.
+남정난 : 천만에요, 제가 기쁜걸요. 
+
+<어구연구>
+
+고장난 시계를 고치는데 기꺼이 같이 가주겠다는 제의를 남정난이 제안하자 스미스는
+
+Thank you very much for sparing your precious time. (귀중한 시간을 내주셔서 대단히 감사합니다.)
+
+라고 말하고 있다. 이때의 spare는 '(물건.시간 등을) 쪼개다, 나누어 주다'란 뜻. 뉘앙스는 약간 다르지만 give up(양보하다;넘겨주다)을 써서,
+
+Thank you very much for giving up your valuable time. (귀중한 시간을 내주셔서 정말 감사합니다.)
+
+다음은 관련표현들이다.
+
+I'm sorry I've taken too much of your precious time. (귀중한 시간을 이렇게 많이 빼앗아서 죄송합니다.)
+Can you spare me a little time (some time) tomorrow (내일 제게 시간 좀 내주실 수 있겠습니까)
+I can't spare any time tomorrow but I can the day after. (내일은 시간을 낼 수가 없고 모레는 가능합니다.)
+Can I see you on Wednesday - I can't spare even a minute before the 20th. (수요일 날 만날 수 있을까 - 20일 이전에는 단 1분의 시간도 낼 수가 없어.) 
+
+
+
+Situation 571 Mail
+
+Lee: Mr. Han when do you think a decision will be made on the contract
+Han: Whenever the big boss gives the okay.
+Lee: Well, do you have any idea when that will be
+Han: I can't give you a definite date at this point.
+Lee: But you'll be leaving soon.
+Han: No problem. When I get back, I'll have the boss sign the papers, and then I'll put them in the mail. 
+
+상황 571 메일
+
+이주성: 한명훈씨, 그 계약에 대한 결정이 언제 날 것 같습니까
+한명훈: 사장님만 승인하시면 됩니다.
+ 이주성:그러면 그게 언제쯤이면 될까요
+ 한명훈:지금으로서는 정확한 날짜를 말씀드릴 수가 없군요.
+이주성: 하지만 곧 떠나시잖아요.
+한명훈: 염려마세요. 제가 돌아가자마자 사장님의 서명을 받아 그것을 우 송해 드리겠습니다. 
+
+<어구연구>
+
+한국을 곧 떠날 예정인 한명훈에게 계약의 종결을 언제 하겠느 냐고 이주성이 묻자 한명훈은
+
+When I get back, I'll have the boss sign the papers, and then I'll put them in the mail. (돌아가자마자 서류에 사장님의 서명을 받아 우송해 드리겠습니다.) 
+
+라고 약속을 한다. put them in the mail은 직역하면 '그 서류들을 우편물 속에 넣다'가 되 므로 곧 '우편으로 부치다'란 뜻이 되는 것이다. 다르게는
+
+I'll mail[post] them.
+I'll send them off in the mail.
+I'll have[get] them mailed.
+
+등으로 표현할 수도 있다. in the mail의 용법을 몇 가지 더 살펴보도록 하자.
+
+I got it in the mail this morning. (오늘 아침 그것을 우편으로 받았다.)
+There was nothing in the mail from you today. (오늘 너한테서 온 우편물이라곤 아무것도 없었다.)
+If you don't get it in the mail by 5 o'clock today, it'll never get there in time. (네가 오늘 5시까지 그것을 부치지 않으면 그것은 기일 안에 거기 에 도착하지 못할 것이 다.)
+Are you going to hand-carry it of will you put it in the mail (직접 가져가서 전달할 것인가, 아니면 우송을 할 예정인가)
+I order for it to get there by X-mas, how soon do you have to put it in the mail (그것이 크리스마스 때까지 거기에 도착되려면 언제까지 우송을 해 야 합니까) 
+
+
+
+
+Situation 570 A shipment
+
+Kim : Mr. Brown, I`m afraid we won`t be able to get your order all on one shipment. We`ll have to break it up into separate shipment.
+Brown : Oh-oh, then if all won`t be able to arrive by December 1st, that`s a problem.
+Kim : Do you need everything in the order by December 1st
+Brown : Well, no, now that you mention it, some items could arrive later, I guess.
+Kim : Well, then, why don`t we put the items you need by December 1st in the first shipment and second the others with the second shipment
+Brown : Yeah, leave out items B, D and F and send them later on. 
+
+상황 570 선적
+
+김수영 : 브라운씨, 죄송합니다만, 귀사의 주문을 한꺼번에 다 선적할 수 는 없을 것 같습니다. 두 차례로 나누어 선적해야겠어요.
+브라운 : 저런, 물건이 12월 1일까지 다 도착하지 못한다면, 그건 좀 곤란 한데요.
+김수영 : 주문한 것이 12월 1일까지 전부 필요하십니까
+브라운 : 아, 그렇진 않아요, 말씀하시니까 생각이 나는데요, 일부 품목 은 나중에 도착해도 될 것 같군요.
+김수영 : 저, 그렇다면 귀사께서 12월 1일까지 필요하신 품목들은 1차 선 적시에 보내드리고 나머 지는 2차 선적때 보내드리면 어떨까요
+브라운 : 좋습니다. 그럼, 품목 B, D, F를 뺐다가 나중에 보내도록 하세 요. 
+
+<어구연구>
+
+대한상사는 미국 ABC사의 주문품을 한꺼번에 다 선적해 줄 수가 없 게 되자 이런 사정을 Mr. Brown에게 알린다. 이에 대해 Mr. Brown은,
+
+Leave out items B, D and F and send them later on. (품목 B, D, F는 제외 시켰다가 나중에 보내도록 하세요.)
+
+와 같이 상품별 선적우선순위를 알려주면 쾌히 협조하고 있다. leave (something) out 이란 표현은 「무엇을(포함시키지 않고) 밖에 두다」가 근본적인 뜻으로서 「…을 제외[제거, 생략]시키다, (깜박 잊고) 빠뜨리다」란 뜻으로 쓰이는 숙어동 사.
+
+따라서 Mr. Brown의 얘기는,
+
+Omit items B, D and F. (품목 B, D, F는 제외시키세요.)
+Leave items B, D and F behind for the next shipment. (품목 B, D, F는 남겨 두었다가 차기 선적시에 보내세요.)
+Items B, D, and F can wait. (품목 B, D, F는 그렇게 급하지 않습니다.)
+
+등과 같이 다르게 표현할 수도 있다. 다음엔 leave out 이란 숙어동사를 좀더 활용해 보자.
+
+You can leave out the specifics. (자세한 사항은 생략해도 좋습니다.)
+Can I leave this word out of this sentence (이 문장에서 이 단어를 빼도 됩니까)
+Leave him out of this. (이 일에 그는 빼도록 하시오.) 
+
+
+
+
+
+
+
+
+Situation 569 A call
+
+K: Oh, hello, Mr. Brown, it's good to see you again. Please come in.
+A: Thank you, I see you're looking fine.
+K: Thank you, I feel very good. Did you have any difficulty finding the place
+A: No, not a bit. I didn't have any trouble thanks to the map you drew.
+K: Good, I'm glad to hear that.
+A: You certainly have a nice place here. I'm really impressed.. 
+
+상황 569 방문
+
+이재규 : 아, 안녕하십니까 브라운씨. 다시 만나뵙게 되어 반갑습니다. 어서 들어오세요.
+한종민 : 고맙습니다. 건강이 아주 좋아 보이시는군요.
+이재규 : 예, 덕분에 아주 좋습니다. 여기 찾아오시는데 어려움은 업었습니까
+한종민 : 아니오, 전혀 없었습니다. 선생님께서 그려주신 약도 덕분에 아주 쉽게 찾았습니다.
+이재규 : 잘됐군요. 다행입니다.
+한종민 : 정말 사무실 좋군요. 아주 인상적인데요. 
+
+<어구연구>
+
+오랜만에 만나서 "건강해 보이는군요" 라는 표현을 하고 싶을 때, 다음과 같이한다.
+
+I see you're looking fine.
+(혈색이 아주 좋아 보이시는군요.)
+
+"이전보다 더 좋아보이는군요"는
+
+You're looking better than before.
+
+라고 표현하면 되겠다.
+ look nice는 안 된다. 이는 '(옷차림이) 멋지다'란 뜻이 되고 만다. 
+반대로 '혈색이 좋지 않군요'는 
+
+You're not looking well. 
+You look pale. 
+
+등으로 표현하면 된다. 한국인은 의례 다음과 같이 표현하기도 한다.
+
+It looks like you're getting younger.
+(점점 젊어지시는 것 같습니다.)
+
+
+
+Situation 568 Weather
+
+ Brown: Boy, it's really muggy, isn't it
+Kim : Yeah. Does it get this way in America, too
+Brown : Yes, it really does. Even worse sometimes.
+Kim : Wow! I can't picture it any worse than this.
+Brown : How about finding a nice air=conditioned place I'm about ready to drop.
+Kim: I don't think I can take much more myself. Say, there's a great place just over there. 
+
+상황 568 날씨
+
+브라운: 야, 날씨 정말 찌는군요.
+김재의 : 그렇군요. 미국도 이렇게 덥습니까
+브라운 : 예, 그럼요. 때로는 더 덥지요.
+김재의 : 세상에! 이보다 더 더운 건 상상이 안 되는데요.
+브라운 : 냉방이 잘된 곳을 좀 찾아볼까요 전 거의 쓰러질 지경이예요.
+김재의 : 저도 더 이상 견딜 수가 없을 것 같습니다. 바로 저기 좋은 곳이 있군요. 
+
+<어구연구>
+
+바람 한 짐 없고 후덥지근하기만 한 어느 여름날 브라운과 김재의는 같이 거리를 걸 어 갈 일이 있었다. 이런 날씨를 처음 겪는 브라운은 못 견디겠다는 듯이,
+
+Boy, it's really muggy, isn't it (야, 참 후덥지근한 날씨죠)
+
+라고 한 마디 한다. 바람이 없는 hot and damp(덥고 습기찬)한 날씨를 일컬어 muggy라고 표현한다. 비슷한 말에 sultry가 있다. '찌는 듯이 더운;후덥지근한'으로 번역이 된다. 그러나 '습기가 많은'이란 뜻으로는 humid, damp, moist와 같은 단어들이 쓰인다. 따라서 Mr. Brown의 얘기는,
+
+It's really quite humid, isn't it (정말 습한 날씨죠)
+Oh, this hot muggy day will be the death of me yet. (아직도 날씨가 너무 후덥지근하여 사람 잡겠다.)
+
+여기서의 be the death of …는 '…의 사인이 되다, …을 몹시 괴롭히다'란 뜻의 관용표현이다.
+
+
+
+Situation 567 A telephone
+
+ Lee: Excuse me. I'm new here. How do I use this telephone
+ Thomas: Just put in 25 cents, wait for the dial tone, then dial.
+Lee : How long can I talk for 25 cents
+Thomas : Just three minutes. If you want to talk longer, put in more coins.
+Lee : Can I call New Jersey from here
+Thomas : Yes, but then you will have to put in about 50 cents or more to start with
+
+상황 567 전화기
+
+이미래 : 실례합니다. 여기는 처음이라서 그런데 이 전화를 사용하려면 어떻게 해야지요
+ 토마스: 25센트를 넣고 기다렸다가 신호음이 나면 번호를 돌리세요.
+ 이미래: 25센트로 얼마동안 통화할 수 있습니까
+ 토마스: 3분간입니다. 그 이상 통화하시려면 동전을 더 넣으면 되지요.
+이미래 : 여기서 뉴저지주로 전화할 수 있습니까
+토마스 : 예, 그런데 거실려면 50센트나 그 이상을 먼저 넣고 거셔야 할 거예요. 
+
+<어구연구>
+
+처음 외국에 나가면 모든 게 낯설게 느껴져서 전화기 하나만 하더라도 어떻게 사용하는지를 몰라 신경이 쓰이게 된다. 이런 상황에 처하면,
+
+Excuse me, I'm new here. How do I use this telephone (죄송하지만, 처음이라서 그런데 이 전화기를 어떻게 사용합니까)
+
+와 같이 주위의 아무에게나 물어보면 된다. 다음과 같이 물어봐도 된다.
+
+Would you tell me how to use this phone
+Could you show me how this telephone works
+
+경우에 따라서는 다음과 같은 표현도 필요하게 된다.
+
+What kind of coin do I have to use for this phone (이 전화기에는 어떤 동전을 사용해야 합니까)
+Where can I get change for the telephone (전화걸 때 필요한 잔돈을 어디 가면 바꿀 수 있습니까)
+There is a coin-changing machine over there. (저기 동전교환기가 있습니다.)
+Where is the nearest pay phone (여기서 가장 가까운 공중전화가 어디 있습니까)
+Can I call long distance from this phone (이 전화기로 시외전화를 걸 수 있습니까)
+Can I use this phone to make an overseas call (이 전화기로 국제전화를 할 수 있습니까) 
+
+
+
+
+
+
+
+
+Situation 566 A call
+
+ Park: Good afternoon. My name is Kyoung Min Park. Mr. lee expects me at two.
+Jin: I'll tell him you are here, Mr. Park. One moment, please.
+I'm sorry, Mr. lee has just stepped out on urgent business
+He'll be back in fifteen minutes.
+Park : Well, I don't mind waiting.
+Jin : Won't you have a seat
+Park : Thank you. 
+
+상황 566 방문
+
+ 박경민: 안녕하세요 저는 박경민이라는 사람인데요, 이 전무님과 2시에 만나기로했습니다.
+진재령 : 오셨다고 말씀드리죠, 브라운씨. 잠깐만 기다리세요. 죄송합니만 이 전무님께서 급한 용무로 잠깐 나가셨습니다. 15분 후면 돌아오실 겁니다.
+ 박경민: 저, 기다리죠.
+진재령 : 앉아서 기다리세요.
+박경민 : 고맙습니다. 
+
+<어구연구>
+
+ buyer 박경민은 이 전무를 만나기 위해 대한상사를 방문했지만 직원으로부터,
+
+Mr. Lee has just stepped out on urgent business.
+(이 전무님은 급한 용무로 잠깐 자리를 비우셨습니다.)
+
+라는 말을 듣는다. 사람들 중에는 step out의 뜻을 단순히 '걸어 나가다'로만 알고 있는 경우가 많다. step은 '(특히 짧은 거리를) 걸어서가다'란 뜻이기 때문에, step out은 '(어떤 장소를) 잠깐 떠나다(leave a room or building for a short time)'를 의미한다. 따라서 He just left,와 He just stepped out.은 의미상 차이가 있다. 전자는 다시 돌아오지 않을 수도 있지만, 후자 즉 He just stepped out.은 반드시 곧 돌아온다는 것을 암시하고 있다.
+
+He just stepped out for lunch.
+(그 분은 점심식사 하시러 잠깐 나가셨습니다.)
+
+경우에 따라서는 다음과 같은 표현도 필요한 것이다.
+
+He didin't say where he was going but he should be back shortly.
+(어디 가신다는 말씀은 없으셨지만 곧 돌아오실 겁니다.) 
+
+
+
+
+
+
+
+Situation 565 Entertainment
+
+ Gong:Han , how do you like your whisky
+Han : With water and ice, please.
+Gong : I always take mine straight.
+Han : Don't you fine it a bit strong
+Gong : Yes, but it taste better that way.
+Han : If you drink it straight, doesn't it hurt your stomach 
+
+상황 565 접대
+
+ 공효준: 한진기씨, 위스키를 어떻게 해서 드시겠어요
+한진기 : 물과 얼음을 넣어 주세요.
+공효준 : 저는 늘 스트레이트로 마십니다.
+한진기 : 좀 독하다고 느끼지 않으세요
+공효준 : 예. 하지만 그렇게 마시는 게 맛이 좋거든요.
+한진기 : 스트레이트로 마시면 위가 상하지 않나요 
+
+<어구연구>
+
+공효준은 위스키를 시키기 전에 한진기에게,
+
+Mr.Han, how do you like your whisky
+(한진기씨, 위스키를 어떻게 해서 드시겠어요)
+
+라고 물어보고 있다. 이는 straight로 들겠는지 아니면 cocktail을 해서 들겠는지를 묻는 말이다. 공효준의 얘기는,
+
+How do you take[prefer] your whisky
+(위스키를 어떻게 해서 드시겠습니까)
+
+Do you take it straight or mixed
+(스트레이트로 드십니까, 아니면 무엇을 타서 드십니까)
+
+처럼 표현해도 좋았을 것이다. 한국의 '일화생수'나 '진로탄산석수' '진로믹서'등과 같이 whisky에 타서 마시는 탄산수를 미국인들은 soda(water)나 club soda라고 부른다. 한편 우리나라의 '오란씨'는 pine soda로, '써니텐'은 orange soda, apple soda등으로 부를 수 있다. whisky의 mixing 방법에는 대표적으로 whisky[Scotch] and water(물을 타서 마시는 위스키), whisky[Scotch] on the rocks(얼음조각을 넣고 그 위에 부어 마시는 위스키)와 같은 것이 있으므로 시킬 때는, 
+
+I'll have mine with soda, please.
+(저는 탄산수를 타서 주세요.)
+
+처럼 말하면 된다.
+
+다음의 관련표현들도 함께 알아두자.
+
+What's your favorite brand of whisky
+(위스키 중에 제일 좋아하는 브랜드는 무엇입니까)
+
+This wine is a cut above the average.
+(이 포도주는 보통의 것들보다 한층 맛이 좋은 것입니다.) 
+
+
+
+
+
+Situation 564 Appointment
+Brown: (on phone) Hello, Mr. Kim, this is Mr. Brown.
+Kim: Mr. Brown I thougth you said you were going down to Pusan today.
+Brown: I was, but for some unforeseeable reason, it was cancelled.
+So how about changing our appointment from tomorrow to today.
+Kim: Wow, that's perfect timing.
+Brown: What do yu mean How so
+Kim: As it turns out, I've gotta dash down to Kwangju tomorrow, 
+so I wouldn't have been able to see you anyway. We're really in luck,aren't we 
+
+상황 564 약속
+
+브라운: (전화로) 여보세요, 김 선생님. 브라운입니다.
+김단수: 브라운씨요 오늘 부산에 내려간다고 하셨잖아요.
+브라운: 그랬지요. 그런데 예기치 못한 일이 생겨서 취소되고 말았습니다. 그래서 얘긴데, 우리 내일 약속을 오늘로 바꾸는 게 어떨까요
+김단수: 와, 마침 잘됐군요.
+브라운: 그게 무슨 말씀이세요 어째서요
+김단수: 저, 사정이 그렇게 되어서 제가 내일 급히 광주로 내려가야 할 일이 생겼거든요, 하마트면 브라운씨 못 만날 뻔 했잖아요. 정말 다행입니다. 
+
+<어구연구>
+
+대한상사의 김단수는 내일 브라운과 만나기로 약속했었다. 
+그런데 갑자기 내일 광주에 내려가야 할 일이 생겨 일단 브라운에게 전화를 해보기로했다. 그런데 이게 웬일인가! 내일의 약속을 오늘로 앞당기자고 브라운이 먼저 제안을 해오지 않겠는가! 너무 반가운 나머지 김단수는,
+
+Wow, that's perfect timing.
+(야, 그거 때마침 잘 됐군요!)
+
+라고 말하고 있다. 이때의 time은 '시기에 맞추다(arrange or set the time of so as to be acceptable, suitable, opportune, etc.)' 란 뜻이다. 김단수가 한 얘기는 대신,
+
+What a coincidence!
+(참으로우연의 일치로군요!)
+
+What a lucky break!(break=chance)
+(정말 잘 됐군요)
+
+Oh, that suits me fine.
+(오, 그렇게 하는 것은 저한테도 괜찮아요.)
+
+No problem at all as it turns out.
+(결과적으로는 오히려 잘됐습니다.)
+
+Things couldn't have turned out better.
+(일이 이보다 더 잘될 수는 없었을 겁니다.)
+
+따위의 표현을 써도 좋다. 이때의 turn out은 '결국은(…으로)되다, (…임이)판명되다'란 뜻. 
+
+
+
+Situation 583 A shipment
+
+Lee : Mr. San,how long do you think it`ll take before that second shipment will 
+be ready to leave
+San : Well, that I have to figure out.
+Lee : See if you can come up with a guesstimate real quick, will you
+San : Why What`s your rush
+Lee : I just got a call from the head office asking about it.
+San : Okay, then give me a couple of hours or so if you can. 
+
+상황 583 선적
+
+이인규 : 산선생님, 2차 선적분의 선적준비가 완료되는 데까지는 시간이 얼마나 걸릴 것 같습니 까
+산지현 : 글쎄요, 좀 따져봐야 알겠는데요.
+이인규 : 대략적인 날짜라도 얼른 알 수 없습니까
+산지현 : 왜요 왜 그렇게 서두시는 거죠
+ 이인규: 방금 그것을 알아보라는 본사의 전화를 받았습니다.
+산지현 : 좋습니다. 그렇다면 한 두세 시간 정도 여유를 주십시오. 
+
+<어구연구>
+
+이인규는 2차 선적이 언제쯤 될 예정인가를 물어본다. 갑자기 받 은 질문인지라 대한상사의 산지현은,
+
+Well, that I have to figure our. (글쎄요, 그 문제는 이것저것 좀 따져봐야 알겠습니다.)
+
+라고 신중히 답변을 하고 있다. 여기에 쓰인 figure out 은 「계산하 다 ; (생각끝에)…이라는 것을 알다, 이해[평가]하다」란 뜻. 이 문장은 I have to figure that out.에서 that 이 문장 앞으로 도치된 형태이다. 결국 산지현이 한 말은,
+
+Well, offhand, I don`t know. I have to think it over. (저, 당장은 모르겠고, 좀 곰곰이 생각해 봐야 되겠군요.)
+I can`t tell right away. I`ll have to give it some thought. (당장은 말씀드릴 수가 없고, 생각을 좀 해봐야 되겠습니다.) 
+
+와 같은 뜻이다. 비슷한 상황에 쓰일 수 있는 다음의 표현들도 잘 익 혀두자.
+
+I don`t know right now. I`ll have to check it out(with my manager). (당장은 모르겠습니다. (저희 부장님과)확인해 알아보겠습니다.)
+I can`t figure it out right off. I can give you an answer tomorrow. (지금 당장은 짐작해 낼 수가 없고, 내일 답변을 드리겠습니다.)
+Give me a couple of days to figure it out. (그것을 알아내는 데 2∼3일의 시간을 주십시오.) 
+
+
+
+
+
+Situation 582 L/C
+
+Lee : Mr. Park, you came to Korea just at the right time. I really want to ask you to attend your L/C No. 21304.
+Park : In what way
+Lee : The L/C says that partial shipment is prohibited while the contract says it is allowed.
+Park : Oh! If that`s the case, we made a mistake when we applied for the L/C.
+Lee : Would you please send a telex and request amendment as soon as possible
+Park : Sure thing, I`ll get it out today. 
+
+상황 582 신용장
+
+이의섭 : 박동훈씨, 한국에 때마침 잘 오셨습니다. 귀사 신용장 21304번 에 대한 수정을 부탁드리고 싶습니다.
+박동훈 : 어떻게요
+ 이의섭: 계약서에는 분할선적이 허용되어 있는데 신용장엔 금지하는 걸 로 되어 있습니다.
+박동훈 : 아, 그렇다면 저희가 신용장 개설신청을 할 때 실수를 한 모양입 니다.
+이의섭 : 텔렉스을 보내서 가능한 한 빨리 수정을 하도록 해주시겠습니까 
+박동훈 : 예, 그렇게 해드려야죠. 오늘 당장 텔렉스를 보내겠습니다
+
+<어구연구>
+
+대한상사의 이의섭은 신용장 상에 분할선적(partial shipment)이 금지되어 있는 것을 발견하고 박동훈에게 분할선적 허용으로 신용장 조항을 수정해 줄 것을 요청한다. 이에 대해 현재 한국을 방문중인 박동훈은 그런 취지의 텔렉스를 본사에 치겠다는 뜻으로,
+
+Sure thing. I`ll get it out today. (예, 보내 드리고 말고요. 오늘 내보내도록 하겠습니다.)
+
+라고 말하고 있다. 이때의 get은 「(어떤 장소·상태 따위에)이르게 하다」란 불완전 타동사. 이를 다르게는,
+
+I`ll send it today.
+I`ll dispatch it today.
+I`ll get[send] it off today.
+
+처럼 표현할 수도 있다. 급히 발송하겠다고 말하려면 get it out [off] 대신 rush it out 이나 hurry it off와 같은 표현을 쓰면 좋다. 만일 박동훈의 한국 agent을 통하여 내보내게 할 경우는,
+
+I`ll have the agent get it out today. (오늘 대리점으로 하여금 내보내도록 하겠습니다.)
+I`ll ask the agent to hurry it off today. (오늘 대리인으로 하여금 급히 발송하도록 하겠습니다.)
+
+처럼 표현할 수도 있다. 
+
+
+
+
+
+Situation 581 Results
+
+Park : Mr. Gon, I assure you that we followed the specification to the letter.
+Gon : Then how come it didn't turn out right
+Park : Search me. I checked everything very carefully every step of the way.
+Gon : Well, it's obvious that something went wrong somewhere.
+Park : Mr. Gon, believe me, we put in a lot of time and effort on this thing.
+Gon : Yeah, but it's the results that count. 
+
+상황 581 결과
+
+ 박배진: 곤지훈씨, 확실히 말씀드리지만 저희는 작업명세서를 정확히 따랐습니다.
+곤지훈 : 그러면 어째서 그런 결과가 나왔지요
+박배진 : 저도 모릅니다. 단계마다 세심한 주의를 기울여 빠짐없이 확인했습니다.
+곤지훈 : 하여튼, 어딘가에서 뭔가 잘못된 것이 분명합니다.
+박배진 : 곤지훈씨, 정말이지 저희는 이 제품에 많은 시간과 노력을 쏟았습니다.
+곤지훈 : 압니다, 하지만 중요한 것은 결과입니다. 
+
+<어구연구>
+
+박배진은 자기네 회사가 제품을 잘못 만들었다는 곤지훈의 불만토로에 대하여,
+
+We put in a lot of time and effort on this thing. (우리는 이 제품에 많은 시간과 노력을 쏟았습니다.)
+
+라고 변명을 해보지만 곤지훈은,
+
+Yeah, but it's the results that count. (예, 그러나 중요한 것은 결과입니다.)
+
+라고 다시 항변을 한다. 이때의 count는 (가지가 있다, 중요하다)란 뜻의 자동사. 같은 뜻으 로 다음과 같이 표현하기도 한다.
+
+It's the end product that counts. (중요한 것은 최종결과입니다.)
+
+이렇게 count가 동사로 (중요하다)란 뜻으로 쓰이는 경우를 좀더 살펴보도록 하 자.
+
+It's the time that counts, not the money. (중요한 것은 시간이지, 돈이 아니다.)
+In sport, it's not who wins that counts, but how the game is played. (스포츠에서 중요한 것은 누가 이기느냐가 아니라 어떻게 경기를 하느냐이다.)
+In business, it's not ethics that count, but who wins the contract. (사업에서는 윤리가 중요한 것이 아니라 누가 계약을 따내느냐가 중요하다.) 
+
+
+
+Situation 580 Drink
+
+Lee : Mr. Han, glad to see you. While I was waiting for you, I ordered a Scotch & soda. Care for the same
+ Han: Uh no thanks. Gin's my drink.
+Lee : Sure. how do you like it With tonic, or on the rocks You name it.
+Han : Well, I could go for a Martini, but very dry.
+Lee : One very dry Martini coming up.
+Han : Fine. Ask the waiter to bring some more peanuts, too, would you 
+
+상황 580 음료
+
+ 이주만: 한철민님, 만나서 반갑습니다. 기다리는 동안 스카치소다를 한 잔 시켰는데, 같은 걸로 한 잔 하시겠어요
+한철민 : 저, 아닙니다. 저는 진이 좋습니다.
+이주만 : 그러시죠. 어떻게 해서 드시겠어요 토닉을 타서 드시겠어요, 아니면 얼음을 넣어 마티니로 드시겠어요 말씀만 하세요.
+한철민 : 저, 마티니로 했으면 합니다. 아주 담백한 것으로요.
+이주만 : 드라이 마티니 한 잔이 곧 됩니다.
+한철민 : 좋습니다. 웨이터에게 땅콩도 좀더 가져오라고 해주시겠어요 
+
+<어구연구>
+
+ 이주만은 한철민을 기다리는 동안 Scotch and soda 한 잔을 시켰다. 마침 이때 한철민이 도착하자 이주만은 
+
+Care for the same
+(같은 걸로 한 잔 하시겠어요)
+라고 그의 의향을 물어본다. 그러나 원래 한철민은 Gin을 무척 좋아하는 터라.
+
+Oh, no thanks. Gin's my drink.
+(저 됐습니다. 저는 진이 좋습니다.)
+
+라고 응답하고 있다. '…을 좋아하다'란 뜻으로 쓰이는 care for는 주로 의문문이나 부정문 형태를 취한다. care for에는 이외에 '염려하다; 돌보다'란 뜻도 있다.
+한편, 이때의 drink는 '음료 ; 수'이란 뜻. '같은 것으로 하겠느냐'고 물어볼 때 쓰는 표현으로는 이외에도,
+
+Would you like the same thing
+Care to join me in the same
+
+등이 있다. 잘 기억해 두기 바란다. Gin's my thing.이란 표현도 자주 쓰이는 표현인데,
+I like gin./ I prefer gin. / Gin's my favorite.
+
+등과 같은 뜻이라고 할 수 있다
+다음엔 술을 시킬 때 쓰이는 표현을 알아보자.
+
+What kind of drink do you care for
+(어떤 술[음료]을 드시겠습니까)
+
+What'll you have
+(무얼 마시겠습니까) 
+
+
+
+
+Situation 579 Exchange rate
+
+Han : Mr.Kim, the Korean won is going up and up these days. What happened
+ Kim: Yeah. The US is putting a lot of pressure on us to boost their exports.
+Han : I bet they are. How are you going to get around it
+Kim : I don't know, but I sure hope it doesn't go too far.
+Han : Well, it's gotta stop someplace.
+Kim : Yeah, but let's hope and pray it does before we go under. 
+
+상황 579 환율
+
+ 한다명: 김선생님, 한국의 원화가치가 요즘 계속 오르고 있는데 웬일입니까
+ 김지훈: 예, 미국이 수출을 늘리기 위해서 우리에게 많은 압력을 가하고 있거든요.
+한다명 : 분명히 그래요. 어떻게 피해 나가실 생각입니까
+김지훈 : 글쎄요. 너무 지나친 것이 아니기를 바랄 뿐입니다.
+한다명 : 저, 어느 선에서 끝나야 할 텐데요.
+김지훈 : 예, 그렇지만 우리가 파산하기 전에 그렇게 되길 기원합시다. 
+
+<어구연구>
+
+미국 dollar에 대한 한국원화의 가치가 요즘 계속 강세를 보이자 상담에 앞서 한다명은
+
+Mr. Kim, the Korean won is going up and up these days, what happened
+(김 선생님, 한국 원화의 평가가 요즘 계속 절상되고 있는데 웬일이죠)
+
+라고 물어보고 있다. 다음은 환율에 관계되는 표현들이다.
+
+The Korean won keeps appreciating against the US dollar these days.
+(요즘 대미 달러에 대한 한국 원화의 가치가 계속 오르고 있다.)
+The US dollar keeps depreciating. (미국 달러의 값이 계속 하락하고 있다.)
+The won-dollar exchange rate keeps fluctuating. (원화와 달러의 환율이 계속 변동하고 있다.)
+The dollar is getting weaker against the won. (달러화는 원화에 대하여 약세를 보이고 있다.)
+The Korean won is getting stronger against the dollar. It makes exporting difficult.
+(한국의 원화가 달러화에 대하여 강세를 보여 수출을 어렵게 만들고 있다.)
+
+달러화에 대한 원화의 가치가 높아진다는 것은 환율면에서는 달러화에 대한 원화의 환율이 떨어지는 것을 의미하므로 사용에 혼동이 없도록 유의해야 한다. 
+
+
+Situation 578 Condition
+
+ Gu: Mr. Han, I know you can't go wrong with this machine.
+Han : Well, how long is the warranty 
+Gu : It's good for one year.
+Han : And after that
+Gu : There's a slight service charge.
+Han : Sounds okay to me, as long as it works alright. 
+
+상황 578 조건
+
+ 구준의: 한하운씨, 이 기계를 선택하시면 전혀 문제가 없을 겁니다.
+한하운 : 저, 보증기간은 얼마나 되나요
+구준의 : 일년 동안입니다.
+한하운 : 그 후에는요
+구준의 : 약간의 서비스료를 내야 합니다.
+한하운 : 괜찮을 것 같은데요. 성능만 좋다면요
+
+<어구연구>
+
+구준의가 기계에 대한 장점을 계속 주장하자 한하운은
+
+Well, how long is the warranty (저 보증기간은 얼마나 되지요)
+
+라고 질문을 한다. warranty는 '(품질 등의) 보증, 보증서'란 뜻 이다. 이외에 '인가 ; (수색 등의) 영장) 도 warranty라고 한다. 기간을 물어보 고 싶을 때 사용하는 표현으로는 다음의 표현들도 자주 사용된다.
+
+What's your warranty period (보증기간이 얼마나 됩니까)
+How long is the warranty good for [valid] (품질보증은 얼마동안 유효합니까)
+
+다음은 warranty에 관한 관련표현이다.
+
+What's the warranty (품질보증의 내용은 어떤 것입니까)
+Does this machine have any warranty (이 기계는 품질보증을 해줍니까)
+The company didn't tell me there was no warranty when I bought this machine.
+(내가 이 기계를 살 때 그 회사는 품질보증이 없다는 사실을 말해주지 않았습니다.)
+What kind of after-sale(s) service do you do (어떤 애프터서비스를 해줍니까)
+
+우리말 속의 '애프터서비스'에 대한 영어는 after service가 아니 고 after-sale(s) service이다. 절대로 줄여써서는 안된다. 
+
+
+
+
+
+
+
+Situation 577 Feedback
+
+Brown: Mr. Kim, you've been a little behind in sending us your supplies lately, we've noticed.
+Kim: Yes, I know. I'm afraid shipping line schedules haven't fitted in very well.
+Brown: Well, is there anything you can do to remedy the situation
+Kim: I'll do my best, but I can't promise you 100%.
+Brown: Well, please try. We're getting a lot of feedback from our customers, and it isn't very good.
+Kim: Okay. I'll get right on it. Maybe I can swing a better deal with the shippers. 
+
+상황 577 제품하자
+
+브라운: 김 선생님, 요즈음 귀사의 제품공급이 꽤 지연되고 있는 것 같은데요.
+김동인: 예, 알고 있습니다. 선적 스케줄이 잘 맞지 않았던 것 같아요.
+브라운: 그럼 그런 사정을 해결할 수 있는 어떤 방도가 있습니까
+김동인: 최선을 다해 보지요. 하지만 100% 약속은 못드립니다.
+브라운: 그렇게 좀 해주십시오. 고객들로부터 여러 가지의 반응들이 들어오고 있는데 별로 좋지 못한 것들입니다.
+김동인: 알겠습니다. 즉시 해결에 나서겠습니다. 어쩌면 선사들과 좀더 나은 계약을 할 수도 있 을 겁니다. 
+
+<어구연구>
+
+주문품의 도착이 늦어지면 고객들로부터 많은 불만이 있게 마련이다. 이번에도 대한상사의 주문품 선적이 지연되기 시작하자 브라운은
+
+We're getting a lot of feedback from our customers, and it isn't very good. (고객으로부터 여러 가지의 반응들이 들어오고 있는데 좋지 못한 것들입니다.)
+
+라고 자신들의 입장을 설명한다. feedback이란 원래 전기관계용어로 전기회로에 있어서 출 력의 일부를 입출력에 되돌려 출력을 증대시키거나 감소시키는 것을 말한다. 생산을 자동화 하는 경우 오토메이션 장치에는 이 원리가 유효하게 이용된다. 어떤 행위의 결과가 최초의 목적에 부합되는가의 여부를 확인하고 즉시 그 행위의 원천에 그 정보를 되돌려보내 보다 적절한 행위가 되도록 작용시키는 것이다. 요즘은 일련의 행위에 대한 '반응(reaction, response)'이란 뜻으로 많이 사용된다. 물론 이 반응은 좋은 것일 수도 있고 반대로 좋지 못 한 것일 수도 있다.
+
+The company welcomes feedback from people who use the goods it produces. (그 회사는 자기들이 생산하는 제품에 대한 소비자들로부터의 반응을 적극 환영한다.)
+He got very little feedback from his speech. (그의 연설은 청중들로부터 별다른 반응을 얻지 못했다.)
+The feedback is running almost all in his favor. (반응은 거의 대부분이 그에게 호의적이다.)
+Are you getting any feedback from your customers these days (요즘 고객들로부터 반응이 들어오고 있는 것이 있습니까) 
+
+
+
+
+
+
+Situation 576 On strike
+
+ Smith: Say, Mr. Jeong, what`s the hold up on those T-38 models
+ Jeong: I`m sorry about that, Mr. Brown.
+Smith : Being sorry is okay, but it won`t satisfy the customers.
+Jeong : I know, but my hands are tied.
+Smith : Why What's the problem
+Jeong : They are on strike at the factory and all production is held up. 
+
+상황 576 파업중
+
+ 스미스: 저, 정선생님, T-38 모델이 어째서 지연되고 있습니까
+정종완 : 죄송합니다, 스미스씨.
+스미스 : 죄송하단 말씀은 좋습니다만, 고객들에겐 그런 말씀은 아무런 소용도 없습니다.
+정종완 : 압니다만 저도 어쩔 수 없습니다.
+스미스 : 어째서요 문제가 뭐죠
+정종완 : 공장이 지금 파업 중이라 모든 생산이 중단되어 버렸습니다
+
+<어구연구>
+
+한국상사는 스미스가 주문한 T-38 모델의 납기를 지키지 못하게 된다. 그래서 스미스가 그 이유를 묻자 정종완은,
+
+They are on strike at the factory and all production is held up. (현재 공장이 파업 중이라서 모든 생산이 중단된 상태입니다.) 
+
+라고 그 이유를 설명해 주고 있다. hold up은 「방해하다, 막다, 지연시키다(delay)」란 뜻. 따라서 정종완의 설명은 다음과 같이 표현할 수도 있다.
+
+All production is stopped. (모든 생산이 중단된 상태입니다.)
+The assembly line has come to a halt at the moment. (지금 작업라인은 현재 가동이 중단되었습니다.)
+The factory is paralyzed. (공장이 마비된 상태입니다.)
+
+다음은 관련표현들이다.
+
+Production has dropped. (생산이 감소했다.)
+Production has increased. (생산이 증가되었다.)
+Production is back to normal now. (생산이 이젠 정상을 되찾았다.)
+Production cannot keep up with demand. (주문이 많아 생산이 따라갈 수가 없습니다.) 
+
+
+
+
+Situation 575 Schedule
+
+ Park: Mr. Kim, hey, how are you Where's Mr. Lee
+Kim : He cancelled his trip at the last minute.
+Park : Oh, really Sorry to hear that. What reason did he give
+Kim : Some urgent business popped up in Hong Kong. He said to give you his best regards and to say that he's very sorry.
+Park : Well, gosh! I'm sorry, too. I was planning to have you both visit my ranch in Colorado.
+Kim : Gee, now I know he'll really be sorry. 
+
+상황 575 스케쥴
+
+박지형 : 김 선생님, 안녕하셨어요 이 전무님은 어디 계십니까
+김재인 : 마지막 순간에 출장을 취소하셨습니다.
+박지형 : 오, 그래요 유감이군요. 뭐 때문에요
+김재인 : 홍콩에 갑자기 볼일이 생겨서요. 지형씨께도 안부 전해달라고 하셨습니다. 대단히 죄송 하다는 말씀도 하셨구요.
+박지형 : 아이, 저런, 저도 섭섭합니다. 두 분을 콜로라도에 있는 제 농장으로 초대할 계획이었는 데요.
+김재인 : 맙소사, 그분이 정말 섭섭해 하시겠군요. 
+
+<어구연구>
+
+ 박지형이 김재인에게 이전무님이 어디 있느냐고 묻자 김재인은
+
+He cancelled his trip at the last minute. (그는 출발 직전에 이번 출장을 취소했습니다.)
+
+라고 설명을 해준다. at the (very) last minute은 '시간에 임박해, 직전에, 마지막 순간에'란 뜻.
+
+He changed his plans at the last minute. (그는 마지막 순간에 계획을 바꾸었습니다.)
+
+라고 표현해도 같은 뜻이 된다. 다음엔 관련된 표현들을 살펴보자.
+
+Why did he cancel his trip so suddenly (그는 왜 그렇게 갑작스럽게 여행을 취소했습니까)
+Why did he cancelled his trip to New York on the spur of the moment (그는 갑자기 뉴욕여행을 취소했습니다.)
+He cancelled his trip without giving even a day's notice. (그는 단 하루의 사전 통고도 없이 여행을 취소했습니다.)
+He didn't cancel his trip. He only put it off. (그는 여행을 취소한 것이 아니고 연기했을 뿐이다.)
+If you cancel your reservation at the last minute, you only get a partial refund. (출발 직전에 취소를 하면 (항공료의) 일부밖에 환불받지 못합니다.)
+He showed up at the last minute. (마지막 순간에 그는 나타났다.) 
+
+
+
+
+
+Situation 574 Fair
+
+ Park: Welcome to our showroom!
+Gang: Hello, I'm from the States, and I'm interested in your video tape recorders.
+Park : In that case, please take this brochure which explains the VTRs displayed here.
+Gang : Thank you.
+Park : I'd be glad to show you around all the exhibits here. If you have any questions, please feel free to ask me. 
+
+상황 574 박람회
+
+ 박순재: 저희 전시관에 오신 것을 환영합니다!
+강민규 : 안녕하세요. 저는 미국에서 왔는데 VTR에 관심이 있습니다.
+박순재 : 그러시다면, 이 팜프렛을 보십시오. 여기에 진열되어 있는 VTR에 대해 설명해 좋았으 니까요.
+강민규 : 고맙습니다.
+박순재 : 이 전시관에 있는 모든 제품을 쭉 안내해 드리겠습니다. 질문이 있으시면 언제든지 해 주십시오. 
+
+<어구연구>
+
+수출부에 근무를 하다 보면 매년 KOEX 주최로 열리는 무역박람회나 기타 전시회의 전시장 에 나가 buyer들의 방문을 받고 자사의 전시제품을 안내하는 일을 맡을 때가 있다. 지금 대한상사의 박순재도 전시장을 방문하는 손님에게,
+
+Welcome to our showroom! (저희 전시장의 방문을 환영합니다 ; 어서 오십시오!)
+
+라고 말하고 있다. welcome이 (환영받는, 반가이 맞아지는)이란 뜻으로 쓰이는 용법은 "Welcome to Korea!"나 "Welcome home!"처럼 감탄사로 쓰이는 경우에 한한다. welcome 의 용법을 잘 몰라(잘 오셨습니다)를 You are welcome.이라고 해서는 안 된다. 이는 남으로 부터 감사의 말을 들었을 때 (천만의 말씀입니다, 별말씀을...)이라는 뜻으로 쓰이는 말, 즉 Don't mention it.과 같은 뜻의 표현이다. You are welcome.은 주로 미국영어에 많이 쓰는 표현이다. 전시관을 방문하는 손님에게 할 수 있는 인사로 다음과 같은 것들도 있다.
+
+Good afternoon, may I help you (안녕하세요, 도와드릴까요)
+Hi, may I show you around (안녕하세요, 안내를 좀 해드릴까요)
+Hi, please drop in and have a look around. (안녕하세요, 들어오셔서 한바퀴 구경하세요.)
+
+다음과 같은 관련표현도 함께 알아두는 것이 좋겠다.
+
+I'm sorry but we don't have that item here. However you can see our complete line at the main office, which is located at Sogongdong. (죄송하지만 그 품목이 여기엔 없군요. 그러나 소공동에 있는 저희 본사에 가시면 구경하실 수 있습니다.)
+Why don't you have a look around at what some of the other companies are offering and compare prices (다른 회사는 얼마에 파는지 한바퀴 둘러보시고 비교도 해보시죠) 
+
+
+
+
+Situation 593 An Offer 
+
+ 
+Whang: Mr. Kim. We've come up with a proposal that can't be beat. 
+Kim : Well, okay. Let's see what it looks like. 
+Whang : We'll place an order for 4,000 units if you throw in the accessories free of charge. 
+Kim : You mean include the set and accessories all under one price 
+Whang : That's right. The original unit price you quoted. Our offer holds good until the end of the month. Take it or leave it. 
+Kim : Well, I can't give you any kind of commitment right now. I'll have to check with my boss first. 
+상황 593 오퍼 
+
+ 
+황순규 : 김 선생님, 아주 좋은 제안 하나를 하겠습니다. 
+김지훈 : 좋습니다. 어떤 것인지 좀 들어봅시다. 
+황순규 : 귀사측에서 부품을 덤으로 넣어주시면 저희는 4,000개를 주문하겠습니다. 
+김지훈 : 한 개의 가격으로 세트와 액세서리를 포함한다는 말씀인가요 
+황순규 : 그렇습니다. 선생님이 처음에 부른 단가대로 말입니다. 저희 의 제안은 이달 말까지 유효하니까 받아들이시든지 거절하시든지 하십시 오. 
+김지훈 : 글세, 지금 당장은 어떤 식의 약속도 드릴 수가 없군요. 사장 님과 우선 확인을 해봐야 하니까요. 
+
+ 
+<어구연구> 
+
+ 
+황순규와 김지훈이 상담을 하고 있다. 가격절충이 여의치 않자 황순규는 자신의 최종조건 을 제시한 다음 
+
+ 
+Our offer holds good until the end of the month. Take it or leave it. (저희의 제안은 월말까지 유효하니까 받아들이시든가 아니면 거절하시든가 양자택일을 해주십시오.) 
+
+ 
+라고 자신들의 입장을 밝힌다. hold good은 '유효하다, 적용되 다'란 뜻이고, take it or leave it은 '있는 그대로(100%) 승낙하든지 거부하든 지 하다'란 뜻의 관용표현이다. offer 따위가 언제까지 유효하다고 할 때 의 '유효하다'는 valid나 in effect를 사용하여 표현하기도 한다. 따라서 황순규의 얘기는 
+
+ 
+Our offer is valid until the end of the month. 
+Our offer is in effect until the end of the month. 
+
+ 
+라 표현해도 같은 뜻이 된다. 다음엔 hold good을 활용해 보도록 하자. 
+
+ 
+How long will your promise hold good (네 약속은 언제까지 유효하니) 
+Does your offer still hold good 
+Is your offer still good[in effect] (귀사의 제안은 아직 유효합니까) 
+What he said still holds good. (그가 한 얘기는 아직 유효하다.) 
+How long is this permit good for (이 허가의 유효기간은 얼마나 됩니까) 
+
+ 
+
+ 
+
+
+Situation 592 Offer
+
+Goo : Mr. Cha, let me introduce you to a new special offer we've got going. $21.00 a unit on model B-50. But it's for a limited time only, so better take advantage of this really great offer while you can.
+Cha : Hey, sounds great. How long is this effective
+Goo : All orders must be placed by the end of this week.
+Cha : Gee, you think you can hold it over for another week or so
+Goo : Well, I don't know. I'd have to check with the head office.
+Cha : Do that and tell them I guarantee a really big order if they can. 
+
+상황 592 오퍼
+
+구한의: 차진태씨, 저희 회사가 지금 내놓고 있는 새로운 특별 오파 하나 를 소개해 드리지요. 모델 B-50이 개당 21달러입니다. 하지만 유 효기간이 제한되어 있으니까 정말 이렇게 좋은 오파는 가능할 때 이용 하는 것이 좋으실 겁니다.
+차진태 : 괜찮을 것 같군요. 언제까지 유효합니까
+구한의 : 이번주 말까지 주문이 모두 확정되어야 합니다.
+차진태 : 저런, 일주일 정도만 더 연장해 줄 수 있을까요
+구한의 : 글쎄, 모르겠는데요. 본사에 알아봐야 할 것 같습니다.
+차진태 : 알아보세요. 그리고 주문을 받아주실 수만 있다면 제가 상당 히 많은 양의 주문을 보장하겠다고 전해 주십시오. 
+
+<어구연구>
+
+대한상사가 기계모델 B-50를 빨리 처분해야 할 입장이라 미국출장 중인 구한의는 차진태에게 special offer를 하게 된다. 하지만 금주중으로 주문서를 내기에는 기간이 너무 촉박하다는 것을 알고 있는 차진태는
+Gee, you think you can hold it over for another week or so (저런, 일주일쯤 그것을 연장해 줄 수는 없을까요)
+
+라고 기간연장의 가능성을 타진해 본다. 여기에 쓰인 hold over 는 '…을 연기하다, 다음으로 넘기다(move an event to a later date)'란 뜻. 같은 뜻으로 다음과 같이 표현해도 좋다.
+
+Do you think you can keep it going for another week or so 
+Do you think you can extend it for another week or so 
+
+이때의 go는 '(일이) 실행되다'의 뜻. 우리말에서는 '일주일을 더 기다려 줄 수 있습니까'라고 묻는데 이를 Can you wait for one more week 라고 하는 것은 콩글리쉬에 속한다. 이를 영어답게 표현하려면 Can't you give us another week or so라고 해야 한다. 다음엔 hold over를 활용해 보도록 하자.
+
+They might hold it over for another two weeks or so. (그들은 그것을 또 2주간 연장할는지 모른다.)
+We can't hold it over any longer. (더 이상의 연장은 불가능합니다.)
+How much longer do you think you can hold it over (그것을 얼마나 더 연장해 주실 수 있겠습니까) 
+
+
+
+
+
+Situation 591 An Agency
+
+Go : Mr. Jang, I`ve been looking over your proposal. I`m afraid there are a few points we can`t accept.
+Jang : Well, let`s see. Maybe we can iron them out.
+Go : I hope so, We`d like to include the Far East in the agency territory.
+Jang : I`m sorry, but we already committed ourselves to another firm for the Far East area.
+Go : Then, that sort of complicates things.
+Jang : Look, how about if we give you both the Middle East and Africa That should more than make up for it. 
+
+상황 591 An Agency
+
+고성민 : 장선생님, 저희는 귀사의 제안을 검토해 봤습니다. 그런데, 몇 가지 받아들일 수 없는 사항들이 있더군요.
+장현우 : 저, 어디 좀 봅시다. 아마 조정할 수 있을 겁니다.
+ 고성민: 저도 그럴 수 있기를 바랍니다. 극동지역을 관할구역으로 포함시 키고 싶습니다.
+장현우 : 죄송합니다만 극동지역은 이미 타회사에 주기로 약속을 했습니 다.
+고성민 ; 그렇다면 일이 좀 복잡해지는데요.
+장현우 : 저, 중동지역과 아프리카지역을 귀사에 주면 어떤가요 그 정도 면 극동지역을 보상하고 남을 테니까요. 
+
+<어구연구>
+
+관할 영업구역 문제에 대하여 고성민과 장현우는 절충을 계속하 고 있다. 고성민은 극동지역까지 자기에게 달라고 하지만 장현우는 이미 이 지역을 다른 회사에 주기로 약속을 한 상태이다. 이런 사실을 안 고성민은,
+
+Then, that sort of complicates things. (그러면 상황이 좀 복잡해지는군요.)
+
+라고 걱정을 한다. 이 말은 다음과 같이 표현해도 같은 뜻이 된 다.
+
+That kind of makes things difficult. (그것은 사정을 다소 어렵게 만드는군요.)
+That presents somewhat of a problem. (그것은 다소 문제가 되는군요.)
+
+위 영문에서 things는「사정, 상황, 사태(matters)」란 뜻이고, present 는「…을 일으키다, 생기게 하다」란 의미로 쓰였다. 다음엔 complicate란 동사를 응용해 보도록 하자.
+
+Don`t complicate the problem any further. (문제를 더 이상 복잡하게 만들지 마세요.)
+If you do that, it will be complicate things even more. (그렇게 하시면 사정을 더 어렵게 만들게 됩니다.)
+He complicated the matter by going over my head. (그는 나와 의논도 없이 일을 하여 사정을 더 어렵게 만들었다.) 
+
+이때의 over one`s head는 「남을 따돌리고, 무시하고, 남에게 의논 하지 않고」란 뜻. 
+
+
+
+
+Situation 590 An order
+
+ Kang: Mr. Han, we'd like to place an order for your new model A- 125.
+ Han: Good. Approximately how many units did you have in mind 
+Kang : Well, let's say about 1,000 units to start with.
+ Han: Okay, do you find any market preference for a particular color
+Kang : Not any one in particular, no, but one that's usually attractive yet easy on the eyes.
+ Han: I think I've got just the color that'll fill the bill. 
+
+상황 590 주문
+
+강민진 : 한선생님, 귀사의 신형모델 A-125에 대한 주문을 내고자 합니 다.
+한성규 : 좋지요. 물량은 대충 어느 정도로 생각하고 계시지요
+강민진 : 저, 우선 1,000대 정도로 시작해 볼까요
+한성규 : 좋습니다. 시장에서 특히 선호하는 색상이 있습니까
+ 강민진: 특별한 건 없습니다. 하지만 대개 매력적이면서 보기에 좋은 것이면 됩니다.
+ 한성규: 거기에 딱 맞는 바로 그런 색깔이 있는 것 같습니다. 
+
+<어구연구>
+
+한국을 방문중인 강민진은 대한상사의 제품모델 A-125 1,000대를 수입하기로 결정하였다. 그래서 한성규는 색상에 관하여
+
+Do you find any market preference for a particular color (시장에서 특히 선호하는 색상이 있습니까)
+
+와 같이 물어보고 있다. preference는 '다른 것보다 (…을) 좋아 하기 ; 선호'란 뜻. 다음과 같이 표현해도 같은 뜻이 된다.
+
+What's the market preference when it comes to color (색상에 관해서는 시장에서의 선호가 어떻습니까)
+What's the going market trend on the color (색상에 관한 시장에서의 현 경향은 어떻습니까)
+
+다음은 preference에 관한 예문들이다.
+
+They've always had a preference for taking their vacations abroad. (그들은 휴가를 해외로 가는 쪽을 항상 더 좋아했다.)
+In considering people for jobs in our company we give preference to those with some experience. (우리 회사는 새로운 사람을 채용할 때 경력자를 우대한다.) 
+What's his preference when it comes to dining out (외식할 때 그가 특별히 선호하는 것은 무엇입니까)
+I prefer Japanese food to Chinese. (나는 중국음식보다 일식을 더 좋아한다.) 
+
+
+
+Situation 589 Cost 2
+
+Yoon : Mr.Baek, what do you think of our latest model
+Baek : Looks good, but it's a little on the high side.
+Yoon : Well, that may be true in some respect, but look at it from a qualitative point of view.
+Baek : I am, but I'm also thinking of the market, too.
+Yoon : What they've got on the market will never stand up to this baby.
+Baek : I'm inclined to agree... if you'll only come down a little. 
+
+상황 589 가격 2
+
+윤준원: 백규호씨, 당사의 새 모델을 어떻게 생각하십니까
+백규호: 좋아 보이긴 하는데 가격이 다소 비싼 감이 듭니다.
+윤준원 : 저, 어떤 면에선 그럴지도 모르지만 품질을 놓고 보셔야지 요.
+백규호 : 저도 그런 관점에서 보고는 있지만, 시장도 역시 생각을 해야 하니까요.
+윤준원 : 시장에 있는 것들은 절대 이 제품과 경쟁이 될 수 없습니 다.
+백규호 : 저도 동의하고 싶군요. 가격을 조금만 인하해 주신다면요. 
+
+<어구연구>
+
+윤준원이 자기네 회사의 새 제품을 어떻게 생각하냐고 묻자 백규호는
+
+Looks good, but it's a little on the high side. (좋습니다. 그러나 가격이 다소 비싼 감이 듭니다.)
+
+라고 솔직하게 자신의 의견을 얘기한다. 여기서 on the .. side 는 '다소 ..한, ..한 기미가 보이는'이란 뜻의 관용표현. 
+그래서 His hair was on the light side of brown.이라고 표현하면 '그이 머리 빛깔은 옅은 브라운이 었다.'란 뜻이 된다. 결국 백규호의 얘기는
+
+It's a little too high[expensive].
+It's rather stiff.
+It's not low enough.
+
+등과 같은 뜻이 된다. on the high side를 응용해 보자.
+
+Do you think our price is a little on the high side (저희들의 가격이 다소 비싸다고 생각하십니까)
+The prices in that department store are a little on the high side. (그 백화점의 가격은 약간 비싼 편입니다.)
+
+거래에서 가격이 비싸다는 얘기를 하면 늘 '품질이 좋은 점을 생 각해 보십시오.'와 같이 응수를 하는 예가 많은데 이 말은
+
+Look at[Think about] it from a qualitative point of view.
+
+와 같이 표현을 하면 된다. 이때의 '품질면에서'는 qualitywise, from a standpoint of quality, from the qualitative 등과 같이 표현해 도 좋다. 
+
+
+
+
+
+
+Situation 588 Cost 1
+
+Gang : Mr. Do, the boss has asked me to talk to you about our getting some kind of a discount on model No. 124. Do you think it's possible
+Do : Well, you kind of put me on the pot, Mr. Gang.
+Gang : Oh, what do you mean
+Do : Ordinarily it would be out of the question.
+Gang: Oh, surely you can make an exception in our case.. old, steady customers like us.
+Do : Yeah, well, considering our long-standing relationship, I'll make an exception and give you a 5% discount, but remember, don't breathe a word of this to anyone. 
+
+상황 588 가격 1
+
+강택민 : 두선생님, 저희 사장님께서 제게 김 선생님과 잘 얘기해서 124번 모델 제품의 가격을 할인해 보라고 하셨습니다. 가능할까요 
+ 두영민: 저, 강택민씨, 저를 곤란하게 만드시는군요.
+강택민 : 무슨 말씀이세요
+두영민 : 통례적으로 봐서 할인이 불가능할 겁니다.
+강택민 : 저희같은 단골 고객들에게는 예외적인 조치도 해주실 수 있 을 텐데요.
+두영민 : 예, 오랜 거래관계를 고려해서, 특별히 5%의 할인을 제공해 드리겠습니다. 하지만 다른 사람에겐 절대 소문내지 마세요. 
+
+<어구연구>
+
+가격을 깎아주는 측에서는 특별히 감안하여 깎아주더라도 상대방 은 좀더 깎아줄 것을 요구하는 경우가 많다. 이런 경우 깎아주는 입장에 서 흔히 쓰는 말 중에 다음과 같은 것이 있다.
+
+Considering our long-standing relationship, I'll make an exception and give you a 5% discount.
+(오랜 거래관계를 고려하여 예외적으로 5%의 할인을 해드리겠 습니다.)
+
+'오랜 거래관계를 고려하여'란 말은 다음과 같이 표현되기도 한 다.
+
+In consideration of our long relationship, (우리들의 오랜 유대관계를 고려하여,)
+Taking into account our long-standing relationship, (오랫동안 지속되어 온 우리들의 관계를 감안하여,)
+I'll give you special consideration. (특별한 배려를 해드리겠습니다.)
+
+다음의 관련된 표현들도 함께 알아두자.
+
+I'll make an exception this time, but next time, it's impossible [no go]. (이번에는 특별히 예외로 하되, 다음 번에는 안됩니다.)
+I made an exception in his case. (그의 경우에는 예외적으로 그렇게 해준 것이다.)
+You can make an exception this time, can't you (이번에는 특별히 예외적으로 해주실 수 있지요)
+Making an exception is out of the question. (예외적인 적용은 불가능합니다.) 
+
+
+Situation 587 Concession
+
+ Jeong: Mr. Kim, my apologies. I thought that price you quoted me in Seoul would be okay, but the boss doesn't buy it.
+Kim : But as I told you, that was a special price considering the large amount of your order.
+ Jeong: Yeah, I know. I should have checked first. But now the boss says 10% more has got to come off.
+Kim : Another 10% Gee, that'd practically be giving it away.
+Jeong : Yeah, I agree, but what can I do
+Kim : Oh, all right, but let's make one thing clear. This is our final concession. 
+
+상황 587 양보
+
+정기혁 : 김 선생님, 사과드립니다. 서울에서 선생님이 저한테 내신 견적가격이 그만하면 됐다고 생각했습니다만, 저희 사장님께서 받아들이시질 않는군요.
+김준호 : 제가 말씀드렸듯이, 그것은 귀사의 주문이 대량임을 고려하 여 특별히 싸게 드린 가격이었어요.
+정기혁 : 예, 그런 줄 압니다. 제가 먼저 확인을 했어야 하는데. 사장 님께선 10%가 더 할인되어야 한다고 하시는군요.
+김준호 : 또 10%를요 원 참, 그건 거의 거저주는 것과 마찬가지게요.
+정기혁 : 예, 저도 동감입니다만 어쩔 수 없군요.
+김준호 : 예, 좋습니다. 하지만 한 가지 분명히 해둡시다. 양보는 이번이 마지막입니다. 
+
+<어구연구>
+
+상담을 하다 보면 값을 너무 지나치게 깎으려고 하는 사람들이 더 러 있다. 깎아주어도 또 깎아달라고 하는 경우에는 퍽 난감해지게 되는데 이때는
+
+This is our final concession. (이것은 저희 회사의 마지막 양보입니다.)
+
+라고 얘기를 해주어야 할 것이다. concession은 '양보 ; 승인 ; 용인'이란 뜻으로 '인정하다 ; (권리, 특권으로서) 허용하다, 주다'란 뜻의 동사 concede의 명사형이다. 따라서 김준호의 이야기는
+
+This is our last offer. (이것은 저희 회사의 최종가격입니다.)
+This concession is the last one we'll make. (이것은 저희 회사의 마지막 양보입니다.)
+
+처럼 표현해도 좋을 것이다. 다음엔 concession을 활용해 보자.
+
+As a concession to public opinion, the government reduced the tax on gas. (여론을 인정하여 정부는 휘발유 소비세를 인하하였다.)
+It's difficult to get them to make a concession. (그들로 하여금 양보케 하는 것은 어렵다.)
+He owns a concession at the Sae-woon-sang-ga. (그는 세운상가에 임대점포를 하나 갖고 있다.) 
+
+
+
+
+
+Situation 586 A time defference
+
+Kim : Excuse me, what's the time difference between Seoul and Los Angeles
+Stewardess: 11 hours. Seoul is 11 hours ahead.
+Kim : Are we losing or gaining a day on the way to America
+Stewardess : We are gaining a day.
+Kim : So does it mean we're arriving the same day
+Stewardess : That's right. 
+
+상황 586 시차
+
+김기동 : 잠깐만요. 서울과 LA간의 시차가 얼마나 되지요
+승무원 : 11시간입니다. 서울이 11시간 빠르지요.
+김기동 : 미국으로 가면 하루를 잃게 되나요, 벌게 되나요
+승무원 : 하루를 벌게 되지요.
+김기동 : 그럼 같은 날 도착하게 된다는 말씀이세요
+승무원 : 예, 그렇지요. 
+
+<어구연구>
+
+김기동이 승무원에게 자신의 여행목적지인 LA와 Seoul간의 시차를 물어보는 장면이다. 이에 대해 승무원은,
+
+Eleven hours. Seoul is eleven hours ahead.
+(11시간 차이가 납니다. 서울이 11시간 빠르죠.)
+
+라고 설명을 해주고 있다. 빠른 것은 ahead로, 늦는 것은 behind로 나타낸다. 승무원의 얘기는 다음과 같이 표현해도 좋다.
+
+LA is eleven hours behind.
+(LA가 11시간 늦습니다.)
+
+There's eleven hours'difference.
+There's an eleven-hour difference.
+(11시간의 차이가 납니다.)
+
+다음은 관련표현들이다.
+
+Seoul is a day ahead of LA.
+LA is a day behind Seoul.
+(서울은 LA보다 날짜가 하루 빠릅니다.)
+
+If we leave Seoul on the evening of the 26th, then we arrive in LA on the same day.
+(서울을 26일 저녁에 출발하면 LA에 도착하는 날도 26일이 됩니다.)
+
+If you leave Incheon early in the morning on the 26th, then you arrive in Los Angeles on the 25th unless you stop over in Hawai very long.
+( 26일 오전 일찍이 인천을 출발하면 하와이에서 너무 오랫동안 도중체제를 하지 않는 한 25일 LA에 도착을 하게 됩니다.)
+
+If yo fly from LA to Seoul, then you lose one day.
+(비행기로 LA에서 서울로 오면 하루를 잃게 됩니다.) 
+
+
+
+
+
+Situation 585 Binders
+
+ Jeon: Mr. Kim, how did you find that last lot of binders
+Kim : Generally speaking, it was okay, but some of them had serious defects.
+Jeon : Oh, sorry to hear that. From now on you`ll find our goods and services most satisfactory, I`m sure.
+ Kim: I sure hope so, but mind you, if there are any defects, you`ll have to answer for them.
+Jeon : Take my word for it, everything will go perfectly smooth from now on.
+Kim : It would better be. Otherwise, I`ll have to answer to my boss for it personally. 
+
+상황 585 바인더
+
+ 전지연: 김동환씨, 지난번 선적한 바인더 어떻든가요
+김동환 : 대체적으로는 괜찮았습니다. 그러나 몇 개에는 심한 하자가 있었습니다
+전지연 : 저런, 그렇다니 죄송하군요. 앞으로는 제품과 서비스 모두 틀림 없이 해드릴 것을 약속 드립니다.
+김동환 : 꼭 그렇게 해주시기 바랍니다. 그리고 분명히 밝혀두지만, 만일 하자가 발생하다면 귀 사에서는 그에 대한 책임을 지셔야 합니다.
+전지현 : 제 말을 믿으세요, 앞으로는 모든 것이 다 잘될 테니까요.
+김동환 : 잘되어야 합니다. 그렇지 않으면 제가 사장님께 그에 대한 책임 을 져야 할 테니까요
+
+<어구연구>
+
+한국의 스타상사는 지난번 미국의 ABC사로 바인더를 선적한 바가 있 다. 그래서 대한상사의 전지연은 이번에 한국을 직접 방문한 김동환에게,
+
+How did you find that last lot of binders (바로 지난번에 선적한 바인더는 어떻든가요)
+
+라고 물어보고 있다. 이때의 find 는 「발견하다」란 뜻이 아니고 「(…이라는 것을)(경험에 의하여) 알다, 깨닫다」란 뜻. 따라서 How do you find New York이 라고 하면 「뉴욕을 어떻게 찾습니까」란 뜻이 아니고「뉴욕을 어떻게 생각하십니까 ; 뉴욕은 어떻습니까」란 뜻. 한편 전지연의 얘기는 다음과 같이 다르게 표 현할 수도 있다.
+
+What do you think about that last lot of binders (바로 지난번 선적한 바인더는 어떻게 생각하십니까)
+How do you like that last lot of binders (지난번 보내 드린 바인더는 마음에 드십니까)
+
+이외에 동사 strike를 써서 How did that last shipment strike you 처럼 표현할 수도 있다. 이때의 strike는 「(…이라고)느끼게 하다, 인상을 주다」란 뜻이다. 다음의 find 에 관한 용법도 알아두자.
+
+Did you find the hotel suitable (그 호텔은 묵으시기에 편하든가요)
+I really found the food quite agreeable. (그 음식은 내 식성에 아주 잘 맞았다.) 
+
+
+
+
+
+Situation 584 Contract
+
+ Gu: Mr. Ji, what do you think of the new contract
+Ji : Well, it is okay, up to a point.
+Gu : What do you mean
+Ji : Well, I liked the part about the technical tie-up, but the distributorship doesn`t sit too well with us.
+Gu : Well, if you talk it over with them, maybe they`ll consider amending it.
+Ji : Yeah. Well, I think they`ll have to. We can`t buy it as it stands
+
+상황 584 계약
+
+구자성 : 지명철씨, 새로 맺은 계약에 대해 어떻게 생각하십니까
+지명철 : 글쎄요, 어느 정도는 괜찮은 것 같습니다.
+ 구자성: 그게 무슨 말씀이세요
+지명철 : 저, 기술제휴에 관한 부분은 마음에 들지만, 판매권은 별로 맘 에 들지 않는군요.
+구자성: 저, 그 사람들이랑 얘기를 해보면, 아마 수정하는 방향으로 고려 해 주실 겁니다.
+ 지명철: 예, 꼭 그렇게 해주셔야 할 것 같은데요. 현상태로는 합의할 수 가 없습니다. 
+
+<어구연구>
+
+구자성과 지명철은 각자 자신의 소속된 회사의 실무자로서 이번 에 작성된 계약서에 대하여 의견을 주고받는다. 구자성이 새 계약서에 대한 의 견을 묻자 지명철은,
+
+Well, it`s okay, up to a point. (글세, 어느 정도까지는 괜찮은 것 같습니다.)
+
+라고 대답한다. 이때의 point는 「정도, 단계」라는 뜻. 따라서 up to a point는 up to a certain point와 같은 뜻이라고 할 수 있다. 이 표현 대신에.
+
+Some of it is okay. (어떤 부분은 괜찮습니다.)
+Most of it is okay. (대부분 괜찮습니다.)
+
+와 같이 말해도 좋을 것이다. 미국인에게 Can you drink(술 할 줄 아십니까)라고 물었을 때, 그 대답으로 Up to a point. 라고 말했다면 이는 「어느 정도 는 마실 수 있습니다.」란 뜻이 된다. 차제에 「(어떤 시점·정도·지점에)이르기 까지, …까지」란 뜻의 up to를 좀더 활용해 보 자.
+
+It`s okay up to this point[here]. (여기까지는 괜찮습니다.)
+It`s not bad up to page 10. (10페이지까지는 괜찮은 편입니다.)
+아울러 up to a point 와 to the point(적절한, 딱 들어맞는)를 혼동 하지 않도록 유의하자. Get to the point. (요점을 얘기하시오.)
+His speech was brief and to the point. (그의 연설은 간명하고 적절했다.) 
+
+
+
+Situation 603 Hotel
+
+Choi: What's the quickest way to get downtown 
+Gil: We can take either a bus or a taxi. which do you prefer 
+Choi: I'd like to take a taxi. 
+Gil: Okay, then follow me. I've reserved a room for you at the Seoul Chosun Hotel. 
+Choi: I really appreciate all the trouble you've gone to. 
+Gil: It hasn't been any trouble at all. After we get to the hotel, how about having dinner with me 
+Choi: Thank you. 
+
+
+상황 603 Hotel
+
+최규완: 시낼 가려면 어떻게 가는 것이 제일 빠르죠 
+길민규: 버스나 택시 중 아무거나 타면 돼요. 어떤 것을 탈까요 
+최규완: 택시가 좋겠네요. 
+길민규: 좋습니다. 그럼 이쪽으로 가시지요. 제가 조선호텔에 예약을 해놓았습니다. 
+최규완: 저를 위하여 수고가 많으셨습니다. 
+길민규: 수고랄 것도 없습니다. 호텔에 도착해서 저랑 저녁이나 같이 하실까요 
+최규완: 감사합니다. 
+
+
+<어구연구>
+
+조선호텔에 예약을 마쳤다는 말에 최규완은
+
+I really appreciate all the trouble you've gone to. (수고 해 주신데 대하여 진심으로 감사를 드립니다.)
+
+라고 감사의 뜻을 전한다. "수고하다, 수고를 아끼지 않고 ~ 하다."는 go to the trouble로 표현하는데 trouble 앞에는 보통 the 대신 so much, all the, any 등의 수식어구가 붙는 경우가 많다.최규완의 얘기는 다음과 같이 표현해도 좋다.
+
+You've gone to so much trouble for me [on my account]. (저를 위해 수고를 많이 하셨군요)
+I'm sorry to put you to so much trouble. (수고를 너무 많이 끼쳐드려서 죄송합니다.)
+I really thank you for trouble. (수고해 주셔서 정말 감사합니다.)
+You've been too kind. (영국식) (너무 친절하셨습니다.) 
+I really appreciate all the favors you've done for me. (베풀어주신 모든 호의에 대하여 진심으로 감사드립니다.)
+You really went out of your way. (일부러 정말 수고 많이 하셨습니다.) 
+
+그러나 한국인들 중에는 우리말을 그대로 번역하여 "수고 하셨습니다."를 You did a lot of trouble.이나 You did a loy of pain.으로 말하는 사람들이 있는데 이는 엉터리 영어이다.
+ 또 어떤 사람들은 "수 고 많이 했다"는 뜻으로 Thank you. You made a lot of trouble.(고맙습니다. 당신은 폐를 많이 끼쳤습니다.)라는 영어를 서슴없이 하기도 하는데 이 런 얘기를 들으면 미국인들은 아마 깜짝 놀라면서 Oh, did I (저런, 제가 그랬나요) 하며 반문할 것이다. 
+
+
+
+
+
+
+
+Situation 602 Payment
+
+Julia : Mr. Kim, I'm not quite sure. Have we paid you yet for the samples you airfreighted us
+Kim : Gee, now that you mention it, I'm not quite wure myself.
+Julia : Why don't you check and let us know
+Kim : Okay, but there's no rush on it.
+Julia : Well, we'd like to get our accounts straightened out before the end of the year, if possible.
+Kim : I'll tell you what I'll do. I'll check it out, and if you haven't paid us yet, we'll send a statement of account next month. 
+
+상황 602 대금결제
+ 
+줄리아: 김 선생님, 확실치가 않아서 그런데요. 귀사에서 항공편으로 저희에게 보내주신 견본에 관한 대금을 저희가 지불했던가요
+김기훈 : 저런, 그 말씀을 듣고 보니 저 역시 확실히 모르겠습니다.
+줄리아 : 확인해서 저희에게 좀 알려주십시오.
+김기훈 : 그러지요. 그러나 그렇게 급한 것은 아닙니다.
+줄리아 : 저희들이 가능한 한 금년 안으로 대차관계를 정산하고 싶습니다.
+김기훈 : 이렇게 하면 어떨까요. 제가 확인을 해봐서 귀사가 아직 지불을 안하셨으면 다음달에 청구서를 보내드리겠습니다. 
+
+<어구연구>
+
+줄리아가 대금 결제에 대해 김기훈과 얘기하고 있다. 줄리아가 확인해서 알려달라고 하자, 김기훈은
+
+Okay, but there's no rush on it. (그렇게 하지요, 그러나 그렇게 서둘러 하실 필요는 없습니다.)
+
+라고 대답을 하고 있다. rush는 '급하게 하다;재촉하다'란 동사적 용법 외에도 '동진;쇄도;분 망(奔忙), 다망(多忙)'이란 명사적 용법으로도 자주 쓰인다. 김기훈의 얘기는 다음과 같이 표현할 수도 있다.
+
+It's not urgent. (급하지는 않습니다.)
+You can take your time. (그것은 미룰 수 있습니다.)
+There's nothing that can't wait. (그렇게 급한 것은 없습니다.)
+
+
+
+
+
+Situation 601 Payment
+
+Lee:When are payments due
+Park:Invocies will be sent on the 10th of each month, and you are required to remit that payment before the end of following month.
+Lee: What kind of payment terms can you offer
+Park:It's possible to pay in 12 equal monthly installments.
+Lee: How long will it take for the merchandise to arrive
+Park:Since we'll send it by ship, it takes about 50 days.
+Lee: That's a bit late. Can you make it a little earlier
+
+상황 601 지불
+
+이순영: 지불기한은 언제까지입니까
+박승현: 청구서를 매달 10일에 보내드리겠습니다. 그러면 다음달 말까지 송금해 주셔야 합니다.
+이순영: 지불 조건은 어떻게 해주시겠습니까
+박승현: 12개월 균등 분할 지불이 가능합니다.
+이순영: 물품이 도착할때까지 시간이 얼마나 걸립니까
+박승현: 선편으로 보내면 50일 정도 소요됩니다.
+이순영: 조금 늦군요. 좀 더 빠를 수는 없습니까
+
+<어구연구>
+
+이순영과 박승현은 지불 조건에 대해 대화를 나누고 있다. 
+
+관련된 표현을 익혀보자.
+
+1.지불조건 제시
+
+How would you like to settle this(어떤 결제 방법이 좋습니까)
+Will you select your choice of payment(원하는 지불 방법을 선택해 주시겠습니까)
+May we pay in installment(할부로 해주시겠습니까)
+Will you give us a5% discount for cash payment(현금 지불 조건으로 5% 할인해 주실 수 있습니까)
+
+2.납품
+
+How soon can you deliver it to us(언제까지 납품하실 수 있습니까)
+Are you sure to ship these goods by the end of this month(이 물건을 이달 말까지 틀림없이 출하할 수 있겠습니까)
+How long will it take for the merchandise to arrive(물건이 도착할 때까지 시간이 얼마나 걸립니까)
+How long will it take to make shipment(선적하는데 어느정도의 시간이 걸립니까)
+
+3.보증
+
+Our grarantee covers maintenance for both parts and labor.(저희 회사의 보증은 부품과 인건ㅂ의 유지비용을 포함합니다.)
+You receive a 3-year guarantee with this machine.(이 기계의 보증 기간은 3년입니다.)
+We'll grarantee them for two years.(이것들은 2년간 보증합니다.)
+
+관련용어를 알아두자.
+
+terms of payment:지불기한
+bill of goods:납품서
+import duty:수입관세
+import restriction:수입제한
+balance sheet:대치대조표
+cost accounting:원가계산
+transport insurance:운송보험
+
+
+
+
+
+Situation 600 International call
+
+Go: How can I make an international call
+Kim: I'll take care of it. Where do you want to call
+Go: It's to Seoul, Korea. The number is 02-345-6789. I'll speak with anybody at that number.
+Kim: Is this a collect call
+Go:No, I'll pay.
+Kim: May I have your name and number, please
+Go: My name is Dongmin Go and my number is 333-4433.
+
+상황 600 국제전화
+
+고동민: 국제전화 어떻게 걸죠
+김수로: 제가 처리해 드릴게요. 어디로 걸건가요
+고동민:서울로 걸겁니다. 번호는 02-345-6789입니다.그 번호 누구라도 상관없습니다.
+김수로:이 전화는 상대방이 지불합니까
+고동민: 아니요, 제가 지불할겁니다.
+김수로:성함과 전화번호를 말씀해 주시겠습니까
+고동민: 제 이름은 고동민이구요, 번호는 333-4433입니다.
+
+<어구연구>
+
+오늘의 주제는 "국제전화"이다. 국제전화와 관련된 표현을 익혀보자.
+
+I'd like to make an international call to Seoul, Korea.(한국의 서울로 국제전화 걸고 싶은데요.)
+I'd like to make a long distance call to Chicago, please.(시카고로 장거리 전화 부탁합니다.)
+I have a station-to-station call to Korea.(한국으로 번호 통화를 걸고 싶습니다)
+I'd like to make a collect call to Korea.(한국에 콜렉트 콜 걸고 싶습니다)
+
+관련용어를 알아보자.
+
+Overseas call:국제전화
+Collect call:수신자 부담 전화
+person-to-person:지명통화
+country code: 국가번호
+area code :시외국번
+city code:시내국번
+
+
+
+
+
+
+Situation 599 A plant
+
+Hong: These are the facilities at the Suwon plant. The white building over there is the dormitory.
+Gang: This is an impressive plant. When was this factory built
+Hong: This factory was established in 1980.
+Gang:How many units do you turn out a day
+Hong: This plant turns out 5,000 units per day.
+Gang: I'm interested in your personal computers. Would you explain the new features
+Hong:Mr. Hong will explain the technical aspects of these products.
+Gang:What does that machine do
+
+상황 599 공장
+
+홍진우:이게 수원공장 설비들입니다.저 하얀건물이 기숙사죠.
+강민규:멋진 공장이군요. 언제 지어졌습니까
+홍진우:1980년에 지었죠.
+강민규:하루 생산량은 어느정도죠
+홍진우:5000대를 생산합니다.
+강민규:당신 회사 PC에 관심이 많은데요, 새로운 기능에 대해 설명해 주시겠습니까
+홍진우:미스터 홍이 디 제품의 기술적 측면에 대해 설명해 줄겁니다.
+강민규: 저건 무엇을 하는 기계죠
+
+<어구연구>
+
+강민규는 수원공장을 방문해서 홍진우의 공장소개를 듣고, 궁금한 점들을 질문하고 있다.
+
+공장 안내와 관계된 표현을 알아보자.
+
+Let me show you our plant.(공장을 안내해드리겠습니다.)
+Now, we'll give you a tour of the plant.(그럼, 공장을 돌아볼까요)
+This is the most fully-automated factory.(이곳은 완전 자동화된 공장입니다)
+We're a manufacturer of household appiances.(우리 회사는 가전제품 제조업체입니다.)
+
+자세한 설명을 요구를 할 때는 다음과 같은 표현을 쓴다.
+
+Would you explain what you mean(무슨 뜻인지 자세히 설명해 주시겠습니까)
+Excuse me, but I'm not sure I understand what you want to say. Would you please put it more briefly(실례지만, 무슨 말인지 이해가 잘 안되네요.좀 더 간단히 말씀해 주시겠어요)
+Would you tell us about it in more detail(좀 더 자세히 설명해 주시겠어요)
+
+공장 관련용어를 알아보자.
+
+affiliated company:계열회사
+processing industry:가공산업
+manufactured goods:가공품
+cost of processing:가공비
+production efficiency:생산효율
+bande warehouse:보세창고
+
+
+
+
+Situation 598 A sample
+
+Lee : Mr. Park, we were very pleased with the sample you sent us.
+Park : Thank you, but I'm sorry to report we're out of stock onthat particular model at the moment.
+Lee : Really How come
+Park : The demand has been so great that production just can't keep up with it. The labor strikes haven't helped either.
+Lee : Well, look then, when you go back, would you send us the nearest thing you have to the sample
+Park : Sure thing. 
+
+상황 598 샘플
+
+이수남 : 박 선생님, 저희에게 보내주신 견본이 아주 마음에 들었습니다.
+박준규 : 감사합니다. 그런데 죄송하게도 지금 그 모델의 재고가 다 떨어졌습니다.
+이수남 : 그래요 어째서 그렇지요
+박준규 : 수요가 굉장히 많아서 생산이 따라가지를 못하고 있습니다. 파업도 원인이 됐구요.
+이수남 : 음, 그러면요, 돌아가시면 견본과 가장 비슷한 것으로 저희에게 보내주시겠어요
+박준규 : 예, 그렇게 하지요. 
+
+<어구연구>
+
+견본이 이수남의 맘에 들지 않지만 막상 수입을 하려고 하자 현재로는 재고가 없단다. 그래서 이수남은
+
+Would you send us the nearest thing you have to the sample (가지신 재고 중에서 견본과 가장 가까운 것을 보내 주시겠습니까)
+
+라고 대체제안을 하고 있다. 가장 유사한 제품을 보내달라는 말은 다음과 같이 표현할 수도 있다.
+
+Would you send us the closest thing to it
+How about sending us something very similar
+
+다음의 관련표현들도 함께 알아두자.
+
+What's the nearest thing you have to this shirt (갖고 계신 것 중에 이 셔츠와 가장 유사한 것은 어떤 것입니까)
+Is this the nearest thing you have (가지신 것 중에서 이것이 가장 비슷한 제품입니까)
+
+
+
+
+
+
+
+Situation 597 Business arrangements
+
+Mr.Gregory: Peter Gregory
+Ms.Sanders:Good morning, Mr.Gregory. Mary Sanders here.
+Mr.Gregory:Ah, Ms.Sanders! Are the plans ready yet
+Ms.Sanders:Yes, they are. Wouldl you like to come and see them sometime thisweek
+Mr.Gregory: That would be great.
+Ms.Sanders: Would Wednesday suit you
+Mr.Gregory:Uh...Wednesday isn't good for me. I'm flying to Detroit in the afternoon. My flight leaves at 1:15.
+Ms.Sanders: How about Friday, then
+Mr.Gregory:Yes, I'm free on Friday.
+Ms. Sanders: Can you manage ten o'clock
+Mr. Gregory: Yes, that'sd be fine.
+Mr.Sanders: I'll look forward to seeing you on Friday at ten, then.
+Mr:.Gregory: Thank you for calling Ms.Sanders.
+Ms.Sanders: No problem, Mr.Gregory. Goodbye.
+
+상황 597 업무약속
+
+그레고리: 피터 그레고리입니다.
+샌더스:안녕하세요, 그레고리씨. 매리 샌더스입니다.
+그레고리:아, 샌더스씨! 도면은 다 준비되었습니까
+샌더스:예. 이번 주중에 들르셔서 한번 보시겠습니까
+그레고리:그러겠습니다.
+샌더스: 수요일은 괜찮으시겠습니까
+그레고리: 어...수요일은 안 되겠는데요, 오후 1시 15분 비행기로 디트로이트에 출장갈 예정입니다.
+샌더스:그럼 금요일은 어떻습니까
+그레고리:예. 금요일엔 시간이 빕니다.
+샌더스:10시에 오실 수 있겠습니까
+그레고리:예, 괜찮습니다.
+샌더스: 그럼 금요일 아침 10시에 뵙도록 하겠습니다.
+그레고리: 전화 주셔서 감사합니다, 샌더스씨.
+샌더스: 별말씀을요. 안녕히 계십시오.
+
+<어구연구>
+
+업무상 바쁜 일정속에서 약속을 정하는 건 쉬운일이 아니다. 오늘 대화에서는 
+서로 약속을 정하는 표현을 배울 수 있다.
+
+단어와 표현을 정리해 보면,
+
+sometime(this week)-(이번주) 언젠가
+suit(you): (너에게) 편리하다. 알맞다.
+free on(Friday): (금요일)에 시간이 나다
+manage:이럭저럭 해내다.
+
+관련 표현으로 
+약소을 정할 때, 제안한 날짜나 시간이 좋지 않다고 할 때
+
+....isn't good for me
+....is bad for me
+....I'm afraid I'm busy then.
+
+정도로 말하면 된다.
+
+
+
+Situation 596 Hotel
+
+Goo:While I was out, were there any phone messages for me
+Smith: Yes. There was a call from your company.
+Goo: Thank you. May I extend my stay for one more night
+Smith: Certainly.
+Goo: Do you know a good Italian restaurant around here
+Smith: There's Laponte on 3rd Avenue and 35th Street.I'll draw you a map.
+Goo: Do you have a pamphlet with this hotel's address
+Smith: Yes. Here it is.
+Goo: This is Mr.Kim, room 1205. I have some laundary here. Would you have someone pick it up
+Smith: Sure.Somebody will come by immediately.
+
+상황 596 호텔
+
+구본규:나가 있는 동안 전화 없었습니까
+스미스:예.회사에서 전화 왔었습니다.
+구본규: 감사합니다. 하루 더 묵고 싶은데요.
+스미스:물론 가능합니다.
+구본규: 근처에 괜찮은 이태리 식당 있나요
+스미스: 3번가와 35번가 거리에 라폰테 식당이 있습니다. 약도를그려드리죠.
+구본규:호텔 주소가 적힌 안내서 있습니까
+스미스:예, 여기 있습니다.
+
+<어구연구>
+
+오늘은 호텔과 관련된 표현을 배워보도록 하자.
+
+1.룸서비스를 신청할 때 표현을 다음과 같이 할 수 있다.
+
+Will you bring the breakfast to my room(아침식사를 방까지 가져다 주시겠습니까)
+May I have breakfast in my room(방에서 아침식사를 할 수 있나요)
+I'd like a bottle of champagne to be brought to room 1205.(1205호로 샴페인 한 병 가져다 주세요.)
+
+2.모닝콜 부탁하기
+
+Would you give me a wake-up call(모닝콜 해 주실 수 있습니까)
+I'd like a wake-up call in the morning.(모닝콜을 부탁하고 싶습니다.)
+Will you wake me up at seven tomorrow morning(내일 아침 7시에 깨워주시겠습니까)
+
+호텔 관련용어는 다음과 같다.
+
+프런트: front desk:reception
+총지배인:general manager
+안내계: information clerk
+무료전화:courtesy phone
+주류판매 허가 호텔: liquor-licensed hotel
+음료용 냉각수:chilled water
+모닝콜:wake-up call
+
+
+
+
+
+
+
+Situation 595 A shipment
+
+ Goo: Mr. Kim, we need those items we ordered as soon as possible.
+Kim : I know. I`m doing my best to get them to you as quickly as possible.
+Goo : What`s causing the delay
+Kim : Those labor strikes we had a few months back really held up production. We`re got a huge backlog.
+Goo : Well, When do you think you`ll be able to make shipment
+Kim : If my guess is right, it should be on or about the 15th of this month. 
+
+상황 595 선적
+
+구한의 : 김 선생님, 저희가 주문한 그 품목들을 가능한 한 빨리 받았으 면 하는데요.
+김진표 : 압니다. 가능한 한 빨리 보내드리려고 최선을 다하고 있습니 다.
+구한의 : 그렇게 지연되는 이유가 뮙니까
+김진표 : 몇 달 정에 있은 파업으로 생산이 지연되었었거든요. 지금 선적 이 지연된 주문 잔량이 엄청나게 많습니다.
+구한의 : 그럼, 언제쯤 선적이 가능하겠습니까
+김진표 : 제 추측이 맞다면 이달 15일째면 될 겁니다. 
+
+<어구연구>
+
+구한의가,
+
+When do you think you`ll be able to make shipment (언제쯤 선적이 가능하겠습니까)
+
+라고 질문을 한다. 같은 뜻으로 다음과 같이 표현해도 좋다.
+
+When do you think shipment will be possible
+How soon do you think shipment can be made
+When do you think you can ship those items
+
+다음은 선적과 관련된 기타 표현들이다. 잘 활용하도록 하 자.
+
+Making shipment these days is not as easy as it used to be. (요즘은 선적하기가 예전같이 쉽지 않습니다.)
+Last year we made a total of five shipments. (작년에 우리는 총5회의 선적을 하였다.)
+It was lost in shipment. (그것은 운송 중에 분실되었다.)
+We went by plane, but sent our furniture by ship. (우리는 비행기로 갔지만 가구는 보냈다.)
+I`m flying to Florida, but my car is being shipped. (나는 플로리다까지 비행기로 가고 자동차는 선편으로 부칠 예정이 다.) 
+
+
+
+Situation 594 A Telephone
+
+Secrety: Hello! Mr.Kim's office. How can i help you
+Mr.Smith: Hi! This is Mike Smith calling from the Firt National. Is he there I need to speak to him right away.
+Secrety: I'm sorry, but he's in a meeting right now, and he won't be finished till noon. Would you like to leave a message
+Mr.Smith: Yes, please. Would you tell him that I called, and ask him to get back to me as soon as possible
+Secretary:Certainly, Mr.Smith.Does he have your number
+Mr.Smith : Yes, he does. But just in case, it's 312-6041.
+Secretary: OK.That number was 312-6041, right Anything else
+Mr.Smith: OK, Mr.Smith.Thank you for calling.
+Mr.Smith: Thank you. Have a nice day.
+
+상황 594 전화
+
+비서:안녕하세요!존 김 사무실입니다. 무엇을 도와드릴까요
+스미스:안녕하세요.제일 은행의 마이크 스미스입니다.자리에 계십니까급히 전화할 일이 있는데요.
+비서:죄송합니다만 지금은 회의중이십니다.정오나 돼야 끝날 것 같은데요, 메모를 남기시겠습니까
+스미스:예. 제게 전화 왔었다고 얘기해 주시고 가능한 빨리 다시 전화 달라고 전해주시겠어요
+비서: 물론입니다. 전화 번호는 알고 계시죠
+스미스: 예. 알고 있습니다만 만일을 위해 불러드릴게요. 312-6041 입니다.
+비서: 예.312-6041 맞습니까 더 하실 말씀 없으시죠
+스미스: 예. 그뿐입니다.
+비서:알겠습니다, 스미스씨. 전화 주셔서 감사합니다.
+스미스: 감사합니다. 안녕히 계십시요.
+
+<어구연구>
+
+스미스씨는 급한 일로 존 김에게 전화를 걸지만, 존김이 회의 중이라 통화가 불가능하다. 이 때 비서에게 전화달라는 메시지를 남긴다. 
+이 경우와 관계된 여러가지 표현을 알아보자.
+
+Leave a message.(메시지를 남기다)
+get back to-(~에게 다시 연락하다)=> 비슷한 표현으로 return ~'s call
+as soon as possible(가능한 한 빨리)
+
+"~의 자리입니다."라고 표현을 할 때는 직역을 해서 "~'s place"라 하게 되면 "~의 집입니다."란 뜻이다. 올바른 표현은 "~'s desk"이다.
+
+
+Situation 613 A complaint
+
+Johnson: This is Mr. Johnson of Star Company. Am I speaking to Mr. Hong
+Hong: Yes. This is Hong speaking.
+Johnson: I'm afraid I have to make a complaint.
+Hong:What's it about
+Johnson: About yesterday's delivery. About 3% of the merchandise was damaged on arrival.
+Hong: We are very sorry to hear that. Would you please send the damaged pieces back to us
+Johnson:Yes, upon examination, we found these goods were damaged because of bad packing.
+
+상황 613 클레임
+
+존슨: 스타사의 존슨입니다. 미스터 홍이십니까
+홍덕현: 예. 홍입니다.
+존슨:죄송하지만, 클레임이 있는데요.
+홍덕현: 무엇에 관한거죠
+존슨:어제 있었던 납품에 관해서입니다. 물품의 3% 정도가 도중에 손상되었습니
+다.
+홍덕현:그렇다면 대단히 죄송합니다. 손상된 물품들을 저희에게 보내주시겠습니까
+존슨:예, 저희 회사의 조사에 의하면 이 물건들은 불완전한 포장으로 인해 파손된 겁니다.
+
+<어구연구>
+
+존슨씨는 받은 물건이 운송도중 손상된 것을 보고, 홍덕현씨에게 전화를 건다.
+
+오늘은 클레임에 대한 대화이다. 다양한 클레임에 대한 대화를 살펴보자.
+
+1.도착하지 않은 것에 대한 클레임
+
+We have not received your shipment of our order as of this time
+(저희 회사가 이번에 주문한 물건이 아직 도착하지 않았습니다.)
+The merchandise ordered on April 8 has not arrived yet.
+(4월 8일에 주문한 물건이 아직 도착하지 않았습니다.)
+Please tell me the reason you delayed shipment.
+(선적이 늦어지게 된 이유를 알려주십시요.)
+As we have an urgent requirement for the goods, please send them by immediately.
+(물건이 급히 필요하므로 항공편으로라도 보내 주십이요.)
+We received the invoice, but we were charged for some things that we didn't order.
+(청구서는 받았습니다만, 저희가 주문하지도 않은 물품 대금을 청구하셨습니다.)
+
+2.잘못된 제품이거나 불량품에 관한 클레임
+
+What we received was not what we ordered.
+(저희가 받은 물품이 저희가 주문한 것이 아닙니다.)
+The goods were different from the sample.
+(상품이 견본과 달랐습니다.)
+The quality is not up to your usual standards.
+(품질이 평소의 기준에 미달됩니다.)
+Please supply the shortage without fail within 15 days.
+(15일 이내에 반드시 부족분을 보충해 주십시요.)
+About 7% of the merchandise was damaged on arrival.
+(물품의 7% 정도가 도중에 손상되었습니다.)
+
+
+
+
+
+
+
+
+
+Situation 612 A police station
+
+Hong: My bag has been stolen. I was walking down the street, and somebody came up from behind me and grabbed it.
+Officer: What did you have in it
+Hong:My wallet, passport and my personal belongings.
+Officer:How much was in it
+Hong:About two hundred and fifty dollars in cash.
+Officer:Can you tell me what he looked like
+Hong:I only saw him from behind..., but he was a tall white man wearing a baseball cap.
+Officer:Write here the items stolen and contact number.
+
+상황 612 경찰서
+
+홍수미:가방을 도둑맞았습니다. 조금 전에 길을 걷고 있었는데, 뒤에서 어떤 남자가 갑자기 다가와서는 가방을 낚어채 달아났습니다.
+경관:안에 뭐가 들어있었나요
+홍수미: 지갑과 여권, 그리고 개인 소지품이 들어 있었습니다.
+경관: 돈은 얼마나 들어 있었죠
+홍수미: 현금으로 약 250달러 정도입니다.
+경관:범인의 특징을 기억하고 있습니까
+홍수미: 뒷모습 밖에 보지 못했습니다만, 키가 큰 백인으로 야구모자를 쓰고 있었습니다.
+경관:이 용지에 분실물 목록과 연락처를 기입해 주세요.
+
+<어구연구>
+
+홍수미는 가방을 소매치기 당해서 경찰서를 찾았다. 오늘은 도난이나 물건을 강탈당했을 때 할 수 있는 표현을 알아보자.
+
+1. 도난 및 강탈신고 하기
+
+Officer, I'd like to report a theft.(경찰이죠, 도난 신고를 하겠습니다.)
+I have to report a theft.(도난 신고를 하려고 합니다.)
+I had my passport stolen.(여권을 도둑 맞았습니다.)
+I had 2,000 dollars taken from my pocket in the subway.(지하철 안에서 2000달러를 소매치기 당했습니다.)
+
+2.여권 및 여행자 수표를 분실했을 때,
+
+Where is the lost and found(분실물 취급소가 어디입니까)
+I left my passport in the taxi.(택시 속에 여권을 두고 내렸습니다.)
+I am not quite sure whether I had my passport pickpocketed or it simply dropped out of pocket.(여권을 소매치기 당한 것인지 그냥 지갑을 떨어뜨렸는지 확실치가 않습니다.)
+Should I notify the Korean Embassy(한국대사관에 신고해야 합니까)
+
+관련용어를 알아보자.
+
+robber:강도 pickpocket:소매치기 baggage theft:바꿔치기 
+lost articles:분실물 precious metals:귀금속 Korean Consulate:한국 영사관
+
+
+
+
+
+
+
+
+Situation 611 Making an inquiry
+
+Myers: Overseas Sales Department. Jennifer Myers speaking.
+Lee: Hi! I'm intersted in your computer desks. Do you have a sales office inkorea
+Myers: I'm afraid we don't, but we can arrange for one of our representatives to pay a sales visit.
+Lee:That won't be necessary. Could you just quote me a price for your XT/303 desks CIF Inchon
+Myers:May I have your name and the company you're with
+Lee: My name is Thomas Lee and I'm with B&E. The fax number is 82, that's the country code, 2, that's the city code, 786-9700. Could you read that backto me, please
+Mayers:Of course. That number was(822)786-9700
+Lee: That's right.
+Mayers: All right, Mr. Lee. I'll work out an estimate and fax it to you within the day.
+Lee: That would be great, Thank you very much.
+Mayers:The pleasure was all mine. Have a good day now. Bye.
+
+상황 611 주문하기
+
+마이어스:해외 판매부서 제니퍼 마이어스입니다.
+이규만:안녕하세요. 귀사 컴퓨터 책상 때문에 전화했습니다. 한국에 판매대리점이 있습니까
+마이어스:유감입니다만 없습니다. 하지만 대리인 방문판매를 주선해 드릴 수는 있습니다.
+이규만:그럴 필요까지는 없습니다. 인천항 도착 운임보험료 포함가격으로 XT/303 책상의 견적만 내주시겠습니까
+마이어스:성함과 근무처를 알려주시겠습니까
+이규만:제 이름은 토마스 리입니다. B&E에서 근무하고 있습니다. 팩스 번호는 국가 번호 82, 지역번호 2, 786-9700입니다. 번호를 확인해 주시겠습니까
+마이어스:예. (822)786-9700이라고 하셨죠
+이규만:맞습니다.
+마이어스:알겠습니다, 이 부장님. 견적을 뽑아서 오늘 안에 팩스로 보내드리겠습니다.
+이규만:그렇게 해 주시면 감사하겠습니다.
+마이어스: 감사합니다. 좋은 하루 되십시요.
+
+<어구연구>
+
+이규만씨는 사무가구 생산업체로부터 컴퓨터 책상을 대량으로 주문하려고 한다. 오늘 대화는 타사의 지역 판매대리점에 관해 문의하고 견적을 의뢰하는 내용이다.
+
+단어와 표현을 살펴보자.
+
+I'm afraid :불행하게도 공교롭게도=unfortunately, I'm sorry, but)
+arrange for: 주선하다. (set up for)
+e.g: I can arrange for you to come in on Tuesday.
+pay a sales visit:방문 판매를 하다. (make a sals trip)
+e.g:He is going to pay a diplomatic visit to London.
+work out: (문제를) 풀다, 계산하다 (solve or calculae)
+estimate:견적서
+e.g: I can't seem to work out this math problem.
+
+* quote/estimate
+
+가격을 논할 때, quote 또는 estimate는 '(상품의) 시세[시가]를 말하다', '시세를 매기다' 또는 '견적하다'는 뜻으로 사용되며, '견적서'를 말할 때는 quotation, estiamation(견적,견적액) 또는 estimate(견적, 견적서)를 사용한다.
+
+
+
+
+
+
+
+Situation 610 An airport
+
+Park: Where is the Asiana Airlises counter
+Julia:Go this way. It is next to Northwest Airlines.
+Park:May I check in here
+Julia:Yes, may I see your ticket and passport
+Park: My ticket and passport.
+Julia:Please pay five dollars for the airport charge.Is this all your luggage
+Park:May I carry this on the plane
+Julia:Yes. Would you like a window seat or an aisle seat
+Park: Window seat, please. When is boarding time
+Julia:Boarding time is 30 minutes before departure and your gate is 40.
+Park: Will this flight leave on time
+Julia: Yes, it will. Have a nice flight.
+Park: Thank you.
+
+상황 610 공항
+
+박지섭:아시아나 항공 카운터는 어디인가요
+줄리아: 이쪽으로 가세요. 노스웨스트항공사 옆에 있습니다.
+박지섭:여기에서 체크인 합니까
+줄리아:예, 티켓과 패스포트를 보여주시겠습니까
+박지섭:티켓과 여권입니다.
+줄리아:공항세로 5달러를 받겠습니다. 짐은 이것이 전부입니까
+박지섭:이것은 기내에 가지고 갈 수 있나요
+줄리아: 예, 창측과 통로측 좌석 중 어디가 좋으세요
+박지섭: 창측입니다. 언제 탑승하죠
+줄리아: 출발시간 30분전부터 탑승을 시작하고, 탑승구는 40번입니다.
+박지섭:이 비행기는 예정대로 출발합니까
+줄리아:예, 정시 출발입니다. 안녕히 가십시요.
+박지섭: 감사합니다.
+
+<어구연구>
+
+박지섭씨가 공항에서 탑승수속을 밟고 있다.
+
+오늘은 탑승수속과 관련된 여러가지 표현을 익혀보자.
+
+1. 비행기표 예약 및 구입
+
+I'd like to make a reservation for a flight to Seattle.
+(시애틀로 가는 비행기 좌석을 예약하고 싶습니다.)
+I'd like to book a ticket from New York to Seoul on Monday, August 25th, please.(8월 25일 월요일 뉴욕발 서울행 비행기표를 예약하고 싶은데요.)
+I'd like to fly to Los Angeles next Sunday.(다음 월요일에 로스앤젤레스로 가려고 합니다.)
+I'd like to change my flight schedule from San Francisco to Seoul.(샌프란시스코발 서울행 비행기편을 변경하고 싶습니다.)
+Shall I issue a ticketl for you now(지금 항공권을 발부해 드릴까요)
+
+2.체크인 하기
+
+What time is check-in(몇시에 체크인 할 수 있습니까)
+Is this number a window seat(이 좌석은 창문쪽 좌석입니까)
+When is boarding time(탑승 시간은 몇시입니까)
+May I carry this on the plane(이걸 기내에 들고 들어갈 수 있습니까)
+
+3.안내어를 보고 익혀두자.
+
+FASTEN SEAT BELT:안전벨트 착용
+FRONT DEST:REGISTRATION:접수처
+MAKE UP ROOM:실내 청소중
+NO ENTRANCE;KEEP OUT;NO ADMITTANCE:출입금지
+KEEP OFF GRASS:잔디에 들어가지 마시오.
+EXACT FARE ONLY:잔돈 없음.
+
+
+
+
+
+
+
+Situation 609 A conferenct
+
+Hong: What are your feelings about this project
+Whang:I wonder if such a thing will really work.
+Hong: We're sure the quality leaves nothing to be desired.
+Whang:Would you put that into more specific terms
+Hong: These are made of a stain-proof material.
+Whang: Could you tell me some more about your market analysis
+Hong: We have that right here in this report.
+
+상황 609 회의
+
+홍대기: 이 프로젝트에 대해 어떻게 생각하십니까
+황인규: 그런 일이 정말 잘 되어갈지 의문입니다.
+홍대기:품질은 나무랄 데가 없다고 확신합니다.
+황인규:좀 더 구체적으로 말씀해 주시겠습니까
+홍대기:이것들은 얼룩 방지 처리가 된 소재로 되어 있습니다.
+황인규: 시장 분석에 관해 좀 더 설명해 주시겠습니까
+홍대기: 바로 이 보고서에 다 들어 있습니다.
+
+<어구 연구>
+
+홍대기와 황인규는 회의를 하고 있다. 오늘은 회의에 관련된 표현들을 익혀보자.
+
+1.공동 사업
+
+We'd like you join us in this development project.
+(이번 개발 계획에 귀사에서도 꼭 참여해 주셨으면 합니다.)
+We'd like your company to cooperate with us on this project.
+(이 계획을 귀사와 공동으로 진행시키고 싶습니다.
+We'll pleased to work with you.
+(기꺼이 당신과 함께 일하고 싶습니다.)
+Our company is not prepared at this time to accept your proposal.
+(저희 회사는 지금 상태로는 당신의 제안을 받아들일 준비가 되어 있지 않습니다.)
+
+2.상대 의견에 동의하기
+
+I'm in agreement up to that point.(그 점에 관해서는 전적으로 동의합니다.)
+I'm in agreement in principle.(저는 원칙적으로 동의합니다.)
+We'd like to accept your proposal.(제안을 받아들이겠습니다.)
+I agree with you.(당신 의견에 동의합니다.)
+
+*관련용어*
+
+meeting room, conference:회의실
+office of the president: 사장실
+subject of discussion: 의제
+explanation: 설명
+contract document:계약서
+annual report:연차보고
+business report:영업보고
+
+
+
+
+
+Situation 608 Talking
+
+Jeniffer: Mr. Yoon, this is Ms. Jeniffer. It's nice to talk to you again.
+Yoon: Yeah, it's been a long time. How have you been
+Jeniffer: Oh, can't complain. how are things with you
+Yoon: Not too good, I'm afraid.
+Jeniffer: Oh, nothing serious, I hope.
+Yoon: Well, it's business. We had a bad year. 
+
+상황 608 Talking
+
+제니퍼: 윤대원씨, 저 제니퍼입니다. 다시 목소리를 들으니 반갑군요.
+윤대원: 예. 참 오래간만입니다. 어떻게 지내셨습니까
+제니퍼: 별일 없었습니다. 윤대원씨는 어떻게 지내십니까
+윤대원: 별로인 것 같습니다.
+제니퍼: 큰일은 아닐 테지요.
+윤대원: 저, 사업 때문이죠 뭐. 올해 실적이 별로 안 좋았거든요
+
+<어구연구>
+
+오랬동안 만나지 못했던 사람과 통화를 하게 되면 누구든지, 
+
+It's nice to talk to you again.
+(다시 이야기할 수 있게 되어 반갑습니다.)
+
+와 같은 얘기를 하게 되는 데 한국인들은 대체로 '목소리를 들으니까 …'라는 식으로 표현을 한다. 이때의 우리말을 그대로 영어로 바꾸어,
+
+It's nice to hear your voice again.
+
+이라고 해도 좋다.
+다음엔 nice와 talk를 실전에 활용해 보도록 하자.
+
+It's been nice talking to you.
+(말씀 퍽 재미있게 나누었습니다.)
+
+I had a nice talk with Mr. Kim.
+(김씨와 재미있게 얘기를 나누었다.)
+
+He's a nice person to talk to.
+(그 사람 얘기해 보면 재미있는 사람입니다.)
+
+It's nice of you to say that.
+(그렇게 말씀해 주시니 고맙습니다.)
+
+It's nice of you to come.
+(이렇게 와 주시니 고맙습니다.)
+
+That wasn't a very nice thing to say.
+(그렇게 말하는 것이 아닌데.) 
+
+
+
+
+
+
+Situation 607 Entertainment
+
+Kim : Mr. Brown. These girls are hostesses here, and Miss Song is going to sit next to you tonight.
+Brown : Oh, my! She's really pretty. Well, I'm honored. Uh, does she speak English
+Kim : Well, I'm not sure, but you can try your hand at it.
+Brown : Gosh, I hope my wife never finds out about this.
+Kim : She won't if you don't tell her. Don't worry, what she doesn't know won't hurt her.
+Brown : Yeah. Well, like they say, out of sight, out of mind 
+
+상황 607 접대
+
+김인규 : 브라운씨, 이 아가씨들이 여기 호스테스입니다. 그리고 송양이 오늘 저녁 선생님을 모실 겁니다.
+브라운 : 아, 아주 예쁘게 생겼군요. 영광입니다. 저, 송양은 영어를 할 줄 압니까
+ 김인규: 저, 잘 모르겠습니다. 브라운씨가 직접 시험해 보시지요.
+브라운 : 이런, 제 아내가 이 일을 절대 알아채지 못해야할 텐데요.
+김인규 : 말씀 안 하시면 모를 거예요. 걱정하지 마세요. 모르는 일이니까 마음을 상하게 하지도 않을 테구요.
+ 브라운: 예, 저, 눈앞에 없으면 마음에서 멀어진다고들 하잖아요. 
+
+<어구연구>
+
+거물급 buyer라면 으레 고급 음식점으로 모시게 마련이고 여기서는 손님 한 사람마다 호스테스도 한 사람씩 동석하는 경우가 많다. 주음식이 차려지고 호스테서가 들어오자 Mr.Kim은.
+
+Miss Song is going to sit next to you tonight.
+(오늘 저녁은 송양이 선생님을 모실 겁니다.)
+
+라고 송양을 Mr. Brown 옆자리에 앉힌다. hostess(호스테스)는 우리말에서처럼 나쁜 뜻은 전혀 없으므로 미국인에겐 이렇게 소개해도 한국인중에는 이런 상황에서 호스테스를 소개하면서 '오늘밤 송양이 선생님과 함께 즐거운 시간을 보낼 것입니다.'라는 뜻으로 Miss Song will enjoy tonight together with you.나 Miss Song will accompany you tonight.라고 말하는 사람들이 많다. 이는 상당한 '오해'를 살 수 있는 말임을 알아야 한다. 우선 2 ~ 3시간 정도의 즐김은 tonight이 아니라 this evening으로 표현해야 하고, enjoy together나 accompany는 듣는 이의 마음 속에 If I need love, can Miss Song help me와 같은 생각을 떠오르게 하는 것이 십상이기 때문이다.
+
+다음의 표현도 함께 알아두자
+
+Miss Song is very good company.
+(송양은 사귀어 보면 매우 재미있는 여성입니다.)
+
+여기서 good company는 '사귀어 재미있는 사람', poor company는 '사귀어 재미없는 사람'이란 뜻이다.
+
+Miss Song will entertain [assist] you this evening.
+(오늘 저녁 송양이 선생님을 모시겠습니다.) 
+
+
+
+
+
+Situation 606 Confirming an appointment
+
+John: Mike! B&E security called me with an urgent message to call you. What's the problem
+Mike:John, I've been trying to contact you all evening!
+Jonh:Has something come up Can't you make the meeting
+Mike: You didn't give me the new address.
+John:Oh, no! I said I'd e-mail the new details.
+Mike: That's right, and you didn't.
+John:I'm sorry, it completely slipped my mind.
+Mike: The swithcboard was closed and I didn't know how to reach you.
+ Your security wouldn't give me your cell phone number.
+John:I'm really sorry. Where are you now
+Mike:I'm still at work.
+John:OK.We're now having dinner at the downtown Holiday Inn, 
+and I thought we'd talk first before we meet the others. Are you driving
+Mike: No, I'll take a cab.
+
+상황 606 약속 확인
+
+존:마이크! B&E 경비실에서 당신에게 급히 연락하라는 메시지를 받았어요.
+무슨 문제라도 생겼나요
+마이크: 존, 저녁 내내 당신에게 연락하려고 했었어요.!
+존:무슨 일이 생겼나요 회의에 참석할 수 없나요
+마이크: 새로 정한 장소를 알려주지 않았잖아요.
+존:이런! 자세한 사항은 이메일로 보낸다로 했는데...
+마이크:그래요. 그,리곤 보내지 않았잖아요.
+존:미안해요, 까맣게 잊고 있었어요.
+마이크:안내 데스크와 통화가 되지 않아서 어떻게 연락해야 할지 몰랐어요.
+ 그리고 경비실에선 휴대폰 번호를 알려줄 수 없다고 하더라고요.
+존: 정말 미안해요. 지금 어디 있죠
+마이크: 아직 사무실에 있어요.
+존: 새 장소는 시내에 있는 홀리데인 인이에요. 하지만 다른 사람들을 만나기전에
+ 먼저 만나서 얘기를 좀 했으면 해요. 운전해서 올건가요
+마이크: 아뇨, 택시를 탈거에요.
+
+<어구연구>
+
+오늘의 대화는 긴급 전화 요청 메시지를 받은 존씨가 마이크씨에게 연락을 해서 용건을 확인하는 내용이다.
+
+단어와 어구를 알아보자.
+
+come up: 일이 일어나다. 생기다.
+reach:~에게 연락하다, ~에게 도달하다.
+
+slip one's mind:잊어버리다.(기억, 머리 등에서 사지리다.:풀어주다, 놓아주다)
+Slip one's mind,라고 하면 단지 '잊다'라는 뜻이비만, 앞에 부사
+completely 또는 totally를 붙여서 completely slip one's mind라고 
+하게 되면 "까맣게 또는 깜빡 잊어버리다"라는 뜻이다.
+
+흔히 How are you going to get there(거기까지 어떻게 갈 거예요)라고 교통 수단을 묻는 질문에 
+'제 차로 갈거예요.'라고 대답한다. 하지만 이를 그대로 직역해서 I'll go there by my car.라고 하면 
+어색한 표현이 되고 만다. 이 때는 영어로 I'm driving, 이나 
+또는 I'll be driving, I'll drive.라고 해야 옳다. 
+
+
+
+Situation 605 Visiting colleagues
+
+Hushen: Mr.Smith! It's great to see you again. Do come in, pleast. Here, let me take your coat.
+Smith:Thank you.
+Hushen:Please have a seat. How was your flight
+Smith:Never better, though I do have a bit of jet lag.
+Hushen: A hot cup of coffee would fix that up in no time. How do you take your coffee, Mr. Smith
+Smith: Black with two sugars, please.
+Hushen:And how is your wife doing
+Smith:oh, she's just fine. She sends her regards, by the way.
+Hushen:Thank you. Did you have any troble finding your way
+Smith:No, your direction were very specific.
+Hushen: How long did it take The traffic here can get out of control at times.
+Smith: Really I didn't have any troble at all.
+Hushen: That's good to hear. Here you go.
+
+상황 605 동료 방문
+
+허쉰:스미스씨! 다시 뵙게 되어 매우 기쁩니다. 들어오시죠. 코트는 제게 주시구요. 
+스미스:고맙습니다.
+허쉰: 앉으시죠. 여행은 어땠습니까
+스미스:괜찮았습니다만 시차때문에 조금은 피곤합니다.
+허쉰: 따뜻한 커피 한잔이면 피로가 금방 씻길 겁니다. 커피는 어떻게 드시죠스미스씨
+스미스: 설탕만 두 스푼 넣어주세요.
+허쉰:그런데 부인께선 어떻게 지내시죠
+스미스:잘 지내고 있습니다. 그리고 안부 전해달라고 하더군요.
+허쉰:고맙습니다. 찾아오기 힘드셨죠
+스미스: 아뇨, 보내주신 약도가 매우 상세했습니다.
+허쉰:여기까지 오는데 얼마나 걸렸죠 교통이 때론 엉망이 될 때가 있어서요.
+스미스:그래요 전 전혀 모르겠던데요.
+허쉰:다행이네요. 커피 여기 있습니다.
+
+<어구연구>
+
+거래업체가 이전을 하자 스미스씨는 출장차 그 업체를 방분하여 업무상으로 오랫동안 알고 지내온 동료 허쉰씨를 만난다. 이번 대화는 비공식적인 자리에서 오랜만에 만난 동료와 인사를 나누고 안부를 전하는 내용이다.
+
+단어와 표현을 공부해 보자.
+
+have a seat: 앉다.
+never better:더 좋을 수 없다, 더할 나위 없다.
+jet lag:시차로 인한 피로
+in no time:곧, 바로 (right away)
+How do you take your~:~을 어떻게 드십니까(How would you like~)
+send one's regards:~안부를 전하다.
+by the way: 그런데, 말이 난김에
+get out of control:제어할 수 없게 된다.
+not at all:전혀 아니다
+That's good to hear:다행입니다.
+Here you go:여기 있습니다.
+
+손님에게 자리를 권할때는 주로 Have a seat나 Take a seat.와 같은 표현을 사용하는데, Take a seat은 다소 명령조로 들리므로 가급적 사용안하는게 좋다.
+
+상대방에게 '~을 어떻게 드십니까'하고 물을 때엔 
+
+1.How do you take your coffee
+2.How would you like your steak
+
+란 표현을 쓴다. 1번은 커피나 차와 같이 설탕이나 크림등을 섞어서 마시는 것을 일컫을 때만 사용하고, 후자는 스테이크와 같이 조리를 필요로 하는 음식을 일컬을 때 주로 사용한다.
+
+
+
+
+
+Situation 604 A schedule change
+
+Hunt:Hello. This is Ted Hunt of Production speaking.
+Ellis: Hello, Mr. Hunt.This is Jane Ellis.
+Hunt:Oh, hi, Ms. Ellis. I hope the changes didn't cause you any problems.
+Ellis:Not at all, Mr. Hunt.It's just that I thought it would be better if we met at the plant instead of the office. That way, it'll give you more time to look around the facility.
+Hunt:That's very considerate of you, Ms. Ellis. Meeting at the plant is more than fine with me.
+Ellis:Also, how about we make the time at 10 in the morning instead of 3 That way, we can avoid the traffic on our way back to the city.
+Hunt: That's a good idea. I have no intention to find out what New York's traffic is like during rush hour.
+Ellis:Okay, that settles it, then. I'll see you tomorrow morning at 10.
+Hunt: Right. And thank you again for your consideration.
+Ellis: Nonsense, Mr.Hunt.Just trying to be efficient whenever I can.
+
+상황 604 일정 조정
+
+헌트: 여보세요. 생산부 테드 헌트입니다.
+엘리스:안녕하세요, 헌트씨. 제인 엘리스입니다.
+헌트:아,안녕하세요, 엘리스씨. 변경사항이 문제가 되지 않았길 바랍니다.
+엘리스:전혀 그렇지 않습니다, 헌트씨. 단지 사무실에서 만나는 것보다는 공장에서 만나는 것이 더 나을 것 같아서요. 그렇게 하면 설비를 둘러볼 시간이 좀 더 생길것 같아요.
+헌트: 생각해 주셔서 고맙습니다, 엘리스씨. 그럼 공장에서 만나기로 하죠.
+엘리스:그리고 시간을 3시에서 아침 10시로 정한는 것이 어떻겠습니까 그렇게 하면 돌아오는 길에 러시아워를 피할 수 있습니다.
+헌트:좋은 생각입니다.뉴욕의 러시아워가 어떤지 알고 싶은 생각은 없습니다.
+엘리스:좋습니다. 그럼 그렇게 하기로 하죠. 내일 아침 10시에 뵙겠습니다.
+헌트:알겠습니다. 편의를 봐주셔서 다시 한번 감사드립니다.
+엘리스:별 말씀을요, 헌트씨. 가능하면 언제든지 효율적으로 일하려고 하는 것뿐입니다.
+
+<어구연구>
+
+테트 헌트씨는 뉴욕 근교에 있는 상대회사의 생산라인을 둘러보기 위해 엘리스씨를 화요일 오전 10시에 그녀의 사무실에서 만나기로 했지만, 급한 업무 때문에 약속을 수요일 오후 3시로 변경하였다.
+
+오늘의 대화와 관련된 단어 표현을 알아보면
+
+not at all: 조금도 ~않다.
+It's just that: 단지 ~ 때문이다.
+that way: 그렇게 한다면
+considerate:이해심이 있는, 신중한
+on one's way back:돌아오는 길에
+rush hour:(퇴근시) 혼잡한 시간
+
+instead of :~대신에 또는 '그보다는'라는 표현으로 주로 instead of를 사용하지만, rather than도 같은 의미로 자주 사용된다.
+
+Why don't we meet at 10 instead of 9
+Why don't we meet at 9 rather than at 10
+
+'친절하다'라고 말할때, 주로 kind of you를 많이 사용하지만, considerate of you도 많이 사용한다."생각이 깊다"라고 표현할 때는 'thoughtful of you'라고 하지만 이런 표현은 어른이 아이에게 하는 말이라 같은 성인은 피하는게 좋다.
+
+That's very considerate of you.(매우 친절하시군요)
+That's very thoughtful of you.(,생각이 아주 깊군요)
+
+
+
+Situation 623 The wrong extension
+
+Lang:Human Resources. Eric Lang speaking.
+Ramirez:Oh, I'm sorry. Isn't this the Foreign Accounts department
+Lang:I'm afraid that extension is 525. To whom would you like to talk
+in foreign accounts
+Ramirez:I'd like to speak to Mr.Mike Hansen, please. I believe he's the head of the department
+Lang:May I have your name, sir
+Ramirez:It's Doug Ramirez, and I'm with Waikiki Tours.
+Lang:And what is your call regarding, Mr. Ramirez
+Ramirez:It's about his flight arrangement to Hawaii next week.
+Lang:Could you hold, please I'll connect you.
+Ramirez:Thank you.
+Lang: (Seconds later) I'm sorry, but his line's busy at the moment. Would you mind waiting
+Ramirez:Ub, never mind. I'll just try again later.
+
+상황 623 잘못건 사내번호
+
+랭:인적 자원 관리부의 에릭 랭입니다.
+라미레즈:죄송합니다. 해외 영업부 아닙니까
+랭:해외 영업부는 525번입니다. 해외 영업부의 누구와 통화하고 싶으시죠
+라미레즈:해외 영업부의 담당자인 마이크 핸슨씨와 통화하고 싶습니다.
+랭:성함을 가르쳐 주시겠습니까
+라미레즈:와이키키 여행사의 더그 라미레즈입니다.
+랭:무슨일로 전화하셨습니까, 라미레즈씨
+라미레즈:다음주 하와이 여행 스케줄 때문에 전화했습니다.
+랭:기다리시겠습니까 연결해 드리겠습니다.
+라미레즈: 고맙습니다.
+랭:(잠시후) 죄송합니다만, 지금은 통화중입니다. 기다리시겠습니까
+라미레즈:됐습니다. 이따가 다시 하겠습니다.
+
+<어구연구>
+
+라미레즈씨는 거래처 해외 업무부에서 근무하는 한센씨의 하와이 출장건에 관해 그와 통화를 하려고 하지만 내선번호를 잘못 알아 인적자원 관리부의 랭씨에게 연결되고 만다.
+
+잘못된 전화가 걸려왔을 때는 
+
+You have the wrong number. 
+I'm afraid you've got the wrong number.
+What number are you call
+
+이라고 대응하면 된다.
+
+관련 단어와 어구를 살펴보자.
+
+Human resources:인적 자원부 
+Foreign Accounts :해외 영업부
+extension: 구내번호 
+the head of the department:부장
+What is your call regarding무슨 일로 전화하셨습니까
+flight arrangement:비행 스케줄
+one's line is busy:통화중이다.
+
+
+
+
+
+
+Situation 622 A business talk
+
+Smith:How's the Seoul operation going
+Go:They're a little in the black this half.
+Smith:Good. What is the purpose of your visit today
+Go:I'm here to ask you to consider marketing our new product.
+This is a sample and description.
+Smith:Has it sold well in Korea
+Go:We've already had big demand for this product. It's been especially
+popular among big companies.
+I'm sure it will be a hit in the United States.
+Smith:Why has your product sold well compared to other producuts
+Go:Our product is of very high quality but it's 10% cheaper.
+
+상황 622 상담
+
+스미스:서울의 사업을 잘 되어 갑니까
+고진환:금년 상반기는 약간 흑자입니다.
+스미스:잘 됐군요. 오늘 찾아오신 목적이 무엇입니까
+고진환:저희 신제품을 검토해 주셨음해서 찾아왔습니다. 이게 견본과 설명서입니다.
+스미스:한국에서 잘 팔립니까
+고진환:최근에 대단한 판매실적을 보이고 있습니다. 특히 큰 회사에서 인기가 좋습니다.제 생각으로는 미국에서도 잘 팔릴 거라고 생각합니다.
+스미스:다른 제품에 비해 잘 팔리는 이유라도 있습니까
+고진환:저희 제품은 품질이 매우 우수하면서도 가격은 10%쯤 쌉니다.
+
+<어구연구>
+
+고진환은 스미스와 상담을 하고 있다. 그는 사업이 흑자라는 얘기를 하면서 서서히 본론으로 들어간다.흑자라는 표현은 다음과 같다.
+
+They're a little in the black this half.
+
+
+관련 표현을 알아보자.
+
+1.제품 추천하기
+
+Compared with other products, our new model is less expensive 
+and easier to use.(타사 제품에 비해 저희 새로운 모델은 더 싸고 사용하기가 쉽습니다.)
+The distinction of our product is its light weight.
+(우리 제품의 특징은 매우 가볍다는 것입니다.)
+When you look at the quality, we have no rivals.
+(품질을 보시면 경쟁사 제품보다 뛰어나다는 것을 아실 겁니다.)
+You're sure to find that our product design is excellent.
+(저희 제품의 디자인이 뛰어나다는 것을 아실 수 있습니다.)
+The major advantage is its strength.
+(주된 장점은 견고성입니다.)
+
+2.제품에 대해 묻기
+
+I'd like to know more about your products.
+(귀사 제품에 대해 더 알고 싶습니다.)
+Would you explain the new features
+(새로운 기능에 관해 설명해 주시겠습니까)
+I'd be gald to have your views on this proposal
+(이 제안에 대한 귀사의 견해를 들었음 좋겠는데요.)
+How soon can you have your product ready
+(제품은 언제까지 만들 수 있습니까)
+
+3. 신제품 보여주기
+
+This is our newest product.(이것이 우리 회사의 신제품입니다.)
+This model is lightweight and handy to use.
+(이 모델은 가볍고 다루기가 쉽습니다.)
+This system is more efficient than the previous one.
+(이 시스템이 기존의 시스템보다 더 효율적입니다.)
+These are our major products this year.
+(이것들이 올해 저희 회사의 주요 생산품입니다.)
+These are the improved models for your market.
+(이것들은 당신네 시장을 겨냥한 개량형입니다.)
+
+관련용어
+
+신제품:new product 제조:manuacture ;production
+사업계획:business proposal 무역수지:balance of trade
+무역흑자:trade surplus 무역적자: trade deficit
+무역마찰:trade friction
+
+
+
+
+
+
+Situation 621 A Rent car
+
+Park: I'd like to rent a car.
+Brown:What kind of model do you have in mind
+Park:An intermediate car, please.
+Brown:I see. How long will you be using the car
+Park:For three days.
+Brown:You fill the gas yourself.
+Park:May I drop the car off at my destination
+Brown:Yes, but you must pay the additional charge. 
+Do you want to be insured
+Park:Sure. What's the fare
+Brown:It' will be 250 dollars per day including the insurance.
+
+상황 621 렌트 카
+
+박기용: 차를 빌리고 싶습니다.
+브라운: 어떤 모델을 원하십니까
+박기용: 중형차를 주세요.
+브라운: 알겠습니다. 며칠동안 사용하실 건가요
+박기용: 3일간입니다.
+브라운:가솔린은 손님께서 넣으셔야 합니다.
+박기용:사용후 도착지에 반납해도 됩니까
+브라운:네, 하지만, 추가요금을 지불해야 합니다. 보험을 드시겠습니까
+박기용:예, 요금은 얼마죠
+브라운:보험료 포함해서 하루에 250달러입니다.
+
+<어구연구>
+
+박기용씨는 차를 빌리려고 하며, 다음과 같은 표현으로 말문을 연다.
+
+I'd like to rent a car.(차를 빌리고 싶습니다.)
+
+오늘은 차를 임대할 때 쓰이는 다양한 표현법들을 익혀보자.
+
+1. 렌트카 빌리기
+
+How long will you need[rent] it
+(얼마동안 필요하세요)
+What kind of cars would you like
+(어떤 차를 찾으십니까)
+How much is a mid-size car
+(중형차는 얼마입니까)
+I'd like one that gets good gas mileage.
+(연료비가 적게 드는 차를 빌리고 싶습니다.)
+I'd like to rent a compact car for three days.
+(소형차를 3일동안 빌리고 싶습니다.)
+
+2.요금, 보험 등에 관하여
+
+How much is the rate(요금은 얼마입니까)
+Can I see a list of your rates(요금표를 볼 수 있습니까)
+Is the cost of gasoline included(가솔린 요금이 포함되어 있습니까)
+What else do you charge gesides a minimum fee
+(기본 요금 외에 어떤 비용이 필요합니까)
+What does that cover(무엇을 보장합니까)
+It's 55 dollars a day, including the first 100 miles.
+
+관련용어를 알아보자.
+
+대형차:full-size car;large-size car
+중형차:mid-size car;medium-size car;intermediate car
+소형차:compact car;small car;economy car
+대여료:rental rate
+차량보험:automobile insurance
+자동차사고보험:vehicle accident insurance
+상대방차 파손 보상:liability coverage
+
+
+
+
+
+
+
+Situation 620 A visit 2
+
+Brown: It's getting fairly late. I'm afraid I have to go now.
+Tom: Shall we be going now
+Jade:Thank you for joining us tonight.
+Jade:I hope you all had a good time.
+Brown: Of course, I really enjoyed myself. Thank you very much for the wonderful dinner.
+Jade:Take care. Please visit us again next time you're staying in America.
+Tom:It's been very pleasant talking with you today.
+Brwon:Thank you. I appreciate your kindness. I really don't want to leave, but I must be going. Good night.
+Jade:Good night.See you all again.
+
+상황 620 방문 2
+
+브라운:이제 늦었으니 이쯤에서 일어나겠습니다. 
+탐;우리도 이제 갈까요
+제이드:오늘밤 함께 해주셔서 감사합니다.
+제이드:여러분 모두 즐거우셨는지 모르겠네요.
+브라운:물론 즐거웠습니다. 훌륭한 식사도 감사드립니다.
+제이드:몸조심하세요. 미국에 오시면 들르시구요.
+탐:오늘 저녁 대화 무척 즐거웠습니다.
+브라운: 베풀어준 호의 정말 감사드립니다. 이만 실례하겠습니다. 안녕히 주무세요.
+제이드: 안녕히 가세요. 다음에 또 봅시다.
+
+<어구연구>
+
+브라운씨는 제이드씨의 저녁식사에 응한 후 이제 막 헤어지는 인사를 하고있다.
+
+오늘은 가정방문과 관련된 표현들을 익혀보자.
+
+1.음식에 대한 칭찬
+
+You are an excellent cook.(당신은 훌륭한 요리사예요.)
+It smells good. My mouth is watering.(냄새가 좋군요. 군침이 도네요.)
+Please help yourself to anything you like.
+(좋아하시는 것은 얼마든지 드십시요.)
+I'll be very happy to write it down and it to you later.
+(기꺼이 요리법을 적어서 당신께 보내드리겠어요.)
+
+2.작별인사
+
+I think I'll have to say good-bye.
+(작별인사를 해야겠어요.)
+I must be going now.(이젠 실례하겠습니다.)
+It's been very pleasant talking with you today.(오늘 당신과 대화를 할 수 있어서 즐거웠습니다.)
+I hope you'll come more often.(자주 와 주십시요.)
+We are so happy yiou could come.(와 주셔서 정말 기뻐요.)
+
+
+
+Situation 619 A visit
+
+Kim:Dinner is ready. Please come into the dining room.
+Hong:My mouth is watering.
+Kim:Please help yourself anything you like.
+Hong:This meat is tender and delicious. 
+Bye the way, who made this food
+Kim:I made this food. Would you like some more
+Hong:Yes, please. You're an excellent cook.
+Kim:I'm glad you like it. There are plenty of seconds.
+Hong: What is your favorite dish
+Kim:I am not picky about what I eat.
+
+상황 619 방문
+
+김의동: 식사가 준비되었습니다. 식당으로 가시죠.
+홍수윤:군침이 도는군요.
+김의동:좋아하시는 음식이 있으면 얼마든지 드십시오.
+홍수윤:이 고기는 연하고도 맛이 있군요. 그런데 이 요리는 누가 하신 겁니까
+김의동:제가 직접 요리한 겁니다. 더 드릴까요
+홍수윤:예, 더 주세요. 당신 요리 솜씨가 휼륭하시군요.
+김의동: 맛이 있다니 기쁩니다. 음식은 얼마든지 있습니다.
+홍수윤:가장 좋아하는 음식이 뭐죠
+김의동: 가리지 않고 무엇이든 잘 먹습니다.
+
+<어구연구>
+
+홍수윤은 김의동의 집을 방문해서 같이 식사를 하고 있다. 
+처음 음식을 먹기전 다음과 같이 표현한다.
+
+Help yourself to anything you like.
+(좋아하시는 음식이 있으면 얼마든지 드십시요.)
+
+가장 좋아하는 음식을 물을 때는
+
+What is your favorite dish(가장 좋아하는 음식이 무엇이죠)
+
+까다롭지 않은 식성을 가진 경우 다음과 같이 말하면 된다.
+
+I am not picky about what I eat.(가리지 않고 아무거나 잘 먹습니다.)
+
+다양한 관련 표현을 익혀보자.
+
+1. 차와 음료수를 권할 때
+
+What can I offer you to drink(마실것으로 무얼 드릴까요)
+What would you like to drink(무엇을 마시고 싶으세요)
+What will you drink(뭘 마시겠습니까)
+How does the coffee taste(커피맛은 어떻습니까)
+How would you like your coffee(커피는 어떻게 해드릴까요)
+
+2.술을 권할 때
+
+What's your favorite drink(가장 즐기시는 술은 무엇입니까)
+What can I offer you to drink(마실 것으로 무얼 드릴까요)
+What would you like to drink(무엇을 마시고 싶으세요)
+Would you like something to drink(뭘 좀 마시겠어요)
+Bring me a gin and tonic.(진토닉으로 주세요.)
+White horse, double, please.(화이트 호스 더블로 주세요.)
+Just plain water with plenty of ice.(얼음 넣은 물이면 됩니다.)
+
+
+
+
+Situation 618 A hotel
+
+Kang: This is the hotel where you're going to stay tonight.
+Min:We've arrived earlier than I thougth.
+Kang: This is your room. You can swithch rooms if it's too small for you.
+Min:No, It's clean and comfortable. I like it.
+Kang: I'll come here at 9 o'clock tomorrow morning.
+Min:O.K. See you tomorrow.
+
+상황 618 호텔
+
+강준석: 이 호텔이 오늘밤 묵을 곳입니다.
+민지훈: 생각보다 일찍 도착했군요.
+강준석:여기가 당신방입니다. 작다고 생각되시면 바꾸셔도 됩니다.
+민지훈: 아닙니다. 청결하고 안락해서 맘에 듭니다.
+강준석:내일 아침 9시에 오겠습니다.
+민지훈: 좋습니다. 내일 뵙겠습니다.
+
+<어구연구>
+
+강준석은 예정보다 일찍 도착해서, 호텔방을 둘러보고 있다. 
+오늘은 일정과, 다음날 마중에 관한 표현을 익혀보자.
+
+1. 일정에 관한 논의
+
+Let's go over tomorrow's schedule.
+(내일 일정을 검토합니다.)
+Shall we discuss the schedule in the lobby
+(로비에서 일정에 관해 토의할까요)
+Do you mind if we talk about your schedule for your visit
+(방문 일정에 관해 논의해도 괜찮으시겠지요)
+This is the schedule for you.(이것이 당신 일정표입니다.)
+
+2. 다음날 마중에 관하여
+
+What time shall we come for you tomorrow
+(내일 몇시에 모시러 오면 좋을까요)
+What time shall we come and get you
+(몇 시에 와서 모셔갈까요)
+I'd like to pick you up at the hotel, at 9: 00 a. m. tomorrow.
+(내일 아침 9시에 호텔로 모시러 오겠습니다.)
+We'll pick you up at 9:00, so please wait in the lobby.
+(9시에 모시러 오겠으니, 로비에서 기다려 주세요.)
+
+관련용어는 
+
+city hotel:도심에 위치한 호텔
+resort hotel:휴양지에 위치한 호텔
+conventional hotel:국제회의 시설을 갖춘 호텔
+residential hotel:장시 투숙객들이 이용할 수 있는 호텔
+Bed & Breakfast:영국의 가정집에서 관광객을 대상으로 하는 민박집
+
+
+Situation 617 A post office
+
+Kang: I'd like to send this letter to Korea.
+Min: By airmail or surface mail
+Kang:Airmail, please.
+Min: Do you want to send it in ordinary or registered mail
+Kang: Registered mail, please.
+Min: That'll be 2 dollars and 80 cents.
+
+상황 617 우체국
+
+강동훈: 이 편지를 한국으로 부치고 싶은데요.
+민소영: 항공편입니까, 선편입니까
+강동훈: 항공편으로 해주세요.
+민소영: 보통 우편으로 할까요, 등기 우편으로 할까요
+강동훈: 등기 우편으로 해주세요.
+민소영: 2달러 80센트입니다.
+
+<어구연구>
+
+강동훈은 우체국에서 일을 보고 있다. "~ 로 보내고 싶습니다"란 표현은 
+
+I'd like to send this letter to Korea.
+
+에서 처럼 "would like to~"란 표현을 쓰면 된다.
+
+우체국업무와 관련된 다양한 표현들을 익혀보자.
+
+1. 편지 보내기
+
+I would like to send this postcard to Korea.
+(이 엽서를 한국으로 보내고 싶은데요.)
+Please send this letter by airmail.
+(이 편지를 항공편으로 부탁합니다.)
+How much will it be by airmail
+(항공편으로 하면 요금이 얼마나 들까요)
+I want to send this letter to Korea by express mail.
+(이 편지를 한국에 속달로 부치고 싶습니다.)
+
+2.소포보내기
+
+Please send this parcel registered mail.
+(이 소포를 등기로 보내주십시요.)
+How much is the pastage on this parcel
+(이 소포의 요금은 얼마입니까)
+I want to send this parcel to Korea by airmail.
+(이 소포를 한국에 항공편으로 보내고 싶습니다.)
+
+3. 우표사기
+
+Where do you sell postage stamps
+(우표는 어디에서 팝니까)
+May I have ten 25 stamps, please
+(25센트짜리 우표 10장 주시겠어요)
+How much postage do I need for this
+(우표는 얼마나 붙이면 됩니까)
+
+관련용어를 알아보자
+
+post office:우체국 postage:우편요금 
+special delivery mail: 속달 우편
+parcel:소포 domestic mail:국내 우편 foreign mail:외국 우편
+
+
+
+
+Situation 616 A hospital
+
+Go: What's the trouble
+Hwang: I am not feeling well. I am afraid caught a cold.
+Go: When do you have pain
+Hwang:I've been feverish since last night.
+Go:Do you have any pain
+Hwang:I can't stop coughing. And I have a lot of phlegm and sore throat, too.
+Go:Have you ever coughed up blood or bloody phlegm
+Hwang:Nothing. How long will it take to get there
+Go:Just two or three visits. I'll give you a shot.
+
+상황 616 병원
+
+고성민: 어디가 불편하십니까
+황순규:몸이 좋지 않아요. 감기에 걸린 것 같습니다.
+고성민:언제부터 아프기 시작했죠
+황순규:어젯밤부터 열이 있었습니다.
+고성민:다른 통증도 느끼십니까
+황순규: 기침을 멈출 수가 없어요. 게다가 가래도 많이 나오고 목도 아픕니다.
+고성민:기침을 해서 피나 피가 섞인 가래가 나온 적은 없습니까
+황순규: 없습니다.다 낫는데 얼마나 걸릴까요
+고성민:두 서너번만 오시면 됩니다. 주사를 놔드리죠.
+
+<어구연구>
+
+황순규는 몸이 아파 병원을 찾았다. 보통 병원에 가서 진단을 받기 전 병에 걸린 것 같다라는 말을 하고 싶을 때 다음과 같이 표현한다.
+
+I am afraid I caught a cold.(감기에 걸린 것 같아요.)
+
+치과에서 쓰이는 표현을 알아보자.
+
+I have a cavity in one of my lover back teeth and it hurts.
+(아래 어금니 하나에 충치가 생겨 아픕니다.)
+I have a tooth with throbbing pain.
+(이가 욱신거리듯이 아픕니다.)
+I'd like to have the tartar cleaned from my teeth.
+(치석을 제거해 주세요.)
+I'd like to have my teeth cleaned.(치석을 제거하고 싶습니다.)
+There is a pain deep in the jawbone.(턱뼈가 심하게 아픕니다.0
+The tooth smarts when I eat something cold.
+(찬것을 먹으면 이가 욱신거립니다.)
+One of my molars is loose.(어금니 하나가 욱신거립니다.)
+
+감기 몸살에 걸렸을 때는 
+
+I am not feeling well. I am afraid I caught a cold.
+(몸이 좋질 않아요. 감기에 걸린것 같습니다.)
+I haven't taken my temperature but I feel hot.
+(체온은 재 보지 않았지만 열이 있는 것 같습니다.
+I'm afraid I caught a cold. I have a fever and lasting cough.
+(감기가 든 것 같아요. 열이나고 기침도 납니다.)
+I have a terrible headache.(두통이 심합니다.)
+
+배나 가슴이 아플 때는
+
+I have an abdominal pain.(복통이 있습니다.)
+I have a stinging pain in my stomach.(위가 쑤시듯이 아픕니다.)
+Whenever my stomach is empty, it begins to hurt.
+(공복시에 위가 아프기 시작합니다.)
+I am troubled with chronic stomachaches.
+(만성 위염으로 고생하고 있습니다.)
+
+로 표현하면 된다.
+
+병원과 관련된 용어는
+
+dentist:치과의사 physician:내과의사 surgeon:외과의사 clinic:진료소
+medical certificate:진단서 prescription:처방전 colitis:대장염
+gastritis:위염 appendicitis:맹장염
+
+
+
+
+
+
+
+Situation 615 An introduction
+
+Choi:Mr. Smith, this is Mr. Kim, our president.
+Smith:How do you do I'm Bill Smith.
+Choi:Welcome to our company. Please follow me.
+Smith:Thank you.
+Choi:What is your job, Mr. Smith
+Smith:I'm in charge of export sles. My title is sales manager.
+Choi:How's the world treating you
+Smith: Not bad.
+
+상황 615 소개
+
+최동영:스미스씨, 이분이 우리 김사장님입니다.
+스미스:안녕하십니까 저는 빌 스미스입니다.
+최동영: 저희 회사에 잘 오셨습니다. 이쪽으로 오십시오.
+스미스:감사합니다.
+최동영:스미스씨가 하시는 일은 무엇입니까
+스미스:저는 수출영업을 담당하고 있습니다. 직함은 영업부장이고요.
+최동영:경기는 어떻습니까
+스미스: 나쁘진 않습니다.
+
+< 어구연구>
+
+스미스씨가 회사에 처음으로 방문하자 최동영은 그를 김사장에게 소개한다.
+
+오늘은 소개와 관련된 표현들을 익혀보자.
+
+1. 회사직원소개
+
+Mr.Smith, this is Mr. Han, manager of the personal affairs section here in Ansan.
+(존슨씨, 이 분은 이곳 안산의 인사과 한과장입니다)
+I'd like to introduce Mr.Yoon, our sales manager.
+(저희 영업부장인 미스터 윤을 소개하겠습니다.)
+Let me introduce my boss.(제 상사분을 소개합니다.)
+Let me introduce you to the man in charge of this project.
+(이 기획의 책임자께 당신을 소개해 드리겠습니다.)
+I've been looking forward to introducing you to Mr. Jung for some time.
+(언젠가 당신을 미스터 정에게 소개시켜 드리려고 생각하고 있었습니다.)
+
+2. 명함 건네기
+
+Here's my business card. I'm in the sales administration department.
+(제 명함입니다. 판매관리부에 있습니다.)
+Let me give you my business card. It's in Korean on one side and English on the other.
+(제 명함을 드리죠. 한 면은 한글이고, 다른 면은 영어입니다.)
+Business cards help us remember the names later on.
+(명함은 나중에 이름을 기억하는데 도움이 됩니다.)
+
+소개를 할 때는 남성을 여성에게 소개하고, 손 아랫 사람을 손 윗 사람에게 소개하며,
+ 직위가 낮은 사람을 높은 사람에게 소개한다. 낯선 사람을 먼저 소개하는 것이 예의이다.
+
+
+Situation 614 A reservation
+
+Julia:Northwest Airllines. May I help you
+Antonio:I'd like to confirm my reservation.
+Julia: Your name and flight number, please.
+Antonio:My name is Minsuk Kim, and the flight number is 325.
+Julia:You are leaving for Los Angeles on Saturday at 5 p.m. Is that right
+Antonio: Yes, that's correct.
+Julia:Okay, your reservation is confirmed. Please be at the airport one hour before the departure time.
+Antonio:I will. Thank you.
+Julia: Have a good day, sir.
+
+상황 614 공항
+
+줄리아:노스웨스트 항공입니다. 무엇을 도와 드릴까요
+안토니오:예약을 확인하고 싶습니다.
+줄리아: 성함과 비행기 번호를 말씀해 주십시오.
+안토니오:제 이름은 김민석이고, 비행기 번호는 325번입니다.
+줄리아: 토요일 오후 5시에 로스앤젤레스로 떠나실 거죠, 맞습니까
+안토니오:예, 맞습니다.
+줄리아:좋습니다. 선생님의 예약이 확인되었습니다. 출발 한시간 전에 공항으로 나와 주세요.
+안토니오:그러겠습니다. 감사합니다.
+줄리아: 좋은 하루 보내세요.
+
+<어구연구>
+
+안토니오는 노스웨스트 항공사에서 비행기 예약을 확인하고 있다.
+오늘은 비행기 예약과 관련된 다양한 표현들을 익혀보자.
+
+1. 비행기 예약하기
+
+I want to reserve a seat from New York to Los Angeles.
+(뉴욕에서 로스앤젤레스까지 예약하고 싶습니다.)
+I'd like to make a reservation for a flight to New York.
+(뉴욕행 탑승권을 예약하고 싶습니다.)
+I'd like to book three seats from New York to Miami.
+(뉴욕에서 마이애미까지 좌석 3개를 예약하고 싶습니다.)
+Do you have any flights to Boston
+(보스톤행 비행기가 있습니까)
+Is there anything earlier(더 빠른 것은 없습니까)
+
+2.예약 재확인
+
+My name is Seongsoo Yoon. I want to reconfirm my reservation.
+(저는 윤성수라고 합니다. 예약을 재확인하고 싶은데요.)
+This it Juyeong Lee. I'd like to reconfirm for flight number 72 on September 15.(이주영입니다. 9월 15일 72펴느이 예약을 재 확인하고 싶습니다.)
+
+3. 예약 변경 및 취소
+
+I want to change my reservation. (예약을 변경하고 싶은데요.)
+Could you change my flight date(날짜를 변경할 수 있습니까)
+Please cancel my flight for Friday the fifth.(금요일 5일자 예약을 취소해 주세요)
+
+4. 관련용어
+
+domestic airline:국내선
+international airlines:국제선
+travel agency:여행사
+via:경유
+boarding pass:탑승권
+waiting room:대합실
+
+
+
+Situation 633 Talking about restructuring
+
+Whang:So, B&E's finally going to go through a major restructuring, huh
+Charles:Yes, every network carried the news as the morning headline.
+Whang:I know.Surprising, isn't it I never thought they would actually to through with it or at least not this soon. I thought they would try to hold it off as long as they possibly could.
+Charles:Well, they were trying to do just that. They were trying all sorts of legal manuevers to buy time, but to no avail. The creditors just didn't buy any of their proposals and also, there was a lot of pressure from the government.
+Whang:In my opinion, government intervention was absolutely necessary. Since the so-called "B&E Crisis" was causing a lot of anxiety and instability in the financial market, the government was bound to take a course of action.
+Charles:Right.Frthermore, the creditors were getting fed up with infeasible debt-reduction plasn constantly proposed by B&E.
+Whang:HBut,how about the creditorsWouldn't they be on the losing end of the bargainWould they be able to retrieve all their investments from the failing conglomerate
+Charles:Better safe than sorry, right
+
+상황 633 구조조정
+
+황순귀:B&E가 드디어 대규모 구조조정에 들어간다면서요
+찰스:예, 방송사마다 그 뉴스르 ㄹ아침 헤드라인으로 다루더라구요.
+황순귀:알아요. 놀랍지 않아요실제로 실행될 줄은 몰랏어요. 적어도 이렇게 빨리는 말이죠. 가능한 한 시간을 오래 끌줄 알았는데..
+찰스:사실 그렇게 하려고 했어요. 시간을 벌기 위해 할 수 있는 모든 법적 수단을 다 동원해 보았지만, 채권자들이 그들의 제안을 하나도 받아들이지 않았어요. 그리고 또 정부로부터 많은 압력을 받았거든요.
+황순귀:제 생각엔 정부의 개입이 절대적으로 필요했던 것 같아요. 소위 "B&E사태"라는 것 때문에 금융계에 많은 불안과 불안정이 야기되고 있었기 때문에 정부가 반드시 조치를 취하게 되어 있었어요.
+찰스:맞아요. 게다가 채무자들도 계속되는 B&E의 실행 불가능한 채무 감면 계획 제안들에 진저리가 났고요.
+황순귀:하지만 채무자들 어떻죠 불리한 상황에 처하는 건 아닌가요파산하고 있는 기업에 투자한 금액을 모두 회수할 수 있을까요
+찰스:후회하는 것보다는 안전한 것이 낫죠.
+
+<어구연구>
+
+황순귀와, 찰스는 정부 강요의 "구조조정(Restructuring)"에 대해 대화를 나누고 있다.
+
+단어와 표현을 정리해 보자.
+
+go through:겪다 경험하다(experience)
+John is going through a lot of difficulties lately.(John은 요즘 많은어려움을 겪고 있다.)
+go through with:...을 완수하다. (계획)을 실행하다.(carry out)
+Is the CEO going to go through with the budget plan
+(사장님께서 예산안을 실행시키실 건가요)_
+buy time:시간을 벌다(earn or gain time)
+bound go do:....할 의무가 있는 , 꼭 .... 하게 되어 있는 (certain to do...)
+It's a money maker. They's bound to invest.
+(돈벌이가 되는거예요. 그들은 반드시 투자하게끔 되어 있어요.)
+be fed up with :...에 싫증난, ...에 몰린 
+Mr.Johnson is fed up with your constant tardiness.
+(Johnson씨는 당신의 계속되는 지각에 진저리가 나 있습니다.)
+
+
+
+
+Situation 632 A shopping
+
+Ji:Are you looking for something
+Park:I'd like to buy a necklace.
+Ji:What kind of necklace
+Park:I want to see some pearl necklaces.
+Ji:Do you want natural pearls of cultured pearls
+Park:Natural pearls, please.
+Ji:How about this one
+Park:It's very becoming.How much is it
+
+상황 632 쇼핑
+
+지영현:찾고 있는게 있습니까
+박명선:목걸이를 하나 사고 싶은데요.
+지영현:어떤 종류의 목걸이죠
+박명선:진주 목걸이 보여주세요.
+지영현:천연진주, 양식진주 중 어떤 걸 찾으시죠
+박명선:천연진주요.
+지영현:이건 어때요
+박명선:아주 좋네요. 얼마죠
+
+<어구연구>
+
+박명선은 보석가게에 들러 진주 목걸이를 구입하고 있다. 
+알아두어야할 어구는 
+
+천연진주는 natural pearl
+양식진주는 cultured pearl 
+culture는 여기에서 양식, 경작의 뜻으로 쓰였다.
+
+쇼핑 관련 표현을 알아보자
+
+1.쇼핑할 장소를 물을 때
+
+Where is the main shopping area
+(어디가 쇼핑하기에 편리합니까)
+I'd like to see a traditional market.
+(재래 시장을 보고 싶습니다.)
+On what floor is the children's wear department
+(어린이 옷 매장은 몇 층에 있나요)
+Which is way to the electronics
+(전자 제품은 어느쪽에 있습니까)
+
+2. 물건을 고를때
+
+May I try on this dress
+(이 옷 입어봐도 되나요)
+May I try on some of the shoes in the display window
+(진열장에 있는 신말들을 신어봐도 될까요)
+I'm afraid this dress is too big in the shoulders.
+(이 옷은 어깨가 너무 큰 것 같아요.)
+It's little tight around the shoulders.
+(어깨쪽이 약간 조이는군요.)
+Would you measure my size
+(사이즈를 재 주시겠습니까)
+I'd like a souvenir that could only come from Korea.
+(한국 특유의 기념품을 원합니다.)
+
+3. 가격
+
+How much is this necklace
+(이 목걸이는 얼마죠)
+What is the wholesale price
+(도매 가격은 얼마죠)
+How much are these cookies per kilogram
+(이 과자는 킬로그램당 얼마죠)
+
+
+
+
+Situation 631 A sightseeing
+
+Yoon:Do you have anything planned for today
+Anthony:Nothing in particular.
+Yoon:Well, if you'd like, I can show you some of the sights.
+Anthony:That would be wonderful.
+Yoon:Where would you like to go sightseeing
+Anthony:I'd like to see traditional things.
+Yoon:How about going to Insa-dong first
+
+상황 631 관광
+
+윤연화:오늘 계획된 일 있습니까
+앤서니:특별한 건 없습니다.
+윤연화:괜찮다면, 몇 군데 안내하고 싶은데요.
+앤서니:아, 그거 좋습니다!
+윤연화:어디로 관광을 가고 싶은가요
+앤서니:한국의 전통적인 곳을 보고 싶네요.
+윤연화:우선 인사동에 가보는 건 어때요
+
+<어구연구>
+
+윤연화는 오늘 앤서니에게 인사동을 보여주려고 한다. 한국에 온 외국인에게 관광을 소개할 때의 여러가지 회화 표현을 익혀보자.
+
+1.관광 권유
+
+Is there something in particular that you would like to see in Seoul
+(서울에서 특별히 가버ㅗ고 싶은 곳이 있나요)
+How about going to Myong-dong first
+(우선 명동에 가 보는 것이 어때요)
+Why don't I show you around the city
+(시내를 안내해 드릴까요)
+Where do you want to take a trip
+(어디로 여행을 떠나고 싶으세요)
+Shall I help you with your sightseeing and shopping around the city
+(시내관광과 쇼핑을 도와 드릴까요)
+
+2.궁금한 것 묻기
+
+How long do you want to take a trip
+(얼마 동안 여행을 하고 싶으십니까)
+When was this building built
+(이 건물은 언제 세워졌습니까)
+What is this Korean style building over here
+(여기에 있는 한국식 건물은 무엇입니까)
+What's the price of admission
+(입장료는 얼마입니까)
+Where can I see the best view of the whole city
+(도시 전체의 전망을 보려면 어디로 가면 되죠)
+
+3. 관련용어
+
+상점가:shopping street 선물가게:gift shop 골동품가게:antique shop
+유리가게:galssware shop 수공예품가게:store for handicraft
+도자기 가게:bone china shop 식물원:botanical garden
+관광버스 투어:sightseeing bus tour
+
+
+
+
+
+
+Situation 630 A duty free shop
+
+Clerk:May I help you
+Park:I'm looking for something nice for a friend.Rogan and Chivas Reagal each, please.
+Clerk:Thank you. Anything else
+Park:Show me perfume, please.
+Clerk:What kind of perfume do you want
+Park:May I smell this perfume
+Clerk:Sure. the fragrance is jasmine.I can recommend it for ladies of any age. This bottle's even cheaper.
+Park:Okay. I'll buy that one. And would you gift-wrap it, please
+Clerk:Certainly. That'ss be 35 dollars.
+
+상황 630 면세점
+
+직원:어서오세요.
+박종관:친구에게 줄 선물을 찾고 있는데요.로건과 시버스 리걸 한병씩 주세요.
+직원:감사합니다. 그 밖에 필요한 것은 없나요
+박종관:향수를 보여주세요.
+직원:어떤 종류의 향수를 원하시죠
+박종관:이 향수 맡아봐도 되나요
+직원:그러세요. 이것은 쟈스민향입니다.나이에 상관없이 모든 여자분들께 이 향수를 드리면 좋아할거에요. 이건 좀 더 저렴하구요.
+박종관:좋습니다. 그걸로 사겠어요. 선물용으로 포장해 주시겠습니까
+직원:네. 총 35달러입니다.
+
+<어구연구>
+
+박종관은 면세점에 들러서 선물을 사고 있다. 면세점에서 쓸 수 있는 다양한 표현들은 다음과 같다.
+
+1.면세점
+
+Where may I get the duty-free goods
+(면세품은 어디에서 살 수 있나요)
+May I pick it up(만져봐도 괜찮습니까)
+Do you know what the duty-free limit is in Korea
+(한구그이 면세 한도량을 알고 있습니까)
+What kind of stone is this(이건 어떤 보석입니까)
+
+2.시계나, 카메라 상점에서
+
+Show me a camera that's simple to operate.
+(조작이 간편한 카메라 좀 보여 주십시요.)
+There seems to be something wrong with this camera.
+(카메라가 고장 난것 같아요.)
+I can't release the shutter.(셔터가 눌러지질 않아요.)
+This alarm clock doesn't work. Would you fix it
+(자명종 시계가 작동하질 않아요. 고쳐주시겠어요)
+I want this picture enlarged to four by six.
+(4*6사이즈로 확대하고 싶습니다.)
+
+3.서점
+
+What's your best-selling book on business
+(지금 비즈니스 분야의 베스트셀러는 무엇이죠)
+Do you have American government publications
+(미국정부의 간행물을 팔고 있습니까)
+I'm looking for a guide book to New York.
+(뉴욕의 가이드 북을 찾고 있습니다.)
+Here are all the latest novels.(이것이 신간 소설책들입니다.)
+
+4. 관련용어
+
+면세점:tax-free shop; duty-freee shop
+종합잡지:general magazine
+대중잡지:popular magazine
+문예잡지: literary magazine
+주간지:weekly magazine
+월간지:monthly magazine
+도서목록:catalogue of publication
+
+
+
+
+
+Situation 629 A entertainment
+
+Hong:Would you take off your shoes here, please
+Brian:Okay.
+Hong:Please sit down by the table. What will you have
+Brian:Everything looks delicious.What kind of dish is Bulgogi
+Hong:It's barbecued beef prepared Korean style.It's a kind of roast beef with lots of spices such as soy sauce, sesame, garlic, wine, etc.
+Brian:Would you tell me how to eat Bulgogi
+Hong:You put the marinated beef on the grill. Wrap it in lettuce, and eat it.
+Brian:Is this the correct way to hold chopsticks
+Hong:Support the chopsticks with the thumb, touch it lightly with the ring
+finger, and move it with the index finger and the middle finger like this.
+Brian:Isn't it hard to use chopsticks
+
+상황 629 접대
+
+홍승현:신발을 벗으시겠어요
+브라이언:알겠습니다.
+홍승현:저쪽 테이블에 앉으시죠.뭘 드실래요
+브라이언:모두 맛있어 보이네요. 불고기는 어떤 종류의 음식이죠
+홍승현:불고기는 간장, 참깨, 마늘, 술, 등의 갖은 양념을 넣고 구운 거에요.
+브라이언:불고기는 어떻게 먹죠
+홍승현:얇게 썰어 양념을 한 쇠고기를 철판에 익혀, 상추로 싸먹습니다.
+브라이언:젓가락은 이렇게 쥐면 됩니까
+홍승현:얒기에 젓가락을 가볍게 붙이고, 엄치로 받친 다음, 중지와 인지로 이렇게 움직입니다. 젓가락질 하기가 쉽지 않죠
+
+<어구연구>
+
+홍승현은 브라이언에게 대표적인 한국음식 불고기를 대접하고 있다.
+브라이언에게 불고기에 대한 설명과, 젓가락 사용법을 알려준다.
+
+식사 대접관련 표현을 알아보자.
+
+1. 좌석안내
+
+Please take your shoes off here.(여기서 구두를 벗어주세요.)
+Your seat is here.(좌석은 이쪽입니다.)
+I'd like to have a table in a quiet corner.
+(조용한 자리면 좋겠습니다.)
+Please stertch your legs and relax like this.(다리를 뻗고 이렇게 편히 앉으세요.)
+
+2. 식사에 초대하기
+
+If you are free, would you join us for dinner tonight
+(시간이 있으시면, 저희들과 저녁 같이 하시는 게 어때요)
+I'd like to invite you to a dinner.
+(당신을 저녁식사에 초대하고 싶은데요.)
+How about going for lunch together
+(점심 같이 하실래요)
+How about some Korean food
+(한식 종류는 어떻습니까)
+
+야채, 육류, 어패류 단어들을 정리해 두자.
+
+가지:eggplant 감자:potato 겨자:mustard 버섯:mushroom
+양배추:cabbage 양파:onion 부추:leek
+후추:pepper 시금치:spinach
+돼지고기:pork 쇠고기:beef 양고기:mutton
+칠면조:turkey
+게:crab 바닷가재:lobster 새우:shrimp 
+연어:salmon 오징어:squid 정어리:sardine
+
+
+
+
+
+
+Situation 628 A secretary
+
+Park:Good afternooe. I'm Suhan Kim from Green Company. I'd like to see Mr.Brown.
+Secretary:Good afternoon. Do you have an appinment
+Park:Yes, at two o'clock.
+Secretary:I'm sorry, he is in a conference now.
+Park:Would you please have a seat and wait for a moment
+Secretary:All right.
+Park:Would you like to have coffee or tea
+Secertary:Coffee will be fine. Thank you.
+Park:When did you arrive in New York, Mr. Kim
+Secretary:Two days ago. I'm staying in the Newton Hotel.
+Park:Have you been around New York city
+
+상황 628 비서
+
+박수한:안녕하세요. 그린사에서 온 김수한입니다. 브라운씨를 뵙고 싶은데요.
+비서:안녕하십니까. 약속이 되어 있으신가요
+박수한:예, 2시에 약속되어 있습니다.
+비서:죄송합니다만, 지금 회의중이십니다.
+박수한:앉아서 잠시마나 기다려 주시겠습니까
+비서:그러죠.
+박수한:커피나 차라도 드시겠습니까
+비서:커피면 좋겠습니다. 감사합니다.
+박수한:김선생님은 뉴욕에 언제 오셨습니까
+비서:이틀 전에 왔는데 지금 뉴턴 호텔에 머물고 있습니다.
+박수한:뉴욕 구경은 좀 하셨나요
+비서:별로요. 나중에 시내 관광을 해보고 싶습니다.
+
+<어구연구>
+
+박수한은 브라운씨를 만나러 그의 회사를 찾았다. 들어가기 전 비서에게 방문 목적을 밝히지만, 브라운씨가 회의 중이므로 비서와 간단한 대화를 나누고 있다.
+
+오늘의 대화와 관련된 표현을 익혀두자.
+
+1. 상대방에 대해 묻기
+
+What can I do for you(무슨 일로 오셨나요)
+May I have your name, please(성함이 어떻게 되죠)
+I represent Purunsam Company.(저두 푸른샘에서 왔습니다.)
+
+2.예약치 않고 방문했을 때
+
+Would it be possible to see Mr. Smith for just a moment
+(스미스 씨를 잠깐 뵐 수 있을까요)
+I'm Soosie Kim from Green Company. I'd like to see the president, if possible.
+(그린사의 김수지입니다. 가능하다면 사장님을 뵙고 싶습니다.)
+
+3. 손님을 기다리게 할 때
+
+Mr. Smith is busy at the moment, but he'll be free within half an hour.
+Would you mind waiting for a while, Mr. Kim
+(스미스씨는 지그 바쁘신데 30분 정도 있으면 한가하실 겁니다. 김선생님
+잠시만 기다리시겠습니까)
+Just a moment. I'll tell him you are here.
+(잠시 기다려 주십시오. 오셨다고 말씀드리겠습니다.)
+
+
+
+
+
+
+Situation 627 A refusal
+
+Kim : Hey, Mr.Song. How about dropping in someplace for a few drinks
+Song : Well, maybe I'd better pass this time. I've got an early day tomorrow.
+Kim : Aw, come on. Just a couple won't hurt. And besides, I know a place just near hear that's got some real charming hostesses.
+Song : You're twisting my arm.
+Kim : I guarantee you won't regreat it.
+Song : Well, here we go, but remember, you said only a few. 
+
+상황 627거절
+
+김정민 : 저, 송관영씨, 어디 잠깐 들러 술 한잔 하면 어떨까요
+송관영 : 저, 다음 기회로 해야겠습니다. 내일 일찍 일어나야 하니까요.
+김정민 : 그러지 마세요. 딱 두서너 잔 정도는 괜찮을 거예요. 게다가 이 근처에 정말 매력적인 아가씨들이 있는 곳을 알고 있다구요.
+송관영 : 정말 꼼짝 못하게 만드시는군요.
+김정민 : 제가 장담하는 데 후회는 안 하실 거예요.
+송관영 : 자, 가십시다. 하지만 딱 몇 잔이라고 하신 거 잊지 마세요. 
+
+<어구연구>
+
+저녁식사를 끝내고 나오면서 김정민은 송관영에게 술을 한잔 하러 가자고 제의하지만 송관영은,
+
+I'd better pass this time. I've got an early day tomorow.
+(다음 기회로 해야겠습니다. 내일 일찍 일어나야 하니까요.)
+
+라며 사양을 한다. pass는 '지나가다, 통과하다'란 뜻의 자동사. 이렇게 상대방의 제의를 거절할 때 쓰는 표현은 다음과 같이 여러 가지가 있다.
+
+I'd better not.
+(하지 않아야 될 것 같습니다.)
+
+I'd better say no this time.
+(이번엔 거절해야겠는데요.)
+
+I'll take a rain check on that this time.
+(다음 기회로 했으면 합니다.)
+
+I'm sorry but today is a bad day.
+(미안하지만 오늘은 좀 곤란하군요.)
+
+
+
+
+
+
+
+
+Situation 626 A train
+
+Pyung:I'd like to reserve a seat to Boston. May I get a seat on today's 3:00p.m train
+Kang:I'm sorry. It's already full.
+Pyung:Then, what time is the next train
+Kang:The express leaves at 4 o'clock and the super-express at 4:30.
+The super-express arrives 10 minutes earlier.
+Pyung:What time does the super-express arrive in Boston
+Kang:At 7:30
+Pyung:Thank you. May I book a seat on the super-express to Boston
+Kang:Sure. Smoking or non-smoking
+Pyung:Non-smoking, please.
+Kang:One moment, please. You're in car three, seat number 35.
+Pyung:Which track does the train for Boston leave from
+Kang:Number five.
+
+상황 626 기차
+
+평한석:보슨턴까지 좌선을 예매하고 싶은데요. 오늘 오후 3시 차표를 살 수 있나요
+강경수:죄송합니다만 매진되었습니다.
+평한석:그럼 다음 열차는 몇시에 있나요
+강경수:4시에 출발하는 급행과 4시 30부네 출발하는 특급 열차가 있습니다. 특급이 10분 먼저 도착합니다.
+평한석:특급열차는 보스턴에 몇 시에 도착합니까
+강경수:7시 30분에요.
+평한석:감사합니다. 그럼 보스터까지의 열차표를 한 장 예매할 수 있습니까
+강경수:예, 흡연실로 드릴까요, 금연실로 드릴까요
+평한석:금연실로 주세요. 
+강경수:잠시만 기다리세요. 3호차 35번 좌석입니다.
+평한석:보스턴행 기차는 몇 번 홈에서 출발합니까
+강경수:5번입니다.
+
+<어구연구>
+
+평한석은 보스턴으로 출장을 가려고 한다. 가기전 기차역에서 열차표를 구입하고있다. 
+
+관련표현을 살펴보자.
+
+1.정차역, 출발시간 묻기
+
+Does the express train stop at San Diego
+(급행열차는 샌디에고에 섭니까)
+Can I make good connections for Washington
+(거기에서 워싱턴으로 가는 열차가 있나요)
+Is the train for Chicago running often
+(시카고행 열차는 자주 다닙니까)
+What time does the last train leave
+(막차는 몇 시에 출발합니까)
+
+2. 플랫폼에서
+
+Is this the right train for Boston
+(이 열차가 보스턴행입니까)
+Is this the right platform for Boston
+(보스턴행 열차를 타려면 이 플랫폼에서 타면 됩니까)
+
+기차 관련용어:
+
+개찰구:wicket 직행열차:through train
+특급열차:limited express: super-express 완행열차:local train
+왕복차표:round-trip ticket:return ticket(영국)
+편도차표:one-way ticket:single ticket
+
+
+
+
+
+
+
+
+
+Situation 625 An introduction
+
+Gang:Mr. Kent, let me introduct my friend, Minho Lee.
+Kent:Please come in.
+Gang:Mr. Lee is a marketing manager.
+Lee:Glad to meet you. I'm Minho Lee from Sangdoo company
+in Seoul, Korea. This is my business card. We make computer 
+equipments.
+Gang:How many employees do you have
+Kent:About 400 in the plant, and 50 in the office.
+
+상황 625 소개
+
+강규정:켄트씨, 친구 이민호를 소개해 드리겠습니다.
+켄트:어서 오십시오.
+강규정:미스터 리는 영업과장입니다.
+이민호:만나서 반갑습니다. 서울의 상두사에서 온 이민호입니다. 제 명함입니다. 저희는 컴퓨터 부품을 생산하고 있습니다.
+.강규정:종업원은 몇 명이나 됩니까
+이민호:공장 근로자가 약 400명, 사무직이 50명 가량 됩니다.
+
+<어구연구>
+
+강규정은 친구 이민호를 켄트씨에게 소개시켜준다. 간단한 표현이므로 
+확실히 익혀두자.
+
+1.소개에 의한 만남
+
+I think Mr.Johnson has already talked to you about us.
+(존슨씨께서 저희에 관해 이미 말씀드렸으리라고 생각합니다.)
+I believe Mr.Johnson mentioned we would be contacting you.
+(저희가 연락드릴 거라고 존슨씨께서 말했으리라 믿습니다.)
+Did he give you a rundown on our company
+(그분이 저희 회사에 대해 설명하시던가요)
+Mr.Johnson suggested contact you
+(존슨씨로부터 소개받았습니다.)
+
+2.다른 사람 소개하기
+
+May I introduce you to my friend, Mr. Brown
+(친구 브라운씨에게 당신을 소개해도 될까요)
+I will introduce you to my family.
+(당신을 저희 가족에게 소개하겠습니다.)
+Have you met Miss Kelly, my secretary
+(제 비서 켈리 양과 인사 나누셨습니까)
+
+
+3.관련용어
+
+비서실:secretariat
+기획실:office of planning &coordination
+인사부:personal office
+홍보부:public information office
+경리부:accounting office
+영업부:business office
+조사부:research and development office
+
+
+
+
+
+
+Situation 624 A reservation
+
+Hwang:What do you think of our proposal
+Kim:Well, I'm not so sure about that.
+Hwang:What do you have in mind
+Kim:Frankly, it's not quite what we were thinking of.
+Hwang:This is just one idea.We're still open to other ideas.
+Kim:Would it be possible to purchase it at a discount price as
+we did in past negotiations
+Hwang:I think so. But let me have a word with my boss first.
+
+상황 624 보류
+
+황치현: 저희 제안에 대해 어떻게 생각하십니까
+김준석:글세요. 그 문제에 대해 확신할 수 없습니다.
+황치현:어떤 생각을 갖고 계시는데요
+김준석:솔직히 말해서 기대했던 것과 다릅니다.
+황치현:이것은 한 가지 대안일 뿐입니다. 어떤 의견이라도 받아듣일 수 있어요.
+김준석:지난 번 협상 때처럼 할인 가격으로 구입할 수 있겠습니까
+황치현:그럴 겁니다. 하지만 우선 윗분과 상의해 보겠습니다.
+
+<어구연구>
+
+황치현은 김준석과 협상을 하고 있다. 최종결정은 잠시 보류한 뒤 협상을 끝낸다.
+
+오늘은 결정 보류에 대한 표현을 익혀보자.
+
+1.결정권에 관한 표현
+
+I don't have the authority to decide on this alone.
+(저 혼자 이것을 결정할 권한이 없습니다.)
+To be quite frank with you, my boss is not satisfied with the terms 
+of this contract.
+(솔직히 말씀드리자면 저의 상사는 이 계약 조건에 만족치 않고 있어요.)
+
+2.확답을 피할때
+
+Please let me think it over until we meet on Wednesday.
+(수요일에 다시 만날때까지 검토해 보겠습니다.)
+Please let me condiser your proposal.
+(당신 제안을 좀 생각해 보도록 해주세요.)
+
+
+
+Situation 643 A subway
+
+Brown:I'd like to visit my friend in Gangnam. How can I get there
+Hong:Where in Gangnam
+Brown:Here's the address.
+Hong:You should take the subway to Sadang station and transfer NO.2 line to Samseng station.
+Brown:What do these different colors represent
+Hong:Each color is a different line. For example, red is the NO. 1 line, green is the NO. 2 line. You'll take the NO. 4 line, the blue color.
+Brown:Where do I buy a ticket
+Hong:You can buy it at the vending machine and the ticket counter.
+Brown:How often do the trains run
+Hong:Every few minutes.You'll find your friend's office easily, because the building is near the station.
+
+상황643 지하철
+
+브라운:강남에 있는 친구를 찾아보고 싶은데, 어떻게 가야 하나요
+홍의균:강남 어디죠
+브라운:주소가 여기 있습니다
+홍의균:지하철을 타고 사당역까지 가서 2호선으로 갈아타고 삼성역으로 가셔야 합니다.
+브라운:여러가지 색깔은 뭘 의미하죠
+홍의균:선로를 나타냅니다. 예를 들어 빨간색은 1호선, 녹색은 2호선입니다. 당신은 4호선을 타야합니다.
+브라운:표는 어디서 사죠
+홍의균:자동판매기와 매표소에서 살 수 있습니다.
+브라운:전철은 몇분마다 다니나요
+홍의균:수 분마다 다닙니다. 그 빌딩이 역근처에 있으니까 친구분 사무실을 쉽게 찾을 수 있을 겁니다.
+
+<어구연구>
+
+브라운은 지하철을 타고 친구 사무실을 방문하려고 한다. 지하철에서 만난 홍의균이 그에게 지하철 타는 방법을 상세히 가르쳐 준다.
+
+지하철과 관련된 표현을 익혀두자.
+
+Where should I change trains
+(어디서 갈아타야 되죠)
+How long will the train be stopping at the next station
+(열차가 다음 역에서 얼마 동안 정차합니까)
+What's the lst station of this line
+(이 노선의 종착역은 어디입니까)
+Where do you get off
+(어디에서 내리십니까)
+What's the next station
+(다음 역은 어디입니까)
+
+
+
+
+
+
+
+Situation 642 A traveler's checks
+
+Go:I've lost my traveler's checks.
+Tom:How much money were you carrying
+Go:I'd bought 2,000 dollars worth, but only used 800 dollars. All the rest were stolen.
+Tom:Have you received a report form from the police
+Go:Yes. I've just been to the police station.
+Tom:Do you have the number of your traveler's checks
+Go:Yes. These are the check number.
+Tom:Did you sigh the checks
+Go:Yes. I'd signed every check once.
+Tom:I see. Would you pleasse fill out this form We'll reissue the 1, 200 dollars in checks.
+Go: Thank you very much.
+
+상황 642 여행자 수표
+
+고경민:여행자 수표를 잃어버렸는데요.
+탐:얼마나 가지고 계셨죠
+고경민:2000달러치 여행자 수표에서 800달러를 사용하고 나머지 모두를 잃어버렸습니다.
+탐:경찰에 도난 신고서는 제출하셨습니까
+고경민: 예, 조금 전에 경찰서에 했습니다.
+탐:여행자 수표 번호는 적어두셨습니까
+고경민:예, 이게 수표번호입니다.
+탐:사인은 하셨나요
+고경민:예, 한쪽만 모두 사인했습니다.
+탐:알겠습니다. 그럼 이 서류에 기입해 주세요. 1200 달러를 재발행하겠습니다.
+고경민:대단히 감사합니다.
+
+<어구연구>
+
+고경민은 여행자 수표를 잃어버려, 잔액에 해당하는 금액만큼 수표를 재발행한다.
+여행자 수표를 분실했을 때는 은행에서
+
+I lost my traveler's checks.
+My traveler's checks have been stolen by a man.
+
+라고 하면 된다. 긴급상황 발생시에는
+
+Would you please call the police right now
+Whom should I report to
+I'd like to claim damages on a theft.
+
+로 간략하게 표현할 수 있다.
+
+
+
+
+
+
+
+Situation 641 A payment
+
+Oh:I have no objection about that point.
+Anthony:Then, how should we pay for this
+Oh:We request a 10 percent payment at the time of ordering. The remaining amount must be paid within 60 days of the invoice date.
+Anthony:No proble. Delivery time will be Septmeber 1st
+Oh:No, that would be impossible.It takes about 40 days by sea for the products to reach you. So they will arrive after September 15.
+Anthony:We would like to launch an advertising campaign, so we need to gethold of some units as soon as possible. Please send us 1,000 units air to reach us by September 1st.And then the rest could be sent by ship.
+Oh:OK, we'll do it immediately.
+
+상황 641 지불
+
+오정훈:그점에 대해서는 이의가 없습니다.
+앤써니;그럼 어떻게 지불할까요
+오정훈:주문하실 때, 10퍼센트를 지불하시고, 나머지는 청구서 날짜의 60일 이내에 지불하셔야 합니다.
+앤써니:알았습니다. 그리고 상품 인수일은 9월 1일로 해도 좋습니까
+오정훈:아닙니다. 9월 1일은 무리입니다. 운송 일수가 선편으로 40일정도 걸리므로 물품은 9월 15일 이후에나 인도가 가능합니다.
+앤써니:저희는 홍보용이 한시라도 빨리 필요합니다. 9월 1일까지 1,000개만 항공편으로 보내주세요. 그리고 나머지는 선편으로 보내주셔도 괜찮습니다.
+오정훈:좋습니다.곧바로 그렇게 하겠습니다.
+
+<어구연구>
+
+오정훈은 앤써니와 물품대금 지불건으로 상담을 하고 있다. 
+지불과 관련된 표현들을 익혀보자
+
+1.지불 조건 제시
+
+How would you like to settle this
+(어떤 결제 방법이 좋습니까)
+What are your terms of payment
+(지불 조건은 어떻게 됩니까)
+Would you please tell us your terms of payment
+(지불 기간에 대해 말씀해 주시겠습니까)
+Full payment must be made within 60 days. But there is a 5 % discount for cash payment.
+(60일 이내에 완불하셔야 합니다만, 현금으로 지불하시면 5% 할인해 드리겠습니다.)
+
+2.납품에 관하여
+
+How soon can you deliver it to us
+(언제까지 납품하실 수 있습니까)
+Are you sure to ship these goods by the end of this month
+(이 물건을 이달 말까지 틀림없이 출하할 수 있겠습니까)
+How long until you can get me some parts
+(부품을 배달하는데 얼마나 걸리죠)
+
+3. 보증
+
+Our guarantee covers mainteance for both parts and labor.
+(저희 회사의 보증은 부품과 인건비 유지비용을 포함시킵니다.)
+You receive a 3-year guarantee with this machine.
+(이 기계의 보증기간은 3년입니다.)
+Within the warranty periods, all repairs are free.
+(보증기간 중의 모든 수리는 무료입니다.)
+
+
+
+
+
+
+Situation 640 Listinig
+
+Aron : Mr. Kim, what does your company produce in the line of toys Kim : Oh, gosh! We've got a whole list of things to choose from.
+Aron : Well, what for example
+Kim : Well, we've got stuffed toys, wind-up toys, talking dolls - you name it.
+Aron : Well, have you got a list handy 
+Kim : Not right at the moment. Let me get the department manager on the phone. I'm sure he can come up with one in no time. 
+
+상황 640 Listing
+
+애론 : 김 선생님, 귀사는 장난감 분야에서 어떤 것을 생산합니까 
+김규태 : 오, 이런, 저희는 선택하실 수 있는 품목의 종류가 매우 많습 니다.
+애론 : 저, 예를 들어 어떤 것인가요
+김규태 : 저, 속을 채워 만든 모형 인형, 태엽을 이용한 인형, 말하는 인형 등 - 없는 게 없습니다.
+애론 : 저, 지금 목록 하나 가지신 것 있습니까
+김규태 : 지금 당장은 없군요. 제가 부장님께 전화로 연락해 보죠. 즉 시 한 부를 구해주실 것입니다. 
+
+<어구연구>
+
+애론은 김규태가 만들고 있는 장난감들에 흥미를 보이면서 다음과 같이 질문한다.
+
+Well, have you got a list handy (그럼 지금 목록 가지신 것 있습니까)
+
+이와 같은 표현을 알아두자.
+
+Do you have a list on hand
+ (지금 목록 하나 가지신 것 있습니까)
+Have you got a list available now
+ (지금 갖고 계신 목록 있습니까)
+What about a listing Do you happen to have one on hand 
+(카탈로그 말인데요, 혹시 지금 하나 가지고 계신 것 있습니 까)
+
+
+
+
+Situation 639 Price splitting
+
+Jung:What does the new model go for
+Jang:The price we're quoting is 50, 000 dollars for the set.
+Jung:Boy, that's way too expensive.
+Jang:Well, that's what the going rate is.
+Jung:How about splitting the differenct then Is there a discount if we order in volume
+Jang:If the order is 20 sets, we can offer 7 percent discount at the most.
+Jung:Isn't it possible give us a little more discount
+Jang:I am afraid that there is no room to negotiate the price.
+Jung:I see. We'll buy 20 sets of the model.
+
+상황 639 가격 타협
+
+정지훈:신제품은 얼마입니까
+장영은:지정 가격은 세트당 5만달러입니다.
+정지훈:아하, 그거 너무 비싼데요.
+장영은:하지만 그게 요즘 시세입니다.
+정지훈:그럼 타협하는 게 어떨까요 대량으로 주문하게 되면 할인이 됩니까
+장영은:만냥게 20세트를 주문하신다면 7퍼센트까지 할인해 드리겠습니다.
+정지훈:조금 더 할인해 주실 수 없습니까
+장영은:죄송합니다만, 그 가격은 더 이사아 협상의 여지가 없습니다.
+정지훈:알겠습니다. 그 모델로 20세트를 사겠습니다.
+
+<어구연구>
+
+정지훈은 가격흥정을 하고 있다. 흥정과 관련된 어구들을 알아보자.
+
+1.가격
+
+What is the estimated price
+(견적가는 얼마입니까)
+Please let us know the prices you can offer.
+(제공해 주실수 있는 가격을 제시해 주십시요.)
+This price is competitive in the market.
+(이 가격은 시장에서 경쟁력이 있습니다.)
+We're going to revise the price soon.
+(곧 가격을 조정하려고 합니다.)
+
+2.'비싸다'는 표현
+
+That's too expensive.
+(그건 너무 비쌉니다.)
+We're not satisfied with your quotations.
+(귀사의 견적 가격으로는 만족할 수 없군요.)
+Can't you quote us anything cheaper
+(좀더 싸게 부를 수는 없습니까)
+
+3. 가격할인
+
+How far do you think you could bring the price down
+(어느 정도까지 값을 내릴 수 있나요)
+We can offer a discount in progressive stages according to the size of the order.(저희 회사는 주문량에 따라 누진적인 단계의 할인을 해드립니다.)
+Could you give us a better price
+(좀더 가격을 할인해 주시겠습니까)
+
+
+
+
+
+Situation 638 Rescheduling appointment
+
+Crossman:Joe Crossman here.
+Shaw:Good afternoon. This is Christine Shaw. I'm calling with regard to our appointment on the 18th.I'm afraid I can't make it.
+Crossman:Oh, I'm sorry to hear that.
+Shaw:Can you manage the 20th instead
+Crossman:I'm afraid I'm tied up then.
+Shaw:The only other time I'm free is Tursday morning. That's the 21st. How about then
+Crossman:Well, I've got another appointment, but I think I can cancel it. Would 10:30 be convenient for you
+Shaw:That would be fine, and I'm sorry to have been such a nuisance.
+Crossman:It's quite all right.
+Shaw:I'll see you on Thursday at 10: 30, then. Thank you, Mr. Crossman.
+Crossman: Good bye.
+
+상황 638 약속 날짜 변경
+
+크로스맨:조 크로스맨입니다.
+쇼:안녕하십니까. 크리스틴 쇼입니다. 18일 약속때문에 전화를 드렸는데, 유감스럽게도 지키지 못할 것 같습니다.
+크로스맨:저런...
+쇼:대신 20일이 시간이 나는지요
+크로스맨:유감스럽게도 그 땐 제가 바쁠 것 같습니다.
+쇼:제가 시간이 나는 날은 목요일 오전뿐입니다. 21일은 어떨까요
+크로스맨:글세요. 약속이 있긴 한데, 취소할 수 있을 것 같습니다. 오전 10시 30분은 어떨까요
+쇼:좋습니다. 불편을 드려 죄송합니다.
+크로스맨:아닙니다. 괜찮습니다.
+쇼:그럼 목요일 오전 10시 30분에 뵙겠습니다. 편의를 봐주셔서 감사합니다. 크로스맨씨.
+크로스맨:안녕히 계십시요.
+
+<어구연구>
+
+쇼는 크로스맨씨와의 약속을 지키지 못할 것같아 약속날짜를 변경하고자 한다.
+
+"약속"하면 보통 promise를 떠올려 '약속이 있다'를 
+I have a promise.라고 한다. 하지만 이는 어색한 표현이다. promise는 '어떤 일을 하기로', '하지 않기로 약속했다'의 의미로 쓰인다. 
+
+I promised to give him a call.(나는 그에게 전화하기로 약속했다.)
+
+에서와 같은 표현에서 쓰인다.
+
+업무상 약속은 
+
+I have a meeting. or I have an appointment.
+
+'선약이 있다' 는 I have a prior engagement. 
+이다.
+
+
+
+
+Situation 637 A checkout
+
+Park:This is Sangmin Park in room 350.I'd like to check out now.Would you send someone up here to get my baggage
+Tom:I'll send a porter right away. How many pieces of baggage do you have
+Park:I have two suitcases.
+Tom:Did you get any other service besides breakfast this morning
+Park:Nothing.How much is the charge
+Tom:Just a moment. Here is your bill.
+
+상황637 체크아웃
+
+박상민:350호의 박상민입니다. 지금 체크아웃을 하고 싶은데, 짐을 운반할 사람을 보내주시겠습니까
+톰:바로 포터를 보내겠습니다. 짐은 몇개나 있습니까
+박상민:옷가방 두개입니다.
+톰:오늘 아침 식사 이외의 다른 서비스를 받으셨습니까
+박상민:아닙니다. 요금이 전부 얼마지요
+톰:잠시만요, 계산서 여기 있습니다.
+
+<어구연구>
+
+호텔에서 체크아웃과 관련된 어구를 알아두자.
+
+I'd like to check out now. My bill, please.
+(지금 체크 아웃하고 싶습니다. 계산서 부탁해요.)
+This is room 1320. I'm going to check out at 11 o'clock.
+(1320호실입니다. 11시에 체크아웃하겠습니다.)
+How much is the charge
+(요금이 전부 얼마지요)
+I think there's been a mistake in my bill.
+(제 청구서에 뭔가 잘못이 있는 것 같습니다.)
+Willl you explain this charge
+(청구금액에 대해 설명해 주시겠어요)
+
+관련용어
+
+receipt:청구서 service charge:서비스요금
+hotel charge:호텔요금
+
+
+
+
+
+Situation 636 A bank
+
+Kim:Excuse me, May I exchange foreign currency
+Park:At the Foreign Currency Exchange counter over there, sir.
+Kim:I'd like to change Korean won into U.S dollars.What's the exchange rate today
+Yoon:It's 1,100 won to a dollar. How much would you like to change
+Kim:300, 000 won, please. And would you also cash this traveler's check
+Yoon:I need to see some identification first.
+Kim:Here is my passport. 
+Yoon:That's enough. Total amount is 272 dollars and 72 cents.How would you like it
+Kim:3 fifties, 8 tens and the rest in coins.
+Yoon:Okay. Here you are.
+
+상황 636 은행
+
+김규형:실례합니다. 환전할 수 있습니까
+박순영:저쪽에 있는 환전창구에서 할 수 있습니다.
+김규형:한구그이 원화를 달러화로 바꾸고 싶은데요.
+윤대원:달러당 1,100원입니다. 얼마를 바꾸실 겁니까
+김규형:30만원입니다. 그리고 이 여행자 수표도 현금으로 바꿔주세요.
+윤대원:먼저 신분증 주시기 바랍니다.
+김규형:여기 여권 있습니다.
+윤대원:그러면 충분합니다. 모두 272달러 72센트군요. 어떻게 드릴까요
+김규형:50달러짜리 지폐 3장과 10달러짜리 8장으로 주시고,나머지는 잔돈으로 주세요.
+윤대원:알겠습니다. 여기 있습니다.
+
+<어구연구>
+
+김규형은 은행에서 원화를 달러로 환전하고 있다. 환전할 때 쓸 수 있는 간단한 회화들을 정리해 보자.
+
+1.여행자 수표 및 잔돈바꾸기
+
+Will you change thi to dollars, please
+(이걸 달러로 바꿔주시겠어요)
+What's the exchange rate for Korean won
+(한국 원화의 환율은 얼마죠)
+What is the fee for exchange
+(환전 수수료는 얼마죠)
+May I buy traveler's checks here
+(여기서 여행자 수표를 구입할 수 있나요)
+
+2.예금및 인출
+
+Are there any banks open on Sunday
+(일요일에 영업하는 은행이 있습니까)
+Can I get 300 dollars with this VISA card
+(이 비자카드로 300달러를 인출할 수 있을까요)
+I want to withdraw 50 dollars, please.
+(50달러를 인출하고 싶습니다.)
+Do you have anything to identify yourself with
+(신분을 증명할 만한 것을 가지고 있습니까)
+
+
+
+
+
+
+Situation 635 A company introduction
+
+Lim:Let me give you a brief rundown on our company.We're a manufacturer 
+of computer equipments.
+We hve a 15% market share in the country. It's now capitalized at 12 billion won and has 2000 employees.
+Smith:What's the total amount of your annual sales
+Lim:Our sales amount was about 200 billion won.Nwt profits were about 30 billion won last year.
+Smith:How many overseas offices do you have
+Lim:Twenty.We have branch offices in many major countries.
+Smith:What's your recent business record
+Lim:We've developed new technology to compete with the rivals.If things continue at the same pace, we seem to be headed for a 6% profit increase overlast year.
+Smith:Which product is growing in sales
+Lim:Electronic components.Due to the informaiton age, sales showed a 20% increase over last year.
+
+상황 635 회사 소개
+
+임병완:저희 회사를 간단하게 소개해드리겠습니다. 저희회사는 컴퓨터 부품을 조립하는 회사입니다. 저희는 국내에서 15%의 시장을 점유하고 있습니다. 현재 자본금이 120억원에 2천명의 사원이 있습니다.
+스미스:연간 거래 규모는 얼마나 됩니까
+임병완:대략 2000억원이었습니다. 작년 순이익은 300억원이었구요.
+스미스:해외에 지사는 얼마나 있습니까
+임병완:20개입니다. 저희 회사는 주요 국가에 지사를 두고 있습니다.
+스미스:최근이 사업실적으 어떤가요
+임병완:다른 회사와 경쟁하기 위해 신기술을 개발했습니다. 이 상태로 가면 작년보다 6% 정도 이익이 상승할 것으로 생각됩니다.
+스미스: 특히 매출이 늘어나는 상품은 무엇입니까
+임병완:전자부품입니다. 정보화 시대의 도래로 작년 매출액이 20% 증가했습니다.
+
+<어구연구>
+
+임병완은 스미스씨에게 회사를 소개하고 있다. 
+회사 소개와 관련된 다양한 표현들을 알아보자.
+
+1.회사소개
+
+The capital of our company is twenty five million dollars.
+(저희 회사의 자본금은 2천 5백만 달러입니다.)
+Net profits were about ten milion dollars last year.
+(작년 순이익은 약 1천만 달러였습니다.)
+Our accounts are settled twice a year.
+(저희 회사는 6개월마다 결산합니다.)
+Our company started as a pater manufacturer.
+(저희 회사는 제지 제조회사로 출발했습니다.)
+We are dealing with more than twenty countries.
+(저희 회사는 20개국 이상과 거래가 있습니다.)
+
+2.회사에 관한 질문
+
+We've increased our efficiency by 15% through automation.
+(저희는 자동화를 통해서 생산성을 15% 증가시켰습니다.)
+Is your line of business profitable
+(당신의 업종은 수지가 맞습니까)
+Are things beginning to look up
+(경기가 호전되고 있습니까)
+What is your average margin of profit
+(평균적인 이익 마진은 어느 정도입니까)
+Have you had much experience selling in Korea
+(한구에서 풍부한 판매 경험을 가지고 있습니까)
+What do you make
+(무엇을 제조하고 있습니까)
+
+관련용어
+
+모회사:parent corpopration:parent company
+자회사:subsidiary corporation
+본사:headquarters
+지방:local branch
+해외:overseas production
+시장조사:market research
+고정자본:fixed capital
+관세장벽:tariff barrier
+현지법인:local company
+
+
+
+
+Situation 634 A train
+
+Hong:Excuse me, is this seat No.45
+Kim:Yes, right here.How far are you going
+Hong:I'm goind to Gyeongju.
+Kim:Oh, are you That's where I'm going, too.
+Hong:That's very good. What's Gyeongju famous for
+Kim:It has some beautiful old temples, many great king's tomb and museums.
+
+상황 634 기차
+
+홍민상:실례합니다. 여기가 45번 좌석인가요
+김기태:예, 맞습니다. 어디까지 가십니까
+홍민상:경주에 갑니다.
+김기태:오 그러세요 저도 거기까지 가는데요.
+홍민상:잘되었네요. 경주는 무엇으로 유명합니까
+김기태:여러 아름다운 사찰과 수많은 왕릉, 박물관등이 있습니다.
+
+<어구연구>
+
+오늘은 기차안에서 이뤄지는 간단한 회화이다. 관련된 다양한 표현을 익혀두자.
+
+1.기차표사기
+
+How much is the fare to Busan
+(부산까지 요금이 얼마죠)javascript:isvalid()
+Will you show me how to use this vending machine
+(자동 판매기의 사용법을 가르쳐 주시겠습니까)
+Two tickets for adults and one for a child to Suwon, please.
+(수원까지 어른 2장, 어린이 1장 주십시요.)
+I'd like three one-way tickets to Andong.
+(안동까지 편도표 3장 주세요.)
+
+2.정차역, 출발시간등에 관해 묻기
+
+What time does the train start
+(몇 시에 열차가 출발합니까)
+I'm going to Chuncheon. Which track does the train leave from
+(춘천에 가려고 합니다. 기차가 어느 홈에서 출발합니까)
+How often do the trains run
+(열차는 몇 분 간격으로 다닙니까)
+
+3.열차타기
+
+Is this the right train for Seoul
+(이 열차가 서울행입니까)
+What track does the train for Hongseong leave from
+(홍성행 열차는 몇 번 노선에서 탑니까)
+
+
+
+Situation 653 Cost consulting
+
+Henry:I can see that your product is top quality.But the problem is its price.Isn't that a little high
+Hong:Our price can meet any competition in the market. It has such an excellent function.I think it's a bargain for you even at fifty dollars.
+Henry:Even if it sells well in Korea at this price, it would be considered expensive in America.But forty five dollars per unit might work.
+Hong:Forty five dollars is too low. But if you order 5,000 units, we can giveyou a 5% discount. If the order is 10,000 units, we can offer a 7% discount at the most.
+Henry:Isn't it possible to give us a little more discount How about forty seven dollars per unit
+Hong:Frankly speaking, forty seven dollars is too low.Our profit margin is notthat large.
+
+상황 653 가격 상담
+
+헨리:제품이 좋다는 건 알겠지만,문제는 가격입니다.좀 비싸지 않나요
+홍상현:저희 제품은 시장에서 가격경쟁력이 있습니다. 기능도 뛰어나구요.50 달러면 값이 싸다고 생각합니다.
+헨리:한국에서는 그 가격에 팔 수 있어도 미국시장에서 그 가격으로 팔기는 좀 힘듭니다. 개당 45 달러면 모를까요.
+홍상현:45달러는 너무 쌉니다. 그러나 만약에 5천개를 주문하신다면 5% 를 할인할 수 있고, 1만 개 하시면 7%까지 할인이 가능합니다.
+헨리:조금 더 할인해 주실 수 없겠어요 개당 47 달러면 좋겠는데요.
+홍상현:솔직히 말해서 47달러는 힘듭니다. 이익이 그렇게 많이 남지 않습니다.
+
+<어구연구>
+
+홍상현은 헨리와 가격상담을 하고 있다. 가격이 좀 비싸지 않냐는 헨리의 질문에 그는 
+
+Our price can meet any competition in the market.
+
+라며 대답을 한다.
+
+이와 비슷한 표현으로는
+
+This price is competitive in the market.
+
+으로, [비싸다]란 표현은
+
+We're not satisfied with your quotations.
+(귀사의 견적 가격으로는 만족할 수 없군요.)
+That'sj way over our head.(그건 우리 능력으로는 안되겠습니다.)
+Can't your quote us anything cheaper
+(좀더 싸게 부를 수는 없습니까)
+
+로 간단히 말할 수 있다.
+
+
+
+
+
+
+Situation 652 A shipment
+
+Kim: Mr. Tracy, how did you find that last lot of binders
+ Tracy: Generally speaking, it was okay, but some of them had serious defects.
+Kim : Oh, sorry to hear that. From now on you`ll find our goods and services most satisfactory, I`m sure.
+Tracy : I sure hope so, but mind you, if there are any defects, you`ll have to answer for them.
+Kim : Take my word for it, everything will go perfectly smooth from now on.
+Tracy : It would better be. Otherwise, I`ll have to answer to my boss for it personally. 
+
+상황 652 선적
+
+김광수 : 트레이시씨, 지난번 선적한 바인더 어떻든가요
+트레이시 : 대체적으로는 괜찮았습니다. 그러나 몇 개에는 심한 하자가 있었 습니다
+김광수 : 저런, 그렇다니 죄송하군요. 앞으로는 제품과 서비스 모두 틀림 없이 해드릴 것을 약속 드립니다.
+트레이시 : 꼭 그렇게 해주시기 바랍니다. 그리고 분명히 밝혀두지만, 만일 하자가 발생하다면 귀 사에서는 그에 대한 책임을 지셔야 합니다.
+김광수 : 제 말을 믿으세요, 앞으로는 모든 것이 다 잘될 테니까요.
+트레이시 : 잘되어야 합니다. 그렇지 않으면 제가 사장님께 그에 대한 책임 을 져야 할 테니까요. 
+
+<어구연구>
+
+한국의 대한상사는 지난번 미국의 ABC사로 바인더를 선적한 바가 있 다. 그래서 대한상사의 김광수는 이번에 한국을 직접 방문한 트레이시씨에게,
+
+How did you find that last lot of binders (바로 지난번에 선적한 바인더는 어떻든가요)
+
+라고 물어보고 있다
+
+같은 표현으로는
+
+What do you think about that last lot of binders (바로 지난번 선적한 바인더는 어떻게 생각하십니까)
+How do you like that last lot of binders (지난번 보내 드린 바인더는 마음에 드십니까)
+
+가 있다.
+
+
+
+Situation 651 An opinion
+
+Peter:What's your account on the Korean investment trust industry
+John:Well, Korean financial intermediaries are, in general, not considered by their customers to be trustworthy as they often put their own interests before those of customers.One recent example would be investment trust companies illegally transferring hard-pressed bonds from their accounts to those of customer's simply to cover their losses.Another example would be brokerage houses encouraging officials to trade customers' stocks under their supervision as frequently as possible just to increase their trading commission income, and ignoring the risk to customers.
+Peter:Yes.These malpractices amount to obvious exploitation of customers by financial institutions. What allows the ITCs to abuse their customers is the failure of the financial authorities to properly oversee their operations and enforce strict regulations.
+John:But even under lax regulations, financial intermediaries should refrain from exploiting investors because, in the end, abusive practices are ultimately self-defeating. the continued outlflow of funds from ITCs speaks for itself.
+Even after much of the uncertainty involving the Daejin Group has subsided ,the outflow trend reflects the difficulties of regaining customer's confidence.
+Peter: Precisely.It is in this light that the Korean government should impose harsher regulations to those venture capital companines who would disrupt the market, inadvertently or not.
+
+상황 651 의견
+
+피터:한국의 투신업에 대해 어떻게 생각하십니까
+존:전반적으로 한국의 투신사들은 고객보다는 자신들의 이익을 추구하기 때문에 고객들로부터 신용을 얻지 못하고 있다고 생각합니다. 최근에 투신사들이 자신들의 이익만을 지키기 위해 불법적으로 비수익 채권을 자신들의 계좌에서 고객들의 계좌로 전환시킨 것이 그 예 가운데 하나입니다. 그리고 고객들의 증권을 그들의 관리 아래 거래하게끔 하여 단지 자신들의 거래 수수료 수입을 올리기에 급급했던 것도 또 하나의 예입니다.
+피터:맞습니다. 이러한 과실이 결과적으로 투신사드이 고객들에게 손해를 입히는 것이비낟. 투신사들이 고객드을 악용할 수 있게끔 하는 것은 정부가 그들의 영업 실태를 감독하지 못하고, 도 엄격한 규제를 시행하지 못했기 때문입니다.
+존:하지만 규제가 아무리 느슨할지라도 끝내는 자신을 파괴하는 악행이므로 투신사들은 고객의 불이익을 초래하는 행위는 삼가야 할 것입니다. 지속되는 자금 유출의 동향은 이러한 점을 명확히 보여주고 있습니다. 대진 그룹의 불확실성이 거의 잠잠해진 후에도 지속되는 자금 유출은 고객 신뢰를 다시 얻는다는 것이 얼마나 힘든가를 보여주고 있습니다.
+피터:맞습니다. 이러한 점을 고려해 볼 때 한국 정부는 시장을 혼란케 하는 투신사에 대해 그 행위가 고의가 아니었다 할지라도 좀더 가혹한 처벌을 가해야 할것입니다.
+
+<어구연구>
+
+미국의 한 투자회사가 한국의 진출을 고려하는 과정에서 전문고문의 소견을 들어보지만, 만족스럽지 못한 대답을 듣게 된다. 오늘 대화는 관련업계의 도덕과 관례, 문제점에 대한 서로의 의견을 주고받는 내용이다.
+
+단어와 표현을 정리해 보자.
+
+account:평가, 고려, 기술, 기사
+intermediary:매개자 중재인
+put one's interest before else's :타인의 이익보다는 자신의 이익을 더 추구하다.
+hard-pressed:아주 곤란한 처지에 몰려있는
+brokeerage house:중개소
+commission:수수료
+malpractice:과오, 배임행위
+exploitation:이기적 이용, 착취
+abuse:남용, 악용, 오용
+oversee:두루 살피다
+enforce:시시하다. 집행하다.
+refrain:그만두다, 삼가다
+ultimately:최후로
+self-defeating:자신을 파괴하는
+speak for itself:스스로 명백해지다.
+inadvertently:부주의한, 소홀한, 태만한
+
+
+
+
+
+
+Situation 650 A meeting
+
+Choi:Shall we begin Please look at the second page of the handout.
+Mac:I'd like to ask you something.
+Choi:kWhat's it about
+Mac:I think the production cost makes the export plan difficult.Is that right
+Choi:I see it that way, too.
+Mac:How about considering pverseas production
+Kim:So, we've created a subsidiary to explore new business opportunities.
+Choi:We'd like you to join us in this development project.
+Mac:No,I don't think the time is right yet.
+Choi:What problem do you see
+Mac:I cannot be so sure.I think more careful research will be needed.
+Choi:I see thing somewhat differently.I see it as a good opportunity rather than a rist.
+Mac:I don't understand what you mean. Would you explain it a little further
+Choi:I mean it is good timing to move into the Korean market because..
+Mac:I see. That explains things a little better.
+Choi:We'd like your company to cooperate with us on this project.
+Mac: O.K, we'll accept your offer.
+
+상황 650 회의
+
+최인규:시작할까요 자료 2페이지를 봐주세요.
+맥:잠깐 질문이 있습니다.
+최인규:말씀하세요.
+맥:그 계획의 차질 원인은 생산원가에 있다고 하는데 맞습니까
+최인규:맞습니다.
+맥:해외 현지 생산 방법을 생각해 보시면 어떻습니까
+김규현:그래서 우리는 새로운 사업 기회를 모색하기 위해 자회사를 설립했습니다.
+최인규:이번 개발 계획에 귀사가 꼭 참여해 주셨으면 합니다.
+맥:아직은 그 시기가 아니라고 생각합니다.
+최인규:무슨 문제가 있습니까
+맥:그다지 자신할 수 없군요.좀 더 세밀한 시장조사가 이루어져야 한다고 생각합니다.
+최인규:저는 좀 다르게 봅니다. 제가 보기에는 오히려 지금이 기회라고 생각합니다.
+맥:말씀하시는 뜻을 잘 모르겠습니다. 어떤 의미인지 좀 더 자세히 설명해 주시겠습니까
+최인규:제 말은 한국 시장에 진출하는데는 지금이 좋은 기회라는 뜻입니다. 왜냐하면...
+맥:그렇군요. 그 설명으로는 납득이 갑니다.
+최인규:우리는 이 계획을 귀사와 공동으로 진행시키고 싶습니다.
+맥:좋습니다. 제안을 받아들이겠습니다.
+
+<어구연구>
+
+최인규는 맥과 상담을 하고 있다. 맥은 처음에 계약에 대해 회의적인 태도를 보였으나, 최인규의 설명을 듣고 제안을 받아들이기로 결심한다.
+
+공동 사업을 제시할때
+
+We'd like you to join us in this development project.
+(이 번 개발계획에 참여를 해주셨으면 합니다.)
+
+또는
+
+We'd like your company to cooperate with us on this project.
+
+We'll be pleased to work with you.
+
+공동진행을 거절할 경우
+
+I am afraid that this time we won't be able to work with you on this project.
+
+로 표현할 수 있겠다.
+
+
+
+
+
+Situation 649 A drink
+
+Hwang:Hello!May I sit here
+Jung:Sure.Please sit here at the bar. What would you like to drink
+Hwang:Would you show me the drink list Scotch on the rocks, please.And do you have anything to eat
+Jung;We have crackers, nuts and cheese.This is he menu.
+Hwang:I'll have the crackers.This bar is cozy and comfortable.
+Jung:Thank you. Would you like another drink
+Hwang:No, thank you. How much is it
+Jung:Four dollars and fifty cents.
+
+상황 649 술
+
+황서현:안녕하십니까 여기 앉아도 될까요
+정윤상:예,카운터에 앉으십시요. 뭘 드시겠습니까
+황서현:메뉴판을 주시겠습니까
+정윤상:스카치 온 더 락스로 부탁합니다. 안주는 무엇이 있나요
+황서현:크래커랑, 땅콩, 치즈가 있습니다. 메뉴를 보세요.
+정윤상:크래커 한 접시 주세요. 이 술직은 아늑하고 편안하군요.
+황서현:감사합니다. 한 잔 더 하시겠습니까
+정윤상:아뇨, 됐습니다. 얼마죠
+황서현:4달러 50센트입니다.
+
+<어구연구>
+
+황서현은 퇴근 후 회사근처 술집을 찾았다. 자리에 앉은 후 술을 주문한다.
+
+주문할 때는
+
+Will you show me the wine list
+(와인 리스트를 보여 주시겠어요
+Do you serve wine by the glass
+(포도주를 잔으로도 팝니까)
+I'd like some local wine.
+(이 고장의 술을 마시고 싶습니다.)
+Give me a Scotch and water.
+(물 탄 스카치를 주십시요.)
+
+로 상황에 따라 다르게 표현할 수 있다.
+
+
+술의 종류에 대해 간략히 정리해 보자.
+
+식사전에 마시는 술:Cocktail, Vermouth
+스프와 어울리는 술:Sherry
+생선요리와 어울리는 술:White wine
+육류 요리와 어울리는 술:Red wine
+구운 요리에 어울리는 술:Champagne
+커피 마신 훼 어울리는 술:Liqueur
+
+
+
+
+Situation 648 Debating over an issue
+
+John:OK. The next item is the sales office phone lines. Since this is your proposal , Mark, could you fill us in on the details, please
+Mark:At present the phone lines shut down at six o'clock sharp in the evening. Customers can't get through after that. I'd like to keep them open until maybe nine or ten o'clock.
+Mary:Does that mean you want to take on more sales staff, then
+Mark:Yes, but just a couple of people at first.
+Mary:Do you suppose we're going to sell enough to cover the extra cost
+Mark:I can't promise you that, but I'd like to try and see.
+John:It's an interesting idea, and a necessary one, too. Why don't we have trial period
+Mary:That would suit me just fine.
+Jonh:Mark, can you deal with that, please
+Mark:Yea, of course. I just need to do a mailshot to our customers and we can get rolling next week.
+John:Good. Well, I think we should review this in two months. Does everyone agree
+Mary:Yes, that's fine.
+Mark:Yeah, OK.
+John:Right then.Is there any other business to discuss or shall we break for lunch
+
+상황 648 안건 토론
+
+존:좋습니다. 다음 조항은 영업 사무소의 전화선에 관한 겁니다. 마크 당신 제안이니 세부 사항에 대해서 요약 좀 해 주시겠습니까
+마크:현재로선 저녁 6시 정각이면 전화선이 차단됩니다. 그 이후론 고객들이 전화를 할 수 없습니다. 제 생각엔 9시나 10시까지 연장ㅎ는 게 좋을 것 같습니다.
+메리:영업부 사원을 좀더 고용하자는 것입니까
+마크:그렇습니다만, 우선적으로 두 명 정도면 됩니다.
+메리:추가 비용을 충당할 수 있을 만큼 매출을 올리 수 있다고 생각하십니까
+마크:확답을 드릴 수는 없지만, 시도해 보고 결과를 보고 싶습니다.
+존:흥미로운 제안이고 또 필요한 것입니다. 시험 기간을 가져보는 것이 어떻겠습니까
+메리: 저는 좋습니다.
+존:마크, 좀 처리해 주시겠습니까
+마크:예, 물론입니다. 고객들에게 우편으로 광고를 하면 되니까 다음주에는 시작할 수 있습니다.
+존: 좋습니다. 두 달 후에 재점검을 하는 것이 좋을 것 같습니다. 모두 동의합니까
+메리:예, 좋습니다.
+마크:예, 좋습니다.
+존: 그럼 좋습니다. 더 상의해야 할 일이 있습니까, 아니면 점심 시간도 됐으니 휴회하겠습니까
+
+<어구연구>
+
+영업소의 근무시간 연장과 관련한 우편광고, 시번기간, 인력, 그리고 비용에 관해 회의를 하고 있다. 본담당자에게 문제 안건에 대해 보고를 해달라고 요청을 할 때는
+
+Could you fill us in on the details, please
+(세부 사항에 대해 요약해 주시겠습니까)
+
+이다. 희외중 정보 등을 '요약하다'라고 말할 때엔, fill...in외에도 brief(간단히 알리다, 말하다, 요약하다), run through(...을 대충 훑어보다, 통독하다), run...by(...에게 간략하게 얘기하다), bring...up to speed(회의 등을 하기 전에 예비 지식을 주다)와 같은 표현들이 있다.
+
+Could you brief him on the current situation
+(그에게 현상황을 간단히 알려주시겠습니까)
+Would you run me through the statistics once more
+(통계표에 대해 제게 다시 한 번 간략하게 설명해 주시겠습니까)
+Could you run that by me again
+(그걸 제게 다시 한 번 알려주시겠습니까)
+Bring Mr.Kennedy up to speed on the department's personnel.
+(케네디씨께 부서의 인원에 대해서 말씀해 주십시요.)
+
+
+
+
+Situation 647 A guest
+
+Smith:Hello, Mr.Kim. Thank you for coming to meet me.
+Kim:Welcome to Korea, Mr.Smith.It's nice to see you again.Did you have a good flight
+Smith:Yes, it was very pleasant.
+Kim:Mr.Smith, shall I take you to the hotel
+Smith:Yes, I think that would be best.
+Kim:Did you make reservations for a hotel tonight
+Smith:Yes, I'm booked at the Seoul Plaza.
+Kim:Unfortunately it's raining today, but only very lightly.The forecast says it's going to be sunny tomorrow. Here's the taxi stand.Let's take this one.
+Smith:How much longer will it take to the hotel
+Kim:I think we'll arrive in an hour.Is this your first trip to Korea
+Smith:Yes, it is.
+Kim:I'll show you around while you're here.If you have any particular places you'd like to go, please let me know.
+Smith:Thank you. Is your office far from the hotel
+Kim:No. It takes only 10 minutes by taxi. After we get to the hotel, would you like to have dinner with me
+Smith:Fine, but before that, I'd like to take a shower and rest just a bit.
+Kim:I'll call you later.
+
+상황 646 손님
+
+스미스:미스터 김, 나와주셔서 감사합니다.
+김한규:한국에 잘 오셨습니다. 다시 만나뵙게 되어 기쁩니다. 비행기 여행은 편안하셨습니까
+스미스:네, 아주 좋았습니다.
+김한규:스미스씨, 지금 호텔로 모셔다 드릴까요
+스미스:네, 그게 좋을 것 같군요.
+김한규:오늘밤 호텔을 예약하셨나요
+스미스:서울 프라자 호텔에 예약했습니다.
+김한규:오늘은 비가 공교롭게도 비가 오네요. 하지만 가랑비니까 염려하지 않으셔도 됩니다. 내일은 갠다고 하는군요. 여기가 택시 승강장입니다. 택시를 타시죠.
+스미스:호텔까지 얼마나 걸리죠
+김한규:약 1 시간이면 도착합니다.한국 여행은 이번이 처음이세요
+스미스:네.
+김한규:머무시는 동안 제가 안내해 드리겠습니다. 특별히 가고 싶은 곳이 있으면 어디든 말씀해 주세요.
+스미스:고맙습니다. 사무실이 호텔에서 먼가요
+김한규:아니요, 택시로 10분이면 됩니다.호텔에 도착한 후 저와 저녁식사를 하시겠어요
+스미스:좋습니다. 하지만 그 전에 샤워를 하고 잠깐 쉬고 싶습니다.
+제가 전화 드리죠.
+
+<어구연구>
+
+김한규는 공항에서 스미스씨를 만나 택시로 이동중에 대화를 나누고 있다.
+스미스는 한국이 초행이기에 김한규는 그에게 시내 관관을 약속하고, 저녁식사 초대를 제안한다.
+
+초면인 사람을 마중할 때 표현을 알아보자.
+
+Excuse me, I'm looking for Mr.Brown from Hughes Electronics.
+(실례합니다, 휴즈 일렉트로닉스에서 오신 브라운 씨를 찾고 있습니다.)
+I'm delighted to meet you, Mr.Cameron. I've heard so much about you from Mr.Johnson.
+(카메론씨, 만나뵙게 되어 기쁩니다. 존슨 씨로부터 많이 들었어요.)
+I've bought my car, so I can drive you to your hotel.
+(차가 있으니 호텔까지 모셔드리겠습니다.)
+
+아는 사람을 마중할 때는
+
+It's a pleasure to see you again.(다시 만나게 되어 반갑습니다.)
+I'm Juhan Park. We met the last time you visited Korea.
+(저는 박주한입니다. 당신이 지난 번 한국을 방문했을 때 만났었지요.)
+I've been informed of your visit from Mr.Smith.
+(스미스 씨로부터 당신이 오신다는 소식을 들었습니다.)
+
+와 같은 표현들이 있다. 
+
+
+
+
+
+
+
+Situation 646 A company introduction
+
+Kang:Let me give you a brief rundown on our company.We're a manufacturerof computer equipment. It's now capitalized at 12 billion won and has 2,000 employees.
+Brown:What's the total amount of your annual sales
+Kang:Our sales amount was about 200 billion won. Net profits were about 30 billion won last year.
+Brown:How many overseas offices do you have
+Kang:Twenty. We have branch offices in many major countries.
+Brown:What's your recent business record
+Kang:We've developed new technology to compete with the rivals. If things continue at the same pace, we seem to be headed for a 6% profit increase over last year.
+Brown:Which product is growing in sales
+Kang:Electronic components.Due to the information age, sales showed a 20% increase over last year.
+
+상황 646 회사 소개
+
+강규형:저희 회사를 간단히 소개하겠습니다. 저희 회사는 컴퓨터 부품을 제조하는 회사입니다. 저희는 국내에서 15%의 시장을 점유하고 있습니다. 현재 자본금이 120억원에 2천명의 사원이 있습니다.
+브라운:귀사의 연간 거래 규모는 얼마나 됩니까
+강규형:대략 2000억원이었습니다.작년 순이익은 300억원이었습니다.
+브라운:해외에 지사는 얼마나 있죠
+강규형:20개입니다.저희 회사는 주요 국가에 지사를 두고 있습니다.
+브라운:최근의 사업 실적은 어떤가요
+강규형:다른 회사와 경쟁하기 위해 신기술을 개발했습니다. 이 상태로 가면 작년보다 6%정도 이익이 상승할 것으로 예상됩니다.
+브라운:틀히 매출이 늘어나는 상품은 무엇입니까
+강규형:전자부품입니다. 정보화 싣의 도래로 작년 매출액이 20% 증가했습니다.
+
+<어구연구>
+
+강규형은 브라운에게 그가 운영하는 회사를 소개하고 있다. 브라운은 연간거래 규모, 지사, 주요 매출상품등에 대해 상세히 묻고 있다. 
+
+회사의 사정이 어떠한지 상황을 알고 싶을 때는
+
+Has your business been affected by the recession
+(경기 후퇴로 당신의 사업도 영향을 받았습니까)
+Is your lin of business profitable
+(업종이 수지가 맞습니까)
+Are things beginning to look up
+(경기가 호전되고 있습니까)
+How much has your business grown over the past five years
+
+로 물어 볼 수 있겠다.
+
+
+
+
+
+Situation 645 Absence
+
+Han:Hello This is Seong gyu New World Company. May I speak to Mr.Sangho Park 
+Park:I'm sorry, he is out now. And he'll be back at around three o'clock.
+Han:Is there anyone else who knows about the A project
+Park:I'm sorry. Mr.Park is the only one who is authorized to speak on that matter.
+Han:I see, would you get him to call me back when he returns
+Park:Certainly. May I have your name and telephone number again
+Han:I'm Han Seong gyu and my phone number is 235-5678.
+
+상황 645 부재중
+
+한성규:안녕하세요, 뉴월드사의 한성규입니다. 박상호씨와 통화할 수 있을까요 
+박지면:지금은 외출중이신데, 3시쯤이면 돌아오실 겁니다.
+한성규:A프로젝트에 대해 아시는 분이 계신가요
+박지면:죄송하지만 미스터 박만이 답변해 드릴 수 있습니다.
+한성규:알겠습니다. 돌아오시면 전화 좀 부탁드리겠습니다.
+박지면:알겠습니다. 성함과 전화번호를 다시 말씀해 주시겠습니까
+한성규:저는 한성규구요, 전화번호는 235-5678번입니다.
+
+<어구연구>
+
+한성규는 박상호에게 전화를 걸지만 그는 부재중이다. 이름과 전화번호를 말하며 전화를 끊는다.
+박상호씨가 외출중입니다란 표현을 박지만은 다음과 같이 하고 있다.
+
+He is out now.
+
+이와 같은 표현들은 
+
+I'm sorry, he's away from the office.
+Mr.Park is not at his desk right now.
+I'm sorry, he's just left.
+I'm sorry, he's out of town now.(출장중입니다.)
+
+"잠시만 기다려 주십시오" 는
+
+Just moment, please.
+One moment, I'll connect you.
+Just a second, please.
+Hold on a minute, please.
+
+가 주로 쓰인다.
+
+
+
+
+
+Situation 644 A boarding
+
+Jung:This way, please.Korean Airlines desk is over there.
+Yoon:Good morning. May I help you
+Kim:Here are my ticket and passport.
+Yoon:Which seat would you like
+Kim:I'd like a seat by the window.
+Yoon:How many pieces of baggage
+Kim:Three pieces altogether. Will you please put 'fragile' on this bag
+Yoon:All right. Here are your passport and boarding pass.
+Jung:I guess it's time to say good-bye. Have a nice flight.
+Kim:Thank you very much. Good-bye.
+
+상황 644 탑승수속
+
+정성묵:이쪽으로 오세요. 대한항공 창구가 저쪽에 있습니다.
+윤준원:안녕하세요.뭘 도와드릴까요
+김상민:여기에 제 티켓과 여권이 있습니다.
+윤준원:어떤 좌석을 원하세요
+김상민:창가쪽 좌석 주세요.
+윤준원:수하물은 몇개입니까
+김상민:모두 3개입니다. 이 가방에는 '파손주의'라고 붙여주세요.
+윤준원:알겠습니다. 여기 여권과 탑승권이 있습니다.
+정성묵: 이제 작별한 시간이군요. 좋은 여행이 되시길 바랍니다.
+윤준원:대단히 감사합니다. 안녕히 가십시오.
+
+<어구연구>
+
+정성묵은 김상민을 배웅하기 위해 공항에 나와, 김상민의 탑승수속을 지켜보고 있다. 티켓을 구입하고, 짐을 부치는 것으로 수속은 간단히 끝이난다.
+
+티켓을 구입할 때, 원하는 좌석구매는 다음과 같이 말할 수 있다.
+
+Please give me a window seat.
+I'd like a window seat, please.
+I'd like an aisle seat.(통로측 좌석을 주세요.)
+
+짐을 부치고자 할 때의 표현은..
+
+How much is the excess baggage charge
+(초과 요금은 얼마입니까)
+How many pieces of carry on baggage
+(기내로 가져갈 수 있는 짐은 몇개입니까)
+I'd like to check my baggage.
+(짐을 부치려고 합니다.)
+
+등으로 할 수 있다.
+
+
+Situation 633 A sending
+
+Kim: Mr Brown, when do you think a decision will be made on the contract
+Brown: Whenever the big boss gives the okay.
+Kim: Well, do you have any idea when that will be
+Brown: I can't give you a definite date at this point.
+Kim: But you'll be leaving soon.
+Brown: No problem. When I get back, I'll have the boss sign the papers, and then I'll put them in the mail. 
+
+상황 633 발송
+
+김기운: 브라운씨, 그 계약에 대한 결정이 언제 날 것 같습니까
+브라운: 사장님만 승인하시면 됩니다.
+김기운: 그러면 그게 언제쯤이면 될까요
+브라운: 지금으로서는 정확한 날짜를 말씀드릴 수가 없군요.
+김기운: 하지만 곧 떠나시잖아요.
+브라운: 염려마세요. 제가 돌아가자마자 사장님의 서명을 받아 그것을 우 송해 드리겠습니다. 
+
+<어구연구>
+
+브라운씨에게에게 계약의 종결을 언제 하겠느냐고 김기운이 묻자 브라운은
+
+When I get back, I'll have the boss sign the papers, and then I'll put them in the mail. (돌아가자마자 서류에 사장님의 서명을 받아 우송해 드리겠습니다.) 
+
+라고 약속을 한다. put them in the mail은 직역하면 '그 서류들을 우편물 속에 넣다'가 되 므로 곧 '우편으로 부치다'란 뜻이 되는 것이다. 다르게는
+
+I'll mail[post] them.
+I'll send them off in the mail.
+I'll have[get] them mailed.
+
+등으로 표현할 수도 있다
+
+
+
+
+
+
+Situation 662 A mistake 
+
+Smith: We found that you overcharged us $15.70 on our last invoice No. CK-3012.
+Kim: I'm terribly sorry. Mr. Brown. It was a typing error.
+Smith: The correct unit price is $1.35, but you charged $1.45, 10c (센트) more; therefore, 157 yeards X 10c(센트) = $15.70.
+Kim: Okay. How about if I make out a credit note for $15.70
+Smith: That's fine with me. Credit our account with $15.70 for the overcharge. 
+
+상황 662 착오
+
+스미스: 지난번 송장 CK-3012를 보니까 15달러 70센트를 과다청구하셨더군 요.
+김광현: 스미스씨, 대단히 죄송합니다. 타이핑 미스였습니다.
+스미스: 정확한 단가는 1달러 35센트인데 1달러 45센트, 즉 10센트 더 높 게 청구하셨어요. 그러 니까 157야드x10센트=15달러 70센트지요.
+김광현: 알겠습니다. 이 15달러 70센트에 대해서는 대변표를 발행하면 어 떨까요
+스미스: 좋습니다. 과다청구액에 대해서는 저희들 계정의 대변에 기입해 주십시오
+
+<어구연구>
+
+단가를 잘못 적용 한 것을 발견한 김광현은
+
+How about if I make out a credit note for $15.70 (15달러 70센트에 대해서는 대변표를 발행하면 어떨까요)
+
+라고 해결방안을 제시하고 있다. Credit Note(대변표)란 발행자가 상대방에게 지불할 것이 있는 것을 통지할 때 사용하는 전표(Note)를 말한다. credit이 동사 로 사용되면 '(남의' 대변 에 기입하다(enter on the credit side)'란 뜻이 된다.
+
+Please credit my account with $200. (우리와의 거래대차계정 대변에 200달러를 기입하여 주십시오.) 
+
+
+
+
+Situation 661 A mistake
+
+Han: I'm sorry to have kept you waiting, Mr. Tracy.
+Tracy: What did you find out
+Han: We've made a very embarrassing mistake, pleease forgive us.
+Tracy: That's all right. How did it happen I wonder.
+Han: Well, they were awfully short of time last week, and one of the young new typists mixed up your account with another one.
+Tracy: Oh, I'm glad you found that out.
+Han: Our invoice department is now making out the correct invoice for you.
+Tracy: Thank you. I'm very pleased we are able to get this settled so quickly. 
+
+상황 661
+
+한하운: 트레이시씨, 기다리게 해서 미안합니다.
+트레이시: 어떻게 했습니까
+한하운 정말 황당한 실수를 했습니다. 용서해 주십시오.
+트레이시: 괜찮습니다. 어떻게 해서 그런 착오가 일어났습니까
+한하운: 저, 지난주에 직원들이 굉장히 바빴거든요. 그래서 새로 들어 온 젊은 타이피스트 중의 한 명이 귀사와의 거래를 다른 회사의 것과 혼동을 한 겁니다.
+트레이시: 아, 발견이 되어서 다행입니다.
+한하운: 저희 송장담당부서에서 지금 정확한 금액의 송장을 작성하고 있 는 중입니다.
+트레이시: 감사합니다. 이 문제를 이렇게 빨리 해결할 수 있게 되어 아주 기쁩니다. 
+
+<어구연구>
+
+송장(Invoice)의 금액이 계약내용과 틀라자 트레이시씨는
+
+How did it happen (어떻게 해서 그런 착오가 일어났습니까)
+
+라고 다시 질문을 한다. 주로 이 표현은 사고가 일어났을 때 쓰이 는 말이다. 만일 한하운이 My house was broken into last night.(어젯밤 우리집에 도둑이 들었어.)라고 하는 말에 Jack이 How did it happen이라고 물었다면 이는 '어떻게 해서 도둑 을 맞게 되었니'라는 뜻이다. 다른 표현으로는
+
+I wonder how such a thing could happen. (어떻게 그런 일이 일어날 수 있었을까.)
+Tell me how such a mistake could happen. (어떻게 그런 착오가 생길 수 있었는지 얘기좀 해봐.)
+How could it happen (어떻게 그런 일이 일어날 수 있었을까)
+
+와 같은 것들이 있다. 
+
+
+
+Situation 660 A send off
+
+Brian:Thank you very much for sparing so much of your precious time.
+Kim:Would you please extend our greetings to your managers back home We'd like to have further technical cooperation in the future.
+Brian:Okay. I'll pass that on.
+Kim:Mr.Smith, the car's waiting. This way, please.
+Brain:Well, I have to say good-bye now. Thank you very much for your help.
+Kim:Good-bye. Have a nice flight.
+Hong:Mr.Smith, I'll take you to the airport.I'm glad business went well. What time is your flight
+Brian:At 4: 30. I have to be at the airport by 3:30.
+Hong:Here's the airport. I guess it's time to say good-bye.
+Brian:I really appreciate your help. Please give my thanks to your company.
+Hong:Thank you. I'm looking forward to seeing you again. Have a safe flight home.
+Brian:Thank you very much. Good-bye.
+
+상황 660 전송
+
+브라이언:오랫동안 귀한 시간 내주셔서 감사합니다.
+김광균:본국으로 돌아가시면 회사의 윗분께도 잘 전해주십시요.앞으로 서로협력해서 기술 개발에 힘쓰자구요.
+브라이언:알겠습니다. 그렇게 전하죠.
+김광균:스미스씨, 차가 기다리니 이리로 오시죠.
+브라이언:그럼 이만 작별해야겠군요. 친절히 대해주셔서 정말 감사합니다.
+홍현:스미스씨, 공항까지 모셔다 드리겠습니다. 일이 잘 되어 기쁩니다. 비행기 탑승시간은 몇시죠
+브라이언:4시 30 발이므로 3시 30분까지는 공항에 나가야 합니다.
+홍현:공항에 도착했습니다. 이제 작별할 시간이군요.
+브라이언:그동안 고마웠습니다. 회사 동료분들께도 고맙다고 전해주세요.
+홍현:저야말로 감사드립니다. 다시 뵙기를 고대할게요. 편안한 여행되십시요.
+브라이언:대단히 감사합니다. 안녕히 계십시요.
+
+<어구연구>
+
+브라이언은 한국을 떠나기 전 사람들의 전송을 받고 있다.
+4시 30분 발 비행기를 타야하므로 서둘러 공항으로 향하고 있다. 
+
+오늘은 탑승시간 및 게이트를 물어보는 표현을 익혀보자.
+
+What is the boarding time
+(탑승 시간은 몇 시입니까)
+What time do you start boarding
+(몇 시에 탑승합니까)
+Will this flight leave on time
+(이 항공편은 예정대로 떠납니까)
+Is this the right gate for New York
+(여기가 뉴욕행 탑승구 맞습니까)
+What is the gate number for Korean Airlines to Los Angeles
+(로스앤젤레스행 대한항공 탑승구는 어디입니까)
+
+
+
+
+
+
+
+
+
+Situation 659 A shopping
+
+Edwin:I like the on display. Please show me one like the one on display.
+Hwang:It looks very nice on you.The shopkeeper says the material is soft to the touch.
+Edwin:May I try these on
+Hwang:Sure. The fitting room is over there.How do you like it
+Edwin:These pants are too tight around the waist. Would you show me one sizeup
+Hwang:Unfortunately, there are nio more. Shall we have a look in another store
+Edwin:I'm looking for a gift for my wife.
+Hwang: How do you like it
+Edwin:It seems to have a good design.
+
+상황 659 쇼핑
+
+에드윈:진열되어 있는 게 마음에 듭니다. 같은 걸로 보여주세요.
+황의영: 잘어울리겠는데요.판매원이 그 옷 촉감이 좋다고 하네요.
+에드윈:입어봐도 될까요
+황의영:물론입니다. 탈의실은 저쪽입니다. 마음에 드세요
+에드윈:허리부분이 너무 꽉 끼네요. 한 치수 큰 것으로 보여주시겠어요
+황의영:공교롭게도 없다고 하네요. 다른 점포 둘러볼까요
+에드윈:아내에게 줄 선물을 찾고 있어요.
+황의영:마음에 드세요
+에드윈:디자인이 좋아보이네요.
+
+<어구연구>
+
+에드윈과 황의영은 쇼핑을 하고 있다. 맘에 드는 옷을 고른 후 
+
+May I try these on
+(입어봐도 될까요)
+
+라고 묻는다. 비슷한 표현으로는
+
+May I try on some of the shoes in the display window
+(진열장에 있는 신발들을 신어봐도 될까요)
+
+몸에 맞는 사이즈를 찾고자 할 때는
+
+I'm afraid this dress is too big in the shoulders.
+(이 옷은 어깨가 너무 큰 것 같아요)
+It's a little tight around the shoulders.
+(어깨쪽이 약간 조이는군요.)
+This fits me beautifully. I'll take it.
+(이것은 제게 잘 맞는군요. 이것으로 하겠어요.)
+Would you measure my size
+(사이즈 좀 재 주시겠어요)
+Which one do you think looks best on me
+(어느 것이 제게 가장 잘 어울리나요)
+
+등의 표현을 사용한다. 암기해 두도록 하자.
+
+
+
+
+Situation 658 A recruit
+
+Han:I wonder if you could help me find my students a job.
+Kim:Tell me more about your students.
+Han:They're majoring in business administration and gradrating next spring.
+Kim:We like to recruit capable young men, of course. So why don't you send them over with their personal histories and letters of recommendation
+Han:I have three in mind.
+Kim:O.K. I'll see what I can do.
+
+상황 658 채용
+
+한진기:제가 데리고 있는 학생들 일자리를 알아보려는데 도와줄 수 있으신가요
+김광윤:학생에 대해 좀 더 말씀해 주세요.
+한진기:경영학을 전공했고, 내년 봄에 졸업합니다.
+김광윤:저희는 유능한 젊은 인재를 채용합니다. 이력서와 추천서를 보내주세요.
+한진기:세 명을 생각하고 있습니다.
+김광윤:알겠습니다. 선처해 보겠습니다.
+
+<어구연구>
+
+신입사원을 채용하는 회사에, 학생들을 한진기는 추천하고 있다. 
+"사람을 채용하다"란 표현은
+
+We like to recruit capable young men.
+
+이며,
+
+He ia s recruit.(그는 신입사원이다)
+
+의 뜻을 갖는다.
+
+관련표현을 알아보자.
+
+Fifty recruits joined our company.(신입사원 50명을 채용했다)
+
+We gained only a few recruits to our company.
+(겨우 몇명 밖에 채용하지 않았습니다.)
+
+
+
+
+
+
+
+Situation 657 A contract
+
+Anthony:Shall we discuss the details of the contract a little further
+Hong:There are still a few points that we haven't discussed yet.
+Anthony:Which points do we still differ on
+Hong:Basically, just these 2 points, shipping and insurance charges.
+Anthony:What about inability to deliver due to natural disasters
+Hong:We will effect a marine insurance on the goods on W.A. including War Risks.
+Anthony:Who assumes shipping cost
+Hong:That would be the responsibility of the seller.
+
+상황 657 A contract
+
+앤서니: 계약 내용에 대해서 좀 더 토의해 마무리 지을까요
+홍의영:아직 토론하지 않은 것이 몇 가지 남아 있습니다.
+앤서니:아직 협의를 못한 것이 무엇이죠
+홍의영:기본적으로 선적료와 보혐료 두가지입니다.
+앤서니:천재지변에 의해 배달이 불가능할 경우에는 어떻게 합니까
+홍의영:물건에 대해서 전쟁 위험 담보를 포함한 단독 훼손 담보부 해상 보험에들겠습니다.
+앤서니:선적 비용은 누가 부담합니까
+홍의영:판매자가 부담합니다.
+
+<어구연구>
+
+홍의영과 앤서니는 계약서를 마무리하며, 추가로 더 결론 지어야 할 것을 얘기하고 있다.
+계약을 하면서 할 수있는 다양한 대화들을 익혀두자.
+
+1.계약에 관하여
+
+Let's talk about the schedule for the contract.
+(계약 일정에 관해 협의합시다.)
+Let's talk about the terms of the contract.
+(계약 조건에 대해 협의합시다.)
+I'd like to discuss the details of the contract.
+(계약의 세부 사항에 관해 협의하고 싶습니다.)
+When can we meet to discuss the contract
+(언제 만나서 계약에 관해 토의할까요)
+When will the contract papers be ready to sign
+(언제쯤 계약서에 사인할 수 있습니까)
+
+2.계약 내용 보충하기
+
+There are still a few points that we haven't discussed yet.
+(아직 토의하지 못한 몇몇 문제들이 있습니다.)
+May I ask how you interpret this article
+(이 항목을 어떻게 해석하고 계십니까)
+We'd like to talk about this points a little more.
+(이 항목에 대해 좀 더 토의하고 싶습니다.)
+
+
+
+
+Situation 656 An inquiry
+
+Operator:Dell Computers. May I help you
+Kim:Yes, please.I'd like to et some information on your products.
+Operator:You want to talk to Customer Service for that, sir. Hold on.Let me put you through. And for future reference, the extnsion to Customer Service is 200.
+Kim:200.Right.Thank you.
+Operator:You're welcome. One moment, sir.
+Hayes:(later) Thank you for calling Customer Service. This is Susan Hayes speaking. How may I help you
+Kim:Hi! I'd like to ask a few questions about your dual hard drive PCs.
+Hayes:Dual hard drive PCs...Right. Why don't I get you somebody from our Technical Support Center Hold on. Let me transfer you.
+Freedman:(later) Technical Support Center. General Manager, Mike Freedman speaking.
+Kim:Hi! My name is Kuang hoon Kim with B&E. I'd like to make a few inquiries about your dual hard drive PCs that were advertised in lst month's edition ofthe Computer Chronicle.
+Freedman:Of course. What would you like to know
+
+상황 656 문의
+
+교환원:델 컴퓨터입니다. 무엇을 도와드릴까요
+김 부장:예, 귀사 제품에 대한 정보를 좀 얻고 싶은데요.
+교환원:제품에 대한 문의는 고객서비스부로 하시기 바랍니다. 손님, 끊지 말고 기다리십시요. 연결해 드리겠습니다. 참고로 고객서비스부의 구내번호는 300번입니다.
+김광훈:200번입니다. 감사합니다.
+교환원:천만에요, 잠깐만 기다리십시요, 손님.
+헤이즈:감사합니다. 고객서비스부 수잔 헤이즈입니다. 어떻게 도와드릴까요
+김광훈:안녕하세요! 귀사의 이중 하드 드라이브 컴퓨터에 대해서 몇 가지 질문을 하고 싶은데요.
+헤이즈:이중 하드드라이브 컴퓨터 말씀입니까 기술지원부의 직원을 바꿔드리겠습니다. 끊지말고 기다리십시요. 돌려드리겠습니다.
+김광훈:감사합니다.
+프리드먼:기술지원부 마이크 프리드먼 부장입니다.
+김광훈:아녕하세요! 전 B&E의 김광훈이라고 합니다. 지난 달 <Computer chronicle>지에 광고되었던 귀사의 이중 하드드라이브 컴퓨터에 대해서 몇가지 문의할 사항이 있는데요.
+프리드먼: 말씀하세요.무엇을 알고 싶으시죠
+
+<어구연구>
+
+김광훈은 델 컴퓨터가 광고한 제품에 관심을 갖는다. 오늘의 대화는 전화를 걸어 담당자를 찾아가는 과정을 보여주고 있다.
+
+단어와 어구 표현을 정리해 보자.
+
+Customer Service: 고객서비스 센터
+for future reference:다음에 참고하기 위해
+transfer:돌려주다(전화를)
+general manager 상무
+make an inquiry about(on):~에 대해서 문의하다.
+chronicle:연대기, 편년사, 기록 이야기
+
+You want to do..의 용법에 관해 알아보자.
+
+you want to do는 should do 와 ought to do 와 같이 "를 하는 편이 나을거다" 또는 "~를 하시기 바랍니다" 의 뜻으로도 자주 사용된다.
+
+e.g.:You should call Technical Support for that, sir.
+(그 문제는 기술지원부로 문의하셔야 할 것 같습니다. 손님.)
+He ought to report the incident to the police.
+(사거을 경찰에게 신고하는 편이 나을 것같은데요.)
+
+'참고로'라고 말할때는 'for your reference'를 주로 사용하며, 'for your information'은 상대방에게 무언가를 일깨워 줄 때, 주로 사용한다. 따라서 
+'for your information'은 상대방에게 다소 불쾌감을 줄 수있다.
+
+
+
+
+
+Situation 655 A claim
+
+Martin:The goods we received were not what we ordered.
+Hong:Oh, we're very sorry. We will send you the correct products immediately.
+Martin:What should I do with the other ones
+Hong:Would you mind returning them to us We'll pay for the pastage, of course.
+Martin:All right.And I haven't received the sample of the new product.
+Hong:I'll check it. Please wait a moment.We sent a sample on August 25. Even if it's delayed, it should have reached you by this time. We are terribly sorry, but please wait a little longer.
+Martin:We must have them the day after tomorrow
+Hong:Well, we'll dispatch them again today by Federal Service. I'm sure you'll get them tomorrow.
+Martin:I see. Thank you.
+Hong: I'm sorry for the trouble.
+
+상황 655 클레임
+
+마틴:받은 물품은 저희가 주문한게 아닌데요.
+홍의영:대단히 죄송합니다. 즉시 주문한 걸로 보내드리겠습니다.
+마틴:잘못 온 제품은 어떡할까요
+홍의영; 수고스럽지만, 반송해 주실 수 있겠습니까 물론 반송료는 저희가 부담하겠습니다.
+마틴:알겠습니다.그리고 아직 상품 견본을 받지 못했어요.
+홍의영:알아보겠습니다. 잠시만 기다려 주세요.8월 25일에 견본을 보냈습니다. 늦는다 하더라도 지금즘 도착해야 했는데, 죄송하지만, 좀더 기다려 주십시요.
+마틴:모레까지는 받아야 할 텐데요.
+홍의영: 그럼 오늘 또다시 국제 특송으로 보내겠습니다. 내일 중으로 배달될 겁니다.
+마틴:알겠습니다. 감사합니다.
+홍의영:불편을 드려 죄송합니다.
+
+<어구연구>
+
+마틴은 주문한 것과 다른 상품을 받아 홍의영에게 전화를 하고 있다.
+
+도착하지 않은 물품에 대해 말할때는
+
+ I haven't received the sample of the new product.
+
+로 같은 표현으로는
+
+We have not received your shipment of our order as of this time.
+(저희 회사가 이번에 주문한 물건이 아직 도착하지 않았습니다.)
+I haven't received the sample of No.3 ordered on June 10, either.
+(6월 10일에 주문한 No.3의 상품 견본이 아직 도착하지 않았습니다.)
+Please tell me the reason you delayed shipment.
+(선적이 늦어지게 된 이유를 알려주십시요)
+As we have an urgent requirement for the goods, please send them by airline immediately.
+(물건이 급히 필요하므로 항공편으로라도 보내 주십시요.)
+We recieved the invoice, but we were charged for some things that we didn't order.
+(청구서는 받았습니다만, 저희가 주문하지도 않은 물품 대금을 청구하셨습니다.)
+
+가 있다.
+
+
+
+
+Situation 654 Quantity orders
+
+Summers:Dell computers.Sales Department, Jane Summers speaking.
+Kim:Hello, Ms.Summers.This is Winston Kim with B&E.Mr.Mike Freedman gave me your number.
+Summers;Yes, hello,Mr.Kim.You have some queries about our policy on quantitiy orders
+Kim:Yes, that's right.
+Summers:Well, we generally offer a 10% discount on orders above 10 units, Mr.Kim: But as a special introductory offer, regardless of the number of your order, we're prepared to give you the 15% discount rate which is normally reserved for orders above 50 units.
+Kim:Thank you, Ms.Summers. And how about delivery
+What's the turnaround for an overseas order of 37 units
+Summers: The turnaround and shipment altogether would take about a month and half or 45 days depending on the availability of freight.
+Kim:That sounds reasonable.
+Summers:Why don't I send you the related documents via fax or email
+Kim:E-mail would do just fine, Ms,Summers, thank you. Do you have my e-mail address
+Summers:Yes, I do. Mr.Freedman gave it to me.
+Kim:OK.How soon can I expect the document
+Summers:Within the day, Mr.Kim.
+
+상황 654 주문량
+
+서머스:델 컴퓨터, 영업부, 제인 서머스입니다.
+김윈스턴:안녕하세요, 서머스씨, B&E의 윈스턴 김입니다. 마이크 프리드먼씨가 전화번호를 알려주셨습니다.
+서머스:예,안녕하세요, 김 부장님. 대량주문에 대한 당사의 방침에 있어서 몇가지 질문이 있다고 하셨죠
+김윈스턴:예, 그렇습니다.
+서머스:10 대 이상에 대한 통상적인 할인율은 10 %입니다. 윈스터씨. 하지만 특별할인가로서 대수에 상관없이 50대 이상 주문시 적용하는 15% 를 할인해 드리려고 합니다.
+김윈스턴:감사합니다. 서머스씨. 납기는 어떻게 되죠 37대를 수입하려면 얼마나 걸립니까
+서머스:컨테이너 여유에 따라 다소 달라지겠지만 조립과 선적을 모두 합쳐서 약 한 달 반, 즉 45일이 걸립니다.
+김윈스턴:적당한 것 같군요.
+서머스:관련 서류를 팩스나 전자우편으로 보내드리는 것이 어떻겠습니까
+김윈스턴:전자우편이 좋겠습니다, 서머스씨. 감사합니다. 제 전자우편 주소는 알고 계십니까
+서머스:예, 알고 있습니다. 프리드먼씨께서 알려주셨습니다.
+김윈스턴;예, 언제쯤이면 서류를 받아 볼 수 있을까요
+서머스:오늘중으로 보내드리겠습니다, 윈스터씨.
+
+<어구연구>
+
+윈스턴 김은 프리드먼씨로부터 해외판매 부서 책임자인 서머스씨를 소개받는다. 그는 서머스씨에게 연락을 취해, 델 컴퓨터사의 대량주문 관련방침과 특별할인가에 대한 설명을 듣게 된다. 오늘 대화는 거래방침과 인도기일에 대해 묻고 답하는 내용이다.
+
+단어와 표현들을 정리해 보자.
+
+special introductory offer 특별 서비스 기간
+regardless -을 개의치 않고
+reserved for-예약되어 있는
+shipment-선적
+availability -유효성, 유용성, 효용
+freight-화물 운송
+reasonable -과하지 않은 적당한
+within-이내에, -을 넘지 않고
+
+
+
+Situation 673 Continuinig on
+
+John: Right. Shall we move on to the next item on the agenda This is a proposal to print a special catalogue for our telecommunication products for the upcoming quarter. I'd like everyone's feedback on this.
+Terry:It's a terrific idea. Right now they're all mixed up with everything else in the main catalogue. Nobody notices them.
+Lora:I agree. Even I wouldn't be able to tell them apart from our other electronic products. But how much is it going to cost us We're stretched to the limit as it is. I'd like to see some figures.
+John:OK. So we need to work out as estimate. Could you deal with that, Terry
+Terry:Sure. It's as good as done.
+John:How soon can you prepare some figures By Friday
+Terry:It's a little tight, but yes. I think I can come up with it by Friday.
+John: Excellent.We can discuss this matter again next Monday, then.
+
+상황 673 안건 전환
+
+존:알겠습니다. 그럼 회의 일정의 다음 항목으로 넘어가는 것이 어떻겠습니까
+다가오는 분기에 자사의 원격 통신 제품들에 대한 특별 카탈로그를 인쇄하자는 제안입니다. 이에 대한 모든 분의 의견을 듣고 싶습니다.
+테리:좋은 생각인 것 같습니다. 현재로선 주요 카탈로그에서는 다른 제품들과 모두 뒤섞여 있어 그 제품이 도무지 눈에 띄지를 않습니다.
+로라:동의합니다. 저조차 그것이 다른 전자 제품과 구분이 안 갈 정도입니다. 하지만 비용은 얼마나 듭니까 현재로서는 빡빡합니다. 비용 보고서를 좀 보고 싶습니다.
+존:좋습니다. 그럼 견적서를 뽑아야 합니다. 처리해 주실 수 있습니까, 테리 
+테리:물론입니다. 바로 착수하겠습니다.
+존:언제쯤이면 견적서를 준비할 수 있겠습니까 금요일까지는 어떻겠습니까
+테리:좀 긴박합니다만, 해보죠. 금요일까지는 작성할 수 있을 것 같습니다.
+존: 좋습니다. 그럼 다음주 월요일에 이 안에 대해서 다시 거론해 보도록 하겠습니다.
+
+<어구연구>
+
+회의를 진행하면서 다음 안건으로 넘어갈 때,John은 
+
+Shall we move on to the next item on the agenda
+
+라고 했다. move on 외에도 continue(계속하다, 지속하다:continue on with, go on with) 또는 proceed to :나아가다, 가다. proceed with:착수하다, 시작하다, 계속하다. 등의 표현을 쓸 수 있다.
+
+e.g.:Shall we move on (다음으로 넘어갈까요)
+Why don't we continue(계속 진행하는 게 어떨까요)
+Let's continue on with the next item on the agenda.
+(일정의 다음 항목으로 넘어가는게 어떻겠습니까)
+How about we proceed to item number 4.(4번 항목으로 넘어가는게 어떻겠습니까)
+
+
+
+
+
+
+Situation 672 Making Routine Business Calls
+
+Adams:Data Processing .John Adams here.
+Perry:Hi, this is Perry with NYSC.
+Adams:Oh, hi, Mr. Perry!What can I do for you today
+Perry:I'm calling about the fax you sent me the other day regarding the last computer readout on our mainframe.
+Adams:Yes, Mr.Perry. I've been meaning to call you, actually. Is everything in order My staff and I put in a lot of hours on that job.
+Perry:Yes, everything appears to be in order. The figures are well within the specified range, thank you, Mr. Adams.
+Adams:No problem, Mr. Perry. Just doing my job.
+Perry:Right. I just wanted to personally thank you for all your work.
+Adams:You're welcome, Mr.Perry. Are you all set, then
+Perry:Just about.Could you send me a written comfirmation just for documentation
+Adams:No problem.
+
+상황 672 일상적인 비즈니스 전화
+
+애덤스:전산실 존 애덤스입니다.
+페리:안녕하세요,NYSC의 팀 페리입니다.
+애덤스:안녕하세요, 페리씨! 오늘은 무엇을 도와드릴까요
+페리:일전에 팩스로 보내주신 저희 고속컴퓨터의 마지막 점검 보고서 때문에 전화했습니다.
+애덤스:예,페리씨. 그렇지 않아도 전화 드리려던 참이었습니다. 작업시간이 많이 걸렸는데, 점검 보고서가 제대로 나왔습니까
+페리:예, 모든 게 정상인 것 같습니다. 명시된 사양 범위 내에 있습니다. 애쓰셨습니다, 애더스씨.
+애덤스: 별말씀을요, 할일을 했을 뿐입니다.
+페리:예, 아무튼 직접 감사 드리고 싶어서 전화했습니다.
+애덤스:천만에요, 페리씨. 또 다른 용건은 없습니까
+페리: 한가지만 더 부탁하겠습니다. 서류의 문서화때문에 그러는데, 서면 확인을 좀 보내주시겠습니까
+애덤스:물론입니다.
+
+<어구연구>
+
+전산관련업무 책임자인 페리씨는 담당업체 전산실의 애덤스에게 전화를 걸어 팩스로 보내준 점검 보고서에 감사의 뜻을 전한다. 일상적인 업무처리에서 형식적인지만 거래처와 원활한 유대관계를 유지하기 위해 필요한 관례적인 인사표현을 익혀두자.
+
+중요한 어구, 단어를 정리해 보자.
+
+I've been meaning to call you.(~할 작정이었다. 예정이었다.)
+Just doing my job.(할 일을 할 뿐입니다.)
+
+I've been meaning to~는 "(그렇지 않아도) 하려고 했다." 또는 '하기를 고대했다.'라고 말할 때는 그대로 직역해서 I was going to~ 또는 I've been wanting to~라고 하기 보다는 I've been meaning to~라고 하는 것이 좀더 보편적이다.또 Just about은 (almost)라는 뜻이지만, was just about to do 는 '막 ~ 하려고 하려던 참이다.'란 뜻이다.
+
+e.g: I've been meaning to talk to you since last week.
+저번 주부터 당신과 얘기를 나누고 싶었어요.
+I was just about to leave for the office.
+막 출근하려던 참이었어요.
+
+
+
+
+
+
+Situation 671 A appointment
+
+Park: Mr. Tracy, we missed you the golf club yesterday.
+Tracy: Yeah, I wish I had gone, but you know, I just couldn't get away.
+Park: Always busy. Don't you ever take time out to relax
+Tracy: I'd love to, but you know how things are.
+Park: Yeah, always making money.
+Tracy: Well, not always. This year was pretty bad, as a matter of fact. 
+
+상황 671 약속
+
+박광운: 트레이시씨, 어제 골프클럽에 안 나오셔서 섭섭했습니다.
+트레이시: 예, 저도 가고 싶었어요, 그렇지만 꼼짝할 수가 없었습니다.
+박광운: 늘 바쁘신 것 같군요. 김 선생님은 쉬지도 않고 일하세요 저도 그러고 싶습니다만 사정이 어떤지 아시잖아요.
+트레이시: 그래요, 항상 돈을 잘 버시잖아요.
+박광운: 글쎄요, 꼭 그렇지도 않아요. 실은 올해 경기가 별로 좋지 못했습니다. 
+
+<어구연구>
+
+어제 골프 클럽에 나오기로 했던 트레이시가 나오지 않자 박광운일행은 다소 섭섭했었다. 오늘 트레이시를 만나자 그런 얘기를 전한다. 이에 대하여 트레이시는. 
+
+I wish I had gone, but you know, I just couldn't get away.
+(저도 갔었으면 좋았을 텐데, 그러나 저, 도저히 꼼짝할 수가 없었어요.)
+
+라고 피치 못할 사정이 있었다고 얘기를 한다. get away는 '떠나다, 외출하다.( go away: leave)' 란 뜻. 어디에 참석하기로 약속을 해놓고도 불가피한 사정 때문에 참석하지 못하게 된 경우엔 다음과 같은 표현을 이용하면 좋다.
+
+I wanted to go, but I couldn't make it.
+(가고 싶었지만 갈 수가 없었어.)
+
+I really meant to go, but I got sidetracked.
+(꼭 갈 생각이었는데 그만 다른 데로 가게 되었어.)
+
+I really meant to go, but something came up.
+(꼭 갈 작정이었는데 그만 무슨 일이 생기는 바람에 못 갔어.)
+
+I was dying to go, but I had some unexpected visitors.
+(난 몹시 가고 싶었지만 예기치 않던 손님들이 오셔서 못 갔어.)
+
+
+
+
+
+
+Situation 670 A reservation
+
+Desk:Good evening. May I help you
+Kim:I have a reservation. My name is Youngho Kim.
+Desk:I'm sorry, we don't have your reservation.
+Kim:Please try once more.
+Desk:I'm sorry. I've looked it over, and I still can't find your name.
+Kim:Something must be wrong. Do you have a room tonight
+Desk:Oh, yes. We have a single room. How long will you stay
+Kim:About 5 days. What the rate
+
+상황 670 예약
+
+데스크:어서 오십시요.무엇을 도와드릴까요
+김영호:예약을 했는데요, 제 이름은 김영호입니다.
+데스크:대단히 죄송합니다만 예약이 되어 있지 않습니다.
+김영호:한 번 더 찾아봐 주세요.
+데스크:대단히 죄송합니다만, 다시 찾아봐도 손님 이름이 없습니다.
+김영호:아무래도 뭔가 착오가 있는 듯 합니다. 오늘 저녁에 방은 있습니까
+데스크:예, 싱글룸이 있습니다. 얼마나 머무실 겁니까
+김영호:5일정도입니다. 요금은 얼마죠
+
+<어구연구>
+
+김영호는 호텔 데스크에서 예약을 확인하고 있다.하지만 예약이 되어 있지 않아
+다시 확인을 해 본 후, 빈방 문의를 한다. 
+
+예약 확인을 할 때는
+
+I'd like to confirm my reservation. This is Dongsoo Kim.
+(예약을 확인하고 싶습니다. 제 이름은 김동수입니다.)
+Here is the confirmation slip.
+(예약확인서입니다.)
+I have a double room with bath reserved for two nights.
+(이틀 동안 욕실 달린 더블룸을 예약했습니다.)
+
+로 표현가능하다. 숙박카드 기입관련 표현은 다음과 같다.
+
+Here's your registration card.
+(숙박카드입니다.)
+Would you registrer here, please
+(여기에 기입해 주시겠습니까)
+Would you fill out this registration card, please
+(이 숙박 카드에 기입해 주시겠습니까)
+Do I have to fill up all the items on the registration card
+(등록 카드의 모든 항목을 기입합니까)
+
+
+
+
+
+
+
+Situation 669 Absence
+
+Johnson:Hello This is Johnson of New World Company.May I speak to Mr.Sangho Park
+Jeong:I'm sorry, he is out now. And he'll be back at around three o'clock.
+Johnson:Is there anyone else who knows about the A project
+Jeong:I'm sorry. Mr.Park is the only one who is authorized to speak on that matter.
+Johnson:I see.Would you get him to call me back when he returns
+Jeong:Certainly. May I have your name and telephone number again
+Johnson:I'm Jeremy Johnson and my phone number is 235-5678.
+
+상황 669 부재
+
+존슨: 안녕하세요 뉴월드사의 존슨입니다. 박상호씨와 통화할 수 있을까요
+정혜정:지금 외출중이신데요, 3시쯤이면 돌아오실 거에요.
+존슨:A 프로젝트에 대해 아시는 분이 계신가요
+정혜정:죄송하지만 미스터 박만이 답변해 드릴 수 있습니다.
+존슨:알겠습니다. 성함과 전화번호를 다시 말씀해 주시겠습니까
+정혜정:저는 제레미 존슨입니다. 전화번호는 235-5678입니다.
+
+<어구연구>
+
+존슨은 박상호와 통화를 하고 싶어하지만 그는 외출중이다. 어제에 이어 
+
+부재중일 때 할 수 있는 표현들을 간략하게 알아보자.
+
+I am sorry, he's gone home.
+
+I am sorry, he's out of town on a business trip.
+(죄송합니다. 출장가셨습니다.)
+
+I'm sorry, he's away from the office.
+
+등으로 부재중일 경우 상황에 맞게 표현할 수 있다.
+
+
+
+
+
+Situation 668 A call
+
+Jonh:Hello, is this Green Company
+Secretary:Yes, it is. May I help you
+John:This is John Smith from the Golden Bell Company in the United States.
+Secretary:Whom would you like to speak to
+John:May I speak to Mr. Kim in the International Division
+Secretary:Excuse me, sir. We have several persons by that name.
+John:Suhan Kim, please.
+Secretary:Just a moment, Please. I;m sorry, he's on another line but he will be finished soon. Would you wait a moment
+John:Yes, I will.
+Secretary:He is on the line. Go ahead, please.
+Kim:I'm sorry to have kept you waiting . This is Suhan Kim. How are you
+John:I'm fine, thank you. How are you
+Kim:Very well, thank you. What can I do for you
+John:I'd like to know if the G.S. project is going ahead on schedule.
+Kim:There's no problem. Don't worry about it.
+John:And would you send me a sample of the new product
+Kim:I'll send the sample soon.
+
+상황 668 전화
+
+존:여보세요, 거기 그린사입니까
+비서:네, 그렇습니다. 뭘 도와드릴까요
+존:미국 골든벨사의 존 스미스입니다.
+비서:어느 분과 통화하고 싶으세요
+존:국제부 미스터 김과 통화하고 싶습니다.
+비서:실례합니다만, 그런 성을 가진 분은 여럿입니다.
+존:김수한씨를 부탁합니다.
+비서:잠시만 기다리십시요. 죄송합니다만, 통화중이세요. 곧 끝날 것 같은데 기다려 주시겠습니까
+존:그렇게 하겠습니다.
+비서:연결되었습니다. 말씀하십시요.
+김수한:기다리게 해서 죄송합니다. 김수한입니다. 어떻게 지내셨어요
+존:잘 지내고 있어요. 당신은 어때요
+김수한:잘 지냈습니다. 웬일이세요
+존:G.S.프로젝트가 일정대로 진행되고 있는지 알고 싶어서요.
+김수한:순조롭게 진행되고 있습니다. 염려 않으셔도 됩니다.
+존:그리고 신제품 견본 좀 보내주시겠어요
+김수한:견본을 곧 보내겠습니다.
+
+<어구연구>
+
+존은 김수한에게 G.S.프로젝트 건으로 전화를 하게 된다. 비서와 간단한 통화 후 김수한과 연결이 된다.
+
+전화 통화시 할 수 있는 다양한 표현을 익혀보자.
+
+1. 연결해 드리겠습니다.
+
+I'll ring him for you.
+I'll connect you.
+I'll get him for you.
+
+2.기다려 주십시요.
+
+Hold on a minute, please.
+Just a second, please.
+Just a moment, please.
+
+3.외출중입니다
+
+I'm sorry, he's out of the office now.
+Mr. Kim is not at his desk right now.
+
+4.다른 전화를 받고 계십니다.
+
+I'm sorry, he's on the phone at the moment.
+He's on the line now, Would you hold just a moment
+I'm sorry, his line is busy at the moment.
+
+
+
+
+
+
+
+
+Situation 667 Business trip
+
+Harmon:It feels very strange to be driving on the left-hand side of the road.
+Woods:I know. Is this your first visit to London
+Harmon:Yes, it is, actually. I finally got the chance to see the Thames. I've always wanted to see it, you know.
+Woods:Then let me show you around tomorrow.
+Harmon:Oh, would you That's very kind of you. By the way, is there a good golf course around here
+Woods:Yes, I think there's a couple. Do you enjoy golf
+Harmon:Yes, I do. I love the sport. How about you
+Woods:Uh...I never got into golf, unfortunately.
+Harmon:Are you into any sports
+Woods:No, not really. What about you Do you play any other sports
+Harmon:I like golf and I go skiing almost once every month in the winter.
+Woods:Where do you usually go
+Harmon:I usually go to the New England area like New Hampshire and Vermont.But I do go to ther Rockies every once in a while.
+
+상황 667 업무차 여행
+
+하몬:도로 왼편에서 운전하는 게 참 이상하게 느껴지네요.
+우즈:알아요. 런던에는 처음 오시는 겁니까
+하몬:예, 그렇습니다. 드디어 제게 템스 강을 볼 수 있는 기회가 주어진 것 같아요. 줄곧 보고 싶었거든요.
+우즈:그럼 제가 내일 보여드리겠습니다.
+하몬:그렇게 해주시겠습니까 참 친절하시네요. 그런데 런던 주변에 좋은 골프 코스가 있나요
+우즈: 몇 군데 있는 걸로 압니다. 골프 좋아하세요
+하몬:예, 골프를 매우 좋아합니다. 당신은요
+우즈:안타깝게도 전 골프를 배우지 못했습니다.
+하몬:좋아하는 운동이 있습니까
+우즈:아뇨, 없습니다. 당신은요 골프말고도 좋아하는 운동이 또 있나요
+하몬:전 골프도 좋아하고 겨울엔 거의 한 달에 한 번씩 스키를 타러 갑니다. 
+우즈:주로 어디로 가십니까
+하몬:주로 뉴햄프셔나 버몬트 같은 뉴잉글랜드 지역으로 갑니다. 하지만 때로는 로키산맥으로도 가지요.
+
+<어구연구>
+
+하몬씨는 업무차 런던을 처음으로 방문해, 우즈씨의 안내를 받게 된다. 공항에서 호텔까지 오는 차안에서 가벼운 일상적인 대화를 하고 있다.
+간략하게 어구를 살펴보자.
+
+Show ...around:~를 데리고 다니면서 보여주다
+That's very kind of you:친절하시군요.
+How about you:당신은 어때요
+get into:열중하게 된다. 입다. 신다. 습관등이 몸에 배다.
+every once in a while:때때로,가끔씩
+
+하몬은 우즈에게 "좋아하는 운동이 있습니까"라고 묻는다.
+이 질문에 대답을 할 때는 공을 이용하는 운동일 경우, play와 함께 써야하며, 그렇지 않은 운동은 go-ing형을 이용한다. 단 볼링은 공을 이용하지만, go와 함께 쓰인다.
+
+
+
+
+
+
+Situation 666 A Restaurant
+
+Kim:Excuse me. Could you tell me the way to the Bill's House restaurant
+Whang:You should go two blocks and turn to the right. You'll find it there.
+Kim:Hello, Mr. Tracy. I'm sorry to be late. I got lost.
+Tracy:I'm sorry, my explanation might have been unlcear.
+Kim:Do you come here often
+Tracy:Yes, often on business. Food is very delicious here. Would you like to order now
+Kim:Yes, What is the specialty of this restaurant
+Tracy:Sirloin steak is the chef's special.
+Kim:OK.I'll take it.
+Waiter:How would you like your steak, sir
+Kim:Medium, please.And I'll have a fruit salsd.
+Waiter:What kind of dressing do you want
+Kim:I'd like to have Thousand Island, plaese.
+Tracy: How long is a lunch break in Korea
+Kim:Usually an hour.But occasionally I cut it thirty minutes short.
+
+상황 666 식당
+
+김관의:실례합니다. 빌스 하우스 식당이 어디에 있죠
+황순영:두 블럭 사셔서 오른쪽으로 도시면 거기에 있습니다.
+김관의:늦어서 미안합니다,트레이시씨, 길을 좀 헤맸습니다.
+트레이시:미안하군요, 제가 설명이 부족했던 것 같네요.
+김관의: 이곳에 자주 오나요
+트레이시:예, 사업상 자주 옵니다. 음식도 아주 맛있구요. 지금 주문하시겠습니까
+김관의: 예, 이 식당의 특별요리는 무엇입니까
+트레이시:주방장이 송아지 등심 스테이크를 잘합니다.
+김관의: 좋아요. 그것으로 할게요.
+웨이터: 스테이크는 어떻게 해 드릴까요
+김관의:중간쯤으로 익혀 주세요.그리고 과일 샐러드도 주시구요.
+웨이터: 드레싱은 무얼로 하시겠습니까
+김관의: 사우전드 아일랜드 드레싱으로 주세요.
+트레이시:한국에서는 점심시간이 긴가요
+김관의: 보통 1시간이지만, 경우에 따라서는 30분에 끝나기도 합니다.
+
+<어구연구>
+
+김관의는 사업차 트레이시와 식사를 하고 있다. 
+
+식당에서 표현할 수 있는 다양한 표현을 알아보자.
+
+식당을 알아보고자 할 때는
+
+Would you suggest some nice restaurant in this area
+(이 지역에서 괜찮은 식당 좀 소개해 줄 수 있나요)
+Would you recommend a good continental restaurant
+(좋은 유럽식 식당을 하나 소개해 주시렵니까)
+Willl you recommend a good restaurant near
+(좋은 식당좀 추천해 주실래요)
+
+와 같이 말하면 된다.
+
+음식을 고를때는
+
+What would you recommend
+
+What's the chef's recommendation
+
+Is there any special menu for today
+
+등으로 말할 수 있다.
+
+
+
+
+
+
+
+Situation 665 A matter
+
+Lee: Mr. Su, I can't understand how those binders got rusted. I tell you, they were all perfectly okay when they left.
+Su: You know, it might have something to do with the coating.
+Lee: That's what I'm thinking. Why don't we take a run down to the factory and check it
+Su: That's exactly what I had in mind.
+Lee: We'll get started first thing in the morning, if it's okay with you. We should arrive in time for lunch, and then we can check the factory in the afternoon.
+Su: Great, I'm all for it. 
+
+상황 665 문제
+
+이재만: 수하용씨, 그 바인더에 어떻게 녹이 슬게 됐는지 모르겠군요. 정말이지 선적할 당시엔 아무 이상이 없었는데요.
+수하용: 아마 코팅과 관계가 있을지도 모르지요.
+이재만: 제 생각도 그렇습니다. 공장에 내려가서 확인해 봅시다.
+수하용: 저도 바로 그 생각을 하고 있었습니다.
+이재만: 브라운씨가 괜찮으시다면 아침에 일찍 출발하지요. 점심시간 안에 도착해야 오후에 공장 을 확인해 볼 수 있을테니까요.
+수하용: 좋습니다. 
+
+<어구연구>
+
+ 진주물산이 미국 ABC 상사에 선적한 바인더에 심한 녹이 슬어 있었다. 그래서 이번 한국 방문에서 수하용씨는 그 원인을 규명하는 과정에서 It might have something to do with the coating. (아마 코팅에 어떤 문제가 있는 것 같아요.)라고 자신의 의견을 피력한다. 이에 대한상사의 이재만은
+
+That's what I'm thinking. (저도 그렇게 생각합니다.)
+
+라고 응답을 하고 있다. 이 표현은 상대방이 자신의 생각과 똑같은 의견을 말할 때 쓰면 적절하다. 다르게는
+
+That's what I'm guessing. (저도 바로 그렇게 짐작이 갑니다.)
+That's what crossed my mind. (그것은 제 마음에 떠오른 것입니다. ; 저도 그런 생각이 들었습니다.)
+
+처럼 표현해도 좋다. cross one's mind는 '갑자기 생각나다, 마음에 떠오르다'의 뜻. 다음과 같이 표현해도 된다.
+
+I think that's what happened. (바로 그게 있었던 일일 겁니다. ; 바로 그렇게 되었을 겁니다.)
+I think that's what it is. (실상이 바로 그러리라고 생각합니다.)
+
+한편, 바로 위의 문장을 I think that's what it was.로 고쳐 말한다면 이는 '과거에 바로 그 랬을 거라고 생각합니다.'란 뜻이 된다.
+
+
+
+
+
+Situation 664 A confirmation
+
+Yoon : Well, Mr. Choi, our company can manufacture your product here in Korea, but there are certain conditions that must be agreed to first.
+Choi : Okay, you name them.
+Yoon : Well, first of all, we would need all your technical know-how on the cylinders.
+Choi : Yeah, okay. Anything else
+Yoon: Yes. We would also need the exclusive distribution rights for the Asian area, and a larger percentage of the market.
+Choi: Now, wait. Let me get this straight. You want all our technical know-how, plus the exclusive distribution rights for Asia, plus a larger share of the market than we proposed.
+Yoon: Right. You've got it straight.
+
+상황 664 확인
+
+ 윤관의: 저, 최태면씨, 당사는 이곳 한국에서 귀사 제품을 제조할 수 있지만, 먼저 합의가 이루 어져야만 하는 조건들이 있습니다.
+최태면 : 알겠습니다, 말씀해 보세요.
+윤관의 : 저, 우선, 실린더에 대한 귀사의 모든 기술적면에서의 노하우가 필요합니다.
+최태면 : 예, 좋습니다. 그밖에 다른 것은 없습니까
+윤관의 : 예, 또한 아시아 지역에 대한 독점판매권과 더불어 좀더 넓은 판매구역이 필요합니 다.
+최태면 : 저, 잠시만요, 제가 좀 확실하게 알아둡시다. 당사의 모든 기술적 노하우와 아시아 지역 에 대한 독점판매권, 거기다 우리가 제의한 것보다 더 높은 시장점유율을 원하신다구 요.
+윤관의 : 맞습니다. 바로 그겁니다.
+
+<어구연구>
+
+ 대한상사의 윤관의가 실린더에 대한 모든 노하우, 아시아 지역의 독점판매권, 좀더 넓은 판매구역 등 여러 가지를 요구하자 최태면은 상대방의 제안을 자신이 확실히 이해하고 있나를 확인하기 위하여,
+
+Let me get this straight. (제가 바르게 알고 있나 봅시다.)
+
+라고 말하고 있다. 이때의 straight는 (확실히, 모호함이 없이(without equivocation))란 뜻의 부사. 따라서 get this straight는 (이것을 확실히 갖다) 즉 (이것을 제대로 이해하다)란 뜻이 되는 것이다. 다음과 같이 표현해도 같은 뜻이 된다.
+
+Let me see if I got it right.
+Let me see if I understand you correctly.
+Let me see if I heard you correctly.
+
+그러나 한국인이라면 우선 I'll repeat what I heard(wrote down),please check if it's correct. 와 같은 식의 영어가 머리속에 떠오를 것이다. 이것도 틀리 표현은 아니지만 미국 인들은 이렇게 표현하지 않고,
+
+I'll read it back to you to see if I've got it straight. (다시 읽어볼 테니까 바르게 이해하고 있나 봐 주세요.)
+I'll read back what I've got. (적은 것을 다시 읽어볼께요.)
+
+
+
+Situation 683 Letter of Apology
+
+Dear Mr.Wade:
+
+As replacement for 75 DR-4000 ink-jet printers, which have been dispatched to you by mistake, 75 MyArt-Ⅱ laser printer are on their way aboard FedEx flight 201. The shipment should reach your warehouse by the end this week at the latest. I personally handled the entire shipping process from the boxing of each unit to its delivery to the plane, so I can assure you that there will be no mistake this time.
+
+At this point in time, I am not certain how the mix-up occurred, and I am personally looking into the matter. However, I do suspect that the error was made by our dispatching center.
+
+You can rest assured that I will do everything in my power to see to it that such an incident will not occur again. You are much too valuable of a client for us to cause you any further inconveniences.
+
+We will, of course, bear all freight costs for the replacement of shipment. 
+One of our local sales representatives will be calling on you within this week to make arrangements for the reshipment of the ink-jet printers back to us.Meantime,please accept my sincerest apologies for any inconveniences this might have caused you.
+
+Thank you for your patience and my best personal regards to you.
+
+Yours truly, 
+
+
+Aaron Kim
+Assistant Manager, Export Division
+
+상황 683 사과서신
+
+친애하는 웨이드씨께:
+
+주문하신 MyArtⅡ 레이저 프린트 75대 대신에 착오로 DR-400잉크젯 프린터 75대를 보내드린 건에 관하여, 오늘 아침 FedEx 201기 편으로 출하하였으니 늦어도 이번 주말까지는 귀사에 창고에 도달할 것이니 받아보시기 바랍니다. 제가 직접 포장에서부터 선적까지 모든 출하 과정을 처리하였으니 이번에는 틀림없을 것입니다.
+
+현재로서는 어떻게 이런 일이 일어날 수 있었는지 저로서도 전혀 이해가 가지 않습니다. 그래서 제가 직접 이 일을 조사하고 있습니다. 하지만 당사의 출하센트에서 착오가 있었던 것으로 추정하고 있습니다.
+
+다시는 이러한 일이 일어나지 않도록 신중에 신중을 가하겠습니다. 평소 애호해 주시는 고객님께 불편을 끼쳐 드리게 되어 대단히 죄송합니다.
+
+물론 모든 반송 항공 운임은 당사가 부담하겠습니다. 잉크젯 75대에 관해서는 당사의 현지 대리점의 담당자 중 한 분이 이번 주중에 방문하여 반송에 관하여 상의드릴 것입니다. 불편을 끼쳐드리게 되어 다시 한 번 사죄 드립니다.
+
+이해해 주시리라 믿겠습니다. 감사합니다.
+
+
+수출부 과장
+애런 김
+
+<어구연구>
+
+애런 김씨는 거래처로부터 MyArt-Ⅱ 레이저 프린터 75대에 대한 주문을 받지만 처리과정에서 착오가 생겨 DR-4000 잉크젯 ㅡㅍ린터 75대가 발송되고 만다. 소개된 글은 전형적인 사과의 서신이다.
+
+소개된 단어 표현을 익혀두자.
+
+replacement:대체물, 교환품
+dispatch:발송하다
+warehouse:창고
+at latest:늦어도
+personally:몸소
+assure:보증하다, 보장하다.책임지다
+at this point in time:현시점에서
+mix-up:혼란, 혼전
+look into:조사하다, 들여다보다
+suspect:짐작하다, 추측하다
+rest assured:안심하다
+do everything in one's power:...의 소신을 다하다.
+see to it:...하도록 주선하다.
+call on:..에게 연락하다. 방문하다.
+make arrangements for:..에 대한 방법을 상의하다.
+
+
+
+
+
+
+
+
+Situation 682 The company business
+
+Wilson:Career is a headhunting company with twenty-five highly trained,experienced and skilled specialists. We provide a throughly distinct service which involves presenting applicants to clients on video or anyother means in lieu of the first interview. Since the service saves on travel and accommodation expenses and, needless to say, hours of management time, the demand for our service is skyrocketing.
+Kim:How does your service compare to those of your competitors
+Wilson:You could sasfely say that we provide the best service that money can buy at this point in time since there aren't many professionalorganizations in our field with the same caliber of expertise. In fact, since the manner of business is so specialized, not many companies can even come close to mimicking what we do. There's no doubt, we provide a far better service in our field than the less specialized companies . Certainly right now there isn't much competition.
+Kim:How about in terms of net profit How does it compare to those of others
+Wilson:We are probably more profitable dollar for dollar than any of our competitors since we charge a slightly higher but justifiable rate. Our net sales, however , are far smaller than those of others because we operate under strict terms. In our opinion, this is an advantage. Size is the least important factor in a market such as this.
+Kim: Maybe so, but I wouldn't bet my money on it.
+
+ 상황 682 사업
+
+윌슨:캐리어는 인재 스카우트 회사로서 최고의 트레이닝과 경험, 그리고 능력을 겸비한 25명의 전문가들로 구성되어 있습니다. 저희는 초면 인터뷰 대신 비디오나 또 다른 매체를 이요하여 구직자를 고객에게 선보이는 철저하게 전문화되어 있는 서비스를 제공하고 있습니다. 이러한 서비스는 여행과 숙박 비용은 물론 경영자측의 시간을 절약해 주므로 수요가 급속히 늘어나고 있습니다.
+김종철:경쟁사에 비해서 귀사의 서비스는 어떻게 다릅니까
+윌슨:현재로서는 이 분야에서 저희와 같은 수준까지 전문화하여 제공하는 업체가 별로 없기 때문에 저희 서비스는 최고라고 말할 수 없습니다. 사실 이 분야는 너무나 전문화되어 있기 때문에 저희 흉내를 낼 수 있는 업체는 거의 없습니다. 저희가 제공하는 서비스는 비전문업체에 비해 월등히 낫다고 확실히 말할 수 있습니다. 현재로선 경쟁사가 별로 없다는 것은 확실합니다.
+김종철:순이익면에서는 어떻습니까 다른 업체와 비교해서 말입니다.
+윌슨:요금이 다른 업체보다 약간 높지만 타당한 비용청구를 하기 때문에 순수익면에서는 다른 경쟁사에 비해 좀더 유리합니다. 하지만 저희는 까다로운 조건 아래 업무를 실행하므로 총매출은 다른 업체에 비해 훨씬 낮습니다. 저희의견으로는 이 점이 바로 저희 회사의 강점입니다. 이러한 시장 구조에서 규모와 같은 요소는 결코 중요하지 않다고 봅니다.
+김종철:그럴지도 모르겠지만, 너무 확신하지 않는것이 좋을 것 같습니다.
+
+<어구연구>
+
+캐리어사는 인재 스카우트 회사다. 대료자 윌슨씨는 회사가 다른 경쟁사들에 비해 어떻게 다른지 경쟁력은 무엇인지 등을 비교하면서 답변하고 있다.
+본문에 소개된 단어,어구를 정리해 보자.
+
+headhunting company:인재 스카우트 회사
+thoroughly:완전히, 철저히
+distinct:독특한
+in lieu of :~의 대신에 
+accommodation:숙박시설
+needless to say:말할 나위도 없이, 물론
+skyrocket:(물가가)급등하다
+safely say:~이라고 말해도 좋다.
+the best...that money can buy:구매할 수 있는 최상의..이다.
+at this point in time:현시점에서
+professionalize:직업적인 정신을 부여하다. 전문적으로 취급하다.
+net profit:순이익
+dollar for dollar:투자금액에 대한 이익면에서
+specified:명세서에 기입된, 조건으로 지정된
+bet one's money on ...it:...에 돈을 걸다. ...을 확신하다.
+
+
+
+
+
+Situation 681 An official inquiry
+
+September 10, 2001
+
+Chamber of Commerce
+The City of Chicago
+Mart Plaza,Suite 2218
+1282 Lake Shore Drive
+Chicago, Illinois 31204
+
+Gentlemen and Ladies:
+
+As an exporter of PC component parts ranging from an array of motherboards to various specifications of RAM cards, our company has obtained and kept a fine reputation in Japan for over a decade now.
+Further, we were able to make noticeable advancements in other Asian markets for the last couple of years, and currently maintain strong business ties with many of them.
+
+With our competitive price, we are now planning to expand our market into the midwestern region of the United States and would appreciate your assitance in introducing us to ppotential handlers of the above mentioned products in your city. We would be grateful if youi could provide us with the names and addresses of those handlers which might be interested in carrying our products.
+
+We would appreciat any assistance that you could extend to us.
+
+Sincerely yours
+
+
+Peter Kim
+
+Export Manager
+
+상황 681 공식적인 문의
+
+안녕하십니까
+
+본사는 다양한 종류의 마더보드에서 각종 사양의 RAM카드까지 다수의 PC부품을 생산하여 수출하는 업체입니다. 저희 회사는 첨단 PC부품업체로부터 10년이 넘도록 일본에 수출해 왔으며 지난 수년에 걸쳐 다른 아시아 지역으로 사업을 확장하여 현재는 이 지역 여러 업체와 거래하고 있습니다.
+
+경쟁력 있는 가격으로 이번에 본사는 미국 중서부 지역으로 진출할 계획이며 이를 위해 현지ㅣ에서 상기 제품을 다룰 만한 업체를 소개받고자 합니다. 번거로우시겠지만 저희 회사 제품을 취급할 만한 업체들의 이름과 주소를 알려주실 수 있는지요
+
+협조해 주시면 감사하겠습니다.
+
+2001년 9월10일
+수출 사업부장 피터김
+
+<어구연구>
+
+피터김은 지역상공회의소에 관심을 가질 만한 관련업체를 소개해 달라는 부탁의 서신을 보낸다. 
+
+단어 표현들을 익혀두도록 하자.
+
+Chamber of Commerce: 상공 회의소
+Gentlemen and Ladies:수취인을 모르는 경우
+ranging from ...to :~에서 ~까지에 이르는
+advancement:진출, 전진, 진보
+midwestern:미 중서부의
+handler:~을 다루는
+above mentioned:위에 언급한
+provide...with...:~에게 ~을 공급하다.
+
+
+
+
+
+
+
+Situation 680 A transfer
+
+Yoon: Mr. Choi, you know, I didn't see Mr. Scott in the office today.
+Choi : Oh, he's been transferred to another department.
+Yoon : Really Who's in charge now
+Choi : Mr. Williams. You don't know him. He's new.
+Yoon : When was Mr. Scott transferred
+Choi : Just last week. 
+
+상황 680 전근
+
+윤대원 : 최규한, 오늘 사무실에 스카트씨가 안 보이네요.
+최규한 : 예, 그분은 다른 부서로 옮겼습니다.
+윤대원 : 그래요 지금은 누가 그 자리를 맡고 계세요 
+최규한 : 윌리암즈씨가요. 선생님은 모르시는 분입니다. 새로 오셨거든요.
+윤대원 : 스카트씨는 언제 옮기셨지요
+최규한 : 바로 지난주에요. 
+
+<어구연구>
+
+최규한의 사무실을 두번째로 방문하는 윤대원은 지난번에 왔을 때 인사를 나누었던 스코트씨가 보이지 않자 물어본다. 이에 최규한은,
+
+Oh, he's been transferred to another department. (아, 그분은 다른 부서로 옮겼습니다.)
+
+라고 알려준다. transfer는 '옮기다;…을 전임(전학)시키다'란 뜻 외에 '(석판 따위에) (디자인 따위를) 옮기다, 전사하다'란 뜻으로도 쓰인다. 다음과 같이 표현해도 근무부서를 옮겼다는 뜻이 된다.
+
+He's ben shifted to another department.
+He went to another department.
+
+다음의 관련표현들도 함께 알아두자.
+
+He doesn't work in this department any longer. (그분은 이제 이 부서에서 근무하시지 않습니다.)
+He works in another department now. (그분은 지금 다른 부서에서 근무하십니다.)
+What branch office has he been transferred to (그분은 어느 지사로 옮기셨습니까)
+When was he transferred to that department (그분은 언제 그 부서로 옮기셨습니까)
+How often does the company transfer its employees to a different department ( 그 회사는 얼마나 자주 사원들의 근무부서를 바꾸어 줍니까)
+When do you expect to be transferred (언제쯤 전근이 되실 것 같습니까) 
+
+
+
+Situation 679 Emergent contact
+
+URGENT FAX MESSAGE! PLEASE READ IMMEDIATELY!
+
+I am trying to contact John Park, the head of your finance department, but your switchboard is closed and I do not have his direct number.
+
+This is a matter of ungency. We are supposed to meet with some mutual clients of ours at eight o'clock tonight to discuss matters of some importantance to both of our companies, but I have neither the name nor address of the meeting place.
+
+If he is still in the office , could you ask him to contact me as soon as possible
+If he has left already, would you please give me a call and tell me his direct number I am at 348-1148. I will be at this number until 8 o'clock and after that you can reach me at my cell phone; (017) 348-1148
+
+Thanks,
+
+Mike Smith
+
+Mike Smith, Commercial Loans Manager
+
+상황 679 긴급 연락
+
+긴급한 팩스 메시지입니다! 즉시 읽어보시기 바랍니다.
+
+
+전 귀사의 재무부 책임자인 존 박씨에게 연락을 하려고 합니다만, 안내데스크와는 통화가 안되고 직통번호도 모릅니다.
+
+급한 용무입니다. 오늘 저녁 8시에 클라이언트들과 함께 만나 두 회사에 있어서 중요한 안건들을 논의하기로 되어 있습니다만, 약속장소의 이름도 위치도 모르고 있습니다.
+
+그가 아직 사무실에 있다면 제게 가능한 빨리 연락달라고 전해 주십시요. 만일 이미 퇴근하셨다면 수고스럽지만 제게 연락을 주셔서 그의 직통번호를 알려주시면 감사하겠습니다. 제 전화번호는 348-1148입니다. 8시 이후에는 제 휴대폰으로 전화주시면 됩니다. 번호는 (017) 348-1148 입니다.
+
+감사합니다.
+
+마이크 스미스
+
+산업융자 부서장, 마이크 스미스
+
+<어구연구>
+
+마이크 스미스씨는 긴급한 일로 존박씨에게 여러번 연락을 취하지만 통화가 되지 않는다. 그래서 그는 팩스로 다급한 상황을 알린다. 
+
+관련어구와, 단어를 정리해 보자.
+
+urgent: 긴급한, 다급한, 촉박한, 절박한,
+the head of:~의 책임자
+finance department:재무부서
+direct number:직통 전화
+matter of urgency:긴급한 상황, 일
+mutual:서로의, 서로 관계있는
+matter of some importance:다소 중요한 문제
+
+덧붙여, customer, client, clientele의 용법에 대해 알아보자.
+
+상점등에서 정기적으로 물건을 사는 손님을 customer 라고 하며, 의사, 변호사, 은행등에서 기술적인 서비스를 받는 사람을 client라고 한다. clientele은 집합적 명사로 서 소송, 의뢰인, 호텔, 극장,상점등의 고객, 단골손님 또는 환자를 의미한다.
+
+
+
+Situation 678 Asking intention
+
+Seo:I wonder if you can get them done somehow in a way that..
+Susan:May I ask what you are getting at
+Seo:Sure. All I want to know is if it's possible to expect any reduction onthese prices.
+Susan:I'm afraid it's not. These are really our bottom wholesale prices.
+Seo:I see.
+Susan:Actually due to the current oil shortage, materials have gone up incredibly, you know.
+
+상황 678 의도 묻기
+
+서한창:다음과 같은 방법대로 어떻게든지 해놓을 수 있는지요...
+수잔:지금 말씀하시는 게 무슨뜻이죠
+서한창: 제가 알고 싶은 건, 이런 가격으로 할인이 가능한가 하는 것입니다.
+수잔:그럴 것 같지는 않은데요, 이것이 우리의 최조 도매 가격입니다.
+서한창:알겠습니다.
+수잔:실제로 석유 부족때문에 자재값이 엄청나게 올랐습니다.
+
+<어구연구>
+
+서한창은 수잔에게 가격할인이 되는지 물어보고 있다. 하지만, 수잔은 그가 한 말을 정확히 이해하지 못해 다음과 같이 되묻고 있다.
+
+May I ask what you are getting at
+(지금 말씀 하시는 게 무슨 뜻이죠)
+
+보다 분명히 묻고자 할 때는 
+
+What are you getting at
+
+이외에 
+
+What is it that you are trying to say
+
+로도 표현할 수 있다.
+
+
+
+
+
+
+
+Situation 677 Entry
+
+Park : Oh, Mr. Brown, I`d like to ask you something. As you know, I`ll be making a trip to New York next month.
+Brown : Yes, I know. You told me yesterday.
+Park : Well, when I go to the US, is it possible to take some dried laver with me
+Brown : Dried what I`m afraid I don`t understand you.
+ Park: Dried laver. It`s a kind of edible seaweed.
+Brown: Oh, sure. Any type of agricultural products that are dried are okay, but otherwise they are not allowed in, because they`re afraid it may spread disease among farm crops in the US. 
+
+상황 677 통관
+
+박규호 : 아, 브라운씨. 여쭤보고 싶은 것이 있습니다. 아시다시피 다음달 에 뉴욕으로 출장을 가 거든요.
+브라운 : 예, 알고 있습니다. 어제 말씀하셨잖아요.
+박규호 : 저, 미국으로 갈 때 마른 김을 좀 갖고 들어가도 될까요
+브라운 : 마른 무엇이요 무슨 말씀인지 잘 모르겠는데요.
+박규호 : 마른 김이요. 일종의 식용 해초류지요.
+브라운 : 아, 물론입니다. 마른 농산물이면 어떤 것이든지 괜찮습니다. 하 지만 그렇지 않은 것은 반입이 안 됩니다. 미국 내의 농산물에 병을 전염시킬지도 모르 지 때문이지요. 
+
+<어구연구>
+
+박규호는 마침 한국에 와 있는 브라운에게 미국의 세관사정에 대하여 몇 가지 질문을 하고 있 다. '김'(laver)을 좀 가지고 가도 괜찮겠느냐고 물어보자,
+
+Any agricultural products that are dried are okay. But otherwise they are not allowed in. (마른 것은 괜찮지만 그렇지 않은 농산물은 반입이 안 됩니다.) 
+
+라고 알려준다. allow something in 은 「…의 반입을 허락하다」란 뜻이므로 이의 수동태 be allowed in 은 「반입이 허용되다」란 뜻이 되는 것이다. 따라서 이 말은 다음과 같이 다르게 표현할 수도 있다.
+
+They are not permitted entry. (그것들을 통관이 허용되지 않습니다.)
+
+이때의 entry는 「통관절차, 통관신고」란 뜻.
+
+They can`t get clearance. (그것들은 통관이 안 됩니다.)
+You can`t get them through customs. (그것들은 통관시킬 수 없습니다.)
+
+
+
+
+
+Situation 676 An Interview
+
+
+Secretary:Mr.Brown Mr.Kim is here.Kim:How do you do, Mr.Brown I'm Suhan Kim from Green Company.
+Brown:Welcome to our company. I'm Robert Brown. Nice to meet you.
+Kim:I'm happy to meet you, too. Thank you very much for taking the time to see me. Here's my business card. I'm in the International Division.
+Brown:How was your flight
+Kim:It was fine. The office looks gorgeous. It's quiet and has a fine view.
+Brown: Thank you. But it's an old building.Is your office in a new building
+Kim:Yes, but it's not as large as yours.
+Brown:So, let's talk about the business.What can I do for you
+Kim: Well, we've come out with a brand new line of printers which we'd like you to consider.
+
+상황 676 면담
+
+비서: 브라운씨, 김선생님 오셨습니다.
+김수한:처음 뵙겠습니다. 그린사의 김수한입니다.
+브라운: 저희 회사에 오신 걸 환영합니다.로버트 브라운입니다. 만나뵙게 되어 기쁩니다.
+김수한:만나서 반갑습니다. 제게 시간을 내주셔서 대단히 감사합니다.
+제 명함입니다. 저는 국제부에 있습니다.
+브라운: 비행기 여행은 어땠습니까
+김수한:좋았습니다. 참 좋은 사무실이네요. 조용하고 전망도 좋구요.
+브라운: 감사합니다. 하지만 오래된 빌딩입니다. 선생님네 회사 건물은 새건가요
+김수한: 네 그렇지만 여기만큼 크진 않아요.
+브라운: 자, 그럼 사업이야기를 합시다. 용건을 말씀해 주시겠습니까
+김수한:이번에 저희가 최신형 프린터를 내놓았는데 검토해 보셨음 합니다.
+
+<어구연구>
+
+김수한은 브라운씨의 회사를 방문해 사업이야기를 하고 있다. 처음엔 가벼운 인사를 나눈 후 본격적인 사업이야기를 꺼낸다.
+
+만약 손님을 기다리게 할 경우가 생기면 다음과 같이 표현할 수 있다.
+
+Sorry to have kept you waiting.
+Sorry to keep you waiting.
+I'm sorry to have kept you waiting for such a long time.
+
+자기 소개를 간략히 익혀두자.
+
+Do you mind if I introduce myself My name's Sanghoon Kim.
+I'm Yeongho Park of Sangdoo Industries.
+
+기타 면담시 쓸 수 있는 표현들은
+
+This is our busiest season.(요즘이 저희에겐 제일 바쁜 때입니다.)
+I'm really booked solid this week.(이번주엔 정말 약속이 꽉 차 있습니다.)
+Thanks for sparing some time for us.
+(시간을 내주셔서 감사합니다.)
+I've often heard your name, and was looking forward to meeting you.
+(존함은 많이 들었습니다. 뵙고 싶었습니다.)
+
+이 있다.
+
+
+
+Situation 675 A shipment
+
+ Tracy: Mr. Kim, how long do you think it`ll take before that second shipment will be ready to leave
+Kim : Well, that I have to figure out.
+Tracy : See if you can come up with a guesstimate real quick, will you
+Kim : Why What`s your rush
+Tracy : I just got a call from the head office asking about it.
+Kim : Okay, then give me a couple of hours or so if you can. 
+
+상황 675 선적
+
+ 트레이시: 김 선생님, 2차 선적분의 선적준비가 완료되는 데까지는 시간이 얼마나 걸릴 것 같습니까
+김광수 : 글쎄요, 좀 따져봐야 알겠는데요.
+트레이시 : 대략적인 날짜라도 얼른 알 수 없습니까
+김광수 : 왜요 왜 그렇게 서두시는 거죠
+트레이시 : 방금 그것을 알아보라는 본사의 전화를 받았습니다.
+
+<어구연구>
+
+트레이시는 2차 선적이 언제쯤 될 예정인가를 물어본다. 갑자기 받은 질문인지라 대한상사의 Mr. Kim은,
+
+Well, that I have to figure out. (글쎄요, 그 문제는 이것저것 좀 따져봐야 알겠습니다.)
+
+라고 말한다. 같은 뜻으로
+
+Well, offhand, I don`t know. I have to think it over. (저, 당장은 모르겠고, 좀 곰곰이 생각해 봐야 되겠군요.)
+I can`t tell right away. I`ll have to give it some thought. (당장은 말씀드릴 수가 없고, 생각을 좀 해봐야 되겠습니다.) 
+
+로도 말할 수 있다.
+
+
+
+Situation 674 Giving an annual report
+
+John:This bar graph depicts the sales trend for last year. Can everybody see all right Good. Perhaps you could run us through figures, Stephen
+Stephen:Yes, of course. As you can see in the first leg of the graph from the left, we rather had a quiet start to the year. Sales remained steady at five thousand units, more or less with .01 percent tolerance limit, in January and February. Be advised that all numbers henceforth mentioned will be quoted with.01 percent tolerance limit.
+Jane:Promotions
+Stephen:Beginning of March. And in accordance, sales increased slightly to fifty-five hundred units at the end of March. Then went up by another fifteen hundred to stand at 7,000 units in April.
+Jane:And why did we have that through in June
+Stephen:That was due to heightened competition.Our European counterparts launched a couple of rival products in May and that depressed sales to five thousand. Sales further dropped by another thousand in June. But we increased our discount rates to the wholesalers and sales bounced back to 5,000 units in July and then 6,000 units in August. 
+The most noticeable hike came in the next two months when sales soared from 10,000 units in September to 15,000 units in October.
+John:What accounted for the jump
+Stephen:The holiday season orders. Sales plunged again to 6,000 units in November when seasonal orders stopped. And they had since kept pace with the 7,000 range until the end of the year. Are there any questions
+Jane: Yes. How do these figures compare to those of the year before that
+Stephen:I've got that graph over here. You can see that there was a slight-to-none improvement in January and February sales, the number hovering at fifty-five hundred.
+
+상황 674 연간 보고 
+
+존:여러분 앞에 놓여 있는 이 도표는 작년 판매 경향을 나타낸 것입니다. 다들 잘 보이십니까 좋습니다. 수치에 대해서 요약해 주시겠습니까, 스티븐
+스티븐:네.보시다시피 왼쪽 첫 부분을 보면, 비교적 약세로 시작했다는 것을 알 수 있습니다. .01%의 공차 한계를 적용해 1월과 2월의 판매율은 약 5,000유니트에 머물렀습니다. 참고로 어제부터 언급되는 모든 수치는 .01%의 공차 한계가 적용된 것입니다.
+제인: 판촉은요
+스티븐: 3월 초입니다. 따라서 3월말의 판매율은 5,500 유니트로 약간 상승하였습니다. 그리고 4월에는 1,500 유니트가 늘어나 7,000에 도달했습니다.
+스티븐: 그것은 경쟁률이 높아졌기 때문이었습니다. 자사의 유럽 상대사들이 5월에 경쟁품을 내놓았고 판매는 5,000유니트로 떨어졌습니다. 6월에는 1,000유니트가 더 떨어졌습니다. 하지만 도매상들에게 할인율을 인상해 주었고 7월에는 판매율이 5,000유니트로 돌아왔으며 8월에는 6,000유니트에 다다랐습니다. 가장 두드러진 상승은 이어지는 두 달 동안 9월에 10,000 유니트에서 10월에는 15,000유니트로 뛰었을 때였습니다.
+존: 상승의 이유는 무엇이었습니까
+스티븐: 연휴 주문이었습니다. 11월에 연휴 주문이 중단되었을 때, 판매율은 다시 6,000유니트로 급하락하였습니다. 그리곤 연말까지 7,000유니트의 월 판매율에 머물렀습니다. 질문 있습니까
+제인:예,이 수치들은 재작년과 비교해서 어떻습니까
+스티븐: 그 도표는 여기 있습니다. 1월과 2월에 5,500 유니트에서 맴돌았던 것으로 보아 판매율에서 별로 큰 차이가 없다는 것을 볼 수 있습니다.
+
+<어구연구>
+
+회계 연도가 끝나자 관련부서 책임자들은 여러 도표를 보면서 프리젠테이션 시간을 갖는다.
+
+본문에 나온 단어와 표현어구들을 정리해 보자.
+
+bar graph:막대 그래프
+run through :을 대충 훑어보다.
+tolerance limit:공차한계
+henceforth:앞으로 이제부터는
+in accordance with:...에 따라서, 와 일치하여
+counterpart:상대물, 대조물
+wholesaler:도매업자
+account for: 밝히다, 설명하다
+keep pace with:....에 보조를 맞추다.
+slight-to-none:거의 희박한
+
+
+덧붙여 항상 숫자 앞에는 전치사 at 을 쓴다.
+
+e.g.:I'm at 348-1148
+The index stood at 5,000 for almost a week.
+
+
+
+Situation 693 An Offer
+
+Dear Mr. Burgess:
+
+Subject:Model E-101 Active Speakers
+
+Thank you for your letter of November 12 inquiring about our computer speakers.
+
+As the price and delivery terems for Model E-101 are acceptable to you, we have drawn up the following offer.
+
+item: E101 Active Speakers
+Manufacturer Com Electric Co., Ltd.
+Quantity: 7,000 units
+Unit Price: $ 35.00
+Total Price: $ 491,200.00 FOB Busan
+Shipment: In one shipment to be dispatched no later 
+than 10 days after receiving the order
+
+As the new fiscal year is rapidly approaching and we will be issuing a new price list soon, the prices quoted above will be valid olny until December 31. In order to make placing your order easier, we have enclosed an order form.
+
+We are confident that the terms we offer are highly competitive with those of other Asian manufacturers. We hope you will take advantage of this year's price and we look forward to receiving a reply from you in the near future.
+
+Sincerely yours,
+
+Jeniffer Han
+상황 693 주문
+
+친애하는 버지스씨께,
+
+모델 E-101 컴퓨터 스피커건
+
+11월 12일자 서신으로 저희 회사 컴퓨터 스피커에 관해 문의해 주신 데 대해 감사드립니다.
+
+상기 E-101의 가격과 인도조건을 받아들이신다고 하니, 아래와 같이 오퍼를 제시하는 바입니다.
+
+
+새로운 회계 연도가 빠르게 다가오므로 당사의 가격표도 개정할 예정이어서, 상기 오퍼의 유효기간은 12월 31일까지로 정했습니다. 주문의 간편화를 위해 주문서 양식을 동봉하였습니다. 당사가 제시한 가격은 다른 아시아 제조업자들의 것과 비교해 볼 때 타사와 충분히 경쟁할 수 있는 가격입니다.
+
+가격면에서 유리한 금년중에 주문해 주시기를 기대하겠습니다.
+
+-아 래-
+
+상품명: E-101 컴퓨터 스피커
+제조업체: 컴 전기 주식회사
+수량: 7,000개
+단가:$35.00
+가격:부산항 본선 인도 $ 491, 200.00
+인도기일: 수주후 10일 이내 일괄선적
+
+
+이 상
+
+<어구연구>
+
+오늘은 주문을 내는 서신에 대해 알아두자. 제니퍼는 오퍼를 냄과 동시에 서신으로 인도 조건이 만족스럽다는 답변을 준다.
+
+단어와 어구를 정리해 두자
+
+draw up: 작성하다, 발행하다
+following:...은 아래와 같다.(be the following, be as follows)
+unit price: 단가(Price per unit)
+FOB(free on board)본선인도
+no later than: 늦어도, 까지
+fiscal year:회계연도
+be rapidly approaching:빠르게 다가오다
+issue:발행하다
+take advantage of:...을 이요하다. ..의 기회를 포착한다.
+in the near future:빠른 시일 내에
+
+덧붙여, "...는 다음과 같다"라고 말할 때는 ..are as follows 또는
+the following are...를 사용한다.
+
+e.g.:The items are as follows:A, B, C and D.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Situation 692 An invitation
+
+Hong:Are you free this Saturday evening
+Brian:I'm sorry. I've got another appointment Saturday evening.
+Hong:Well, how about next Monday then
+Brian:Nothing special, why
+Hong:I'm thinking of having dinner party for you.
+Brian:Good! That's fine!
+Hong:When's the most convenient time for you
+Brian:After six o'clock will be fine. Thanks for inviting me.
+Hong:I'm glad to have a dinner with you. I'll pick you up at six-thirty.
+
+상황 693 초대
+
+홍의철:이번 토요일에 시간 있으세요
+브라이언:미안합니다. 토요일 저녁에는 다른 약속이 있습니다.
+홍의철:그렇다면 다음주 월요일은 어떤가요
+브라이언:별다른 일은 없습니다. 왜죠
+홍의철:당신을 모시고 간단한 파티를 하고 싶습니다.
+브라이언:그거 좋지요.
+홍의철:편리한 시간이 언제입니까
+브라이언:여섯시 이후라면 언제든지 좋습니다. 초대해 주셔서 감사합니다.
+홍의철:저도 당신과 함께 하게 되서 기쁩니다. 6시 30분에 모시러 가겠습니다.
+
+<어구연구>
+
+홍의철은 브라이언에게 토요일날 저녁에 시간이 있는지 묻고, 그가 약속이 있다는 답변을 듣는다. 다시 홍의철은 
+
+How about next Monday then
+
+라고 묻고 브라이언은 흔쾌히 좋다고 답한다.
+
+파티나 식사에 초대할 때 쓸 수 있는 표현들을 익혀보자.
+
+Would you be free to come to dinner next Saturday night at my house
+(다음주 토요일 저녁 저희집에 식사하러 오실 수 있으세요)
+
+We are holding a luncheon next Saturday. Would you join us
+(다음주 토요일에 오찬회를 가질 예정인데, 저희와 함께 하실 수 있으세요)
+
+There'll be a company party on Saturday. Please come.
+(토요일에 회사 파티가 있을 예정입니다. 오시죠.)
+
+거절할 때는
+
+I appreciate your kind invitation, but unfortunately I have a prior appointment on that day.
+(친절한 초대는 감사합니다만, 그날은 선약이 있습니다.)
+I'm afraid that day would be inconvinient.
+(유감입니다만 그날은 사정이 좋지 않습니다.)
+
+로 정중히 표현할 수 있겠다.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Situation 691 An entertainment
+
+ Lee: Mr.Park, I hope you had a good time this evening.
+Park : I certainly did, and I want to thank you for everything.
+Lee : Don't mention it. It's my pleasure.
+Park : I really enjoyed your company, Mr.Lee.
+Lee : The feeling's quite mutual. Let's do it again sometime.
+Park : Surely we must. Let's make it sometime soon. 
+
+상황 691 접대
+
+이수형 : 박지운씨, 오늘 저녁 즐거우셨는지 모르겠군요.
+박지운 : 정말 즐거웠습니다. 모든 점에서 감사드리고 싶습니다.
+이수형 : 천만에요, 오히려 제가 감사드려야 할 것 같습니다.
+박지운 : 이 선생님, 오늘 저녁 함께 해서 정말 즐거웠습니다.
+이수형 : 저도 동감입니다. 언제 다시 이런 자리를 마련합시다.
+박지운 : 물론 그래야지요, 머지않아 곧 만나기로 합시다. 
+
+<어구연구>
+
+융숭한 저녁식사대접을 받은 박지운은 감사의 표시와 함께,
+
+I really enjoyed your company, Mr. Lee.
+(이 선생님, 오늘 저녁 함께 한 시간이 매우 즐거웠습니다.)
+
+라고 말하자 ,이수형은 
+
+The feeling's quite mutual.
+(저도 동감입니다.)
+
+라고 응답을 한다. mutual은 '상호간의 ;공통의'란 뜻. 다음과 같이 표현해도 좋다. 
+I enjoyed yours, too.
+(저도 당신과 함께 한 시간이 즐거웠습니다.)
+Same here.
+(저도 동감입니다.)
+
+The pleasure was all mine.
+(오히려 제가 더 즐거웠습니다.)
+
+
+
+Situation 690 An Appointment
+
+Kang: (on phone) Hello, Mr. Kim. Listen, I'm sorry to call like this, but we've got a problem. I won't be able to make out meeting today. I'm terribly busy.
+Smith: Oh, that's too bad. How about tomorrow
+Kang: No, I'm afraid not. Tomorrow will be even worse than today.
+Smith: Okay, I'll tell you how we'll do it. Why don't you just give me a ring when you get some free time, and we'll work it out.
+Kang: That'd be great. It shouldn't be more than a couple of days or so.
+Smith: Okay. I'll look forward to hearing from you. 
+
+상황 690 약속
+
+강명훈: (전화로) 여보세요, 스미스씨. 저, 이런 전화를 드려서 죄송합니다만, 문제가 생겼어요. 오늘 만나뵐 수가 없을 것 같아요. 너무 바빠서요.
+스미스: 아이, 저런. 내일은 어떻습니까
+강명훈: 안 될 것 같은데요. 내일은 오늘보다 더욱 어렵겠어요.
+스미스: 좋아요. 그러면 이렇게 하면 어떨까요 브라운씨께서 시간이 날 때 전화를 주세요. 그때 우리들의 문제를 해결합시다.
+강명훈: 그게 좋겠네요. 2,3 일 이상은 걸리지 않을 겁니다.
+스미스: 좋습니다. 연락을 기다리고 있겠습니다.
+
+<어구연구>
+
+강명훈이 바빠서 내일 만날 수 없다고 하자, 스미스는 다음과 같이 말한다.
+
+I'll tell you how we'll do it. (제가 방법을 알려드리지요.)
+
+
+ 이런 경우 우리말로는 '이러면 어떨까'나 '이렇게 합시다.'라고 하는 경우가 많지만 이를 직역하여,
+
+How about this Let's do it this way.
+
+로 말하는 것은 Konglish에 가깝다. 이때 미국인들은,
+
+I'll tell you what. (이러면 어떨까요)
+
+Wait, I know what.
+Wait, I have a good idea.
+(잠깐, 좋은 생각이 있어.)
+
+I'll tell you how we'll work it out. (내가 한 가지 해결방법을 얘기해 주지.)
+
+Here's how we'll handle it. (그 문제의 처리방법은 이렇습니다.)
+
+와 같은 표현을 자주 구사한다.
+
+
+
+
+
+
+
+
+
+
+Situation 689 Delivery dates
+
+Summers: Good afternoon. Sales Department. Jane Summers speaking.
+Kim:Hello, Ms.Summers. This is Winston Kim with B&E.
+Summers:Hello, Mr.Kim. Did you find the information helpful
+Kim:Yes, very much so, Ms. Summers. The discount rate you're offering is more than satisfactory, but would it be possible to expedite the delivery a little
+Summeres:How soon do you have in mind, Mr.Kim
+Kim:Within 40 days upon receiving the order.
+Summers:The shipment is beyond my control, but I think I can work something out with the turnaround. I'll see what I can do about that, Mr.Kim.
+Kim: Thank you, Ms. Summers. And how about the terms of payment
+Summers:We normally ask for an irrevocable L/C in our favor with the validity period of 60 days from the date of the offer acceptance confirmation.
+Kim: Yes, Ms. Summers. That seems to be the general practice. The terms of agreement you propose are acceptable.
+Summers:Then can I expect to receive an order from you, Mr. Kim
+Kim:Yes, Ms. Summers. It'll take a couple of days to process the acquisition papers, so you should be receiving the order in 12 days or so.
+Summers:Thank you, Mr. Kim. I'll look forward to receiving your order.
+
+상황 689 인도 기일
+
+서머스: 안녕하세요, 영업부 제인 서머스입니다.
+윈스턴:안녕하세요, 서머스씨. B&E의 윈스턴 김입니다.
+서머스:안녕하세요, 김부장님. 보내드린 자료가 도움이 되었습니까
+윈스턴:예, 많은 도움이 되었습니다. 제안하신 할인율은 매우 만족스럽습니다만, 납기를 조금 앞당길 수 있는지요
+서머스:어느 정도나 빨리 생각하시고 계시죠
+윈스턴:주문 후 40일 이내입니다.
+서머스:선적은 제 능력밖입니다만, 조립과정은 조금 앞당길 수 있을 것 같습니다. 조치를 취해 보도록 하겠습니다. 김부장님.
+윈스턴:감사합니다, 서머스씨. 지불조건은 어떻게 되죠
+서머스:통상적으로 오퍼 수락이 확정되는대로 당사앞으로 60일을 유효기간으로 하는 취소불능 신용장 개설을 요청하는 것이 본사의 일반적인 관례입니다.
+윈스턴:알겠습니다, 서머스씨. 통상적인 관례인 것 같군요. 제시하신 계약조건이 모두 만족스럽습니다.
+서머스:그럼 주문을 기다려도 되겠습니까,김부장님
+윈스턴:예, 서머스씨. 구매 서류를 작성하는데 며칠걸리니까 약 12일 후면 주문서를 받아 보실 수 있으실 겁니다.
+서머스:감사합니다, 김부장님. 주문서를 기다리겠습니다.
+
+<어구연구>
+
+윈스턴은 주문을 하기에 앞서 인도기일의 조정과 지불조건에 관해 문의를 한다. 지불조건의 관례에 대해 당사 규정을 설명해 준다. 
+
+단어와 표현을 익혀두도록 하자.
+
+expedite: 진척시키다, 촉진시키다.(speed up, accelerate), 신속히 처리하다.(dispatch)
+have in mind:생각하다
+upon:...을 하는대로, 하자마자
+beyond one's control:..의 능력밖의, 불가항력의
+work something out:어떤 해결책을 찾다.
+see what one can do about:...에 대해 조치를 취할 수 있는지 알아보다
+terms of payment:지불 조건
+L/C(Letter of Credit)
+in our favor;당사 앞으로
+validity period: 유효기간
+general practice:일반적인 관습, 관례
+terms of agreement:계약조건
+propose:제의하다, 제안하다
+agreeable:기꺼이 동의하는, 찬동하는
+process:처리하다
+
+신용장에 대해 정리해 두자
+
+L/C 또는 Letter of Credit(신용장)은 일반적으로 해외의 은행과 국내의 은행을 통해 대금을 결제하는 방식을 의미하며 영국에선 Bill of Credit이라고도 한다. 그리고 Local L/C 는 '국내 신용장' 이라는 뜻으로 agent 대 agent 즉, 국내의 은행들을 통해서 대금을 결제하는 방식을 의미하는데 여기서 거래되는 통화(Currency)는 원화가 아닌 달러이다. 다시 말해서 해외의 기업이 국내에 agent 를 두고 거래를 하는 것을 의미한다.
+
+
+
+
+
+
+
+Situation 688 Asking for an extension
+
+Dear Mr. Meyers:
+
+SUBJECT: INVOICE NO. D-1112
+
+We received your letter of September 15 reminding us of our payment for your Invoice No. D-1112 being overdue.
+
+We regret to inform you that there has been a slight misunderstanding with our distributors in the settlement schedule. As a result, we are experiencing difficulties of our own in meeting our settlement deadline.
+
+We would be grateful if you could give us a two-month extension on your Invoice No. D-1112. We are certain that by then we will be able to collect all payment from our distributors.
+
+Your kind consideration will be greatly appreciated and we ask for your patience.
+
+상황 688 결제기한 연장 요청하기
+
+친애하는 마이어씨께,
+
+귀사 청구서 D-1112호 지불건
+
+귀사 청구내역서 D-1112호에 대한 지불 기한이 경과되었음을 9월 15일자 서신으로 상기시켜 주셔서 감사합니다.
+
+대단히 죄송합니다만, 저희 판매 대리점들과 대금 회수 기한에 있어서 약간의 착오가 있었습니다. 이 착오로 인하여 본사 역시 지불 최종 기한을 맞추는 데 어려움을 겪고 있습니다.
+
+2개월만 연장해 주시면 대단히 감사하겠습니다. 이 기간이면 모든 대금 회수가 순조롭게 이루어질 것이라고 확신합니다.
+
+저희 상황을 고려하시어 잠시 유예를 주시면 감사하겠습니다.
+
+이상 죄송한 마음으로 선처를 바랍니다.
+
+<어구연구>
+
+부득이한 사정으로 지불기한을 넘기게 된 이유와 함께 최종 결제기한 연장을 요청하는 내용의 서신이다.
+
+단어와 어구를 정리해 두자.
+
+remind:생각나게 하다. 상기시키다. 일깨우다
+payment:지불
+invoice:송장
+overdue:지불기한이 넘은
+We regret to inform you that...:라는 것을 알려 드리게 되어 유감입니다.
+distributor:배급자, 판매자, 판매 대리점
+meet:....만족시키다, (필요. 의무, 요구 등에)응하다. 충족시키다, (뜻, 소원에)맞다.(satisfy, fulfill)
+e.g.: If you can meet the terms of payment, we should be able to open an L/C.(지불 조건에 응하신다면 신용장을 개설할 수 있습니다.)
+
+settlement:청산, 결산
+deadline:최종기한
+be grateful for:...에 대해 감사하다.(...would be appreciated)
+e.g.: We would be grateful for a sample of your product.
+A sample of your product would be greatly appreciated.
+(귀사 제품 견본을 보내 주시면 감사하겠습니다.)
+
+
+
+
+
+
+
+
+
+
+
+
+
+Situation 687 The Financial Market
+
+Richard:So, what's the verdict on the currently developing mutual funds best
+Bill:Well, it turns out the government may allow non-foreign ITCs to sell mutual funds during the latter half of this year when a new bond valuation system takes root in the market.
+Richard:Reliability of the source
+Bill:It came directly from a sitting FSS official. So, on account of reliability, more than 90% dependable.
+Richard:Any digression from the previous statement
+Bill:No, the recent statement's pretty much in line with the former. The source reiterated that the mark-to-market bond valuation system will go into effect in July as planned, and advised local ITCs to make the necessary preparations for its flawless implementation.
+Richard:Then we've got our work cut out for us before the bill goes into effect. It gives us approximately less than two months to make the proper adjustments by June and be fully prepared to evaluate our bond holdings to the market value.
+Bill:If the mark-to-market valuation system is implemented without any major problem, the authorities will consider allowing us to sell mutual funds, and when it materializes, we'll be playing in the same ball park with ITMCs and asset management firms.
+
+상황 687 금융시장
+
+리처드:현재 진행되고 있는 뮤추얼 펀드에 대한 판결은 어떻게 났습니까
+빌:새로운 채권 시세 평가제가 정착되면 정부는 올 하반기에 국내 투신사들의 뮤추얼 펀드 판매를 허용할 것이라는 것이 밝혀졌습니다.
+리처드:출처의 신뢰도는 어떻습니까
+빌:현직 금융감독원 관련자가 직접 한 얘기이므로 신뢰도는 90% 이상입니다.
+리처드:이전의 성명과 다른 점이 있습니까
+빌:없습니다. 이전 성명과 거의 일치합니다. 계획대로 채권 시가 평가제가 7월에 실시된다는 점을 되풀이하였고, 국내 투신사들은 완벽한 이행을 위해 필요한 모든 준비를 하라는 충고를 하였습니다.
+리처드:그렇다면 할 일이 많습니다. 법안이 실행되는 6월까지 필요한 조정을 하여 저희 보유의 채권가를 시가에 비교 평가할 준비를 갖추는데 약 두 달 미만의 기간이 있습니다.
+빌:만일 이 평가제가 아무런 문제없이 실행된다면 정부는 투신사들의 뮤추얼 펀드 판매를 고려할 것이고 실현되면 저희는 투자 신탁 운영 회사들과 동일한 조건하에서 경쟁하게 되는 것입니다.
+
+<어구연구>
+
+리처드와 빌은 새로운 금융 법안의 집행 예정시기와 관련하여 필요한 대비책을 강구하는 대화를 나누고 있다. 
+
+어려운 경제 용어가 많이 등장한다. 단어와 어구를 정리해 보자.
+
+verdict:(배심원이 재판장에게 제출하는) 평결, 답신, 판정, 판단, 의견
+mutual fund: 뮤추얼 펀드, 오픈엔드 투자 신탁회사
+ITC(investment trust company)투신사
+latter half:후반기
+valuation :평가, 사정 가격, 평가액
+take root :뿌리를 박다
+sitting:현직의 
+FSS(Financial Supervisory Service:금융감독원
+on account of:...의 이유로...때문에
+in line with:..일치하여
+mark-to market bond valuation system:채권 시가 또는 시장 평가제
+go into effect:효력을 나타내다
+flawless:흠없는 완전한
+implementation:이행, 실행, 완성
+have one's work cut out for one:임무를 할당받다. 할 일이 정해지다
+play in the same ball park with:...와 어깨를 나란히 하다....와 동일한 조건에서 경쟁하다.
+
+
+
+
+
+: Situaiton 686 A reservation
+ 20030512
+
+Situation 686 A reservation
+
+Kang:What do you think of our proposal
+Park:Well,I'm not so sure about that.
+Kang:What do you have in mind
+Park:Frankly, it's not quite what we were thinking of.
+Kang:This is just one idea. We're still open to other ideas.
+Park:Would it be possible to purchase it at a discount price as we did in past negotiations
+Kang:I think so. But let me have a word with my boss first.
+
+상황 686 보류
+
+강금정:저희 제안에 대해 어떻게 생각하십니까
+박준유:글세요, 그 문제에 대해 확신할 수 없습니다.
+강금정:어떻게 생각하십니까
+박준유:솔직히 말해서 기대했던 것과 다릅니다.
+강금정:이것은 한 가지 대안일 뿐입니다. 어떤 의견이라도 받아들일 수 있어요.
+박준유:지난 번 협상때처럼 할인 가격으로 구입할 수 있겠습니까
+강금정:그럴 겁니다. 하지만 우선 윗분과 상의해 보겠습니다.
+
+<어구연구>
+
+강금정과 박준유는 협상을 하고 있다. 오늘의 회의는 결론을 내지 못한채로 보류를 하게 된다. 강금정은 최종 결정안을 상사에게 넘기게 되는데, 다음과 같이 표현을 하고 있다.
+
+Let me have a word with my boss first.(우선 윗분과 상의해 보겠습니다.)
+
+관련 표현들을 익혀두자.
+
+*결정권에 관한 표현
+
+I don't have the authority to decide on this alone.
+(저 혼자 이것을 결정할 권한이 없습니다.)
+To be quite frank with you, my boss is not satisied with the terms of this contract.(솔직히 말씀드리자면, 제 상사는 이 계약조건에 만족하지 않으십니다.)
+I have to get the approval of the board of directors.
+(이사회의 승인을 얻지 않으면 안됩니다.)
+
+*확답을 피할 때
+
+Please let me think it over until we meet on Wednesday.
+(수요일에 다시 만날때까지 검토해 보겠습니다.)
+We would like you to consider the terms of the contract.
+(계약조건에 대해 재검토해 주셨으면 합니다.)
+We'll call you as soon as we have something.
+(구체적인 게 정해지는대로 곧 연락드리도록 하겠습니다.)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Situation 685 A Congratulatory letter
+
+E-Tech., LTD.
+
+DaeSung Building Suite 8001
+26-5 Youido-dong
+Youngduengpo-gu, Seoul 150-010
+
+September 16, 2001
+
+Mr. Eugene McGregor
+Ben & Jerry's Co.,LTD.
+4021 Fifth Avenue
+NewYork, New York
+
+Dear Mr. McGregor:
+
+I was pleased to hear that you have been promoted to the managing director's position for the East Coast Regional Office. I would like to command you on your promotion and extend my sincerest congratulations. Your promotion reflects all the success you have achieved through long and hard work. I know of no one else more deserving than you.
+
+Your role in the future of the company will be a very important one, and I am certain that you will meet the challenges with the same vigor and enthusiasm you have always shown throughout the years. I wish you continued success on your career and all the best for the future.
+
+Sincerely yours,
+
+Hong Hun Kim
+Vice-president
+
+상황 685 축하 서한
+
+친애하는 MaGregor씨께,
+
+귀하께서 이번에 귀사 동부지점 지점장으로 취임하셨다는 것을 알게 되었습니다. 진심으로 찬사와 축하를 드립니다. 귀하의 부단한 정진, 능력 그리고 노력의 결실이며, 이 직책에 귀하보다 더 어울리는 분은 달리 없다고 생각됩니다.
+
+귀사의 미래에 있어서 귀하가 맡으실 역할은 매우 클 것이며, 지금까지 항상 보여주신 열의외 활기를 가지시고 그 기대에 부응해 주실 것이라 확신합니다. 앞으로도 귀하의 무한한 발전을 기대하며 우선 서면을 통하여 축하드릅니다.
+
+2001년 9월 16일
+주식회사 이테크 산업
+
+부사장 김용훈
+
+<어구연구>
+
+김용훈씨는 협력업체의 Eugene McGregor씨가 동부지점 지점장으로 승진했다는 소식을 듣게 되고 이에 대한 축하 서한을 띄우게 된다. 오늘 서신은 거래처 담당자에게 보내는 일상적인 축하 메시지이다. 
+
+표현들을 익혀두자.
+
+promoted to...으로 승진하다, 발탁되다.
+managing director.....지점장
+position...지위, 신분
+commend sb. on....~의 찬사,칭찬하다.
+extend one's ....(축하)등을 보내다.
+sincere...참된, 진실의 거짓없는
+reflect...반영하다. 나타내다.
+through long and hare work...피나는 노력을 통해
+no one else more deserving...보다 더 어울리는 인물이 없다.
+role...역할
+enthusiasm..열정, 열의, 의욕
+throughout...처음까지 끝까지, 시종일관하여
+wish sb..all the best... 축하드립니다.
+
+
+
+
+
+Situation 684 In the stock market 
+
+Stephen: Next up on the agenda is our stock price. As a response to newsearlier today, theDow-Jones and NASDAQ were hit hard. It was a report on workers' wages and benefits being on the rise that worried investors that there might be an interest hike to counter inflationary pressures. 
+Charles:How do you suppose those factors will affect the short and long termmarkets 
+
+Stephen:Well, in terms of the short-term market, we're already seeing a crisis.Today Dow-Jones lost almost a hundred and ninety points and NASDAQ fell almost seventy points. 
+
+Charles:Could you elaborate on what exactly happened to the averages 
+
+Stephen:Of course. Starting the moment they pounded the opening gavel, it was a wild day on Wall Street. Wave after wave of selling in the first minutes of trading, the Dow plunged fifty points. After another five minutes, one hundred points, and by 3 o'clock, a hundred and ninety points, but recovered about two thirds of its losses before closing. 
+
+Chares:What's causing this tremendous sell-off 
+
+Stephen:Well, new government figures showed that wages of workingAmericans are incresasing faster than usual over the last fivemonths.Up 1.8 percent. 
+
+Charles:That doesn't sound like much. 
+
+Stephen:Yes, But it's the biggest pay hike in a decade. Higher wages mean thatcompanies will spend more, which in turn means companies will chargemore, and that might force the Federal Reserve to act promptly.That's what's making investors switch their money out of stocks intothings like bonds and CDs. But in my opinion the stock marketoverreacted to one new figure and the chances of Federal Reserve heightening interest rates are slim to none. 
+
+ 
+상황 684 주식시장에서 
+
+ 
+스티븐:다음 안건은 우리 회사의 주가입니다. 오늘은 일찍이 있었던 뉴스에 대한 반응으로 다우존스와 나스닥이 큰 타격을 입었습니다. 노동자 임금과 부가 급부가 상승하고 있고 투자자들은 인플레이션 압력에 대항한 이자율의 인상을 우려하고 있다는 보도입니다. 
+
+ 
+찰스:그것이 장, 단기 시장에 어떠한 영향을 미치리라고 생각합니까 
+
+ 
+스티븐:단기적으로는 이미 시장 위기를 볼 수 있었습니다. 다우존스는 오늘 거의 190 포인트를 잃었고, 나스닥은 거의 70 포인트나 하락했습니다. 
+
+ 
+찰스: 평균 주가가 어떻게 된 것인지 좀 더 상세하게 얘기해 주시겠습니까 
+
+ 
+스티븐:그렇게 하죠. 거래가 시작되자마자 월스트리트의 하루는 떠들썩했습니다. 
+거래가 시작된 지 단 몇 분 이내에 매각 주문이 물밀듯이 밀려왔고 다우는 50 포인트 폭락했습니다. 5분 후에는 100 포인트가 하락했고, 3시가 돼서는 190포인트까지 떨어졌으나 마감 이전에 손실의 2/3을 회복했습니다. 
+
+ 
+찰스: 대대적인 매각의 원인이 무엇입니까 
+
+ 
+스티븐: 그것은 새로운 정부 수치에 의한 것인데 지난 다섯 달 동안의 임금 인상이 평소보다 빠르게 상승하고 있다는 것입니다. 1.8 % 입니다. 
+
+ 
+찰스: 그다지 큰 수치 같지는 않은데요. 
+
+ 
+스티븐: 그렇습니다. 하지만 10년 동안 가장 큰 임금 인상이었습니다. 더 높은 급여는 회사드의 지출이 커진다는 것을 의미하고, 그것은 더 높은 소비자 가격을 의미합니다. 그리고 그것은 연방 준비 은행이 빠른 조치를 취할 가능성이 있다는 것입니다. 바로 그것이 투자자들을 주식에서 채권이나 양도성 예금증서와 같은 것으로 전환하게끔 하는 것입니다. 하지만 제 의견으로는 주식시장이 하나의 수치에 과잉반응을 보였다고 생각합니다. 연방 준비 은행이 이율을 높일 가능성은 희박하다고 봅니다. 
+
+ 
+<어구연구> 
+
+ 
+근로자들의 임금과 혜택이 상승하자 인플레이션과 관련한 금리인상 우려 때문에 다우존스와 나스닥은 큰 타격을 입게 된다. 오늘의 대화는 주가파동이 장, 단기 시장에 미치는 영향과 대대적인 주식 매각으로 인한 주가폭락의 원인에 대해서 자세히 묻고 답하는 것이다. 
+
+ 
+단어와 표현을 익혀두자. 
+
+ 
+be up :차례가 되다. (to go, be one's turn) 
+ e.g.:It's your turn, John. 
+ You go next, John. 
+be hit hard 큰 타격을 입다. (sustain or suffer heavy losses) 
+ e.g.:Dow-Jones and NASDAQ sustained heavy losses. 
+in terms of.....:에 관하여, ...의 관점에서 
+ e.g.:With regard to the short term market, we're already esperiencing crisis. 
+pound the opening gavel:시작하다 
+
+
+
+Situation 703 An appointment
+
+Choi: Mr. Park, could I see you for a moment, please
+Park: Well, I'm a little tied up at the moment. Is it urgent
+Choi: Well, no. I just wanted to ask you if you're free tonight
+Park: Is that all you wanted to see me about
+Choi: No, there's something else, but it can wait.
+Park: Okay. Then call me later, please, okay 
+
+상황 703 약속
+
+최태환: 박지운씨, 잠시 뵐 수 있을까요
+박지운: 저, 제가 지금 좀 바쁩니다. 급한 일입니까
+최태환: 아뇨, 그렇진 않습니다. 오늘 저녁에 시간이 있으신지 여쭤보고 싶어서요.
+박지운: 그것 때문에 전화하신 거예요
+최태환: 아니요. 다른 일이 있긴 한데 그건 그리 급하지 않은 일이예요.
+박지운: 알았습니다. 그러면 나중에 다시 전화 주세요. 네 
+
+<어구연구>
+
+박지운은 최태환에게 자기를 만나려는 이유가 그것뿐이냐고 묻자 최태환은.
+
+No, there's something else, but it can wait.
+(아니오, 다른 것도 있습니다. 그러나 그렇게 급한 것은 아닙니다.)
+
+라고 말한다. 이때의 wait는 '(사물이)얼마동안 기다려 줄 수 있다 ; 급하지 않다, 연기될 수 있다'란 뜻의 자동사. 따라서 최태환의 얘기는,
+
+There's no rush [hurry].
+(급할 것은 없습니다.)
+It's not urgent.
+(급한 것은 아닙니다.)
+
+라고 말할 수 있다.
+
+
+
+
+Situation 702 Labor-management troubles
+
+Hong: Mr. Yoo, I`m afraid I`ve got some bad news for you.
+Yoo : Oh-oh. Break it to me gently.
+Hong : We`ve got labor-management troubles, and the way it looks to me, labor`s going to win.
+Yoo : So, you mean the prices will go up then
+Hong : I`m afraid so. As you know, if we`ve got to pay our employees more, we have no other choice but to do that.
+Yoo : Yeah, I know, but that`s going to make you less competitive, you know. 
+
+상황 702 노사 분규
+
+홍지민 : 유상철씨, 안 좋은 소식이 있는데요.
+유상철 : 오, 그래요. 저한테 한번 말씀해 보세요.
+ 홍지민: 노사간에 문제가 생겼는데, 제 생각에 노동자측이 이길 것 같습 니다.
+유상철 : 그렇다면, 제품의 가격이 오르겠군요.
+홍지민 : 그럴 것 같아요. 아시다시피, 고용인들의 임금을 인상해야 한다 면 저희에게는 그 방법 말고 다른 도리가 없으니까요.
+유상철 : 예, 압니다. 그러나 그렇게 되면 귀사 제품은 경쟁력을 잃게 될 텐데요. 
+
+<어구연구>
+
+We`ve got labor-management troubles. (우리 회사에는 지금 노사간에 문제가 생겼습니다.)
+
+라고 회사의 사정을 얘기한다. labor-management「노사(勞使) (의)」 란 뜻의 복합어. 「노사문제」는 labor-management troubles[problems]로 표현하고, 「노사간의 쟁점」은 labor-management issues라고 표현한다. 따라서 홍지민의 얘기는 다음과 같이 표현해도 좋다.
+
+We`re faced with a labor dispute in our factory. (우리는 지금 노사문제에 봉착해 있습니다.)
+We`ve got a work stoppage on our hands. (우리는 지금 동맹파업에 직면해 있습니다.)
+
+
+
+
+
+
+Situation 701 The tourist information 2
+
+Hwang:What can I do for you
+Kim:Could you suggest a good place to stay
+Hwang:What price range, sir
+Kim:I'd rather stay in a middle class hotel.
+Hwang:The Royal Hotel is nice and old.
+Kim:Could you reserve a room for me, please
+
+상황 701 여행 안내소
+
+황규현:무엇을 도와 드릴까요
+김기수:어디 좋은 숙박시설 좀 소개해 주시겠습니까
+황규현:요금은 어느 수준을 원하세요
+김기수:중급 정도의 호텔에 머물고 싶습니다.
+황규현:로얄 호텔이 유서깊고 훌륭합니다.
+김기수:예약 좀 해 주시겠습니까
+
+<어구연구>
+
+황규현은 여행 안내소에서 앞으로 머물 호텔문의를 하고 있다.
+소개를 부탁할 때는
+
+Could you suggest a good place to stay
+(어디 좋은 숙박 시설 좀 소개해 주시겠습니까)
+
+또는 
+
+May I have a list of hotel(호텔 목록 한 장 주시겠습니까)
+Will you recommend a hotel(호텔 하나 추천해 주실 수 있나요)
+I'd like to stay in a safe and clean place.(안전하고 깨끗한 곳에 숙박하고 싶습니다.)
+
+로 표현할 수 있다.
+
+
+
+
+
+
+
+Situation 700 The tourist information
+
+Park:Excuse me. Where can I find the tourist information desk
+Lee:Walk straight, and turn to the right at the first corner.
+Park:Could you tell me the way to the Newton Hotel
+Lee:Take a bus to Astoria.It runs every 20 or 30 minutes.
+Park:Where should I get off
+Lee:Get off at Broadway Station. You can find it easily.
+Park:How long does it take to get there
+Lee:About 40 minutes. But you'll have to wait a while because a bus has just gone.
+Park:I see. I'll take a taxi instead then. Where's the taxi stand
+Lee:Go out the exit, and turn left. You'll find it.
+
+상황 700 관광안내소
+
+박강훈:실례합니다. 관광안내소는 어디에 있습니까
+이인규:쭉 걸어가시다가 첫번째 길모퉁이에서 오른쪽으로 도세요.
+박강훈:뉴턴 호텔에 가는 방법 알려 주시겠습니까
+이인규:아스토리아행 버스를 타세요. 20~30분 간격으로 운행합니다.
+박강훈:어디에서 내려야 합니까
+이인규:브로드웨이 역에서 내리세요. 쉽게 찾으실 겁니다.
+박강훈:거기까지 가는데 얼마나 걸립니까
+이인규:40분 정도입니다. 그렇지만 방금전에 버스가 떠났기 때문에 좀 기다리셔야 합니다.
+박강훈:예, 그럼 택시를 타야겠군요. 택시타는 곳은 어디에 있습니까
+이인규:출구로 나가셔서 왼쪽으로 도세요. 그러면 찾으실 겁니다.
+
+<어구연구>
+
+박강훈은 관광안내소, 뉴턴 호텔을 찾아가는 길을 묻고,어떤 수단을 이용해서 가는지 물어보고 있다.
+일상생활에서 쓰는 아주 쉬운 표현들이다.
+잘 익혀 두도록 하자.
+
+1.길안내
+
+Could you give me a city map
+(도시 지도를 구할 수 있나요)
+Please give me an information flier on the city.
+(도시에 관한 안내서를 좀 주십시요.)
+Will you show me the way to the Central Park
+(센트럴 파크 가는 길 가르쳐 주시겠습니까)
+What's the best way to go downtown from here
+(여기에서 시내로 가는 가장 좋은 방법은 무엇입니까)
+
+2.버스타기
+
+Where can I buy a bus ticket
+(버스표는 어디에서 사나요)
+How much is the fare to Boston
+(보스턴까지 요금은 얼마입니까)
+Is there any direct bus to Chicago
+(시카고까지 가는 직행 버스가 있나요)
+
+
+
+
+
+Situation 699 Contacting someone
+
+Security:Hello. This is B&E security. Is Mr.Mike Smith there
+Smith:Yes,I've been trying to get in touch with Mr.John Kim, the head of your finance department, but I can't get through to him.
+Security:All the offices are closed now.Mr.Kim has gone home. You missed him by about ten minutes.
+Smith:Do you happen to have his cell phone number, then
+Security:I'm sorry, but we don't give out private numbers. Shall I get him to call you in the morning
+Smith:But we're supposed to meet tonight with some mutual clients of ours, and I don't have the address. Could lyou get a message to him
+Security:I don't know. I can try. I'll try to get hold of him if it's possible, but I can't promise you anything.
+Smith:Would you mind trying and asking him to call me, anyway
+Security:OK.
+Smith:As soon as possible
+
+상황 699 연락하기
+
+경비실:여보세요. 여긴 B&E경비실입니다. 마이크 스미스씨 계십니까
+스미스:예! 존 김씨에게 연락하려고 하는데 통화를 할 수 없습니다.
+경비실:근무 시간이 모두 끝났습니다. 존 김씨는 약 10분전에 퇴근하셨습니다.
+스미스:혹시 직통 번호를 아십니까
+경비실:죄송합니다만, 직통 번호는 알려드릴 수 없습니다. 아침에 전화 드리라고 전해 드릴까요
+스미스:하지만, 오늘밤 클라이언트들과 함께 만나 중요한 얘기를 하기로 되어 있었는데 약속 장소를 모릅니다. 메시지 좀 전달해 주시겠습니까
+경비실:글쎄요. 시도는 해보겠습니다. 가능하면 연락을 해보겠지만, 보장을 드릴 수는 없습니다.
+스미스: 그래도 전화해서 제게 연락 좀 해 달라고 전해 주시겠습니까
+경비실:알겠습니다.
+스미스:가능한 빨리 해주실 수 있겠습니까
+
+<어구연구>
+
+경비담당자는 스미스가 보낸 팩스를 보고 그에게 전화로 당사자가 퇴근 후라고 전한다. 
+
+오늘 대화에 표현된 단어와 어구들을 살펴보자.
+
+get in touch with: ~에게 연락하다
+get through:연락하다
+happen to:~우연히 ...하다
+give out:나누어주다. 배포하다.
+get A to do:~A 에게 을 하게끔 하다.
+get hold of A를 찾다. A에게 연락하다.
+can't promise one anything:아무것도 보장할 수 없다.
+
+
+
+
+
+
+
+
+Situation 698 An introduction
+
+Lee:Mr.Smith, this is Mr.Kim, our president.
+Smith:How do you doI'm Bill Smith.
+Lee:Welcome to our company. Please follow me.
+Smith:Thank you.
+Lee:What is your job, Mr.Smith
+Smith: I'm in charge of export sales. My title is sales manager.
+Lee:How's the world treating you
+Smith:Not bad.
+
+상황 698 소개
+
+이성림: 스미스씨, 이쪽은 저희회사의 김사장님입니다.
+스미스:처음 뵙겠습니다. 빌 스미스입니다.
+이성림:저희 회사에 잘 오셨습니다. 이쪽으로 오십시요.
+스미스:감사합니다.
+이성림:스미스씨가 하시는 일은 뭔가요
+스미스:저는 수출 영업을 담당하고 있습니다. 직함은 영업부장이고요.
+이성림:경기는 어떻습니까
+스미스:나쁘진 않습니다.
+
+<어구연구>
+
+이성림은 스미스씨를 사장님께 소개하고 있다. 주변 사람을 소개할 때 꺼내는 여러가지 표현들을 익혀두자.
+
+Let me introduce you to our staff.
+(우리 직원들에게 당신을 소개하겠습니다.)
+I'd like to introduce my colleague, Mr.Kim.
+(동료인 미스터 김을 소개하고 싶습니다.)
+I've been looking forward to introduceing you to Mr.Jung.
+(언젠가 당신을 미스터 정에게 소개시켜 드리려고 생각하고 있었습니다.)
+You haven't been introduced to Mr.Hong yet, have you
+(아직 미스터 홍과 인사 안 하셨지요)
+
+
+
+
+
+
+
+
+Situation 697 The casing
+
+Park : Mr.Soo, are the specifications on the mechanism okay
+ Soo: They'll do fine. Now, shall we go on to the casing
+Park : Okay, but the exact plans haven't been drawn up for it as yet.
+Soo : Well, how much longer do you think that'll take
+Park : No more than a day or two, I'm sure.
+Soo : Don't make it any longer than that. We're pressed for time. 
+
+상황 697 포장
+
+박준 : 수혜용씨, 기계장치의 설계명세서는 괜찮습니까
+수혜용 : 제대로 된 것 같습니다. 이젠 포장문제로 넘어갈까요
+박준 : 좋습니다. 그러나 그것에 대한 면밀한 계획은 아직 작성되지 않았습니다.
+수혜용 : 그러면, 그것은 얼마나 오래 걸릴까요
+박준 : 하루나 이틀밖에 안 걸릴 거예요.
+수혜용 : 더 오래 걸리지 않도록 해주세요. 아시다시피 시간이 촉박하니까요. 
+
+<어구연구>
+
+박준은 수혜용과 어떤 기계의 판매에 관하여 상담을 하고 있다. 각 분 야별로 서로 확인을 해가던 박준은 기계장치의 설계명세서는 어떠냐고 물어본다. 이에 대해 수혜용은,
+
+They'll do fine. Now shall we go on th the casing (그것들은 됐으니까 이젠 포장문제로 넘어갈까요)
+
+라며 설계명세서에 관한 한 만족을 표시한다. 이때의 do는 자동사로서 '(will과 함께) …의 용도에 닿다, (…으로서) 도움이 된다, (사물이) 충분하다' 란 뜻이다. 이런 뜻의 do는 타동사적 용법도 있다. 따라서 수혜용의 말은 다음과 같이 표현해도 마찬가지의 뜻이 된다.
+
+They'll do it fine. (그것들이면 좋습니다.(충분합니다.))
+They'll be okay. (그것들이면 충분합니다.)
+They'll fill the bill. (그것들이면 꼭 알맞습니다.)
+
+
+
+
+
+
+
+Situation 696 At the Post Office
+
+Yun:I'd like to send this parcel to Seoul, Korea.
+Whang:By airmail or seamail
+Yun:How long does it take by seamail
+Whang:It takes about 20 days by sea, 7 days by air.
+Yun:By seamail, please.
+Whang:Okay. What are the contents
+Yun:My personal effects and china.
+Whang: Please fill out this form.
+Yun:The contents are fragile, so please make it 'fragile'.
+Whang:That will be 5 dollars and 15 cents.
+Yun:Could you also check the weight of this letter I'd like this to be sent registered mail.
+Whang:It weighs 20 grams. It's 3 dollars.
+Yun: Okay.
+
+상황 696 우체국에서
+
+윤현수:이 소포를 한국의 서울로 보내고 싶은데요.
+황영민:항공편입니까, 선편입니까
+윤현수:선편으로는 어느정도 걸립니까
+황영민:선편으로는 약 20일 걸리고 항공으론 7일쯤 걸립니다.
+윤현수:선편으로 해주세요.
+황영민:알았습닏. 내용물은 뭔가요
+윤현수:제 소지품과 도자기입니다.
+황영민:이 용지에 기이뱋 주세요.
+윤현수:내용물이 깨지기 쉬우므로 'Fragile'이라고 써주세요.
+황영민:5달러 15센트입니다. 
+윤현수:이 편지 무게도 달아 주시겠어요 등기로 보내고 싶은데요.
+황영민:20그램이군요. 3달러입니다.
+윤현수:알겠습니다.
+
+<어구연구>
+
+윤현수는 한국에 소지품과 도자기를 보내기 위해 우체국을 찾았다.
+
+그는 다음과 같이 표현하면 우체국 업무를 시작한다.
+
+I'd like to send this parcel to Seoul,Korea.
+(이 소포를 한국의 서울로 보내고싶습니다.)
+
+소포외에 다른 서비스를 이용할 경우에는 
+
+I'd like this mail registered.(등기로 보내고 싶습니다.)
+I'd like to make this special dellivery.(속달로 보내고 싶습니다.)
+I want to send this parcel to Korea by airmail.(항공편으로 보내고 싶습니다.)
+I'd like to send this package by seamail.(선편으로 보내고 싶습니다.)
+
+로 표현 할 수있다.
+
+
+
+
+
+
+
+
+Situation 695 Complicates things
+
+Hong : Mr. Kim, I`ve been looking over your proposal. I`m afraid there are a few points we can`t accept.
+Kim : Well, let`s see. Maybe we can iron them out.
+ Hong: I hope so, We`d like to include the Far East in the agency territory.
+Kim : I`m sorry, but we already committed ourselves to another firm for the Far East area.
+Hong : Then, that sort of complicates things.
+Kim : Look, how about if we give you both the Middle East and Africa That should more than make up for it. 
+
+상황 695 복잡한 일
+
+홍의명 : 김 선생님, 저희는 귀사의 제안을 검토해 봤습니다. 그런데, 몇 가지 받아들일 수 없는 사항들이 있더군요.
+김수현 : 저, 어디 좀 봅시다. 아마 조정할 수 있을 겁니다.
+홍의명 : 저도 그럴 수 있기를 바랍니다. 극동지역을 관할구역으로 포함시 키고 싶습니다.
+김수현 : 죄송합니다만 극동지역은 이미 타회사에 주기로 약속을 했습니 다.
+홍의명 ; 그렇다면 일이 좀 복잡해지는데요.
+김수형 : 저, 중동지역과 아프리카지역을 귀사에 주면 어떤가요 그 정도 면 극동지역을 보상하고 남을 테니까요. 
+
+<어구연구>
+
+홍의명과 김수현은 극동지방 문제로 절충을 계속하 고 있다. 홍의명은 극동지역까지 자기에게 달라고 하지만 김수현은 이미 이 지 역을 다른 회사에 주기로 약속을 한 상태이다. 이런 사실을 안 홍의명은
+
+Then, that sort of complicates things. (그러면 상황이 좀 복잡해지는군요.)
+
+라고 걱정을 한다. 이 말은 다음과 같이 표현해도 같은 뜻이 된 다.
+
+That kind of makes things difficult. (그것은 사정을 다소 어렵게 만드는군요.)
+That presents somewhat of a problem. (그것은 다소 문제가 되는군요.)
+
+위 영문에서 things는「사정, 상황, 사태(matters)」란 뜻이고, present 는「…을 일으키다, 생기게 하다」란 의미로 쓰였다. 다음엔 complicate란 동사를 응용해 보도록 하자.
+
+Don`t complicate the problem any further. (문제를 더 이상 복잡하게 만들지 마세요.)
+If you do that, it will be complicate things even more. (그렇게 하시면 사정을 더 어렵게 만들게 됩니다.)
+
+
+
+
+Situation 694 Review
+
+ Kim: Let's review what's been decided so far.
+Han : We've ordered 5,000 units on a consignment basis. Is that right
+Kim : Yes, and we've promised to deliver within six weeks after we sign the contract.
+Han : That's correct.
+
+
+상황 694 검토
+
+김규항 : 지금까지 결정된 사항들을 다시 한 번 살펴봅시다.
+한선유 : 위탁판매용으로 저희가 5,000개를 주문했지요
+김규항 : 예, 저희측에서는 계약서 서명일부터 6주 이내에 인도하겠다고 약속드렸습니다.
+한선유 : 예, 맞습니다. 
+
+<어구연구>
+
+다음 안건으로 넘어가기전 이전 안건은 다시 한 번 정리를 하는 것이 좋다. 이때는 다음과 같은 표현들을 이용하면 된다.
+
+Let's review what's ben decided so far. (지금까지 결정된 사항들을 다시 한 번 정리합시다.)
+
+(재검토하다, 복습을 하다)란 뜻의 review 대신에 go over를 써도 역시 같은 뜻이 된 다.
+
+Let's go over what we've discussed so far. (지금까지 논의한 내용들을 재정리해 봅시다.)
+
+
+
+Situation 713 Make an appointment
+
+Banks:Good morning. Union Trading. May I help you
+Kim:Good morning. This is Soo-min Kim.Is Mr.Banks there
+Banks:Speaking.
+Kim:I'd like to make an appointment with you.Are you free tomorrow
+Banks:Yes, I am. How's three o'clock at my office
+Kim:That's fine with me. I'll be there at three, May 10th.
+
+상황 713 약속 정하기
+
+뱅크스:안녕하십니까, 유니온 트레이딩사입니다. 용건은 무엇입니까
+김안형:안녕하세요, 김석민입니다. 뱅크스씨 계십니까
+뱅크스:예, 접니다.
+김안형:뵙고 싶은데요, 내일 시간 괜찮으세요
+뱅크스:예, 괜찮습니다. 3시에 제 사무실에서 만날까요
+김안형:좋습니다. 5월 10일 3시에 뵙겠습니다.
+
+<어구연구>
+
+김안형은 뱅크스씨와 만날 약속을 정하기 위해 전화를 걸고 있다.
+
+그는 먼저 
+
+I'd like to make an appointment with you.
+
+라고 묻는다.
+
+비슷한 표현으로는 
+
+Could I make an appointment with you
+I'd like to see you tomorrow if it's convenient.
+I'd like to see you to discuss the project.
+Could you arrange an appointment to see the manager
+
+약속 일시와 장소를 정할 때는
+
+How's three o'clock at my office
+How about the 5th instead
+How about the coffee shop in the Hilton Hotel
+Which day would suit you(언제 사정이 괜찮습니까)
+Will you come to my office at eleven
+Are you free next Friday
+
+등으로 표현할 수 있다. 간단한 영어므로 익혀두도록 하자.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Situation 712 An inquiry
+
+Rhu:CP Electronics. How can I help you
+Song:I'm interest in your new copier. Would you send me a catalog
+Rhu:Sure. May I have your name mailing address, please
+Song:Okay. My name is Hyon-sok. My address is 47 Insa-dong, Chongno-gu. The zip code is 110-290.
+Rhu:Thank you, Mr. Song.You'll get a catalog in a few days.
+
+상황 712 문의
+
+류관조:CP전자입니다. 무슨 용건이십니까
+송재익:귀사의 신형 복사기에 관심이 있습니다. 카탈로그를 보내 주시겠습니까
+류관조:알겠습니다. 이름과 주소를 가르쳐 주시겠습니까
+송재익:제 이름은 송재익입니다. 주소는 종로구 인사동 47이고, 우편번호는 110-290입니다.
+류관조:감사합니다, 미스터 송. 카탈로그는 2~3일안에 받을 수 있을 겁니다.
+
+<어구연구>
+
+문의를 할 때는 어떠한 경우든지 자신이 바라는 용건을 확실히 전달하고 정중한 표현을 사용해야 한다. 
+
+Would you~와 Could you~는 이 두가지 조건을 만족시키는 간단한 표현이다. [~해주시겠습니까]라는 뜻이 담긴 이 표현은 직접적인 요망을 나타내면서 상대방에게 실례가 안되는 표현이다.
+
+제품에 문의할 때 쓰는 표현들을 정리해 두자.
+
+I'd like to know more about your products.
+(귀사의 제품에 관해 더 알고 싶습니다.)
+I'd like to get some information on your new dryer.
+(신형건조기에 대한 정보를 알고 싶습니다.)
+I'd appreciate if you could send us information on the software.
+(그 소프트웨어에 관한 자료를 보내주시면 감사하겠습니다.)
+
+
+
+
+
+
+
+Situation 711 A discount
+
+Yoon: Mr.Choi, I've gone through your estimate and I still think you can trim a little.
+Choi: Mr. Yoon, that estimate is based on our lowest price for each item.
+Choi: Well, your lowest just isn't low enough. You're still not competitive.
+Yoon : Well, then, we'll just have to give it another try again tomorrow.
+Choi : Keep in mind that you're up against stiff competition.
+Yoon : I haven't forgotten it for a moment. 
+
+상황 711 할인
+
+윤대원 : 최선생님, 귀사의 견적을 자세히 검토해 봤으나 역시 좀더 깎아 주실 수 있을 것 같습니다.
+최희철 : 윤대원씨, 그 견적으로 매 품목마다 당사 최저가격에 기준한 것입니다.
+윤대원: 저, 귀사의 최저가격을 별로 낮지가 않은 것 같군요. 귀사 상 품은 아직 경쟁력이 부족합니다.
+최희철 : 그렇다면 내일 다시 한번 절충을 시도해 봐야겠군요.
+윤대원 : 귀사 제품이 치열한 경쟁에 직면해 있다는 사실을 잊지 마십시오.
+최희철 : 잠시도 잊지 않고 있습니다. 
+
+<어구연구>
+
+윤대원은 최희철과 가격조정을 하고 있다. 그는 
+
+Mr.Choi, I've gone through your estimate and I still think you can trim a little.
+(최 선생님, 귀사의 견적을 자세히 검토해 봤으나 아직 좀더 깎아주실 수 있을 것 같습니다.)
+
+라고 말한다.
+
+여기서 estimate는 '(수량, 무게, 가치, 일 등의) 견적 (액)'이란 뜻이고 go through는 여러 가지 뜻을 가지나 여기서는 '자세히 조사하다 (examine carefully)'란 의미로서 go over나 check through와 동의어. 따라서 윤대원의 이야기는
+
+I've gone over your estimate.
+I've looked at[through] your estimate.
+I've checked through your estimate.
+
+로 다양하게 표현가능하다.
+
+
+Situation 710 A manufacturing company
+
+Foreign Relations Director:As a multinational corporation, AG employs a work force of approximately a quarter of a million, and has over eighty subsidiaries and affiliates worldwide, without even counting the locallybased ones.The corporation has a gross profit of roughly 78.9 billion ECUs and the holding company is based in London. Most of our sales are generated through the consumer market and the rest from the industrial sector. All in all, we develop, manufacture and market over a hundred patented highly sophisticated semiconductors. AG is currently developing numerous joint ventures with many Asian partners, in Vietnam, Thailand, and the Philippines. The corporation is in the process of implementing the CDMA technology in these countiries and prospects are looking to be more promising than initially anticipated.
+
+상황 710 제조회사
+
+해외 업무부 이사:AG사는 다국적 기업으로서 25만명의 인력을 고용하고 있으며 국내의 자회사를 제외하고도 전세계에 걸쳐 80여 개가 넘는 종속회사와 관계를 맺고 있습니다. 총수익은 대략 789억 달러이고, 지주 회사는 런던에 위치해 있습니다.대부분의 매출은 소비자 시장을 통해 발생하고 있으며 나머지는 산업시장을 통해서 이루어지고 있습니다. 통틀어서 백 가지가 넘는 최첨단 반도체의 특허를 받아, 개발, 생산, 판매하고 있습니다. AG사는 베트남, 태국, 필리핀과 같은 아시아 국가들과 현재 다수의 합작 사업으라 진행하고 있습니다. 당사는 현재 이들 국가에 CDMA 기술을 지원하고 있으며, 전망은 일차적으로 예상했던 것보다 희망적입니다.
+
+<어구연구>
+
+. 회사에 대해 얼마나 정확하게 소개하느냐는 비즈니스를 성공적으로 이끄는 관건이 된다. 반도체를 개발하는 AG사의 해외 업무부 이사가 자신의 회사를 소개하고 있다.
+
+어구를 정리해 두자.
+
+foreign relations :외교 관계
+work force:전종업원
+subsidiary:종속회사
+without even counting:~를 세지 않고도, 제외하고도
+gross profit:매상 총 이익
+holding company:지주 회사, 모회사
+all in all:전부 해서
+patented:장기인, 전매 특허의
+implement:~에게 도구를 주다. ~에게 필요한 권한을 주다
+promising:장래성 있는, 유망한
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Situation 709 Confirmation
+
+Choi:Korean Airlines. May I help you
+Kim:I'd like to confirm my reservation.
+Choi:Your name and flight number, please.
+Kim:My name is Dongho Kim, and the flight number is 203.
+Choi:You areleaving for Seoul on Saturday at 3 p.m. Is that right
+Kim:Yes. That's correct.
+Choi:Your reservation is confirmed. Please be at the airport 1 hour befort the departure time.
+
+상황 709 확인
+
+최태규:대한항공입니다. 무엇을 도와드릴까요
+김상민:예약을 확인하고 싶습니다.
+최태규:성함과 비행기 번호를 말씀해 주십시요.
+김상민:제 이름은 김동호이고, 비행기 번호는 203호입니다.
+최태규: 토요일 오후 3시에 서울로 떠나시죠
+김상민:예, 맞습니다.
+최태규:예약 확인 됐습니다. 출발 1시간전까지 공항으로 나와주세요.
+
+<어구연구>
+
+김상민은 비행기 티켓 예약을 한 후, 항공사에 전화를 걸어 다시 한 번 더 확인을 하고 있다.
+
+예약을 확인하고 싶다고 표현을 할 때는
+
+I'd like to confirm my reservation.
+
+또는 
+
+I'd like to reconfirm my flight on December 3rd to Seoul.
+
+로 표현할 수 있다.
+
+관련 표현으로 티켓 구매시 쓰는 표현들을 익혀두자.
+
+Do you have a ticket
+
+Shall I issue a ticket for you now
+
+Would you prefer a round-trip or an one-way ticket
+(왕복표를 원하십니까, 편도표를 원하십니까)
+
+May I have your name flight number and your departure date
+(성함과 비행기 번호 그리고 출발날짜를 말씀해 주세요.)
+
+
+
+
+
+
+Situation 708 An entertainment
+
+Lee : Mr.Leo, are you free this evening
+Leo : Yes, I haven't made any plans.
+Lee : I'd like to take you out for bulgogi. It's a traditional Korean food.
+Leo: That sounds good. What is it
+Lee : It's strips of beef cooked over a flame on the table. It's served with many different side dishes and rice. will you try it
+ Leo: Sure. What time should I meet you
+Lee : We'll come by the hotel at 6:00 to pick you up. 
+
+상황 708 접대
+
+이도: 레오씨, 오늘 저녁에 시간 있으세요
+레오 : 예, 특별한 계획은 없습니다.
+이도 : 제가 모시고 나가 불고기를 대접해 드렸으면 해서요. 불고기는 전통적인 한국요리죠.
+레오 : 좋지요. 그게 어떤 건데요
+이도 : 테이블 위에 있는 불에다 얇게 썰은 소고기를 요리한 것입니다. 다른 여러 가지 반찬과 밥이 함께 나옵니다. 드셔보시겠어요
+레오 : 그러죠. 몇 시에 마나뵈면 좋을까요
+ 이도: 저희가 6시에 호텔로 모시러 가겠습니다. 
+
+<어구연구>
+
+이도는 레오씨에게 저녁을 대접하고 싶어한다. 따라서 다음과 같이
+
+I'd like to take you out for bulgogi.
+(모시고 나가 불고기를 대접해 드리고 싶습니다.)
+
+라고 말한다. take out은 '데리고 나가다'란 뜻. '불고기'는 영어에 없는 말이므로 Korean style barbecue나 broiled beef로 표현하는 것이 영미인에겐 더 알아듣기 쉬울 것이다. 이도의 얘기는 다음과 같이 표현해도 좋다.
+
+I'd like to invite you for Korean style barbecue.
+(한국식 바베큐 식사에 초대하고 싶습니다.)
+
+I'd like to treat you to some bulgogi and soju.
+(불고기와 소주를 대접해 드리고 싶습니다.)
+
+
+
+
+
+
+Situation 707 The customs
+
+Examiner:Do you have anything to declare
+Park:I have these two bottles of Korean liquor.They are gifts friends.
+Examiner:What is their approximate value
+Park:About 50 dollars.
+Examiner:Do you have any plants or seeds
+Park:No, I don't.
+
+상황 707 세관
+
+검사관: 신고할 것 있습니까
+박혁수:한국산 술 두 병을 갖고 있는데, 친구에게 줄 선물입니다.
+검사관:가격은 대략 얼마나 합니까
+박혁수:50달러 정도입니다.
+검사관:식물이나 씨앗을 가지고 있습니까
+박혁수:아니오, 없습니다.
+
+<어구연구>
+
+박혁수는 입국하면서 통관에서 수속을 밟고 있다. 통관시 들을 수 있는 여러가지 질문과 답을 익혀두자.
+
+May I see your passport, please
+(여권 좀 보여주시겠습니까)
+Do you have your customs declaration form
+(세관 신고서를 가지고 있습니까)
+What is your purpose in visiting America
+(미국에 방문한 목적이 무엇입니까)
+How long are you going to stay here
+(얼마 동안 여기에 머무르실 겁니까)
+
+답변
+
+I am here on business. I work for a trading company.
+(사업차 왔습니다. 저는 무역회사에서 근무하고 있습니다.)
+I'm in the import-export business.
+(수출입업을 하고 있습니다.)
+To study in Chicago.(시카고에 공부하러 왔습니다.)
+
+
+
+
+Situation 706 A busy life
+
+ Tracy: Mr. Kim, listen, can we got together on Thursday
+Kim : Sorry, but Thursday's out.
+Tracy : How about Friday, then
+Kim : It'll be tough, I'm afraid.
+Tracy : My goodness! What keeps you so busy
+Kim : Oh, they've got me running from one thing to another. 
+
+상황 706 바쁜 생활
+
+
+트레이시 : 김 선생님, 저 목요일에 좀 만날 수 있을까요
+김동영 : 미안하지만 목요일은 안 되겠는데요.
+트레이시 : 그럼 금요일은 어때요
+김동영 : 어려울 것 같아요.
+트레이시 : 이런, 도대체 무슨 일로 그렇게 바쁘세요
+김동영 : 뛰어다니며 일하지 않으면 안 되도록 회사가 절 바쁘게 만드니까 그렇죠 뭐. 
+
+<어구연구>
+
+트레이시는 김동영에게 목요일,금요일날 만나자고 묻지만 안된다는 답변을 듣듣는다. 그러자 그는
+
+What keeps you so busy (무슨 일로 그렇게 바쁩니까)
+
+라고 이해가 안 간다는 듯이 묻는다, 이에 김동영은
+
+Oh, they've got me running from one thing to another. (말씀도 마십시오, 회사는 이일 저일을 뛰어다니며 하지 않으면 안 될 정도로 많은 일을 시킨답니다.)
+
+라고 자기의 사정을 이야기한다. 이때의 get은 '...을 하게 하다,시키다' 란 뜻. 다음과 같이 표현해도 마찬가지의 뜻이 된다.
+
+They are keeping me very busy. (회사는 저를 한가하게 놔두지 않습니다.)
+My boss is keeping me as busy as a bee. (우리 사장님은 저를 눈코뜰 사이도 없을 만큼 바쁘게 하고 있습니다.)
+
+다음은 '매우 바쁜 것'과 관련된 표현들을 살펴보도록 하자.
+
+There're a million things to do. (할 일이 태산같습니다.)
+Everyday I have to run from one thing to another. (저는 매일 뛰어다니며 일을 하지 않으면 안 됩니다.) 
+
+
+
+
+
+
+Situation 705 Diversifiable products
+
+Kim : How do you do I am Mr. Kim Won-je from Daehan Co.
+Anthony: Yes, I heard about your company from Mr. Brown. What are your main products
+Kim : We are very diversified. We produce everything from elevators to power generators.
+Anthony: Do you have your own factories
+Kim : Yes, three as a matter of fact.
+Anthony: My, that is quite a large operation, isn't it 
+
+상황 705 다양한 상품
+
+ 김원제: 처음 뵙겠습니다. 저는 대한상사의 김원제입니다.
+앤서니: 예, 브라운씨한테서 귀사에 관해 이야기를 들었습니 다. 주요 생산품이 어떤 것입니까
+김원제 : 아주 다양합니다. 엘리베이터에서 발전기에 이르는 모 든 걸 생산합니다.
+앤서니: 귀사 자체의 생산공장을 갖고 계십니까
+김원제 : 예, 실은 세 개를 갖고 있습니다.
+앤서니: 와, 대단한 규모군요. 
+
+<어구연구>
+
+앤서니는 김원제에게 
+
+What are your main products (귀사의 주요 생산제품은 어떤 것들입니까)
+
+라고 질문한다. 이에 대해,
+
+We are very diversified. (저희는 생산제품이 매우 다양합니다.) 라고 김원제는 답
+
+변한다.
+
+관련 표현을 알아두자.
+
+How diversified are you when it comes to products (생산제품면에서는 얼마나 다양합니까)
+When will you begin to diversify your production line (언제부터 생산라인을 다양화하려고 합니까)
+Their products are good but they lack of diversity. (그들의 제품은 좋으나 다양성이 부족합니다.)
+
+
+
+
+
+
+Situation 704 An international call
+
+Operator:Operator. May I help you
+Kim:I'd like to make an overseas call to Korea.
+Operator:Would you give me the telephone nember, please
+Kim:Seoul 02-123-4567. Collect call, please.
+Operator:Your name and room number, please
+Kim:My name is Suhan Kim. Kim is the last name. My room number is 1205.
+Operator:All right. Hold on, please.
+Kim:OK.
+Operator:Go ahead, Mr.Kim.Your party is on the line.
+Kim:Thank you.
+
+상황 704 국제전화
+
+교환원:교환입니다. 무엇을 도와 드릴까요
+김수한:한국에 국제 전화를 하고 싶습니다.
+교환원:전화번호가 어떻게 됩니까
+김수한:서울전화 02-123-4567번에 수신자 부담으로 부탁합니다.
+교환원:성함과 벙번호 좀 말씀해 주시겠습니까
+김수한:제 이름은 김수한입니다. 김은 성이구요 방번호는 1205호입니다.
+교환원:알겠습니다. 잠시만 기다려 주세요.
+김수한:네
+교환원:김선생님 통화하세요.
+김수한:감사합니다.
+
+<어구연구>
+
+김수한은 외국으로 출장을 가 호텔에서 머무르고 있다. 서울로 콜렉트 콜을 걸기 위해 교환원과 대화를 나누고 있다.
+
+
+호텔에서 국제 전화를 신청할 때는
+
+I'd like to make an international call to Seoul, Korea.
+(한국의 서울로 국제 전화를 걸고 싶습니다.)
+I have a station-to-station call to Korea.
+(한국으로 번호 통화를 걸고 싶습니다.) 
+
+여기서 번호 통화란 (station-to station) 전화를 건 상대방 번호에서 누가 나오든 바로 요금 계산이 시작되는 것이다.
+
+호텔에서 전화를 이용할 때는
+
+How can I get an outside line
+(어떻게 하면 외부선과 연결되나요)
+While I was out, any phone for me
+(나가 있는 동안에 전화온 것 없었습니까)
+Give him a ring and get him, please.
+(그분께 전화를 걸어서 점 좀 바꿔주세요.)
+
+
+
+Situation 714 Deliver of goods
+
+Min:I'm calling about the shipment schedule.
+Hart:Which shipment are you referring to
+Min:Shipment number 1050. How soon can you deliver
+Hart:We've already sent it. I'm sure you'll get it by Friday.
+Min:That sounds great.
+
+상황 714 납품
+
+민:출하 스케줄건으로 전화를 드리는건데요.
+하트:어떤 출하를 말씀하시는 겁니까
+민:1050번입니다. 언제 납품할 수 있습니까
+하트:이미 발송을 끝냈습니다. 금요일까지 반드시 도착할 겁니다.
+민:그거 다행이군요.
+
+<어구연구>
+
+민상원씨는 출하건으로 하트씨에게 문의하고 있다. 그는 하트씨에게
+
+How soon can you deliver
+(언제 납품할 수 있습니까)
+
+라고 묻는다. 비슷한 표현으로는
+
+When will you be able to deliver the merchandise
+(언제 상품을 배달할 수 있습니까)
+How long will it take for the goods to arrive
+(물품이 도달하는 데는 얼마나 걸립니까)
+Will you be able to deliver the first 50 units by July 7th
+(먼저 50개를 7월7일까지 납품할 수 있습니까
+How soon can you get them ready
+(얼마 만에 준비할 수 있습니까)
+
+등이 있다. 
+시간에 관하여 [얼마나] 라고 묻고 싶을 때는 <How + 형용사/부사~>라는 문형을 사용한다. soon<바로>라는 부사를 사용해서 How soon~이라고 말하며, "얼마나 빨리~입니까"로 납기에 관한 질문을 할 수있다.
+
+
+
+Situation 715 A sample
+
+Caller:I'd like to know more about your products.
+O: Which product particulary interests you
+Caller:I'm interestd in the business-oriented sofeware.
+O :Shall I send you a sample
+Caller:That'll be great.
+O :Is there anything else I can do for you
+
+상황 715 샘플
+
+콜러:귀사의 제품에 관해서 좀더 자세히 알고 싶습니다.
+오경미:어느 제품에 특히 관심이 있으십니까
+콜러:비즈니스 관련 소프트웨어에 관심이 있습니다.
+오경미:샘플을 보내드릴까요
+콜러:좋습니다.
+오경미:그밖에 다른 용건이 있으십니까
+
+<어구연구>
+
+오경미씨는 회사제품에 대해 문의하는 전화를 받는다.
+그는 고객에게 샘플을 보내드릴까요라면서 다음과 같이 말한다.
+
+Shall I send you a sample
+(샘플을 보내 드릴까요)
+
+다음과 같이 말하면서 다양한 고객의 문의에 답할 수 있겠다.
+
+Shall we send you some samples
+Would you like to send a company brochure(당신의 팸플릿을 보낼까요)
+Would you like us to provide parts and materials
+(우리 부품과 원료를 제공해 드릴까요)
+
+" 그 밖에 다른 용건이 있으십니까"
+
+라는 표현은 
+
+Where there be something else
+What else can I tell you
+
+로 정리해두자.
+
+
+Situation 716 An order
+
+Min:I'd like to order the remote controls.
+Hart:Okay.What is the serial number
+Min:It's number MK30.
+Hart:How many do you need
+Min:I'd like 20 of them.
+Hart:All set. You'll have them by Friday.
+Min:Thanks. I'll e-mail order later for confirmation.
+
+상황 716 주문
+
+민경수:리모콘을 주문하고 싶습니다.
+하트:네, 제조번호가 어떻게 되죠
+민경수:MK30번입니다.
+하트:몇 개나 필요하시죠
+민경수:20개 부탁합니다.
+하트:모두 준비되었습니다. 금요일까지 받으실 수 있을 것입니다.
+민경수:감사합니다. 확인을 위해 이 주문을 나중에 e-mail로 보내겠습니다.
+
+<어구연구>
+
+민경수는 하트씨에게 리모콘을 주문하기 위해 전화를 걸고 있다.
+그는 물건을 주문하고 싶다며 다음과 같이 말한다.
+
+I'd like to order the remote controls.
+
+비슷한 표현들을 익혀두자.
+
+We want to order 5 dozen ball point pens.
+We'd like to place an order for 50 mobile phone.
+Can we place a trial order
+We'd like to make an additional order.
+Can we place an order regularly
+
+주문을 받을 경우 수량확인은 필수 사항이다. 의문사인 HOW를 사용해서
+숫자를 물을 때는 How many~ 수량을 물을 때는 How much~
+로 할 수 있겠다.
+
+How much wheat would you like
+How many jackets do you want
+Could you tell me product number
+Could you fax your order later
+Would you fill in the order form and return it to us
+
+의 표현을 익혀두도록 하자.
+
+
+Situation 716 An order
+
+Min:I'd like to order the remote controls.
+Hart:Okay.What is the serial number
+Min:It's number MK30.
+Hart:How many do you need
+Min:I'd like 20 of them.
+Hart:All set. You'll have them by Friday.
+Min:Thanks. I'll e-mail order later for confirmation.
+
+상황 716 주문
+
+민경수:리모콘을 주문하고 싶습니다.
+하트:네, 제조번호가 어떻게 되죠
+민경수:MK30번입니다.
+하트:몇 개나 필요하시죠
+민경수:20개 부탁합니다.
+하트:모두 준비되었습니다. 금요일까지 받으실 수 있을 것입니다.
+민경수:감사합니다. 확인을 위해 이 주문을 나중에 e-mail로 보내겠습니다.
+
+<어구연구>
+
+민경수는 하트씨에게 리모콘을 주문하기 위해 전화를 걸고 있다.
+그는 물건을 주문하고 싶다며 다음과 같이 말한다.
+
+I'd like to order the remote controls.
+
+비슷한 표현들을 익혀두자.
+
+We want to order 5 dozen ball point pens.
+We'd like to place an order for 50 mobile phone.
+Can we place a trial order
+We'd like to make an additional order.
+Can we place an order regularly
+
+주문을 받을 경우 수량확인은 필수 사항이다. 의문사인 HOW를 사용해서
+숫자를 물을 때는 How many~ 수량을 물을 때는 How much~
+로 할 수 있겠다.
+
+How much wheat would you like
+How many jackets do you want
+Could you tell me product number
+Could you fax your order later
+Would you fill in the order form and return it to us
+
+의 표현을 익혀두도록 하자.
+
+
+Situation 717 A complaint
+
+Kim:I'm afraid I have to make a complaint.
+Hull:What's it about
+Kim:About yesterday's delivery. Our order was five units short.
+Hull:Is that right
+Kim:In addition to that, ten were badly damaged.
+Hull:I'll check it right away and get back to you.
+
+상황 717 클레임
+
+김상규:죄송하지만 클레임이 있는데요.
+헐:무엇에 관한거죠
+김상규:어제 있었던 납품에 관해서입니다. 물건이 5개 부족했습니다.
+헐:정말입니까
+김상규:게다가 10개가 심하게 파손됐습니다.
+헐:바로 조하한 후 연락드리겠습니다.
+
+<어구연구>
+
+김상규는 클레임 건으로 헐에게 전화를 건다. 
+그는 
+
+I'm afraid I have to make a complaint.
+(죄송하지만 클레임이 있는데요)
+
+라고 말하며 말문을 연다. 클레임에 대해서는 다음과 같은 표현을 사용해도 무방하다.
+
+We have a complaint to make.
+(클레임이 생겼습니다.)
+I'd like to complain about the merchandise.
+(상품에 관하여 클레임을 하고 싶습니다.)
+We have some problem.
+(문제가 생겼습니다.)
+There're some problems with your machines.
+(귀사의 기기에 문제가 몇 개 있습니다.)
+I am not happy with the product.
+(그 제품에 만족하고 있지 않습니다.)
+
+"물건이 몇 개 부족하다" 란 표현은 short를 사용해서
+
+Our order was five units short.(물건이 주문보다 5개가 부족했습니다.)
+
+로 표현한다.
+
+
+Situation 718 A Price
+
+Min:How much is this model
+Bell: This is $100.
+Min:What about that one
+Bell:The price is slightly higher.It's $ 100.
+Min:I'm afraid we cannot afford it.
+Bell:We can consider a discount if you could order 1,000 units.
+
+상황 718 가격
+
+민경수:이 모델은 얼마죠
+벨:100달러입니다.
+민경수:저것은 얼마죠
+벨:가격이 조금 더 비쌉니다. 110달러입니다.
+민경수:그 가격으로는 부담이 되는군요.
+벨:만약 1000개 주문하신다면 가격 인하가 가능합니다.
+
+<어구연구>
+
+민경수는 벨 씨에게 제품의 가격을 묻고 있다. 
+
+How much is this model
+
+로 가격을 물을 수 있고, 
+
+How much are these 
+How much does it cost
+What is the wholesale price
+Does the price include sales tax(소비세를 포함한 가격은 얼마입니까)
+How much is it for 1,000 units(1,000개는 얼마입니까)
+What is the estimated price(견적가는 얼마입니까)
+
+등으로 가격에 대해 궁금한 점을 물을 수 있다.
+
+"가격이 조금 더 비싸다"는 "The price is slightly higher."
+
+This price is competitive in the market.(이 가격은 시장에서 경쟁력이 있습니다.)
+Our price has remained constant.(우리의 가격은 그대로입니다.)
+Your price is high compared with those quoted by others.(이 가격은 다른 회사와 비교해 비쌉니다.)
+
+등도 익혀두자.
+
+
+Situation 719 Stock
+
+Min:Do you have any MK30 in stock
+Bell:I'm sorry but they're out of stock now.
+Min:How about JW35
+Bell:We've temporarily run out of them, too.
+Min:When do you expect them to come in
+Bell:In fackt, we have some on order so they'll be available by next week.
+
+상황 719 재고
+
+민:MK30의 재고가 있습니까
+벨:죄송합니다만, 지금 재고가 없습니다.
+민:JW35는요
+벨:그것도 일시적으로 품절입니다.
+민:언제 입하할 예정입니까
+벨:발주 중에 있으므로 다음주에는 가능할 겁니다.
+
+<어구연구>
+
+민경수는 벨에게 전화해서 재고가 있는지 확인하고 있다. 그는
+
+Do you have any MK30 in stock(MK30재고가 있습니까)
+
+가고 묻고 있다. stock 는 '재고'라는 말로 재고품 전체를 나타내는 것이라 복수형이 아니므로 주의한다.
+
+같은 표현으로는
+
+Is this merchandise still in stock(이 상품은 아직 재고가 있습니까)
+
+Are these galsses in supply(이 글라스는 재고가 있습니까)
+
+Is there carry these components(이 부품을 취급하고 있습니까)
+
+Is there any stock left(남아 있는 재고가 있습니까)
+
+등이 있다.
+
+
+Situation 720 A new product
+
+Pak:This is our newest product.
+Smith:This is really nice!
+Pak:Compared to the previous model, the quality is much better.
+Smith:What about the price
+Pak:We're going to keep the same price.
+Smith:How could it be possible
+Pak:We've developed a new assembling system.
+Smith:Telll me more about it, Miss. Pak.
+
+상황 720 신상품
+
+박순형:이게 우리 회사 신제품입니다.
+스미스:정말 멋지네요!
+박순형:이전 모델에 비해 질도 월등히 좋습니다.
+스미스:가격은 어떤가요
+박순형:같은 가격을 유지할 생각입니다.
+스미스:어떻게 그게 가능하죠
+박순형:새로운 조립 시스템을 개발했거든요.
+스미스:좀 더 말해 주실 수 있을까요, 박선생님.
+
+<어구연구>
+
+박순형은 스미스씨에게 신제품에 관해 소개를 하고 있다. 제품소개를 할 때는 우선 고객의 관심과 요구를 파악해 그에 따른 설명을 하는 것이 효과있는 방법이다. 자사 제품의 특색과 세일즈 포인트, 경쟁업체의 제품과 어떤면에서 다른지를 강조하는 것도 좋다. 
+
+박순형은 This is our newest product.(이것이 우리의 신제품입니다.)
+
+라고 소개하고 있다.
+
+다음과 같이 말해도 좋을 것이다.
+
+This is our best-selling watch.(이것이 가장 잘 팔리는 시계입니다.)
+These are our major products this year.(이것들이 올해 주요 상품입니다.)
+This model has been one of our longtime sellers.(이 모델은 오랜 기간 잘 팔리고 있는 것 중의 하나입니다.)
+This is small and light.(이것은 소형이며 경량입니다.)
+
+
+Situation 721 An invoice
+
+Yoon:We haven't received payment for invoice No.5.
+Howard:Really Let me check my computer...You're right.
+Yoon:Could you let us have your check by May 5th
+Howard:I'll arrange that for sure. I'm terribly sorry.
+Yoon:No problem, Mr.Howard.
+
+상황 721 송장
+
+윤준원:5번 송장의 지불을 받지 못했습니다.
+하워드:정말입니까컴퓨터를 체크해 보겠습니다. 정말이군요.
+윤준원:5월 5일까지 수표를 주시겠습니까
+하워드:확실히 준비하겠습니다. 죄송합니다.
+윤준원:괜찮습니다, 하워드씨.
+
+<어구연구>
+
+5번 송장의 지불이 되지 않자 미스터 윤은 하워드씨에게 지불을 해 달라는 전화를 건다. 그는
+
+We haven't received payment for invoice No.5.
+(5번 송장의 지불을 받지 못했습니다.)
+
+라고 말문을 연다. 관련표현으로는
+
+We haven't received your remittance yet.
+(송금을 아직 받지 못했습니다.)
+Your May payment of $ 500 is overdue.
+(5월분 500 달러의 지불이 미불입니다.)
+Your payment was due on August 25th.
+(지불기한은 8월 25일이었습니다.)
+You still owe us \500,000.(아직 50만원 지불이 남아 있습니다.)
+
+미지불에 대해서 요청할 때는
+
+Could you let us have your check by May 5th
+(5월 5일까지 수표를 주시겠습니까)
+Could you settle this bill by the end of the month
+(월말까지 이 청구서를 지불해 주시겠습니까)
+Would you clear the balance within the next 10 days
+(10일 이내에 지불해 주시겠습니까)
+
+등으로 표현해 보자.
+
+
+Situation 722 A schedule
+
+Ford:Hello, Ford speaking.
+An:Hello, this is Sara An, Mr.King's secretary. My boss would like to see you sometime this week.
+Ford:Let me check my schedule.Mm...I'm afraid I'll be tied up the rest of the week.
+An:How about next Monday
+Ford:I'll be free in the afternoon.How's two o'clock at your office
+An:That'll be fine.
+Ford:Tell Mr.King I look forward to seeing him.
+
+상황 722 스케줄
+
+포드:안녕하세요, 포드입니다.
+안:안녕하세요, 미스터 킹의 비서 사라 안입니다. 사장님께서 이번주에 만나고 싶어하십니다.
+포드:제 일정을 확인해 보겠습니다. 음...죄송합니다만 이번주는 일정이 모두 잡혀 있군요.
+안:그럼 다음 월요일은 어떻습니까
+포드:오후에는 시간이 있습니다. 2시에 그쪽 사무실에서 만나는 건 어떨까요
+안:좋습니다.
+포드:미스터 킹에에 만나기를 기대하고 있겠다고 전해주세요.
+
+<어구연구>
+
+미스터 킹의 비서인 사라안은 약속을 제의하는 전화를 포드에게 걸고 있다. 포드가 이번주는 형편이 안돼 다음에 만날것을 약속한다.
+포드씨는 "이번 주에 일정이 잡혀 있습니다." 라고 다음과 같이 말한다.
+
+I'm afraid I'll be tied up the rest of the week.
+
+비슷한 표현으로는
+
+I'm sorry I'm busy all day Tuesday.
+I'm afraid my schedule is tight this week.
+I'm afraid I have appointment that day.
+I'm afraid I'll be on a business trip next week.
+
+제의를 거절할 때는 <죄송합니다>란 의미의 I'm sorry와 I'm afraid를 반드시 말하는 게 좋다. 
+
+형편이 좋은 일시를 정할 때는 
+
+I'll be free in the afternoon.
+I prefer May 10th.
+Friday morning is good for me.
+Anytime next week will be fine.
+
+등으로 표현하면 되겠다.
+
+
+
+Situation 723 A complaint
+
+Kim:I'm afraid I have to make a complaint.
+Hall:What's is about
+Kim:About yesterday's delivery. Our order was five units short.
+Hall:Is that right
+Kim:In addition to that, ten were badly damaged.
+Hall:I'll check it right away and get back to you.
+
+상황723 클레임
+
+김상훈:죄송하지만, 클레임이 있는데요.
+할:무엇에 관해서입니까
+김상훈:어제 있었던 납품건에 관해서입니다.물건이 주문보다 5개 부족했습니다.
+할:정말입니까
+김상훈:게다가 10개가 심하게 파손됐습니다.
+할:바로 조사해서 연락드리겠습니다.
+
+<어구연구>
+
+납품된 상품 수가 다르자 김상훈은 할 씨에게 클레임건으로 전화를 건다.
+
+그는 I'm afraid I have to make a complaint.(죄송하지만 클레임이 있는데요.)
+
+라고 말한다.클레임에 대해 얘기할 때는 감정적이 되거나, 함부로 비난하는 투로 해서는 안되며 확실하게 상대의 책임을 지적하는 게 중요하다.
+클레임을 말할 때는
+
+We have a complaint to make.(클레임이 생겼습니다.)
+I'd like to complain about the merchandise.(상품에 관해 클레임을 하고 싶습니다.)
+We have some problem.(문제가 생겼습니다.)
+There're some problems with your machines.(귀사의 기기에 몇몇 있습니다.)
+I'm not happy with the products.(그 제품에 만족하고 있지 않습니다.)
+
+등으로 표현할 수 있다.
+
+
+
+Sitution 724 Taking a look
+
+Pak:Would you like to take a look at our showroom
+Smith:Yes, please.
+Pak:Here're some handouts that explain our products. Please take a look.
+Smith:Thank you.
+Pak:This is our latest model. What do you think
+Smith:It looks like it becomes eaiser to operate.
+
+상황 724 안내하기
+
+박:전시장을 안내해 드릴까요
+스미스:예, 부탁합니다.
+박:여기 제품설명 인쇄물이 있습니다. 훑어봐 주십시요.
+스미스:감사합니다.
+박:이것이 최신 모델입니다. 어떻게 생각하십니까
+스미스:조작이 훨씬 간단해진 것 같군요.
+
+<어구연구>
+
+박명옥은 스미스씨를 전시장으로 안내해 신제품에 대해 설명한다.
+
+Would you like to take a look at our showroom
+(전시장을 안내해 드릴까요)
+라고 상대방의 의중을 묻는다. 
+
+비슷한 표현으로는
+
+Let me show you around our plants.(공장 견학을 하시고 싶으십니까)
+Are you interested in looking around our plants(공장 견학을 하시고 싶으십니까)
+I'd like you to take a look at our offices.(사내를 구경시켜 드리지요.)
+It takes about an hour to go around our factory.
+(공장을 둘러보는 데 걸리는 시간은 약 1시간입니다.)
+
+제품을 소개한 후 "어떻게 생각하십니까" 라고 묻고 싶으면
+
+What's your impression of this product
+(이 제품의 느낌은 어떻습니까)
+Could you tell me what you think(어떻게 생각하시는지 말씀해 주시겠습니까)
+What interested you the most(무엇에 가장 관심이 있으십니까)
+Do you have any questions(질문이 있습니까)
+
+등으로 말할 수 있다.
+
+
+
+Situation 725 A sightseeing
+
+Pak:Do you have any plans this weekend
+Smith:Nothing inparticular.
+Pak:Why don'twe go sightseeing
+Smith:That would be very nice.
+Pak:Do you have any particular tourist sites you'd like to visit
+Smith:I'd like to see traditional Korean things.
+Pak:Then let's go to Minsokch'on.
+
+상황 725 관광
+
+박:이번 주말에 무슨 계획 있으십니까
+스미스: 특별한 건 없습니다.
+박:함께 관광하러 가지 않으실래요
+스미스:그거 좋겠네요.
+박:특별히 가고 싶은 관광지가 있습니까
+스미스:한국의 전통적인 곳을 보고 싶습니다.
+박:그러면 민속촌으로 갑시다.
+
+<어구연구>
+
+박순형은 스미스씨에게 주말에 관광을 가자고 한다.
+그는 Do you have any plans this weekend 라고 묻는다.
+위와 같이 묻는 표현은 "무슨 계획이 있느냐"의 상투적인 표현이다. 
+비슷한 표현으로는
+
+Do you have time to go sightseeing this weekend
+Do you have anything planned for tonight
+Are you free on Saturday
+Have you had a chance to go sightseeing
+
+등이 있다.
+
+
+
+Situation 726 Installments
+
+Min:Can we pay in installments
+Hart:That's fine.
+Min:What's the interest rate
+Hart:It comes to 15% per month.
+Min:That's a bit steep.
+Hart:And I'd like you to make payment in U.S. dollars.
+
+상황 726 할부
+
+민:할부로 해주시겠습니까
+하트:좋습니다.
+민:금리는 어느정도입니까
+하트:월 15%입니다.
+민:그건 좀 터무니 없군요.
+하트:그리고 지불은 미달러화로 부탁드립니다.
+
+<어구연구>
+
+민경수는 지불방법에 관해 하트씨와 논의하고 있다.그는 하트씨에게 
+
+Can we pay in installment(할부로 해주시겠습니까)
+
+라고 묻는다. 할부로 하는 것을 pay in installments라고 한다. 횟수를 말하고 싶을 때는 pay in 6 installments로 나타낸다.
+할부와 관련된 비슷한 표현들을 익혀두자.
+
+Can we pay over time (분할 지불할 수 있습니까)
+Would it be possible to put off the payment for 3 months(3개월간 지불을 연기하는 것이 가능합니까)
+We can arrange the payment in monthly installments of $ 10,000.
+(월 1만 달러의 월정 지불 방법이 있습니다.)
+How would you like to settle this(어떤 결제 방법이 좋습니까)
+Can you make an advance payment(선불로 지불해 주시겠습니까)
+We'd like it in one payment.(일괄 지불로 부탁드립니다.)
+
+
+
+Situation 727 Moving up the delivery
+
+Kim:How long will it take for the goods to arrive
+Josh:They'll reach you by the 10th.
+Kim:The 10th! Can you move up the delivery date
+Josh:ARe you in hurry
+Kim:I would say it's urgent.
+Josh:Okay. I'll arrange the delivery right away.
+
+상황 727 납기 앞당기기
+
+김:상품이 도착하기까지 얼마나 걸리죠
+조쉬:10일까지는 닿을 겁니다.
+김:10일이나요 납기를 앞당겨 주시겠습니까
+조쉬:급하신가요
+김:급한데요.
+조쉬:알겠습니다. 즉시 출하 준비를 하겠습니다.
+
+<어구연구>
+
+미스터 김은 조쉬씨에게 납기를 빨리 해 달라고 말하고 있다.
+그는
+
+Can you move up the delivery date(납기를 앞당겨 주시겠습니까)
+
+라고 요청을 한다. move up 은 "~을 앞당기다"란 의미며, delivery date는 [배달날짜]지만 비즈니스 영어에서는 [물건의 납입기한]을 의미한다. 정식용어로는 [delivery deadline]이다.
+
+납품을 앞당기는 표현들로는
+
+Could you arrange the delivery right away(즉시 납품 준비를 해주시겠습니까)
+Will you be able to deliver the products sooner(좀더 빨리 그 제품을 납품해 줄 수 있습니까)
+Could you deliver the next shipment by air(다음 발송은 항공편으로 해주시겠습니까)
+Can you meet the deadline(납기에 맞출 수 있습니까)
+Why don't we set the exact dellivery date(확실하게 납기를 정할 수 없습니까)
+
+
+
+Situation 728 Components
+
+Kim:Mr.Hull, we had a large order this week.
+Hull:You did
+Kim:We need the components urgently.
+Hull:I understand your situation.
+Kim:Will you arrange an express delivery
+Hull:All right.We'll do it right away.
+Kim:I appreciate it, Mr.Hull.
+Hull:You're very welcome.
+
+상황 728 부품
+
+김관의:할씨, 이번주에 큰 주문이 들어왔습니다.
+할:그래요
+김관의:부품이 급하게 필요합니다.
+할:귀사의 상황은 알겠습니다.
+김관의:속달로 납품 준비를 해주시겠습니까
+할:좋습니다. 바로 준비하겠습니다.
+김관의:감사합니다,할 씨.
+할:천만에요.
+
+<어구연구>
+
+급하게 부품이 필요해진 김관의는 할씨에게 속달로 부품을 보내줄 수 있는지를 묻고 있다.
+그는
+
+We need the components urgently.(부품이 급하게 필요합니다.)
+
+라고 요청을 하고 있다. 비슷한 표현으로는
+
+We want the merchandise by tomorrow.(내일까지 상품을 원합니다.)
+The goods must be here in a week.(상품이 1주일 후에는 도착하도록 해야 합니다.)
+We've got to have the products within the week.(이번 주 중에 그 제품을 받아야 합니다.)
+Our production will have to be stopped.(생산을 멈춰야 할지도 모릅니다.)
+We'll have to sell the merchandise at a reduced price.(가격을 내려서 팔아야 합니다.)
+
+등이 있다.
+
+
+
+
+Situation 729 A discount
+
+Min:What kind of discount are you offering on 1,000 units
+Hart:I can offer a discount of 10%.
+Min:Could you give us a better price
+Hart:This price is our lowest possible.
+Min:We'd like you to come down another 5 %.
+Hart:No way! It means we offer it to you at cost.
+
+상황 729 할인
+
+민경환:1000개에 대해 어느 정도 할인을 해 줍니까
+하트:10% 할인을 제공할 수 있습니다.
+민경환:조금 더 할인해 주시겠습니까
+하트:이 가격이 한계입니다.
+민경환:5%더 가격을 내려 주셨으면 합니다.
+하트:그럴 순 없어요! 그러면 원가로 제공하게 됩니다.
+
+<어구연구>
+
+민경환은 하트씨와 가격할인에 대해 교섭하고 있다. 그는 하트씨가 10% 할인율만 적용한다는 말에 
+
+Could you give us a better price(좀 더 가격을 할인해 주시겠습니까)
+
+라며 묻고 있다.better price는 [자신들에게 있어 보다 좋은 가격, 즉 최저가격]을 의미.직접적으로 discount를 사용하지 않고 우회적으로 할인을 구하는 표현이다.
+
+가격할인을 이끌어내는 다른 표현들도 알아두자.
+
+Could you give us a discount(할인해 주시겠습니까)
+Would you offer your best price(귀사의 최저 가격으로 제공해 주시겠습니까)
+What kind of discounts are you offering on the product(그 제품에 대해 어느 정도의 할인을 해주시겠습니까)
+Can we get a discount on the old model(구형 모델은 싸게 해주실 수 있습니까)
+Could you please reduce your price by 3%
+(3% 할인해 주시겠습니까)
+
+
+Situation 730 Sightseeing
+
+Yoon:Mr.Smith, you told me you'd like to watch a Ssirum tournament.
+Smith:That's right. I would.
+Yoon:How about going to the Changch'ung gymnasium this afternoon
+Smith:That's really kind of you.
+Yoon:Let's meet in front of the reception desk at two o'clcok.
+Smith:All right. I'll be there.
+
+상황 730 관광
+
+윤형석:스미스씨, 씨름을 보고 싶다고 말씀하셨지요
+스미스:예, 그렇습니다.
+윤형석:오늘 오후 장충체육관에 가시겠어요
+스미스:정말 친절하시군요.
+윤형석:그러면 2시에 프런트 앞에서 만납시다.
+스미스:좋습니다. 거기에 있겠습니다.
+
+<어구연구>
+
+윤형석은 한국에 있는 동안 씨름을 꼭 보고 싶다한 스미스씨와 함께 장충체육관에 가기로 약속한다.
+
+윤형석은 스미스씨에게
+
+Mr.Smith, you told me you'd like to watch a Ssirum tournament.(씨름을 보고 싶다고 말했었지요.)
+
+라며 묻는다. 여기서 "you told me~"은 that 이하의 일을 말했다 로 상대의 발언을 확인하거나, 상기시킬 때 사용한다. 접속사 ,that은 회화에서는 자주 생략한다.
+
+비슷한 표현들을 익혀두자.
+
+You said you wanted to watch Samulnori.(사물놀이를 보고 싶다고 말씀하셨지요.)
+I hear you play golf.(골프를 하신다고 하더군요.)
+I heard you love classical music.(클래식 음악을 좋아하신다고 들었습니다.)
+I remember you like to watch soccer.(축구 관전을 좋아하셨던 것으로 기억합니다.)
+
+Situation 730 Sightseeing
+
+Yoon:Mr.Smith, you told me you'd like to watch a Ssirum tournament.
+Smith:That's right. I would.
+Yoon:How about going to the Changch'ung gymnasium this afternoon
+Smith:That's really kind of you.
+Yoon:Let's meet in front of the reception desk at two o'clcok.
+Smith:All right. I'll be there.
+
+상황 730 관광
+
+윤형석:스미스씨, 씨름을 보고 싶다고 말씀하셨지요
+스미스:예, 그렇습니다.
+윤형석:오늘 오후 장충체육관에 가시겠어요
+스미스:정말 친절하시군요.
+윤형석:그러면 2시에 프런트 앞에서 만납시다.
+스미스:좋습니다. 거기에 있겠습니다.
+
+<어구연구>
+
+윤형석은 한국에 있는 동안 씨름을 꼭 보고 싶다한 스미스씨와 함께 장충체육관에 가기로 약속한다.
+
+윤형석은 스미스씨에게
+
+Mr.Smith, you told me you'd like to watch a Ssirum tournament.(씨름을 보고 싶다고 말했었지요.)
+
+라며 묻는다. 여기서 "you told me~"은 that 이하의 일을 말했다 로 상대의 발언을 확인하거나, 상기시킬 때 사용한다. 접속사 ,that은 회화에서는 자주 생략한다.
+
+비슷한 표현들을 익혀두자.
+
+You said you wanted to watch Samulnori.(사물놀이를 보고 싶다고 말씀하셨지요.)
+I hear you play golf.(골프를 하신다고 하더군요.)
+I heard you love classical music.(클래식 음악을 좋아하신다고 들었습니다.)
+I remember you like to watch soccer.(축구 관전을 좋아하셨던 것으로 기억합니다.)
+
+
+Situation 731 A send-off
+
+Lee:It's been nice working with you, Mr.Smith.
+Smith:I enjoyed working with you, too.
+Lee:I hope to see you again soon.Have a good trip!
+Smith:I will. Thank you for everything.
+Lee:Goodbye.
+Smith:Goodbye.
+
+상황 731 배웅
+
+이수민:스미스씨, 함께 일해서 무척 즐거웠습니다.
+스미스:저도 즐거웠습니다.
+이수민:곧 다시 만날 수 있기를 바랍니다. 편안한 여행 되세요!
+스미스:그러죠. 모든 점에 감사드립니다.
+이수민:안녕히 가세요.
+스미스:안녕히 계십시요.
+
+<어구연구>
+
+이수민은 일을 끝내고 본국으로 돌아가는 스미스씨를 배웅한다.
+그는 
+
+It's been nice working with you, Mr.Smith.(함께 일할 수있어서 즐거웠습니다.)
+
+라며 고마운 마음을 표현하고 있다. nice 외에는 great(매우좋다), wonderful(멋지다),a pleasure(즐거움)등을 사용할 수 있다.
+
+다른 표현들로는
+
+I enjoyed workind with you.(당신과 일하는 것이 즐거웠습니다.)
+I hope we can work together again.(다시 함께 일할 수 있기를 바랍니다.)
+I've learned a lot from you.(당신에게서 많은 것을 배웠습니다.)
+I'm glad business went well.(일이 잘되어 기쁩니다.)
+You've been a great help to us.(우리에게 많은 도움이 되었습니다.)
+
+등이 있다. 
+
+
+
+Situation 732 Meeting
+
+Pak:Excuse me, are you Mr.Smith of Union Trading
+Smith:Yes.Are you...
+Pak:I'm Yu-Jin Pak from Shinna Industries.How do you do,Mr.Smith
+Smith:Nice to meet you, Mr.Pak.
+Pak:Did you sleep well last night
+Smith:Yes, I did.
+Pak:That's good. I have a car waiting outside.Please come thisway.
+
+상황 732 마중
+
+박유진:실례합니다만, UT사의 스미스씨입니까
+스미스:예. 당신은...
+박유진:신나 산업의 박 유진입니다. 처음 뵙겠습니다. 스미스씨.
+스미스:만나서 기쁩니다, 미스터 박.
+박유진:어제밤에는 잘 주무셨습니까
+스미스:예.
+박유진:그거 다행이군요. 밖에 차를 대기시켜 놓았습니다.이쪽으로 오십시요.
+
+<어구연구>
+
+박유진은 내한한 스미스씨를 호텔 로비로 마중하러 나간다. 스미스씨와는 첫 대면이다.
+그는
+
+Excuse me, are you Mr.Smith of Union Trading
+(실례합니다만, UT사의 스미스씨입니까)
+
+라고 묻고 있다.
+상대방이 자신이 찾는 사람인지 확인할 때 쓰는 표현들을 알아보자.
+
+Excuse me, I'm looking for Mr.Smith from Union Trading.(실례합니다만, UT사의 스미스씨를 찾고 있습니다.)
+I'm sorry, I mistook you for someone else.(미안합니다만, 사람을 잘못 봤습니다.)
+
+회사까지 안내할 때 교통수단을 이용하는 표현은.
+
+I have a taxi waiting for us in front of the hotel.
+(호텔 앞에 택시를대기시켜 놓았습니다.)
+We'll take a train to the factory.(공장까지 전철로 가겠습니다.)
+It's a short walk from here to our office.(사무실까지는 여기서 잠깐 걸으면 됩니다.)
+Are you ready to leave(떠날 준비는 되셨습니까)
+
+등을 사용하자.
+
+
+Situation 733 Payment
+
+O:By the way, what are your terms of payment
+Han:Your payment is due on May 30th.
+O:Do you accept payment by promissory notes
+Han:I'm afraid not.We'd like you to pay by bank draft.
+
+상황 733 지불
+
+오현주:그런데 귀사의 지불 조건은 어떻게 되어 있습니까
+한형태:지불 기한은 5월 30일까지입니다.
+오현주:약속 어음은 받습니까
+한형태:죄송하지만 안됩니다. 은행 발행 수표로 부탁합니다.
+
+<어구연구>
+
+오현주는 한형태씨와 지불에 관한 조건을 매듭짓고 있다. 그는
+
+What are your terms of payment(지불 조건은 어떻게 되어 있습니까)
+라고 묻는다.term 이라는 단어를 지불, 계약, 가격등의 조건이라는 의미로 사용하는 경우는 terms라는 복수형으로 사용한다. terms and conditions으로 같은 의미의 단어를 두 번 반복 사용하는 때도 자주 있다.
+
+지불조건에 대한 표현은 
+
+Could you tell me what your terms of payment are(귀사의 지불 조건을 가르쳐 주시겠습니까)
+Will you select your choice of payment(원하는 지불 방법을 선택해 주시겠습니까)
+Will you indicate your terms of trading(거래 조건을 제시해 주시겠습니까)
+We cannot accept your offer on these terms.(이 조건으로는 귀사의 제의를 받아들일 수 없습니다.)
+Could you send a copy of the terms of payment(지불 조건의 사본을 보내 주시겠습니까)
+Is the payment based on Korean won(지불은 원화로 합니까)
+
+가 있다.
+
+
+Situation 734 Changing appoinement
+
+Kim:Hello, this is Kim speaking.
+Banks:Hello, Mr.Kim. This is Banks. What's up
+Kim:I'm sorry, but I have to cancel our appointment.
+Banks:What happened
+Kim:Some urgent business has come up.
+Banks:I see.
+Kim:Could we reschedule the date
+Banks:Sure. How about Thursday, ten o'clock
+Kim:That would be great. I appreciate it.
+
+상황 734 약속 변경하기
+
+김수현:안녕하세요.김수현입니다.
+뱅크스:안녕하세요, 미스터 김. 뱅크스입니다. 무슨일이시죠
+김수현:죄송하지만 약속을 취소해야겠습니다.
+뱅크스:무슨일이 생겼나요
+김수현:급한 업무가 생겼습니다.
+뱅크스:알겠습니다.
+김수현:다시 약속을 잡을까요
+뱅크스:그러지요. 목요일 10시가 어떨까요
+김수현:아주 좋습니다. 감사합니다.
+
+<어구연구>
+
+급한 일이 생겨 김수현은 뱅크스와 한 약속을 변경하려고 한다.
+그는
+
+I'm sorry, but I have to cancel our appointment.(죄송하지만 약속을 취소해야겠습니다.)
+
+라고 말한다. 약속을 취소할 때는 상대방에게 먼저 사과의 뜻을 보여야 한다. 강조하고 싶을 때는 very/really/terribly/indeed등을 I'm다음에 붙인다.
+
+약속 변경의 다른 표현들을 정리해 두자.
+
+I'm sorry, but I have to postpone tomorrow's appointment.
+(죄송합니다만, 내일 약속을 연기했으면 합니다.)
+I'm very sorry, but Mr.Hwang can't see you tomorrow.
+(매우 죄송하지만 미스터 황은 내일 만날 수가 없습니다.)
+I'm afraid I'd like to change the place of our appointment.
+(미안하지만 약속 장소를 바꾸고 싶은데요.)
+I'm afraid I'll be an hour late for our appointment.
+(미안하지만 약속 시간에 1시간 정도 늦을 것 같습니다.)
+
+
+Situation 735 The delivery date
+
+
+Hong:How long will it take for the goods to arrive
+Hart:They'll reach you by the 10th.
+Hong:The 10th! Can you move up the delivery date
+Hart:Are you in a hurry
+Hong:I would say it's urgent.
+Hart:Okay. I'll arrange the delivery right away.
+
+상황 735 납기일
+
+홍승영:상품이 도착하기까지 얼마나 걸립니까
+하트:10일까지는 닿을 겁니다.
+홍승영:10일이나요 납기를 앞당겨 주시겠습니까
+하트:급하신가요
+홍승영:급한데요.
+하트:알겠습니다. 즉시 출하 준비를 하겠습니다.
+
+<어구연구>
+
+홍승영은 하트씨에게 납기를 빨리 해달라고 교섭하고 있다.
+그는 
+
+Can you move up the delivery date(납기를 앞당겨 주실 수 있나요)
+
+라고 묻는다. move up은 <~을 앞당기다>라는 의미이다. delivery date는 직역하면 배달날짜지만, delivery deadline이라고 한다.
+
+비슷한 표현으로는
+
+Can you meet the deadline(납기에 맞출 수 있습니까)
+Could you extend the delivery deadline(납기를 연기해 주시겠습니까)
+
+납기의 변경에 답할 때는 적극적으로 대처한다는 느낌이 나게 답을 해야 한다.
+
+I'll arrange immediately delivery.(즉시 납품 준비를 하겠습니다.)
+We'll make arrangements for prompt delivery.(바로 발송 준비를 하겠습니다.)
+They've already been sent.(이미 발송을 끝냈습니다.)
+
+
+Situation 736 Manufacture
+
+Yoon:As you know, we manufacture laptop computers.
+Smith:How was the sales performance last year
+Yoon:Our sales amount was about 50 million dollars.
+Smith:That's impressive! Could I see your annual report
+Yoon:Of course.Here you are.
+
+상황 736 제조
+
+윤경수:아시는 바와 같이 우리 회사는 휴대용 퍼스널 컴퓨터를 생산하고 있습니다.
+스미스:작년 매상고는 얼마였습니까
+윤경수:대략 5,000만 달러였습니다.
+스미스:대단하군요! 연차 보고서를 보여 주시겠습니까
+윤경수:물론이죠. 여기 있습니다.
+
+<어구연구>
+
+미스 박은 스미스씨에게 회사의 취급 상품과 매상고의 개요를 설명하고 있다.그는
+
+We manufacture laptop computers.(우리회사는 휴대용 퍼스널 컴퓨터를 생산하고 있습니다.)
+
+로 회사의 주요 제조 물품을 소개하고 있다.
+회사의 사업내용을 설명할 때는 <~을 제조하고 있다> 와 같이 업종을 동사로 나타낸다. sell은 <판매하다>export<수출하다>distribute<유통시키다.>supply<공급하다>등 상황설명에 맞는 단어를 사용하자.
+
+We're a manufacture of household appliances.(우리 회사는 가전제품 제조업체입니다.)
+We sell furniture.(가구를 판매하고 있습니다.)
+Our company imports and exports electronic components.(전자부품 수출입을 하고 있습니다.)
+We're dealing in sporting goods.(우리는 스포츠 용품을 취급하고 있습니다.)
+We've been specializing in importing miscellaneous goods.(잡화 수입을 전문으로 해오고 있습니다.)
+
+
+Situation 737 Dinner
+
+Choi:I'd lilke to take you out tonight.
+Smith:Thank you.That's would be very kind of you.
+Choi:What would you like to have for dinner
+Smith:Well, I'll leave it up to you.
+Choi:Is there any problem with Korean Food
+Smith:Not at all.I often go to Korean restaurants in the States.
+Choi:Good! I'll take you to a local food restaurant.They serve really good pulgogi.
+
+상황 737 저녁
+
+최주현:오늘밤 저녁식사에 초대하고 싶습니다.
+스미스:감사합니다.
+최주현:저녁식사로 뭘 드시고 싶으세요
+스미스:최선생님 판단에 맡기겠습니다.
+최주현:한국음식은 괜찮습니까
+스미스:전혀 문제 없습니다.미국에서도 종종 한국음식점에 갑니다.
+최주현:알겠습니다. 향토 요리를 먹을 수 있는 레스토랑에 갑시다. 거기 불고기가 무척 맛있습니다.
+
+<어구연구>
+
+최주현은 스미스씨를 저녁식사에 초대하려고 한다.그는 스미스씨의 취향등에 대해 묻고 있다. 업무상의 초대이므로 do you lilke가 아니라 would you like를 사용해서 정중하게 묻느다. eat보다는 have를 사용하는 편이 고상하게 들린다.
+
+식사에 초대하고 싶을 때는
+
+What would you like to have for dinner(저녁식사는 무엇을 드시고 싶습니까)
+What kind of food would you like(어떤 종류의 요리를 좋아하십니까)
+Do you care for Korean food(한국 음식을 좋아하십니까)
+Is there any restaurant you'd like to go to(가보고 싶은 레스토랑이 있습니까)
+What time shall we go(몇 시에 갈까요)
+I'll pick you up at the hotel at six o'clock.(6시에 호텔로 마중을 가겠습니다.)
+
+"한국 음식은 괜찮습니까"라고 확인할 때 사용하는 표현은 Is there any problem with~ 같은 표현으로는 Do you have any problem with~라고 말해도 좋다.
+
+Are you allergic to mutton(양고기는 괜찮습니까)-be allergic to~가 식성에 맞다.
+Is there any food you're not supposed to eat(드시지 않는 것이 있습니까)
+Do you like Chinese food(중화요리를 좋아하십니까)
+
+의 표현들도 익혀두자.
+
+
+Situation 738 Entertainning a visitor
+
+Receptionist:Good morning, sir.May I help you
+Smith:Good morning. I'm Scott Smith from ABC company.I havean appointment with Mr.Pak.
+Receptionist:Well, Mr.Pak is expecting you.I'll tell him you'rehere.Would you wait for a moment
+Smith:Sure.
+Receptionist:Please have a seat.He'll be with you in a moment.
+Smith:Thank you.
+
+상황 738 손님 접대하기
+
+안내 데스크:안녕하십니까.무엇을 도와드릴까요
+스미스:안녕하세요.ABC사의 스콧 스미스입니다..미스터 박과 약속을 했습니다.
+안내데스크:예. 기다리고 계십니다.오셨다고 전하겠습니다.잠시만 기다려 주시겠습니까
+스미스:예{.
+안내 데스크:앉으십시오. 곧 오실겁니다.
+스미스:감사합니다.
+
+<어구연구>
+
+ABC사의 스콧 스미스씨가 미스터 박을 방문하기 위해 안내 데스크를 찾았다.그가 미스터 박을 찾아왔다고 말하자. 안내데스크 담당자는
+
+I'll tell him you're here.(오셨다고 전해드리겠습니다.)
+
+로 응대한다. 비슷한 표현들로는
+
+I'll tell him know you're here.(오신 것을 알리겠습니다.)
+We've been expecting you.(기다리고 있었습니다.)
+May I have your name, please(성함을 말씀해 주시겠습니까)
+Who do you have an appointment with(어느 분과 약속을 하셨습니까)
+
+등이 있다.
+
+
+Situation 739 Calling
+
+Hong:Hello, is Mr.Baker in
+Ford:I'm afraid he's out of the office.
+Hong:When will he be back
+Ford:He'll probably return in an hour.Could I take a message
+Hong:Yes.This is Su-min Hong from Shinna Industries.Could you tell him I'll call back this evening
+Ford:Okay.I'll give him your message.Thank you for calling, Miss.Hong.Good-bye.
+Hong:Good-bye.
+
+상황 739 전화
+
+홍:베이커 씨 계십니까
+포드:죄송합니다만 외출중입니다.
+홍:언제 돌아오십니까
+포드:아마 1시간 내에 돌아올겁니다.뭐라고 전해드릴까요
+홍:예, 저는 신나 산업의 홍수민입니다. 오늘 저녁에 제가 전화를 하겠다고 전해 주시겠습니까
+포드:알겠습니다. 전해 드리겠습니다.전화해 주셔서 감사드립니다. 미스홍, 안녕히 계십시요.
+홍:안녕히 계십시요.,
+
+<어구연구>
+
+미스 홍은 베이커씨가 부재중이어서 포드씨에게 베이커 씨의 예정을 다시 확인하고 전화를 걸겠다는 메시지를 남긴다.상대방이돌아오는 시간을 물을 때는
+
+What time is he coming back(몇 시에 돌아옵니까)
+Is he coming back to the office tonight(언제 돌아올지 아십니까)
+How can I get in touch with him right away(어떻게 하면 지금 바로 그와 연락이 될까요)
+I'm not sure when he'll be in.(언제 돌아올지 모르겠습니다.)
+
+전화를 다시 걸겠다는 말을 전할 때는
+
+Could you tell her I'll get back to her later(나중에 전화하겠다고 전해 주십시요.)
+Would you tell her I'll phone back in an hour(1시간 내에 다시걸겠다고 전해 주시겠습니까)
+Would you let her know I'll give her a ring tomorrow(내일 전화하겠다고 전해 주시겠습니까)
+Please tell her I'll try again after lunch.(점심 식사 후에 또 걸겠다고 전해주십시요.)
+
+등으로 표현하도록 하자.
+
+
+Situation 740 L/C
+
+Smith: Mr. Kim, I`d like to place an order for 5,000 doz. T- shirts.
+Kim : OK. Can you fill me in a little more on the exact specifications
+Smith : Oh, this is a repeat order of style Z-26.
+Kim: How about the L/C Are you opening a new one
+Smith : Well, I think you still have three L/Cs we
+opened that still have some balance left on them.
+Kim : Yeah, that`s right. Then to which L/C should I allocate this order 
+
+상황 720 신용장
+
+스미스 : 김 선생님, T셔츠 5,000타를 주문하고 싶은데요.
+김동윤 : 좋습니다. 제작규격에 대해 좀더 정확히 알려주시겠습니까
+스미스 : Z-26스타일에 대한 재주문입니다.
+김동윤 : L/C는 어떻게 할까요 새로 개설하시겠습니까
+스미스 : 글쎄요, 저희가 개설한 3개의 L/C를 귀사가 갖고 있을 텐데 거기 에 아직 잔액이 좀 남아있을 겁니다.
+김동윤 : 예, 그렇군요. 그러면 이 주문을 어느 신용장에 적용시켜야 할까 요 
+
+<어구연구>
+
+김동윤은 세 개의 신용장 중 어느 것에 적용해야하는지를 스미스씨에게 묻고 있다.
+
+To which L/C should I allocate this order (이 주문은 어느 신용장에 적용을 시켜야 합니까)
+
+김동윤의 얘기는 이 주문에 대한 환어음을 어느 신용장에 결부시켜 발행해야 하느냐는 의미도 된다. 여기서 allocate 대신에 apply나 place를 써도 좋다. 
+다음엔 「할당하다, 배정하다」란 뜻의 assign, allot, allocate 에 관한 예문들을 살펴보자.
+
+The funds were not allocated for this purpose. (그 자금은 이 목적을 위해 할당되지 않았다.)
+That space has already been allocated for building a new hospital. (그 공간은 벌써 병원의 신축부지로 배정이 되었다.)
+To whom was this allotment allocated (이 몫은 누구에게 배정되었습니까)
+The allotment of profits was made Monday. (이익배당은 월요일 날 실시되었다.)
+The Ford Foundation allocated millions of dollars for cancer research. (포드재단은 암연구를 위하여 수백만 달러를 할당했다.)
+What size specifications are applicable to this order (이 주문에는 어떤 규격명세서가 적용되어야 합니까)
+
+
+Situation 741 Payment 
+
+Hwang:I ahve no objection about that point.
+Smith:Then, how should we pay for this
+Hwang:We request a 10 percent payment at the time of ordering. The remainning amount must be paid within 60 days of the invoice date.
+Smith:No problem.Delivery time will be September 1st
+Hwang:No, that would be impossible.It takes about 40 days by sea for the products to reach you.So they will arrive after September 15.
+Smith:We would like to launch an advertising campaign, so we need to get hold of some units as soon as possible. Please send us 1,000 units by air to reach us by September 1st.And then the rest could be sent by ship.
+Hwang:OK, we'll do it immediately.
+
+상황 741 지불
+
+황해선: 그점에 대해서는 이의가 없습니다.
+스미스:그럼 어떻게 지불해야 합니까
+황해선:주문하실 때, 10퍼센트를 지불하시고 나머지는 청구서 날짜의 60일 이내에 지불하셔야 합니다.
+스미스:알았습니다. 그리고 상품 인수일은 9월 1일로 해도 좋습니까
+황해선:아닙니다. 9월 1일은 무리입니다.운송 일수가 선편으로 40일정도 걸리므로 물품은 9월 15일 이후에나 인도가 가능합니다.
+스미스:저희는 홍보용이 한시라도 빨리 필요합니다. 9월 1일까지 1,000개만 항공편으로 보내주세요.그리고 나머지는 선편으로 보내주세요. 
+황해선:좋습니다. 곧바로 그렇게 하겠습니다.
+
+<어구연구>
+
+황해선은 스미스와 지불조건과 기한에 관해 교섭을 하고 있다. 
+지불 조건을 제시할 때의 표현을 익혀두자.
+
+Will you select your choice of payment(원하는 지불 방법을 선택해 주시겠습니까)
+May we pay in installment(할부로 해주시겠습니까)
+What are your terms of payment(지불 조건은 어떻게 됩니까)
+How is this to be paid for(이것은 어떻게 지불하면 좋을까요)
+Would you please tell us your terms of payment(지불 기간에 대해 말씀해 주시겠습니까)
+
+지불 기한은
+
+We like to set the payment date on April 1st.(지불 기일은 4월 1일로 부탁드립니다.)
+Please transfer $ 500 to our account today.(오늘 500달러를 우리 계좌로 보내 주십시요.)
+Your bill is now 30 days overdue.(이 청구서는 30일간이나 지불 기한이 넘었습니다.)
+Payment is due within 30 days of the invoice date.(지불 기한은 송장의 날짜로부터 30일 이내입니다.)
+
+등으로 표현할 수 있겠다.
+
+
+Situation 742 A shipment
+
+Kim : (on telephone) Uh, Mr. Cruise, did you say we shipped short
+Cruise : That`s right, three dozen boxes, to be exact.
+Kim : Gosh, that many I wonder how that happened
+Cruise: Well, I don`t know, but you better get on it right away. My boss is hopping mad.
+Kim : Sure thing, I`ll check it out first thing in the morning.
+Cruise : Do it tonight if you can, and let me know about it in the morning. 
+
+상황 742 선적
+
+김동영 : (전화로)아, 크루즈씨, 물건이 모자라다고 하셨습니까 
+크루즈: 그래요, 정확히 36 박스입니다.
+김동영 : 맙소사! 그렇게나 많습니까 어떻게 된 거죠
+크루즈 : 글쎄요, 저도 모르겠습니다만, 즉시 이 일을 해결해 주셔야겠 습니다. 저희 사장님이 지 금 노발대발하고 계십니다.
+김동영 : 알겠습니다. 내일 아침 제일 먼저 그 일을 확인해 보겠습니 다.
+크루즈 : 가능하다면 오늘밤 하셔서 내일 아침에 그 결과를 저에게 알려 주십시오. 
+
+<어구연구>
+
+김동영은 선적 후, 거래 회사로부터 물품이 계약보다 적게 왔다는 전화를 받게 된다.그러자 그는
+
+Did you say we shipped short (우리가 부족하게 선적을 했다구요)
+
+라고 다시 확인을 한다. ship short는 short-ship처럼 복합어로 만들어 쓰기도 한다. 김동영이 한 얘기는 다음과 같이 다르게 표현해 볼 수도 있겠다.
+
+Did you say our shipment was short (저희 선적품이 부족하다고 말씀하셨습니까)
+Did you say we short-shipped (우리가 부족되게 선적을 했다고 말씀하셨습니까)
+
+다음엔 '부족하다'(be short)란 어구를 활용해 보자.
+
+I`m short one item. ((물품이) 한 개가 부족합니다.)
+I need $10 but I`m $1 short ; I`ve only got $9. (난 지금 10불이 필요한데 1불이 부족합니다 ; 9불밖에 갖고 있지 않거든요.)
+You shorted me 5 eggs. (댁에서 계란을 5개나 덜 보냈습니다.)
+
+A : When did you discover that the shipment was short (선적품이 부족하다는 것을 언제 발견하셨습니까)
+B : After I opened the package, I found that you shorted me several items. (꾸러미를 열어본 후 몇 가지 부족하게 보내신 것을 알았습니다.)
+
+
+Situation 743 A verbal promise
+
+Yoon : (on telephone) Mr. Tracy This is Mr. Yoon. I heard you arrived last night.
+Tracy : Yes, my flight was delayed. I got held over in Tokyo for five hours.
+Yoon : Sorry to hear that. How long do you plan to stay
+Tracy : Oh, should be ten days or so, maybe more. Say how are you guys coming along on that shipment of duck-down jackets ABC's waiting for it, you know.
+Yoon : Yeah, it's going OK. Should be ready in a day or two. Say, why don't we get together for a game of golf one day next week
+Tracy: Okay, as soon as I get everything cleared out of the way. I want to take a look at those jackets, too, before I leave. 
+
+상황 743 구두 약속
+
+윤상현 : (전화로) 트레이시씨세요 저는 윤상현입니다. 어젯밤에 도착하셨다고 들었습니다.
+트레이시: 예, 비행기가 연착되어서 도쿄에서 5시간 동안 묶여 있었어요.
+윤상현 : 저런, 얼마나 오래 머물 계획이세요
+트레이시 : 10일 정도나 그 이상이 될 것입니다. 저, 오리털 자켓의 선적건은 잘 진행되고 있습니 까 아시다시피 ABC사는 그것을 기다리고 있습니다.
+윤상현 : 예, 잘 진행되고 있습니다. 하루나 이틀만 있으면 다 됩니다. 그럼, 다음주 언제 함께 골프나 하러 가실까요
+트레이시 : 좋습니다, 지금 진행 중인 일이 다 끝나는 대로요, 제가 떠나기 전에 자켓들도 한번 구 경하고 싶습니다. 
+
+<어구연구>
+
+윤상현은 트레이시에게 골프를 치러 가자고 제의를 한다. 이에 대하여 트레이시씨는, 
+
+Okay, as soon as I get everything cleared out of the way, (좋아요, 일을 다 끝내는 대로,)
+
+와 같은 긍정적인 응답을 하고 있다. out of the (one's) way는 '방해가 되지 않도록;끝나서, 다 처리가 되어'란 뜻의 부사구. 또한 다음과 같이 표현해도 된다.
+
+As soon as I get everything finished,
+When I get through with everything,
+
+처럼 다르게 표현할 수도 있다. ease up(<사태가>완화되다)이란 표현을 써서,
+
+As soon as things ease up, (일이 좀 덜 바빠지면,)
+
+으로 표현하는 것도 좋다. 이런 상황에서 한국사람이라면 '바쁜 일이 끝나는 대로…'와 같이 표현하는 것이 보통인데 이는,
+
+As soon as I get all this busy work out of the way,
+
+와 같이 표현하면 된다.
+
+
+Situation 744 L/C
+
+Han: Mr. Choi, you came to Korea just at the right time. I really want to ask you to attend your L/C No. 21304.
+Choi : In what way
+Han : The L/C says that partial shipment is prohibited while the contract says it is allowed.
+Choi : Oh! If that`s the case, we made a mistake when we applied for the L/C.
+Han : Would you please send a telex and request amendment as soon as possible
+Choi : Sure thing, I`ll get it out today. 
+
+상황 744 신용장
+
+한명은 : 최혁씨, 한국에 때마침 잘 오셨습니다. 귀사 신용장 21304번 에 대한 수정을 부탁드리 고 싶습니다.
+최혁 : 어떻게요
+한명은 : 계약서에는 분할선적이 허용되어 있는데 신용장엔 금지하는 걸 로 되어 있습니다.
+최혁 : 아, 그렇다면 저희가 신용장 개설신청을 할 때 실수를 한 모양입 니다.
+한명은 : 텔렉스을 보내서 가능한 한 빨리 수정을 하도록 해주시겠습니까 
+최혁 : 예, 그렇게 해드려야죠. 오늘 당장 텔렉스를 보내겠습니다. 
+
+<어구연구>
+
+한명은은 신용장 상에 분할선적(partial shipment)이 금지되어 있는 것을 발견하고 최혁에게 분할선적 허용으로 신용장 조항을 수정해 줄 것을 요청한다. 이에 대해 현재 한국을 방문중인 최혁은 그런 취지의 텔렉스를 본사에 치겠다는 뜻으로,
+
+Sure thing. I`ll get it out today. (예, 보내 드리고 말고요. 오늘 내보내도록 하겠습니다.)
+
+라고 말하고 있다. 이때의 get은 「(어떤 장소·상태 따위에)이르게 하다」란 불완전 타동사. 이를 다르게는,
+
+I`ll send it today.
+I`ll dispatch it today.
+I`ll get[send] it off today.
+
+처럼 표현할 수도 있다. 급히 발송하겠다고 말하려면 get it out [off] 대신 rush it out 이나 hurry it off와 같은 표현을 쓰면 좋다. 만일 Mr. Brown의 한국 agent을 통하여 내보내게 할 경우는,
+
+I`ll have the agent get it out today. (오늘 대리점으로 하여금 내보내도록 하겠습니다.)
+I`ll ask the agent to hurry it off today. (오늘 대리인으로 하여금 급히 발송하도록 하겠습니다.)
+
+처럼 표현할 수도 있다.
+
+
+Situation 745 Ordering in
+
+Lee: Say, Mr. Kim. How about putting this business aside for a while and grabbing a bite to eat
+Kim: I'm all for it. I'm about half-starved, but we've gotta wind it all up today, don't forget.
+Lee: Don't worry. I haven't forgotten. We'll finish it all by five, I guarantee.
+Kim: Say, I've got a great idea. Why don't we order in Then we can kill two birds with one stone.
+Lee: Not a bad idea. There's a restaurant here that delivers.
+Kim: Great, then make mine a cheeseburger with everything on it. 
+
+상황 745식사 배달
+
+이은성: 저, 김 선생님, 잠깐 일을 치우고 간단히 식사를 하는 게 어떨까요
+김홍민: 대찬성입니다. 저도 몹시 배가 고프거든요. 그러나 오늘 내로 이 일을 끝마쳐야 한다는 거 잊지 마세요.
+이은성: 염려마세요. 잊지 않았습니다. 틀림없이 5시까지는 다 끝낼 수 있을 겁니다. 
+김홍민: 참, 좋은 생각이 있습니다. 음식을 시켜다 먹는 게 어떨까요 그러면 일석이조가 될 테 니까요.
+이은성: 그것도 괜찮겠군요. 근처에 배달해 주는 식당이 있습니다.
+김홍민: 잘됐군요. 그럼 전 갖은 양념과 야채를 다 집어넣은 치즈버거로 하겠습니다. 
+
+<어구연구>
+
+오전 내내 상담을 하고 있던 이은성은 시장기를 느끼자 상담을 중단하고 점심을 먹자 는 제의를 한다. 이에 대해 김홍민은
+
+I've got a great idea. Why don't we order in (좋은 수가 있습니다. 우리 점심을 시켜자 먹읍시다.)
+
+라고 제의를 한다.order in이라는 표현은 직역하면 '안으로 주문하다'가 되므로 곧 '시켜다 먹다'를 의미하는 것이다. 다음과 같이 표현해도 좋다.
+
+How about ordering something from the restaurant instead of going out (나가지 말고 식당에 주문하여 시켜다 먹는 것은 어떨까요)
+How about having something delivered (음식을 배달해 달라고 하는 것은 어떨까요)
+How about having lunch here in the office I can order something. (사무실에서 점심을 먹는 것은 어떨까요 주문을 할 수 있거든요.)
+We're short of time, so how about ordering something here[in] (시간도 없고 하니까 여기서 뭘 시켜다 먹으면 어떨까요)
+How about having something brought here (식사를 여기로 갖다 달라고 하면 어떨까요)
+If you call the restaurant, they'll bring your order here. (식당에 전화를 걸면, 여기까지 주문한 것을 배달해 줄 겁니다.)
+
+
+Situation 746 An introduction 
+
+Gam: Mr. Brian., I'd like to introduce you to my immediate supe rior, Mr. Choi.
+Brian: How do you do My pleasure.
+Gam : Mr. Choi is director of our department. And this is my immediate subordinate, Mr. Kang.
+Brian : Mr. Kang, pleasure to meet you.
+Gam: Mr. Kang handles all of ABC's accounts.
+Brian: Well, Mr. Kang, I guess you got a big job on your hands, don't you
+
+상황 746 소개
+
+감은수 : 브라이언씨, 제 직속상관 최 선생님을 소개해 드리겠습니다.
+브라이언 : 처음 뵙겠습니다. 뵙게 되어서 기쁩니다. 
+감은수 : 최 선생님은 우리 부서의 부장님이시고 이 사람은 제 바로 밑의 직원 강씨입니다.
+브라이언 : 강 선생님, 만나서 반갑습니다. 
+감은수: 강씨는 ABC사와의 모든 거래를 맡아서 처리하고 있습니다.
+브라이언: 강 선생님, 아주 중요한 일을 맡고 계시는 것 같군요, 그렇지요 
+
+<어구연구>
+
+감은수는 브라이언에게 그의 직장 동료들을 소개하고 있다.
+바로 위의 직속 상관을 소개할 때는
+
+I'd like to introduce you to my immediate supe rior, Mr. Choi.
+
+에서처럼 "immediate superior"이란 표현을 하며, 반대로 직속 부하는
+"Immediate subordinate"로 표현한다.
+
+오늘부터 실제 업무에 사용할 수 있는 간단한 무역용어를 익혀두도록 하자.
+
+Acceptance (오퍼수락); 
+수출업자가 먼저 Offer하여 수입업자가 이를 무조건적으로 수락하는것.
+(P/O : Purchase Order) 
+Accepting Bank(인수은행); 
+기한부신용장(usance L/C)에 의거하여 발행된 기한부어음을 인수하는 은행을 인수은행이라 한다. 
+Acknowledging(주문승락); 
+수입업자가 먼저 주문(Order)을 하고 수출업자가 이를 승락하는 것(Sales Note = Sales Contract) 
+Actual Total Loss (현실 전손) 
+Ad Valorem Duties (종가세) ; 
+수출입물품의 가격이 관세의 과세 표준이 되는 관세이며, 우리나라의 세율결정 방법은 종가세가 거의 대부분을 차지하고 있다. 
+
+
+
+Situation 747 An introduction of product
+
+Aaron: I'd like to know more about your products.
+Kim : We appreciate your interest. I have some catalogs I'd like you to look at.
+Aaron : Thank you. Do these cover your complete product line
+Kim : Yes, everything we export is included.
+Aaron : Are the prices up-to-date
+Kim : Yes, but they're scheduled to be revised at the end of year.
+Aaron : Do you have any samples with you
+Kim : No, I'm afraid I don't, but we can get them to you immediately.
+Aaron : Good. Let us look over the catalogs. We'll get in touch with 
+you soon.
+
+
+상황 747 제품 소개
+
+애런: 귀사 제품에 대해서 좀더 알고 싶습니다.
+김상민:: 관심을 가져 주시니 고맙습니다. 보여드릴 카탈로그가 몇가지 있는 데요.
+애런 : 고맙습니다. 여기에 귀사의 전품목이 다 나와 있습니까
+김상민:: 예, 저희가 수출하는 품목은 모두 포함되어 있습니다.
+애런: 가격은 최근의 것인가요
+김상민:: 예, 그런데 연말경에 변경이 될 예정입니다.
+애런 : 견본이 좀 있습니까
+김상민 : 없는데요, 하지만 곧 보내드릴 수는 있습니다.
+애런 : 좋습니다. 카탈로그를 좀 살펴본 다음 곧 연락을 드리겠습니다
+
+<어구연구>
+
+애런은 대한상사의 최근 인기를 얻고 있는 제품에 관심을 갖고 있다. 이에 김상민은 카탈로그를 보여주며 설명을 한다. 애런은 김상민에게
+
+Do these cover your complete product line(귀사의 전품목이 나와 있습니까)
+
+라고 질문을 한다. 
+자사의 제품을 소개할 때는 최대한 장점을 얘기하되 솔직하게 설명을 해야한다.
+
+전형적인 표현들을 익혀두자.
+
+This product is a big hit in Korea.(이 상품은 한국에서 대히트한 것입니다.)
+This machine is durable.(이 기계는 튼튼합니다.)
+These are our major products this year.(이것들은 올해의 주요 생산품입니다.)
+
+오늘의 무역어구는..
+
+Additional Clause (부보위험 담보조건) ; 
+- TPND ; Theft, Pilferage Non-Delivery (도난, 발하, 불착손 위험 담보)
+- RFWD ; Rain and/or Fresh Water Damage (우.담수 위험 담보)
+- COOC ; Confact with Oil and/or Other Cargo (유류나 기타 화물 접촉 위험 담보)
+- JWOB ; Jettison & Washing Over-Board (투하 갑판위 파도 위험조건)
+- Denting & Bending (구손, 곡손 위험담보) 
+- S & H ; Sweat & Heating (간습손, 열손 위험담보)
+- Leakage/Shortage (누손, 중량부족 위험담보) 등. 
+Advising Bank(통지은행); 
+Notifying Bank or Transmitting Bank와 같은 말이며 신용장을 통지해주는 은행을 지칭한다. 
+Airway Bills (항공화물 운송장) 
+Master AWB (항공사 발행 화물상환증)
+House AWB (혼재 화물운송장) 
+All Risks ; A/R (전위험 담보 조건) ---> I.C.C (A) 
+Applicant for the credit(신용장 개설 의뢰인); 
+신용장 개설의뢰인으로 수입업자에 해당한다. 
+
+
+
+Situation 748 A price negotiation
+
+Anthony : Mr. Kim, I think your new model has great potential. There is only one thing that bothers me.
+Kim : What's that
+Anthony : The price. It's not competitive.
+Kim : Well, there's always room for negotiation on that count. But at the same time, there are limitations.
+Anthony : Undoubtedly, but what I'm offering is within reason. $35.00 per unit for a minimum order of a thousand units.
+Kim : Okay. When I get back, I'll recommend your offer be accepted.
+
+상황 748 가격 협상
+
+앤서니 : 김 선생님, 귀사의 새 모델이 장차 상당히 가능성이 있는것으로 생 각됩니다만, 한가지 마음에 걸리는 점이 있습니다.
+김의관:: 그게 뭐지요
+앤서니 : 가격입니다. 경쟁력이 없거든요.
+김의관:: 가격에 대한 협상의 여지는 언제나 있습니다. 하지만 그와 동시에 한계도 있죠.
+앤서니 : 당연하지요. 하지만 제가 제의하고자 하는 것은 무리한게 아닙니다. 주문수량은 최소한 1천개 이상이고 단가는 개당 35불이에요.
+김의관:: 좋습니다. 제가 돌아가면, 귀사의 제의가 수락되도록 권유드리겠습 니다.
+
+<어구연구>
+
+앤서니는 김의관에게 제품 가격에 대해 교섭하고 있다. 그는 
+
+Undoubtedly, but what I'm offering is within reason. $35.00 per unit for a minimum order of a thousand units.(당연히 제가 제의한 건 무리가 아닙니다. 주문 수량은 최소한 1천개 이상이고 단가는 개당 35불입니다.)
+
+라고 말한다. 가격 교섭을 할 때는
+
+A 30% discount is out of question.(30% 할인은 터무니 없습니다.)
+We may offer you a quantitiy discount.(수량 할인은 가능할지 모릅니다.)
+If you buy 100 units, I could consider a better discount.(먄약 100개를 산다면, 더 큰 폭으로 할인이 가능합니다.)
+
+등으로 표현할 수 있겠다.
+
+<무역용어>
+
+Arbitration Clause(중재조항); 
+무역매매계약에 관하여 발생하는 분쟁은 소송에 의하여 해결하기 보다는 Arbitration(중재)에 의하여 해결하는 편이 현실적으로 유리하고 경비도 절감되며, 신속히 해결할 수 있다. 
+Automatic Approval Item ; A/A Item (자동 승인 품목) 
+Restricted Item (제한 승인 품목) 
+Back to Back Credit(구상무역 신용장 또는 동시개설 신용장); 
+Escrow Credit (기탁신용장)
+Tomas Credit ; 
+수익자가 개설 신청인 등 상대방을 수익자로 하는 수입 신용장의 개설을 약속하는 보증서 또는 보증신용장을 개설하는 것을 조건으로 하는 신용장. 
+Bareboat Charter (나용선 계약); 
+용선자가 선박이외에 선장, 선원, 장비 및 소모품에 대한 모든 책임을 진다.
+(Sub-Charter : 재용선) 
+Beneficiary(수익자, 수혜자); 
+수익자에 해당하므로 수출업자가 된다. 
+
+
+Situation 749 A Hotel
+
+Gwang : Say, Mr. Brown. How's the hotel you're staying at now Is
+it okay
+Brown: It's great. They've got everything you want and more.
+Gwang : Go on! It can't be that good. You're pulling my leg.
+Brown: No, really. I wouldn't kid you.
+Gwang: I know. I was only joking.
+Brown : Sure, I know. But all kidding aside, it's really the greatest. 
+I wouldn't dream of staying anywhere else.
+
+상황 749 호텔
+
+광현우: 저, 브라운씨, 지금 묵고 계시는 호텔 어떤가요 괜찮습니까
+브라운: 훌륭합니다. 필요한 것은 뭐든지 있으니까요.
+광현우: 설마요. 그 정도로 좋지는 않을텐데요. 농담하지 마세요.
+브라운 : 아니에요, 정말이에요. 제가 왜 거짓말을 하겠어요.
+광현우 : 압니다. 농담 한번 해본 거에요.
+브라운 : 그래요. 그나저나 농담이 아니라 그곳은 정말 훌륭합니다. 다른곳에 묵을 생각을 추호도 없어요. 
+
+<어구연구>
+
+광현우는 브라운에게 묵고 있는 호텔이 어땠냐고 묻고 있다.
+
+How's the hotel you're staying at now Is it okay(묵고 있는 호텔이 어떤가요)
+
+라고 하자, 브라운은 모든게 갖춰져 있다고 말한다. 하지만, 그 정도로 좋은 호텔은 아니기에 광현우는 
+
+You're pulling my leg.(농담하지 마세요.) 
+
+라고 한다. "농담"이란 의미의 'Joking'나 "kidding'외에 "You're pulling my leg."란 표현도 알아두자.
+
+[무역용어]
+
+Bareboat Charter (나용선 계약); 
+용선자가 선박이외에 선장, 선원, 장비 및 소모품에 대한 모든 책임을 진다.
+(Sub-Charter : 재용선) 
+Beneficiary(수익자, 수혜자); 
+수익자에 해당하므로 수출업자가 된다. 
+Berth Term : Liner Term; 
+적재(In) 할때나 양륙(Out) 할때나 모두 선주가 부담하는 조건이다. 이것은 정기선(Liner)에 의한 개품운송의 경우에는 이 조건을 원칙적으로 한다. 
+Bill of Exchange or Draft (환어음) 
+Drawer (환어음 발행인)
+Drawee (환어음 지급인)
+Payee (환어음 수령인) 
+Bill of Lading (선하증권)
+
+
+Situation 750 A business
+
+Kim : How was your flight
+Willian: Pretty smooth. I wish I could have slept a little more.
+Kim : You're not over your jet lag yet, are you What's the time difference between Seoul and New York
+William : Fifteen hours, but I think It'll only take a day or two to adjust.
+Kim : That's good. Let's get down to business.
+William : Okay. Let me get my papers out of my briefcase.
+
+상황 750 비즈니스
+
+김상현 : 비행기여행은 어땠습니까
+윌리엄 : 괜찮았습니다. 잠이 좀 부족했지만요.
+김상현 : 아직 제트증후군에서 회복되지 않았나봐요. 서울과 뉴욕의 시차가 얼마나 되지요
+윌리엄: 15시간이에요. 아마 하루나 이틀정도면 적응될 것 같습니다.
+김상현 : 다행이군요. 그럼 본격적인 상담에 들어갑시다. 
+윌리엄: 좋습니다. 가방에서 서류를 좀 꺼내구요. 
+
+<어구연구>
+
+김상현은 오랜 시간 비행기를 타고 온 윌리엄에게 비행기 여행이 어땠는지 묻는다. 대개는
+
+How was your flight(비행기 여행은 어땠나요)
+
+라고 표현하면 되겠다. 
+
+"본격적인 상담으로 들어갑시다" 란 표현은
+
+Let's get down to business.
+
+로, 여기서 get down은 (1) ···에 내리다 
+(2) <일 등에> (진지하게) 착수하다 
+(3) ···까지 파고들다 에서 착수하다란 의미로 쓰였다.
+
+[무역용어]
+
+Blank Endorsement ; Endorded in blank (백지 배서) 
+피 배서인에 대해 누구라고 기재하지 않고 배서인이 서명만 한다. 
+Bona Fide Holder (정당한 혹은 선의의 소지자) ; 
+실제 유통되고 있는 증권 자체에 하자가 있는 것을 모르고 표면상 완전하고 정상적인 증권으로 간주하고 취득한 소지인을 말한다. 
+Bonded Area (보세 구역); 
+Bonded Transportation (보세 운송) 
+Bulk Cargo (살화물); 
+포장을 하지 않은 상태로 운송하는 화물로서 주로 원자재가 이에 해당되며 부정기선 화물의 대부분이 이에 속한다. 이에 반대개념은 일발화물(General Cargo)이라 한다. 
+Buyer's Market (매입 주 시장) ; 
+상품의공급과도로 물품의 매매가 비교적 Buyer의 의도대로 할 수 있는 시황을 말한다. 이와 상대되는 말은 판매 주 시장 (Seller's Market) 이다. 
+
+
+
+Situation 751 Comparing productions
+
+Yoon: That is a beautiful fabric all right, but why does it wear longer than the others
+Kum : Well, let me tell you why. One reason is that the yarn is carefully selected for quality.
+Yoon : I see, and what about the weave
+Kum : That's the second reason.The yarn is twisted and woven very tightly in this fabric.
+Yoon : Can I feel this one
+Kum : Of course, please go right ahead.
+
+상황 751 제품 비교
+
+윤대원:: 이 천은 정말 예쁘군요. 그런데 왜 다른 천보다 더 질기지요
+금영현 : 저, 제가 이유를 설명해 드리지요. 한 가지 이유는 품질을 생각해서 실을 잘 선택한다는 점입니다. 품질을 위하여 정선된 실이 사용되었지요.
+윤대원:: 알겠습니다. 그럼 천의 짜임은 어떻습니까
+금영현 : 그게 바로 두 번째 이유죠. 원사의 꼬임상태와 천의 짜임이 모두 촘촘합니다.
+윤대원:: 한번 만져봐도 되겠습니까
+금영현 : 그럼요, 얼마든지 만져보세요
+
+<어구연구>
+
+윤대원은 금영현과 제품상담을 하고 있다. 자사의 제품을 소개할 때는 타사 제품과 비교해서 장점을 부각시켜 설명하는 게 중요하다.
+
+One reason is that the yarn is carefully selected for quality.(한 가지 이유는 품질을 생각해서 실을 잘 선택한다는 점입니다.)
+
+제품소개와 관련한 다양한 표현을 익혀두자
+
+This system is more efficient than the previous one.(이 시스템은 기존의 시스템보다 효율적입니다.)
+This machine is much faster than that one.(이 기계가 저 기계보다 빠릅니다.)
+Ours is less expensive but higher in quality.(우리 제품은 더 싸지만, 보다 고품질입니다.)
+
+<무역용어>
+
+Buying Office (을류무역업); 
+외국수입업자의 위임을 받아 국내에서 수출물품 구매 행위를 업으로 하는 자. (한국 수출품목 구매업 협회에서 등록) 
+
+
+Cable Credit (신용장 전신 개설); 
+Short Cable Credit (Preliminary Advice)의 경우 신용장이 개설되었다는 사실을 통지 한것에 불과함(Non-negotiable) 수출자가 수출준비를 할 수 있도록 하기 위한것으로 (Details to follow 문언삽입) 추후 신용장 원본 (Mail Confirmation)을 송부하여야 한다. 
+Carnet Temporary Admission (ATA 까르네 제도) ; 
+ATA 협약 가입국 간에 일시적으로 물품을 수입.수출 또는 보세운송 하는데 있어 필요로 하는 복잡한 통관서류 (예 : 면장, 송장, 승인서 등) 나 담보금 대신으로 이행하는 증서로서 이를 이용하여 통관절차를 간소화하고 서로 편리하게 하는 제도이다. 
+Cargo Insurance (적하보험) ; 
+한국 선주 협회 회장이 발급한다. 
+Cash Against Documents ; CAD (서류 상환불) 
+선하증권 (Bill of Lading)등의 운송서류 및 기타 부속서류를 수입상에게 직접 또는 수입상의 대리점이나 거래은행에 제시하여 서류화 상환으로 현금이 지급되는 방식. 
+
+
+
+Situation 752 Cost
+
+Mark: Mr. Kim, when I was in Hong Kong, I saw that same stuffed toy for $3.00.
+Kim : That's what it used to be here, too.
+Mark : Really, What happend, then
+Kim : Labor costs went up.
+Mark : Doesn't that make you non-competitive, then
+Kim : No, we've got the quality and that's what counts.
+
+상황 752 비용
+
+마크:: 김 선생님, 제가 홍콩에 있었을 때는 똑같은 동물인형이 3 불이었습 니다.
+김은성 : 옛날에는 여기 역시 그랬습니다.
+마크:: 그래요 그러면 도대체 어떻게 된 거지요
+김은성 : 임금이 올랐습니다.
+마크:: 그러면 경쟁력을 잃게 되지 않을까요
+김은성 : 아니지요, 우수한 품질이 있지 않습니까... 중요한 것은 그것이니까 요.
+
+<어구연구>
+
+
+마크는 동물인형의 가격이 예전에 비해 비싸지 왜 그런지 김은성에게 묻고 있다.
+김은성은 "예전에는 같은 가격이었습니다" 란 표현을
+
+That's what it used to be here,too.
+
+로 한다.이에 왜 그런지 이유를 물어보자 김은성은
+
+Labor costs went up.(노동비용이 올랐습니다.)
+
+라고 답한다. go up은 "(사람, 물건의) 평가,값이 오르다"란 뜻으로 쓰였다.
+
+[무역용어]
+
+Certificate of Orign ; C/O (원산지 증명서) 
+Charter (용선); 
+선원이 승선한 선박을 빌리는 것을 말한다. 용선은 부정기적으로 취항하는 부정기선(Tramper)이라고도 부르며 용선계약을 한 선박에 적재할 수 있는 대량화물을 부정기선에 적재하여 운송하는 방식이다.
+Charterer (용선자)
+Charterage (용선료) 
+Charter Party B/L(용선계약 선하증권); 
+화주가 대량화물을 운송하기 위해 특정항로 또는 일정기간 동안 부정기선을 용선하는 경우, 화주와 선박회사 사이에 체결된 용선계약(Charter Party)에 의하여 발행되는 선하증권을 말한다. 이는 신용장상에 별도의 명시가 없는 한 은행에서 수리가 거절된다. 
+Check Price ; 
+우리나라의 경우는 수출가격이 너무 낮은 것을 막기위한 Floor Price 와 수입 가격이 너무 높은 것을 막기 위한 Celling Price를 총칭하여 Check Price 라고 한다. 
+
+
+
+Situation 753 Terms
+
+Kang: Mr. Kim, look, there's a possibility on this item. But first, what are your terms
+Kim : Okay, when you open the L/C, make it so that the delivery date is a minimum of two months and a maximum of three months from the date of opening.
+Kang: That's kind of long, but, okay, how about the warranty
+Kim : We guarantee servicing of minor repairs only.
+Kang : What about serious defect
+Kim : All product are guarantee-tested before shipping. Any defects that occur thereafter are attribute to either dealer-handling or customer malfunctioning.
+
+상황 753 조건
+
+강호형:: 김 선생님, 이 품목에 가능성이 있습니다. 그렇지만 우선 거래조건은 어떻습니까
+김상현 : 저, 신용장을 개설할 때, 납기는 신용장 개설일자로부터 최소한 2개월에서 최대한 3개월로 해주십시오.
+강호형:: 그건 좀 긴데요. 하지만 좋습니다. 품질보증은 어떻습니까
+김상현 : 간단한 수리에 한해서만 보장해 드리고 있습니다.
+강호형:: 커다란 결함에 대해서는 어떻게 하지요
+김상현: 모든 제품은 선적하기 전에 품질보장을 위한 검사를 받습니다. 그 이후에 생기는 결함은 도매업자가 잘못 다루거나 소비자가 작동을 잘못해서 생기는 것이지요.
+
+<어구연구>
+
+강호형은 김상현과 L/C 조건에 대해 교섭하고 있다.
+"조건이 어떻게 됩니까" 는
+
+What are your terms 
+
+로 간략하게 표현할 수 있겠다. 여기서 term은 '조건'의 뜻으로 쓰였다.(ex:reasonable term-타당한 조건)
+
+[무역용어]
+
+Charter (용선); 
+선원이 승선한 선박을 빌리는 것을 말한다. 용선은 부정기적으로 취항하는 부정기선(Tramper)이라고도 부르며 용선계약을 한 선박에 적재할 수 있는 대량화물을 부정기선에 적재하여 운송하는 방식이다.
+Charterer (용선자)
+Charterage (용선료) 
+Charter Party B/L(용선계약 선하증권); 
+화주가 대량화물을 운송하기 위해 특정항로 또는 일정기간 동안 부정기선을 용선하는 경우, 화주와 선박회사 사이에 체결된 용선계약(Charter Party)에 의하여 발행되는 선하증권을 말한다. 이는 신용장상에 별도의 명시가 없는 한 은행에서 수리가 거절된다. 
+Check Price ; 
+우리나라의 경우는 수출가격이 너무 낮은 것을 막기위한 Floor Price 와 수입 가격이 너무 높은 것을 막기 위한 Celling Price를 총칭하여 Check Price 라고 한다. 
+Claim (무역상의 분쟁); 
+Waiver of Claim (청구권 포기)
+Amicable Settlement (화해) 
+Intercession ; Recommendation (알선) 
+Conciliation ; Mediation (조정) 
+Arbitration (중재) 
+Clean B/L (무결함 선하증권) 
+
+
+
+Situation 754 Discount
+
+
+Susan: Mr. Kim, I see you're asking $25.00 a unit on that model.
+Kim : That's right. It's our lowest price.
+Susan : Can you offer a quantity discount
+Kim : Well, uh, what did you have in mind
+Susan : Like if we place an order for a thousand units.
+Kim : I can't say for sure, but maybe we can knock off $5.00 a 
+unit at that rate.
+
+상황 754 할인
+
+수잔:: 김 선생님, 그 새 모델의 가격으로 개당 25불을 요구하시는 걸로 압 니다.
+김형인 : 그렇습니다. 그것은 저희들의 최저가격이죠.
+수잔:: 다량을 주문하면 싸게 해줍니까
+김형인 : 저, 어느정도의 수량을 생각하고 계신지요
+수잔:: 이를테면 1,000 세트를 주문하면 어떻게 됩니까
+김형인 : 확실히는 말씀 드릴 수 없지만, 그 단가에서 개당 5달러는 깎아드릴 수 있을 겁니다.
+
+<어구연구>
+
+수잔은 김형인과 가격 교섭을 하고 있다. 그녀는 다량 주문시 할인이 되는지를 알고 싶어한다.
+
+Can you offer a quantity discount(다량을 주문하면 싸게 해 줍니까)
+Like if we place an order for a thousand units.(이를테면 1000세트를 주문하면 어떻게 됩니까)
+
+이에 김형인은
+
+I can't say for sure, but maybe we can knock off $5.00 a 
+unit at that rate.(확실히 말씀드릴 수는 없지만,그 단가에서 개당 5달러는 할인해 드릴 수 있습니다.)
+여기서 "knock off"는 (금액을)깍다, 할인하다의 의미를 갖는다.
+
+
+[무역용어]
+
+Claim (무역상의 분쟁); 
+Waiver of Claim (청구권 포기)
+Amicable Settlement (화해) 
+Intercession ; Recommendation (알선) 
+Conciliation ; Mediation (조정) 
+Arbitration (중재) 
+Clean B/L (무결함 선하증권) 
+Clean L/C (무화환 또는 무담보신용장) 
+Commercial Invoice(상업송장); 
+Proforma Invoice (견적 송장)
+Shipping Invoice (선적 송장) 
+
+
+
+Situation 755 An order
+
+Brian: Mr. Kim, we'd like to place an order for your new model A -125
+Kim : Good. Approximately how many units did you have in mind
+Brian : Well, let's say about 1,000 units to start with.
+Kim : Okay, do you find any market preference for a particular color
+Brian : Not one in particular, no, but one that's usually attractive yet easy on the eyes.
+Kim : I think I've got just the color that'll fill the bill.
+
+상황 755 주문
+
+브라이언: 김 선생님, 귀사의 신형모델 A-125에 대한 주문을 내고자 합니다.
+김의영:: 좋지요. 물량은 대충 어느 정도로 생각하고 계시지요
+브라이언 : 저, 우선 1,000대 정도로 시작해 볼까요
+김의영:: 좋습니다. 시장에서 특히 선호하는 색상이 있습니까
+브라이언 : 특별한 건 없습니다. 하지만 대개 매력적이면서 보기에 좋은 것이면 됩니다.
+김의영:: 거기에 딱 맞는 바로 그런 색깔이 있는 것 같습니다.
+
+<어구연구>
+
+브라이언은 김의영의 회사에 제품 주문을 하고 있다. 그는 
+
+Do you find any market preference for a particular color(시장에서 특히 선호하는 색상이 있습니까)
+
+라고 묻는다.이에 김의영은
+
+Not ant in particular.(특별한 건 없습니다)
+
+라고 답을 한다. "preference"는 '선호도'의 뜻.
+
+[무역용어]
+
+Clean B/L (무결함 선하증권) 
+Clean L/C (무화환 또는 무담보신용장) 
+Commercial Invoice(상업송장); 
+Proforma Invoice (견적 송장)
+Shipping Invoice (선적 송장) 
+Confirmed L/C(확인 신용장) 
+Confirming Bank(확인은행); 
+신용장개설은행 이외에 제 3은행이 그 신용장에 의하서 발행되는 어음을 지급, 인수, 매입하겠다는 약속을 추가하거나 개설은행이 그 어음을 지급, 인수, 매입할 것이라는 보증을 하는 경우, 이를 신용자의 확인이라 하고 이 확인을 행한 은행을 확인은행이라 한다. 
+
+
+
+Situation 756 An introduction
+
+Kang: Please follow me. Mr. Brown. The office is at the end of the hall.
+Brown: I'm right with you.
+Kang : There is Mr. Lee. Mr. Brown, this is Mr. Brown.
+Brown: It's Pleasure to meet you, Mr. Brown. 
+Kang : I'm glad to meet you, too, Mr. Lee.
+Brown: Well, I understand you're rushed for time, so let's go over to the showroom and get right down to business.
+
+상황 756 소개
+
+강현우: 브라운씨, 저를 따라오세요. 사무실은 복도 저 끝입니다.
+브라운: 예, 알겠습니다.
+강현우 : 이 전무님이 계시는군요. 브라운씨, 이 분이 이 전무님입니다.
+브라운:: 만나뵙게 되어 반갑습니다. 브라운씨.
+강현우 : 만나서 반갑습니다. 이 전무님.
+브라운:: 저, 시간이 촉박하신 걸로 알고 있는데, 진열실로 가서 바로 상담에 들어갑시다. 
+
+<어구연구>
+
+강현우는 이 전무님께 브라운씨를 소개한 후 바로 상담으로 들어간다.
+
+들어가기 전. 
+
+I understand you're rushed for time(시간이 촉박할 걸로 알고 있는데요.)
+
+라고 말을 한다. 여기서 "rush for"는 "바쁜, 급한"이란 의미로 쓰였다.
+
+[무역용어]
+
+Consignee (수하인) 
+Constructive Total Loss(추정 전손); 
+보험의 목적물이 현실적으로 전멸되지 않더라도 그 손해 정도가 본래의 효용(Utility)을 상실하거나, 또는 구조 되어도 그 비용이 구조후의 시장가격을 초과함으로써 전손에 준한 것으로 추정 되었을 경우를 말한다.
+- Abandonment (위부)
+보험의 목적물이 추정 전손이 성립하는 경우, 피보험자가 보험의 목적물에 대하여 보유하고 있는 일체의 권리를 무조건 보험자에게 이전하고 보험금액의 전액을 청구하는 권리를 가진다.
+- Right of Subrogation (대위권) 
+위부에 의해서 보험자가 보험금을 피보험자에게 지급한 경우 손상된 피보험 목적물에 대해 피보험자가 가지고 있던 소유권과 손상을 발생하게 한자에 대한 구상권을 보험자가 대신할 수 있는 권리를 말한다. 
+Correspondent Bank(환거래 은행); 
+Depositary Correspondent Bank (환예치 거래은행)
+Non-depositary Correspondent Bank(무환예치 환거래 은행) 
+Cover Note (보험 인수장) ; 
+보험 중개인 (Insurance Broker)이 보험계약자에게 계약 존재의 증명으로 교부하는 것이다. 
+Credit Inquiry(신용조회); 
+거래하고자 하는 업체의 신용상태를 조회하는 것으로 Bank Reference (은행조회) 와 Trade Reference (동업자 조회) 가 있다. 
+
+
+
+Situation 757 Long-standing relationship
+
+Hwang : Mr. Kim, the boss has asked me to talk to you about our getting some kind of a discount on model No. 24. Do you think it's possible
+Kim: Well, you kind of put me on the spot, Mr. Brown.
+Hwang: Oh, what do you mean
+Kim : Ordinarily, it would be out of the question.
+Hwang: Oh, surely you can make an exception in our case ... old, steady cutomers like us.
+Kim : Yeah, well, considering our long-standing relationship, member, don't breathe a word of this to anyone.
+
+
+상황 757 Relationship
+
+황윤정:: 김 선생님, 저희 사장님께서 제게 김 선생님과 잘 얘기해서 124 번 모델 제품의 가격을 할인해 보라고 하셨습니다. 가능할까요
+김가현: 저, 브라운씨, 저를 곤란하게 만드시는군요.
+황윤정: 무슨 말씀이세요
+김가현 : 통례적으로 봐서 할인이 불가능할 겁니다.
+황윤정:: 저희같은 단골 고객들에게는, 예외적인 조치도 해주실 수 있을 텐데 요.
+김가현 : 예, 오랜 거래관계를 고려해서, 특별히 5 %의 할인을 제공해 드리겠습니다. 하지만 다른 사람에겐 절대 소문내지 마세요.
+
+<어구연구>
+
+황윤정은 김가현과 모델 제품의 가격 할인에 대해 상담을 하고 있다. 일이 잘 안풀리자 그녀는
+
+Surely you can make an exception in our case ... old, steady cutomers like us.(저희 같은 단골 고객들에게는, 예외적인 조치도 해주실 수 있을텐데요.)
+
+라고 표현을 하자, 김가현은
+
+Well, considering our long-standing relationship, member, don't breathe a word of this to anyone.(오랜 거래 관계를 고려해셔, 특별히 5% 할인을 제공해 드리겠습니다.하지만 다른 사람에게는 소문내지 마십시요.)
+
+라고 말하며 상담을 끝낸다. 여기서 long-standing relationship은 다년간 지속되는 관계를 말한다.
+
+[무역용어]
+
+Correspondent Bank(환거래 은행); 
+Depositary Correspondent Bank (환예치 거래은행)
+Non-depositary Correspondent Bank(무환예치 환거래 은행) 
+Cover Note (보험 인수장) ; 
+보험 중개인 (Insurance Broker)이 보험계약자에게 계약 존재의 증명으로 교부하는 것이다. 
+Credit Inquiry(신용조회); 
+거래하고자 하는 업체의 신용상태를 조회하는 것으로 Bank Reference (은행조회) 와 Trade Reference (동업자 조회) 가 있다. 
+Combined Transport Documents ; CTD (복합운송증권)
+
+
+
+Situation 758 A way of inquiry 1
+
+Kim : I understand there's an airport limousine I can take into the city. Is that right
+Hwang : Yes, sir. You catch it right over there. It leaves every fifteen minutes.
+Kim : Where does it go
+Hwang : It takes you to the city bus terminal.
+Kim : Whtat street is that on
+Hwang : It's on 42nd St. and 5th Ave. 
+
+상황 758 길문의1
+
+김홍인 : 시내로 들어가는 공항 리무진이 있다는 소리를 들었는데 맞습니까
+황경수 : 예, 그렇습니다. 바로 저기서 타시면 됩니다. 차는 15분마다 출발합니다.
+김홍인 : 어느 방면으로 운행하는 버스지요
+황경수 : 시내버스터미널까지 갑니다.
+김홍인 : 그것은 몇 번가에 있는데요
+황경수 : 5번로 42번가에 있습니다. 
+
+<어구연구>
+
+김홍인은 시내로 들어가는 리무진 버스를 타기 전에 이 버스의 종착역인 air bus terminal이 몇 번가에 있는지를 몰라,
+
+What street is it on
+(그것이 몇 번가에 있습니까)
+
+On what street is it located
+(그것이 몇 번가에 있습니까)
+
+라고 물어본다. 다음과 같이 물어봐도 같은 뜻이 된다.
+
+Where is it located
+(그것이 어디에 있지요)
+
+What's the name of the street where it's located
+(그것이 있는 거리의 이름이 뭐지요)
+
+다음과 같은 관련표현들도 함께 알아두자.
+
+A : What street is Macy's Department Store located on
+(메이시 백화점이 몇 번가에 있지요)
+
+B : It's on 34th street between 5th and 6th avenue.
+(그것은 5번로와 6번로 사이 34번가에 있습니다.)
+
+Which side is it on, the left or the right
+(그것은 어느 쪽은 있습니까 좌측입니까, 우측입니까)
+
+When I get off the subway train which way do I turn [go] to
+(전철에서 내린 다음 어느 쪽으로 나가야 됩니까) 
+
+[무역영어]
+Consignee (수하인) 
+Constructive Total Loss(추정 전손); 
+보험의 목적물이 현실적으로 전멸되지 않더라도 그 손해 정도가 본래의 효용(Utility)을 상실하거나, 또는 구조 되어도 그 비용이 구조후의 시장가격을 초과함으로써 전손에 준한 것으로 추정 되었을 경우를 말한다.
+- Abandonment (위부)
+보험의 목적물이 추정 전손이 성립하는 경우, 피보험자가 보험의 목적물에 대하여 보유하고 있는 일체의 권리를 무조건 보험자에게 이전하고 보험금액의 전액을 청구하는 권리를 가진다.
+- Right of Subrogation (대위권) 
+위부에 의해서 보험자가 보험금을 피보험자에게 지급한 경우 손상된 피보험 목적물에 대해 피보험자가 가지고 있던 소유권과 손상을 발생하게 한자에 대한 구상권을 보험자가 대신할 수 있는 권리를 말한다. 
+Correspondent Bank(환거래 은행); 
+Depositary Correspondent Bank (환예치 거래은행)
+Non-depositary Correspondent Bank(무환예치 환거래 은행) 
+
+
+
+Situation 759 A way of inquiry 2
+
+Park : Excuse me, can you tell me where the Hotel Ritz is
+Min: Yeah. You go straight down to the next corner, cross the street, and keep going straight ahead. It's about 150 yards down on your left.
+Park : How will I know when I get there
+Min : Oh, there's a big sign out front. you can't miss it.
+Park : Gee, thanks a lot.
+Min : Don't mention it. Glad I could help. 
+
+상황 759 길문의 2
+
+박광현 : 실례합니다. 리츠호텔이 어디 있는지 아세요
+민경수 : 다음 블록의 모퉁이까지 쭉 가시다가 길을 건너서 앞으로 계속 가십시오.
+박광현 : 거기에 다 왔는지 어떻게 알 수 있지요 150야드쯤 가시면 왼쪽에 있습니다.
+민경수 : 건물 앞쪽에 커다란 표지판이 있으니까, 쉽게 찾으실 수 있을 거예요.
+박광현 : 아, 대단히 감사합니다.
+민경수 : 뭘요. 도움이 됐으면 좋겠군요. 
+
+<어구연구>
+
+박광현이 Ritz 호텔의 위치를 행인에게 물어보자 그는, 
+
+It's about 150 yards down on your left.
+(약 150야드쯤 쭉 가시면 왼쪽에 있습니다.)
+
+라고 친절히 가르쳐 주고 있다. 여기서 down을 '아래로'란 뜻으로 이해했다가는 큰일이다. 이때의 down은 '아래로'라는 말과는 관계가 없이 along(쭉 따라서)이나 away from the person speaking(말하는 사람으로부터 멀리)혹은 to or at the far end of(저 끝에 [끝으로])란 뜻이다. 따라서 행인의 얘기 중에 나오는 down은 우리말로 [쭉 따라간 지점에]란 뜻이 되는 것이다. 이런 down의 예를 몇 개 더 소개해 보겠다.
+
+They live just down the road.
+(그들은 이 도로를 쭉 따라간 지점에 삽니다.)
+
+Go down the alley about 40 meters.
+(골목을 따라 약 40m쯤 쭉 들어가세요.)
+
+[무역영어]
+
+Cover Note (보험 인수장) ; 
+보험 중개인 (Insurance Broker)이 보험계약자에게 계약 존재의 증명으로 교부하는 것이다. 
+Credit Inquiry(신용조회); 
+거래하고자 하는 업체의 신용상태를 조회하는 것으로 Bank Reference (은행조회) 와 Trade Reference (동업자 조회) 가 있다. 
+Combined Transport Documents ; CTD (복합운송증권) 
+화물의 인수지로부터 목적지까지 해상.육상.항공 중 적어도 둘 이상의 다른 운송수단을 이용하여 행해지는 운송인수에 대하여 복합운송인(Combined Transport Operator ; CTO)이 전구간의 운송에 대하여 책임을 지고 발행되는 서류를 말한다. 
+Conditional Offer(확인조건부 오퍼) 
+해당 제품의 시세변동이 심한 품목이나 우편으로 오퍼를 제시할 경우 확인조건부오퍼를 낸다. 이것은 오퍼가 아니라 오퍼의 권유에 불과하다. 그 이유는 상대방이 승낙하여도 청약자가 확인하지 않으면 계약이 성립되지 않는다. 
+
+
+
+Situation 760 An invitation
+
+Go: Mr. Choi, I'm throwing a party at the Hilton Hotel next week and would love it if you could attend.
+Choi: Oh, thanks, I'd love to come. Do I have to be formally dressed
+Go: Oh, no. Just come as you are.
+Choi: Glad to hear that. I don't own a tux.
+Go: No need to these days. Oh, and please bring along Mrs. Go.
+Choi: Great. I know she'd be thrilled to come. 
+
+상황 760 초대
+
+고한명: 최선생님, 다음주에 힐튼호텔에서 파티를 개최하는데 참석해 주시면 기쁘겠습니다.
+최영은: 아! 감사합니다. 가고 말구요. 정장을 해야합니까
+고한명: 아니, 평소 복장으로 오시면 됩니다.
+최영은: 잘됐군요. 저는 예복이 없거든요.
+고한명: 요즘은 예복이 필요 없어요. 참, 그리고 부인과 함께 오세요.
+최영은: 잘됐군요. 굉장히 좋아할 거예요. 
+
+<어구연구>
+
+고한명은 파티에 초대를 받는다 미국이란 나라는 식당을 가더라도 넥타이를 매지 않은 손님은 출입이 금지되는 곳이 있다는 얘기를 들은 고한명은 다음과 같이 복장에 대하여 물어본다.
+
+Do I have to be formally dressed
+(복장은 정장을 하고 가야 합니까)
+
+다음과 같이 물어봐도 같은 뜻이 된다.
+
+Is the party formal
+(그것은 격식을 갖추는 정식파티입니까)
+
+Dose the party call for formal wear
+(그 파티는 정장을 요구합니까 ; 그 파티에는 정장을 하고 가야 합니까)
+다음은 초대받은 사람의 옷차림에 관한 표현들이다.
+
+Dose the invitation specify formal wear
+(그 초대장은 정장을 하도록 명시하고 있습니까)
+
+Must I go formal
+(정장을 해야 합니까)
+
+[무역영어]
+
+Container Freight Station ; CFS (화물 집합소); 
+화물집합소로 주로 LCL 화물을 적재하거나 분배하기 위한 장소 
+Container yard ; C.Y (야적장) 
+항구의 10 마일 이내에 위치하며 컨테이너의 인수, 인도 보관하는 장소 
+Counter Offer(반대오퍼) 
+매도인의 확정오퍼에 대하여 매수인이 제공된 가격, 수량, 선적일 등 기타 조건에 수정하녀 제시된 오퍼를 말한다. 무역실무상 매도인과 매수인간에는 몇차례 반대오퍼를 거친 후 계약이 성립된다. 
+Customary Quick Despatch ; C.Q.D (관습적 조속 하역); 
+화물의 선적.양륙에 있어, 정박기간을 한정하지 않고 해당 항구의 관습적 하역방법 및 하역능력에 따라 가능한 한, 빨리 하역하는 것을 약정하기 때문에 분쟁이 야기되기 쉬운 정박기간이며, Unfixed Laydays 의 일종이다. 
+
+
+
+Situation 761 The extra packing charge
+
+Smith : Mr. Kim, these tapes will need extra packing.
+Kim : Really What for
+Smith : To be sure that there`s no breakage.
+Kim : Oh, well. You don`t have to worry about that.
+Smith : No. I want to be sure that they all arrive safe and sound. We`ll bear the extra packing charge, if there is any.
+Kim : Never mind about that either. We`ll make sure that they are packed extra-safe at our own expense. 
+
+상황 761 추가 포장 비용
+
+스미스 : 김 선생님, 이 테이프들을 추가포장 해주셨으면 합니다.
+김형인 : 그래요 왜요
+스미스 : 조금도 파손되어선 안 되니까요.
+김형인 : 오, 그 점에 관해서 라면 염려하실 필요 없습니다.
+스미스 : 아니에요. 저희는 물건이 완전한 상태로 안전하게 도착할 수 있 도록 확실히 해두고 싶 습니다. 추가포장을 하는 데 비용이 든다면 그 비용도 저희가 부 담하겠습니다.
+김형인 : 그 문제도 염려마세요. 안전을 위해 특별포장을 꼭 해드리겠습니 다. 비용도 저희가 부 담하구요
+
+<어구연구>
+
+스미스는 자신이 수입하는 tape에 특별한 추가포장을 원하자 대한 상사의 김형인은걱정하지 말라고 얘기해 준다. 그러나 마음이 놓이지 않는 스미스는
+
+We`ll bear the extra packing charge, if there is any. (별도의 특별[별도]포장비가 발생한다면 저희가 그 비용을 부담하겠 습니다.)
+
+라고 말하며 안전제일주의를 끝까지 주장한다. 어떤 비용 따위를 「부담하다」는 bear 이외에도 assume, take care of, cover 등을 사용하여 표현할 수 있 다.
+
+We`ll take care of the extra packing charge. (추가로 드는 포장비는 저희가 부담하겠습니다.)
+We`ll assume[ cover, pay ] the extra charge. (그 추가비용은 저희가 부담하겠습니다.)
+
+다음은 charge(경비, 요금)와 bear(<비용·책임 등을>지다)에 관련 된 표현들이다.
+
+How much do you charge for the extra packing
+
+[무역용어]
+
+Dead Freight (부적 또는 공적운임) 
+용선자가 선적하기로 계약된 수량의 화물을 실제로 선적하지 아니한 경우 그 선적 부족량에 대해서 운임을 지급하여야 되는 운임을 말한다. 
+Deferred Payment(연불) 
+약정품을 Buyer가 인수하고 일정기간 후에 대금결제 (Sales on Credit : 외상거래, Sales on Consignment : 위탁판매 등 Seller가 약정품에 대하여 화환어음을 발행할 수 없는 경우) 
+Delivery Order ; D/O (화물 인도 지시서) 
+Debit Note (차변표) ; 
+수출에 있어 소액채권이 발생하는 경우 즉 유료견품 대금의 청구 등에 대해 그 금액만큼 상대방의 차변에 기장한다는 취지를 통지 하는 것을 말한다. 일반적으로 Debit Note를 발송하면 상대방이 청구금액 만큼 외화로 송금하여 주게된다. 
+
+
+
+Situation 762 An union
+
+Lee : We`re having problems with our union. I hope they don`t go on strike.
+Brian : I see these days Korea has the same old problems as America labor unions.
+Lee : Yeah. They`ve become much stronger now than they used to be.
+Brian: What`s going to happen is they`re going to drive up the commodity cost and make you uncompetitive. Just like what happened in the US.
+Lee : That`s what we`re all worried about.
+Brian : Ah, me! Gone are the days of cheap labor. 
+
+상황 762 노조
+
+이수형 : 노조와 문제가 생겼습니다. 파업은 하지 말아야 할 텐데.
+브라이언 : 요즈음 한국을 보면 미국이 오래전에 겪었던 것과 똑같은 문제 를 겪고 있는 것 같아요, 노조문제 말이예요.
+이수형 : 그래요. 노조의 세력이 과거에 비해 훨씬 강해졌습니다.
+브라이언 : 그들이 그렇게 나가면 결국 귀사의 상품가격이 오르게 되고 따라 서 귀사는 경쟁력을 잃게 되죠. 미국이 그랬던 것처럼요.
+이수형 : 그게 바로 우리가 걱정하는 것입니다.
+브라이언 : 아! 값산 노동력의 시절은 지나가 버렸군요. 
+
+<어구연구>
+
+업무출장을 간 이수형은 상담 중에 한국의 노동쟁의에 대하여 대화 를 나눈다. 스트라이크가 일어나는 날이면 약속한 납기를 이행할 수가 없기 때문이다.
+
+We`re having problem with our union. I hope they don`t go on strike. (저희 노조와 문제가 있습니다. 파업을 하지 말아야 할 텐데.) 
+
+다음과 같이 표현해도 좋을 것이다.
+
+Our labor union is giving us headaches. (노조 때문에 골치가 아픕니다.)
+We`re having a hard time with our company`s labor union. (회사의 노조 때문에 골치를 앓고 있습니다.)
+
+[무역용어]
+
+Demurrage(채선로) ; 
+화주가 보증한 정박기간 내에 적화 또는 양륙 하역을 끝내지 못하여 못하여 그 완료를 위해서 약정기간을 초과하여 선박을 정박시킬 때에는 그 초과 정박기간에 대하여 시간 상실에 대한 대가로서 화주가 선주에게 지급하는 요금을 말한다. 
+Despatch Money (조출료) ; 
+적하 또는 양륙하역의 어느 경우에 있어서도 약정된 정박기간 만료 전에 하역이 완료되었을 때, 그 단축된 기간에 대해 선주가 하주에게 지급하는 요금을 말한다. 조출료는 일반적으로 채선료의 반액이다. 
+Directory ; 
+각국의 저명한 무역상은 물론 제조업자, 해운업자, 해상보험업자, 운행업자 등의 이름.전신약호.주요업소.주소 및 그 영업품목 등을 수록한 책자이며, 한국 무역협회, 대한상공회의소 등에 비치되어있다. 
+Dirty or foul B/L (결함 선하증권) 
+
+
+
+Situation 736 Comparing with model
+
+Lee: Mr. Brown, our model can't be compared with others.
+Brown : Well, in what ways, for example
+Lee : It's lighter in weight, for one, which makes it easier to carry around.
+Brown : Well, that's a point in your favor.
+Lee : In addition, it's lower in price. What else could you ask for
+Brown : How about it's adaptability Can it be used on both AC-DC current
+
+상황 736 모델 비교하기
+
+이수형: 브라운씨, 저희 모델은 타사 모델과 비교가 안 됩니다.
+브라운 : 예를 들면 어떤 측면에서요
+이수형:: 무게가 우선 더 가볍고요, 그래서 갖고 다니기가 더욱 용이하지요.
+브라운: 그것은 귀사가 갖는 유리한 점이지요.
+이수형:: 게다가 가격도 저렴하구요. 어떤 측면을 더 물어보고 싶으세요
+브라운 : 어댑터의 사용이 가능한가요 교류,직류 양쪽으로 쓸 수 있나요
+
+<어구연구>
+
+이수형은 브라운씨에게 신제품의 장점에 대해서 설명하고 있다.
+그는 자사 제품의 우수성을 다음과 같이 표현한다.
+
+It's lighter in weight, for one, which makes it easier to carry around.(가벼워서 휴대하기 좋습니다.)
+
+It's lower in price. (더 저렴합니다.)
+
+[무역용어]
+
+Electronic Data Interchange ; EDI (전자식 자료 교환) 
+이는 기존의 상거래 문서를 없애는 대신 표준형식을 정하고 이를 이용하여 각 기업간의 상거래를 컴퓨터 대 컴퓨터 방식으로 하는 제도이다. 
+Estimated time of Departure ; ETD (출항 예정일) 
+Estimated time of Arrival ; ETA (도착 예정일) 
+Exchange Commission (환가료) ; 
+일람출급 환어음 매입률 = T/T Buying Rate - 환가료율 x 우편일수/360 x 장부가격 
+Exculusive Contract (독점 계약서) ; 
+수출입을 전문으로 하는 특정 상사간의 매매를 국한 시키는 계약으로 이 경우도 독점계약서를 작성 교환한다. (franchise)
+
+
+
+Situation 765 A showroom
+
+Pak:Would you like to take a look at our showroom
+Smith:Yes, please.
+Pak:Here's some handouts that explain our products. Please take a look.
+Smith:Thank you.
+Pak:This is our latest model.What do you think
+Smith:It looks like it becomes eaiser to operate.
+
+상황 765 전시장
+
+박수나:전시장을 안내해 드릴까요
+스미스:예, 부탁합니다.
+박수나:여기 제품설명 인쇄물이 있습니다. 훑어봐 주십시오.
+스미스:감사합니다.
+박수나:이게 최신 모델입니다. 어떻게 생각하십니까
+스미스:조작이 훨씬 간단해진 것 같군요.
+
+<어구연구>
+
+박수나는 스미스에게 전시장을 안내해 주고 있다. 고객으로부터 질문을 받았을 때, 대답할 수 없는 경우,
+
+I'll go get someone who can answer your question.(질문에 대답할 수 있는 사람을 데리고 오겠습니다.)
+
+I'll check and let you know later.(조사한 후 나중에 말씀드리겠습니다.)
+
+라고 말하고 섣불리 아는체하지 않는다.
+
+박수나는 최신 모델을 소개한 후 스미스에게 어떻게 생각하는지 묻는다.
+
+What do you think(어떻게 생각하십니까)
+
+비슷한 표현들을 익혀두자.
+
+What's your impression of this product(이 제품의 느낌은 어떻습니까)
+Could you tell me what you think(어떻게 생각하시는지요)
+What interested you the most(무엇에 가장 관심이 있으십니까)
+
+[무역용어]
+
+Document against Payment : D/P(지급인도 조건) 
+수출상이 상품을 선적한 후, 관련서류가 첨부된 일람불환어음(Documentary sight bill)을 수입상을 지급인(Drawee)으로 발행하여, 자신의 거래은행에 추심을 의뢰하면, 수출상의 거래은행은 그러한 서류가 첨부된 환어음을 수입상의 거래은행으로 보내어 추심을 의뢰하고, 수입상의 거래은행은 그 환어음의 지급인인 수입상으로부터 대금을 지급 받으며, 서류를 인도하고, 지급받는 대금은 추심을 의뢰하여온 은행으로 송금하여 결제하는 방법. 
+Documentary L/C(화환신용장) 
+Electronic Data Interchange ; EDI (전자식 자료 교환) 
+이는 기존의 상거래 문서를 없애는 대신 표준형식을 정하고 이를 이용하여 각 기업간의 상거래를 컴퓨터 대 컴퓨터 방식으로 하는 제도이다. 
+Estimated time of Departure ; ETD (출항 예정일) 
+
+
+
+Situation 766 Price negotiation
+
+Lee : We pride ourselves on quality, that's our best selling point.
+Hwang: We realize that. The only problem is price. We have to ask you for a ten percent reduction.
+Lee : But can you effectively handle the increase in quantity
+Hwang : You don't have to worry. We've expanded our distribution network. We are ready to double our order.
+Lee : I suppose we could reduce it by ten percent, if you gurantee to double your order.
+Hwang : That's no problem. We can take care of the formal contract right away. 
+
+상황 766 가격 협상
+
+이수현: 저희는 품질을 자랑합니다. 그것이 저희가 판매할 때 강조하는 점이지요. 
+황해선:: 알고 있습니다. 단지 문제가 되는 것은 가격입니다. 10 퍼센트는 깍아주셔야 겠습니다. 
+이수현 : 수량을 좀 어떻게 증가시킬 수는 없을까요
+황해선:: 걱정마세요. 판매망을 확장했기 때문에 주문량은 배로도 늘릴 수 있습니다.
+이수현: 주문수량만 배로 확실히 늘려 주신다면 10퍼센트 할인을 해드릴 수가 있습니다.
+황해선: 문제없습니다. 당장 정식계약을 체결할 수도 있습니다.
+
+<어구연구>
+
+이수현은 황해선과 제품에 대한 가격 교섭을 하고 있다.
+그가 
+
+We are ready to double our order.(2배로 주문하려고 합니다.)
+
+라고 하자 
+
+I suppose we could reduce it by ten percent, if you gurantee to double your order.(주문 수량만 확실히 늘려 주신다면 10퍼센트 할인을 해드릴 수가 있습니다.) 
+
+란 답변을 듣는다.윗 문장에서 "be ready to"는 ~할 준비가 되어 있다.의 뜻이며
+reduce는 삭감하다. 줄이다의 의미를 가진다.
+
+[무역용어]
+
+Estimated time of Arrival ; ETA (도착 예정일) 
+Exchange Commission (환가료) ; 
+일람출급 환어음 매입률 = T/T Buying Rate - 환가료율 x 우편일수/360 x 장부가격 
+Exculusive Contract (독점 계약서) ; 
+수출입을 전문으로 하는 특정 상사간의 매매를 국한 시키는 계약으로 이 경우도 독점계약서를 작성 교환한다. (franchise) 
+Expected Profit ; Imaginary Profit (희망 이익) 
+무역적하 보험에서 보험가액(Insured Value)에다 보통 10%를 가산한 금액이 보험금액(Insured Amount)인데, 이때 가산되는 10%를 말한다. 
+
+
+
+Situation 767 Business in States
+
+Kim : Well, Mr. Brown, how's business in the States lately
+Brown : A little slow, I'm afraid, but we expect things to pick up sometime early next year.
+Kim : That sounds encouraging.
+Brown : Yes, and I'm here to check out the merchandise so we can get a head start.
+Kim : We'll be happy to assist you in any way that we can
+
+상황 767 미국내 경기
+
+김의영: 저, 브라운씨, 최근 미국의 경기는 어떻습니까
+브라운:: 별로 활발하지 못한 것 같아요. 내년 초쯤에는 좀 나아지겠지요.
+김의영 : 희망적인 소식이군요.
+브라운:: 예, 그래서 다른 사람보다 유리한 출발을 해보려고 상품 조사차 한 국엘 왔습니다.
+김의영 : 저희가 할 수 있는 일이면 기꺼이 도와드리겠습니다
+
+<어구연구>
+
+김의영은 브라운과 미국경기에 대한 대화를 나누고 있다.그는
+
+How's the business in the States lately(최근 미국의 경기는 어떻습니까)
+
+라고 묻자, 
+
+A little slow, I'm afraid, but we expect things to pick up sometime early next year.(별로 활발하지는 않지만, 내년 초쯤에는 좀 나아지겠지요.)
+
+라고 답을 한다. 위의 표현들과 더불어 
+
+That sounds encouraging.(희망적인 소식이군요.)
+
+란 표현도 암기해 두도록 하자.
+
+[무역용어]
+
+Export Inspection (수출 검사) ; 
+수출품의 컨테이너 작업전 제품에 대한 검사를 한다. 신용장의 물품에 합치하는 물품을 선적하는지의 여부. 동남아 쪽으로 수출을 할경우 S.G.S에서 검사를 받아야 한다. 
+Export License ; E/L (수출 승인) 
+Export Packing (수출 포장) ; 
+- Outer Box 
+- Inner Box 
+- Unitary Packing ( 예 : 도자기 포장 ) 
+- Assorted Packing 
+- Solid Packing 
+Export Permit (수출 면장) ; 
+
+
+
+Situation 768 Goods
+
+Lee: Mr. Brown, while you're here, I want you to have a look at the new special brand we're planning to put out next year.
+Brown : Okay, but before you do, I want to place an order for another 1,000 boxes of your regular brand to be delivered no later than March 1st of next year.
+Lee : Look, take my word for it, Forget the old brand and place an order for the new one. I just know you won't be sorry. It's head and soldiers over the old one.
+Brown : That may be true, but we're playing it safe and sticking to the old one for now. It's always a good seller.
+Lee : Well, you're the boss .
+
+상황 768 상품
+
+이승경: 브라운씨, 저희 회사에 오신 김에 저희가 내년에 생산할 계획으로 있는 새로운 특수 품목을 구경하시면 어떻겠습니까
+브라운:: 좋습니다. 그 전에 귀사의 정규품목 1,000 상자를 추가로 주문하고자 하는데 늦어도 내년 3월 1일까지는 인도되어야 합니다.
+이승경: 저, 제말을 믿으세요. 종전 것은 두시고 신규상품으로 주문하십시오. 결코 후회하지 않으실 겁니다. 신규 상품이 종전 것보다 훨씬 우수 하니까요.
+브라운:: 그럴지도 모르겠습니다만 저희는 안전한 것이 좋으니까 당분간 종 전 것을 계속 쓰겠습니다. 항상 잘 팔리니까요.
+이승경 : 글쎄요, 책임자는 선생님이시니까요. 
+
+<어구연구>
+
+이승경과 브라운은 이승경씨의 자사 제품에 대해 대화를 나누고 있다. 이승경이
+새 제품을 소개하지만, 브라운은 
+
+That may be true, but we're playing it safe and sticking to the old one for now. It's always a good seller.(그럴지도 모르겠습니다만, 저희는 안전한 것이 좋으니까 당분간 종전 것을 계속 쓰겠습니다. 항상 잘 팔리니까요.)
+
+라고 답을 한다. 여기서 stick to~는 ~에 집착하다,~에 달라붙다.<친구,결심,약속>에 충실하다란 뜻이다.
+
+[무역용어]
+
+FIATA FBL ; Int'l Federation of Freight Forwarders Association FBL ; (국제 운송주선인 협회 연맹) 발행 선하증권 
+신용장 통일규칙상 운송주선인(forwarder)이 발행하여 은행이 수리 가능한 복합운송증권은 FIATA FBL 뿐인데, 이 때 forwarder는 반드시 FIATA 의 면허를 득한자에 한한다. 우리나라는 한국해상운송 주선업 협회 (KIFFA)로 1979년 정회원으로 가입. 
+Firm Offer (확정 오퍼) ; 
+청약자가 승낙기간을 지정하고, 그 기간내에 승낙, 회답할 것을 조건으로 하는 오퍼를 말한다. 피 청약자가 기간내에 청약자의 오퍼를 승낙하면 이를 이행해야 한다. 
+Fixture Note (선복 확약서 또는 성약 각서) 
+Forwarder's Cargo Receipt ; FCR (운송주선인의 화물 수령증) 
+운송계약에 따라 주선인이 그때 그때마다 발행하는 여러 형식의 화물 수령증.
+- FCR ; Forwarding Agents Certoficate of Receipt
+FIATA 가 제정한 화물 수령증으로 비융통성 증권으로 신용장 상에 특별한 명시가 있어야 수리 가능하다. 
+Freight (운임) ; 
+미국 (육상 + 해상운임), 영국(해상 : freight, 육상 : carrige) 
+
+
+
+Situation 769 Renting a car
+
+Lee:Good morning.May I help you
+Kim:Yes, I'd like to rent a car.
+Lee:How many days would you like it for
+Kim:For 5 days.
+Lee:What type of car do you need Here's booklet.
+Kim:An economy car would be fine.How much is the rate
+Lee:It's 80 dollars.
+Kim:How much should I pay for insurance and gas
+Lee:The 80 dollars price is all inclusive.And it includes collision and liability insurance.
+Kim:I see.I'll take this one.
+Lee:Please sign here.And may I see your international driver's license
+
+상황 769 차 렌트하기
+
+이수연:어서 오십시요.
+김상인:예, 차를 빌리고 싶습니다.
+이수연:며칠이나 쓰실 건가요
+김상인:5일 동안요.
+이수연:어떤 모델을 원하십니까 여기 팜플렛이 있습니다.
+김상인:소형차가 좋습니다.요금이 어떻게 되죠
+이수연:하루에 80 달러입니다.
+김상인:보험료와 연료비는 얼마입니까
+이수연:80달러 속에 모두 포함되어 있습니다. 그리고 충돌 책임 보험도 포함되구요.
+김상인:좋습니다. 이 자동차로 하겠습니다.
+이수연:여기에 서명해 주세요. 그리고 국제 면허증 좀 보여주시겠습니까
+
+<어구연구>
+
+김상인은 차를 렌트하기 위해 상담을 하고 있다. 그는 이수연에게 
+
+I'd like to rent a car.(차를 렌트하고 싶습니다.)
+
+라고 하자. 이수연은 기간, 차 모델, 비용과 보험료 연료비등 차를 렌트하는데 드는 제반사항에 대해 확인을 한다.
+다음과 같은 표현들을 익혀두자.
+
+What kind of cars would you like(어떤 차를 찾으십니까)
+How much is a mid-size car(중형차는 얼마입니까)
+I'd like one that gets good gas mileage.(연료비가적게 드는 차를 빌리고 싶습니다.)
+I prefer the automatic.(오토매틱이 좋습니다.)
+What do you have in the intermediate size(중형차 크기로 어떤 차가 있습니까)
+Can I drop the car off at any of your branches(당신네 어느 ㅈ지점에든 차를 반납할 수 있습니까)
+
+[무역용어]
+
+Gross Weight (총중량), Net Weight (순중량) 
+General L/C (보통 신용장), Special or Restricted L/C (특정신용장) 
+Generalized System of Preferences C/O ; G.S.P. C/O 
+특혜관세 원산지 증명서 
+
+
+
+Situation 770 The sales volume
+
+Lee: Mr. Brown, how's the sales volume these days
+Brown : Well, it's pretty much the same as we've had before.
+Lee : No better, no worse, you mean
+Brown : Yeah, that's about it. The market's been pretty steady.
+Lee : Do you expect any upturn in the near future
+Brown : Not this year, as far as I can see.
+
+상황 770 매상고
+
+이수경 : 브라운씨, 요즘의 매상고는 어떻습니까
+브라운:: 글쎄요, 뭐 전이나 대동소이합니다.
+이수경 : 더 낫지도 않고, 더 못하지도 않다는 뜻이군요.
+브라운:: 예, 대략 그런 뜻이죠. 시장이 상당히 안정된 상태를 유지하고 있습 니다.
+이수경 : 가까운 시일 내에 가격상승이 있을 것 같지 않습니까
+브라운:: 제가 아는 한 금년엔 없을 겁니다.
+
+<어구연구>
+
+
+이수경은 브라운씨에게 회사 매출에 대해 물어본다.
+
+How's the sales volume these days(매상고는 어떤가요)
+
+이에 브라운씨는 
+
+Well, it's pretty much the same as we've had before.(전이랑 대동소이합니다)
+
+라고 답을 한다. "대동소이하다" 는 여기서 "be substantially the same","be almost identical","nearly allike"의 뜻으로 쓰였다.
+
+[무역용어]
+
+Gross Weight (총중량), Net Weight (순중량) 
+General L/C (보통 신용장), Special or Restricted L/C (특정신용장) 
+Generalized System of Preferences C/O ; G.S.P. C/O 
+특혜관세 원산지 증명서 
+
+
+
+Situation 771 Competitors
+
+Brown: Mr. Kim, I heard there are a lot of companies bidding on this contract.
+Kim : Yeah, we're up against a lot…13 in all.
+Brown : Who are your main competitors
+Kim : There are several. Competition is stiff.
+Brown : What are your chances
+Kim : We did the lowest, I'm wure. So I think our chances are good. 
+
+상황 771 경쟁 업체들
+
+브라운: 김 선생님, 이 계약을 따내기 위해 많은 회사가 경합을 하고 있다고 들었습니다.
+김은수 : 저희와 경합하고 있는 회사는 모두 13개사나 됩니다.
+브라운 : 주요 경쟁사들은 어떤 회사들입니까
+김은수 : 몇 개 있습니다. 경쟁이 치열합니다.
+브라운 : 귀사의 가능성은 어는 정도나 됩니까
+김은수 : 저희의 입찰가가 최저가일 것이 틀림없습니다. 제가 보기에는 승산이 높습니다
+
+<어구연구>
+
+브라운은 경쟁입찰에 대하여 김은수에게,
+
+Who are your main competitors (주경쟁사들은 어떤 회사들입니까)
+
+와 같이 물어보고 있다. 김은수의 질문은 다음과 같이 표현되기도 한다.
+
+Who do you compete against for the most part (대부분 누구와 경쟁을 합니까)
+Who do you mainly compete against (주로 어느 회사와 경쟁이 됩니까)
+
+
+[무역용어]
+
+H.S ; The harmonized Commodity descripton and coding system 
+Harmonized System (국제 통일 상품 분류 번호) 
+Import License ; I/L (수입 승인) 
+Incoterms (International Rules for the Interpretation of Trade Terms) 1990 
+무역조건해석에 관한 국제 규칙, 무역조건에 대한 매수인과 매도인의 의무 (위험 이전, 비용 이전 등) 규정 (국제 규칙) 
+Infringement Clause (권리 침해 조항) 
+공업소유권 등에 관한 Infringement (권리 침해)에 대해서는 면책문언을 넣어 둔다. 특히 미국이나 선진국 등에 수출할 경우 필히 계약서에 삽입해야 한다. 
+
+
+
+Situation 772 Employees
+
+Anthony : Mr. Kim, how many employees do you have
+Kim : About 600 in the plant and 200 in the office.
+Anthony : That many Gee, I'll bet you have a large turnover, don't you
+Kim : Hardly any at all. Our employees all work with a sense of ownership.
+Anthony : Really, that's great. I wish ours did. Then we might not have to put up with that lousy union all the time.
+Kim: Well, our employees have a union, too, but it's not very strong.
+
+
+상황 772 직원
+
+앤서니 : 김 선생님, 직원이 몇 명이나 있지요
+김관후 : 공장에 대략 600명, 사무실에 200명 정도됩니다.
+앤서니 : 그렇게 많습니까 저런, 인원보충도 상당하겠군요, 그렇죠
+김관후 : 전혀 그렇지 않습니다. 우리 직원들은 모두들 자기가 주인이라는 생각으로 일하고 있으니까요.
+앤서니 : 그래요 대단하군요. 우리 직원들도 그랬으면 좋겠군요. 그러면 노조 때문에 항상 골치 아파할 필요도 없을 테니까요.
+김관후 : 글쎄요, 우리 회사에도 노조가 있긴 해도 그렇게 막강하지는 않습니다.
+
+<어구연구>
+
+앤서니는 김관후가 경영하는 회사에 대해 이것저것 궁금한 점을 물어본다.
+
+How many employees do you have(직원이 몇 명 정도 되죠)
+
+이에 김관후는 About 600 in the plant and 200 in the office.(공장에 대략 600명, 사무실에 200명 정도 됩니다)
+
+라고 답을 한다. 직원들이 모두 주인의식을 갖고 일한다는 말에 앤서니는
+
+Then we might not have to put up with that lousy union all the time.
+(노조 때문에 항상 골치 아파할 필요도 없을 테니까요.)
+
+라고 부러워한다. 여기서 lousy는 "형편없는, 비열한"등의 부정적인 어감이 강한 단어다. 오늘 대화에서는 "골치 아픈 일"이란 뜻으로 쓰였다.
+
+[무역용어]
+
+Inland Transit Extension ; ITE (내륙 운송 확장 담보 조건) 
+첨단기자재 등 내륙운송시 위험을 방지하기 위해 담보되는 조건으로 우리나라의 경우 수입화물은 ITE약관으로 부보하여도 수하인의 소유가 아닌 보세창고나 보세장치장 입고 후 10일이 보험자 책임의 최고한도이다. (10일 운송약관) 
+Inquiry (조회) 
+상품매매에 관련된 제반 사항에 대하여 조회하는 서신이며, 대부분의 무역거래가 조회에서 시작된다. 
+Institute Cargo Clause ; I.C.C (협회 적하 약관) 
+Insurable Interest (피보험 이익) 
+적하품이 해상 위험에 기인하여 멸실되면 화주 또는 수하인은 그것에 기인한 손해를 입는데, 이들 특정인은 그 보험계약에 의거하여 보험자에 의해서 보호 받는 이익을 말한다. 
+
+
+
+Situation 773 An order
+
+Lee: How soon can you deliver if I place an order right now
+Kim : Within three months upon arrival of your L / C.
+Lee: Can you make it two months
+Kim: I'll let you know as soon as I check the production capability. I will also have to see how soon we can obtain the raw materials.
+Lee : This order has to meet the Christmas deadline. If you miss it, we can use it.
+Kim : Okay, I will give your order top priority and will make the delivery on time.
+
+
+상황 773주문
+
+이승현:: 지금 주문하면 언제쯤 상품인도가 가능할까요
+김의관 : 신용장 도착후 3개월 이내에 해드립니다. 
+이승현:: 2개월로 할 수는 없을까요
+김의관 : 생산능력을 확인해 보고 곧 알려드리겠습니다. 원자재 확보가 언제까지면 가능할지도 알아봐야 하니까요.
+이승현:: 이 주문은 늦어도 크리스마스 전까지 도착이 되어야 합니다. 그 시기를 놓치면 소용이 없습니다.
+김의관 : 좋습니다. 귀사의 주문에 최우선을 두어 늦지 않게 인도해 드리겠습니다.
+
+<어구연구>
+
+이승현은 김의관과 상품인도 기간에 대해 상담하고 있다. 김의관이 신용장 도착 후 3개월 이내에 상품이 도착한다고 말하자. 이승현은
+
+Can you make it two months(2개월로 할 수는 없을까요)
+
+라고 묻는다. 그의 사정을 이해한 김의관은 
+
+I will give your order top priority and will make the delivery on time.(귀사의 주문에 최우선을 두어 늦지 않게 인도해 드리겠습니다.)
+
+라고 답을 한다.
+
+[무역용어]
+
+Inquiry (조회) 
+상품매매에 관련된 제반 사항에 대하여 조회하는 서신이며, 대부분의 무역거래가 조회에서 시작된다. 
+Institute Cargo Clause ; I.C.C (협회 적하 약관) 
+Insurable Interest (피보험 이익) 
+적하품이 해상 위험에 기인하여 멸실되면 화주 또는 수하인은 그것에 기인한 손해를 입는데, 이들 특정인은 그 보험계약에 의거하여 보험자에 의해서 보호 받는 이익을 말한다. 
+Insurance Premium (보험료) 
+Insurance Terms (보험조건) 
+- Insurance Policy or Certificate (보험증권 또는 보험증명서)
+- Insurer ; Assurer ; Underwriter (보험자) --> 우리나라 경우는 보험회사
+- Assured ; Insured (피보험자) --> CIF 계약으로 수출시 해상사고가 났을 경우 보험금의 지급을 받을 권리가 있는자 즉, 수입업자를 말한다.
+- Policy Holder or Applicant (보험계약자) --> Seller 와 Buyer 중 누가 이 보험에 부보 하느냐에 따라서 CIF 수출계약시는 수출업자, F.O.B 수출계약시는 수입업자를 말한다. 
+
+
+
+Situation 774 An order
+
+Smith: Mr. Kim, what discount can you offer for orders over $ 10,000
+Kim : We're prepared to offer a apecial discount of 5%.
+Smith : Well, we can get a quality cloth elsewhere with a 10 ~ 15% discount.
+Kim : Well, the quality may be good, but I bet it can't compare with ours.
+Smith : If you're willing to make it 10%, we're willing to place an order for over $20,000 net.
+Kim : You've got a deal.
+
+
+상황 774 주문
+
+스미스:: 김 선생님, 1만불 이상의 주문에 대해서 어느 정도 할인해 주실 수 있습니까
+김은수 : 특별히, 5%까지는 할인해 드릴 용의가 있습니다.
+스미스:: 다른 곳에서는 고급인 천도 10~15% 씩 할인하여 살 수 있습니다.
+김은수 : 글쎄, 질이 좋을 수도 있겠지만 저희들 것과는 비교가 안되리라고 확신합니다. 
+스미스:: 10% 를 할인해 주신다면, 저희는 기꺼이 2만불 이상의 주문을 하겠 습니다.
+김은수 : 그렇게 계약합시다.
+
+<어구연구>
+
+스미스는 김은수와 제품 주문건으로 상담을 하고 있다. 그가
+
+What discount can you offer for orders over $ 10,000(1만불 이상의 주문에 대해서 어느정도까지 할인해 줄 수 있습니까)
+
+라고 하자,김은수는
+
+We're prepared to offer a apecial discount of 5%.(특별히5%까지 할인해 줄 수 있습니다.)
+
+라고 답하자, 스미스는 다른 회사 제품을 예로 들며 추가 할인을 유도해 보려고 한다.이에 김은수는
+
+Well, the quality may be good, but I bet it can't compare with ours.
+(글쎄, 질이 좋을 수도 있겠지만 저희들 것과는 비교가 안되리라고 확신합니다.)
+
+라고 말하며 제품에 대한 확신을 드러낸다.
+
+[무역용어]
+
+Import License ; I/L (수입 승인) 
+Incoterms (International Rules for the Interpretation of Trade Terms) 1990 
+무역조건해석에 관한 국제 규칙, 무역조건에 대한 매수인과 매도인의 의무 (위험 이전, 비용 이전 등) 규정 (국제 규칙) 
+Infringement Clause (권리 침해 조항) 
+공업소유권 등에 관한 Infringement (권리 침해)에 대해서는 면책문언을 넣어 둔다. 특히 미국이나 선진국 등에 수출할 경우 필히 계약서에 삽입해야 한다. 
+Inland Storage Extension ; ISE (내륙 보관 확장 담보 조건) 
+운송과정에서 중간창고나 보세지역에 장기간 보관되는 원목 등 제품에 대해서 화재등의 위험을 방지하기 위해서 적하 보험 증권에 명시된 기간 (수출 : 본선으로부터 하역 후 60일, 수입 : 보세창고에 입고 후 10일) 이상으로 연장할 경우 담보하는 조건으로서 30일 60일 및 90일 등으로 기일에 따라 요율이 다르다. 
+
+
+
+Situation 775 The time for payment
+
+Min:I'm calling about the shipment schedule.
+Han:Which shipment are you referring o
+Min:Shipment number 1050.How soon can you deliver
+Han:We've already sent it.I'm sure you'll get it by Friday.
+Min:That sounds great.
+
+상황 775 납기일
+
+민영욱:출하 스케줄건으로 전화를 드리는건데요,
+한수연:어떤 출하를 말씀하시는 겁니까
+민영욱:1050번입니다.언제 납품할 수 있습니까
+한수연:이미 발송을 끝냈습니다.금요일까지 반드시 도착할 것입니다.
+민영욱:그거 다행이군요
+
+<어구연구>
+
+민영욱과 한수연은 납기건으로 얘기를 하고 있다.
+
+일시와 기한을 영어로 표현할 때는 틀리지 않도록 주의해야 한다.예를 들면,<이번 달 말까지>는 무심코
+"Within this month"라고 말하고 싶지만, 이것으로는 조금 애매한 감이 있다.<향후 1개월 이내에>라는 의미도있기 때문이다.이 때는 by를 사용해서 by the end of his month 라거나 within the rest of this month(이번 달 남은 기간내에) 라고 말하면 확실하다.
+
+
+[무역용어]
+
+Laydays ; Laytimes (정박기간) 
+용선자가 계약화물의 전량을 완전하게 적재 또는 양륙하기 위해서 본선을 선적항 또는 양륙항에서 정박시킬 수 있는 기간을 말한다. 
+Less than Container Load ; LCL (혼재화물) 
+FCL이 안되는 소량의 화물을 말하녀 이런 화물을 선사는 한개의 컨테이너에 적재한다. 
+Letter of Credit (신용장) 
+Letter of Gurantee ; L/G (수입화물 선취보증장) 
+수입물품은 이미 도착하였으나 운송서류가 도착하지 않았을 경우 운송서류 내도 이전에 수입상과 개설은행이 연대보증한 보증서를 선박회사에 선하증권의 원본 대신 제출하고 수입화물을 인도받는 보증서이다. 
+
+
+
+Situation 776 A set comprise
+
+Hong: Mr. Brown, you really ought to see our new model A-21. It
+comes in a set of four components.
+Brown : What does a set comprise
+Hong : Well, there's a player with a two speaker stereo sound system and an all-purpose adapter.
+Brown : I see. And how much are you asking per unit
+Hong : The unbelivably low price of $50.
+Brown : Well, I'll admit that's hard to beat. Okay, let's have a look at it.
+
+
+상황 776 세트 구성
+
+홍의영: 브라운씨, 저희 새 모델 A-21을 꼭 한번 보십시오. 4개의 컴포넌트가 한 세트로 판매됩니다.
+브라운:: 한 세트는 무엇 무엇으로 구성됩니까
+홍의영 : 저, 두 개의 스피커가 딸린 스테레오 사운드 플레이어가 포함되고 다목적 어댑터도 있지요.
+브라운:: 알겠습니다. 그러면 한 대당 가격은 얼마입니까
+홍의영 : 믿어지지 않을 정도로 싼 가격인 대당 50불입니다.
+브라운:: 그 가격이면 어디보다도 싸겠군요. 자, 어디 좀 볼까요
+
+<어구연구>
+
+홍의영은 브라운씨게에 자사 제품을 소개하고 있다. 그는 
+
+You really ought to see our new model A-21. It
+comes in a set of four components.(저희 새 모델 A-21을 꼭 한번 보십시오. 4개의 컴포넌트가 한 세트로 판매됩니다.)
+
+라고 말을 꺼낸다. 그러자 브라운씨는 
+
+What does a set comprise(한 세트에 무엇 무엇이 들어있죠)
+
+라고 질문한다. 
+
+
+[무역용어]
+
+Liner (정기선) 
+개품운송의 화물을 정기적으로 취항시키는 운송 방식. 
+Local Credit (내국 신용장) 
+Lump-sum Charter (선복 용선 계약) 
+적하량과는 관계없이 계약 선복(계약톤수)을 대상으로 하여, 항해에 대한 운임을 포괄적으로 양정하는 선복운임(lump-sum freight)에 으한 방식의 것을 말한다. 
+[ M ]
+Mail Credit (신용장 우편 개설) 
+Mail Transfer ; M/T (우편환) 
+
+
+
+Situation 777 A business talk
+
+Hwang: Mr. Kim, that last shipment of footwear arrived almost a month late. Do you know that
+Kim : Yes, I'm terribly sorry. It got held up due to the labor strike problems we've been having.
+Hwang : Well, is this going to be a continuing thing
+Kim : No, it's all been settled, so we're back on schedule again.
+Hwang : Well, then, please be sure there is absolutely no delay in the new shipment.
+Kim : Of course, I'll get things moving as quickly as I can.
+ 
+상황 777 상담
+
+황현진:: 김 선생님, 지난번 신발류 선적이 거의 한달이나 늦게 도착했습니 다. 알고 계신가요
+김기민 : 예, 대단히 죄송합니다. 계속 문제가 되어 온 근로자들의 파업 때문 에 지연되었습니다.
+황현진:: 그럼 앞으로도 계속 그럴까요
+김기민 : 아닙니다. 모두 해결되었습니다. 그래서 저희들은 다시 예정대로 해 나가고 있습니다.
+황현진:: 그렇다면, 다음번 새로운 선적건에 대해서는 절대 지연되는 일이 없도록 해주십시오.
+김기민 : 물론입니다. 일을 최대한 빨리 진행시키도록 하겠습니다.
+
+<어구연구>
+
+황현진은 김기민과 선적건으로 상담을 하고 있다.지난번 선적이 늦어져 그는
+
+That last shipment of footwear arrived almost a month late. Do you know that
+(지난 번 신발류 선적이 거의 한달이나 늦게 도착했습니다. 알고 계신가요)
+
+라고 말문을 연다. 더불어 이번에는 절대 지연되는 일이 없도록 확답을 요구한다. 
+
+ Please be sure there is absolutely no delay in the new shipment.(새로운 선적건에 대해서는 절대 지연되는 일이 없도록 해주십시요.)
+
+[무역용어]
+
+Market Claim 
+매수인에게 거의 손해를 입히지 않는 정도이거나 또는 그 손상이 경미하여 평소 같으면 클레임이 되지 않을 정도의 적은 과실을 감가의 구실로 하는 클레임을 말한다. 이런 종류의 클레임은 상담의 성립후에 시가가 하락하는 경우, 무역 도덕심이 낮은 매수인에 의해서 가끔 남용된다. 요컨대 수입대금을 깍으려는 매수인 요구가 클레임으로 의장된 것이다. 
+Mate's Receipt ; M/R (본선 수취증) 
+- 재래선 화물의 수출 : S/R --> S/O --> M/R --> B/L 
+- 재래선 화물의 수입 : B/L (L/G) --> D/O --> 수입통관 
+Minimum Freight (최저운임) 
+정기선의 경우 1톤 미만의 화물에 대해서는 최저 1톤에 해당하는 운임을 부과한다. 
+
+
+
+Situation 778 An order
+
+ Smith: Mr. Kim, you know things have been moving awfully slowly with that order we placed on model A-27.
+Kim : Really In what way
+Smith : Well, we placed that order months ago and we still haven't received even a single shipment.
+Kim : Yeah, I know. Things got tied up due to a strike.
+Smith : Well, that's not helping us any. You know we've got a sh ipping schedule that we've got to meet, too.
+Kim : Sorry to put you to so much trouble. But don't worry, I'll get something worked out.
+ 
+상황 778 주문
+
+스미스:: 김 선생님, 저희가 주문한 모델 A-27의 진행이 매우 늦고 있거든요.
+김형인 : 그래요 어떻게요
+스미스:: 저, 저희가 몇 개월 전에 주문을 했는데, 아직까지 단 한차례의 선적 품도 받지 못했습니다.
+김형인 : 예, 알겠습니다. 파업 때문에 일이 늦어졌습니다.
+스미스:: 저, 그런 말씀은 전혀 도움이 되지 않습니다. 저희도 맞춰주어야 할 발송 스케줄이 있으니까요.
+김형인 : 곤란하게 해드려 죄송합니다. 하지만 걱정마세요. 제가 해결방법을 강구할 테니까요.
+
+<어구연구>
+
+스미스는 김형인과 주문건으로 상담을 하고 있다. 그는 주문한 제품의 도착이 늦자 다음과 같이 질문한다.
+
+You know things have been moving awfully slowly with that order we placed on model A-27.(저희가 주문한 모델 A-27의 진행이 매우 늦고 있거든요.)
+We placed that order months ago and we still haven't received even a single shipment.(저희가 몇 개월 전에 주문을 했는데, 아직까지 단 한차례의 선적 품도 받지 못했습니다.)
+
+이에 김형인은
+
+Things got tied up due to a strike.(파업때문에 일이 늦어졌습니다)
+But don't worry, I'll get something worked out.
+(걱정 마세요. 제가 해결 방안을 강구할 테니까요)
+
+라고 답하며 상담을 마친다.
+
+[무역용어]
+
+Negotiating Bank (매입 은행) 
+신용장의 조건과 일치하는 서류가 첨부된 환어음이 제시될 때 환어음을 매입해주는 은행 
+Negative List System 
+수출입 품목을 제한 내지 금지되는 품목만 나열하는 수출입 공고에 의한 관리 방식 
+Non-Tariff Berrier ; NTB (비관세 장벽) 
+간접무역 규제인 관세 이외의 무역 규제 수단 (수량제한, 외환관리 등) 
+
+
+
+
+
+Situation 779 A price negotiation
+
+Han : Mr. Brown, I'll admit our original asking price is a bit higher than our competitors, but we're way ahead of them in quality.
+Brwon : I know that, but the average consumer doesn't. The way things are these days, most folks are thinking only about the price.
+Han : To cut our price would also mean a cut in quality, and we don't want to do that. Our brand image is more important to us in the long run.
+Brown : You're 100% right, but, you've just got to come down so me, and that's all there is to it. Look, why don't you get to gather with your boss, work out a more reasonable price, and let me have it on monday, okay
+ Han: Okay, I'll try, but I can't give you any firm promises.
+Brown : Aw, come on. I know you can do it if you really try.
+ 
+상황 779 가격 협상
+
+ 한형진: 브라운씨, 당사의 요구가격이 원래 경쟁사들에 비해 다소 높다는 것은 인정합니다. 하지만 우린 품질에서 그들보다 훨씬 앞서 있습니다.
+브라운:: 저도 그런줄은 알지만, 일반 고객들은 그렇지 않습니다. 요즈음은 대다수 사람들이 가격만 생각을 하거든요.
+한형진 : 가격을 낮춘다는 건 질을 떨어뜨린다는 말인데 그렇게 하고 싶진 안습니다. 결국에는 브랜드 이미지가 더 중요하니까요.
+브라운:: 다 옳은 말씀입니다만, 가격을 반드시 어느 정도 인하해 주셔야 합니다. 그 수밖엔 없어요. 저, 사장님과 만나 좀 더 합당한 가격을 내셔서 월요일까지 좀 알려주세요, 가능할까요
+한형진 : 좋습니다. 일단 시도해 보지요. 그러나 꼭 된다는 보장은 할 수 없습니다.
+브라운:: 그런 말씀 마세요. 그렇게 하시려고만 하면 하실 수 있는 줄 알고 있 습니다.
+
+<어구연구>
+
+한형진씨와 브라운은 가격 협상을 하고 있다. 브라운은 가격인하를 하기 위해 브라운씨에게 다음과 같이 말한다.
+
+The average consumer doesn't. The way things are these days, most folks are thinking only about the price.(일반 고객들은 그렇지 않습니다. 요즈음은 대다수 사람들이 가격만 생각을 하거든요.)
+
+그러자 한형진은
+
+To cut our price would also mean a cut in quality, and we don't want to do that. Our brand image is more important to us in the long run.(가격을 낮춘다는 것은 질을 낮춘다는 걸 의미합니다. 저희는 브랜드 이미지가 더 중요합니다.)
+
+하지만 브라운씨는 계속 가격 인하를 요청한다. 이에 한형진은
+
+Okay, I'll try, but I can't give you any firm promises.( 일단 시도해 보지요. 그러나 꼭 된다는 보장은 할 수 없습니다.)
+
+라며 말을 맺는다.
+
+[무역용어]
+
+Ocean or Marine B/L(해양 선하증권)과 Local B/L(국내 선하증권) 
+해양선하증권은 인천과 런던 또는 뉴욕과 같이 한나라의 영해를 벗어나는 해외운송에 대하여 발행되는 선하증권을 말하며, 현재 우리나라의 무역거래에서 사용되는 선하증권은 거의가 모두 이 선하증권이다. 한편 내국 선하증권은 인천과 부산 또는 군산사이와 같이 국내 해상운송에서 발행되는 선하증권을 말한다. 
+Offer Agent (갑류 무역대리업) 
+외국의 수출업자를 대리하여 국내에서 물품매도 확약서 발행을 업으로 하는자.
+(한국 무역대리점 협회에서 등록) 
+Offer subject to Prior Sale (선착순 판매조건 오퍼) 
+이것은 주로 재고품판매오퍼시 거래선들에게 오퍼를 발행하는 것으로, 해당물품이 판매되지 않고 재고가 있어야만 계약이 성립된다는 것을 조건으로 한다. 이는 Offer subject to being Unsold(재고잔유조건 오퍼)로도 표시 할 수 있다. 
+
+
+Situation 780 A model introduction
+
+Kim : Mr. Brown, have you seen our latest model It's really compact.
+ Brown: Yeah, gee, it's small enough to fit into your pocket.
+Kim : Right. That's what the market's been crying for, night.
+Brown : Yeah, I know. Gee, it's amazing how you did it.
+Kim : Leave it to us, We do the impossible.
+Brown : You know something, I'm beginning to believe you.
+ 
+
+상황 780 모델 소개
+
+ 김형인: 브라운씨, 저희 최근 상품모델을 보셨습니까 매우 소형입니다.
+브라운:: 그렇군요. 야, 아주 작아 주머니에도 들어가겠네요.
+김형인 : 그렇습니다. 그것이 바로 시장에서 계속 요구가 있었던 것이죠.
+브라운:: 예 압니다. 저, 어떻게 그것을 만들었는지 놀랍군요.
+김형인 : 저희에게 맡기세요. 저희는 불가능한 것도 해냅니다.
+브라운:: 저, 이제 슬슬 믿음이 가는데요.
+
+<어구연구>
+
+김형인과 브라운은 최신 모델에 대해 상담하고 있다. 브라운은 김형인의 회사 제품을 보고 호감을 드러낸다.
+
+It's small enough to fit into your pocket.(주머니에 들어갈 정도로 작군요.)
+
+[무역용어]
+
+Mail Credit (신용장 우편 개설) 
+Mail Transfer ; M/T (우편환) 
+Manifest ; M/F (적하 목록) 
+선적을 완료한 후 선하증권의 사본을 기초로 하여 선박회사 혹은 대리점이 작성하는 적하의 명세서이며, 하역상 양륙지의 지점 또는 대리점에서 필요한 서류이다. 이 서류는 수입화물에 대하여 세관에 제출 되어야 한다. 
+Marine Insurance Act ; MIA (영국 해상 보험법) 
+
+Situation 781 A model
+
+ Hwang: Mr. Kim, I'd like to place an order for model A-21, 22, and 23.
+Kim : Okay, do you have any specific quantity in mind at the moment
+Hwang : Well, let's say a hundred of each to start with.
+Kim : I'll tell you what. Make it 200 of each and you've got your self a 20%discount.
+Hwang : Make it 25% and you've got yourself a deal.
+ 
+상황 781 모델
+
+황순현:: 김 선생님, 모델 A-21, 22, 23을 주문하고 싶습니다.
+김수영 : 좋습니다. 지금 구체적으로 얼마나 주문하시겠다는 생각을 하고 계십니까
+황순현:: 저, 첫 주문으로 모델당 약 100대씩만 하지요.
+김수영 : 좋은 생각이 있습니다. 각 모델당 200대씩 주문을 하세요. 그러면 20% 할인도 되니까요.
+황순현:: 25%로 해주십시오. 그러면 계약을 하겠습니다
+
+<어구연구>
+
+황순현과 김수영은 주문건으로 협상을 하고 있다. 황순현이 모델 A-21~3을 주문한다고 하자, 김수영은
+
+Do you have any specific quantity in mind at the moment(지금 구체적으로 얼마나 주문하시겠다는 생각을 하고 계십니까)
+
+이에 황순현은
+
+ Let's say a hundred of each to start with.(첫 주문으로 모델당 약 100대씩만 하지요.)
+
+라고 한다. 하지만, 김수영은 노련한 협상가의 모습을 보이며
+
+Make it 200 of each and you've got your self a 20% discount.(각 모델당 200대씩 주문을 하세요. 그러면 20% 할인도 되니까요.)
+
+라고 추가 주문을 유도하지만, 결국에는 25% 할인을 해 달라고 하는 황순현에게 한 수 밀리게 된다.
+
+[무역용어]
+
+Packing List (포장 명세서) 
+Partial Loss of Average (분손 또는 해손) 
+피보험 목적물의 일부에만 손해가 발생하였을 경우를 말한다.
+- Particular Average Loss ; A/P (단독 해손) : 손해를 입은 자가 단독으로 부담하는 해손을 말한다.
+- General Average Loss ; G/A (공동 해손) : 피보험의 목적물이 해난을 만났을 경우, 공동의 위험을 구하기 위하여 선장의 책임하에 선박이나 적하품의 일부를 바다에 버리는 즉 희생시킨 해손을 말한다.
+* Average Adjuster (공동해손 정산인)
+* General Average Contribution (공동해손 분담) 
+* Statement of General Average (공동해손 정산서)
+* York-Antwerp Rules, 1074 : 공동해손의 정산 및 해결을 위한 규칙 
+
+
+
+Situation 791 A literature
+
+ Lee: Mr. Brown, I'd like to show you our latest PC model. It works like a charm.
+Brown : How does it go on pricing
+Lee : It's the most reasonably priced model on the market to da
+te.
+Brown : Hm, it might be worth looking into for next Christmas. Have you got anything in print on it
+Lee : You bet. Hold a second and I'll get you some literature on these machines.
+Brown : While you're at it, see if your secretary would be so kind as to call my hotel and tell them I'l be a little late. I'm supp osed to meet someone in the lobby at 6:00. His name is Mr. Kim.
+
+상황 791 광고물
+
+이진우 : 브라운씨, 저희 회사의 신형 PC모델을 보여드리겠습니다. 신기할 정도로 성능이 좋습니다.
+브라운:: 가격은 어떻게 됩니까
+이진우 : 지금까지 시장에 나온 것 중 가장 가격이 저렴합니다.
+브라운:: 음, 다음 크리스마스용으로 검토해 볼 필요가 있겠군요. 그것에 관한 안내 인쇄물이 있습니까
+이진우 : 물론이죠. 잠깐만 계세요. 이들 기계류에 관한 팜플렛을 좀 갖다 드리겠습니다.
+브라운:: 이왕 나가시는 김에, 선생님 비서에게 시켜 제가 묵고 있는 호텔에 전화를 걸어 좀 늦는다고 해주시겠습니까 호텔 로비에서 6시에 누굴 만나기로 되어 있거든요. 그 분 이름은 김 선생님입니다.
+
+<어구연구>
+
+이진우는 브라운씨에게 신형 PC모델을 소개하고 있다. 소개를 들은 브라운은
+
+How does it go on pricing(가격은 어떻게 됩니까)
+
+라고 묻자, 이진우는
+
+ It's the most reasonably priced model on the market to date.
+(지금까지 시장에 나온 것 중 가장 저렴합니다.)
+
+라며 가격의 경쟁력에 대해 설명한다. 이에 브라운은 안내 인쇄물을 요청하며 이진우는 자리에서 일어서며 급히 서두른다.
+
+Hold a second and I'll get you some literature on these machines.(잠깐만 계세요.기계류에 대한 인쇄물을 갖다 드리겠습니다.)
+
+
+[무역용어]
+
+
+Telegraphic Transfer ; T/T (전신환) ; 
+환어음의 결제를 전신으로 행하는 경우 적용되는 환율로, 환어음의 송달이 1일이내에 완료되므로 우송기간에 대한 금리의 요인이 개재되지 않는 순수한 의미의 환률이다.
+- T/T Buying Rate (전신환 매입율)
+- T/T Selling Rate (전신환 매도율) 
+Tenor (환어음의 결제기한) 
+- at 30 days after sight (일람후 정기출급) : 어음이 Buyer에게 제시되는 날에 결제일이 확정
+- at 30 days after date (일부후 정기출급) : 어음의 발행일자로부터 결제일 확정
+- at 30 days after B/L date (확정일자 정기 출급)
+- Date of Maturity ; Due Date (만기일) 
+Tenor of Draft (환어음의 결제 조건) 
+
+
+
+
+
+
+
+
+Situation 790 A business talk
+
+ Han: Mr. Kim, I like everything about that model but your price.
+Kim : You mean you actually think it's too steep
+Han : Much too steep. You've got to come down a ways before we can even think about striking a bargain.
+Kim : But our prices are already down to rock bottom, as things go today.
+ Han: I can name at least 3 companies in Taiwan that undercut you by a wide margin.
+Kim : Oh, go on. You're just saying that to get the price down.
+
+상황 790 상담
+
+한형민 : 김 선생님, 그 모델은 가격만 제외하면 모든 것이 마음에 듭니다.
+김영규 : 그게, 정말 너무 비싸다는 말씀인가요
+한형민:: 비싸도 너무 비쌉니다. 계약체결을 생각하게 앞서 가격을 다소 깎아 주셔야겠어요.
+김영규 : 그러나 요즘 추세로 봐서는 저희 회사 가격은 이미 최저가격입니다.
+한형민:: 저는 귀사보다 훨씬 싸게 파는 대만의 회사이름을 세 개는 댈 수 있 습니다. 
+김영규 : 오, 그런말 마세요. 가격을 깎으려고 괜히 그러시는 거지요.
+
+<어구연구>
+
+한형민은 김영규의 제품소개를 다 들은 후
+
+I like everything about that model but your price.(그 모델은 가격만 제외하면 모든 것이 마음에 듭니다.)
+
+가격에 대한 불만을 얘기한다. 김영규는 
+
+You mean you actually think it's too steep(정말 너무 비싸다는 말씀인가요) 
+
+라며, 다음과 같이 현상황을 얘기한다.
+
+But our prices are already down to rock bottom, as things go today.
+(그러나 요즘 추세로 봐서는 저희 회사 가격은 이미 최저입니다.)
+
+[무역용어]
+
+Telegraphic Transfer ; T/T (전신환) ; 
+환어음의 결제를 전신으로 행하는 경우 적용되는 환율로, 환어음의 송달이 1일이내에 완료되므로 우송기간에 대한 금리의 요인이 개재되지 않는 순순한 의미의 환률이다.
+- T/T Buying Rate (전신환 매입율)
+- T/T Selling Rate (전신환 매도율) 
+Tenor (환어음의 결제기한) 
+- at 30 days after sight (일람후 정기출급) : 어음이 Buyer에게 제시되는 날에 결제일이 확정
+- at 30 days after date (일부후 정기출급) : 어음의 발행일자로부터 결제일 확정
+- at 30 days after B/L date (확정일자 정기 출급)
+- Date of Maturity ; Due Date (만기일) 
+Tenor of Draft (환어음의 결제 조건) 
+
+
+
+
+Situation 789 A new model introduction
+
+Kim : Mr. Brown, how do you like the new model
+Brown : Frankly speaking, I like the old model design better.
+Kim : But the new model has a more streamlined look. The old model, in my opinion, is rather straid-looking.
+Brown : Be that as it may, that's just how we want it.
+Kim : Well, suit yourself. you're the boss.
+Brown : It's not only myself I'm speaking for. I've got to keep our customers in mind as well.
+
+상황 789 새 모델 소개
+
+김홍전 : 브라운씨, 새 상품모델을 어떻게 생각하세요
+브라운:: 솔직히 말해서, 저는 종전 모델 디자인이 더 좋습니다.
+김홍전 : 그러나 새 모델은 더 날씬한 외형을 하고 있습니다. 종전 모델은 약간 차분한 느낌을 주지요.
+브라운:: 그래도 우리가 원하는 것은 바로 그런 식입니다.
+김홍전 : 글쎄, 마음대로 하세요. 결정권은 당신에게 있으니까요.
+브라운:: 제 경우만 말씀 드리는 게 아닙니다. 저희 고객들의 기호도 유념해야 하니까요.
+
+<어구연구>
+
+김홍전은 브라운에게 새 상품을 소개하면서 
+
+How do you like the new model(새 상품 모델을 어떻게 생각하세요)
+
+라고 묻는다. 브라운은 
+
+ I like the old model design better.(저는 이전 모델이 더 좋았습니다.)
+
+라며 종전 모델을 더 선호함을 밝힌다. 김홍전은 다시 한 번 
+
+But the new model has a more streamlined look. The old model, in my opinion, is rather straid-looking.(새 모델은 더 날씬한 외형을 하고 있고, 종전 모델은 차분한 느낌을 줍니다.)
+
+신제품을 홍보하지만, 브라운은 
+
+Be that as it may, that's just how we want it.(그래도 우리가 원하는 게 바로 그런 겁니다.)
+
+라며 그의 의견을 피력한다.
+
+[무역용어]
+
+
+Specific Duties (종량세) 
+수입품의 수량이 과세표준이 되는 관세이며, 우리나라 수입물품에 부과되는 종량세율은 관세율에서 그 품목 (3706류 와 8524류) 및 주세에서 주정의 경우에 한하여 적용되고 있다.
+- Compound Duty (복합관세) ; 동일 품목에 대해서 종가세와 종량세를 결합한 관세이다. 
+Stand-by Credit (보증신용장) 
+상품의 매매가 아닌 금융이나 보증의 목적으로 사용
+- Bid Bond (국제 입찰 보증금)
+- Performance Bond (계약 이행 보증금) 
+Stale B/L (기간 경과 선하증권) 
+Stevedorage (선내 하역비) 
+화물의 적재와 양하 비용을 누가 부담 하느냐에 따라 계약할 때마다 당사자 간에 명백히 약정해 주어야 한다. 
+
+
+
+
+
+Situation 788 Subsidiary companies
+
+Andy : Mr. Kim, are you sure about putting out this item
+Kim : Leave it to me.
+Andy : How about the microchips How are you going to work that
+ out
+Kim : We've already arranged to have them produced by Hanyang Electronics.
+Andy : Hanyang Electeonics Who are they
+Kim : It's one of our subsidiary companies.
+
+상황 788 자회사
+
+앤디 : 김 선생님, 이 제품을 정말 생산할 수 있나요
+ 김병관: 제게 맡기세요.
+앤디 : 마이크로칩은 어떻게 하구요 어떻게 해결하실 건가요
+김병관 : 이미 한양전자에게 생산하도록 의뢰해 놓았습니다.
+앤디 : 한양전자요 어떤 회사죠
+김병관 : 우리 자회사 중의 하나입니다. 
+
+<어구연구>
+
+앤디는 김병관에게 
+
+Are you sure about putting out this item(이 제품을 정말 생산할 수 있나요)
+
+라고 묻는다. 김병관은 자신있게
+
+Leave it to me.(제게 맡기시기만 하면 됩니다.)
+
+라고 대답한다. 덧붙여 그는 "한양전자"에 의뢰를 해 놓았다고 말하자, 앤디는 
+처음 듣는 회사에 어떤 곳이냐고 질문한다. 
+이에 김병관은 
+
+It's one of our subsidiary companies.(우리 자회사중 하나입니다.)
+
+여기서 subsidiary company는 "모회사에 의해 지탱되는" "자회사" 의 의미다. 
+
+[무역용어]
+
+Sight L/C (일람 출급 신용장) 과 Usance L/C (기한부 신용장) 
+Special Instructions or Conditions (신용장상의 특수 지시 사항) 
+특수조건은 수입자의 국가, 수입상품 및 거래 방식 등의 특성에 따라 요구되는 사항으로서 일반적으로 수입자가 수출자의 사전 양해 없이 삽입 함. 
+Speific Duties (종량세) 
+수입품의 수량이 과세표준이 되는 관세이며, 우리나라 수입물품에 부과되는 종량세율은 관세율에서 그 품목 (3706류 와 8524류) 및 주세에서 주정의 경우에 한하여 적용되고 있다.
+- Compound Duty (복합관세) ; 동일 품목에 대해서 종가세와 종량세를 결합한 관세이다.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Situation 787 The time limit for delivery
+
+ Tom: Listen, Mr Kim. We've gotta have that shipment no later than September 30th.
+Kim : Don't worry. I gave you my word.
+Tom : Otherwise, it's my neck, you understand
+Kim : Yes, fully. You can count on me 100%.
+Tom : If it arrives later than that, we'll be too late for the X-mas season.
+Kim : I got you. Please don't lose any sleep over it. It'll be there on time, I guarantee.
+ 
+상황 787 약속 납기일
+
+탐:: 저, 김선생님. 그 선적품은 늦어도 9월 30일까지는 도착되어야만 합니다.
+김관우 : 걱정마세요. 약속드렸잖아요.
+탐:: 그렇지 않으면, 제 목이 달아납니다. 아시겠어요
+김관우 : 예, 충분히 알겠습니다. 저를 100% 믿으셔도 좋습니다.
+탐:: 만약 물건이 그보다 늦게 도착한다면 저희는 크리스마스 시즌을 놓 치게 됩니다.
+김관우 : 알겠습니다. 너무 걱정하지 마세요. 분명히 늦지않고 도착될 테니까요.
+
+<어구연구>
+
+탐은 선적품의 납기를 확인하고자 김관우에게
+
+Mr Kim. We've gotta have that shipment no later than September 30th.(선적품은 늦어도 9월 30일까지는 도착되야만 합니다.)
+
+김관우는 자신과의 약속을 잘 못믿는 듯한 탐의 발언에
+
+Don't worry. I gave you my word.(걱정하지 마세요. 약속해 드렸잖아요.)
+
+라고 말한뒤,
+
+ Yes, fully. You can count on me 100%.(저를 100% 믿으셔도 됩니다.)
+
+라며 확답을 준다.
+
+[무역용어]
+
+Shipping Conference or Freight Conference (해운동맹 또는 운임동맹) 
+- Non-Conference or Outsider (비 동맹선)
+- Conference Certificate ; 선사에서 자기네가 해운동맹에 가입한 선사라는 것을 입증하는 증명서
+- Dual Rate System (계약 운임제)
+- Deferred Rebate System (운임 연 환불제)
+- Fidelity Commission System (운임 할여제) 
+Shipping Order ; S/O (선적 지시서) 
+Shipping Request ; S/R (선복 요청서) 
+Short Form B/L (양식 선하 증권) 
+선하증권 발행절차의 간소화를 위하여 선하증권상의 장문의 약관이 생략된 선하증권으로 신용장상에 별도의 명시가 없는 한 은행에서 수리한다. 
+
+
+
+
+
+
+
+
+
+Situation 786 An emergency
+
+Kim : Excuse me, Mr. Brown, there's a telephone call for me.
+Brown : Yeah, sure. Go right ahead.
+Kim : (after talking on phone) Oh, gee, Mr. Brown. I'm terribly sorry. I've got to rush out for a moment. It's kind of an emergency.
+Brown : Yeah, but we've got to get this over with, you know.
+Kim : No problem. I'll be back shortly.
+Brown : Okay, but make it real short, will you
+
+상황 786 급한 용무
+
+ 김형석: 실례지만, 브라운씨, 전화를 좀 받아야겠군요.
+브라운:: 예, 어서 받으세요.
+김형석 : (통화를 하고나서) 이런, 브라운씨. 대단히 죄송합니다. 잠시 나갔다 와야 할 것 같습니다. 좀 급한 일이라서요.
+브라운:: 좋아요, 하지만 이 건은 끝내 버려야 하잖아요.
+김형석 : 염려마세요. 금방 돌아올께요.
+브라운:: 좋아요. 그치만, 꼭 금방 오셔야 해요, 예
+
+<어구연구>
+
+오늘은 김형석과 브라운사이에 일어난 간단한 대화다.김형석씨 앞으로 전화가 오자. 김형석은
+
+Mr. Brown, there's a telephone call for me.(전화 좀 받아야겠군요.)
+
+라며 양해를 구한다. 통화 후 급하게 나가봐야하자. 그는
+
+Mr. Brown. I'm terribly sorry. I've got to rush out for a moment. It's kind of an emergency.(죄송합니다만, 잠시 나갔다 와봐야 할 것 같습니다. 급한 일이라서요.)
+
+라고 말하지만, 계속 협상을 진행해야하는 브라운은
+
+But make it real short, will you(금방 돌아올 수 있죠)
+
+라며 확인하는 질문을 한다.
+
+[무역용어]
+
+Shipped or On Borad B/L (선적 선하 증권) 
+Shipper or Consignor (선적인 또는 송화인) 
+Shipping Advise, Notice of Shipment (선적 통지서) 
+Shipping marks (화인) 
+송화의 외장에 기입하는 특정의 기호, 목적지, 번호, 기타의 표식을 말한다. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Situation 785 A shipment
+
+ Brown: You know, I'd like to place an order for this model, Mr Kim, a lot depends on timing.
+ Kim: Uh, what exactly do you mean
+Brown : I mean exactly when can you make shipment
+Kim : Well, if you place an order now, the shipment can be made in December.
+Brown : Too late. How about November
+Kim : That's pushing it, but we'll try our best.
+
+상황 785 선적
+
+브라운:: 저, 김 선생님, 이 모델을 주문하고 싶습니다. 하지만 주문 여부는 시기를 맞출 수 있느냐에 전적으로 달린 것 같습니다.
+ 김형철: 정확하게 무슨 말씀이신지요
+브라운:: 제 말씀은 정확히 언제까지 귀사께서 선적을 해주실 수 있느냐는 것입니다.
+김형철: 글쎄요, 지금 주문을 하시면 12월에 선적이 되겠는데요. 
+브라운:: 너무 늦습니다. 11월에는 안될까요
+김형철 : 너무 무리하게 재촉하시는군요. 하지만 저희들이 최선을 다하겠습니다.
+
+<어구연구>
+
+브라운은 주문에 앞서 선적 시기를 문의하고 있다.
+
+ I'd like to place an order for this model, Mr Kim, a lot depends on timing.
+(이 모델을 주문하고 싶습니다.주문 여부는 시기에 전적으로 달려 있습니다.)
+
+김형철이 선적이 12월에나 될 거라고 말을 하자
+
+Too late. How about November(너무 늦습니다.11월은 안될까요)
+
+그러자 
+
+That's pushing it, but we'll try our best.(너무 무리하게 재촉하시는군요.하지만 저희들이 최선을 다하겠습니다.)
+
+라며 브라운의 걱정을 덜어준다.
+
+[무역용어]
+
+Shipment Terms (선적 조건) 
+- Prompt Shipment, Immediate Shipment 및 As soon as Shipment 등 (즉시 선적) : 이 조건은 해석이 국가와 학자에 따라 구구하고 또한 그러기 때문에 클에임 발생의 우려가 많으므로 유의하여야 한다.
+- June Shipment (단월 선적), May-July or Shipment during May and June (연월 선적)
+- Shipment (Delivery) : within 30 days after receipt of your L/C (특정기간 지정)
+- Shipment on or about : 정해진 기일의 5일 전부터 5일 후까지의 기일 포함. - Partial Shipment (분할 선적)
+- Transshipment (환적)
+- Delayed Shipment (지연 운송)
+- Force Majeure (불가 항력), Embargo (수출 금지), hostilities (적대행위), blockade (봉쇄), Requisition of vessels (선박의 징발) 등. 
+Shipped or On Borad B/L (선적 선하 증권) 
+Shipper or Consignor (선적인 또는 송화인) 
+
+
+
+
+
+
+
+
+
+
+Situation 784 Market share
+
+ Han: I understand you're one of the largest manufacturers of optical goods in this country. Could I ask a bit more about sales figures
+Kim : Sure. Go right ahead.
+Han : What's your market share
+Kim : If I'm not mistaken, it was over eight-five percent last year.
+
+ 상황 784 시장 점유율
+
+ 한영수: 저는 귀사가 이 나라 최대의 광학제품 제조업체중 하나라는 것을 알 고 있습니다. 판매상황에 대해 좀더 여쭤봐도 될까요
+김기근 : 물론입니다. 물어보세요.
+한영수 : 시장점유율이 얼마나 됩니까
+김기근 : 제가 알기로는 작년에 85퍼센트가 넘었습니다.
+
+
+<어구연구>
+
+한영수는 김기근에게 판매 상황에 대해 질문한다.
+
+Could I ask a bit more about sales figures(판매 상황에 대해 좀 더 여쭤봐도 될까요)
+
+라고 한 후 이어서
+
+What is your market share(시장 점유율이 얼마나 됩니까)
+
+라고 묻고 있다. 김기근은 그의 질문에
+
+It was over eight-five percent last year.(작년에 85%가 넘었습니다.)
+
+로 시장 점유율을 설명한다. 
+
+[무역용어]
+
+Revenne Ton or Freight Ton (운임톤) 
+정기선(Liner)의 운임료(freight tariff)상의 운임율에는 용적톤(Measurement Ton)과 중량톤(Weight Ton)을 기준으로 운임을 징수하게 되는데 이중 정기선에서 유리한 더 높은 운임에 해당되는 Ton을 말한다. 
+Revolving L/C (회전 신용장) 
+일정한 기간동안 금액이 자동적으로 갱생되어 사용 되어지도록 허용된 신용장 
+Running Laydays 
+하역시기의 개시로 부터 하역이 끝날때까지 소요된 모든 경과일수를 휴일이나 기후에 관계없이 정박기간으로 산입하는 방법. 
+
+
+
+
+Situation 783 How to get somewhere 
+
+Brown: Mr. Kim, I've never been to the factory. Can you tell me ho 
+w to get there 
+Kim : Okay. Go straight down this road till you come to a fork in 
+the road. 
+Brown : A fork. Okay, what do I do 
+Kim : Make a left and keep going straight for about a mile or so. 
+Brown : Uh-huh. Okay, I got you. Then what 
+Kim : You'll come to a large sign on the right side of the road 
+with the name of our factory on it. It's written in English, so 
+you can't miss it. 
+
+ 
+상황 783 가는 방법 문의 
+
+ 
+브라운 : 김 선생님, 전 공장에 가본 적이 없어서 그러는데 공장에 가는 방법 
+좀 가르쳐 주시겠습니까 
+김성수 : 그러죠. 이 도로를 따라 곧장 가시면 갈림길이 나올 겁니다. 
+브라운 : 갈림길이요. 좋아요, 그 다음엔 어떻게 하죠 
+김성수 : 좌회전을 한 다음 1마일 정도 똑바로 가세요. 
+브라운 : 예, 알겠습니다. 그 다음에는요 
+김성수 : 그러다 보면 우측으로 우리 회사 이름이 써 있는 커다란 간판이 보 
+일 겁니다. 영어로 써 있으니까 쉽게 찾을 수 있을 거예요. 
+
+ 
+<어구연구> 
+
+ 
+브라운은 김성수와 협상 후 공장에 가고자 한다. 
+Can you tell me how to get there(어떻게 가죠) 
+
+ 
+라고 묻자 김성수는 
+
+ 
+Go straight down this road till you come to a fork in 
+the road.( 이 도로를 따라 곧장 가시면 갈림길이 나올 겁니다.) 
+
+ 
+라고 길을 안내한다. 
+
+ 
+[ 무역용어] 
+
+ 
+Received B/L (수취 선하증권) 
+- Port B/L (항만 선하증권) : 지정된 선박은 입항되어 있으나 화물이 선박에 적재되어있지 않은 경우 
+- Custody B/L (보관 선하증권) 
+Red Clause L/C or Packing L/C (전대 신용장) 
+Revenne Ton or Freight Ton (운임톤) 
+정기선(Liner)의 운임료(freight tariff)상의 운임율에는 용적톤(Measurement Ton)과 중량톤(Weight Ton)을 기준으로 운임을 징수하게 되는데 이중 정기선에서 유리한 더 높은 운임에 해당되는 Ton을 말한다. 
+Revolving L/C (회전 신용장) 
+일정한 기간동안 금액이 자동적으로 갱생되어 사용 되어지도록 허용된 신용장 
+Running Laydays 
+하역시기의 개시로 부터 하역이 끝날때까지 소요된 모든 경과일수를 휴일이나 기후에 관계없이 정박기간으로 산입하는 방법. 
+
+ 
+
+ 
+
+
+
+
+Situation 782 A price negotiation
+
+ Tracy: How much are you asking on this item
+Kim : Our factory price is $10.00 per unit.
+Tracy : Gosh, that's high. Can you quote anything cheaperK : $9.00 is our rock bottom price
+Kim: Let's make it $8.50.
+Tracy : Then we'd practically be selling at cost. No, I am afraid it's $9.00 or nothing. Take it or leave it
+
+상황 782 가격 협상
+
+트레이시:: 이 품목의 가격은 얼마입니까
+ 김관우: 공장도 가격은 개당 10불입니다.
+트레이시:: 저런, 좀 비싸군요. 좀더 싸게 해주실 수 없을까요
+김관우 : 9불이 최저가격입니다.
+트레이시:: 8불 50센트로 합시다.
+김관우 : 그렇게 되면 실제적으로는 원가에 판매하게 되는 거니까 안 됩니다. 9불로 하시든가 아니면 그만두셔야 합니다.
+
+<어구연구>
+
+트레이시와 김관우는 가격협상을 하고 있다. 트레이시는 사고자 하는 품목의 가격을 물은 후 할인을 요청한다.
+
+Can you quote anything cheaper(좀 더 싸게 해주실 수 없을까요)
+
+이에 김관우는 9달러가 최저 가격이라고 얘기하지만, 트레이시는 8.50으로 협상을 끝내려고 한다. 그러자 김관우는 좀 더 강경한 태도로
+
+Then we'd practically be selling at cost. No, I am afraid it's $9.00 or nothing. Take it or leave it.(그렇게 되면 실제적으로는 원가에 판매하게 되는 거니까 안 됩니다. 9불로 하시든가 아니면 그만두셔야 합니다.)
+
+라고 말한다. 
+가격 협상에 쓰이는 표현들을 몇 개 정리해 보자.
+
+Could you give us a better price(좀 더 가격을 할인해 주시겠습니까)
+Could you give us a discount(할인해 주시겠습니까)
+Would you offer your best price(귀사의 최저 가격으로 제공해 주시겠습니까)
+Can we get a discount are you offering on the product(그 제품에 대해 어느 정도의 할인을 해주시겠습니까)
+
+[무역용어]
+
+Quality Terms (품질 조건) 
+- Sales by Sample (견품 매매) : as per your sample No. 8
+- Sales by Trade Mark or Brand (상표 매매) : Y.K.K, Parker 등
+- Sales by Specifications (명세서 매매)
+- Sales by Grade or Type (규격 매매) : BBS, JIS, ASTM 등
+- Sales by Standard (표준품 매매)
+- Shipped quality terms (선적 품질 조건) : FOB, CFR, CIF, T.Q 등 
+- Landed quality terma (양륙 품질 조건) : DES, DEQ, R.T 등
+- T.Q (Tale Quale) : 수송도중 변동에 대해 매수인이 책임(곡물 거래)
+- R.T (Rye-Term) : 수송도중 변동에 대해 매도인이 책임. 
+
+
+
+Situation 801 In the showroom
+
+Kim : Mr. Brown, if you don't mind, I'd like you to take a look at so
+ me of the samples in our showroom.
+Brown : Sure, just what I had in mind.
+Kim : This way, please. (They go to the showroom) Please have
+ a seat over here.
+Brown : Thank you. 
+Kim : Before we look at the samples, Let's start by having some
+ coffee, shall we
+Brown : Sounds like a great idea.
+
+상황 801 전시실에서
+
+ 김형식: 브라운씨, 괜찮으시면, 저희 진열실에 있는 견본 몇 점을 잠깐 구경
+ 시켜 드리고 싶은데요.
+브라운 : 그래요. 저도 그러고 싶었습니다.
+김형식 : 이쪽으로 오시죠. (그들은 진열실로 간다.) 여기에 앉으세요.
+브라운 : 감사합니다.
+김형식 : 견본을 구경하기 전에 우선 커피 한 잔씩 할까요
+브라운 : 예, 좋습니다. 
+
+<어구연구>
+
+김형식은 전시실을 브라운에게 소개하고 있다. 
+
+Mr. Brown, if you don't mind, I'd like you to take a look at so
+ me of the samples in our showroom.(괜찮으시다면, 저희 진열실에 있는 견본 몇 점을 잠깐 구경시켜 드리고 싶은데요.)
+
+브라운은 
+
+Sure, just what I had in mind.(그래요, 저도 그러고 싶었습니다.)
+
+라며 흔쾌히 답을 한다. 그의 대답을 들은 김형식은 커피를 마시고 둘러보는 게 어떠하냐며 다음과 같이 묻는다.
+
+Before we look at the samples, Let's start by having some
+ coffee, shall we(견본을 구경하기 전에 우선 커피 한 잔씩 할까요)
+
+[속담]
+
+After a thrifty father, a prodigal son. 
+검소한 아버지 밑에 방탕한 자식. 
+After a typhoon there are pears to gather up. 
+태풍이 지나면 떨어진 배를 줍는다. 
+After death comes the doctor.
+⇒A day after the fair.
+⇒After the war, aid. 
+사후약방문(死後藥方文)
+장날 다음날.
+전쟁이 끝난 뒤 돕는다. 
+
+
+
+
+
+Situation 800 A high in sales
+
+Kim : Mr. Brown, nice to meet you again. How are things going
+Brown : Couldn't be better. Things are really looking up these days.
+Kim : Yeah. I heard you hit a high in sales last month.
+ Brown: Boy, you know it. We've never quite had a month like that
+ before.
+Kim : Well, good. Let's celebrate the occasion with a drink, shall
+ we
+Brown : Great idea, but not before we talk over a little business proposition, all right
+
+상황 800기록적인 매상
+
+김진관 : 브라운씨, 다시 만나서 반갑습니다. 경기는 어떠세요
+브라운:: 더할 나위 없이 좋습니다. 요즘 경기가 정말 좋아지고 있으니까요.
+김진관 : 그렇군요. 소문에 지난달 매상이 기록적이었다면서요.
+브라운:: 아이구, 아시는군요. 지금까지 그런 달은 없었지요.
+김진관 : 어쨌든 잘된 일입니다. 축하의 의미로 술이라도 한잔해 야지요
+브라운:: 좋습니다. 한데, 먼저 업무적인 얘기를 좀 한 다음에 그럽시다.
+
+<어구연구>
+
+김진관은 오랜만에 브라운씨를 만난 자리에서 최근 경기에 대해 물어본다.
+
+Mr. Brown, nice to meet you again. How are things going(다시 만나서 반갑습니다. 경기는 어떠세요)
+
+그의 질문에 브라운은 화색을 보이며
+
+Couldn't be better. Things are really looking up these days.(더할 나위없이 좋습니다. 요즘 경기가 정말 좋아지고 있으니까요.)
+
+라고 답한다. 김진관은 
+
+Yeah. I heard you hit a high in sales last month.
+(그렇군요, 소문에 지난달 매상이 기록적이었다면서요.)
+
+라며 부러움을 감추지 못한다. 이 문장에서 "hit a high in sales-기록적인 매상"이란 표현을 익혀두자.
+
+[속담]
+
+Adversity successfully overcome is the great glory. 
+떳떳이 이겨낸 고난은 최대의 영광이다. 
+Age before honest. 
+장유유서(長幼有序) 
+After a storm (comes) a calm.
+⇒After rain comes fair weather.
+⇒After pain comes joy. 
+폭풍이 지난 뒤에 고요가 온다.
+비온 뒤에 맑은 날씨가 온다.
+고진감래(苦盡甘來)(비온 뒤에 땅이 굳어진다.) 
+
+
+
+
+
+
+
+
+
+
+Situation 799 A new model delivery
+
+Han : Mr. Kim, we'll be needing these new models by October 1st at the latest.
+Kim : We'll have them ready by that time. Are you leaving the patterns to us
+Han : Yes, but please forward a copy of them for our approval before you start production.
+Kim : Fine. Do you want them send via DHL
+Han : Considering the time element, I think that would be advisable We'll cover the cost.
+Kim : No, I wouldn't think of it. That's the least I can do.
+
+상황 799 새 모델 배달
+
+한진기:김 선생님, 저희는 늦어도 10월 1일까지는 이 새 모델들이 필요할 것 같습니다. 
+김수민 : 그때까지는 완료시키겠습니다. 도안은 저희에게 일임해 주시는 겁니까
+한진기: 예, 그러나 생산에 착수하기 전에 사본 한부를 보내서 저희측의 승인을 받아주십시오.
+김수민 : 좋습니다. DHL로 보내드릴까요
+한진기: 시간을 고려해 볼 때, 그렇게 하는 것이 좋겠군요. 비용은 저희가 지불하겠습니다.
+ 김수민: 아니, 안됩니다. 그 정도는 최소한 저희가 해드려야지요.
+
+<어구연구>
+
+한진기는 김수민에게 새 제품 배달을 의뢰한다.
+
+Mr. Kim, we'll be needing these new models by October 1st at the latest.
+(김선생님, 저희는 늦어도 10월1일까지는 이 새 모델들이 필요할 것 같습니다.)
+
+김수민은 
+
+We'll have them ready by that time. Are you leaving the patterns to us
+(그때까지는 완료하겠습니다.도안은 저희에게 일임해 주시는 겁니까)
+
+라고 묻고, 한진기는 사본을 보내줄 것을 요구한다.
+
+Yes, but please forward a copy of them for our approval before you start production.(예, 그러나 생산에 착수하기 전에 사본 한부를 보내서 저희측의 승인을 받아주십시오.)
+
+[속담]
+
+Acts speak louder than words. 
+행위는 말보다 웅변이다. 
+Adding insult to injury. 
+엎친 데 덮친다.(雪上加霜). 
+Adversity makes men, but prosperity makes monsters. 
+고생(苦生)은 사람을 만들고 안일(安逸)은 괴물을 만든다. 
+
+
+
+
+
+
+Situation 798 A deal
+
+ Yoon: Mr. Brown, when do you think we can sew up the deal
+ Brown: As soon as we get the green light from upstairs.
+Yoon : Well, when do you figure that will be
+ Brown: The way things look now, it may be a little while yet.
+Yoon : Why are they dragging their feet
+Brown : That's anybody's guess.
+
+상황 798 거래
+
+윤대원 : 브라운씨, 이 거래를 언제쯤 확정지을 수 있을 것 같습니까
+브라운:: 상부로부터 정식허가가 나오는 대로요.
+윤대원 : 저, 그게 언제쯤 될 것 같으세요.
+브라운:: 지금 현 상황으로는, 아마 조금 시간이 걸릴지도 모르겠는데요.
+ 윤대원: 왜 그렇게 질질 끌고 있는 거지요
+브라운:: 그걸 누가 알겠어요.
+
+<어구연구>
+
+윤대원은 브라운에게
+
+Mr. Brown, when do you think we can sew up the deal
+(브라운씨, 이 거래를 언제쯤 확정지을 수 있을까요)
+
+라고 묻자, 그는
+
+As soon as we get the green light from upstairs.(상부로부터 정식 허가가 나오는대로요.)
+
+답한다. 브라운이
+
+ The way things look now, it may be a little while yet.(지금 현 상황으로는, 아마 조금 시간이 걸릴지 모르겠는데요.)
+
+라며, 상황 설명을 하자, 윤대원은
+
+Why are they dragging their feet(왜 그렇게 질질 끄는 거지요)
+
+라며 다소 불만 섞인 목소리를 낸다.
+
+[영어 속담]
+
+Absolute freedom is inhuman. 
+절대의 자유는 비인간적이다. 
+Accident arise from carelessness. 
+사고는 부주의에서 생긴다. 
+Accident will happen. 
+사고는 생기기 마련. 
+Acts speak louder than words. 
+행위는 말보다 웅변이다. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Situation 797 A model
+
+ Mike: Mr. Kim, I saw an excellent model at an exhibition last week, but I can't, for the life of me, remember what the name was.
+Kim : You wouldn't by any chance be speaking of this model right over here, would you
+ Mike: That's it. The very model I saw at the exhibit. It's the very same make I'm speaking of.
+Kim : Well now! That just happens to be our company's latest model.
+
+
+상황 797 모델-제품소개
+
+마이크:: 김 선생님, 제가 지난주 전시회에서 썩 괜찮은 모델을 보았는데, 제품명이 무었이었는지 도무지 기억이 나질 않는군요.
+김후중 : 혹시, 바로 여기있는 이 모델을 두고 말씀하시는 것은 아니겠지요
+마이크:: 바로 그겁니다. 제가 전시회에서 보았던 바로 그 모델이군요. 이건 제가 얘기하고 있는 것과 구조가 아주 똑같은 제품입니다. 
+김후중 : 이거 원! 그게 바로 저희가 최근에 생산해 낸 모델입니다
+
+<어구연구>
+
+마이크는 전시회에서 본 모델이 맘에 들어 김후중에게 그 제품에 대해 상의한다.
+
+ Mr. Kim, I saw an excellent model at an exhibition last week, but I can't, for the life of me, remember what the name was.(김선생님, 제가 지난주 전시회에서 썩 괜찮은 모델을 보았는데, 제품명이 무엇이었는지 도무지 기억이 나질 않는군요.)
+
+그의 질문에 김후중은 한 모델을 가리키면서 
+
+You wouldn't by any chance be speaking of this model right over here, would you(혹시, 바로 여기있는 이 모델을 두고 말씀하시는 것은 아니겠죠)
+
+하자, 마이크는 그 제품이 바로 자기가 찾던 물건임을 알아차리고 반갑게 말한다.
+
+That's it. The very model I saw at the exhibit. It's the very same make I'm speaking of.(바로 그겁니다. 제가 전시회에서 보았던 바로 그 모델이군요. 이건 제가 얘기하고 있는 것과 구조가 아주 똑같은 제품입니다.)
+
+[무역용어]
+
+Wharfage (부두 사용료) 
+With Average ; W/A (분손 담보 조건) - I.C.C (B) 
+- Franchise Clause (소손책 면책 약관)
+--- W.A. 3% : 보험액 3% 미만의 손해에 대해서는 보험자가 면책된다. 즉 W.A. 3% 로 약정한 경우 손해가 10% 발생하였다면 7%를 보상받는 것이 아니고 10% 전부를 보상 받는다. 한편 신약관에서는 Franchise 조항은 페지되었다. --- WAIOP (wit h Average Irrespective of Percentage) : 이는 면책비율이 없으며 극히 소액이라도 보험자가 보상된다. 
+
+
+
+
+
+
+
+
+Situation 796 Lunchtime
+
+Kim : Mr. Brown, it's getting close to lunchtime. Why don't we stop for a while We've been at this for hours.
+Brown : Just a few more minutes.
+Kim : We'd better quit now or a few minutes will turn into an hour or more.
+Brown : Okay, you're probably right. Let's go ahead and finish up after lunch.
+Kim : Great, what would you like to have 
+
+상황 796 점심시간
+
+김형석 : 브라운씨, 점심시간이 다 되어가는데 잠깐 쉴까요 우린 지금 몇 시간째 계속 이 일을 해왔습니다.
+브라운 : 조금만 더 합시다.
+김형석 : 지금 그만두는 게 좋아요. 그렇지 않으면 조금이라던 것이 한 시간 이상이 되고 말테니까요.
+브라운 : 좋습니다. 선생님 말씀이 옳은 것 같군요. 일단 점심부터 먹고 마무리합시다.
+김형석 : 좋습니다. 뭘 드시고 싶습니까 
+
+<어구연구>
+
+buyer와 상담을 하다가 점심시간이 다 되어 가면,
+
+Mr. Brown, it's getting close to lunchtime. (브라운씨, 점심시간이 다 되어 갑니다.)
+
+와 같은 얘기를 하게 된다. 아니면 다음과 같이 말해도 좋을 것이다.
+
+Let's stop here and take a lunch break. (여기서 중단하고 점심식사시간을 가집시다.)
+Let's continue after lunch. (점심 식사 후에 계속합시다.)
+What say we continue after lunch (점심을 먹고 계속하는 게 어떨까요)
+
+[무역용어]
+
+Waiver (국적선 불취항 증명서)
+한국 선주 협회 회장이 발급한다. 
+War/Strike, Riots and Civil Commotions ; W/SRCC (협회 전쟁 및 협회 동맹하업.소요.폭동.담보 조건) 
+이 조건은 특약으로 A/R이나 ICC(A)에 있어서도 담보되지 않으므로 특약조건을 부가격으로 부보하여야 한다. 
+Weather Working Days (W.W.D) 
+기후가 양호하여 하역이 가능한 작업일만을 정박기간에 산입하고 우천통과 같은 악천후(Bad Weather)로 하역이 불가능한 기간은 정박기간에서 제외하는 방법이다.
+- SHEX (Sundays and Holidays Excepted) ; 일요일과 공휴일에 하역작업을 하더라도 보통 정박기간에 산입하자 않는다.
+- SHEX UU (Sundays and Holidays Excepted Unless Used) ; 딜요일과 공휴일에 하역작업을 하면 정박기간에 산입된다. 
+
+
+
+
+
+
+
+
+
+Situation 795 A price negotiation
+
+Choi: Mr. Brown, believe me. Our prices are the lowest in the entire industry.
+Brown : I know that, but what you're offering is not enough.
+Choi : I'll tell you what, then. We'll throw in the auxillary parts with each set for just a fraction of the price more. How's that
+Brown : Now you're beginning to make sense.
+Choi : You'll sign a contract then
+Brown : Give me a week to think it over.
+
+상황 795 가격 협상
+
+최기혁 : 브라운씨, 저를 믿으세요. 저희측 가격은 업계전체에서 가장 저렴한 가격입니다.
+브라운: 알고 있습니다. 하지만 귀사가 제시하고 있는 가격은 좀 더 낮아져야 합니다.
+최기혁: 그럼, 좋은 수가 하나 있습니다. 가격을 조금만 더 받고 각 세트마다 부속품을 거저 드리겠습니다. 어떻게 생각하세요
+브라운: 이제 좀 타당한 말씀을 하시는군요.
+최기혁 : 그럼 계약서에 서명하시겠습니까
+브라운: 좀더 생각해 볼 수 있도록 1주일간의 여유를 주십시오.
+
+<어구연구>
+
+최기혁은 브라운씨와 가격 교섭을 하고 있다. 그는
+
+Mr. Brown, believe me. Our prices are the lowest in the entire industry.(브라운씨, 저를 믿으세요. 저희측 가격은 업계전체에서 가장 저렴한 가격입니다.)
+
+라고 하지만, 브라운은 좀 더 단가를 낮춰주기를 원한다. 그러자, 최기혁은
+
+ I'll tell you what, then. We'll throw in the auxillary parts with each set for just a fraction of the price more. How's that(그럼, 좋은 수가 하나 있습니다. 가격을 조금만 더 받고 각 세트마다 부속품을 거저 드리겠습니다. 어떻습니까)
+
+라고 다른 조건을 제시한 후, 계약서 사인 전 한 번 더 생각할 시간을 달라고 한다.
+
+Give me a week to think it over.(좀 더 생각해 볼 수 있도록 1주일간의 시간을 주십시요.)
+
+[무역용어]
+
+U.C.P ; Uniform Customs and Practice for Documentary Credit (외환신용장 통일규칙 및 관례) 
+
+Voluntary Export Restraint ; VER (수출 자유 규제) 
+수입국이 수출국에 대하여 특정품목의 수출양을 일정량 범위로 제한하도록 요청하여 실시하는 제도이며, 그 내용은 쿼타 제도 같다. 
+Voyage Charter ; Trip Charter (항해 혹은 항로 용선계약) 
+어느항 또는 여러개의 항에서 또다른 항까지 화물의 수송을 용선주가 선주사이에 맺는 운송계약을 말한다. 이는 운송에 대한 보수가 원칙적으로 적화의 수량에 따라 톤당 얼마로 정해지는 것이 보통이다. 
+
+
+
+
+
+
+
+
+
+
+
+Situation 794 A large order
+
+ Brown: What about the electric current Can you use them on either alternating current or direct current
+Kim : These are for one hundred volts, AC and DC.
+Brown : Then you wouldn't be able to use them in the United States, would you
+Kim : There's no problem with using them anywhere. We can always change the moter without any difficulty.
+Brown : As for the motor, I can see there won't be any technical problem. But I think you'll have to consider the price again, since the quantity of the order will be very large.
+Kim : Well, when it comes to such a large order, I think you should meet with the manager of our department. I can arrange a meeting at your
+convenience.
+Brown : That's good. Thanks.
+
+상황 794 대량주문
+
+브라운:: 전류는 어떻습니까 교류와 직류에 다 사용할 수 있습니까
+김희상 : 이건 100 볼트이며, AC, DC 겸용입니다.
+브라운:: 그럼 미국에서는 사용이 불가능하겠군요, 그렇지요
+김희상 : 어디에서 사용해도 문제가 없습니다. 손쉽게 모터를 바꿀 수 있으니까요.
+브라운:: 모터에 대해서는 기술상의 문제가 없는 것으로 알겠습니다만, 가격에 대해서는 재고를 해주셔야겠습니다. 주문량이 아주 많을 테니까요.
+김희상 : 저, 그렇게 큰 주문이라면 저희 부장님을 만나보시는 것이 좋겠습니다. 브라운씨께 편한 시간으로 제가 자리를 마련하지요.
+브라운 : 좋습니다. 고맙습니다.
+
+<어구연구>
+
+브라운은 김희상에게 제품이 갖고 있는 특징에 대해 묻고 나서 주문량이 많을테니 가격을 재고해 달라고 제의한다.
+
+What about the electric current Can you use them on either alternating current or direct current(전류는 어떻습니까 교류와 직류에 다 사용할 수 있습니까)
+
+As for the motor, I can see there won't be any technical problem. But I think you'll have to consider the price again, since the quantity of the order will be very large.(모터에 대해서는 기술상의 문제가 없는 것으로 알겠습니다만, 가격에 대해서는 재고를 해주셔야겠습니다. 주문량이 아주 많을 테니까요.)
+
+브라운의 제안에 김희상은 거래가 많은 경우 윗분과 상의하는 게 좋다고 말한다.
+
+Well, when it comes to such a large order, I think you should meet with the manager of our department. I can arrange a meeting at your
+convenience.(저, 그렇게 큰 주문이라면 저희 부장님을 만나보시는 것이 좋겠습니다. 브라운씨께 편한 시간으로 제가 자리를 마련하지요.)
+
+[무역용어]
+
+Trought B/L (통과 선하 증권) 
+Trust Receipt ; T/R (대여 인도) ; 
+수입상이 어음대금을 결제하기 전이라도 수입화물을 처분할 수 있도록 하는 동시에 개설은행이 그 화물에 대한 담보권을 상실하지 않도록 하는 제도이다.
+T/R에 의해 개설은행이 수입상에게 대도할 경우 수입화물의 점유는 개설은행으로부터 수입상으로 이전되지만, 이러한 사실을 알지 못하는 선의의 제 3자는 보호된다. 즉 개설은행이 T/R을 내세워 선의의 제3자에게 대항할 수 없기 때문에 은행은 T/R을 취급함에 있어 신중을 기해야 한다. 
+
+
+
+
+
+
+
+
+
+: Situaiton 793 An Inflation
+ 20031013
+
+Situation 793 An inflation
+
+ Go: How's business these days
+ Aaron: Terrible. It's been one of the worst years I've seen in a decade.
+Go : Oh, sorry to hear that. What's the problem
+Aaron : My biggest problem is inflation.
+Go : That's a world-wide problem.
+Aaron : I know. I guess I just have to suffer like anyone else.
+
+상황 793 인플레이션
+
+고진우 :요즈음 경기는 어떻습니까
+애런::불황이 심해요. 이런 최악의 해는 10년만에 처음입니다.
+고진우 :안 됐군요. 문제가 뭡니까
+애런:: 제일 큰 문제는 인플레이션이지요.
+고진우 :인플레는 세계적인 문제입니다.
+애런::알고 있습니다. 저도 다른 사람들처럼 어려움을 겪지 않을 수 없을 것 같습니다.
+
+<어구연구>
+
+고진우는 애런과 요즘 경기에 대해 얘기하고 있다.
+
+How's business these days(요즈음 경기는 어떻습니까)
+
+라는 고진우의 물음에 애런은 
+
+Terrible. It's been one of the worst years I've seen in a decade.(불황이 심해요.이런 최악의 해는 처음입니다.)
+
+라고 답한다. 고진우는 그 원인이
+
+ My biggest problem is inflation.(제일 큰 문제는 인플레이션입니다.)
+
+라며 얘기한다. 
+
+[무역용어]
+
+Transferable L/C (양도 가능 신용장) 
+수익자가 신용장 금액의 전부 또는 일부를 제 3자가에게 양도 할 수 있는 권한을 부여한 신용장. 양도는 1회에 한하나 분할선적이 허용된 경우 분할양도 가능.
+- Total Transfer (전액 양도)
+- Partial Transfer (분할 양도)
+- First Beneficiary (신용장 양도인)
+- Second Beneficiary (신용장 양수인) 
+Transportation Siberian Railroad ; TSR (시베리아 횡단철도 운송) 
+극동에서 유럽.중동행 화물을 집화하여 일본을 거치거나 또는 직접 소련의 나호드카(Nakhodka)항과 보스토치니(Vostochny)항으로 해상수송한 다음 소련의 SOTRA (전 소련적화물공단), Eurasia Trans 사와 한국, 일본, 유럽의 NVOCC (Non-Vessel Operating Common Carrier)들의 제휴하여 철도로 시베리아를 횡단, 중동근접지역이나 동구제국의 국경지역까지 수송하고 여기에서 다시 동.서구, 스칸디나비아 바도, 지중해, 이란, 아프카니스탄 등지로 철도, 콘테이너선, 트럭 등으로 연결되는 국제복합수송이다.
+- NVOCC (Non-Vessel Operation Common Carrier by Water) : NVOCC는 운임표를 작성하고, 이를 근거로 광고, 선전이나 집화를 행하고, 법령에 정해진 주제교통 및 미국에서의 상업상 해상수소을 제공하며, 화물의 운송에 대한 법정책임을 지며, 자기의 운송수단을 소유 또는 관리의 유무에 관계없이 자신의 명의로 해상운송인을 수배하고 운송을 실시하는 자를 말한다. 
+
+
+
+
+
+
+
+
+
+
+
+Situation 792 A showroom
+
+ Han: Mr. Brown, this is our showroom over here.
+Brown : Great. Do you mind if I have a look around
+Han : No, not at all. Please go ahead and pick out what you like.
+ There are many different models to choose from.
+ Brown: Hey, here's an interesting-looking one over here.
+Han : That's our very latest model. It comes in three sizes and has proved to be a big hit on the market.
+Brown : Okay, let's see what we've got going pricewise and maybe we can strike a deal.
+ 
+상황 792 진열실
+
+한수민 : 브라운씨, 여기가 저희 회사의 진열실입니다.
+브라운:: 훌륭하군요. 한번 둘러봐도 괜찮을까요
+한수민 : 그럼요. 얼마든지요. 그리고 마음에 드는 것을 골라보십시오. 선택할 수 있는 여러가지 모델이 있으니까요.
+브라운:: 오, 여기 괜찮아 보이는 게 있군요.
+한수민 : 그것은 저희 회사의 최신 모델입니다. 3가지 사이즈로 되어 있고, 시장의 반응도 아주 좋았습니다.
+브라운:: 좋아요, 그렇다면 현재의 가격 상황을 좀 알아봅시다. 어쩌면 계약을 체결할 수 있을 것 같기도 하군요.
+
+<어구연구>
+
+한수민은 브라운씨에게 회사 제품 진열실을 소개하고 있다. 
+
+Do you mind if I have a look around(한 번 둘러봐도 괜찮을까요)
+
+브라운은 둘러보다가 맘에 드는 제품을 발견한다.
+
+Here's an interesting-looking one over here.(여기 괜찮아 보이는게 있군요.)
+
+한수민은 브라운이 호감을 보이자 바로 제품에 대한 장점을 소개한다.
+
+That's our very latest model. It comes in three sizes and has proved to be a big hit on the market.(그게 저희 최근 모델입니다.세 가지 사이즈로 되어있고,시장 반응도 좋았습니다.)
+
+이 말을 들은 브라운은 바로
+
+Okay, let's see what we've got going pricewise and maybe we can strike a deal.(그럼, 가격에 대해 알아봅시다. 아마 계약을 맺을 수 있을 것 같군요.)
+
+라며 답을 한다.
+
+[무역용어]
+
+Time Charter (정기 혹은 기간 용선계약) 
+선복에 화물을 적재할 수 있는 설비 및 용구를 갖추고 선원을 승선시켜 장기간 해상을 운항할 수 있는 선박을 용선주 (Charterer)가 선주(Operator)로 부터 일정기간 동안 용선하는 계약으로서, 용선주는 용선료(Charterage)외에 연료비, 일항세, 운항비 등을 부과한다. 
+Total Loss (전손) ; 
+해상보험에 부보된 화물이 위험에 의해서 전부가 멸실되어 그 시장가격을 상실한 경우를 말한다. 
+Transaction as principal to principal (본인대 본인의 거래) 
+양 당사자가 그 거래로 부터 발생하는 권리 의무의 주체가 자기가 되어 자기의 계산과 위험 (for account and risk) 으로 거래를 하는 자 
+
+
+
+Situation 811 A trimness
+
+ Brown: Mr. Kim, I've gone through your estimate and I still think you can trim a little.
+Kim : Mr. Brown, that estimate is based on our lowest price for each item.
+Brown : Well, your lowest just isn't low enough. You're still not competitive.
+Kim : Well, then, we'll just have to give it another try again tomorrow.
+Brown : Keep in mind that you're up against stiff competition.
+Kim : I haven't forgotten it for a moment
+
+상황 811 깍기
+
+브라운:: 김 선생님, 귀사의 견적을 자세히 검토해 봤으나 역시 좀 더 깎아주실 수 있을 것 같습니다.
+김기정 : 브라운씨, 그 견적은 매품목마다 당사 최저가격에 기준한 것입니다.
+브라운:: 저, 귀사의 최저가격은 별로 낮지가 않은 것 같군요. 귀사 상품은 아 직 경쟁력이 부족합니다.
+김기정 : 그렇다면 내일 다시 한번 절충을 시도해 봐야겠군요.
+브라운:: 귀사 제품이 치열한 경쟁에 직면해 있다는 사실을 잊지마십시오.
+김기정 : 잠시도 잊지 않고 있습니다.
+
+<어구연구>
+
+브라운은 김기정의 회사 제품 소개를 받은 후 가격 협상을 하고 있다.
+
+ Mr. Kim, I've gone through your estimate and I still think you can trim an little.(김선생님, 귀사의 견적을 자세히 검토해 봤는데요,깍아 주실 수 있으리라 생각합니다.)
+
+하지만 김기정은 난색을 표하며
+
+Mr. Brown, that estimate is based on our lowest price for each item.(그 견적은 매품목마다 당사 최저가격에 기준한 것입니다.)
+
+라며 답변을 하고,브라운은 내일 다시 한번 단가 절충을 하자면 일어선다.
+
+[속담]
+
+As poor as a church mouse. 
+무척 가난하다;찢어지게 가난하다. 
+As the old cock comes, the young cock learns. 
+서당개 삼년에 풍월한다. 
+As the twig is bent, so grows the tree. 
+될 나무는 떡잎부터 알아본다. 
+
+
+
+
+
+
+Situation 810 At the coffee shop
+
+Kim : Please have a seat. Mr. Lee will be here soon.
+Lee : Thank you.
+Kim : I'll order some coffee. 
+Lee : I'd like mine black, please. 
+Kim : I'll call and tell her.
+Lee : Why do all the people here assume I want cream and 
+ sugar in my coffee
+Kim : That's how we all drink it.
+Lee : I'm trying to lose weight. Sugar is fattening.
+Kim : Well, she can bring it black for you.
+
+
+상황 810 커피숍에서
+
+김관형 : 앉으세요. 이 전무님은 곧 오실 겁니다.
+이수연 : 고맙습니다.
+김관형 : 커피를 시켜야겠군요.
+ 이수연: 전 블랙으로 마시겠습니다.
+김관형 : 그럼 전화로 아가씨한테 얘길 하지요.
+이수연 : 왜 여기 사람들은 모두 커피라면 의례, 크림과 설탕을 타서 마시는
+ 것으로 생각하는 거지요
+김관형 : 저희들 모두가 다 그렇게 해서 마시거든요.
+이수연 : 체중을 줄이려 하는데, 설탕을 먹으면 살이 찌거든요.
+김관형 : 저, 블랙으로 타드릴게요.
+
+<어구연구>
+
+김관형은 이수연과 같이 커피숍에서 이전무님을 기다리고 있다. 간략히 오늘의 표현을 알아보자.
+
+이수연은 
+
+ Why do all the people here assume I want cream and 
+ sugar in my coffee(왜, 여기 사람들은 모두 커피라면 의례, 크림과 설탕을 타서 마시죠)
+
+라고 묻자. 김관형은
+
+ That's how we all drink it.(저희들 모두가 그렇게 해서 마시거든요.)
+
+라며 답한다.
+
+[속담]
+
+As poor as a church mouse. 
+무척 가난하다;찢어지게 가난하다. 
+As the old cock comes, the young cock learns. 
+서당개 삼년에 풍월한다. 
+As the twig is bent, so grows the tree. 
+될 나무는 떡잎부터 알아본다. 
+
+
+
+
+
+
+
+
+
+Situation 809 The sales volume
+
+ Bora: Mr. Brown, how's the sales volume these days
+Brown : Well, it's pretty much the same as we've had before.
+Bora : No better, no worse, you mean
+Brown : Yeah, that's about it. The market's been pretty steady.
+Bora : Do you expect any upturn in the near future
+Brown : Not this year, as far as I can see.
+
+
+상황 809 매상
+
+보라 : 브라운씨, 요즘의 매상고는 어떻습니까
+브라운:: 글쎄요, 뭐 전이나 대동소이합니다.
+보라 : 더 낫지도 않고, 더 못하지도 않다는 뜻이군요.
+브라운:: 예, 대략 그런 뜻이죠. 시장이 상당히 안정된 상태를 유지하고 있습 니다.
+보라 : 가까운 시일 내에 가격상승이 있을 것 같지 않습니까
+브라운:: 제가 아는 한 금년엔 없을 겁니다.
+
+<어구연구>
+
+보라는 브라운에게 요즘 매상이 어떤한지 문의하고 있다.
+
+Mr. Brown, how's the sales volume these days(브라운씨, 요즘의 매상고는 어떻습니까)
+
+이에 브라운은 
+
+Well, it's pretty much the same as we've had before.(글쎄요, 뭐 전이나 대동소이합니다.)
+
+라고 별 변화가 없다고 말한다. 보라는 
+
+ No better, no worse, you mean(더 낫지도,못하지도 않다는 거군요.)
+
+라며 한 번 더 확인한다.
+
+[속담]
+
+As is the king, so are the people. 
+왕이 그러니, 백성도 그렇다. 
+Ask, and it shall be given (to) you. 
+구하라. 그러면 얻을 것이다. -Matt. 7:7, Luke 11:9 
+As one sows, so shall he reap. ⇒As a man sows, so shall he reap. ⇒As you sow, so shall you reap. 
+자업자득, 인과응보(自業自得, 因果應報:자기가 뿌린 씨는 자기가 거둬 들여야 한다). 
+
+
+
+
+
+Situation 808 The time difference
+
+Kim : Excuse me, what's the time difference between Seoul and Los Angeles
+Stewardess : 11 hours. Seoul is 11 hours ahead.
+Kim : Are we losing or gaining a day on the way to America
+Stewardess : We are gaining a day.
+Kim : So does it mean we're arriving the same day
+Stewardess : That's right. 
+
+상황 808 시차
+
+김병관 : 잠깐만요. 서울과 LA간의 시차가 얼마나 되지요
+스튜어디스 : 11시간입니다. 서울이 11시간 빠르지요.
+김병관 : 미국으로 가면 하루를 잃게 되나요, 벌게 되나요
+스튜어디스 : 하루를 벌게 되지요.
+김병관 : 그럼 같은 날 도착하게 된다는 말씀이세요
+스튜어디스 : 예, 그렇지요. 
+
+<어구연구>
+
+김병관은 기내에서 스튜어디스에게 서울과 LA의 시차에 대해 물어보고 있다.
+
+Excuse me, what's the time difference between Seoul and Los Angeles(잠깐만요, 서울과 LA간의 시차가 얼마나 되지요)
+
+그의 질문에 스튜어디스는
+
+Seoul is 11 hours ahead.(서울이 11시간 빠릅니다.)
+
+다른 관련표현을 익혀두자.
+
+빠른 것은 ahead로, 늦는 것은 behind로 나타낸다. 여승무원의 얘기는 다음과 같이 표현해도 좋다.
+
+LA is eleven hours behind.
+(LA가 11시간 늦습니다.)
+
+There's eleven hours'difference.
+There's an eleven-hour difference.
+(11시간의 차이가 납니다.)
+
+다음은 관련표현들이다.
+
+Seoul is a day ahead of LA.
+LA is a day behind Seoul.
+(서울은 LA보다 날짜가 하루 빠릅니다.)
+
+If we leave Seoul on the evening of the 26th, then we arrive in LA on the same day.
+(서울을 26일 저녁에 출발하면 LA에 도착하는 날도 26일이 됩니다.
+
+[속담]
+
+All truth is not to be told at all times. 
+모든 진리는 함부로 말할 것이 아니다. 
+All work and no play makes Jack a dull boy. 
+열심히 일하고 열심히 놀아라. 
+Ants never bend their course to an empty granary. 
+개미는 텅 빈 곡식창고로 향해 가지는 않는다. 
+
+
+
+
+Situation 807 New trade bill
+
+ Kim: You know, Mr. Brown, I'm really worried about that new trade bill they're trying to pass through Congress.
+Brown : So am I. I think it's ridiculous. It's only going to lead to a trade war.
+Kim: Do you think it'll go through
+Brwon : Well, that's anybody's guess, but I'm sure the President will veto it in any case.
+Kim : Boy, I sure hope he does. If not, we're sunk.
+ Brown: You know, it's time we did away with such foolish legislation.
+
+ 상황 807 New trade bill
+
+김기동 : 저, 브라운씨, 미(美) 의회에서 통과시키려고 하는 새 무역법안에 대해 정말 걱정이 됩니다.
+브라운 : 저도 그렇습니다. 말도 안된다고 생각해요. 무역전쟁을 야기시킬 뿐이죠. 
+김기동 : 통과될 것 같습니까
+브라운 : 글쎄요, 그건 아무도 모르죠. 하지만 대통령이 그 안을 거부할 것만은 틀림없어요.
+김기동 : 아, 꼭 그렇게 됐으면 좋겠군요. 그렇지 않으면, 저희는 끝장입니다.
+브라운 : 정말이지 그런 비합리적인 법안은 폐지되어 마땅합니다. 
+
+<어구연구>
+
+김기동은 새 무역법안의 의회 통과에 대해 우려를 드러낸다.
+
+ You know, Mr. Brown, I'm really worried about that new trade bill they're trying to pass through Congress.(저, 브라운씨, 미(美) 의회에서 통과시키려고 하는 새 무역법안에 대해 정말 걱정이 됩니다.)
+
+그는 브라운에게
+
+Do you think it'll go through(통과될 것 같습니까)
+
+라고 묻는다. 브라운은
+
+Well, that's anybody's guess, but I'm sure the President will veto it in any case.
+(글쎄요, 그건 아무도 모르죠. 하지만 대통령이 그 안을 거부할 것만은 틀림없어요.)
+
+라며 법안 통과가 불확실함을 설명한다.
+
+[속담]
+
+All that glitters is not gold. ⇒ All is not gold that glitters. 
+번쩍인다고 모두 금은 아니다.(외관은 믿을 것이 못된다.) 
+All things are obedient to money. 
+만사가 돈에는 굴복한다. 
+All truth is not to be told at all times. 
+모든 진리는 함부로 말할 것이 아니다. 
+
+
+
+
+
+
+Situation 806 A new model
+
+ Anthony: Can I see your current catalog on 14-inch color TV's
+Kim : We've just put out a new model that I know will really go over big.
+Anthony : That's fine, but can you make some adjustments on the fin e tuning mechanism
+Kim : We can do it providing you order a minimum of 1,000 sets.
+ Otherwise, we are unable to change it.
+Anthony : How many colors are available for the same model
+Kim : We have three standard colors, but like I said, if the quantity is 1,000 sets or more, you may choose any color you like.
+
+상황 806 새 모델
+
+앤서니:: 14인치 칼라 텔레비전에 대한 최근 카탈로그 좀 볼 수 있을까요
+김종민: 저희가 이제 막 생산해 낸 새로운 모델이 있는데 크게 히트할 겁니다.
+앤서니:: 잘됐군요. 그런데 미세조정장치를 약간만 변경할 수 있을까요
+김종민 : 주문수량이 1,000 세트만 넘으면 가능합니다. 그렇지 않으면 변경이 불가능 합니다.
+앤서니:: 같은 모델에 대하여 색상은 볓 가지나 가능합니까
+김종민 : 3가지 기본색상이 있는데 말씀드렸듯이 수량이 1,000 세트가 넘으면 원하시는 색깔을 선정할 수가 있습니다.
+
+<어구연구>
+
+앤서니는 미스터 김의 회사 제품, 14인치 칼라 TV에 호감을 갖고 있다.
+
+ Can I see your current catalog on 14-inch color TV's.(14인치 칼라 텔레비젼에 대한 최근 카탈로그 좀 볼 수 있을까요)
+
+김종민은
+
+ We've just put out a new model that I know will really go over big.(저희가 이제 막 생산해 낸 새로운 모델이 있는데 크게 히트할 겁니다.)
+
+라며 자사 제품을 소개한다.
+
+[속담]
+
+All new technology is rejected and then accepted. 
+모든 신기술(新技術)은 거부된 뒤에야 받아들여진다. 
+All or nothing. 
+전부냐, 무(無)냐. 
+All roads lead to Rome. 
+모든 길은 로마로 통한다.(모로 가도 서울만 가면 된다.) 
+
+
+
+
+
+
+Situation 805 Main line
+
+ Han: Mr. Kim, What's your company's main line of business
+Kim : We sell primarily automotive parts.
+Han : Well, then, You're just the man we want to see.
+Kim : Right, and You've come to the right place. Nobody beat us
+ when it comes to this item.
+Han : Well, let's see. Maybe we can strike up a deal.
+Kim : Good. I'll show you around the factory.
+
+상황 805 주 사업분야
+
+ 한수현: 김 선생님, 귀사의 주종사업분야는 무엇입니까
+김관정 : 저희는 주로 자동차부품을 판매합니다.
+한수현 : 아, 그러면 선생님이야 말로 우리가 찾던 분입니다.
+김관정 : 그렇습니다. 바로 찾아오셨습니다. 이 아이템에 관한 우리보다 뛰어난 곳은 없으니까요.
+한수현 : 저, 어쩌면 계약을 체결할 수도 있겠군요.
+김관정 : 좋습니다. 공장를 한바퀴 구경시켜 드리지요. 
+
+<어구연구>
+
+한수현은 김관정과 상담하면서, 회사의 주된 사업 분야가 무엇인지 묻고 있다.
+
+Mr. Kim, What's your company's main line of business(김선생님, 귀사의 주사업분야가 무엇이죠)
+
+김관정은 
+
+We sell primarily automotive parts.(주로 자동차 부품을 판매합니다)
+
+라고 답변을 한다.
+
+회사의 업종을 설명하는 표현을 익혀두자.
+
+We manufacture laptop computers.(우리 회사는 휴대용 퍼스널 컴퓨터를 제조하고 있습니다.)
+We're a manufacturer of household appliances.(우리 회사는 가전제품 제조업체입니다.)
+We sell furniture.(가구를 판매하고 있습니다.)
+Our company imports and exports electornic components.(저자부품 수출입을 하고 있습니다.)
+We're dealing in sporting goods.(우리는 스포츠 용품을 취급하고 있습니다.)
+
+[속담]
+
+All is fish that comes to the net. ⇒ All is grist that comes to his mill. 
+그물에 걸리는 것은 모두 물고기.그는 무엇이든 이용한다(자빠져도 빈손으로 일어나지 않는다). 
+All (is) for the best. 
+모두가 다 하늘의 뜻이다(하늘이 무심치 않다). 
+All is well that ends well. 
+결과가 좋으면 만사가 다 좋다. 
+
+
+Situation 804 Making an appointment
+
+Lee:Hello, Lee speaking.
+An:Hello, this is Sara An, Mr.King's secretary.My boss would like to see you sometime this week.
+Lee:Let me check my schedule.Mm...I'm afraid I'll be tied up the rest of the week.
+An:How about next Monday
+Lee:I'll be free in the afternoon.How's the two o'clock at your office
+An:That'll be fine.
+Lee:Tell Mr.King I look forward to seeing him.
+
+상황 804 약속정하기
+
+이수연:안녕하세요.이수연입니다.
+안:안녕하세요.미스터 키의 비서인 사라 안입니다. 미스터 킹이 이번 주중에 만나고 싶어하십니다.
+이수연: 제 일정을 확인해 보겠습니다. 음...죄송합니다만, 이번 주는 일정이 모두 잡혀 있군요.
+안:그럼 다음 월요일은 어떻습니까
+이수연:오후에는 시간이 있습니다. 2시에 사무실로 갈까요
+안:좋습니다.
+이수연:미스터 킹에게 만남을 기대한다고 전해주세요.
+
+<어구연구>
+
+미스터 킹의 비서인 사라 안은 이수연에게 전화를 걸어 약속을 잡고 있다.
+
+Hello, this is Sara An, Mr.King's secretary.My boss would like to see you sometime this week.(안녕하세요, 미스터 킹의 비서인 사라 안입니다. 사장님이 이번 주중에 뵙고 싶어하는데요.)
+
+하지만 이수연은 일정을 확인해 본 후,
+
+Let me check my schedule.Mm...I'm afraid I'll be tied up the rest of the week.(제 일정을 확인해 보겠습니다. 음..죄송합니다만 이번 주는 일정이 모두 잡혀 있습니다.)
+
+라고 답한다. 사라안은 스케줄을 재 조정한 후 최종 다음 주 월요일 오후 2시로 정한다.
+
+How's two o'clock at your office(2시에 그 쪽 사무실에서 어떨까요)
+
+
+[속담]
+
+All immortal writers speak out of their hearts. 
+불멸의 작가는 충심을 토로한다. 
+All in good time. 
+모든 일에는 다 때가 있기 마련.(기다리노라면 좋은 때가 온다.) 
+All is fair in love and war. 
+사랑과 전쟁에서는 수단과 방법을 가리지 말라. 
+
+
+
+
+
+Situation 803 Overtime work
+
+ Han: Mr. Kim, this shipment has to leave by September 30th, no later.
+Kim : I'm fully aware of that, Mr Brown.
+Han : But how are you going to get it all ready in such a short length of time
+Kim : Don't worry. We'll work overtime on it if we have to.
+ Han: But won't it cost you a lot I mean the labor and all that, you know.
+Kim : No problem. I'll work things out somehow.
+
+상황 803 잔업
+
+한진명:: 김 선생님, 이 주문품은 늦어도 9월 30일까지는 선적이 되어야 합니다.
+김관형 : 그점은 아주 잘 알고 있습니다. 브라운씨.
+한진명:: 그런데, 어떻게 그렇게 짧은 시일 내에 일을 다 완료시킬 생각이십니까
+김관형 : 염려마세요. 꼭 해야만 할 상황이면 잔업이라도 하겠습니다.
+한진명:: 그렇지만 그렇게 하면 비용이 많이 들지 않을까요 노동비 같은 것 말입니다. 
+김관형 : 염려없습니다. 어떻게든 제가 해결해 내겠습니다.
+
+<어구연구>
+
+한진명은 김관형에게 이번달 선적건에 대해 문의하고 있다.그는 
+
+Mr. Kim, this shipment has to leave by September 30th, no later.(김선생님, 이 주문품은 늦어도 9월 30일까지는 선적이 되어야 합니다.)
+
+9월말까지는 기한이 촉박하기에, 걱정이 된 한진명은 
+
+But how are you going to get it all ready in such a short length of time(그런데, 어떻게 그렇게 짧은 시일내에 일을 다 완료시킬 생각이십니까)
+
+라고 묻는다. 하지만 김관형은 
+
+Don't worry. We'll work overtime on it if we have to.
+(염려마세요. 꼭 해야만 할 상황이면 잔업이라도 하겠습니다.)
+
+라며 그를 안심시킨다.
+
+[속담]
+
+All charms fly at the mere touch of cold philosophy. 
+차가운 철학의 일촉(一觸)으로 모든 마력은 깨끗이 사라진다. 
+All covet, all lose. 
+대탐대실(大貪大失) 
+All great song has been sincere song. 
+진실하지 않은 노래는 생명이 짧다. 
+
+
+Situation 802 A quality
+
+ Brown: You say the quality of your product is good, Mr. Kim.
+Kim : Yes, the quality is the finest availble at this price.
+Brown : Well, that may be, but the price is not competitive.
+Kim : Well, I don't know about that. You couldn't buy a Mercedes Benz for the price of an Excel, could you
+Brown : No, but I think that's stretching the the point a little too far don't you
+Kim : That may well be, but the basic point remains unchanged.
+
+상황 802 품질
+
+브라운:: 김 선생님, 귀사 제품의 품질이 좋다고 하셨지요.
+김진우 : 예, 품질은 이 가격대에서 살 수 있는 것 중 최고입니다.
+브라운:: 그럴지도 모르지만, 그 가격으로는 경쟁력이 없습니다.
+김진우 : 글쎄요. 그건 잘 모르겠군요. 엑셀가격으로 벤츠를 살 수는 없지 않습니까 브라운:: 그렇죠, 하지만 그건 좀 지나친 과장 아닐까요
+김진우 : 그럴지도 모르죠. 하지만 여전히 같은 생각이랍니다.
+
+<어구연구>
+
+브라운은 김진우가 경영하는 회사의 제품에 대해 문의하고 있다.
+
+You say the quality of your product is good, Mr. Kim.(귀사 제품의 품질이 좋다고 하셨지요)
+
+Yes, the quality is the finest availble at this price.(예, 품질은 이 가격대에서 살 수 있는 중 최고입니다.)
+
+그러자 브라운은
+
+Well, that may be, but the price is not competitive.(그럴지 모르지만, 그 가격으로는 경쟁력이 없습니다.)
+
+라고 한다. 이에 발끈한 김진우는
+
+ Well, I don't know about that. You couldn't buy a Mercedes Benz for the price of an Excel, could you(글쎄요. 그건 잘 모르겠군요. 엑셀가격으로 벤츠를 살 수는 없지 않습니까)
+
+는 예를 들어 설명하며 제품의경쟁력을 다시 한 번 강조한다.
+
+[속담]
+
+After us(me) the deluge. 
+내가 죽은 뒤 홍수가 지든 말든 알게 뭐람.(될대로 되라지). 
+All arts grow out of necessity. 
+모든 예술은 필요에서 생긴다. 
+All charms fly at the mere touch of cold philosophy. 
+차가운 철학의 일촉(一觸)으로 모든 마력은 깨끗이 사라진다. 
+
+
+
+Situation 821 Payments
+
+Yoon:When are payments due
+Kim:Invoices will be sent on the 10th of each month, and you are required to remit that payment before the end of the following month.
+Yoon:What kind of payment terms can you offer
+Kim:It's possible to pay in 12 equal monthly installments.
+Yoon:How long will it take for the merchandise to arrive
+Kim:Since we'll send it by ship, it takes about 50 days.
+Yoon:That's a bit late.Can you make it a little earlier
+
+상황 821 지불
+
+윤준원:지불 기한은 언제까지입니까
+김지영:청구서를 매달 10일에 보내드리겠습니다. 그러면 다음달 말까지 송금해 주셔야 합니다.
+윤준원:지불 조건은 어떻게 해주시겠습니까
+김지영:12개월 균등 분할 지불이 가능합니다.
+윤준원:물품이 도착할때까지 시간이 얼마나 걸립니까
+김지영:선편으로 보내면 50일정도 소요됩니다.
+윤준원:조금 늦군요. 좀 더 빠를 수는 없습니까
+
+<어구연구>
+
+윤준원과 김지영은 지불조건에 대해 협상하고 있다.
+
+지불조건과 관련된 표현들을 익혀두자.
+
+May we pay in installment(할부로 해주시겠습니까)
+What are your terms of payment(지불 조건은 어떻게 됩니까)
+How is this to be paid for(이것은 어떻게 지불하면 좋을까요)
+Would you please tell us your terms of payment(지불 기간에 대해 말씀해 주시겠습니까)
+Full payment must be made within 60 days.But there is a 5% discount for cash payments.
+(60일 이내에 완불하셔야 합니다. 현금으로 지불하시면 5% 할인해 드립니다.)
+
+[속담]
+
+The belly is not filled with fair words.
+말이 아무리 고와도 배는 안부른다.
+The best fish smell when they are three days old. 
+좋은 생선도 사흘이면 냄새 난다.(귀한 손님도 사흘이면 귀찮다).
+The best fish swims near the bottom.
+좋은 고기는 물 밑바닥에 있다.
+
+
+
+Situation 820 Price
+
+Kim : Adam, I'll admit our original asking price is a bit higher than our competitors, but we're way ahead of them in quality.
+Adam : I know that, but the average consumer doesn't. The way things are these days, most folks are thinking only about the price.
+Kim : To cut our price would also mean a cut in quality, and we don't want to do that. Our brand image is more important to us in the long run.
+Adam : You're 100% right, but, you've just got to come down so me, and that's all there is to it. Look, why don't you get to gather with your boss, work out a more reasonable price, and let me have it on Monday, okay
+Kim : Okay, I'll try, but I can't give you any firm promises.
+Adam : Aw, come on. I know you can do it if you really try.
+
+상황 820 가격협상
+
+김진만 : 아담, 당사의 요구가격이 원래 경쟁사들에 비해 다소 높다는 것은 인정합니다. 하지만 우린 품질에서 그들보다 훨씬 앞서 있습니다.
+아담:: 저도 그런줄은 알지만, 일반 고객들은 그렇지 않습니다. 요즈음은 대다수 사람들이 가격만 생각을 하거든요.
+김진만 : 가격을 낮춘다는 건 질을 떨어뜨린다는 말인데 그렇게 하고 싶진 않습니다. 결국에는 브랜드 이미지가 더 중요하니까요.
+아담:: 다 옳은 말씀입니다만, 가격을 반드시 어느 정도 인하해 주셔야 합니다. 그 수밖엔 없어요. 저, 사장님과 만나 좀 더 합당한 가격을 내셔서 월요일까지 좀 알려주세요, 가능할까요
+김진만 : 좋습니다. 일단 시도해 보지요. 그러나 꼭 된다는 보장은 할 수 없습니다.
+아담:: 그런 말씀 마세요. 그렇게 하시려고만 하면 하실 수 있는 줄 알고 있습니다.
+
+<어구연구>
+
+김진만과 아담은 가격협상을 하고 있다. 아담의
+
+But, you've just got to come down so me, and that's all there is to it. Look, why don't you get to gather with your boss, work out a more reasonable price, and let me have it on Monday, okay
+(가격을 반드시 어느 정도 인하해 주셔야 합니다. 그 수밖엔 없어요. 저, 사장님과 만나 좀 더 합당한 가격을 내셔서 월요일까지 좀 알려주세요. 가능할까요)
+
+란 말에 
+
+Okay, I'll try, but I can't give you any firm promises.(좋습니다.일단 시도해 보지요. 그러나 꼭 된다는 보장은 할 수 없습니다.)
+
+라며 답한다.
+
+[속담]
+
+Believe only half you hear of a man's wealth and goodness.
+말은 절반쯤 믿어라.
+The belly has no ears. 
+
+⇒ A loaf of bread is better than the song of many birds. 
+
+⇒ Bread is better than the songs of the birds. 
+
+⇒ Pudding rather than praise. ⇒ Without bread and wine, even love will pine.
+금강산(金剛山)도 식후경(食後景)(수염이 석자라도 먹어야 양반).
+
+Situation 819 A business card
+
+Kim : Mr. Brown, I'm Mr. Kim of "ABC" Co. Here is my name card.
+Brown : Thank you, Mr. Kim. I also have a business card here so
+ me where if I can find it.
+Kim : Oh, please don't bother.
+Brown : No, bother. Oh, Here's one.
+Kim : Thank you. Say, that's quite a classy calling card you've
+ got.
+Brown : Yeah, well, it should be. It cost me an arm and a leg to ha
+ ve them printed.
+
+상황 819 명함
+
+ 김지현: 브라운씨, 저는 ABC상사의 김이라고 합니다. 제 명함입니다.
+브라운 : 감사합니다, 김 선생님. 어딘가에 제 명함이 있을텐데, 찾을 수 있을지 모르겠군요.
+김지현 : 오, 신경쓰지 마세요.
+브라운 : 괜찮습니다. 아, 여기 하나 있군요.
+김지현 : 감사합니다. 야, 명함이 아주 고급이군요.
+브라운 : 예, 당연히 그래야죠. 돈을 많이 들여서 인쇄를 했는걸요.
+
+<어구연구>
+
+김지현은 브라운을 만나 명함을 건네준다. 명함과 관련된 쉬운 대화들이다. 익혀두록 하자.
+
+Mr. Brown, I'm Mr. Kim of "ABC" Co. Here is my name card.(브라운씨, 저는 ABC상사의 김이라고 합니다. 제 명함입니다.)
+
+그러자 브라운 또한 명함을 건네준다.
+
+ I also have a business card here so
+ me where if I can find it.(어딘가에 제 명함이 있을텐데, 찾을 수 있을지 모르겠어요.)
+
+명함을 받은 김지현이 "와, 정말 고급이네요" 라며 감탄하자
+
+It cost me an arm and a leg to ha
+ ve them printed.(돈을 많이 들여서 인쇄했거든요.)
+
+라며 은근히 자랑한다.
+
+[속담]
+
+The bee sucks honey out of the bitterest flowers. 
+꿀벌은 가장 쓴 꽃에서 꿀을 빨아 들인다. 
+The beetle is a beauty in the eyes of its mother. ⇒ The owl thinks her own young fairest. 
+벌레도 그 어미의 눈에는 아름답다.(올빼미도 제 새끼가 제일 예쁘다고 생각한다).
+Beggars can never be bankrupt.
+거지는 파산의 염려가 없다.
+
+
+
+
+Situation 818 The price of raw materials
+
+ Adam: Mr. Kim, Do you expect any drop in the price of raw materials in the future
+Kim : No. There will be no futher decline in price, as far as I know. What makes you ask
+Adam : Oh, I don't know. I heard it through the grapevine that things may come down in price.
+Kim : I think you heard wrong. In fact, it may even go up.
+Adam : No kidding. You can't be serious.
+ 
+상황 818 원자재 가격
+
+아담 : 김 선생님, 앞으로 원자재 가격이 인하되리라고 생각하세요
+김현민:: 아니요. 제가 아는 한 더 이상의 가격하락은 없을겁니다. 그건 왜 물어보시는 거지요
+아담 : 아, 저는 모릅니다. 소문을 통해서 하락될지도 모른다는 얘길 들었습니다.
+김현민:: 잘못 들으신 걸 거예요. 사실은 인상될지도 모르는걸요.
+아담 : 설마요, 농담이시겠지요.
+
+<어구연구>
+
+아담은 김현민과 원자재 가격에 대해 대화를 나누고 있다.
+
+Mr. Kim, Do you expect any drop in the price of raw materials in the future( 김 선생님, 앞으로 원자재 가격이 인하되리라고 생각하세요)
+
+김현민은 
+
+No. There will be no futher decline in price, as far as I know. What makes you ask(아니요, 제가 아는 한 더 이상의 가격 하락은 없을 겁니다.그건 왜 물어보는 거지요)
+
+아담이 소문으로 들은 얘기라고 하자, 김현민은
+
+ I think you heard wrong. In fact, it may even go up.(잘못 들으신 겁니다. 사실은 인상될지도 모르는걸요.)
+
+라며 정확한 정보를 얘기해 주려한다.
+
+[속담]
+
+Beggars can never be bankrupt.
+거지는 파산의 염려가 없다.
+Beggars must(can) not be choosers.
+찬 밥 더운 밥 가리랴.
+Be just before you be generous.
+관대하려거든 먼저 정당하여라.
+
+
+
+Situation 817 Distributors
+
+Kim : Mr. Brown, our factory puts out the finest transistors at the lowest price anywhere. We can't be beat.
+Brown : Is that so You got any samples you can show me
+Kim : Sure. Here you are. Take all you want.
+ Brown: Good. I'll take some back with me to show our distributors.
+Kim : Fine. I'm sure they'll be more than pleased.
+Brown : Well, I hope so. If they are, it could be a big order for you.
+
+상황 817 대리점
+
+ 김형식: 브라운씨, 저희 공장은 최저의 가격으로 최고급 품질의 트랜지스터를 생산하고 있습니다. 어떤 제품도 저희것을 능가하진 못하지요.
+브라운:: 그렇습니까 제게 보여주실 수 있는 견본이 있나요
+김형식 : 그럼요. 여기 있습니다. 원하는 것을 골라보세요.
+브라운:: 좋습니다. 몇 개 가지고 들어가서 저희 판매대리점에 보여줘야겠군요.
+김형식 : 좋습니다. 그 사람들도 매우 만족해 할 거예요.
+브라운:: 글쎄요, 저도 그랬으면 좋겠군요. 만약 그렇게 되면 귀사에 대량주문을 할 수 있을 겁니다.
+
+<어구연구>
+
+김형식은 브라운에게 제품을 소개하고 있다.
+
+Mr. Brown, our factory puts out the finest transistors at the lowest price anywhere. We can't be beat.(브라운씨, 저희 공장은 최저의 가격으로 최고급 품질의 트랜지스터를 생산하고 있습니다. 어떤 제품도 저희것을 능가하진 못하지요.)
+
+김형식의 설명을 들은 브라운씨는 견본을 부탁한다.
+
+Is that so You got any samples you can show me(그렇습니까제게 보여주실 수 있는 견본이 있나요)
+
+ I'll take some back with me to show our distributors.(몇 개 가지고 가서 판매 대리점에 보여줘야겠군요.)
+
+[속담]
+
+Beauty is in the eye of the beholder.
+제 눈에 안경.
+The bee sucks honey out of the bitterest flowers. 
+꿀벌은 가장 쓴 꽃에서 꿀을 빨아 들인다. 
+The beetle is a beauty in the eyes of its mother. ⇒ The owl thinks her own young fairest. 
+벌레도 그 어미의 눈에는 아름답다.(올빼미도 제 새끼가 제일 예쁘다고 생각한다).
+
+
+
+
+
+
+Situation 816 The quickest way
+
+ Kim: What's the quickest way to get downtown
+ Hwang: We can take either a bus or a taxi. which do you prefer
+Kim : I'd like to take a taxi.
+Hwang : Okay, then follow me. I've reserved a room for you at Se
+ oul Chosun Hotel.
+Kim : I really appreciate all the trouble you've gone to.
+Hwang : It hasn't been any trouble at all. After we get to the hotel,
+ how about having dinner with me
+Kim : Thank you.
+
+상황 816 제일 빠른 길
+
+김기현 : 시내로 가려면 어떻게 가는 것이 제일 빠르죠
+황현진 : 버스나 택시 중 아무거나 타면 돼요. 어떤 것을 탈까요
+김기현 : 택시가 좋겠네요. 
+황현진 : 좋습니다. 그럼 이쪽으로 가시지요. 제가 조선호텔에 예약을 해놓았 습니다.
+김기현 : 저를 위하여 수고가 많으셨습니다.
+황현진 : 수고랄 것도 없습니다. 호텔에 도착해서 저와 저녁이나 같이 하실까 요
+김기현 : 감사합니다. 
+
+<어구연구>
+
+ 김기현을 마중하러 공항으로 간 황현진은 어떤 교통수단을 이용할지 대화를 나누게 된다.
+
+What's the quickest way to get downtown(시내로 가려면 어떻게 가는 것이 가장 빠르죠)
+
+택시를 타고 시내로 가기로 결정하자, 김기현은 감사의 마음을 전한다.
+
+ I really appreciate all the trouble you've gone to.(저를 위하여 수고가 많으셨습니다.)
+
+[속담]
+
+A beard well lathered, is half shaved. ⇒ Well begun is half done. ⇒ The beginning is half of the whole.
+비누거품을 잘한 수염은 반은 깍은 것(시작이 반이다).
+Beauty and folly are often sisters. ⇒ Beauty and folly are often companion.
+미인과 바보는 형제간이다.
+Beauty is but(only) skin deep.
+미모는 거죽 한꺼풀.(외모로 사람을 평가하지 말라).
+
+
+
+
+Situation 815 Price negotiation
+
+Anthony : Mr. Kim, I like everything about that model but your price.
+Kim : You mean you actually think it's too steep
+Anthony : Much too steep. You've got to come down a ways before we can even think about striking a bargain.
+Kim : But our prices are already down to rock bottom, as thins go today.
+Anthony : I can name at least 3 companies in Taiwan that undercut you by a wide margin.
+Kim : Oh, go on. You're just saying that to get the price down. 
+
+상황 815 가격 협상
+
+앤서니 : 김 선생님, 그 모델은 가격만 제외하면 모든 것이 마음에 듭니다.
+김기동 : 그게, 정말 너무 비싸다는 말씀인가요
+앤서니:: 비싸도 너무 비쌉니다. 계약체결을 생각하게 앞서 가격을 다소 깎아 주셔야겠어요.
+김기동 : 그러나 요즘 추세로 봐서는 저희 회사 가격은 이미 최저가격입니다.
+앤서니:: 저는 귀사보다 훨씬 싸게 파는 대만의 회사이름을 세 개는 댈 수 있습니다. 
+김기동 : 오, 그런말 마세요. 가격을 깎으려고 괜히 그러시는 거지요.
+
+<어구연구>
+
+앤서니는 김기동과 가격 협상을 하고 있다. 김기동에게 추가 가격할인을 요청하지만, 김기동은
+
+But our prices are already down to rock bottom, as thins go today._(그러나 요즘 추세로 봐서는 저희 회사 가격은 이미 최저가격입니다.)
+
+라며 현재 경제적인 가격임을 말한다.
+
+가격할인을 거절할 때는
+
+1.This price is our lowest possible.(이 가격이 한계입니다.)
+2.We cannot reduce our price any more.(더 이상 가격 할인은 할 수 없습니다.)
+3.A 30% discount is out of question.(30% 할인은 터무니 없습니다.)
+4.Our profit would be squeezed b;y that price.(그 가격으로는 남는 것이 없습니다.)
+5.We may offer you a quantity discount.(수량할인은 가능할지 모릅니다.)
+
+등의 표현을 알아두자.
+
+[속담]
+
+The bite hides the hook.
+낚시밥은 바늘을 숨기고 있다.
+Barking dogs seldom bite. ⇒ Great barkers are no bites.
+짖는 개는 물지 않는다.
+A barking dog was never a good hunter.
+짖는 개는 좋은 사냥개가 못된다.
+
+
+
+
+
+
+Situation 814 A D / A transaction
+
+ Lee: Is a D / A transaction possible with your firm
+Kim : Well, that depends. Our company has a strict policy regarding D / A transaction.
+Lee : What are your terms
+Kim : The firm must have had more than a five-year favorable transaction period with us. Your firm has only been doing business with us for two years.
+Lee : In that case, I guess it's out of the question.
+Kim : Yes, I guess you're right.
+
+상황 814 D/A 거래
+
+이승현:: 귀사와 D / A 거래가 가능합니까
+김광진 : 저, 경우에 따라 다르지요. 저희 회사는 D / A 거래에 관해서는 좀 까다롭습니다.
+이승현:: 조건이 어떤 것들인데요
+김광진 : 저희와 D / A 거래를 할 수 있는 회사는 과거 저희와 5년 이상의 양호한 거래를 해온 회사여야 합니다. 귀사는 저희 회사와 거래한 지 2년밖에 되지 않았습니다.
+이승현:: 그렇다면 전혀 불가능하겠군요.
+김광진 : 예, 그런 것 같습니다.
+
+<어구연구>
+
+이승현은 김광진의 회사와 거래하기 앞서
+
+ Is a D / A transaction possible with your firm(귀사와 D/A거래가 가능합니까)
+
+라고 묻고 있다. 이승현이 운영하는 회사는 김광진의 회사와 거래가 오래되지 않아, 불가능하기에 다음과 같이 답한다.
+
+The firm must have had more than a five-year favorable transaction period with us. Your firm has only been doing business with us for two years.(저희와 D/A 거래를 할 수 있는 회사는 과거 저희와 5년 이상의 양호한 거래를 해온 회사여야 합니다. 귀사는 저희 회사와 거래한 지 2년 밖에 되지 않았습니다.)
+
+[속담]
+
+A bad workman always blames his tools. ⇒ An ill workman always quarrels with his tools.
+서투른 무당이 장고만 나무란다.
+Between a rock and hard place.
+진퇴양난
+Big talk means little knowledge.
+빈 수레가 요란하다.
+
+
+
+Situation 813 All things considered
+
+Kim : Mr. Brown, we're willing to offer this item to you at a drastically reduced rate if you'll place an order for more than 1,000 units.
+ Brwon: Well, now, I don't think we can handle that many right now.
+Kim : If you wait, I know the price will go up.
+Brown : That may be true, but we stand a chance of getting stuck with them if it doesn't.
+Kim : In any case, you can't lose.
+Brown : Well, all things considered, you may be right.
+
+상황 813 모든 것을 고려해 볼 때,
+
+김기형 : 브라운씨, 만약 귀사가 1,000대 이상을 주문한다면, 저희는 이 품목에 대해 과감한 가격인하를 해드릴 용의가 있습니다.
+브라운:: 글쎄요, 지금 당장 그렇게 많은 물량을 취급할 수는 없을것 같군요.
+김기형 : 제가 알기로는, 미루시면 가격이 올라갈 텐데요.
+브라운:: 그럴지도 모르지만, 만약 가격이 오르지 않는다면 저희는 그 물건들 때문에 난처한 입장에 처할 수도 있잖아요.
+김기형 : 여하튼 귀사가 손해를 볼 리는 없습니다.
+브라운:: 저, 모든 것을 종합해 볼 때, 김 선생님의 말씀이 옳을지도 모르겠군요.
+
+<어구연구>
+
+김기형은 브라운에게 1000대 이상을 주문하면 과감히 가격인하를 해 줄 용의가 있음을 밝힌다.
+
+Mr. Brown, we're willing to offer this item to you at a drastically reduced rate if you'll place an order for more than 1,000 units.(브라운씨,만약 귀사가 1,000대 이상을 주문한다면, 저희는 이 품목에 대해 과감한 가격인하를 해드릴 용의가 있습니다.)
+
+하지만 브라운은 대량 구입에 대해 망설인다. 김기형은 적극적으로 그를 설득한다.
+
+ If you wait, I know the price will go up.(제가 알기로는, 미루시면 가격이 올라갈텐데요.)
+
+In any case, you can't lose.(어떤 경우에라도 손해보지는 않을겁니다.)
+
+결국 브라운은 그의 말에 설득당해
+
+Well, all things considered, you may be right.(모든 것을 고려해 볼 때, 김선생님의 말씀이 옮을 수 도 있겠네요.)
+
+라며 마음을 정한다.
+
+[속담]
+
+Bacchus kills more than Mars.
+술이 전쟁보다도 더 많은 사람을 죽인다.
+Bad news travels fast. ⇒ Bad news has wings. ⇒ Ill news run apace [fast]. ⇒ Ill weeds grow apace [fast].
+나쁜 소문이 빨리 퍼진다. 악사천리(惡事千里)
+A bad thing never dies.
+못된 놈이 죽지 않는다.
+
+
+
+
+
+
+
+Situation 812 A good chance
+
+ Smith: Mr. Kim, what do you think chances of cornering the market on those valves are
+Kim : I think we stand a fairly good chance.
+Smith : In that case, let's go full speed ahead on production.
+Kim : We'll go all out in getting as many off the production line just as soon as we can.
+Smith : The sooner the better.
+Kim : Right, No sooner said than done.
+
+상황 812 좋은 기회
+
+ 스미스: 김 선생님, 이 밸브에 대한 시장 석권가능성에 대해 어떻게 생각하세요
+김수인:: 가능성이 충분하다고 봅니다. 
+ 스미스: 그렇다면, 생산에 최대한 박차를 가하도록 합시다.
+김수인:: 저희는 가능한 빨리 그만한 수량의 제품을 생산할 수 있도록 전력을 다하겠습니다.
+ 스미스: 빠르면 빠를수록 좋습니다.
+김수인:: 예, 빨리 되도록 하겠습니다.
+
+<어구연구>
+
+스미스는 김수인의 자사 제품에 대해 문의하고 있다.
+
+Mr. Kim, what do you think chances of cornering the market on those valves are(김 선생님, 이 밸브에 대한 시장 석권 가능성에 대해 어떻게 생각하세요)
+
+김수인은 정말 좋은 기회임을 다음과 같이 표현한다.
+
+ I think we stand a fairly good chance.(가능성이 충분하다고 봅니다.)
+
+위의 표현과 더불어 "빠르면 빠를수록 좋지요" 는
+
+The sooner the better.
+
+로 알아두도록 하자.
+
+[속담]
+
+As well be hanged for a sheep as a lamb.⇒Over shoe, over boots. 
+새끼양을 훔치고 교수형이 될 바에는 어미양을 훔치고 교수형을 당해라.(하려거든 철저히 하라). 
+Attack is the best defence. 
+공격이 최선의 방어이다. 
+The avaricious man is always in want. 
+탐욕한 자는 언제나 모자란다. 
+
+
+
+Situation 831 The term of guarantee
+
+Kim : Mr. Brown, I know you can't go wrong with this machine.
+Brown : Well, how long is the warranty
+Kim : It's good for one year.
+Brown : And after that
+Kim : There's a slight service charge.
+ Brown: Sounds okay to me, as long as it works alright.
+
+
+상황 831 보증기간 
+
+김형진:: 브라운씨, 이 기계를 선택하시면 전혀 문제가 없을 겁니다.
+브라운 : 저, 보증기간은 얼마나 되지요
+김형진:: 일년 동안입니다.
+브라운 : 그 후에는요
+김형진:: 약간의 서비스료를 내야 합니다.
+브라운 : 괜찮을 것 같은데요, 성능만 좋다면요.
+
+<어구연구>
+
+브라운은 물품구매를 결정한 뒤, 보증기간에 대해 문의한다.
+
+Well, how long is the warranty(보증기간이 얼마나 되지요)
+
+ It's good for one year.(1년입니다.)
+
+And after that(그 후에는요)
+
+There's a slight service charge.
+(약간의 서비스료를 내야 합니다.)
+
+[속담]
+
+The cobbler's children go barefoot.
+구두 수선공의 아이들이 맨발로 다닌다. (대장간에 식칼이 없다).
+A cock is bold on his own dunghill.
+이불 속에서 활개 친다.
+Company in distress makes sorrow less.
+함께 고민하면 슬픔은 덜어진다.-백지장도 맞들면 낫다.
+
+Situation 830 A new product
+
+Choi:I'm here to show you our new product.
+Park:It looks smart.What is the advantage of your product
+Choi:It has a nice design and color.Also its price is economical for the high technology.
+Park:How about feedback from your retailers and consumers
+Choi:There's been a ruch for it lately.
+
+상황 830 신제품
+
+최혁:저희의 신제품을 보여드리려고 합니다.
+박지한:산뜻해 보이는군요.당신네 제품의 장점은 무엇이죠
+최혁:세련된 디자인과 색상입니다. 또한 신기술에도 불구하고 가격이 경제적입니다.
+박지한:제품에 대한 소매상과 소비자의 반응은 어떻습니까
+최혁:최근에 대단한 판매 실적을 보이고 있습니다.
+
+<어구연구>
+
+최혁은 박지한에게 신제품을 보여주고 있다.
+
+I'm here to show you our new product.(저희의 신제품을 보여드리려고 합니다.)
+
+It looks smart.What is the advantage of your product(산뜻해 보이는군요.제품의 장점은 무엇이죠)
+
+It has a nice design and color.Also its price is economical for the high technology.(세련된 디자인과 색상입니다. 또한 신기술에도 불구하고 가격이 경제적입니다.)
+
+라며 회사 제품에 대해 설명한다.
+
+[속담]
+
+Chip off the old block. ⇒ Like father, like son. ⇒ Like master, like man. ⇒ Such master, such servant.
+부전자전(父傳子傳).
+Choose neither a woman nor linen by candle light.
+옷감과 색시는 밝은데서 골라라.(자세히 알고)
+Transfer interrupted! ⇒ Give and take. ⇒ Scratch my back, and I'll scratch yours.
+오는 말이 고와야 가는 말이 곱다.
+
+
+
+
+Situation 829 An order
+
+Adam : You know, I'd like to place an order for this model, Mr Kim, a lot depends on timing.
+ Hong: Uh, what exactly do you mean
+Adam : I mean exactly when can you make shipment
+Hong : Well, if you place an order now, the shipment can be made in December.
+Adam : Too late. How about November
+Hong : That's pushing it, but we'll try our best.
+
+상황 829 주문
+
+아담:: 저, 김 선생님, 이 모델을 주문하고 싶습니다. 하지만 주문 여부는 시기를 맞출 수 있느냐에 전적으로 달린 것 같습니다.
+홍의민 : 정확하게 무슨 말씀이신지요
+아담:: 제 말씀은 정확히 언제까지 귀사께서 선적을 해주실 수 있느냐는 것 입니다.
+홍의민 : 글쎄요, 지금 주문을 하시면 12월에 선적이 되겠는데요. 
+아담:: 너무 늦습니다. 11월에는 안될까요
+홍의민 : 너무 무리하게 재촉하시는군요. 하지만 저희들이 최선을 다하겠습니다.
+
+<어구연구>
+
+아담은 제품 구매에 앞서 정확히 시기를 맞출수 있는지를 확인한다.
+
+I mean exactly when can you make shipment(제 말은 정확히 언제까지 귀사에서 선적을 해줄 수 있냐는 것입니다.)
+
+홍의민이 12월에 선적이 될 수 있다는 말에 아담은 너무 늦는다며 선적을 재촉한다. 하지만 홍의민은 다음과 같이 말하며 최대한 맞춰줄것을 약속한다.
+
+That's pushing it, but we'll try our best.(너무 무리하게 재촉하시는군요.하지만 최선을 다하겠습니다.)
+
+[속담]
+
+The child is father of the man.
+어린이는 어른의 아버지.
+Children always turn towards the light.
+어린이는 언제나 빛을 향한다.
+Children are poor man's riches.
+아이들은 가난한 사람의 재산.
+
+
+
+
+Situation 828 A hard bargin
+
+Aram : Mr. Kim, those prices you quoted just have to come down.
+Kim : Those are positively our rock bottom quotations.
+Aram : Oh, come on. I know you can go lower if your competition can.
+Kim : But their product can't compare with ours when it comes to quality.
+Aram : Who says Look, it's either $20.00 a unit or nothing. Take it or leave it.
+Kim : You drive a hard bargin. Okay, $20.00 a unit it is.
+
+상황 828 과도한 가격 깍기
+
+아람:: 김 선생님. 견적으로 주신그 가격은 더 낮게 책정하셔야겠는데요.)
+김형진 : 그 가격들은 정말 저희의 최저견적입니다.
+아람:: 아이, 이러지 마십시오. 경쟁사들이 값을 더 내릴 수 있으면, 귀사도 값을 내릴 수 있는거잖아요.
+김형진 : 하지만 품질을 놓고 볼 때, 그들의 생산품은 저희들 것과 비교가 안 됩니다.
+아람:: 누가 그렇다던가요 개당 20 달러로 하든지 아니면 안 하겠습니다. 그대로 수락하시든지 아니면 관두든지 하세요.
+김형진 : 정말 너무 깎으려 하십니다. 좋습니다. 개당 20불입니다.
+
+<어구연구>
+
+아람은 김형진과 가격교섭을 하고 있다.
+
+Mr. Kim, those prices you quoted just have to come down.(김선생님, 견적으로 주신 그 가격은 더 낮게 책정하셔야겠는데요.)
+
+Those are positively our rock bottom quotations.(그 가격들은 정말 저희의 최저견적가입니다.)
+
+하지만 아람은 가격을 더 깍으려고 하고, 안된다는 김형진에게 그는
+
+Look, it's either $20.00 a unit or nothing. Take it or leave it.(개당 20달러로 하든지 아니면 안 하겠습니다. 그대로 수락하시든지 아니면 관두든지 하세요.)
+
+하자 김형진은 결국 아람이 제시한 가격을 수락한다.
+
+You drive a hard bargin. Okay, $20.00 a unit it is.(정말 너무 깍으려 하십니다. 좋습니다. 개당20불입니다.)
+
+[속담]
+
+Charity begins at home.
+팔은 안으로 굽는다.
+Chastity is like an icicle, if it once melts, that's the lost of it.
+정조는 고드름과 같은 것, 한번 녹으면 그만.
+Childhood shows the man as morning shows the day.
+아침이 그날을 나타내듯, 유년은 그의 성년을 나타낸다.
+
+
+
+Situation 827 A cheaper item
+
+ Hwang: How much are you asking on this item
+Kim : Our factory price is $10.00 per unit.
+Hwang : Gosh, that's high. Can you quote anything cheaper
+Kim : $9.00 is our rock bottom price.
+Hwang : Let's make it $8.50.
+Kim : Then we'd practically be selling at cost. No, I am arfaid it's $9.00 or nothing. Take it or leave it. 
+
+상황 827 더 저렴한 품목
+
+황해선:: 이 품목의 가격은 얼마입니까
+김진명 : 공장도 가격은 개당 10불입니다.
+황해선:: 저런, 좀 비싸군요. 좀더 싸게 해주실 수 없을까요
+김진명 : 9불이 최저가격입니다.
+황해선:: 8불 50센트로 합시다.
+김진명 : 그렇게 되면 실제적으로는 원가에 판매하게 되는 거니까 안됩니다. 9불로 하시든가 아니면 그만두셔야 합니다.
+
+<어구연구>
+
+황해선은 김진명에게 제품의 가격을 물어본다. 하지만 그 가격이 개당 10불로 너무 비싸자 다음과 같이 말하며 가격인하를 요청한다.
+
+Gosh, that's high. Can you quote anything cheaper(저런, 좀 비싸군요. 좀더 싸게 해주실 수 없을까요)
+
+하지만, 김진명은 그 가격이 최저가격이라고 말한다.
+
+$9.00 is our rock bottom price.( 9불이 최저가격입니다.)
+
+여기서 rock bottom은 바위의 밑바닥 즉 최저가격을 강조하기 위해 쓰인 어구이다.
+
+황해선이 계속 가격인하를 유도하자, 김진명은 확고하게 다음과 같이 말한다.
+
+I am arfaid it's $9.00 or nothing. Take it or leave it. (9불로 하시든가 아니면 그만두셔야 합니다.)
+
+[속담]
+
+Cast never a clout till May is over.
+5월이 오기 전에 외투를 벗지 말라.성급하게 행동하지 말라.
+A cat may look at a king.
+천한 사람도 응분의 권리가 있다.
+The cat that ate the canary.
+눈 가리고 아웅한다.
+
+
+
+
+Situation 826 Price
+
+Anthony : Mr. Kim, I think your new model has great potential. There is only one thing that bothers me.
+Kim : What's that
+Anthony : The price. It's not competitive.
+Kim : Well, there's always room for negotiation on that count. But at the same time, there are limitations.
+Anthony : Undoubtedly, but what I'm offering is within reason. $35.00 per unit for a minimum order of a thousand units.
+Kim : Okay. When I get back, I'll recommend your offer be accepted.
+
+상황 826 가격
+
+앤서니 : 김 선생님, 귀사의 새 모델이 장차 상당히 가능성이 있는것으로 생각됩니다만, 한가지 마음에 걸리는 점이 있습니다.
+김형진:: 그게 뭐지요
+앤서니 : 가격입니다. 경쟁력이 없거든요.
+김형진:: 가격에 대한 협상의 여지는 언제나 있습니다. 하지만 그와 동시에 한계도 있죠.
+앤서니 : 당연하지요. 하지만 제가 제의하고자 하는 것은 무리한게 아닙니다. 주문수량은 최소한 1천개 이상이고 단가는 개당 35불이에요.
+김형진:: 좋습니다. 제가 돌아가면, 귀사의 제의가 수락되도록 권유드리겠습 니다.
+
+<어구연구>
+
+김형진과 앤서니는 가격에 대해 교섭을 하고 있다. 앤서니는 새 제품이 맘에 들지만 가격때문에 망설인다.
+
+Mr. Kim, I think your new model has great potential. There is only one thing that bothers me.(귀사의 새 모델이 장차 상당히 가능성이 있는 것으로 생각됩니다만, 한가지 마음에 걸리는 점이 있습니다.)
+The price. It's not competitive.(가격에 경쟁력이 없다는 점입니다.)
+
+앤서니의 제안을 곰곰히 생각해 본 후 , 김형진은 다음과 같이 말한다.
+
+Okay. When I get back, I'll recommend your offer be accepted.(좋습니다. 제가 돌아가면, 귀사의 제의가 수락되도록 권유드리겠습니다.)
+
+[속담]
+
+A cat may look at a king.
+천한 사람도 응분의 권리가 있다.
+The cat that ate the canary.
+눈 가리고 아웅한다.
+Charity begins at home.
+팔은 안으로 굽는다.
+
+
+
+
+Situation 825 Late arrival
+
+Kim : Excuse me, is the plane on schedule
+Atom : What flight are you referring to, sir
+Kim : Flight 609. It's due in at 10:00.
+Atom : Flight 609 is delayed and will arrive at 11:00.
+Kim : Will they announce the arrival over the PA system
+Atom : Yes, sir. The arrival will be announced. 
+
+상황 825 연착
+
+김현준 : 죄송하지만, 비행기가 정시에 도착합니까
+아톰 : 몇 호기를 말씀하시는 거지요
+김현준 : 609호기요. 10시 도착 예정으로 되어 있는데요.
+아톰 : 609호기는 지연되어서 11시에 도착할 것입니다.
+김현준 : 안내방송으로 알려주나요
+아톰 : 도착이 되면 방송이 나갈 겁니다. 
+
+<어구연구>
+
+김현준은 지금 곧 도착하기로 되어 있는 항공편이 정시에 도착하는지가 궁금하자 공항직원 아톰에게,
+
+Excuse me, is the plane on schedule
+(죄송하지만, 비행기가 정시에 도착합니까)
+
+라고 물어본다. 
+
+Is the plane on time
+Is the plane punctual
+Will the plane arrive on time
+
+는 같은 뜻으로 쓰인다.
+다음의 연발착과 관련된 표현들도 함께 알아두자.
+
+How long a delay will it be
+(얼마나 지연이 되겠습니까)
+
+Your plane is behind schedule.
+(댁이 기다리는 비행기는 예정보다 늦어집니다.)
+
+The flight is long overdue. We're trying to find out what's causing the delay.
+(비행기가 너무 오래 연착이 되어 그 원인을 알아보고자 합니다.)
+
+The flight is delayed due to bad weather.
+(악천후로 항공기가 지연되고 있습니다.)
+
+[속담]
+
+Castle in the air.
+공중누각(空中樓閣).
+Cat and dog.
+고양이와 개 사이.
+A cat has nine lives.
+쉽게 죽지 않는다.
+
+
+Situation 824 A Price
+
+ An: What's your offer on my two samples, A and B
+ Choi: The depends on the quantity of each style.
+An : I need a quotation on 500 dozen for A and 1,000 dozen for B.
+Choi : Let me make a calculation. Just a minute. Well, $40 FOB for A, and $50 FOB for B.
+An : That doesn't sound right. How much did you include for CMT per dozen with each style How about making it $35 FOB for A and $50 FOB for B
+Choi : Sorry, I can't lower the price on the quantity of your order.
+
+
+상황 824가격
+
+안경진:: 당사의 두 견본 A와 B에 대한 귀사의 가격은 어떻습니까
+최경남: 그것은 각 모델별 주문수량에 따라 다릅니다.
+안경진:: 견본 A는 500다스, 견본 B는 1,000다스를 기준으로 하여 가격을 주 십시오.
+최경남 : 제가 계산을 해보겠습니다. 잠시만 기다려 주세요. 저, A는 FOB 40 불, B는 FOB 50불이 되겠네요.
+안경진:: 합당한 것 같지 않은데요. 다스당 각 모델의 CMT는 얼마나 됩니까 A는 FOB 35불, B는 FOB 50불로 하면 어떨까요
+ 최경남: 죄송하지만, 귀사의 주문수량으로는 가격을 깎아드릴 수가 없습니다.
+
+<어구연구>
+
+안경진은 최경남이 소개한 제품의 견본을 본 뒤 가격에 대해 문의한다.
+
+What's your offer on my two samples, A and B(두 견본 A와 B의 가격은 어떻게 됩니까)
+
+최경남은 모델별 주문 수량에 따라 가격이 다르다고 말하자, 안경진은 가격 인하를 요구한다. 하지만 그는 
+
+Sorry, I can't lower the price on the quantity of your order.
+(죄송하지만, 귀사의 주문 수량으로는 가격을 깍아드릴 수가 없습니다.)
+
+라며 가격인하가 불가능함을 확인시킨다.
+
+[속담]
+
+Can the leopard change his spots
+표범이 그 반점을 바꿀 수 있느뇨(호박에 줄 긋는다고 수박이 될까)
+Care killed a cat [the cat].
+근심은 몸에 해롭다.
+Casting pearls before swine. ⇒ Don't cast pearls before swine.
+돼지에게 진주.
+
+
+
+
+Situation 823 Haircut
+
+ Aram: Have a seat here, please, sir.
+Kim : Thank you. I'd like my hair cut in the back and on the sides, but not on the top.
+Aram : Okay, sir. How would you like your hair parted
+Kim : Part my hair on the left side, please.
+Aram : Okay, would you care for a shampoo first, sir
+Kim : No, just a haircut will be fine, thanks. 
+
+상황 823 이발
+
+아람 : 여기로 앉으십시오. 손님.
+김기민 : 감사합니다. 뒷머리와 옆머리를 잘라주세요. 위는 자르지 말고요.
+아람 : 예, 알겠습니다. 가리마는 어느 쪽으로 탈까요
+김기민 : 왼쪽으로 타 주십시오.
+아람 : 예. 먼저 샴푸부터 하시겠습니까
+김기민 : 아니, 괜찮습니다. 그냥 머리만 잘라주십시오. 
+
+<어구연구>
+
+김기민은 출장 중 머리를 손질하기 위해 헤어샾에 들렀다.
+
+ I'd like my hair cut in the back and on the sides, but not on the top.(뒷머리와 옆머리를 잘라주세요. 위는 자르지 말고요.)
+
+아람은 
+
+How would you like your hair parted(가리마는 어느 쪽으로 탈까요)
+
+라고 묻는다.이에 김기민은
+
+ Part my hair on the left side, please.(왼쪽으로 타주세요.)
+
+라고 말한다. "가르마를 타주세요"란 표현은 자주 쓰이므로 외워두도록 하자.
+
+
+
+
+[속담]
+Call a spade a spade.
+솔직히 말하라.
+The candle that goes before gives the best light.
+지도자는 앞장서야 한다.
+Can't get blood from a turnip.
+벼룩의 간을 빼 먹지.
+
+
+Situation 822 Working hours
+
+ Brown: How many hours a week do you work in Korea
+ Kim: Well,It varies from company to company.
+Brwon : What would be the average
+Kim : I'd say about 55 hours. But in some case, it may be as much as 60 or more... without any overtime pay, whatsoever.
+Brown : Wow! And to think that some Americans even want to shorten the standard 40-hour work week! That's amazing!
+
+상황 822 근무 시간
+
+브라운 : 한국에서는 일주일에 몇 시간이나 근무를 하지요
+김광수 : 글쎄요, 회사마다 다릅니다.
+브라운 : 평균적으로는 어느 정도나 됩니까
+김광수 : 55시간정도 될꺼에요. 하지만 어떤 경우에는 60시간내지, 그 이상이 될 때도 있지요... 한푼의 잔업수당도 없이 말이지요.
+브라운 : 와! 일부 미국인들은 일주일 40시간의 표준근무시간도 더 줄이고 싶어하는걸 생각하면 그건, 정말 놀랍군요! 
+
+<어구연구>
+
+브라운과 김광수는 한국인의 근무시간에 대해 대화를 나누고 잇다.
+
+How many hours a week do you work in Korea
+(한국에서는 일주일에 몇 시간이나 근무하나요)
+
+Well,It varies from company to company.(글쎄요, 회사마다 다릅니다.)
+
+브라운은 평균 근무시간이 어느정도인지 알고 싶어한다.
+
+What would be the average(평균적으로 어느정도나 됩니까)
+
+I'd say about 55 hours. But in some case, it may be as much as 60 or more... without any overtime pay, whatsoever.(55시간정도 될꺼에요. 하지만 어떤 경우에는 60시간내지, 그 이상이 될 때도 있지요... 한푼의 잔업수당도 없이 말이지요.)
+
+[속담]
+
+The best fish swims near the bottom.
+좋은 고기는 물 밑바닥에 있다.
+The best go first.
+착한 자가 먼저 간다.
+The best goods are the cheapest.
+비싼 것이 싼 것.
+
+
+
+Situation 841 A list
+
+ Han: Mr. Kim, what does your company produce in the line of toy
+Kim : Oh, gosh! We've got a whole list of things to choose from.
+Han : Well, what for example
+Kim : Well, we've got stuffed toys, wind-up toys, talking dolls - you name it.
+Han : Well, have you got a list handy
+Kim : Not right at the moment. Let me get the department manager on the phone. I'm sure he can come up with one in no time.
+
+상황 841 목록
+
+한진기 : 김 선생님, 귀사는 장난감 분야에서 어떤 것을 생산하십니까
+김근형:: 오, 이런, 저희는 선택하실 수 있는 품목의 종류가 매우 많습니다.
+한진기 : 저, 예를 들어 어떤 것인가요
+김근형:: 저, 속을 채워 만든 모형인형, 태엽을 이용한 인형, 말하는 인형 등 - 없는게 없습니다.
+한진기 : 저, 지금 혹시 목록 하나 가지신 것 있습니까
+김근형:: 지금 당장은 없군요. 제가 부장님께 전화로 연락해 보죠. 즉시 한 부를 구해주실 것입니다.
+
+<어구연구>
+
+한진기는 장난감 회사를 운영하는 김근형에게 다음과 같이질문한다.
+
+Mr. Kim, what does your company produce in the line of toy(김선생님, 귀사는 장난감 분야에서 어떤 것을 생산하십니까)
+
+김근형은 다양한 자사 제품을 소개한다.
+
+Well, we've got stuffed toys, wind-up toys, talking dolls - you name it.(속을 채워 만든 모형인형, 태엽을 이용한 인형, 말하는 인형등 없는 게 없습니다.)
+
+Well, have you got a list handy(지금 혹시 목록 가진 것 있나요)
+
+Not right at the moment. Let me get the department manager on the phone. I'm sure he can come up with one in no time.(지금 당장은 없지만 부장님께 얘기해 보죠. 즉시 한부를 구해주실 것입니다.)
+
+[속담]
+
+The devil finds work for idle hands to do.
+한가하면 망상을 한다.
+The devil is not so black as he is painted.
+어떤 악인도 사실은 소문만큼 나쁘지 않다.
+The devil take the hindmost [hinder most].
+뒤 떨어진 놈은 귀신에게나 잡혀 먹어라.(매도 먼저 맞는 놈이 낫다).
+
+
+
+
+Situation 840 Seeing off
+
+Kim : Mr. Brown, I'm terribly sorry, I won't be able to make it to 
+ the airport to see you off.
+ Brown: Oh, Don't give it a second thought, Mr. Kim. I'll be perfec
+ tly okay.
+Kim : Well, I really wanted to go, but something urgent came up.
+Brown : I understand fully. So, let'a just say our goodbyes right 
+ here and now.
+Kim : Okay, Mr. Brown.. Have a pleasant trip.
+Brown : Thank so much for all you've done. It was a pleasure
+ seeing you again. Goodbye.
+
+
+상황 840 배웅하기
+
+김형진 : 브라운씨, 정말 죄송하지만, 전송하러 공항까지 못나갈 것 같습니다.
+ 브라운: 아니에요, 김 선생님. 괜찮습니다.
+김형진 : 정말 전송을 나가고 싶지만 급한 일이 생겨서요.
+브라운 : 충분히 이해합니다. 그러면 지금 여기서 작별 인사를 합시다. 
+김형진 : 좋습니다. 브라운씨. 즐거운 여행이 되시길 바랍니다.
+브라운 : 베풀어 주신 모든 것에 감사드립니다. 다시 만나뵙게 되어 기뻤습니다. 안녕히 계십시오. 
+
+<어구연구>
+
+브라운은 한국의 모든 일정을 마치고 귀국하려고한다.
+업무가 바쁜 김형진은 
+
+ Mr. Brown, I'm terribly sorry, I won't be able to make it to 
+ the airport to see you off.(브라운씨, 정말 죄송하지만, 전송하러 공항까지 못나갈 것 같습니다.)
+
+I understand fully. So, let'a just say our goodbyes right 
+ here and now.(아, 괜찮습니다. 그럼 여기서 인사하도록 하죠.)
+
+라며 브라운은 답한다.
+
+[속담]
+
+Dead man tell no tales.
+죽은 자는 말이 없다.(그러므로 비밀을 아는 자는 없애라).
+The dearer the child, the sharper must be the rod.
+자식이 귀여울수록 날카로운 매를 주라.
+Death devours lambs as well as sheep.
+새끼양도 어미양도 죽기는 매 일 반
+
+
+
+
+Situation 839 A deal
+
+ Brown: Mr. Kim, I got an importer in San Francisco who's hot after your new model.
+Kim : Great. What are we talking about in the way of quantity
+Brown : He says he'll start with 300 units a month for openers.
+Kim : That's not bad. What are we looking at pricewise
+Brown : Ah, that's what I gotta talk with you about. He says you have to come down a ways from your original asking price.
+Kim : Well, I'm open to that, but the question is how far.
+
+상황 839 협상
+
+브라운 : 김 선생님, 샌프란시스코에 있는 수입업자 한 분을 알고 있는데 귀사의 새 모델에 대해 큰 관심을 가지고 있답니다.
+김정현:: 잘됐군요. 수량에 대해서는 어떻습니까
+브라운 : 우선 한 달에 300 세트씩 주문하는 것으로 거래를 시작하겠다고 하더군요.
+김정현:: 그 정도면 괜찮군요. 가격은 어떨 것 같습니까
+브라운 : 저, 바로 그 점을 말씀 드리려고 하는데요. 그분 말씀은 귀사의 최초제시 가격이 다소 인하되어야 한다는 것입니다.
+김정현:: 저, 그 문제에 대해서는 고려할 용의가 있습니다. 하지만 문제는 어느 정도냐 하는 것이죠.
+
+<어구연구>
+
+브라운은 김정현에게 
+
+I got an importer in San Francisco who's hot after your new model.(샌퍼란시스코에 있는 수입업자 한 분을 알고 있는데 귀사의 새 모델에 큰 관심을 갖고 있습니다.)
+
+김정현은
+
+What are we talking about in the way of quantity(수량에 대해서는 어떻습니까)
+
+라며 수량에 대해 확인한다. 
+
+He says he'll start with 300 units a month for openers.(한 달에 300세트씩 주문하는 것으로 거래를 시작하겠다고 합니다.)
+
+가격은 최초 제시 가격에서 다소 인하가 되어야 한다고 하자 김정현은
+
+I'm open to that, but the question is how far.(그 문제에 대해서는 고려할 용의가 있습니다.)
+
+라며 그의 제안에 호감을 보인다.
+
+[속담]
+
+The dead are soon forgotten.
+죽은 자는 곧 잊혀진다.
+Dead man tell no tales.
+죽은 자는 말이 없다.(그러므로 비밀을 아는 자는 없애라).
+The dearer the child, the sharper must be the rod.
+자식이 귀여울수록 날카로운 매를 주라.
+
+
+
+
+Situation 838 The minimum quantity
+
+ Adam: Mr. Kim, listen, do you think you could decrease the minimum quantity on model No. A-55
+Kim : Sorry, but I'm afraid not.
+Adam : Yeah, I know, but we've got problem with that.
+Kim : Well, I wish I could say yes, but I'm no position to do that.
+Adam : Well, then..., look. How about cutting the price 5% I know you can do that if you want to.
+Kim : That's even more difficult, sorry.
+
+상황 838 최저 주문 수량
+
+아담:: 김 선생님, 저, 모델번호 A-55의 최저주문수량을 좀 줄여 주실 수 없 을까요
+김현진 : 죄송하지만, 어렵겠는데요.
+아담:: 예, 압니다. 하지만 그것을 받아들이는데는 문제가 있습니다.
+김현진 : 저, 저도 수락을 해드리고 싶지만, 그렇게 할 입장이 못 돼서요.
+아담:: 그렇다면... 저, 가격을 5% 깎아주시는 것은 어떨까요 해주시려는 마음만 있으면 가능한 것으로 알고 있는데요.
+김현진 : 그것은 더욱 어렵습니다. 미안합니다.
+
+<어구연구>
+
+아담은 모델번호 A-55의 최저 주문수량을 줄여줄 수 없는지 김현진에게 묻는다.
+
+Do you think you could decrease the minimum quantity on model No. A-55(저 모델번호 A-55의 최저 주문 수량을 좀 줄여 주실 수 없을까요)
+
+하지만 김현진이 그 제안은 받아들이는게 어렵다고 하자
+
+How about cutting the price 5% I know you can do that if you want to.
+(저, 가격을 5%로 깍아주시는 것은 어떨까요 해주시려는 마음만 있으면 가능한 것으로 알고 있는데요.)
+
+아담이 다른 제안을 하자
+
+ That's even more difficult, sorry.(그건 더욱 어렵네요.죄송합니다.)
+
+난색을 표한다.
+
+[속담]
+
+Danger comes soonest when it is despised.
+업심을 주면 곧 위험이 생긴다.
+Danger past, God forgotten.
+뒷간에 갈적 다르고 올적 다르다.
+The darkest hour is that before the dawn.
+동트기 직전이 가장 어둡다.(최악의 상태는 호전의 일보직전)
+
+
+
+
+Situation 837 The production cost
+
+ Cris: Mr. Kim. what's your asking price on this
+Kim : Ten dollars and fifty cents is our best price.
+Cris : Aw, come on. I can get it for half in Taiwan.
+Kim : That's what it used to be here, too, but the production cost alone has doubled during the past year.
+Cris : How did that happen
+Kim : The won-dollar revaluation. You have no one else but you ourrselves to blame.
+
+상황 837 제품 가격
+
+크리스:: 김 선생님, 이것의 가격은 얼마입니까
+김현진 : 10불 50센트가 저희의 최저가격입니다.
+크리스:: 그러지 마세요. 대만에서는 그 절반 값으로 살 수 있습니다.
+ 김현진: 여기서도 마찬가지였습니다. 하지만 생산비만 하더라도 지난 1년 사이에 두배나 뛰었답니다.
+크리스:: 어째서 그런 일이 생겼지요
+김현진 : 달러에 대한 원화가치의 평가절상 때문이죠. 결국, 당신네들 책임이 잖아요.
+
+<어구연구>
+
+크리스는 김현진에게 가격을 물어보고 있다. 최저가격이 10달러 50센트라고 하자 그는
+
+Aw, come on. I can get it for half in Taiwan.(그러지 마세요. 대만에서는 그 절반 값으로 살 수 있습니다.)
+
+이에 김현진은
+
+That's what it used to be here, too, but the production cost alone has doubled during the past year.(여기서도 마찬가지였습니다. 하지만 생산비만 하더라도 지난 1년 사이에 두배나 뛰었답니다.)
+
+라고 원인을 설명하며 그 이유는 
+
+The won-dollar revaluation.(달러에 대한 원화가치의 평가절상 때문이죠.)
+
+라며 덧붙인다. 평가 절하는 devaluation 표현을 알아두자.
+
+[속담]
+
+Daughters are fragile wares.
+가시네는 깨지기 쉬운 그릇.
+A day after the fair. ⇒ After death the doctor.
+장날 다음날.사후약방문(死後藥方文).
+The dead are soon forgotten.
+죽은 자는 곧 잊혀진다.
+
+
+Situation 836 The way out
+
+K : Excuse me, Where is the way out
+A : Well, that's what I'm looking for myself.
+K : It's very confusing in here, isn't it
+A : Absolutely, yes. Oh, do you see a sign there
+K : It should be the way out.
+A : OK. Let's go and see. 
+
+상황 836 출구
+
+K : 실례합니다. 출구가 어디지요
+A : 글쎄요. 저도 지금 찾고 있는 중입니다.
+K : 여긴 굉장히 헷갈리는데요.
+A : 정말 그래요. 저기 표지판이 보이지요
+K : 거기가 출구일 거예요.
+A : 좋아요, 그럼 가 봅시다. 
+
+<어구연구>
+
+아담은 공항에 내려서 출구를 찾지 못하자 길을 묻고 있다.
+
+Excuse me. Where is the way out
+(죄송하지만 출구가 어디지요)
+
+way out은 [출구]라는 뜻. way-out처럼 붙이면 [이상한(unusual)]이란 뜻이 되어 버리므로 유의해야 한다. 입구는 way in으로 표현하면 된다. 
+
+다른 표현으로는
+
+How do I find my way out
+(어디로 나가야 합니까)
+
+Where is the exit
+(출구가 어디 있습니까)
+
+How do you get out of this place
+(밖으로 나가려면 어떻게 해야지요)
+
+다음은 way out에 관련된 표현들이다.
+
+After you get out of subway train, take the way out to[on] the left.
+(전철을 내린 다음 좌측 출구로 나가세요.)
+
+If you take the way out to the right, it leads you [you'll come] to City Hall.
+(오른쪽 출구로 나가시면 시청이 나옵니다.)
+
+[속담]
+
+Danger comes soonest when it is despised.
+업심을 주면 곧 위험이 생긴다.
+Danger past, God forgotten.
+뒷간에 갈적 다르고 올적 다르다.
+The darkest hour is that before the dawn.
+동트기 직전이 가장 어둡다.(최악의 상태는 호전의 일보직전)
+
+
+
+
+Situation 835 A claim
+
+Kim : Mr. Brown, come in. Glad to see you. How did things go with that new model
+Brown : Well, not as well as expected, I'm afraid.
+Kim : Oh, any problems
+Brwon : Yeah. I'm afraid we've got a clame on our hands.
+Kim : Oh, sorry to here that. I hope we can work it out all right.
+Brown : Yeah, I sure hope so, too. But there's another subject I'd like to take up, now that I'm here.
+
+상황 835 클레임 
+
+김명진 : 브라운씨, 어서 오세요. 만나서 반갑습니다. 새 모델은 좀 어떻습니 까
+브라운:: 글쎄요, 기대한 만큼은 못되는 것 같아요. 
+김명진 : 아니, 무슨 문제라도 있습니까
+브라운:: 예, 우리가 처리해야 할 클레임이 한 건 있습니다.
+김명진 : 오, 유감이군요. 서로 원만히 해결할 수 있었으면 좋겠습니다.
+브라운:: 예, 저 역시 그렇게 되길 바랍니다. 그리고 이왕 여기 온 김에 한 가지 더 말씀 드리고 싶은 사항이 있습니다.
+
+<어구연구>
+
+김명진은 브라운씨를 만나자 이전에 소개한 새 모델에 대해 어떻게 생각하는
+지 묻는다.
+
+How did things go with that new model(새 모델은 좀 어떻습니까)
+
+Well, not as well as expected, I'm afraid.(글쎄요, 기대한만큼은 못되는 것 같아요.)
+
+라고 브라운은 말문을 열며, 다른 사안을 얘기하고자 한다.
+
+But there's another subject I'd like to take up, now that I'm here.(그리고, 이왕 여기 온 김에 한가지 더 말씀 드리고 싶은 사항이 있습니다.)
+
+[속담]
+The fish will soon be caught that nibbles at every bite.
+지나친 호기심은 해롭다
+Curses (,like chickens) come home to roost. ⇒ Cut off your nose to spits your face.
+누워 침뱉기.(남잡이가 제잡이)
+Cut your coat according to your cloth.
+분수에 맞게 살아라.
+
+
+
+Situation 834 A hotel room
+
+Kim : I'd like to get a hotel room for the night. Can that be arranged
+ An: Yes, sir. Around the corner and to the right is a long row of orange phones. You simply choose a hotel from the display and call on those phones. They will send a shuttle to pick you up.
+Kim : Oh, thank you. What about my baggage
+An : They will load it onto the van and take it to your hotel room.
+Kim : Fine. Where do I get the bus
+An : Outside at the island. They usually come and pick you up in ten or fifteen minutes. 
+
+상황 834 호텔
+
+김지영 : 오늘밤 묵을 호텔방을 구하고 싶은데 가능하도록 해주실 수 있겠습니까
+안현수 : 예, 오른쪽 코너 주변에 가시면 오렌지색 전화가 쭉 놓여 있습니다. 호텔 하나를 골라서 전화를 거시면 됩니다. 호텔측에서 셔틀버스를 보내 선생님을 모시고 갈 테니까요
+김지영 : 아, 감사합니다. 짐은 어떻게 하지요
+안현수 : 그 사람들이 차에 실어서 호텔까지 운반해 줄 거예요.
+김지영 : 그것 좋군요. 버스는 어디에서 타지요
+안현수 : 밖에 섬모양의 승강계단에서요. 대개 10분 내지 15분 정도 있으면 올 거예요. 
+
+<어구연구>
+
+김지영은 공항에 도착한 후 안내계로 가서,
+
+I'd like to get a hotel room for the night. Can that be arranged
+(하룻밤 묵을 호텔방을 구하고 싶은데, 가능할까요)
+
+라고 물어본다. for the night는 '오늘밤'이란 뜻으로 for tonight와 같다. 그리고 arrange는 '(미리) ....을 계획하다, 준비하다, 마련하다'란 단어. 따라서 Can that be arranged는 다음의 표현들과 같은 뜻이라 하겠다.
+
+Is that possible
+(그게 가능할까요)
+
+Can it be done
+(가능하겠습니까)
+
+Do you think you can arrange it
+(좀 구해주실 수 있을까요)
+
+[속담]
+
+Credit is better than gold.
+돈 보다 신용.
+Criticism is easy, art is difficult.
+비평은 쉽지만 제작은 힘들다.
+A crow is never white though being washed several times.⇒ A crow is never whiter for washing herself often.
+아무리 씻어도 까마귀는 희어지지 않는다. (원래 소질이 나쁜 놈은 못 고친다.)
+
+
+
+
+Situation 833 In the taxi
+
+Kim : Excuse me, driver. Is the airport much further away My flight leaves in 40 minutes.
+Driver : We're almost there. Don't worry. You'll catch it in time.
+Kim : Yeah, but, it's an international flight and I have to check my bag and go through the body check and all that, you know.
+Driver : Well, you ought to give yourself more time for international flights, you know.
+Kim : Yeah, I know. Say, by the way, all I've got is a twenty. Will you be able to change it
+Driver : Oh-ho! Gee, haven't you anything smaller I'm all out of change. 
+
+상황 833 택시 안에서
+
+김형진 : 실례지만 기사양반, 공항까지 아직 멀었습니까 비행기가 40분 후에 출발하거든요.
+ 기사: 거의 다 왔습니다. 염려 마십시오. 충분히 타실 수 있습니다.
+김형진 : 예. 하지만 국제선이라서 짐도 탁송해야 하고 보안검색 등 여러 가지 절차가 있잖아요.
+기사 : 국제선을 타실 때에는 더 많은 시간을 가지셔야지요.
+김형진 : 예, 알겠습니다. 그런데 제게 20달러 짜리 밖에 없는데, 바꿔주실 잔돈이 되세요
+기사 : 아, 이런 야단났군요! 잔돈 가지신 것 없으세요 잔돈이 다 떨어졌거든요. 
+
+<어구연구>
+
+김형진은 비행기 시간에 맞출수 있을까 걱정이 돼 택시기사에게 다음과 같이 묻는다.
+
+Excuse me, driver. Is the airport further away
+(기사양반, 아직 공항이 멉니까)
+
+ further away는 '훨씬 떨어진, 더 멀리 떨어진'이란 뜻. 원래 far의 비교급으로 farther는 '거리'에 대해서 쓰고, further는 '정도·시간·수량'에 대하여 쓴다고 하지만 실제로는 이 구분이 엄밀하게 지켜지고 있지 않으며 구어체에서는 어느 경우에나 further을 쓰는 경향이 있다.
+김형진은 다음과 같이 물어볼 수도 있다.
+
+Have we much further to go before we reach the airport
+(공항까지 가려면 아직 많이 남았나요)
+
+Are we there yet
+(이제 다 와 갑니까)
+
+Are we almost at the airport
+(공항에 다 와 갑니까)
+
+[속담]
+
+Clothes make the man.
+옷이 날개.
+The cobbler's children go barefoot.
+구두 수선공의 아이들이 맨발로 다닌다. (대장간에 식칼이 없다).
+A cock is bold on his own dunghill.
+이불 속에서 활개 친다.
+
+
+
+ 
+
+Ko : Ani, I'm afraid we'll have to put a hold on that second shipment of TVs.
+Ani : Why What's the problem
+Ko : Well, there's a glut on the TV market right now.
+Ani : How long do you think I'll last
+Ko : That's anybody's guess.
+Ani : I see. Well, let me know when things ease off a bit, will you
+
+상황 832 공급 과잉
+
+ 고인환: 애니씨, TV의 2차 선적을 보류해야만 할 것 같군요.
+애니:: 왜요 무슨 일입니까
+고인환 : 저, 지금 TV시장이 공급과잉 상태라서요.
+애니:: 그런 상태가 얼마나 오래갈 것 같습니까
+고인환 : 그건 아무도 모르죠.
+애니:: 알겠습니다. 저, 사정이 조금이라도 풀리면 알려주시겠습니까
+
+<어구연구>
+
+고인환은 애니에게 
+
+ I'm afraid we'll have to put a hold on that second shipment of TVs.(TV의 2차 선적을 보류해야만 할 것 같군요.)
+
+라며 선적의 어려움을 말한다. 이에 그녀는
+
+Why What's the problem(왜요 무슨 일입니까)
+
+Well, there's a glut on the TV market right now.(지금 TV시장이 공급과잉 상태라서요.)
+
+라고 말한다. 고인환은 그런 상태가 얼마나 지속될 지 궁금해한다.
+
+How long do you think I'll last(그런 상태가 얼마나 오래갈 것 같습니까)
+
+[속담]
+
+Continuity is power.
+계속은 힘이다.
+Count one's chickens before they are hatched.
+떡 줄 놈은 생각도 않는데 김칫국부터 마신다.
+The course of true love never did run smooth.
+진정한 사랑은 결코 순탄하지 않다.
+
+
+
+Situation 851 Orders
+
+Kim : How soon would you like to have them done
+Adam : Well, this one is pressing, but the others can wait.
+Kim : When is this one due
+Adam : At the latest, by June 16.
+Kim : Oh, that's impossible.
+Adam : I understand, but could you please squeeze it in some where
+
+상황 851 주문
+
+김정식 : 그 주문들을 언제까지 완료시키면 되겠습니까
+아담:: 저, 이 주문은 급하지만, 저건 좀 여유가 있습니다.
+김정식 : 이건 언제까지 되어야 합니까
+아담:: 늦어도 6월 16일까지는 되어야 합니다.
+김정식 : 아, 그렇게는 불가능한데요.
+아담 : 이해는 갑니다만 어렵더라도(작업일정) 어디엔가 좀 끼워 넣어 주실 수 없을까요
+
+<어구연구>
+
+김정식은 아담에게 주문한 제품에 대해 몇 가지 확인을 하고 있다.
+
+When is this one due(이건 언제까지 되어야 합니까)
+
+6월 16일까지 완료를 해야한다고 하자 김정식은 난색을 표한다. 하지만 아담은 융통성을 발휘해서 주문을 완료해 달라고 부탁한다.
+
+I understand, but could you please squeeze it in some where(이해는 갑니다만 어렵더라도 어디엔가 좀 끼워 넣어 주실 수 없을까요)
+
+[속담]
+
+Easier said than done.⇒ Easy to say, hard to do.
+말하기는 쉽고 실천은 어렵다. 
+East or west, home is best.⇒ Travel east or travel west, a man's own house is still the best.
+내 집보다 더 좋은 곳은 없다.
+Easy come, easy go.⇒ Light come, light go.⇒ Lightly won, lightly held.
+쉽게 얻은 것은 쉽게 없어진다.
+
+
+
+
+Situation 850 During absence
+
+Johnson:Hello This is Johnson of New World Company.May I speak to Mr.Sangho Park
+Kim:I'm sorry, he is out now.And he'll be back at around three o'clock.
+Johnson:Is there anyone else who knows about the A project
+Kim:I'm sorry. Mr.Park is the only who is authorized to speak on that matter.
+Johnson:I see, would you get him to call me back when he returns
+Kim:Certainly. May I have your name and telephone number again
+Johnson:I'm Jeremy Johnson and my phone number is 02-235-5678.
+
+상황 850 부재중
+
+존슨:안녕하세요! 뉴월드사의 존슨입니다. 박상호씨와 통화할 수 있을까요
+김지영:지금은 외출중이신데, 3시쯤이면 돌아오실 겁니다.
+존슨:A프로젝트에 대해서 아시는 분이 계신가요
+김지영:죄송하지만 미스터 박만이 답변해 드릴 수 있습니다.
+존슨:알겠습니다. 돌아오시면 제게 전화해 달라고 전해 주시겠어요
+김지영:알겠습니다. 성함과 전화번호를 다시 말씀해 주시겠습니까
+존슨:저는 제레미 존슨이구요, 전화번호는 235-4567입니다.
+
+<어구연구>
+
+존슨은 박상호씨와 프로젝트에 대해 얘기할 게 있어 전화하지만 그가 부재중이라는 답변을 듣는다. <외출중입니다>
+란 표현을 알아두자.
+
+I'm sorry, he's away from the office.
+Mr.Kim is not at his desk right now.
+He just stepped out.
+I'm sorry, he is not in the office now.
+I'm sorry, he's out of town for a few days.
+
+[속담]
+
+The eagle does not catch flies.
+독수리는 파리를 잡지 않는다.(매는 굶어도 벼이삭을 쪼지 않는다).
+The early bird catches the worm.
+일찍 일어나는 새가 벌레를 잡는다.
+Early to bed and early to rise makes a man healthy, wealthy, and wise.
+일찍 자고 일찍 일어나는 사람은 건강, 부귀, 지혜를 두루 갖는다. 
+
+
+
+
+Situation 849 A contract
+
+Matt:Shall we discuss the details of the contract a little futher
+Park:There are still a few points that we haven't discussed yet.
+Matt:Whick points do we still differ on
+Park:Basically, jsut these 2 points, shipping and insurance charges.
+Matt:What about inability to deliver due to natural disasters
+Park:We will effect a marine insurance on the goods on W.A.including War Risks.
+Matt:Who assumes shipping cost
+Park:That would be the responsibility of the seller.
+
+상황 849 계약
+
+매트:계약 내용에 대해서 좀 더 토의해 마무리 지을까요
+박수나:아직 토론하지 않은 것이 몇가지 남아 있습니다.
+매트:아직 합의를 못한 것이 무엇이죠
+박수나:기본적으로 선적료와 보험료 두가지입니다.
+매트:천재지변에 의해 배달이 불가능할 경우에는 어떻게 합니까
+박수나:물건에 대해서 전쟁 위험 담보를 포함한 단독 해손 담보부 해상보험에 들겠습니다.
+매트:선적 비용은 누가 부담합니까
+박수나:판매자가 부담합니다.
+
+<어구연구>
+
+매트와 박수나는 계약을 하기 전 보험에 대해 얘기하면서 마무리를 짓고 있다.
+
+계약에 관한 표현을 정리하면,
+
+When will the contract papers be ready(계약서는 언제 준비가 됩니까)
+When will the contract papers be ready to sign(언제쯤 계약서에 사인할 수 있습니까)
+There are still a few points that we haven't discussed yet.(아직 토의하지 못한 몇몇 문제들이 있습니다.)
+May I ask how you interpret this article(이 항목을 어떻게 해석하고 계십니까)
+We'd like to talk about this point a little more.(이 항목에 대해 좀 더 토의하고 싶습니다.)
+Let's reestablish the points we agree on.(우리가 합의한 항목을 다시 한번 확인해 봅시다.)
+We are both in agreement on the point of price and terms of payment.(가격과 지불 기간에 관해서는 우리 둘 다 동의했습니다.)
+
+[속담]
+
+A drowning man will catch at a straw. ⇒ A drowning man plucks at a straw.
+물에 빠진 자는 지푸라기라도 잡는다.
+Drunken folks seldom take harm.
+취한 자는 잘 다치지 않는다.무심무아(無我無心)자는 오히려 실수가 없다).
+Duty before pleasure.
+의무는 쾌락보다 앞선다.
+
+
+Situation 848 A party invitation
+
+Ma:Are you free this Saturday evening
+Park:I'm sorry. I've got another appointment Saturday evening.
+Ma:Well, how about next Monday then
+Park:Nothing special, why
+Ma:I'm thinking of having a dinner party for you.
+Park:Good! That's fine.
+Ma:When's the most convenient time for you
+Park:After six o'clock will be fine.Thanks for inviting me.
+Ma:I'm glad to have a dinner with you.I'll pick you up at six-thirty.
+
+상황 848 파티 초대
+
+마형식:이번 토요일 저녁에 시간 있으세요
+박준:아, 토요일 저녁에는 다른 약속이 있습니다.
+마형식:그렇다면 다음주 월요일은 어떤가요
+박준:별다른 일은 없습니다. 왜죠
+마형식:당신을 위한 간단한 파티를 열려고 합니다.
+박준:그거 좋지요!
+마형식:언제가 시간이 괜찮으시죠
+박준:여섯시 이후라면 언제든지 좋습니다. 초대해 주셔서 감사합니다.
+마형식:저도 당신과 함께 하게 되어 기쁩니다. 6시 30분에 모시러 가겠습니다.
+
+<어구연구>
+
+마형식은 박준을 위한 간소한 파티를 계획하고 그를 초대한다.
+
+파티나 식사 초대와 관련된 표현들을 알아두자.
+
+Mr.Lee, would you like to come to my place this week
+(미스터 리, 이번주에 한 번 저희집에 오시지 않겠습니까)
+We are holding a luncheon next Saturday. Would you join us(다음주 토요일에 오찬회를 가질 예정인데 저희와 함께 하실 수 있으세요)
+I'm thinking of having some friends over for dinner on Saturday, and I was wondering if you could join us.
+(이번주 토요일에 친구들을 불러서 저녁식사를 하려고 하는데 당신도 오셨으면 합니다.)
+I'm afraid that day would be inconvinent.(유감입니다만 그날은 사정이 좋지 않습니다.)
+Thank you for your kind invitation. I'd be happy to come.(친절한 초대 감사합니다. 기꺼이 가겠습니다.)
+
+[속담]
+
+Draw water to his own mill. ⇒ Every miller draws water to his own mill.
+아전인수(我田引水).
+Dreams are lies.
+꿈은 엉터리.
+A drop in the bucket.
+코끼리에 비스켓.
+
+
+
+
+Situation 847 A concession
+
+ Hong: Mr. Kim, my apologies. I thought that price you quoted me in Seoul would be okay, but the boss dosen't buy it.
+Kim : But as I told you, that was a special price considering the large amount of your order.
+Hong : Yeah, I know. I should have checked first. But now the boss says 10% more has got to come off.
+Kim : Another 10% Gee, that'd practically be giving it away.
+Hong : Yeah, I agree, but what can I do
+Kim : Oh, all right, but let's make one thing clear. This is our final concession.
+
+상황 847 양보
+
+홍석우:: 김 선생님, 사과 드립니다. 서울에서 선생님이 저한테 내신 견적가 격이 그만하면 됐다고 생각했습니다만, 저희 사장님께서 받아들이시질 않는군요.
+김상민 : 제가 말씀 드렸듯이, 그것은 귀사의 주문이 대량임을 고려하여 특별히 싸게 드린 가격이었어요.
+홍석우:: 예, 그런 줄 압니다. 제가 먼저 확인을 했어야 하는데, 사장님께선 10%가 더 할인되어야 한다고 하시는군요.
+김상민 : 또 10%를요 원 참, 그건 거의 거저 주는 것과 마찬가지에요.
+홍석우:: 예, 저도 동감입니다만 어쩔 수 없군요.
+김상민 : 예, 좋습니다. 하지만 한가지 분명히 해둡시다. 이번의 양보는 마지막입니다.
+
+<어구연구>
+
+홍석우와 김상민의 가격협상을 하고 있다. 협상 중 가장 중요하며 쌍방이 팽팽히 맞서는 순간이지만, 김상민은 마지막으로 양보하며 조건을 수락한다.
+
+ I thought that price you quoted me in Seoul would be okay, but the boss dosen't buy it.(서울에서 선생님이 저한테 내신 견적가 격이 그만하면 됐다고 생각했습니다만, 저희 사장님께서 받아들이시질 않는군요.)
+
+But as I told you, that was a special price considering the large amount of your order.(제가 말씀 드렸듯이 대량주문이라 그렇게 해드린 것인데요.)
+
+ I should have checked first. But now the boss says 10% more has got to come off.(제가 먼저 확인을 했어야 하는데요, 사장님께0서는 10%를 더 깍으라고 하십니다.)
+
+
+결국 김상민은 10% 추가로 할인해 주기로 하며 협상을 마무리한다.
+
+Oh, all right, but let's make one thing clear. This is our final concession.(예,좋습니다. 하지만 한가지 분명히 해둡시다.이번에 하는 양보가 마지막입니다.)
+
+[속담]
+
+Do not quarrel with your bread and butter.
+자기의 생업을 버리는 어리석은 짓은 하지 말라. 자기의 직업에 불평하지 말라.
+Do not throw out the baby with the bath water.
+귀한 것을 쓸모없는 것과 함께 버리지 말라.
+Do not wash your dirty linen in public.
+더러운 속옷을 남 앞에서 빨지 말라. (내부의 창피스런 일을 외부에 드러내지 말라).
+
+
+
+Situation 846 A commission on the invoice value
+
+ Brown: Mr. Choi, would you give me a 15% commission on the invoice value
+Choi : Mr. Brown, you know that that's almost impossible according to the Korean Foreign Trade Control law. Usually, the maximum is 10%.
+ Brown: Okay, I'll tell you what. We'll specify only 10% on the L/C. For the balance you can pay me in Korean won.
+Choi : But that's against the Foreign Exchange Control law. Anyhow, how do you expect me to make any profit at a 15% commission 
+
+상황 846 송장 금액 커미션
+
+ 브라운: 최 선생님, 송장금액의 15%를 커미션으로 주시겠습니까
+최형국 : 브라운씨, 그것은 한국외환관리법상 거의 불가능하다는 거 아시잖아요. 통상 최대지불 한도액이 10%입니다.
+브라운 : 좋습니다. 그러면 이렇게 하면 어떨까요 신용장에는 10%라고만 명시를 할 테니까 ㅜ 나머지에 대해서는 원화로 지불해 주셔도 됩니다.
+최형국 : 그러나 그건 외환관리법에 위배가 됩니다. 어쨌든 커미션을 15% 씩이나 드리고 저희는 어떻게 이윤을 남기란 말씀입니까 
+
+<어구연구>
+
+브라운은 최형국에게 15%의 커미션을 요구하고 있으나, 이에 대하여 최형국이 현행 외환관리법상 10% 이상의 commission은 지불될 수 없는 입 장임을 설명하자 브라운은,
+
+I'll tell you what. (좋은 수가 있습니다 ; 제 말씀 좀 들어보세요.)
+
+라고 말하면서 새로운 제안을 한다. I'll tell you what.은 Tell you what.으로 줄여 말하기 도 하는데, 어떤 제안을 할 때 Here is an idea.의 뜻으로 쓰이는 구어표현이다.
+
+I'll tell you what. If you put down 50% today, I'll sell it in installments. (이렇게 하면 어떨까요. 오는 50%를 현찰로 내시면 나머지는 분할불로 해드리겠습니다.)
+
+[속담]
+
+Don't judge of a man by his looks.
+외양으로 사람을 판단하지 말라.
+Do not kick against the pricks.
+소몰이채를 뒷발질하지 말라. 무모한 저항을 하다가는 다친다.
+Do not put all your eggs in one basket.
+위험은 분산하라.
+
+
+
+
+Situation 845 A Shopping
+
+ Choi: Mr.Brown, if you have nothing planned after this, how about taking a drive down to the Folk Village
+Brown : Well, actually I wanted to get some shopping done this afternoon. I heard that Itaewon is a great for bargains, but I don't have the slightest idea where it is.
+Choi : Well, if you like, I'll come along with you.
+Brown : Oh, that would be great, but are you sure it's no bother
+Choi : No trouble at all. I'll be glad to assist you.
+Brown : Great. Then afterwards, I might take you up on that drive, if it isn't too late. 
+
+상황 845 A shopping
+
+최형진 : 브라운씨, 이후에 아무 계획이 없으시면, 민속촌에 가보시지 않을래요
+브라운 : 저, 실은, 오늘 오후에 쇼핑을 좀 하고 싶었어요. 이태원에 가면 아주 싸게 살 수 있다는 소리를 들었는데 어딘지를 전혀 몰라서요.
+최형진 : 저, 원하시면, 깉이 가 드릴게요.
+브라운 : 오, 그래 주시겠어요, 그렇지만 폐를 끼치는 것은 아닌지요
+최형진 : 폐는 무슨 폐예요. 기꺼이 도와드릴게요.
+브라운 : 좋아요. 그러면 쇼핑하고 난 다음에 시간이 너무 늦지 않으면 선생님 제안대로 드라이브를 갈 수 있을지도 모르겠군요. 
+
+<어구연구>
+
+브라운은 최형진에게 쇼핑을 함께 가자고 권유하자, 최형진은 흔쾌히 
+
+I'll come along with you.(제가 같이 가드리죠.)
+
+한다."같이 가다"는 go along with가 아니라 come along with라고 해야 옳다. 이런 상황에서 쓸 수 있는 같은 표현들로,
+
+If it's okay with you, I'll be glad to guide [accompany] you.
+(괜찮으시면, 제가 안내해[따라가] 드리지요.)
+
+If you like, I'll show you the way.
+(원하시면, 제가 길을 안내해 드리겠습니다.)
+
+등이 있다. 한편 Brown이 먼저 최형진에게 길안내를 부탁하고 싶을 때는,
+
+Can you come along with me if you are not busy
+(안 바쁘시면 저와 함께 가 주실 수 있습니까)
+
+If possible, could you show me the way
+(가능하면, 길 좀 안내해 주시겠습니까)
+와 같이 부탁을 하면 된다. 
+[속담]
+
+Do not count your chickens before they hatch. ⇒ To sell the bear's skin before has been caught.
+김칫국부터 마시지 말라.
+Do not cross the bridge until you come to it.
+공연히 지레 걱정하지 말라.
+Don't give a sword to a child.
+어린애에게 칼을 주지 말라.
+Do not go asking for trouble.
+사서 고생을 하지 말라.
+
+
+
+Situation 844 A car rent
+
+A:Good morning! May I help you
+Yoon:Yes, I'd like to rent a car.
+A:How many days would you like it for
+Yoon:For 5 days.
+A:What type of car do you needHere's a booklet.
+Yoon:An economy car would be fine. How much is the rate
+A:It's 80 dollars a day.
+Yoon:How much should I pay for insurance and gas
+A:The 80 dollars price is all inclusive.And it includes collision and liability insurance.
+Yoon:I see.I'll take this one.
+A:Please sigh here.And may I see your international driver's license
+
+상황 844 렌트카
+
+A:어서 오십시요.
+윤여민:예, 차를 빌리고 싶습니다.
+A:며칠이나 쓰실건가요
+윤여민:5일 동안요.
+A:어떤 모델을 원하시죠 여기 팸플렛입니다.
+윤여민:소형차가 좋겠습니다. 요금은 얼마입니까
+A:하루에 80 달러입니다.
+윤여민:보험료와 연료비는 얼마입니까
+A:80달러 속에 모두 포함되어 있습니다. 그리고 충돌 책임 보험도 포함되고요.
+윤여민:좋습니다. 이 자동차로 하겠습니다.
+A:여기에 서명해 주세요. 그리고 국제 면허증 좀 보여주시겠습니까
+
+<어구연구>
+
+윤여민은 차를 빌리기 위해 관련 회사를 찾았다. 오늘은 이에 관한 표현들을 알아보자.
+
+I'd like one that gets good gas mileage.(연료비가 적게 드는 차를 빌리고 싶습니다.)
+I'd like to rent a compact car for three days.(소형차를 3일동안 빌리고 싶습니다.)
+I prefer the automatic.(오토매틱이 좋습니다.)
+I'd like a manual[stick] shift.(스틱차가 좋습니다.
+What do you have in the intermediate size(중형차 크기로 어떤 차가 있습니까)
+Can I drop the car off at any of your branches(당신네 어느 지점에든 차를 반납할 수 있습니까)
+
+[속담]
+
+Do in Rome as the Romans do. ⇒ Follow the customs or fly to the country.
+입향순속(入鄕循俗).
+Do not ask which is the right way to the blind.
+소경에게 길을 묻지 말라.
+Do not back him into a corner.
+개도 나갈 구멍을 보고 쫓아라.
+
+
+
+
+Situation 843 A new model
+
+Kim : Mr. Brown, have you seen our new model yet
+Brown : No, what's it like'
+Kim : Well, it's got a beautiful color, long curving lines, and nicely shaped legs.
+Brown : Hm, reminds me of a model I used to date many years ago.
+Kim : All kiding aside, it's really something you should have a lo ok at.
+Brown : Okay. I'll check it out first thing tomorrow morning.
+
+상황 843 새 모델
+
+김관형 : 브라운씨, 우리 새 모델 보셨나요
+브라운:: 아니오, 그건 어떤 제품입니까
+김관형 : 색상이 아름답고 곡선이 긴데다가 다리가 멋지게 뻗었습니다.
+브라운:: 그 얘길 들으니 수년 전에 데이트하던 아가씨가 생각나는군요
+김관형 : 농담은 그만두시고요. 정말 괜찮은 거니까 꼭 한번 보십시오.
+브라운:: 좋아요. 내일 아침에 제일 먼저 그것부터 확인해 보겠습니다.
+
+<어구연구>
+
+김관형은 브라운에게 새 모델을 소개하고 있다.
+
+제품소개와 관련된 표현을 익혀두자.
+
+This is our newest product.(이것이 우리의 신제품입니다.)
+
+This product is a big hit in Korea.(이 상품은 한국에서 대히트한 것입니다.)
+
+This is small and light.(이것은 소형이며 경량입니다.)
+
+The new type is eaiser to use.(새로운 형태의 제품은 사용법이 더 간단합니다.)
+
+This system is more efficient than the previous one.(이 시스템은 기존의 시스템보다 더 효율적입니다.)
+
+[속담]
+
+Dog does not eat [bite] dog.
+동족은 상잔하지 않는 법.
+The dog rages at the stone, not at him who throws it.
+개는 날아온 돌한테 화내고, 던진 사람한테는 화낼 줄 모른다.
+The dog that kills wolves is killed by wolves. ⇒ A good swimmers are drowned at last.
+늑대잡이 개는 늑대에게 죽는다.
+
+
+
+
+Situation 842 A dinner
+
+Pak:I'd like to take you out tonight.
+Smith:Thank you.That's would very kind of you.
+Pak:What would you like to have for dinner
+Smith:Well,I'll leave it up to you.
+Pak:Is there any problem with Korean Food
+Smith:Not at all. I often go to Korean restaurants in the States.
+Pak:Good!I'll take you to a local food restaurant.
+They serve really good pulgogi.
+
+상황 842 저녁
+
+박수영:오늘 밤 저녁 식사에 초대하고 싶습니다.
+스미스:감사합니다.정말 친절하시군요.
+박수영:저녁식사는무엇을 드시고 싶습니까
+스미스:선택하는대로 따르겠습니다.
+박수영:한국음식은 어떤가요
+스미스:좋습니다. 미국에서도 종종 한국 음식점에 갑니다.
+박수영:알겠습니다.향토 요리를 먹을 수 있는 레스토랑에 갑시다. 거기는 불고기가 맛있습니다.
+
+<어구연구>
+
+박수영은 스미스에게 저녁식사 초대를 한다.
+
+I'd like to take you out tonight.(오늘 밤 저녁식사에 초대하고 싶습니다.)
+
+What would you like to have for dinner(무엇을 드시고 싶은신가요)
+
+Is there any problem with Korean Food(한국 음식은 괜찮은가요)
+
+라는 박수영의 물음에 스미스는 흔쾌히 한국음식이 좋다며 대답한다.
+
+비슷한 표현은 익혀두자.
+
+Do you have any food restrictions(안 드시는 음식이 있습니까)
+Do you mind sitting on the ondol floor(온돌방에 앉는 것은 괜찮습니까)
+Do you prefer the non-smoking section(금연석 쪽이 좋습니까)
+
+[속담]
+
+The devil take the hindmost [hinder most].
+뒤 떨어진 놈은 귀신에게나 잡혀 먹어라.(매도 먼저 맞는 놈이 낫다).
+Diamond cut diamond. ⇒ Neck and neck.
+막상막하(莫上莫下).
+A diamond daughter turns to glass as a wife.
+딸로써는 보석이더니 아내로써는유리더라.(귀엽고 훌륭한 딸이 반드시 좋은 아내가 되지는 않는다.)
+
+
+
+Business English - 612/613 -

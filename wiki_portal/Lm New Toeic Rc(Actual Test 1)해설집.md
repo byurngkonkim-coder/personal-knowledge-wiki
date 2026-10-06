@@ -1,0 +1,2278 @@
+---
+title: "Lm New Toeic Rc(Actual Test 1)해설집"
+category: "글로벌 어학 & 영어"
+type: "english_learning"
+project: "English_txt"
+notebook: "Lm New Toeic Rc(Actual Test 1)해설집.md"
+summary: "title: 'Lm New Toeic Rc (Actual Test 1) 해설집 마스터 가이드'"
+decision_status: "accepted"
+source: "Lm New Toeic Rc(Actual Test 1)해설집.md"
+source_path: "English_txt/Lm New Toeic Rc(Actual Test 1)해설집.md"
+created: 2026-10-02
+converted: 2026-10-02
+status: canonical
+tags:
+  - 영어학습
+  - 영어회화
+aliases: []
+---
+
+> ---
+> title: "Lm New Toeic Rc (Actual Test 1) 해설집 마스터 가이드"
+> aliases: [LM TOEIC RC Test 1, 토익 RC 실전 1회 해설]
+> tags: [english, speaking, pattern, source, mcp-extracted, toeic, reading]
+> type: document
+> ---
+>
+> # 🗣️ Lm New Toeic Rc(Actual Test 1)해설집
+>
+> ## 📋 요약 (Summary)
+> - **주요 학습 테마**: 토익 RC 실전 파트(Part 5 문법·어휘, Part 6 문맥 완성, Part 7 비즈니스 실전 독해 및 어휘)
+> - **핵심 수록 표현 수**: 65개 이상 (Part 5: 40개 문항 핵심 구문, Part 6: 12개 연계 문법/어휘, Part 7: 주요 비즈니스 어휘 및 독해 정밀 단서 25개 영역)
+> - **학습 포인트**:
+>   1. 전치사 결합형 구동사 및 명사-동사-형용사 간의 정형화된 콜로케이션(연어) 완전 정복 (`leave for the day`, `be subject to`, `preference for`, `exceed expectations`)
+>   2. 문맥상 접속사 및 도치 구문(`Should you have...`), 분사구문, 관계대명사 계속적 용법 등 실전 문법 패턴 훈련
+>   3. 공지사항, 비즈니스 서신, 광고, 호텔 안내문, 시설 규정 등 비즈니스 문서 실전 어휘 및 독해 단서 무손실 분석
+>
+> ---
+>
+> ## 🗺️ 원문 구조 (Document Map)
+> 1. `they` : 인칭대명사 주격 및 수일치 (Part 5 - 101번)
+> 2. `leave for the day` : 퇴근하다 (Part 5 - 102번)
+> 3. `have never been` : 현재완료 시제 부사 수식 (Part 5 - 103번)
+> 4. `instructional videos` : 교육용 비디오 (Part 5 - 104번)
+> 5. `available` : 이용 가능한, 매매 가능한 (Part 5 - 105번)
+> 6. `join a company` : 회사에 입사하다 (Part 5 - 106번)
+> 7. `or` : 등위접속사의 선택적 병치 (Part 5 - 107번)
+> 8. `essential element` : 필수적인 요소 (Part 5 - 108번)
+> 9. `schedule lectures` : 강의 일정을 계획하다 (Part 5 - 109번)
+> 10. `deliver A to B` : A를 B로 배달하다 (Part 5 - 110번)
+> 11. `see what S + V` : 명사절 접속사 what (Part 5 - 111번)
+> 12. `characteristics such as` : 대표명사와 예시 열거 (Part 5 - 112번)
+> 13. `disappointing sales` : 사물 주어의 감정형용사 능동형 (Part 5 - 113번)
+> 14. `if condition clause` : 조건의 접속사 if (Part 5 - 114번)
+> 15. `significantly shorter` : 증감·변화 수식 부사 (Part 5 - 115번)
+> 16. `put the request (in writing)` : 요청을 (서면으로) 제출하다 (Part 5 - 116번)
+> 17. `choose from` : ~에서 선택하다 (Part 5 - 117번)
+> 18. `suggest enrollment` : 제안 목적어 명사 (Part 5 - 118번)
+> 19. `accurately calculate` : 정확하게 계산하다 (Part 5 - 119번)
+> 20. `vacate the premises` : 구역·건물을 비우다 (Part 5 - 120번)
+> 21. `since` : 이유의 접속사 (~때문에) (Part 5 - 121번)
+> 22. `an ideal place` : 이상적인 장소 (Part 5 - 122번)
+> 23. `long duration` : 긴 지속 기간 (Part 5 - 123번)
+> 24. `indicate that` : ~을 시사하다/가리키다 (Part 5 - 124번)
+> 25. `speak clearly` : 또박또박 명확하게 말하다 (Part 5 - 125번)
+> 26. `preference for` : ~에 대한 선호 (Part 5 - 126번)
+> 27. `surrounding areas` : 주변 지역들 (Part 5 - 127번)
+> 28. `Should you have...` : 조건절 if 생략 도치 구문 (Part 5 - 128번)
+> 29. `undergo training programs` : 힘든 훈련을 겪다/이수하다 (Part 5 - 129번)
+> 30. `half of which` : 한정사 + of + 관계대명사 목적격 (Part 5 - 130번)
+> 31. `accommodate a meeting` : 회의 일정/수용에 부응하다 (Part 5 - 131번)
+> 32. `respective copyrights` : 각각의 저작권 (Part 5 - 132번)
+> 33. `moreover / and` : 주어 병치 및 등위접속사 (Part 5 - 133번)
+> 34. `strategically sound` : 전략적으로 건실한/올바른 (Part 5 - 134번)
+> 35. `widespread speculation` : 널리 퍼진 추측/추정 (Part 5 - 135번)
+> 36. `be carefully screened` : 철저히 심사받다/선별되다 (Part 5 - 136번)
+> 37. `a great deal of information` : 많은 불가산 정보 (Part 5 - 137번)
+> 38. `through the central ventilation system` : 매개/수단/통과의 through (Part 5 - 138번)
+> 39. `be subject to` : ~을 조건으로 하다, ~을 받기 쉽다 (Part 5 - 139번)
+> 40. `in place of` : ~을 대신하여 (Part 5 - 140번)
+> 41. `be committed to` : ~에 전념하다/헌신하다 (Part 6 - 141번)
+> 42. `result in` : ~라는 결과를 초래하다 (Part 6 - 142번)
+> 43. `exceed expectation levels` : 기대치를 초과하다 (Part 6 - 143번)
+> 44. `ultimately increase` : 궁극적으로 증대시키다 (Part 6 - 144번)
+> 45. `instead of ~ing` : ~하는 대신에 (Part 6 - 145번)
+> 46. `basically` : 기본적으로 (Part 6 - 146번)
+> 47. `flexible schedule` : 유연한/융통성 있는 일정 (Part 6 - 147번)
+> 48. `car payments` : 차량 할부 납입금 (Part 6 - 148번)
+> 49. `the pioneer who overcame...` : 사람 선행사 주격 관계대명사 (Part 6 - 149번)
+> 50. `trend that began in...` : 명확한 과거 시제 (Part 6 - 150번)
+> 51. `have trouble raising funds` : 자금 조성에 어려움을 겪다 (Part 6 - 151번)
+> 52. `goods demanded by...` : 수동 수식 과거분사 (Part 6 - 152번)
+> 53. `off limits to / restricted to` : ~에게 출입·접근이 금지된 (Part 7 - 153~154번)
+> 54. `no later than / in advance` : 늦어도 ~까지 / 사전에 (Part 7 - 155~156번)
+> 55. `lakefront / luxuriously furnished` : 호숫가의 / 호화롭게 가구가 비치된 (Part 7 - 157~160번)
+> 56. `be eligible for / designated representative` : ~할 자격이 되다 / 지정 대리인 (Part 7 - 161~163번)
+> 57. `state-of-the-art / compatible` : 최첨단의 / 호환 가능한 (Part 7 - 164~166번)
+> 58. `match the price / nominal fee` : 가격을 맞춰주다 / 약간의 수수료 (Part 7 - 167~169번)
+> 59. `work overtime / reimburse` : 야근하다 / 상환·보상하다 (Part 7 - 170~172번)
+> 60. `do curves / open-ended questions` : 상대평가하다 / 서술·주관식 질문 (Part 7 - 173~176번)
+> 61. `render void / exclude liability` : 무효화하다 / 법적 책임을 배제하다 (Part 7 - 177~180번)
+> 62. `take the maximum advantage of` : ~을 최대한 활용하다 (Part 7 - 181~185번)
+> 63. `precision / be equipped with` : 정밀도(=accuracy) / ~이 갖춰지다 (Part 7 - 186~190번)
+> 64. `lead by example / meet deadlines` : 솔선수범하다 / 마감일을 준수하다 (Part 7 - 191~195번)
+> 65. `interfere with / every other month` : ~을 방해하다 / 두 달에 한 번 (Part 7 - 196~200번)
+>
+> ---
+>
+> ## 📚 상세 분해 (Detailed Breakdown) — 무손실 핵심 표현 & 패턴 마스터
+>
+> ### 1. `they` : 그들은 (인칭대명사 주격)
+> - **💡 뉘앙스 & 상황 맥락**: 문맥상 앞에서 언급된 복수 명사(사람 엔지니어들)를 대등하게 받아 동사 앞 주어 역할을 수행할 때 사용한다. 문장의 성별, 수, 격 일치에 유의해야 한다.
+> - **🔊 발음 & 연음 팁 (Pronunciation Tip)**: 유성 치간음 /ðeɪ/로 발음되며, 뒤에 자음이나 모음이 이어질 때 약화되지 않도록 명확히 짚어준다.
+> - **📝 실전 예문 (Real Examples)**:
+>   - 🇺🇸 `Currently two of our engineers are on field assignments, but they will be joining us shortly.`
+>     - 🇰🇷 현재 저희 측 엔지니어 2명이 현장 업무를 나가 있지만 그들은 곧 이 자리에 참석할 것입니다.
+> - **💬 대화 스크립트 (Dialogue Context)**:
+>   > **A**: Where are the technicians from the branch office?
+>   > ↳ *지사에서 오기로 한 엔지니어들은 어디에 있나요?*
+>   > **B**: Currently two of our engineers are on field assignments, but they will be joining us shortly.
+>   > ↳ *현재 저희 측 엔지니어 2명이 현장 출장 중이지만, 그들은 곧 합류할 예정입니다.*
+> - **🔄 패턴 응용 & 교체 연습 (Substitution Drill)**: `[복수 주어 선행사] + but they will + [동사원형]` = ~이지만 그들은 곧 …할 것이다
+> - **⚠️ 주의사항 & 콩글리시 방지 (Pitfalls & Common Mistakes)**: 복수 주어를 받을 때 단수 대명사 it이나 he/she로 잘못 수일치하지 않도록 주의한다.
+>
+> ---
+>
+> ### 2. `leave for the day` : 퇴근하다
+> - **💡 뉘앙스 & 상황 맥락**: 단순히 특정 장소를 떠나는 것을 넘어 '그날의 업무를 마치고 완전히 귀가하다'라는 일상적·비즈니스적 관용 표현이다.
+> - **🔊 발음 & 연음 팁 (Pronunciation Tip)**: `leave for`는 /liːv fər/로 연음되며, `day`에 1강세가 온다.
+> - **📝 실전 예문 (Real Examples)**:
+>   - 🇺🇸 `Employees must remember to turn off all office lights and cover monitors before leaving for the day.`
+>     - 🇰🇷 직원들은 퇴근 전에 잊지 말고 모든 사무실 불을 끄고 모든 컴퓨터 모니터를 덮어야 한다.
+> - **💬 대화 스크립트 (Dialogue Context)**:
+>   > **A**: Are you ready to leave for the day?
+>   > ↳ *오늘 퇴근할 준비 다 되었나요?*
+>   > **B**: Almost, I just need to turn off the equipment and lock the side entrance.
+>   > ↳ *거의 다 됐어요, 장비 끄고 옆문만 잠그면 됩니다.*
+> - **🔄 패턴 응용 & 교체 연습 (Substitution Drill)**: `before leaving for the day` = 그날 퇴근하기 전에 / `ready to leave for the day` = 오늘 퇴근할 준비가 된
+> - **⚠️ 주의사항 & 콩글리시 방지 (Pitfalls & Common Mistakes)**: '퇴근하다'를 `finish the company` 또는 `off the company`라고 직역하면 어색하다. `leave for the day` 혹은 `clock out`, `call it a day`를 쓴다.
+>
+> ---
+>
+> ### 3. `have never been + 형용사 비교급` : 지금까지 결코 더 ~했던 적이 없다
+> - **💡 뉘앙스 & 상황 맥락**: 현재완료 시제 사이에 부정 부사 never를 넣어 역대 최상급의 상태(지금이 가장 ~하다)를 간접적으로 강조할 때 쓴다.
+> - **🔊 발음 & 연음 팁 (Pronunciation Tip)**: `have never been`은 /həv ˈnevər bɪn/으로 `never`에 강한 악센트가 실린다.
+> - **📝 실전 예문 (Real Examples)**:
+>   - 🇺🇸 `Stock prices have never been higher than now, but this may actually indicate that they are overvalued.`
+>     - 🇰🇷 주가는 지금보다 더 높은 적이 없었으나, 이는 사실 주가가 과대평가되고 있음을 시사하는 것일 수 있다.
+> - **💬 대화 스크립트 (Dialogue Context)**:
+>   > **A**: The firm's shares have never been higher than this quarter!
+>   > ↳ *이번 분기만큼 우리 회사 주가가 높았던 적이 없었어요!*
+>   > **B**: True, but analysts worry that the market might be overheated.
+>   > ↳ *맞아요, 하지만 분석가들은 시장이 과열되었을 수도 있다고 우려합니다.*
+> - **🔄 패턴 응용 & 교체 연습 (Substitution Drill)**: `have never been + [비교급] + than now` = 지금보다 더 ~한 적이 없다
+> - **⚠️ 주의사항 & 콩글리시 방지 (Pitfalls & Common Mistakes)**: `have + p.p.` 사이에 들어가는 부사 위치(have never been)를 어긋나게 `never have been` 등으로 조동사 위치를 헷갈리지 않도록 한다.
+>
+> ---
+>
+> ### 4. `instructional videos` : 교육용/학습용 비디오
+> - **💡 뉘앙스 & 상황 맥락**: 명사 수식 시 수동으로 '교육을 받은(instructed)' 비디오가 아니라, '교육을 목적으로 하는' 성질을 가지므로 `instructional` 형용사를 쓴다.
+> - **🔊 발음 & 연음 팁 (Pronunciation Tip)**: `instructional`은 /ɪnˈstrʌkʃənl/로 2음절 `struc`에 강세가 들어간다.
+> - **📝 실전 예문 (Real Examples)**:
+>   - 🇺🇸 `Instructional videos will be provided to employees to help them better understand the new lathing machine.`
+>     - 🇰🇷 새 lathing(욋대 엮기) 기계를 보다 쉽게 이해할 수 있도록 하기 위해 직원들에게 학습용 비디오가 제공될 것이다.
+> - **💬 대화 스크립트 (Dialogue Context)**:
+>   > **A**: How are the technicians learning to handle the new device?
+>   > ↳ *기술자들이 새 장비 다루는 법을 어떻게 배우고 있나요?*
+>   > **B**: The company supplied several instructional videos on our intranet.
+>   > ↳ *회사에서 인트라넷에 학습용 비디오를 몇 편 제공했습니다.*
+> - **🔄 패턴 응용 & 교체 연습 (Substitution Drill)**: `instructional + [materials / manuals / guides]` = 교육용 자료 / 매뉴얼 / 지침서
+> - **⚠️ 주의사항 & 콩글리시 방지 (Pitfalls & Common Mistakes)**: 사람 수동태 형태인 `instructed`를 사물 비디오 앞에 쓰지 않도록 주의한다.
+>
+> ---
+>
+> ### 5. `available` : 매매 가능한, 이용할 수 있는
+> - **💡 뉘앙스 & 상황 맥락**: 사람이 만날 시간이 비어있을 때도 쓰이지만, 금융/상업에서는 상품이나 주식이 '시장에서 구매/거래 가능한' 상태를 의미한다.
+> - **🔊 발음 & 연음 팁 (Pronunciation Tip)**: /əˈveɪləbl/로 2음절 `vail`에 강세가 온다.
+> - **📝 실전 예문 (Real Examples)**:
+>   - 🇺🇸 `Formerly privately held, its shares are now available on the stock exchange.`
+>     - 🇰🇷 과거에 개인 소유였던 이 회사의 주식은 이제 증권 거래소에 상장됨으로써 매매가 가능하게 되었다.
+> - **💬 대화 스크립트 (Dialogue Context)**:
+>   > **A**: Can we purchase shares of Prosteel directly?
+>   > ↳ *우리가 프로스틸 주식을 직접 매수할 수 있나요?*
+>   > **B**: Yes, they are finally listed and available on the open market.
+>   > ↳ *네, 드디어 상장되어 공개 시장에서 매매가 가능합니다.*
+> - **🔄 패턴 응용 & 교체 연습 (Substitution Drill)**: `become available on + [시장/장소]` = ~에서 매매/이용 가능해지다
+> - **⚠️ 주의사항 & 콩글리시 방지 (Pitfalls & Common Mistakes)**: '구입할 수 있다'고 해서 `buyable`이라는 조어를 쓰기보다 서술적 용법의 정형화된 비즈니스 단어 `available`을 사용한다.
+>
+> ---
+>
+> ### 6. `join a company` : 회사에 입사하다
+> - **💡 뉘앙스 & 상황 맥락**: 전치사(into, to) 없이 타동사로 회사를 목적어로 취해 신입 또는 경력으로 입사하는 행위를 나타내는 최빈출 콜로케이션이다.
+> - **🔊 발음 & 연음 팁 (Pronunciation Tip)**: /dʒɔɪn ə ˈkʌmpəni/로 `join`과 관사 `a`가 부드럽게 붙어 /dʒɔɪnə/처럼 소리 난다.
+> - **📝 실전 예문 (Real Examples)**:
+>   - 🇺🇸 `When making a decision about joining a company, job seekers should thoroughly investigate its corporate culture and prospects.`
+>     - 🇰🇷 회사 입사에 대한 결정을 내릴 때, 구직자들은 회사의 기업 문화와 향후 전망에 대해 철저히 조사해야 할 것이다.
+> - **💬 대화 스크립트 (Dialogue Context)**:
+>   > **A**: Have you decided whether to accept the offer?
+>   > ↳ *제안을 수락할지 결정하셨나요?*
+>   > **B**: Not yet, I am still weighing the pros and cons of joining that firm.
+>   > ↳ *아직이요, 그 회사에 입사하는 것에 대한 장단점을 여전히 따져보고 있어요.*
+> - **🔄 패턴 응용 & 교체 연습 (Substitution Drill)**: `decide on joining + [회사명]` = ~사에 입사하기로 결정하다
+> - **⚠️ 주의사항 & 콩글리시 방지 (Pitfalls & Common Mistakes)**: `enter into a company`나 `join to a company`처럼 불필요한 전치사를 붙이지 않도록 한다. `join`은 완전 타동사이다.
+>
+> ---
+>
+> ### 7. `or` : 또는, 그렇지 않으면 (등위접속사)
+> - **💡 뉘앙스 & 상황 맥락**: 동일한 주어 뒤에서 동사구 2개를 선택적으로 대등하게 연결할 때 사용한다.
+> - **🔊 발음 & 연음 팁 (Pronunciation Tip)**: 약형 /ər/로 빠르게 발음되며 앞 단어 받침과 자연스럽게 연결된다.
+> - **📝 실전 예문 (Real Examples)**:
+>   - 🇺🇸 `We can convert all overseas profits into dollars or hold them in foreign currency in anticipation of favorable exchange rates.`
+>     - 🇰🇷 우리는 모든 해외 이익을 달러로 환산하거나, 또는 환차익을 기대하고 외국환으로 보유할 수 있다.
+> - **💬 대화 스크립트 (Dialogue Context)**:
+>   > **A**: What shall we do with our overseas profits?
+>   > ↳ *해외 수익금을 어떻게 처리할까요?*
+>   > **B**: We can convert them into dollars or retain them in foreign exchange.
+>   > ↳ *달러로 환전하거나 환율 추이를 보며 외환으로 유지할 수 있습니다.*
+> - **🔄 패턴 응용 & 교체 연습 (Substitution Drill)**: `[동사구 A] + or + [동사구 B]` = A를 하거나 B를 하다
+> - **⚠️ 주의사항 & 콩글리시 방지 (Pitfalls & Common Mistakes)**: 문맥이 양자택일의 대안 관계인데도 `and`나 `but`을 기계적으로 쓰지 않도록 의미 관계를 확인해야 한다.
+>
+> ---
+>
+> ### 8. `essential element` : 필수적인 요소
+> - **💡 뉘앙스 & 상황 맥락**: 어떤 시스템, 성공, 또는 수익 구조에서 없어서는 안 될 핵심 요소를 가리키는 정형화된 형용사-명사 콜로케이션이다.
+> - **🔊 발음 & 연음 팁 (Pronunciation Tip)**: `essential`의 강세는 2음절 /ɪˈsenʃl/, `element`의 강세는 1음절 /ˈelɪmənt/에 있다.
+> - **📝 실전 예문 (Real Examples)**:
+>   - 🇺🇸 `Overseas business travel has become an essential element in the revenue of modern airlines.`
+>     - 🇰🇷 해외 업무 출장은 현대 항공사들의 수익에서 필수적인 요소가 되었다.
+> - **💬 대화 스크립트 (Dialogue Context)**:
+>   > **A**: Why are airlines so keen on expanding business class seats?
+>   > ↳ *왜 항공사들이 비즈니스석 확대에 열을 올리죠?*
+>   > **B**: Because corporate travel is an essential element of their bottom line.
+>   > ↳ *기업 출장이 항공사 수익의 필수적인 요소이기 때문입니다.*
+> - **🔄 패턴 응용 & 교체 연습 (Substitution Drill)**: `[주어] + is an essential element of + [명사]` = ~은 …의 필수불가결한 요소이다
+> - **⚠️ 주의사항 & 콩글리시 방지 (Pitfalls & Common Mistakes)**: 사물 요소(element)를 수식할 때 감정형용사 `enthusiastic`이나 과거분사 `executed`를 오용하지 않도록 한다.
+>
+> ---
+>
+> ### 9. `schedule lectures` : 강의 일정을 정하다
+> - **💡 뉘앙스 & 상황 맥락**: 타동사 schedule의 목적어로 사람이 아닌 구체적인 행사, 강좌, 연설 등의 가산명사 복수형(lectures)을 취한다.
+> - **🔊 발음 & 연음 팁 (Pronunciation Tip)**: 미국식 발음은 /ˈskedʒuːl/, 영국식은 /ˈʃedʒuːl/로 발음된다.
+> - **📝 실전 예문 (Real Examples)**:
+>   - 🇺🇸 `The Summit Writers' Society schedules lectures to take place tomorrow at 9:00 A.M.`
+>     - 🇰🇷 최고작가협회(The Summit Writers' Society)는 내일 오전 9시에 있을 강의 일정을 정한다.
+> - **💬 대화 스크립트 (Dialogue Context)**:
+>   > **A**: Who coordinates the weekend seminar series?
+>   > ↳ *주말 세미나 시리즈는 누가 조율하나요?*
+>   > **B**: The administrative team schedules lectures well in advance.
+>   > ↳ *행정팀에서 훨씬 전부터 강연 일정을 잡습니다.*
+> - **🔄 패턴 응용 & 교체 연습 (Substitution Drill)**: `schedule + [meetings / interviews / lectures]` = 회의 / 면접 / 강의 일정을 잡다
+> - **⚠️ 주의사항 & 콩글리시 방지 (Pitfalls & Common Mistakes)**: 스케줄을 잡는 대상은 행위나 사건이지, 강사 개인(lecturers)을 목적으로 잡아 '강사를 편성하다'로 혼동하지 않도록 유의한다.
+>
+> ---
+>
+> ### 10. `deliver A to B` : A를 B로 배달/배송하다
+> - **💡 뉘앙스 & 상황 맥락**: 동사 deliver 뒤에 물품(A)이 오고 도착지(B) 앞에는 방향/도착점의 전치사 to가 필연적으로 따라붙는 전치사 콜로케이션이다.
+> - **🔊 발음 & 연음 팁 (Pronunciation Tip)**: `deliver` /dɪˈlɪvər/ 뒤에 목적어 끝소리와 전치사 `to`가 리듬감 있게 연결된다.
+> - **📝 실전 예문 (Real Examples)**:
+>   - 🇺🇸 `The supplier delivered ball bearings to the wrong warehouse, causing severe production delays.`
+>     - 🇰🇷 공급업체는 볼 베어링을 다른 창고로 배달하여 엄청난 생산 지연을 야기하였다.
+> - **💬 대화 스크립트 (Dialogue Context)**:
+>   > **A**: Why has the assembly line stopped completely?
+>   > ↳ *조립 라인이 왜 완전히 멈췄습니까?*
+>   > **B**: The supplier delivered the parts to the wrong facility by mistake.
+>   > ↳ *공급업체가 실수로 부품을 엉뚱한 시설로 배송했습니다.*
+> - **🔄 패턴 응용 & 교체 연습 (Substitution Drill)**: `deliver the order to + [목적지]` = 주문품을 ~로 배달하다
+> - **⚠️ 주의사항 & 콩글리시 방지 (Pitfalls & Common Mistakes)**: 배송 대상지 앞에 `for`나 `at`을 무분별하게 혼용하지 않고 목적지 도달의 전치사 `to`를 쓰는 것에 익숙해져야 한다.
+>
+> ---
+>
+> ### 11. `see what S + V` : 주어가 무엇을 ~할 수 있는지 확인하다
+> - **💡 뉘앙스 & 상황 맥락**: 타동사 see의 목적어 자리에 불완전한 문장(목적어 누락)을 이끄는 관계대명사/의문대명사 what이 쓰여 '~하는 것/무엇을 할지'를 의미한다.
+> - **🔊 발음 & 연음 팁 (Pronunciation Tip)**: `see what`은 /siː wʌt/로 끊김 없이 연음되어 소리 난다.
+> - **📝 실전 예문 (Real Examples)**:
+>   - 🇺🇸 `We must see what can be done about increasing employee absenteeism.`
+>     - 🇰🇷 우리는 점점 늘어나고 있는 직원들의 장기 결근에 대해 무엇을 할 수 있는지를 확인해야 한다.
+> - **💬 대화 스크립트 (Dialogue Context)**:
+>   > **A**: Absenteeism is reaching a critical level this month.
+>   > ↳ *이번 달 결근율이 심각한 수준에 도달하고 있어요.*
+>   > **B**: Let's meet with HR to see what can be done immediately.
+>   > ↳ *즉시 무엇을 조치할 수 있는지 확인하기 위해 인사팀과 만납시다.*
+> - **🔄 패턴 응용 & 교체 연습 (Substitution Drill)**: `see what we can do` = 우리가 무엇을 할 수 있는지 알아보다
+> - **⚠️ 주의사항 & 콩글리시 방지 (Pitfalls & Common Mistakes)**: 완전한 절을 이끄는 `that`이나 접속사 `if`와 구별하여 뒤에 주어나 목적어가 결손된 절에는 `what`을 쓴다.
+>
+> ---
+>
+> ### 12. `characteristics such as` : ~와 같은 특징들
+> - **💡 뉘앙스 & 상황 맥락**: 성별, 연령, 소득 등의 구체적인 속성들을 포괄하는 상위 개념명사로 `characteristics`를 쓰고 예시 도입부로 `such as`를 짝지어 쓴다.
+> - **🔊 발음 & 연음 팁 (Pronunciation Tip)**: `characteristics`는 /ˌkærəktəˈrɪstɪks/로 5음절에 강세가 온다.
+> - **📝 실전 예문 (Real Examples)**:
+>   - 🇺🇸 `The survey was based on a random sampling technique taking into account characteristics such as gender, age, and household
+
+---
+
+Actual Test 1 - Part 5
+
+101. 현재 저희 측 엔지니어 2명이 현장 업무를 나가 있지만
+
+그들은
+
+
+
+곧 이 자리에 참석할 것입니다.
+
+(D) they
+
+[해설]
+
+동사앞 주어자리. 앞의 명사 (field assignments)를 받는 대명사로 성,수,격일치에 알맞은 대명사를 묻는 문제
+
+102. 직원들은
+
+퇴근
+
+전에 잊지 말고 모든 사무실 불을 끄고 모든 컴퓨터 모니터를 덮어야 한다.
+
+(C) leaving
+
+[해설]
+
+전치사 + ~ing(before ~ing)  ~하기 전에
+
+leave for the day : 퇴근하다
+
+103. 주가는 지금보다 더 높은 적이 없었으나, 이는 사실 주가가 과대평가되고 있음을 시사하는 것일 수 있다.
+
+(C) never
+
+[해설]
+
+현재완료 (have + p.p) 중간에 들어갈 수 있는 완료형 동사사이에 부사넣기 문제. have never been : 지금까지 ~해온 적이 없다.
+
+104. 새 lathing(욋대 엮기) 기계를 보다 쉽게 이해할 수 있도록 하기 위해 직원들에게
+
+학습용
+
+
+
+비디오가 제공될 것이다.
+
+(C) Instructional
+
+[해설]
+
+명사(videos) 앞에 오는 형용사를 넣는 문제. 보기에서 instructed와 instructional중 고르는 문제. 교육되어진 (instructed)비디오가 아닌 교육용 비디오를 뜻하므로 instructional이 정답
+
+105. 몇몇 대규모 기관 투자가들이 이미 프로스틸의 주식을 인수하는 데 관심을 표시하였다. 과거에 개인 소유였던 이 회사의 주식은 이제 증권 거래소에 상장됨으로써 매매가
+
+가능하게 되었다.
+
+(D) available - 이용할 수 있는
+
+[해설]
+
+be동사뒤에 오는 서술형형용사로 ‘이용가능한, 사용가능한’을 뜻하는 available이 정답
+
+106. 회사
+
+입사
+
+에 대한 결정을 내릴 때, 구직자들은 회사의 기업 문화와 향후 전망에 대해 철저히 조사해야 할 것이다.
+
+(B) joining
+
+[해설]
+
+‘회사에 입사하다’는 뜻으로 collocation을 묻는 문제.
+
+a company라는 목적어앞에 오는 타동사와 목적어의 어휘결합관계를 묻는 문제.
+
+join a company : 회사에 입사하다,
+
+107. 우리는 모든 해외 이익을 달러로 환산하거나,
+
+또는
+
+환차익을 기대하고 외국환으로 보유할 수 있다.
+
+(D) or
+
+[해설]
+
+_____앞에 주어 (We)가 같아 생략되어 있고, 동일한 동사구 성분을 대등하게 연결하는 등위접속사를 찾는 문제. 선택적인 의미의 ‘or’이 정답
+
+108. 해외 업무 출장은 현대 항공사들의 수익에서
+
+필수적인
+
+
+
+요소가 되었다.
+
+(D) essential
+
+[해설]
+
+형용사 + 명사의 collocation문제
+
+element(요소)의 상태나 성질, 속성을 의미하는 형용사와 명사의 의미결합문제. 요소가 독점(executed)일 수 없으며, 요소가 열정적(enthusiastic)일 수 없으며, 요소가 들어올려질 (elevated)수 없다.
+
+109. 최고작가협회(The Summit Writers' Society)는 내일 오전 9시에 있을
+
+강의
+
+일정을 정한다.
+
+(A) lectures
+
+[해설]
+
+타동사 + 목적어의 collocation 문제
+
+타동사 (scheduled)의 목적어인 명사찾기문제로 계획할 수 있는 대상은 사람(lecturers)이 아닌 구체적인 사물(lectures)인 가산명사를 넣는 문제.
+
+schedules lectures. (구체적인 강연회를 계획하다)
+
+110. 공급업체는 볼 베어링을 다른 창고로 배달하여 엄청난 생산 지연을 야기하였다.
+
+(C) to
+
+[해설
+
+] 동사의 패턴문제
+
+deliver A to B : A를 B로 보내다
+
+동사 deliver를 보면 바로 전치사 to가 정답임을 알 수 있는 1초문제
+
+111. 우리는 점점 늘어나고 있는 직원들의 장기 결근에 대해
+
+무엇을
+
+
+
+할 수 있는지를 확인해야 한다.
+
+(B) what
+
+[해설]
+
+‘타동사 (see)의 목적어 + 접속사 + 주어’가 빠져있는 곳의 적당한 단어를 넣는 문제. what은 ‘the thing which’의 뜻이므로 정답.
+
+112. 설문조사는 성별, 연령 및 가구 소득과 같은
+
+
+
+특징
+
+을 고려한 무작위 표본 추출 기법에 기초하였다.
+
+(A) characteristics
+
+[해설]
+
+such as(예를 들자면)는 열거할 때 많이 사용하는 단어이다.
+
+including과 같은 의미. such as앞의 전체대표명사가, such as뒤에는 앞의 전체대표명사를 열거하는 부분명사가 온다.
+
+gender(성), age(나이), 그리고 가계소득(household income)을 다 포함할 수 있는 단어를 찾는 문제.
+
+
+
+113. 아시아태평양 지역의 매출이 지난 3년 간
+
+저조
+
+했기 때문에, 우리는 이 지역에서 전체적인 마케팅 접근방식을 혁신하기 위한 조치를 취하고 있다.
+
+(C) disappointing - 실망스러운
+
+[해설]
+
+disappoint는 감정동사로 주어가 사람일때는 과거분사가 정답사물 (sales)이므로 be동사 뒤의 형태는 능동형인 disappinting이 정답
+
+114.
+
+만약
+
+가전 시장이 계속 개선된다면, 우리는 당사의 일부 해외 공장에서 생산을 늘리는 것을 고려하고 있다.
+
+(A) If
+
+[해설]
+
+____ 주어 (the market for home appliances) + 동사 (continues)앞의 알맞은 접속사 넣기 문제로 조건적인 의미인 if가 정답
+
+115. 새 계약은 급여를 기본적으로 변동 없이 유지하면서 근무 시간을
+
+
+
+크게
+
+
+
+단축하도록 규정하고 있다.
+
+(B) significantly
+
+[해설]
+
+형용사 shorter를 수식하는 부사넣기 문제
+
+‘엄청나게, 상당하게 줄어든’의 significantly가 정답.
+
+증가나 감소를 나타내는 동사나 명사, 형용사와 결합해서 크게 오르거나 내리거나를 수식하는 부사넣기 문제.
+
+116. 그는 자신의 상사들을 위해
+
+요청
+
+내용을 서면으로 작성해야 한다.
+
+(D) request
+
+[해설]
+
+
+
+타동사 + 목적어의 collocation
+
+put the request : 요청서를 내다
+
+
+
+117. 소비자는 현재 시장에 출시되고 있는 여러 가지 하이브리드 차량 모델
+
+중에서
+
+
+
+선택할 수 있게 될 것이다.
+
+(A) from
+
+[해설]
+
+자동사 + 전치사의 패턴문제
+
+choose from : ~로부터 골라내다, 선택하다
+
+자동사 choose뒤에 오는 전치사의 결합이 이미 정해진 단어의 패턴결합을 묻는 문제.
+
+118. 강의는 인기가 매우 높기 때문에, 강의를 수강하고자 하는 학생은 모두 일찍
+
+등록
+
+하도록 권장된다.
+
+(B) enrollment
+
+[해설]
+
+suggest + enrollment
+
+타동사 suggest (~을 제안하다)의 목적어로 오는 명사를 찾는 문제
+
+119. 예산위원회는 내년도 예상 비용 중 일부가
+
+정확하게
+
+
+
+계산되지 않았다고 판단하고 해당 예측치를 담당 부서장들에게 돌려보내어 추가 검토하도록 했다.
+
+(C) accurately
+
+[해설]
+
+collocation문제
+
+calculate동사의 수동형과 어울리는 부사찾기 문제
+
+부사 + 동사의 collocation문제 ‘정확히 계산하다’
+
+120. 입주자는 상호 간 계약을 통해 다른 일정에 합의하지 않은 한 임대 기간이 만료된 후 5일 이내에 집을
+
+비워야
+
+한다.
+
+(B) vacate
+
+[해설]
+
+문법문제
+
+조동사 (must)뒤의 본동사며, 목적어 the premises를 받는 타동사의 능동형을 찾는 문제
+
+121. 부품을 방글라데시에 있는 당사 공장에서 가져와야 하기
+
+때문에
+
+
+
+해당 부품의 수령은 어느 정도 지연될 것이다.
+
+(D) since
+
+[해설]
+
+____ 주어 + 동사로 절을 취하는 전치사가 와야 하며 해설상 이유를 나타내는 접속사 since가 정답
+
+* Since 1. ‘~한 이래로’ (주절의 시제가 현재완료이면 이렇게 해석함)
+
+2. 주절의 시제가 현재완료아니면 because로 해석함
+
+
+
+122. 로덴운송서비스(Loden Freight Service)의 새 종이봉투는 매우 튼튼하며, 수첩, 구두, 그리고 심지어는 작은 옷을 넣기에
+
+알맞다.
+
+(A) ideal
+
+[해설]
+
+관사 _____ 명사 (형용사 + 명사의 collocation)
+
+관사와 명사앞의 형용사넣기문제.
+
+장소의 상태나 성질을 의미하는 ideal이 정답
+
+* an ideal place :이상적인 장소.
+
+idealistic : 이상주의자의
+
+123. 이 특정한 효소가 체내에 남아있는
+
+기간
+
+은 길지 않다.
+
+(D) duration
+
+[해설]
+
+형용사 + 명사의 collocation
+
+원래 주어뒤의 형용사 long을 한정적으로 고쳐서 long뒤에 수식받는 알맞은 명사를 찾는 문제에서 명사가 주어로 가고 한정적형용사는
+
+서술적으로 바뀐 형태.
+
+long
+
+duration
+
+: 긴 기간 ->
+
+duration
+
+is long
+
+124. 임금 상승이 반드시 인플레가 임박했음을
+
+시사하는
+
+
+
+것은 아니다.
+
+(B) indicate
+
+[해설]
+
+indicate + sth (패턴문제 - that절 패턴과 어울리는 동사찾기)
+
+모든 타동사의 sth자리에는 명사구(동명사나  to부정사), 명사절 (that절, wh절)이 올 수 있다.
+
+that S + V를 목적어로 취하는 단어 indicate가 정답.
+
+125. 유능한 발표자는 항상 청중에게 큰 소리로
+
+
+
+또박또박
+
+말한다.
+
+(D) clearly
+
+[해설]
+
+병치문제
+
+등위접속사 and앞의 부사와 병치하는 부사찾기 문제
+
+126. 우리는 고객들이 그 새로운 브랜드를
+
+선호
+
+하는지의 여부에 더욱 많은 주의를 기울여야 할 것이다.
+
+(B) preference
+
+[해설]
+
+패턴문제 (명사 + 전치사)
+
+전치사 for앞에 오는 특정명사의 결합이 이미 정해진 문제
+
+preference for ~ : for 이하에 대한 선호도
+
+127. 도시 중심이 경제적으로 침체된 상태를 유지하고 있는 반면,
+
+주변
+
+구역에서는 경기 활황을 즐기고 있다.
+
+(A) surrounding
+
+[해설]
+
+형용사 + 명사의 collocation문제
+
+지역 (areas)앞에 와서 이 명사와 어울리는 어휘의 결합을 묻는 형용사찾기 문제. surrounding areas : 주변지역
+
+128. 문의사항이나 의견이 있으시면 밤낮없이 언제나 제 핸드폰으로 연락하실 수 있습니다.
+
+(D) Should
+
+[해설]
+
+가정법 조건절의 if가 생략된 동사와 주어의 도치구문
+
+If S you should have ~ Should you have ~
+
+129. 신입사원들은 오리엔테이션 기간 동안 여러 가지 힘든 훈련 과정을
+
+거치게
+
+될 것이다.
+
+(B) undergoing
+
+[해설]
+
+알맞은 동사형넣기 문제
+
+목적어 (a variety of challenging training programs)를 받는 be동사 뒤
+
+타동사의 현재분사 (undergoing)을 찾는 문제.
+
+
+
+130. 회사의 총 지출은 $200,000,000에 달했으며, 이 중 절반은 철광석 구매비가 차지하였다.
+
+(B) which
+
+[해설]
+
+관계대명사 목적격 넣기 문제
+
+관계대명사 계속적용법의 주어 which가 정답이나 '한정사 + of (half of )' 가 앞에 삽입이 되면서 주격이 전치사 (of)의 목적격으로 바뀐 상태
+
+131. 웡 씨와 오르테가 씨에게 전화하시어 다음 주 회의 참석 가능 여부에 변동이 없는지 확인하시기 바랍니다.
+
+(A) accommodate - 수용하다
+
+[해설]
+
+목적어 (a meeting)과의 어휘결합이 정해진 타동사찾기문제
+
+로 타동사 + 목적어의 collocation을 묻는 문제.
+
+목적어 (a meeting)을 보면서 타동사 accommodate를 바로 찍는 문제
+
+accommodate a meeting : 회의에 참석하다
+
+132. 이 잡지에 게재된 모든 기사는
+
+각각의
+
+
+
+저작권을 유지합니다.
+
+(C) respective
+
+[해설]
+
+‘형용사 + 명사’의 collocation
+
+respective copyrights : 각각의 저작권
+
+133. 새 식당은 뛰어난 음식을 제공하며, 나아가 강변에 인접한 매우 경치가 좋은 장소에 위지해 있다.
+
+(D) and
+
+[해설]
+
+주어(The new restaurant)가 병치된 구조로 동사 (moreover is located)앞에 오는 등위접속사 넣기 문제
+
+134. 투자는 당시에
+
+전략적으로
+
+
+
+올바른 것이라 생각되었지만, 이후에 커다란 손실로 이어진 중요한 요인들을 감안하지 않았었다.
+
+(B) strategically
+
+[해설]
+
+‘부사 + 형용사’의 collocation문제
+
+sound와 어울리는 알맞은 부사넣기 문제
+
+135. 인상이 가능하다는
+
+
+
+추측
+
+이
+
+난무했음에도 불구하고, 금리는 변동하지 않고 있으며, 연방준비은행은 금리를 인상하겠다는 어떠한 확실한 암시도 주지 않았다.
+
+(C) speculation
+
+[해설]
+
+‘형용사 + 명사’의 collocation
+
+형용사 (widespread)와 어울리는 명사와의 어휘결합을 묻는 문제
+
+136. 이 직책은 국방부의 기밀 연구를 다루므로, 직책에 지원하는 모든 지원자는 주의 깊게
+
+심사
+
+해야 한다.
+
+(C) screened
+
+[해설]
+
+screen + sth : ~을 걸러내다, 고르다, 선별하다
+
+be동사 뒤 목적어가 없는 타동사의 수동형넣기문제
+
+137. 소책자에는 잠재적인 해외 구매자에 대한 많은
+
+정보
+
+가 수록되어 있으며, 따라서 대회 참가자들은 이를 열심이 읽었다.
+
+(A) information
+
+[해설]
+
+한정사 + 명사
+
+a great deal of (=much) information : 많은 정보
+
+138. 이 새로운 설계는 아파트 단지의 중앙 환기 시스템을
+
+통한
+
+
+
+온도 조절을 가능하게 할 것이다.
+
+(D) through
+
+[해설]
+
+알맞은 전치사 넣기문제
+
+through : 1. 공간 (~을 통과해서)
+
+2. 기간 (줄곧, 내내0
+
+central ventilation system (공간)을 수식하는 전치사 through가 정답
+
+139. 모든 신규 주식 발행은 이사회의 승인을
+
+
+
+조건으로 하며
+
+,
+
+기존의 주주들에게 커다란 타격을 주어서는 안 된다.
+
+(B) subject
+
+[해설]
+
+전치사 to앞에오는 알맞은 형용사 패턴문제
+
+be subject to sth : ~에 종속되다. 하기 쉽다
+
+140. 현재 분기 말까지 아베리오 공장에 있는 기존의 컨베이어 벨트를 대체할 더 새롭고 빠른 컨베이어 벨트를 설치할 것이다.
+
+(A) place
+
+[해설]
+
+in place of ~을 대신해서 (=instead of, on behalf of)
+
+전치사 + 명사 + 전치사의 결합이 뭉쳐진 단어의 명사찾기 문제
+
+Actual Test 1 - Part 6
+
+141.
+
+(A) committed - 전념하는, 헌신적인
+
+SUMMIT은 지속적인 진보에 대한 강한
+
+의지
+
+를 갖고 있어서 그 결과 연구개발이 언제나 가장 우선순위가 된다.
+
+[해설]
+
+동사의 패턴문제
+
+commit A to B에서 전치사 to 와 어울리는 타동사의 수동형찾기문제
+
+142.
+
+(C) in (*result in ~을 야기 시키다, ~결과에 이르다)
+
+최신 기술, 장비 및 컴퓨터 프로그램을 항상 활용하여 만든 디자인과 상품은 SUMMIT을 그 산업분야에서 새로운 발전의 최전선에 있도록 합니다.
+
+[해설]
+
+자동사 + 전치사의 패턴문제
+
+A result in B : A라는 원인이 B라는 결과를 초래하다
+
+143. (
+
+D) exceed
+
+SUMMIT는 모든 고객에게 최선의 서비스를 제공하기 위해 노력하며, 항상 모든 기대치를
+
+뛰어넘기
+
+위해 노력합니다.
+
+[해설]
+
+타동사 + 목적어의 collocation문제
+
+exceed the expectation levels : 기대치를 뛰어넘다.
+
+144.
+
+(D) ultimately
+
+우리의 목표는 당신에게 다양한 고품질의 상품을 제공하는 것이고
+
+
+
+궁극적으로
+
+귀사 사업의 효율성과 수익성을 향상시킬 지식을 제공하는 것입니다.
+
+[해설]
+
+부사 + 동사의 collocation
+
+increase를 수식하는 부사를 찾는 어휘결합문제
+
+145.
+
+(A) instead of
+
+대부분의 시간을 주차장에서 보낼 자동차를 구입하는
+
+대신에
+
+, 필요할 때 교통수단을 빌리거나 함께 쓰는 것이 경제적으로 합리적이다.
+
+[해설]
+
+보기에서 목적어를 취하는 전치사구 찾기문제
+
+양보의 의미를 나타내는 despite가 아닌 instead of가 정답
+
+146.
+
+(C) basically
+
+기본적으로
+
+이것이 바로 자동차 함께 쓰기의 의미이다.
+
+[해설]
+
+be동사 뒤 동격절 what car sharing is를 수식하는 부사찾는 품사어형문제
+
+147.
+
+(B) flexible
+
+그리고 누가 언제 그것을 사용하느냐를 정하는
+
+융통성 있는
+
+스케줄이다.
+
+[해설]
+
+형용사 + 명사의 collocation문제
+
+schedule앞에 오는 의미상 적절한 형용사 고르는 문제
+
+148.
+
+(D) payments
+
+대부분의 자동차
+
+지불금
+
+는 그것보다 많다
+
+[해설]
+
+주어인 명사로 동사와 수일치되는 복수형 명사넣기 문제
+
+149.
+
+(A) who
+
+대중은 험한 고난을 극복하고 집을 만든 개척자를 칭송했다.
+
+[해설]
+
+관계대명사 넣기 문제
+
+‘앞종뒤격’을 기억해야 한다. ___ 앞의 선행사가 the pioneer로 선행사의 종류는 사람이며 ____뒤에 overcame으로 시작해서 격은 주어가 들어가야 한다. 사람이며 주격인 who가 정답
+
+150
+
+(B) began
+
+20세기에는 19세기 후반에
+
+시작된
+
+유행이 계속되었다.
+
+[해설]
+
+관계대명사 주격 (that)뒤의 동사를 넣는 문제. 시간표시부사구 (the 20th century)가 나와 있으므로 과거시제가 적합함
+
+151.
+
+(D) raising
+
+여러 산업에서 소기업들은 충분한 자금을
+
+조성
+
+하는데 어려움을 겪었다.
+
+[해설]
+
+have trouble ~ing : ~하는데 어려움을 겪고 있다.
+
+152.
+
+(C) demanded
+
+점점 더 세련되고 유복해져 가는 인구에 의해
+
+요구되는
+
+모든 재화를 가장 효율적으로 생산하기 위한
+
+[해설]
+
+명사 goods뒤에서 명사를 수식하는 타동사의 수동분사를 넣는 문제. demand가 타동사이며 전치사 by가 이어져서 수동형이 와야 한다.
+
+Actual Test 1 - Part 7
+
+Questions 153-154 refer to the following advertisement
+
+어휘: magnificent 뛰어난 stands in -에 위치하다 core 핵심 role 역할 showcase 본보기 aquarium 수족관 fountain 분수 beauty parlor 미용실 gear 장비(=equipment)  home appliances 가정용 기기 suits 양복 한 벌 jewelry 보석 cosmetics 화장품 perfume 향수 stroller 유모차 off limits to -에게 접근이 제한된 hub 중심지 intensive 집중적인 be restricted to -에게 제한되다
+
+■ Costeff 백화점 (Sacramento 지점)
+
+■
+
+Costeff 백화점 Sacramento 지점은 지상 8층과 지하 3층의 규모를 갖춘 건물입니다. 백화점은 Sacramento의 가장 큰 사업 금융지역인 Port Avenue 중앙에 위치하고 있습니다.
+
+대형 쇼핑몰과 Apple 타워의 개관으로 인해 Sacramento의 Port Avenue는 세계적인 수준의 사업 중심지들 중 하나가 되었습니다(153).
+
+이런 환경에 위치하고 있기 때문에, Costeff 백화점은 미국인 고객과 다른 외국 방문객들의 취향을 모두 만족시키는 미국 상품을 진열한다는 데에 특별한 자부심을 갖고 있습니다.
+
+근처에는 Multi-Cinema 영화관, Metro 수족관과 Grand 놀이공원, Antonio's and Montana Seafood와 같은 유명한 음식점들이 위치해 있습니다.
+
+■8층 하늘을 배경으로 한 정원과 분수
+
+■7층 음식점, 미용실
+
+■6층 스포츠 의류, 캠핑 장비
+
+■5층 가전제품, 가구
+
+■4층 남성 여성용 정장
+
+■3층 캐주얼의류
+
+■2층 명품, 보석류 & 장신구
+
+■1층 화장품, 향수
+
+■지하1층 가벼운 음식들, 여행사, 카페, 유모차 대여 서비스
+
+■지하2층 주차장
+
+■지하3층 직원 전용 주차장 (
+
+고객들 접근 금지
+
+)(154)
+
+*외국인들을 위한 안내서는 1층에 마련되어 있습니다.
+
+153. Port Avenue가 세계적인 상업 중심지로 변모하게 된 이유는?
+
+(A) 대형 쇼핑몰의 등장으로
+
+(B) 정부의 과감한 투자로
+
+(C) 극장과 수족관 덕분에
+
+(D) 백화점의 적극적인 홍보에 힘입어
+
+정답: (A)
+
+해설: mainly due to the opening of the giant mall and the Apple Tower(거대 쇼핑몰과 Apple 타워의 개장으로 인해서)라고 언급되어 있으므로 (A)번이 정답이 된다.
+
+154. 고객들이 출입 할 수 없는 곳은 어디인가?
+
+(A) B1F
+
+(B) 8F
+
+(C) B3F
+
+(D) 4F
+
+정답: (C)
+
+해설: off-limit는 ‘접근 금지의’ 라는 뜻이다. 지하 3층은 고객들의 접근이 금지되는 직원 주차장이다.
+
+Questions 155-156 refer to the following notice
+
+어휘: submit 제출하다 further submissions 추가 제출 length 길이 regard 다루다 economics 경제학 no later than 늦어도 discussant 토론자 attendee 참석자 mandatory 의무적인 file 제출하다 in person 몸소 participant 참가자 dissertation 논문 overdue 연체된  prerequisite 미리 필요한 assembly 토론회
+
+23회 KDA의 월례회의
+
+2005년도 12월 3일 월요일 - 2005년 12월 5일 수요일
+
+Peterson 대학교, Salt Lake시, Utah주
+
+논문 모집
+
+KOPlan 개발 연구소는 23회 월례 회의에서 연구 논문을 제출할 분들을 초청합니다.(155)
+
+영어나 독어의 요약본이 이메일이나 팩스로 2005년 11월 27일까지 제출되어야만 합니다. 마감기한이 지나면 더 이상의 원고는 받지 않습니다.
+
+요약본의 길이는 500자 정도 이어야만 합니다. 어떤 연구 분야이든지 경제학과 관련된 것이면 가능합니다. 만일 제출된 논문이 승인된다면, 당신은 늦어도 2005년 11월 30일까지 이메일로 통지를 받을 것입니다. 요약본이 승인되면, 당신은 다른 회의에서 토론과 연설할 자격을 갖추게 됩니다. 참여자는 하나 이상의 논문을 제출할 수 없습니다.
+
+월례 회의에서 논문을 제출하기 위해서는, 먼저 회의를 위한 등록을 마쳐야만 함을 주의하시기 바랍니다.(156)
+
+온라인 등록 역시 가능합니다. 등록을 늦게 할 경우 더 많은 등록비를 내야 하므로 서두르시기 바랍니다.
+
+155. 이 글의 목적은 ?
+
+(A) 연례행사 후원자 모집
+
+(B) 논문 제출자 모집
+
+(C) 연체료 납부 공지
+
+(D) 회원 소개
+
+정답: (B)
+
+해설: 논문(a paper)제출자를 초대한다고 언급되어 있다.
+
+156. 논문 제출을 하기 위해 갖추어야 할 조건은?
+
+(A) 회의 연설 경험이 있어야 한다.
+
+(B) 등록을 해야 한다.
+
+(C) 경제 분야에 박식한 지식이 있어야 한다.
+
+(D) 사회적으로 유명한 인사이어야 한다.
+
+정답: (B)
+
+해설: 논문 제출 전에(in advance 이전에, 미리)등록이 필요하다고 나와 있다.
+
+Questions 157-160 refer to the following advertisement
+
+어휘: suit 충족시키다 decorative 장식용의 sight 경치 occupant 거주자 suite 특실 lakefront 호숫가에 위치한 luxuriously 호화스럽게 furnished 가구가 비치된 breathtaking 놀라운 parlor room 응접실 occasion 행사 itinerary 여행 일정
+
+어느 곳이 당신에게 가장 적합합니까?
+
+Regular Queens 실
+
+저희는 하나의 킹사이즈 침대를 갖춘 200개 이상의 Regular Queen 실을 가지고 있습니다. Regular Queen 실은 당신의 편의를 위해 화려한 둥근 탁자와 두개의 의자를 갖추고 있습니다. 출장 온 손님들은 나무 책상과 의자가 있는 Business Queen 실을 요구하기도 합니다.
+
+Greatview Queens 실
+
+이 방들은 Regular Queens 실과 사이즈나 비치된 물품은 비슷합니다.
+
+하지만 Grand 공원과 Royal 폭포, 그리고 Kanter 호수의 멋진 광경을 맛보실 수 있습니다.(159)
+
+Greatview Queens 실은 호텔의 Long Avenue쪽에 있는 3개의 건물 모두에 위치해 있습니다.
+
+Large Kings 실
+
+저희 Large Kings 실은 무척 넓은 공간을 가지고 있으며 가족들 또는 많은 사람으로 구성된 단체 손님들에게 최고의 장소입니다. 각각의 방은
+
+킹사이즈 침대 2개가 갖추어져 있으며(158),
+
+다른 다양한 가구들이 마련되어 있습니다. 300개의 실 대부분은 서쪽 건물에 위치해 있습니다.
+
+Waterfront 특실
+
+저희 호텔의 자랑은 36개의 특실이며, 그중 15개가 호숫가에 위치하고 있습니다(160)
+
+. 이 특실들은 아주 호화롭게 꾸며져 있으며, Kanter 호수와 Ries 타워 그리고 Blanche 박물관으로 이루어진 빼어난 경관이 특징입니다. 특실 안에는 응접실과 앉을 곳, 가족 모임이나 작은 파티를 열기에 적당한 곳이 마련되어 있습니다. 작은 바와 킹사이즈 침대가 있는 분리된 침실 역시 포함되어 있습니다.
+
+157. 윗글은 어디에서 발견할 수 있는가?
+
+(A) 건축 설계서
+
+(B) 여행 일정
+
+(C) 호텔 안내책자
+
+(D) 시가도
+
+정답: (C)
+
+해설: 호텔의 객실에 대한 소개이다. 따라서 (C)번의 호텔 안내 책자에 실려 있을 가능성이 가장 높다.
+
+158. 침대가 두개 놓여있는 방은 무엇인가?
+
+(A) Regular Queens
+
+(B) Large Kings
+
+(C) Greatview Queens
+
+(D) Waterfront Suites
+
+정답: (B)
+
+해설: Large Kings 실만 킹사이즈 크기의 침대 2개가 비치되어 있다. 다른 곳들은 모두 하나의 침대만이 들어가 있다.
+
+159. 공원과 호수가 보이는 객실은 무엇인가?
+
+(A) Regular Queens
+
+(B) Large Kings
+
+(C) Greatview Queens
+
+(D) Waterfront Suites
+
+정답: (C)
+
+해설: 공원과 호수가 모두 보이는 객실은 (C) Greatview Queens 뿐이다. (A)(B)는 경치에 대한 언급이 없고, (D)는 호수는 보이는데 공원은 보이지 않는다.
+
+160. 다음 중 특실과 관련된 설명으로 옳지 않은 것은?
+
+(A) 모든 객실들이 호숫가에 위치해 있다.
+
+(B) 타워와 박물관이 보인다.
+
+(C) 술 마시는 곳도 있다.
+
+(D) 침실은 거실과 구분되어 있다.
+
+정답: (A)
+
+해설: 총 36개의 객실들 중 15개만이 호숫가에 위치해 있다. 따라서 (A)번이 정답이다.
+
+Questions 161-163 refer to the following memo
+
+어휘: telecommunications 원격통신 difference 차별화  worthwhile 시간들일 가치가 있는 continuous 계속적인 surpass 초과하다 be eligible for -할 자격이 되다 be companied with -를 동반하다 assign 배정하다 consist of -로 구성되다 veteran 베테랑  be delighted to 기꺼이 -하다 enclosed 동봉된  intact 고스란히 있는 conditions 조건 fulfill -를 어기지 않다 average 평균의 attached 부착된 exceptional 각별한 regarding -에 관한 designated 지정된 representative 대표자
+
+저희 Vericom Telecommunications은 저희가 하는 노력들이 당신이 하는 일을 차별화시키며, 당신과 같은 고객들이 있기에 저희의 노력이 빛을 발한다고 믿고 있습니다.
+
+저희는 지난 3년간 당신의 지속적인 거래에 감사드립니다.
+
+당신은 저희 VIP서비스를 받기 위한 자격요건인 연간 $1500의 서비스 이용요금 기준을 초과하였으므로, 저희 Gold Members Card의 회원이 될 자격을 갖추게 되었습니다.(161)
+
+다음은 Gold Members Card 회원에게 부여되는 특권들입니다.
+
+-
+
+당신은 당신에게 할당된 개인 고객관리 서비스직원을 갖게 됩니다(163).
+
+저희 서비스팀은 서비스 경험 7년 이상의 베테랑들로 구성되어 있고 어떤 방법으로든지 그들은 당신을 돕게 된 것을 기쁘게 생각할 것입니다.
+
+-당신은 다양한 식당과 클럽 그리고
+
+극장에서
+
+Gold Members Card의 혜택들을 누리게 됩니다. (동봉된 책자에
+
+우대 서비스와 할인을 받을 수 있는(163)
+
+모든 가맹점들을 열거해놓았습니다.
+
+-
+
+당신이 Gold Card  회원인 한 당신의 총 서비스 이용요금에서 10%가 할인됩니다(163)
+
+.
+
+이러한  혜택들은 다음의 조건들이 충족되는 한 계속 유지됩니다.
+
+- 당신의 연간 평균 서비스 요금이 $1500 이하로 떨어지면 안 됩니다.
+
+- 당신은 요구된 기간 내에 모든 서비스 이용요금을 납부해야 합니다.
+
+- 당신은 이전의 모든 협정들에 동의해야 합니다.
+
+당신의 Gold Members 카드를 받으려면, 첨부된 서류를 작성해서 보내주십시오(162).
+
+당신의 멤버쉽은 당신이 카드를 받은 때부터 효력이 생깁니다.
+
+저희는 당신의 특별한 거래에 감사드립니다. 만일 저희가 당신을 도울 것이 있거나 혹은 서비스나 Gold Members 카드에 대해 궁금하거나 말하고 싶은 것이 있다면 당신의 지정 개인 고객담당 서비스 대표 에게 전화 주십시오.
+
+161. 누가 Gold Card Members 회원이 될 자격이 있는가?
+
+(A) 3년 이상 서비스를 이용해왔던 고객
+
+(B) 3달 내에 서비스 이용요금을 납부했던 고객
+
+(C) 연간 서비스 이용 요금이 일정 금액을 넘은 사람
+
+(D) 서류를 제출했던 모든 고객들
+
+정답: (C)
+
+해설: 연간 서비스 이용 요금이 $1,500를 넘어야 한다고 언급되어 있으므로 (C)가 답이 된다.
+
+162. 자격을 갖춘 고객은 어떻게 카드를 받을 수 있는가?
+
+(A) 원래 서비스 이용요금보다 10%를 더 낸다.
+
+(B) 고객 관리 서비스 대표에게 전화를 건다.
+
+(C) 3년간 서비스를 이용하는 것에 동의한다.
+
+(D) 서류를 작성해서 회사에 보낸다.
+
+정답: (D)
+
+해설: 첨부된 서류를 작성하여 다시 보내라고 언급되어 있다.
+
+163. 다음 중 Gold Members 카드를 받아서 얻게 되는 혜택이 아닌 것은 무엇인가?
+
+(A) 개인 고객 관리 서비스 직원
+
+(B) 영구적인 회원 자격
+
+(C) 이용 요금 할인
+
+(D) 영화관 할인
+
+정답: (B)
+
+해설: 회원 자격은 연간 $1,500 이상 지속적으로 납부해야 하고, 연체사실이 없는 등의 일정 조건을 갖추어야 지속된다고 하였으므로 영구적으로 회원자격이 유지된다고는 볼 수 없다.
+
+Questions 164-166 refer to the following article
+
+어휘: computerized 전산화된 advanced 진보한 adhere 고수하다 in other words 다시 말해 intricate 복잡한 demand 수요 controversial 논란의 여지가 있는 state-of-the-art 최신식의 conservative 보수적인 hail 환호하다 innovative 혁신적인 nickel-hydrogen 니켈수소의 be charged 충전되다 depot 정거장  statistics 통계 predict 예측하다 praise 칭찬하다 run 운행하다 extension 연장 compatible 호환 가능한
+
+미네소타  Royal Falls의 전산화된
+
+버스 시스템(CBS)은 세계에서 가장 앞서는 대중교통 시스템이다(164).
+
+CBS는 빠르고 깨끗하며,
+
+무엇보다도 효율적이다(166).
+
+72년 동안, Royal Falls는 전 세계적으로 사용되는 것과 유사한 버스 시스템을 고수해왔다. 다시 말해서, 대중교통의 높은 수요를 처리할 수 있는 복잡한 시스템이 없었다. 그러던 작년, George Flemm시장이 많은 논쟁의 여지가 있는 최신의 버스시스템을 Royal Falls에 소개했다. 많은 보수적인관계자들의 반대에도 불구하고 CBS는 Royal Falls의 가장 혁신적인 성공으로 받아들여지고 있다.
+
+모든 버스는 버스 충전소에서 3시간 안에 가득 충전되는 니켈-수소 전지로 운행되고, 일정 지역마다 필요한 수만큼 성공적으로 할당하기 위해 얼마나 많은 버스가 필요한지 예측해주는 전산화된 통계 시설에 의해 관리되어 진다. 많은 환경전문가들과 시민들은 시간을 절약해주고
+
+환경을 오염시키지 않는 새로운 시스템(166)
+
+을 매우 좋게 평가한다.
+
+버스는
+
+종전 오전 6:30에서 오후11:00까지에서 연장되어 오전 6시부터 새벽 1시까지 운행(165)
+
+되고,
+
+무인교통카드(ATC)를 사용하면, 두 시간 이내의 환승은 무료다(166).
+
+164. 기사에 의하면, CBS는 무엇인가?
+
+(A) 방송국
+
+(B) 수소 자동차
+
+(C) 컴퓨터
+
+(D) 근대의 교통 시스템
+
+정답: (D)
+
+해설: 세계에서 가장 근대화된 교통 시스템이라고 하고 있다. advanced 근대화된
+
+165. CBS는 얼마나 오랫동안 연장되는가?
+
+(A) 30분
+
+(B) 1시간
+
+(C) 2시간
+
+(D) 2시간 30분
+
+정답: (D)
+
+해설: 오후 6시30분부터 오후 11시까지 하던 것을 오후 6시부터 새벽 1시까지 한다고 하였으므로 오전에 30분, 오후에 2시간 연장되어 총 2시간 30분 연장이 된다.
+
+166. CBS의 장점이 아닌 것은?
+
+(A) 환경 친화적이다.
+
+(B) 매우 효율적이다.
+
+(C) 안전하다.
+
+(D) ATC와 호환된다.
+
+정답: (C)
+
+해설: 환경 친화적이고(doesn't pollute the environment) 효율적이며(effective) ATC를 사용하면 2시간 이내 환승시 무료라고 하였으므로(A)(B)(D)번은 맞는 말이다. (C)의 안전성에 대한 언급은 없다.
+
+Questions 167-169 refer to the following advertisement
+
+어휘: unbearable 참을 수 없는 insane 미친  purchase 구매  certificate 증명서 amplifier 증폭기 insanely 비상식적으로  install 설치하다  absolutely 절대적으로  guarantee 보증 be willing to 기꺼이 -하다
+
+last 지속되다
+
+fly off 날아가다, 증발하다  a nominal fee 보잘 것 없는 보수
+
+스테레오의 엄청난 할인 판매
+
+이번에 Crazy Eddie가 마침내 질렀습니다. 이 열기는 참을 수 없을 정도이고, Crazy Eddie는 다시 한번 미쳤습니다.
+
+이번 금요일 시작해서 주말 기간 동안(167)
+
+, 모든 상점이 40% 가격할인을 하고, 만일 당신이 이 광고를 제품구입시 보여준다면, Crazy Eddie는 Music Land에서  CD 두장 받을 수 있는 교환권을 드릴 것입니다.
+
+단지 스테레오만이 아닙니다. 모든 앰프와 마이크 그리고 다른 녹음 장비들도 이 엄청난 스테레오 할인 기간동안 정가의 반값만 받습니다. 또한 모든 자동차 오디오 장비들은 이미 엄청나게 싼 저희의 가격에서 또  60%를 할인 받습니다. 여기에서 끝나지 않습니다. Crazy Eddie는 또한 모든 자동차 오디오를 절대 무료로 설치해드립니다.
+
+이런 것들로 저희의 Ultimate-Price 보증 서비스가 없어진다는 것을 의미합니까? 절대 아닙니다.
+
+항상 그렇듯이 Crazy Eddie는 저희 상점보다 더 낮은 상점과 가격을 맞추고, 무료 CD 교환권 역시 보내드릴 것입니다(168,169)
+
+.
+
+미시간주에 있는 사람이라면 누구든지 저희보다 낮은 가격을 경험해 보지는 못할 것입니다. 왜냐하면 저희는 가격 비교에 있어서조차 완전히 미쳤기 때문입니다.(169)
+
+이 미친 가격세일은 3월 17일 까지만 계속됩니다(167).
+
+서둘러 Crazy Eddie에 오셔서 이 미친 행사에 동참하시기 바랍니다. 엄청난 스테레오 세일이 여기 있습니다. 그리고 Crazy Eddie는 제품들이 원하는 것처럼  어서 이 선반들을 떠나 날아갈 수 있기를 바랍니다. 어떤 종류의 스테레오나 녹음기구가 필요하시던지 간에 Crazy Eddie에는 있습니다.
+
+167. 언제 엄청난 스테레오 세일이 시작되는가?
+
+(A) 3월 14일
+
+(B) 3월 15일
+
+(C) 3월 16일
+
+(D) 3월 17일
+
+정답: (B)
+
+해설: 세일은 금요일부터 시작해서 주말까지 계속된다고 하였으므로 세일기간은 금요일부터 일요일까지이다. 지문에서 세일은 3월 17일까지만 계속된다는 정보가 언급되어 있으므로 3월 17일은 일요일이 될 것이고, 결국 세일이 시작하는 금요일은 3월 15일이 되는 것이다.
+
+168. Ultimate Price가 보증하는 것은 무엇인가?
+
+(A) Crazy Eddie는 자동차 오디오를 60%할인해 줄 것이다.
+
+(B) Crazy Eddie는 고객에게 가격결정권을 줄 것이다.
+
+(C) Crazy Eddie는 자동차 오디오를 실비만 받고 설치해줄 것이다.
+
+(D) Crazy Eddie 는 다른 경쟁자와 가격을 맞추기 위해 가격을 인하할 것이다.
+
+정답: (D)
+
+해설: Ultimate-price는 다른 경쟁자가 자기보다 낮은 가격에 팔 경우 그 낮은 가격으로 Crazy-Eddie의 물품 가격을 인하한다는 것이다. 즉, 최저가격 판매제도를 의미한다. 따라서 이것이 보증하는 것은 (D)이다.
+
+169. 만일 미시간주에 있는 경쟁자가 $300 짜리 자동차 오디오를 $100에 판다면, Crazy Eddie에서는 그것이 얼마이겠는가?
+
+(A) $180이하
+
+(B) $300이상
+
+(C) $100이하
+
+(D) $120이상
+
+정답: (C)
+
+해설: Ultimate-Price제도에 의해 최저가격으로 판매를 하는 것이 Crazy Eddie의 정책이므로 $300 짜리 물건이라 하더라도 가격을 $100로 파는 경쟁자가 있다면 그 경쟁회사의 가격대로 제품 가격을 인하할 것이다. 그리고 만일 다른 경쟁자가 그보다 더 낮은 가격에 팔고 있을 경우에는 다시 그 경쟁자의 가격으로 Carzy Eddie의 제품 가격을 인하할 것이다.
+
+Questions 170-172 refer to the following letter
+
+어휘: fierce competition 치열한 경쟁 intern 인턴사원 completion 끝마침 official 공식적인  be required to do -할 것이 요구되다 work overtime 연장 근무하다 reimburse 상환하다, 보상하다 at a rate of -만큼의 비용으로 enclosed 동봉된 contract 계약 no later than 늦어도 paycheck 봉급 besides 그뿐만 아니라 keep in mind 기억하다 evaluate 평가하다 progress 추이, 진행과정 further 연장하다 immediate supervisor 직속상관 accounting department 회계부 personnel 인사부 application 지원서 recommendation 추천 submit 제출하다 permanent employment 완전 고용
+
+Antonio Wire 뉴스 통신사
+
+1369 Park Ave.
+
+New York, NY 10101
+
+Ms. Julia Rogers
+
+1622 Carl St.
+
+New York, NY 10434
+
+2005년 7월 2일
+
+Rogers양,
+
+축하합니다. 귀하께서는 치열한 경쟁을 뚫고 Antonio Wire 통신사의 인턴으로 뽑히게 되었습니다.(170)
+
+
+
+이번 여름 인턴과정은 8월 5일부터 9월 4일까지 한 달간 진행될 예정이며, 인턴과정을 훌륭하게 마치신 분들 중 10명을 회사의 정식 직원으로 채용할 계획입니다. 인턴 기간동안 당신은 오전 7시 45분 이전에 사무실에 도착해야 하고 대부분 오후 5시까지 근무하며, 거의 금요일마다 야근을 해야 할 것입니다. 당신의 야근 수당은 시간당 45달러로 충분히 보상받을 것입니다.
+
+이 편지에는 회사 소개, 인턴 기간 중 하게 될 일, 그리고 인턴 계약서가 동봉되어 있습니다. 동봉된
+
+계약서에 서명하여 저희에게 7월 15일전까지 보내십시오(171)
+
+. 당신은 인턴기간동안 정식사원 봉급의 50% 수준인 봉급 $1000를 받게 될 것입니다. 당신은 봉급 이외에 국내 최고의 전문가들과 함께 일을 할 수 있는 기회를 갖게 될 것이며, 그들로부터 전반적인 업무 체계와  함께 새로운 기술을 배울 수 있을 것입니다.  당신이 공식적으로 이곳의 고용자는 아니지만 당신은 경과를 평가받을 것이고, 저희와 계속 일을 하고 싶다면 좋은 평가 보고서가 도움이 될 것이란 점을 명심하십시오.
+
+당신의 직속상관은 공인회계사인 Levine씨입니다. 인턴생활에 관해 궁금한 사항 있으시면 (296)521-4519로 그에게 연락하세요.
+
+우리는 당신이 Antonio Wire 뉴스 통신사의 회계부에 들어와 같이 일하게 된 것을 진심으로 기쁘게 생각합니다.(172)
+
+안녕히 계세요,
+
+Joseph Parker
+
+인사부장
+
+170. 위 글은 어떤 종류의 글인가?
+
+(A) 입사 지원서
+
+(B) 구인 광고
+
+(C) 합격 통지서
+
+(D) 추천서
+
+정답: (C)
+
+해설: 인턴으로 선발된 사원에게 합격사실을 공지하며 앞으로의 일정에 대해 설명하고 있는 편지다. 따라서 (C)번이 가장 적절한 답이다.
+
+171. Rogers양은 언제까지 그녀의 사인이 있는 계약서를 제출해야 하는가?
+
+(A) 7월 2일
+
+(B) 7월 15일
+
+(C) 7월 28일
+
+(D) 11월 15일
+
+정답: (B)
+
+해설: 7월 15일 전까지 보내라고 언급되어 있다. no later than 늦어도
+
+172. 다음 중 사실이 아닌 것은?
+
+(A) 정식 직원들은 매달 $2000를 받는다.
+
+(B) Rogers 양은 질문이 있을 경우 Levine 씨에게 연락할 수 있다.
+
+(C) Rogers 양은 인사부에서 일한다.
+
+(D) 인턴생활을 잘 하면 정식 직원으로 고용될 수도 있다.
+
+정답: (C)
+
+해설: Rogers 양은 회계부에서 일하게 된다. 인사부장이 편지를 보냈다는 것을 제외하고는 인사부와 관련된 내용은 편지에 언급되어 있지 않다.
+
+Questions 173-176 refer to the following letter
+
+어휘: required course 필수 코스 devoted 헌신적인 organized 조직된 in detail 자세히 vast 방대한 dominate 지배하다 grade 학점 theme 주제 constitutional law 헌법 cover 다루다 open-end question 개방형 질문 do curve 상대평가하다 credit 점수 feel free to do 마음껏 -하다 objective 목적
+
+Holmes 군에게
+
+'법에 관한 주제' 들은 경영을 전공하는 모든 학생들의 필수과목중 하나이지. 나는 Grant 박사에게 그 수업을 들었고 그를 너의 법학 교수로 역시 추천하고 싶다(173).
+
+그는 UCLA에서 15년 이상 학생들을 가르쳤던 헌신적인 선생님이야. 그는 경험이 많고 그가 하는 일에 대해 매우 박식하더군. 그의 강의는 무척 조직적이고 계획적이며, 항상 파워포인트로 진행된다. 그는 강의하는 동안, 너에게 네가 알고 싶어 하는 모든 것들을 가장 세밀한 부분들까지 가르쳐줄 것이고 너는 아마도 엄청난 양의 노트들을 가지게 될 수 있을 거야. 게다가 그는 극소수의 몇몇 활동적인 학생들이 전체 수업을 지배하는 것 보다는 모든 사람들에게 질문에 답하고 수업에 참여할 수 있는 기회를 주기 좋아하지. 네가 수업시간에 받아 적고 교과서의 관련분야에서 발췌한 노트들이 좋은 학점을 받기 위해 공부해야만 하는 가장 중요한 것들이야. 교실 밖에서는 엄청난 양의 숙제와 읽을 것들이 있어.
+
+수업 내내 우리는 인간의 권리, 범죄자, 헌법, 그리고 생명이라는 4개의 주제를 다뤘어. 처음 세 개의 주제에 대해서는 6번의 시험이 있고 마지막 기말고사는 모든 주제를 다루더라.(174) 모든 시험들은 개방형 질문으로 구성되어 있고(176),
+
+시험의 난이도는 높은 편에 속해. 그리고 또한 때맞춰 제출해야 하는 두개의 전공 관련 레포트도 있어.
+
+비록 내가 그는 학점을 잘 준다고 말할 수는 없지만(173-C)
+
+그는 모든 시험을 상대평가 방식으로 평가하고 우리의 학점을 올려주기 위한 추가 점수를 적당히 주곤 했어.
+
+질문이 있으면 나에게 이메일을 보내거나 내 연구실로 찾아와. (
+
+나는 이메일박스를 2일에 한번씩 확인하고(175)
+
+네가 보낸 메일에는 반드시 답장을 해줄게.) 나는 그의 수업에서 A+를 받았어. 내가 하고 싶은 말은 그의 수업을 빈틈없이 따라가고 공부를 많은 시간 정기적으로 하라는 거야. 그러면 너는 아마 분명 잘 할 수 있을 거다.
+
+그럼 행운을 빈다.
+
+선배 Chris Benson으로부터
+
+173. 윗글을 쓴 목적은?
+
+(A) 신입생에게 학교시설물 소개
+
+(B) 좋은 두뇌를 가진 선배 소개
+
+(C) 쉽게 학점을 딸 수 있는 강의 소개
+
+(D) 한 교수와 그의 강의 소개
+
+정답: (D)
+
+해설: 윗글은 필수과목을 가르치는 교수와 그의 수업에 관한 소개이다. 본문에서 학점을 잘 준다고 말할 수는 없다(Although I can not say that he gives out generous grades)고 했으므로 (C)는 답이 될 수 없다.
+
+174. 다음 중 시험을 여러 번 보는 주제가 아닌 것은?
+
+(A) 인권
+
+(B) 범죄자
+
+(C) 헌법
+
+(D) 생명
+
+정답: (D)
+
+해설: 처음의 세 주제는 시험을 6번 보고 마지막 기말고사만 모든 주제를 다룬다고 하였으므로, 생명에 관한 내용은 기말고사 때 한번만 시험을 보게 된다.
+
+
+
+175. Mr. Benson 에 대한 설명으로 틀린 것은?
+
+(A) Dr. Grant의 강의에서 좋은 성적을 거두었다.
+
+(B) Dr. Grant의 강의를 수강할 것을 추천하고 있다.
+
+(C) 이메일을 매일 확인 한다.
+
+(D) Mr. Holmes 의 선배이다.
+
+정답: (C)
+
+해설: 메일은 2일에 한번씩 확인한다고 하였다. every other day ‘이틀에 한번’ 이라는 뜻으로 every two days 와 동의어이다.
+
+176. Dr. Grant의 수업에 대한 설명으로 옳지 않은 것은?
+
+(A) 학점 따기가 쉽지는 않다.
+
+(B) 시험을 여러 번 본다.
+
+(C) 시험문제는 단답형으로 낸다.
+
+(D) 상대평가로 성적을 매긴다.
+
+정답: (C)
+
+해설: 시험문제는 개방형 질문(open-ended questions)으로 낸다고 하였다. 개방형 질문이란 단답형 질문과는 달리 질문 상대방에게 더욱 포괄적이고 긴대답을 요구하는 질문이다. 따라서 답은 (C)번이 된다. (D)와 관련해 본문에서는 do curves 라는 어구로 ‘상대평가를 하다.’ 라는 의미를 표현했다.
+
+Questions 177-180 refer to the following notice
+
+어휘: terms and conditions 계약조건 admission 입장 residence 거주지 be subject to -에 복속하다, 따르다 availability 이용도 terms 조건 resale 전매 alteration 변형 deface 훼손하다 render A B A를 B 되게 하다 void 무효인 third party (당사자 아닌) 제3자 admit 입장을 허락하다 presentation 제시 valid 유효한 reserve 남겨두다 discretion 결정권 disruptive 파괴적인 forthwith 즉시 belongings 소지품 unattended 방치된 be accompanied by -을 동반하다 consumption 소비 exclude 배재하다 liability for -에 대한 책임  negligence 부주의
+
+판매 조건
+
+여왕의 공식 거주지에 들어갈 수 있는 티켓은(177)
+
+RCEL에서 발급되고, 이용 가능하며, 다음의 조건들을 포함하는 RCEL의 모든 조항들을 따릅니다.
+
+1. 티켓은 구입 후 교환이나 환불 또는 교체될 수 없습니다.
+
+2. 티켓의 재판매나 어떤 변형 혹은 손상이 있을 경우 티켓은 무효가 됩니다. 티켓은 다시 팔 수 없습니다.
+
+티켓은 제 3자에게 선물의 형식으로 양도될 수는 있습니다(178).
+
+3. 티켓 소지자는 유효한 티켓을 제시하는 즉시 입장이 허용됩니다. RCEL은 어떤 사람에게든지 이유를 고지하지 아니하고 입장을 거부할 수 있는 독자적인 권리를 가지고 있습니다. RCEL은 어떤 방식으로든 방해되는 행위를 하는 방문객에게는 즉시 왕의 집과 땅을 떠나라고 요구할 수 있습니다.
+
+4. 안전상의 이유로, 방문객들과 그들의 물건들은 안전 검사를 받아야 합니다. 방문객의 물건들은 내버려둔 채로 방치될 수 없습니다.
+
+5. 12세 이하의 모든 어린이들은 티켓을 소지한 어른과 동행해야만 합니다.
+
+6. 사진과 필름 그리고 비디오장비의 사용은 건물 내부에서 엄격하게 금지되어 있습니다.
+
+상업용도 이외의 사진촬영은 야외에서 허용됩니다.(179)
+
+모든 휴대폰은 건물 안에 있는 동안 꺼야 합니다. 흡연과 음식, 음료수의 섭취는 건물 안에서 엄격히 제한됩니다.
+
+7. 죽거나 다치는 경우를 제외하고는 RCEL은
+
+티켓 소지인의 과실로 인한 어떤 손실이나 손해에 대해서 책임지지 않습니다(180).
+
+그리고 불가항력적인 상황으로 인한 손실이나 손해에 대해서도 위험부담을 지지 않습니다.
+
+177. 윗글에서 설명하고 있는 티켓은 어떤 티켓인가?
+
+(A) 항공기 티켓
+
+(B) 관광지 입장 티켓
+
+(C) 영화관 티켓
+
+(D) 기차티켓
+
+정답: (B)
+
+해설: 여왕이 사는 공식 거처라고 언급되어 있으므로 관광지 입장티켓이다.
+
+178. 다음 중 구입한 티켓의 효력이 계속 유지되는 경우는 언제인가?
+
+(A) 티켓을 다른 사람에게 다시 팔았을　때
+
+(B) 티켓을 손상시켰을 때
+
+(C) 티켓을 다른 사람에게 무료로 주었을 때
+
+(D) 티켓에 적혀진 내용을 고쳤을 때
+
+정답: (C)
+
+해설: 티켓은 재판매 하거나 손상, 변형 등을 가하면 안 되지만 제3자에게 선물의 형식(by way of gift)으로는 양도될 수 있다고 하였다. 선물은 무료로 주는 것이므로 (C)번이 답이 된다.
+
+179. 다음 중 윗글의 내용과 일치하지 않는 것은?
+
+(A) 어린이는 티켓을 소지한 보호자와 동행하여야 한다.
+
+(B) 입장 전에 가지고 있는 짐을 검사한다.
+
+(C) 어느 곳에서나 사진 찍는 것이 자유롭게 허용된다.
+
+(D) 이유를 밝히지 않고서도 관광객을 입장시키지 않을 수도 있다.
+
+정답: (C)
+
+해설: 실내에서는 사진촬영이 엄격히 금지되고 야외에서는 상업용이 아닌 한 촬영이 허용된다고 하였다.
+
+180. 관광객 자신의 부주의로 인해 물건을 잃어버렸을 경우 어떻게 해야 하는가?
+
+(A) 구입한 티켓의 환불을 요구한다.
+
+(B) 잃어버린 물건에 대한 배상을 받을 수 있다.
+
+(C) 법이 정한 몇몇의 경우에만 배상을 받을 수 있다.
+
+(D) 배상을 전혀 받을 수 없다.
+
+정답: (D)
+
+해설: 개인의 부주의로 인한 손해에 대해서는 RCEL은 어떤 책임도 지지 않는다(exclude liability)고 하였으므로 어떤 보상도 받을 수 없다.
+
+Questions 181-185 refer to the following invitation and schedule
+
+어휘 : be founded 설립되다 establishment day 설립일 stimulate 자극하다 thirst 갈증 unfailingly 변치 않고 eminent 저명한 on average 평균적으로 chemistry 화학 physics 물리학 economics 경제학 take the maximum advantage of 최대한 이용하다 can't-miss opportunity 놓칠 수 없는 기회 invaluable 엄청난 가치의 trend 경향 prospects 전망 supper 저녁식사 alternative resources 대체자원 audio-visual materials 시청각 자료 relief 구제 developed country 선진국 conferment 수여 arrangements 행사 simultaneous interpretations 동시통역 summit 정상
+
+매우 특별한 행사에 당신을 초대합니다.
+
+British America 대학교는 1655년에 설립되었고 지금 자랑스럽게 개교기념일을 축하하게 되었습니다.
+
+개교기념일을 축하함과 동시에 학교의 지속적인 학문적 호기심을 자극하기 위해 마련된
+
+이 강의 시리즈는 올해로 10년째 계속되고 있는 연례 행사로서 올해도 어김없이(181)
+
+훌륭한 학자들을 모시고 열 수 있게 되어 매우 영광으로 생각합니다. 특별히 올해 강연에 초대되는 분들은 모두 노벨상을 수상한 학자들로서 이런 석학들과 함께 소중한 시간을 보낼 수 있다는 것에 큰 자부심을 느낍니다.
+
+1년 동안 평균 한달에 한번정도(182)
+
+화학과 물리학 문학 경제학 의학 분야의 저명한 학자들의 강의가 열립니다. 모든 이들이 저명한 학자들의 이 소중한 강의를 들을 놓칠 수 없는 기회를 최대한 이용할 수 있도록 하기 위해 일반 대중들에게도 역시 공개됩니다.
+
+-------------------------------------------------------------------------
+
+유명 학자 강연 일정표(봄 학기)
+
+3월
+
+Scott Henderson교수 (노벨 물리학상 2000년도 수상자, University of Iowa)
+
+‘현대 물리학의 흐름과 전망’
+
+*강의 후 질의응답시간 있음, 저녁식사제공
+
+4월
+
+Henry Jordan박사 (노벨 화학상 2003년도 수상자, Academia Hanlim 원장, 스위스)
+
+‘환경오염과 대체 에너지’
+
+*시청각 자료를 이용한 강의 예정,
+
+화학과 학생들은 필수적으로 참석해야 함(183)
+
+5월
+
+Hoshino Danaka박사 (노벨 경제학상 2002년도 수상자, the United Nations 사무총장) ‘빈민 구제와 선진국의 역할’
+
+*강의 후, Dr. Danaka의 명예박사 학위 수여식 예정
+
+6월
+
+Kim Hyung Suk교수 (
+
+노벨 문학상 2004년도 수상자(185)
+
+, University of Santa Maria, Philadelphia)
+
+‘훌륭한 작가가 되기 위해 알아야 할 기술들’
+
+*강의 후 Philadelphia 대학과의 학생교류협정 체결식 예정, Prof. Kim의 작품 설명회 예정
+
+-모든 강의는 영어로 진행되며, 불어, 일본어, 독어, 한국어로 동시통역됩니다(184).
+
+
+
+-강의 도중 사진촬영이나 강의의 녹음, 녹화는 엄격히 금지됩니다.
+
+-1층 안내데스크에서 강의내용의 요약본를 배부하오니 필요하신 분은 가져가시기 바랍니다.
+
+181. 윗글은 어떤 행사에 대한 소개인가?
+
+(A) 노벨상 시상식
+
+(B) 교내 정기행사
+
+(C) 정상 회담
+
+(D) 유명작가가 쓴 책 소개
+
+정답: (B)
+
+해설: 이 강의 시리즈는 올해로 10년째 계속되고 있는 연례행사라고 했으므로 (B)번이 정답이 된다.
+
+182. 위 행사와 관련해 옳지 않은 것은?
+
+(A) 이 행사는 매년 특별한 날을 기념하기 위한 것이다.
+
+(B) 어느 누구나 참석 가능하다.
+
+(C) 세계적으로 권위 있는 상을 받은 학자들이 강연을 하러 온다.
+
+(D) 1년 동안 4번의 강의가 있을 예정이다.
+
+정답: (D)
+
+해설: 보통 한달에 한번씩 강의가 열릴 예정이라고 하였으므로(
+
+on average one lecture from a renowned scholar per month)
+
+1년 동안 12번 정도의 강의가 있을 것이다. 위 일정표에 나온 4번의 강연은 봄 학기(spring session)에만 해당하는 것이다.
+
+
+
+183. 다음 중 특정 학생들이 반드시 들어야 하는 강좌는 무엇인가?
+
+(A) 물리학의 미래
+
+(B) 환경과 에너지
+
+(C) 선진국의 책임
+
+(D) 훌륭한 작가가 되기 위한 방법
+
+정답: (B)
+
+해설: 화학과 학생들은 Environmental Pollution and Alternative Resources’ 강좌를 필수적으로 들어야 한다고 하였다.
+
+184. 강의를 들을 때 주의해야 할 사항으로 언급된 것은?
+
+(A) 사진촬영을 하지 말아야 한다.
+
+(B) 핸드폰을 꺼둔다.
+
+(C) 영어로 진행되는 강의이므로 참석자는 반드시 영어에 능통해야 한다.
+
+(D) 강의 요약본을 구입해서 들어야 한다.
+
+정답: (A)
+
+해설: 사진촬영은 금지된다고 언급되어 있다. 핸드폰에 관한 언급은 본문에 없고, 영어로 강의가 진행되지만 불어, 일본어, 한국어로 동시통역 되므로 반드시 영어에 능통해야만 하는 것은 아니다. 강의 요약본은 필요한 사람만 가져가라고 했으므로 구입해야하는 것은 아니다.
+
+185. 가장 최근에 상을 탄 사람은 누구인가?
+
+(A) Scott Henderson
+
+(B) Hoshino Danaka
+
+(C) Kim Hyung Suk
+
+(D) Henry Jordan
+
+정답: (C)
+
+해설: Kim Hyung Suk 교수가 04년에 노벨상을 탔으므로 가장 최근의 수상자다.
+
+Questions 186-190 refer to the following advertisement and article
+
+어휘: capability 성능 sensitive 민감한 be equipped with -로 갖춰지다 telescopic 원거리의 handling 취급 fiberglass 유리섬유 covering 덮개 outdoorsman 주로 밖에서 시간을 보내는 사람  new era 새 시대 innovative 혁신적인 remarkable 주목할 만한 precision 정밀도 enterprisers 기업가 relatively 비교적 massive 대량의 microscope 망원경 infrared 적외선의 aerial 공중의 zooming 줌기능, 확대기능 accuracy 정확도 popularity 대중성 convenience 편리함
+
+"이것은 카메라 산업에 있어서 가장 큰 업적이다. “
+
+-Susan Brinkhorne, 세계적 명성을 가진 사진사-
+
+“처음엔 이것의 능력을 믿기 어려웠지만, 그러나 이제 이것은 전부대의 군사용사진의 표준이다.”
+
+-Brutus "Maddog" Warnham, 군 사진사-
+
+Microline 렌즈는 장거리사진을 찍는데 적합한 매우 민감한 카메라 렌즈입니다(186,187).
+
+
+
+이것은 일반 카메라 렌즈보다 8배나 가까이 줌을 할 수 있는 고성능 망원경의 줌기능을 갖추고 있습니다(187,188)
+
+. 또한 많은 전문가들에 의해 렌즈를 다루는데 문제점이 거의 없다고 증명되었습니다. 이 렌즈는 품질이 우수할 뿐만 아니라 유리섬유로 덮여 있어서 야외 작업을 하는 사람들이 쓰기에도 매우 강합니다.
+
+------------------------------------------------------------------------------
+
+혁신적인 기술로 렌즈의 새 시대를 열다
+
+최근 한 중소기업에서 3년간의 연구와 개발 끝에 발표한 카메라 렌즈가 시장에서 좋은 반응을 얻고 있습니다.
+
+Microline 렌즈라 불리는 이 렌즈는 뛰어난 줌기능과 간편한 조작방법으로 카메라 제조업자들과 기업들로부터 호평을 얻고 있는 실정입니다(186)
+
+. 또한 이 렌즈는 군사용으로도 사용 가능할 정도로 뛰어난
+
+정밀도(190)
+
+를 자랑합니다. 이 렌즈의 연구개발을 맡은 책임자
+
+Russel 씨는 그의 직장인 Boston 대학 교수직을 사임하고 지난 3년간 이 렌즈의 연구개발에만 몰두해(189)
+
+비교적 단기간에 이와 같은 소기의 성과를 달성하게 되었습니다. 이 렌즈는 앞으로 전 세계 100여 개국에 수출될 예정이며, 효율적인 대량생산을 위해 홍콩과 일본 그리고 호주에는 현지 공장도 세울 계획으로 있습니다.
+
+186. 무엇이 광고되고 있는가?
+
+(A) 디지털 카메라
+
+(B) 캠코더
+
+(C) 렌즈
+
+(D) 현미경
+
+정답: (C)
+
+해설: 얼핏 보면 카메라를 선전하는 것으로 착각할 수도 있다. 하지만 카메라에 들어가는 렌즈를 광고하고 있는 것이다.
+
+187. 다음 중 Microline 렌즈로 찍기에 가장 적합한 것은 무엇인가?
+
+(A) 실내 촬영
+
+(B) 적외선 사진
+
+(C) 헬리콥터에서의 항공사진
+
+(D) 야간 촬영
+
+정답: (C)
+
+해설: 이 렌즈는 뛰어난 줌기능을 가지고 있어서 야외촬영이나 원거리 촬영에 적합하다고 언급되어 있다. 따라서 이 렌즈로 찍기에 가장 적합한 촬영은 가장 원거리에서 찍게 되는 (C)번의 항공촬영이 된다. (B)번이나 (D)번처럼 적외선이나 야간촬영에 관한 언급은 없다.
+
+188. 이 렌즈의 장점은 무엇인가?
+
+(A) 무게가 가볍다.
+
+(B) 가격이 싸다.
+
+(C) 줌기능이 뛰어나다.
+
+(D) 크기가 작다.
+
+정답: (C)
+
+해설: 8배 정도까지 줌을 할 수 있는 기능이 있다고 언급되고 있다.
+
+189. 윗글과 일치하지 않는 것은?
+
+(A) 이 렌즈는 일반카메라보다 줌 기능이 뛰어나다.
+
+(B) 렌즈는 현재 많이 팔리고 있다.
+
+(C) Russel씨는 부업으로 렌즈개발에 참여했다.
+
+(D) 이 렌즈는 세계 곳곳에서 이용될 것이다.
+
+정답: (C)
+
+해설: Russel 씨는 대학 교수직을 사임하고 3년간 연구에만 몰두해 렌즈를 개발했다고 언급되어 있다. 따라서 부업으로 렌즈개발에 참여했다는 것은 틀린 말이 된다.
+
+
+
+190. 두 번째 글, 네 번째 줄에 있는 단어 'precision'과 가장 가까운 의미를 가지는 것은?
+
+(A) 제품
+
+(B) 정확도
+
+(C) 대중성
+
+(D) 편리함
+
+정답: (B)
+
+해설: precision은 ‘정확도, 정밀도’(=the quality of being accurate and exact)의 뜻을 가진다. 따라서 보기에서 이와 가장 비슷한 의미를 가지는 것은 (B)번의 accuracy(정확도)가 된다.
+
+Questions 191-195 refer to the following two advertisements
+
+어휘: affiliate 계열사 anchor 앵커, 뉴스 진행자 prominent 전도유망한 lead by example 본보기를 보이다 journalist 방송인 willingness 자진해서 하는 마음씨 dedicate 헌신하다 bilingual 2개 국어를 구사하는 be treated considerately 우대되다 send in 제출하다 apply for 지원하다 job opening 빈자리 reporter 기자 confident 자신감 있는 meet deadline 마감시한을 맞추다 multiple tasks 많은 종류의 일 proficiency 능숙함 communication skills 의사소통기술 bachelor 학사학위 multilingual 여러 나라의 말을 하는 competitive 경쟁력있는 via -을 통해서 vita 이력 subordinate 종속되다 dissertation 논문
+
+메인 뉴스 진행자(194)
+
+Illinois 중심가에 위치한 CBS의 계열사인
+
+ANBC는 저녁 뉴스를 진행할 경험 있는 대표 진행자를
+
+모집합니다. 저희는 ANBC와 자매 회사인 WNBC의 방송팀을 이끌어갈 수 있는 뛰어난 언론인을 찾고 있습니다. 지원자들은 솔선수범해야 하며, 보도에 강점을 보여야 하고 일을 끝내고자 하는 의지력이 있어야 하고, 저희 공동체를 위해서
+
+헌신할 수 있는 사람(191)
+
+이어야 합니다. 지원자들은 적어도
+
+5년의 뉴스진행과 보도 경험(191)
+
+이 있어야 합니다. 대학졸업장 또한 필요합니다. 2개 국어 구사자는 우대됩니다.
+
+빈 자리에 지원하기 원하신다면, 자기소개서와 이력서(191) 그리고 비디오 테입이나 DVD와 함께 지원서를 우편으로 보내주시기 바랍니다.
+
+Jim Port
+
+뉴스 책임자
+
+509 S. Neil St.
+
+Champaign, IL 48184
+
+전화는 받지 않습니다.(192)
+
+-------------------------------------------------------------------------------
+
+기자
+
+TV 산업을 위한 신문인 Paper Daily(NBC의 계열사)에서는 자신감 있는 기자를 모집합니다(194)
+
+. 지원자들은 TV연예가의 지식과 최소한 3년의 기자경험, 마감기한을 잘 맞추고 많은 업무를 정확하게 처리할 수 있는 능력을 갖추고 있어야 하며 정말 성실히 일해야 합니다. Ms Word 와 Excel 그리고 일반적인 인터넷 검색에 능숙할 것이 요구됩니다. 구두나 서면상으로 자유롭게 의사소통을 할 수 있어야만 합니다. 많은 나라의 언어를 구사할 수 있는 사람은 매우 우대됩니다. 학사학위 또한 필수적입니다. 저희는 경쟁력 있는 보수와 복리후생혜택을 제공합니다.
+
+이력서와 자기소개서는 다음의 이메일 주소를 통해서만 제출 가능합니다: murduck@pdaily.com (193)
+
+191. ANBC 회사에서 지원시 특별히 요청하는 것이 아닌 것은?
+
+(A) 관련분야에서 일한 경험
+
+(B) 자기소개서와 이력서
+
+(C) 헌신적으로 일하는 사람
+
+(D) 컴퓨터 소프트웨어를 다루는 기술
+
+정답: (D)
+
+해설: 컴퓨터 기술에 대한 언급은 없다. Paper Daily사에서 엑셀이나 워드를 잘 다루어야 한다는 언급이 있을 뿐이다.
+
+192. 새로 뽑는 앵커에 대한 설명으로 옳지 않은 것은?
+
+(A) 두개 회사의 직원들을 이끌게 된다.
+
+(B) 5년 이상의 근무경력이 있어야 한다.
+
+(C) 그는 이력서를 첨부해서 지원서를 제출해야만 한다.
+
+(D) 전화로 원서 접수도 가능하다.
+
+정답: (D)
+
+해설: 전화는 받지 않는다고 언급되어 있다.
+
+193. 두 회사의 공통점이 아닌 것은?
+
+(A) 모두 자회사이다.
+
+(B) 2개의 언어구사 가능자를 선호한다.
+
+(C) 대학 졸업자이어야 한다.
+
+(D) E-mail 접수만을 받는다.
+
+정답: (D)
+
+해설: E-mail 접수는 Paper Daily사에서만 받는다. ANBC사에서는 우편접수(by post)를 하라고 언급되어 있다.
+
+194. 두 광고를 고려했을 때, 어느 분야에서 일할 사람들을 모집하는가?
+
+(A) 어학원
+
+(B) 컴퓨터 회사
+
+(C) 언론매체
+
+(D) TV 제조회사
+
+정답: (C)
+
+해설: ANBC사에서는 뉴스 앵커를 뽑고, Paper Daily라는 신문사에서는 기자를 모집하므로, 모두 언론매체에서 일하는 사람을 뽑고 있다.
+
+195. 이 광고들은 어디에서 볼 수 있을 것인가?
+
+(A) 신문
+
+(B) 학술논문
+
+(C) 보고서
+
+(D) 비디오가게
+
+정답: (A)
+
+해설: 신문의 구인광고(classified ad)면에서 볼 수 있을 것이다.
+
+Questions 196-200 refer to the following memo and regulation.
+
+어휘: security 보안 installation 설치 electronics 전자기술 accounting 정산 transaction 처리 interfere with -를 방해하다 regulations 법규 unavoidable 피할 수 없는 officials 관리 prior to -보다 먼저 classified 기밀분류 된 delete 삭제하다  back-up 여벌 just in case 만일을 위해서 in use 사용 중인 admission 허가 mandatory 의무적인 at least 적어도 enforcement 시행 consistently 끊임없이 materials 자료 imperative 피할 수 없는
+
+수신: David Hough (dh2030@techtrast.com)
+
+발신: Willy Gates (roadahead@techtrast.com)
+
+제목: 새로운 컴퓨터 보안 시스템 설치
+
+사무실의 모든 직원에게 전자팀이
+
+6월 20~22일과 6월 27~29일 까지(197)
+
+새로운 컴퓨터 보안 시스템을 설치할 것이라고 알려주십시오. 일이 잘되면
+
+우리가 새로운 시스템을 설치하는 동안 당신직원의 절반은 그들의 회계사무를 그들 원래 컴퓨터에서 할 수 있을 것입니다(196)
+
+.
+
+우리는 당신의 일에 방해가 되지 않도록 가능한한 빨리 컴퓨터로 작업할 것입니다. 새로운 정부규칙에 따라 보안 시스템 설치가 불가피하고
+
+우리는 정부관리로부터 모든 설치를 7월 1일 까지 끝내라고 지시받았습니다(200)
+
+.
+
+저는 당신이 이 상황을 이해해주고 업데이트 전에 당신의 직원들에게 충분히 알려주길 바랍니다. 저는 또한 당신이 보기 원할지 모르는 새로운 규칙 법규를 첨부합니다.
+
+------------------------------------------------------------------------------
+
+새로운 정부 규정 (컴퓨터 보안 시스템에 관하여)
+
+최근 컴퓨터 해킹기술의 발달로 각 회사의 기밀 정보들이 유출되고 있다. 따라서 정부는 각 회사가 보다 강한 보안 프로그램을 설치할 수 있도록 새로운 규율을 제정한다.
+
+1. 모든 회사들은 현재 사용되고 있는 컴퓨터 보완 프로그램을 모두 삭제하고, 최근 정부에서 제작한 Security Number One 프로그램을 설치하여야 한다.
+
+2. 컴퓨터에 중요 정보를 저장할 때에는 반드시 암호를 걸어놓고, 바이러스 침입에 의해 파일이 삭제되는 경우가 있으므로 백업파일을 마련해둔다.
+
+3. 회사에서 컴퓨터를 50대 이상 사용할 때에는 반드시 정부의 안전 승인을 얻도록 한다.
+
+4. Security Number One
+
+프로그램의 설치는 적어도 이 규정 시행일로부터 2달 후까지는 끝마치도록 한다(200)
+
+.
+
+5. Security Number One 프로그램은 꾸준히 업데이트가 될 예정이며,
+
+업데이트 된 내용들은 무료로 다운 받을 수 있도록 특정 사이트에 업로드 할 예정이다(198)
+
+.
+
+따라서 이 프로그램을 설치한 모든 회사들은 관련 사이트(www.securitynoone.com) 를 8월 15일 이후 정기적으로 방문할 것을 권장한다.(197)
+
+
+
+6. 9월 1일부터, 정부 관리들이
+
+컴퓨터 안전 시스템을 두 달에 한번씩 점검할 예정이다.(199)
+
+각각의 회사들은 정부 직원의 지시에 따를 것이 요구된다.
+
+196. David Hough은 어느 부서에서 일할 것 같나?
+
+(A) 통신
+
+(B) 회계부
+
+(C) 법무팀
+
+(D) 홍보부
+
+정답: (B)
+
+해설: 공사를 하면서 직원 절반이 회계 사무를 볼 수도 있다고 하였으므로 David Hough는 회계부에서 근무함을 알 수 있다.
+
+
+
+197. 회사가 보안 시스템을 설치하는데 며칠이 걸리나?
+
+(A) 3일
+
+(B) 6일
+
+(C) 7일
+
+(D) 10일
+
+정답: (B)
+
+해설: 6월 20일부터 22일까지 3일간, 그리고 6월 27일부터 29일까지 3일간 설치공사가 실시되므로 보안 시스템 설치는 6일이 걸린다는 것을 알 수 있다.
+
+198. Security Number One이란 프로그램에 대한 설명으로 옳지 않은 것은?
+
+(A) 컴퓨터에 저장된 정보의 무단유출을 막는 프로그램이다.
+
+(B) 정부에서 만든 프로그램이다.
+
+(C) 회사들은 이 프로그램을 설치할 것이 강제된다.
+
+(D) 업데이트된 내용은 실비로 다운로드 받을 수 있다.
+
+정답: (D)
+
+해설: 업데이트된 내용은 사이트에 무료로 다운받을 수 있도록 올려놓을 예정이라고 했다. for a nominal fee 실비로
+
+199. 새로운 정부 규정의 내용과 일치하지 않는 것은?
+
+(A) 각 회사의 보안프로그램 설치를 목적으로 한다.
+
+(B) 보안 프로그램을 일정기간 전까지 설치해야 한다.
+
+(C) 회사들은 새로 업데이트 된 것이 없는지 정기적으로 체크해 주는 것이 좋다.
+
+(D) 한달에 두 번씩 정부의 검사에 응한다.
+
+정답: (D)
+
+해설: 한달에 두 번이 아니라 every other month는 두 달에 한번이라는 뜻이다.
+
+200. 새로운 정부 규정은 언제 시행될 것인가?
+
+(A) 9월 1일
+
+(B) 5월 1일
+
+(C) 8월 15일
+
+(D) 6월 20일
+
+정답: (B)
+
+해설: 첫 번째 지문에 보면 보안 프로그램의 설치를 7월 1일 까지는 마무리해야 한다는 정부 직원의 지시사항이 나오고, 두 번째 지문에서는 프로그램의 설치는 이 규정이 시행된 뒤 2달 후까지 모두 마쳐져야 한다는 내용이 나온다. 두 번째 지문에서 언급한 프로그램 설치를 마무리해야 하는 날, 즉 규정이 시행된 지 2달 후가 바로 첫 번째 지문에서 말하는 7월 1일이 된다. 이 규정은 7월 1일보다 2달 전인 5월 1일에 시행되었음을 알 수 있다.

@@ -1,0 +1,42 @@
+{
+  "_주석": "2026-07-28 클라우드 전용 전환. 이 PC는 외장 GPU가 없어(Intel UHD 770 내장) Ollama가 CPU 추론만 가능하고, qa.py 기준 24,000자 근거를 넣으면 질문당 5분 이상 걸려 실사용이 불가하다. 로컬 경로를 비활성화하고 Claude/Gemini만 사용한다. 되돌리려면 routing.primary 를 ollama 로 되돌리고, ollama.default_model 모델을 먼저 ollama pull 로 받아둘 것(32K 컨텍스트 모델 권장).",
+  "routing": {
+    "primary": "gemini",
+    "fallback": "claude",
+    "allow_paid_fallback": false
+  },
+  "ollama": {
+    "base_url": "http://localhost:11434",
+    "default_model": "exaone3.5:7.8b",
+    "timeout_seconds": 120
+  },
+  "claude": {
+    "default_model": "claude-haiku-4-5-20251001",
+    "api_key_env": "ANTHROPIC_API_KEY"
+  },
+  "gemini": {
+    "default_model": "gemini-3.6-flash",
+    "api_key_env": "GEMINI_API_KEY",
+    "strict_free_tier_only": true,
+    "daily_request_limit": 500,
+    "paid_on_429": true,
+    "_paid_on_429_주석": "2026-09-21(49차): 무료 키가 구글 쿼터(HTTP 429)에 막히면 결제 계정 키(PAID_GEMINI_KEY_NAME)로 1회 재시도. 배치 요약(ask_ai gemini)·Vision OCR(ask_gemini_vision) 에 적용. 유료 호출은 무료 카운터를 태우지 않는다. 과금을 원치 않으면 false."
+  },
+  "perplexity": {
+    "_주석": "웹검색 기반 엔진. 위키 근거로 답하는 Claude/Gemini와 달리, 위키에 없는 최신 정보(법령 개정·통계·기관 공지)를 웹에서 찾아 출처 URL과 함께 답한다. 모델: sonar(빠름) / sonar-pro(정밀) / sonar-reasoning(추론).",
+    "default_model": "sonar",
+    "api_key_env": "PERPLEXITY_API_KEY",
+    "timeout_seconds": 120,
+    "search_recency_filter": ""
+  },
+  "tasks": {
+    "translation": "gemini",
+    "analysis": "gemini",
+    "source_analysis": "gemini",
+    "summarize_code": "claude",
+    "summarize_doc": "claude",
+    "extract_concepts": "claude",
+    "analyze_image": "claude",
+    "complex_reasoning": "claude"
+  }
+}

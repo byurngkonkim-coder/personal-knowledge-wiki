@@ -1,0 +1,1410 @@
+# 🗣️ 익히기 쉬운 영어 표현 A~Z 완벽 마스터 가이드
+
+> [!IMPORTANT]
+> **100% 무손실 정본**: 본 문서는 원본 자료에 수록된 모든 패턴 및 표현을 누락 없이 전수 복원하고, 원어민의 실제 뉘앙스와 발음 끊어 읽기(/), 실전 예문 및 인터랙티브 자가점검 드릴을 체계화한 정본 학습서입니다.
+
+---
+
+### 🔹 A piece of cake. : 식은 죽 먹기지요
+- **💡 뉘앙스 & 실전 활용 맥락**: 어떤 일이 매우 쉽고 간단해서 전혀 어렵지 않다는 것을 강조할 때 사용합니다. 비격식적인 표현으로, 친구나 동료 사이에서 편하게 쓸 수 있습니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `A piece / of cake.` (`어 피스 / 오브 케이크`) `of`는 `어브` 또는 `어v`에 가깝게 발음되며, `piece`와 `of`가 자연스럽게 이어집니다. `cake`에 강세.
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `Don't worry about the exam, / it's a piece of cake.` (걱정하지 마 / 그 시험은 식은 죽 먹기야)
+    - 🇰🇷 시험 걱정 마, 식은 죽 먹기야.
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: 직역해서 "It's a piece of dead porridge." 같은 표현은 사용하지 않습니다. 항상 `A piece of cake`로 통째로 외우세요.
+
+### 🔹 Absolutely. : 절대적으로 그렇지요
+- **💡 뉘앙스 & 실전 활용 맥락**: 상대방의 말에 전적으로 동의하거나, 어떤 사실이 확실하다는 것을 강조할 때 사용합니다. 긍정적인 확신을 나타내는 매우 강한 표현입니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `Ab-so-lute-ly.` (`앱-써-루트-리`) `ab`에 강세가 있고, `t` 발음이 약화되어 `루트`보다는 `루리`에 가깝게 들릴 수 있습니다.
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `Do you think / we can finish this project / on time? / Absolutely.` (생각하니 / 우리가 이 프로젝트를 끝낼 수 있을 거라고 / 제시간에? / 절대적으로 그렇지.)
+    - 🇰🇷 이 프로젝트 제시간에 끝낼 수 있을까요? 물론이죠.
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: `Absolutely not.`은 "절대 그렇지 않다"는 뜻으로, `Absolutely`와는 반대 의미입니다. 혼동하지 않도록 주의하세요.
+
+### 🔹 After you. : 먼저 가시지요
+- **💡 뉘앙스 & 실전 활용 맥락**: 문을 열어주거나, 길을 양보하거나, 엘리베이터에 탈 때 등 상대방에게 먼저 하라고 권유하는 매우 공손한 표현입니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `Af-ter / you.` (`애프터 / 유`) `after`의 `r`과 `you`가 자연스럽게 이어집니다. `you`에 살짝 강세.
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `(Holding the door open) / After you.` (문을 열어주며 / 먼저 가세요.)
+    - 🇰🇷 (문을 열어주며) 먼저 가세요.
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: "You first."도 비슷한 의미지만, `After you`가 훨씬 더 공손하고 격식 있는 표현입니다.
+
+### 🔹 Always. : 항상 그렇지요
+- **💡 뉘앙스 & 실전 활용 맥락**: 어떤 질문에 대해 "항상 그렇다"고 대답하거나, 어떤 상황이 늘 변함없이 일어난다는 것을 짧게 표현할 때 사용합니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `Al-ways.` (`올-웨이즈`) `al`에 강세. `s`는 `즈` 발음.
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `Do you always / drink coffee / in the morning? / Always.` (항상 마시니 / 커피를 / 아침에? / 항상 그렇지.)
+    - 🇰🇷 아침에 항상 커피 마셔요? 네, 항상요.
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: `Always`는 부사로, 단독으로 쓰일 때 "항상 그렇다"는 의미를 가집니다. "Yes, always."처럼 `Yes`를 붙여도 됩니다.
+
+### 🔹 Amazing. : 신기 하군요
+- **💡 뉘앙스 & 실전 활용 맥락**: 놀랍거나 인상 깊은 것을 보거나 들었을 때 감탄사로 사용합니다. 긍정적인 의미의 놀라움을 표현합니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `A-ma-zing.` (`어-메이-징`) `ma`에 강세. `z`는 `즈` 발음.
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `You finished the whole report / in an hour? / Amazing!` (너 전체 보고서를 끝냈다고 / 한 시간 만에? / 신기하네!)
+    - 🇰🇷 한 시간 만에 보고서를 다 끝냈다고? 대단하다!
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: `Amazing`은 주로 긍정적인 놀라움에 쓰입니다. 부정적인 상황에는 `Shocking`이나 `Unbelievable` 등을 사용하세요.
+
+### 🔹 And then? : 그리고 나서는요?
+- **💡 뉘앙스 & 실전 활용 맥락**: 상대방의 이야기가 끝나지 않았을 때, 다음 내용을 궁금해하며 계속 이야기를 해달라고 재촉하거나 질문할 때 사용합니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `And then?` (`앤 덴?`) `and`의 `d`는 거의 들리지 않거나 `n`과 `th` 사이에 약하게 연결됩니다. `then`에 강세, 끝을 올려서 질문조로.
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `I went to the store, / bought some groceries... / And then?` (나는 가게에 갔어, / 식료품을 좀 샀고... / 그리고 나서는?)
+    - 🇰🇷 가게에 가서 식료품을 좀 샀어... 그래서?
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: "What next?"와 비슷하지만, `And then?`은 이야기의 흐름을 따라가며 다음 단계를 묻는 뉘앙스가 강합니다.
+
+### 🔹 Any good ideas? : 어떤 좋은 생각 있어요?
+- **💡 뉘앙스 & 실전 활용 맥락**: 문제 해결이나 계획 수립 등 어떤 상황에서 좋은 제안이나 아이디어를 구하고 싶을 때 사용합니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `An-y / good i-deas?` (`애니 / 굿 아이-디어즈?`) `good`의 `d`와 `ideas`의 `i`가 연음되어 `구다이디어즈`처럼 들릴 수 있습니다. `ideas`에 강세, 끝을 올려서 질문조로.
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `We need to find a solution / for this problem. / Any good ideas?` (우리는 해결책을 찾아야 해 / 이 문제에 대한. / 어떤 좋은 생각 있어?)
+    - 🇰🇷 이 문제에 대한 해결책을 찾아야 해요. 좋은 생각 있으세요?
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: `Any good idea?` (단수)보다는 `Any good ideas?` (복수)가 더 자연스럽습니다.
+
+### 🔹 Any time. : 언제라도요
+- **💡 뉘앙스 & 실전 활용 맥락**: 상대방이 고마움을 표현했을 때 "천만에요" 또는 "언제든지 도와줄 수 있다"는 의미로 사용합니다. `You're welcome`과 비슷하지만, 더 캐주얼하고 "언제든 다시 불러도 좋다"는 뉘앙스가 있습니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `An-y / time.` (`애니 / 타임`) `any`와 `time` 사이에 약간의 휴지. `time`에 강세.
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `Thanks for your help! / Any time.` (도와줘서 고마워! / 언제라도.)
+    - 🇰🇷 도와줘서 고마워! 천만에. (언제든지.)
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: "Any time"은 주로 감사 인사에 대한 대답으로 쓰입니다. "언제든지"라는 의미로 "at any time"과 혼동하지 마세요.
+
+### 🔹 Anybody home? : 집에 누구있어요?
+- **💡 뉘앙스 & 실전 활용 맥락**: 문을 두드리거나 집에 들어서면서 사람이 있는지 확인할 때 사용합니다. 주로 가족이나 친한 사람에게 쓰는 캐주얼한 표현입니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `An-y-bo-dy / home?` (`애니-바디 / 홈?`) `anybody`의 `d`와 `home` 사이에 약간의 휴지. `home`에 강세, 끝을 올려서 질문조로.
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `(Knocking on the door) / Anybody home?` (문을 두드리며 / 집에 누구 있어요?)
+    - 🇰🇷 (문을 두드리며) 집에 누구 계세요?
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: `Is anyone home?`도 같은 의미로 사용 가능하며, `Anybody home?`이 좀 더 구어체적입니다.
+
+### 🔹 Anything else? : 그 밖에 뭐 있어요?
+- **💡 뉘앙스 & 실전 활용 맥락**: 상점에서 물건을 구매하거나, 식당에서 주문할 때, 또는 대화 중에 더 필요한 것이나 추가할 것이 있는지 물어볼 때 사용합니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `An-y-thing / else?` (`애니-띵 / 엘스?`) `anything`의 `g`와 `else`가 연음되어 `애니띵엘스`처럼 들릴 수 있습니다. `else`에 강세, 끝을 올려서 질문조로.
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `You want a coffee. / Anything else?` (커피를 원하시는군요. / 그 밖에 뭐 있어요?)
+    - 🇰🇷 커피요. 그 밖에 다른 건요?
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: "Other things?"는 어색합니다. 항상 `Anything else?`를 사용하세요.
+
+### 🔹 Are you in line? : 당신은 줄에 서 있어요?
+- **💡 뉘앙스 & 실전 활용 맥락**: 줄 서 있는 사람에게 그 줄에 서 있는 것이 맞는지, 또는 줄의 일부인지 확인할 때 사용합니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `Are you / in line?` (`아 유 / 인 라인?`) `in`과 `line`이 자연스럽게 이어집니다. `line`에 강세, 끝을 올려서 질문조로.
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `Excuse me, / are you in line / for the tickets?` (실례합니다, / 줄에 서 계신가요 / 티켓을 위해?)
+    - 🇰🇷 실례합니다, 티켓 줄에 서 계신가요?
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: "Are you standing in line?"도 가능하지만, `Are you in line?`이 더 간결하고 흔하게 쓰입니다.
+
+### 🔹 Are you kidding? : 농담이죠?
+- **💡 뉘앙스 & 실전 활용 맥락**: 상대방의 말이 믿기지 않거나, 너무 터무니없어서 농담이라고 생각될 때 사용합니다. 놀라움이나 불신을 표현합니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `Are you / kid-ding?` (`아 유 / 키딩?`) `kidding`의 `dd`는 `r` 발음처럼 들릴 수 있습니다. `kid`에 강세, 끝을 올려서 질문조로.
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `I won the lottery! / Are you kidding?` (나 복권 당첨됐어! / 농담이지?)
+    - 🇰🇷 나 복권 당첨됐어! 농담이지?
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: "Are you joking?"도 같은 의미지만, `Are you kidding?`이 더 흔하게 사용됩니다.
+
+### 🔹 Are you serious? : 진심이예요?
+- **💡 뉘앙스 & 실전 활용 맥락**: 상대방의 말이 사실인지, 진지하게 하는 말인지 확인할 때 사용합니다. 놀라움, 의심, 또는 진지한 확인의 의미를 가집니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `Are you / se-ri-ous?` (`아 유 / 씨-리-어스?`) `se`에 강세, 끝을 올려서 질문조로.
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `I'm moving to Canada next month. / Are you serious?` (나 다음 달에 캐나다로 이사 가. / 진심이야?)
+    - 🇰🇷 나 다음 달에 캐나다로 이사 가. 진심이야?
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: "Are you true?"는 틀린 표현입니다. `Are you serious?` 또는 `Are you for real?`을 사용하세요.
+
+### 🔹 At last. : 드디어
+- **💡 뉘앙스 & 실전 활용 맥락**: 오랫동안 기다리거나 바라던 일이 마침내 일어났을 때 안도감이나 기쁨을 표현합니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `At last.` (`앳 라스트.`) `at`의 `t`와 `last`의 `l`이 연음될 수 있습니다. `last`에 강세.
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `After hours of waiting, / the train arrived / at last.` (몇 시간을 기다린 후에, / 기차가 도착했다 / 드디어.)
+    - 🇰🇷 몇 시간을 기다린 끝에, 드디어 기차가 도착했다.
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: "Finally"와 비슷하지만, `At last`는 좀 더 극적인 기다림 끝에 오는 안도감이나 성취감을 강조합니다.
+
+### 🔹 Attention, please! : 좀 주목 해 주세요
+- **💡 뉘앙스 & 실전 활용 맥락**: 여러 사람에게 어떤 발표나 공지사항이 있을 때, 사람들의 주의를 집중시키기 위해 사용합니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `At-ten-tion, / please!` (`어-텐-션, / 플리즈!`) `ten`에 강세. `please`는 길게 발음.
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `Attention, please! / The flight to London / is now boarding.` (주목 해 주세요! / 런던행 항공편은 / 지금 탑승 중입니다.)
+    - 🇰🇷 주목해 주세요! 런던행 항공편은 지금 탑승 중입니다.
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: "Please attention!"은 틀린 표현입니다. 항상 `Attention, please!`를 사용하세요.
+
+### 🔹 Awesome! : 와우~ 멋지다
+- **💡 뉘앙스 & 실전 활용 맥락**: 어떤 것이 매우 훌륭하거나, 멋지거나, 인상 깊을 때 사용하는 감탄사입니다. 매우 긍정적인 감정을 표현합니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `Aw-some!` (`오-썸!`) `aw`에 강세.
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `I got a promotion! / Awesome!` (나 승진했어! / 멋지다!)
+    - 🇰🇷 나 승진했어! 와우, 멋지다!
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: `Awesome`은 주로 구어체에서 사용되며, 격식 있는 자리에서는 `Excellent`나 `Wonderful` 등을 사용할 수 있습니다.
+
+### 🔹 Back me up. : 나를 지원해 주세요
+- **💡 뉘앙스 & 실전 활용 맥락**: 어떤 상황에서 누군가에게 지지나 도움을 요청할 때 사용합니다. 물리적인 지원뿐만 아니라, 의견에 대한 동의나 정신적인 지지를 의미할 수도 있습니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `Back me / up.` (`백 미 / 업.`) `me`와 `up`이 연음되어 `미업`처럼 들릴 수 있습니다. `back`과 `up`에 강세.
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `I need you / to back me up / in this meeting.` (나는 네가 필요해 / 나를 지원해 줄 / 이 회의에서.)
+    - 🇰🇷 이 회의에서 네가 나를 지원해 줘야 해.
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: "Support me."도 가능하지만, `Back me up`은 좀 더 구어체적이고 "내 편을 들어달라"는 뉘앙스가 강합니다.
+
+### 🔹 Be my guest. : 사양하지 말고 하세요
+- **💡 뉘앙스 & 실전 활용 맥락**: 상대방이 어떤 것을 해도 되는지 물어볼 때, 흔쾌히 허락하며 "마음껏 하세요" 또는 "사양하지 마세요"라는 의미로 사용합니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `Be my / guest.` (`비 마이 / 게스트.`) `guest`에 강세.
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `Can I use your phone? / Be my guest.` (네 전화 좀 써도 될까? / 사양하지 말고 써.)
+    - 🇰🇷 네 전화 좀 써도 될까? 물론이지.
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: "Don't hesitate."와 비슷하지만, `Be my guest`는 허락의 의미가 더 강합니다.
+
+### 🔹 Be patient. : 좀 참으세요
+- **💡 뉘앙스 & 실전 활용 맥락**: 상대방이 조급해하거나 화를 낼 때, 침착하게 기다리라고 조언하거나 요청할 때 사용합니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `Be / pa-tient.` (`비 / 페이-션트.`) `pa`에 강세. `tient`는 `션트`에 가깝게 발음.
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `I know you're frustrated, / but please / be patient.` (네가 좌절한 건 알지만, / 제발 / 좀 참아줘.)
+    - 🇰🇷 네가 좌절한 건 알지만, 제발 좀 참아줘.
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: "Have patience."도 가능하지만, `Be patient`가 더 직접적인 명령형으로 흔하게 쓰입니다.
+
+### 🔹 Be punctual! : 시간좀 맞춰
+- **💡 뉘앙스 & 실전 활용 맥락**: 상대방에게 약속 시간을 엄수하라고 강조하거나, 늦지 말라고 경고할 때 사용합니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `Be / punc-tu-al!` (`비 / 펑크-츄-얼!`) `punc`에 강세. `tual`은 `츄얼` 또는 `추얼`에 가깝게 발음.
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `The meeting starts / at 9 AM sharp, / so be punctual!` (회의는 시작해 / 정각 9시에, / 그러니 시간 좀 맞춰!)
+    - 🇰🇷 회의는 정각 9시에 시작하니, 시간 좀 맞춰!
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: "Be on time."도 같은 의미지만, `Be punctual`이 좀 더 격식 있고 강조하는 뉘앙스가 있습니다.
+
+### 🔹 Be right back with you. : 곧 당신에게 돌아 올께요
+- **💡 뉘앙스 & 실전 활용 맥락**: 잠시 자리를 비우거나 다른 일을 처리한 후 곧 돌아와서 상대방을 다시 응대하겠다는 의미로 사용합니다. 주로 서비스업 종사자가 손님에게 말할 때 흔히 쓰입니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `Be right / back with / you.` (`비 라이트 / 백 위드 / 유.`) `right`의 `t`는 거의 들리지 않거나 약하게 발음됩니다. `back`과 `with`가 연음되어 `백위드`처럼 들릴 수 있습니다. `back`에 강세.
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `I'll just grab that item / for you. / Be right back with you.` (제가 그 물건을 가져올게요 / 당신을 위해. / 곧 돌아올게요.)
+    - 🇰🇷 그 물건 가져다 드릴게요. 곧 돌아올게요.
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: "I'll be back soon."과 비슷하지만, `Be right back with you`는 "당신에게 다시 돌아와 응대하겠다"는 의미가 더 명확합니다.
+
+### 🔹 Be seated. : 앉으세요
+- **💡 뉘앙스 & 실전 활용 맥락**: 상대방에게 앉으라고 정중하게 권유할 때 사용합니다. `Sit down`보다 더 격식 있고 공손한 표현입니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `Be / seat-ed.` (`비 / 씨-티드.`) `seat`에 강세. `ed`는 `이드` 또는 `읻`에 가깝게 발음.
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `Please come in / and be seated.` (들어오세요 / 그리고 앉으세요.)
+    - 🇰🇷 들어오셔서 앉으세요.
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: "Sit down"은 직접적이고 때로는 무례하게 들릴 수 있습니다. 격식 있는 상황에서는 `Be seated`나 `Have a seat`를 사용하세요.
+
+### 🔹 Beat it. : 이자리에서 꺼져
+- **💡 뉘앙스 & 실전 활용 맥락**: 상대방에게 그 자리에서 떠나라고, 또는 사라지라고 매우 강하고 무례하게 명령할 때 사용합니다. 화가 났거나 귀찮을 때 쓰는 비격식적인 표현입니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `Beat / it.` (`빗 / 잇.`) `beat`의 `t`와 `it`이 연음되어 `비릿`처럼 들릴 수 있습니다. `beat`에 강세.
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `You're bothering me. / Beat it!` (너 나를 귀찮게 하고 있어. / 꺼져!)
+    - 🇰🇷 나 귀찮게 하지 마. 꺼져!
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: 매우 무례한 표현이므로, 친한 친구 사이가 아니거나 화가 난 상황이 아니라면 사용하지 않는 것이 좋습니다.
+
+### 🔹 (Beer), please. : (맥주) 주세요
+- **💡 뉘앙스 & 실전 활용 맥락**: 식당이나 바에서 특정 음료나 음식을 주문할 때 사용합니다. 괄호 안의 단어를 원하는 것으로 바꿔서 사용합니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `(Beer), / please.` (`비어, / 플리즈.`) `beer`에 강세. `please`는 길게 발음.
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `(At a cafe) / Coffee, please.` (카페에서 / 커피 주세요.)
+    - 🇰🇷 (카페에서) 커피 주세요.
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: "Give me beer."는 너무 직접적이고 무례하게 들릴 수 있습니다. 항상 `(Item), please.` 또는 `Can I get (item), please?`를 사용하세요.
+
+### 🔹 Behave yourself. : 행동자제를 하세요
+- **💡 뉘앙스 & 실전 활용 맥락**: 주로 아이들이나 예의 없이 행동하는 사람에게 예의 바르게 행동하라고 훈계하거나 경고할 때 사용합니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `Be-have / your-self.` (`비-헤이브 / 유어-셀프.`) `have`에 강세. `your`는 `유어` 또는 `여`에 가깝게 발음.
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `Stop running around / and behave yourself!` (뛰어다니는 것 멈춰 / 그리고 행동 자제해!)
+    - 🇰🇷 뛰어다니는 것 멈추고 행동 자제해!
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: "Control your behavior."는 너무 딱딱하고 어색합니다. `Behave yourself`가 자연스러운 표현입니다.
+
+### 🔹 Better late than never. : 늦는 것이 안 하는 것보다 낫지요
+- **💡 뉘앙스 & 실전 활용 맥락**: 어떤 일을 늦게라도 하는 것이 아예 하지 않는 것보다 낫다는 것을 강조할 때 사용합니다. 긍정적인 의미로 격려하거나, 늦었지만 결국 해낸 상황에 대한 코멘트로 쓰입니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `Bet-ter / late than / nev-er.` (`베터 / 레이트 댄 / 네버.`) `better`의 `t`는 `r` 발음처럼 들릴 수 있습니다. `late`와 `never`에 강세.
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `I finally submitted / my report. / Better late than never, / right?` (나 드디어 제출했어 / 내 보고서를. / 늦는 것이 안 하는 것보다 낫지, / 그렇지?)
+    - 🇰🇷 드디어 보고서를 제출했어. 늦게라도 하는 게 낫지, 안 그래?
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: 이 표현은 관용구이므로 단어 하나하나를 바꾸지 않고 통째로 외워야 합니다.
+
+### 🔹 Better than nothing. : 없는 것 보다 낫지요
+- **💡 뉘앙스 & 실전 활용 맥락**: 기대했던 것보다 못하지만, 아무것도 없는 것보다는 낫다는 의미로 사용합니다. 약간의 아쉬움이 섞여 있을 수 있습니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `Bet-ter / than no-thing.` (`베터 / 댄 너-씽.`) `better`의 `t`는 `r` 발음처럼 들릴 수 있습니다. `better`와 `nothing`에 강세.
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `We only got / a small discount, / but it's better than nothing.` (우리는 겨우 얻었어 / 작은 할인을, / 하지만 없는 것보다 낫지.)
+    - 🇰🇷 겨우 작은 할인만 받았지만, 없는 것보다 낫지.
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: "It's better than no."는 틀린 표현입니다. 항상 `Better than nothing`을 사용하세요.
+
+### 🔹 Boy! It hurts. : 이봐, 아퍼요.
+- **💡 뉘앙스 & 실전 활용 맥락**: 갑작스러운 통증을 느꼈을 때 감탄사 `Boy!`와 함께 통증을 표현합니다. `Boy!`는 감탄사로, 남녀 모두 사용할 수 있습니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `Boy! / It hurts.` (`보이! / 잇 허츠.`) `boy`는 감탄사로 강하게 발음. `it`의 `t`와 `hurts`의 `h`가 연음될 수 있습니다. `hurts`에 강세.
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `(Stubbing toe) / Boy! It hurts.` (발가락을 찧으며 / 이봐, 아퍼.)
+    - 🇰🇷 (발가락을 찧으며) 아야! 아파.
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: `Boy`는 감탄사로, 실제 소년을 부르는 것이 아닙니다. "Oh, it hurts."와 비슷하게 사용됩니다.
+
+### 🔹 Break it up. : 그만 싸워요
+- **💡 뉘앙스 & 실전 활용 맥락**: 싸우고 있는 사람들에게 싸움을 멈추라고 명령하거나 중재할 때 사용합니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `Break it / up.` (`브레이크 잇 / 업.`) `break`의 `k`와 `it`이 연음되어 `브레이킷`처럼 들릴 수 있습니다. `break`과 `up`에 강세.
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `Hey you two, / break it up! / No fighting here.` (이봐 너희 둘, / 그만 싸워! / 여기서 싸우지 마.)
+    - 🇰🇷 이봐 너희 둘, 그만 싸워! 여기서 싸우지 마.
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: "Stop fighting."도 가능하지만, `Break it up`은 싸움을 물리적으로 중단시키려는 뉘앙스가 더 강합니다.
+
+### 🔹 Call me Sam, please. : 샘 이라고 불러 주세요
+- **💡 뉘앙스 & 실전 활용 맥락**: 자신의 이름을 소개하거나, 상대방에게 자신을 특정 이름으로 불러달라고 요청할 때 사용합니다. `Sam` 대신 자신의 이름을 넣어서 연습하세요.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `Call me / Sam, / please.` (`콜 미 / 샘, / 플리즈.`) `call`과 `Sam`에 강세. `please`는 길게 발음.
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `My name is Samuel, / but please / call me Sam.` (제 이름은 사무엘입니다, / 하지만 제발 / 샘이라고 불러 주세요.)
+    - 🇰🇷 제 이름은 사무엘이지만, 샘이라고 불러 주세요.
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: "Please call me Sam."도 가능하지만, `Call me Sam, please.`가 좀 더 부드럽고 자연스럽습니다.
+
+### 🔹 Can I get a ride? : 차 좀 태워 줄 수 있어요?
+- **💡 뉘앙스 & 실전 활용 맥락**: 다른 사람에게 차를 태워달라고 부탁할 때 사용합니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `Can I / get a / ride?` (`캔 아이 / 게러 / 라이드?`) `get`의 `t`와 `a`가 연음되어 `게러`처럼 들립니다. `ride`에 강세, 끝을 올려서 질문조로.
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `My car broke down. / Can I get a ride / to the station?` (내 차가 고장 났어. / 차 좀 태워 줄 수 있어 / 역까지?)
+    - 🇰🇷 차가 고장 났어. 역까지 차 좀 태워 줄 수 있어?
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: "Can you give me a ride?"도 가능하지만, `Can I get a ride?`가 더 흔하게 쓰입니다.
+
+### 🔹 Can you hear me now? : 지금 잘 들려요?
+- **💡 뉘앙스 & 실전 활용 맥락**: 전화 통화 중이거나, 마이크를 사용할 때, 또는 멀리 떨어져 있을 때 상대방이 자신의 목소리를 잘 들을 수 있는지 확인할 때 사용합니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `Can you / hear me / now?` (`캔 유 / 히어 미 / 나우?`) `hear`의 `r`과 `me`가 연음될 수 있습니다. `now`에 강세, 끝을 올려서 질문조로.
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `(On the phone) / I fixed the connection. / Can you hear me now?` (전화 통화 중 / 연결을 고쳤어. / 지금 잘 들려?)
+    - 🇰🇷 (전화 통화 중) 연결을 고쳤어요. 지금 잘 들리세요?
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: "Do you hear me now?"도 가능하지만, `Can you hear me now?`가 더 자연스럽습니다.
+
+### 🔹 Can't argue with that. : 왈가 왈부 할 필요가 없지요.
+- **💡 뉘앙스 & 실전 활용 맥락**: 상대방의 주장이 너무 명백하거나 논리적이어서 반박할 여지가 없을 때 사용합니다. 동의를 표현하는 방식 중 하나입니다.
+- **🔊 발음, 연음
+
+### 🔹 Easy does it. : 천천히 해요. 천천히 하는 것이 잘 하는 거에요
+- **💡 뉘앙스 & 실전 활용 맥락**: 어떤 일을 서두르거나 너무 힘을 주어 할 때, "진정해, 천천히 해"라고 조언하거나 격려하는 표현입니다. 섬세함이나 조심성이 필요할 때 주로 사용됩니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `Easy / does it.` ('이지 더즈 잇'이 아니라 '이지 더즈 읻'처럼 's'와 'it'이 연음되어 'zit' 소리에 가깝게 들립니다. 'Easy'에 강세, 'does it'은 부드럽게 이어집니다.)
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `Easy does it / when you're carrying / that fragile vase.`
+    - 🇰🇷 그 깨지기 쉬운 꽃병을 나를 때는 / 천천히 조심해서 해요.
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: '천천히 해'를 직역하여 'Do it slowly'라고 하면 어색할 수 있습니다. 'Easy does it'은 단순히 속도뿐 아니라 '조심스럽게, 침착하게'라는 뉘앙스를 포함합니다.
+
+### 🔹 Either will do. (Anything will do.) : 둘중에 어떤 것이든 되요 (어떤 것이든 되요)
+- **💡 뉘앙스 & 실전 활용 맥락**: 두 가지 선택지 중 어느 것을 선택해도 괜찮다는 의미입니다. 'Anything will do'는 선택지가 더 많을 때 "아무거나 괜찮다"는 의미로 확장됩니다. 상대방에게 선택권을 주거나, 본인이 까다롭지 않음을 표현할 때 씁니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `Either / will do.` ('아이더 윌 두' 또는 '이더 윌 두'. 'will'은 약하게 발음되고 'do'에 살짝 강세가 있습니다.) `Anything / will do.` ('애니씽 윌 두')
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `Do you want coffee or tea? / Either will do.`
+    - 🇰🇷 커피 드릴까요, 차 드릴까요? / 둘 중 아무거나 괜찮아요.
+  - 🇺🇸 `What kind of movie do you want to watch? / Anything will do.`
+    - 🇰🇷 어떤 종류의 영화를 보고 싶어요? / 아무거나 괜찮아요.
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: '둘 중에'라는 말을 굳이 'Between two' 등으로 붙이지 않습니다. 'Either will do' 자체가 그 의미를 내포합니다.
+
+### 🔹 Enjoy your meal. : 맛있게 드세요
+- **💡 뉘앙스 & 실전 활용 맥락**: 식사하는 사람에게 건네는 흔한 인사말입니다. 웨이터가 손님에게, 또는 식사를 시작하는 사람에게 덕담으로 사용합니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `Enjoy / your meal.` ('인조이 유어 밀'. 'your'는 약하게 '여'처럼 발음될 때가 많습니다. 'Enjoy'와 'meal'에 강세.)
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `Here's your pasta. / Enjoy your meal!`
+    - 🇰🇷 파스타 나왔습니다. / 맛있게 드세요!
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: 'Have a good meal'도 의미는 통하지만, 'Enjoy your meal'이 훨씬 자연스럽고 일반적인 표현입니다.
+
+### 🔹 Enough is enough. : 충분 하니까 이제 그만 해요
+- **💡 뉘앙스 & 실전 활용 맥락**: 어떤 상황이나 행동이 도를 넘었을 때, 더 이상 참을 수 없으니 멈추라는 강력한 경고나 불만을 표현할 때 사용합니다. 짜증이나 분노가 섞인 어조로 말하는 경우가 많습니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `Enough / is enough.` ('이너프 이즈 이너프'. 두 'enough' 모두 강세가 들어가며, 'is'는 약하게 연결됩니다. 단호한 어조로 말합니다.)
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `You've been teasing him all day. / Enough is enough!`
+    - 🇰🇷 하루 종일 그를 놀렸잖아. / 이제 그만해!
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: 'Stop it, it's enough'보다 훨씬 강력하고 관용적인 표현입니다. 단순히 '충분하다'는 의미를 넘어 '더 이상은 안 된다'는 경고의 뉘앙스가 강합니다.
+
+### 🔹 Exactly. : 정확하게 맞어요
+- **💡 뉘앙스 & 실전 활용 맥락**: 상대방의 말이나 의견에 전적으로 동의하거나, 상대방이 정확히 핵심을 짚었을 때 사용합니다. "바로 그거야", "정확해"와 같은 의미입니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `Exactly.` ('이그잭틀리'. 'ex'는 '이그'로, 'act'는 '잭트'로 발음하며 'ly'는 약하게 '리'로 발음됩니다. 'act'에 강세.)
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `So you're saying / we need to focus on marketing? / Exactly.`
+    - 🇰🇷 그러니까 마케팅에 집중해야 한다는 말씀이시죠? / 정확해요.
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: 'Right'이나 'Correct'보다 더 강한 동의와 정확성을 나타냅니다.
+
+### 🔹 Excellent! (Super!) : 잘 했어요
+- **💡 뉘앙스 & 실전 활용 맥락**: 무언가 아주 잘 되었거나, 훌륭한 결과가 나왔을 때 감탄하며 칭찬하는 표현입니다. 긍정적이고 활기찬 어조로 사용됩니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `Excellent!` ('엑설런트'. 첫 음절 'Ex'에 강세.) `Super!` ('수퍼'. 'Su'에 강세.)
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `You finished the project ahead of schedule! / Excellent!`
+    - 🇰🇷 예정보다 일찍 프로젝트를 끝냈군요! / 훌륭해요!
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: 'Good job'보다 더 강한 칭찬입니다. 'Super'는 좀 더 캐주얼하고 구어적인 느낌입니다.
+
+### 🔹 Excuse me. : 실례 합니다
+- **💡 뉘앙스 & 실전 활용 맥락**:
+    1. 사람들의 주의를 끌 때 (예: 질문하려고 할 때, 길을 비켜달라고 할 때).
+    2. 가볍게 사과할 때 (예: 재채기 후, 실수로 부딪혔을 때).
+    3. 자리를 잠시 비울 때.
+    4. 상대방의 말을 잘 못 들었을 때 "다시 말씀해 주시겠어요?" (Pardon me?)의 의미로.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `Excuse / me.` ('익스큐즈 미'. 'Excuse'의 'cuse'에 강세. 'me'는 약하게 이어집니다.)
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `Excuse me, / could you tell me / how to get to the station?`
+    - 🇰🇷 실례합니다만, / 역으로 가는 길을 / 알려주실 수 있나요?
+  - 🇺🇸 `(After a sneeze) / Excuse me.`
+    - 🇰🇷 (재채기 후) / 죄송합니다.
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: 'Sorry'와 혼동하지 마세요. 'Sorry'는 더 심각한 실수나 유감에 대한 사과이고, 'Excuse me'는 가벼운 방해나 주의를 끌 때 사용합니다.
+
+### 🔹 Far from it. : 아직 멀었지요
+- **💡 뉘앙스 & 실전 활용 맥락**: 상대방의 기대나 추측이 현실과 거리가 멀다는 것을 강조할 때 사용합니다. "전혀 그렇지 않다", "아직 한참 멀었다"는 의미입니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `Far / from it.` ('파 프럼 잇'. 'Far'에 강세가 있고, 'from it'은 빠르게 이어집니다. 'from'의 'm'과 'it'의 'i'가 연음되어 '프럼잇'처럼 들립니다.)
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `Are you finished with your report? / Far from it, / I've barely started.`
+    - 🇰🇷 보고서 다 끝냈어요? / 아직 멀었어요, / 이제 막 시작했어요.
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: 'Not yet'보다 훨씬 강하게 부정하는 표현입니다. '아직 멀었다'는 물리적인 거리뿐 아니라 시간, 완성도 등 추상적인 개념에도 사용됩니다.
+
+### 🔹 Fifty-fifty. : 50:50 입니다.
+- **💡 뉘앙스 & 실전 활용 맥락**: 두 가지 가능성이 반반이거나, 비용이나 책임을 반반으로 나눌 때 사용합니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `Fifty-fifty.` ('피프티-피프티'. 두 'fifty' 모두 강세가 들어갑니다.)
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `What are our chances of winning? / It's fifty-fifty.`
+    - 🇰🇷 우리가 이길 확률은 얼마나 되죠? / 오십 대 오십이에요.
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: 'Half and half'와 비슷하지만, 'fifty-fifty'는 주로 확률, 책임, 비용 분담에 더 많이 쓰입니다.
+
+### 🔹 Follow me. : 따라 오세요
+- **💡 뉘앙스 & 실전 활용 맥락**: 상대방에게 자신을 따라오라고 지시하거나 안내할 때 사용합니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `Follow / me.` ('팔로우 미'. 'Follow'에 강세.)
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `The meeting room is down this hall. / Follow me.`
+    - 🇰🇷 회의실은 이 복도 끝에 있습니다. / 따라오세요.
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: 'Come with me'와 비슷하지만, 'Follow me'는 내가 앞장서서 길을 안내하는 뉘앙스가 더 강합니다.
+
+### 🔹 For good? : 영원히?
+- **💡 뉘앙스 & 실전 활용 맥락**: 어떤 변화나 결정이 일시적인 것이 아니라 영구적인 것인지 확인할 때 사용합니다. 놀라움이나 확인의 어조가 담길 수 있습니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `For / good?` ('포 굿?'. 'good'에 강세가 있으며, 의문문이므로 끝을 올립니다.)
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `Are you really moving to Canada / for good?`
+    - 🇰🇷 정말 캐나다로 / 영원히 이사 가는 거야?
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: 'Forever'와 비슷하지만, 'for good'은 특히 '영구적으로, 최종적으로'라는 뉘앙스가 강합니다. '좋은 것을 위해'라는 의미와 혼동하지 않도록 문맥을 잘 파악해야 합니다.
+
+### 🔹 For what? : 왜? 무엇을 위해서요?
+- **💡 뉘앙스 & 실전 활용 맥락**: 상대방의 행동이나 요구의 목적을 물을 때 사용합니다. 때로는 불신이나 의아함이 담길 수 있습니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `For / what?` ('포 왓?'. 'what'에 강세가 있으며, 의문문이므로 끝을 올립니다.)
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `I need you to come with me. / For what?`
+    - 🇰🇷 나랑 같이 가야 해. / 왜? (무엇 때문에?)
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: 'Why?'와 비슷하지만, 'For what?'은 '무엇을 위해서?'라는 목적에 초점을 맞춥니다.
+
+### 🔹 Forget it. : 잊어 버리세요. 신경꺼요.
+- **💡 뉘앙스 & 실전 활용 맥락**:
+    1. 중요하지 않으니 잊어버리라고 할 때.
+    2. 상대방이 이해하지 못하거나 고집을 부릴 때, 더 이상 설명하거나 설득하는 것을 포기할 때 (짜증 섞인 어조).
+    3. 사과에 대해 "괜찮다"고 할 때 (Don't mention it과 유사).
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `Forget / it.` ('포겟 잇'. 'get'에 강세가 있으며, 'get'과 'it'이 연음되어 '게릿'처럼 들립니다.)
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `Oh, never mind. / Forget it.`
+    - 🇰🇷 아, 신경 쓰지 마. / 잊어버려.
+  - 🇺🇸 `I tried to explain, / but you just don't get it. / Forget it.`
+    - 🇰🇷 설명하려고 했는데, / 넌 이해를 못 하는구나. / 됐어. (포기)
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: 문맥에 따라 뉘앙스가 크게 달라지므로 주의해야 합니다. 짜증 섞인 어조로 사용하면 상대방에게 불쾌감을 줄 수 있습니다.
+
+### 🔹 Get in the line. : 줄을 서세요
+- **💡 뉘앙스 & 실전 활용 맥락**: 줄을 서지 않고 새치기를 하거나, 줄을 서야 하는 상황에서 사람들에게 줄을 서라고 지시할 때 사용합니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `Get in / the line.` ('겟 인 더 라인'. 'Get in'이 연음되어 '게린'처럼 들리고, 'line'에 강세.)
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `Excuse me, / you need to / get in the line.`
+    - 🇰🇷 실례합니다, / 줄을 서셔야 합니다.
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: 'Stand in line'도 같은 의미로 사용됩니다. 'Make a line'은 어색합니다.
+
+### 🔹 Get lost! : 당장 꺼져 버려
+- **💡 뉘앙스 & 실전 활용 맥락**: 매우 무례하고 화가 났을 때, 상대방에게 당장 사라지라고 명령하는 표현입니다. 강한 분노나 짜증이 담겨 있습니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `Get / lost!` ('겟 로스트!'. 두 단어 모두 강하게 발음하며, 'lost'에 더 강한 강세.)
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `Stop bothering me! / Get lost!`
+    - 🇰🇷 나 좀 그만 괴롭혀! / 당장 꺼져!
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: 매우 공격적인 표현이므로 친한 사이가 아니면 사용하지 않는 것이 좋습니다. '길을 잃다'는 'I got lost'로 표현합니다.
+
+### 🔹 Get off my back. : (등에 업혀 있지 말고) 이제 나를 고만 괴롭혀요
+- **💡 뉘앙스 & 실전 활용 맥락**: 누군가가 자신을 계속해서 잔소리하거나 괴롭힐 때, 그만하라고 요구하는 표현입니다. 짜증과 불만이 섞여 있습니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `Get off / my back.` ('게러프 마이 백'. 'Get off'가 연음되어 '게러프'처럼 들리고, 'back'에 강세.)
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `I know I made a mistake, / just get off my back!`
+    - 🇰🇷 내가 실수한 건 알아, / 이제 그만 좀 괴롭혀!
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: 'Stop bothering me'보다 더 구어적이고 감정적인 표현입니다.
+
+### 🔹 Get real! : 현실적이 되세요. 냉정해 지세요
+- **💡 뉘앙스 & 실전 활용 맥락**: 상대방이 비현실적인 생각이나 꿈같은 소리를 할 때, 현실을 직시하라고 충고하거나 비판할 때 사용합니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `Get / real!` ('겟 리얼!'. 두 단어 모두 강하게 발음하며, 'real'에 더 강한 강세.)
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `You think you can win the lottery / without buying a ticket? / Get real!`
+    - 🇰🇷 복권을 안 사고도 / 당첨될 수 있다고 생각해? / 정신 차려! (현실적이 돼!)
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: 'Be realistic'보다 훨씬 구어적이고 직접적인 표현입니다.
+
+### 🔹 Get the picture? : 이제 뭔가 그림이 보이세요?
+- **💡 뉘앙스 & 실전 활용 맥락**: 상대방이 상황이나 설명을 이해했는지 확인할 때 사용합니다. "이제 알겠어?", "상황 파악이 돼?"와 같은 의미입니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `Get / the picture?` ('겟 더 픽쳐?'. 'picture'에 강세가 있으며, 의문문이므로 끝을 올립니다.)
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `So, if we don't finish this by Friday, / we're in big trouble. / Get the picture?`
+    - 🇰🇷 그러니까, 금요일까지 이걸 못 끝내면 / 큰일 나는 거야. / 상황 파악 돼?
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: 'Do you understand?'보다 좀 더 비유적이고 구어적인 표현입니다.
+
+### 🔹 Give it a rest. : 이제 그만 두세요. (이만 좀 쉬세요)
+- **💡 뉘앙스 & 실전 활용 맥락**:
+    1. 어떤 행동이나 논쟁을 그만두라고 할 때 (짜증 섞인 어조).
+    2. 너무 열심히 일하는 사람에게 "이제 좀 쉬어라"고 할 때.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `Give it / a rest.` ('기빗 어 레스트'. 'Give it'이 연음되어 '기빗'처럼 들리고, 'rest'에 강세.)
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `You've been complaining all day. / Give it a rest.`
+    - 🇰🇷 하루 종일 불평만 했잖아. / 이제 그만 좀 해.
+  - 🇺🇸 `You've been working for hours. / Give it a rest.`
+    - 🇰🇷 몇 시간째 일하고 있잖아. / 이제 좀 쉬어.
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: 문맥에 따라 '그만해' 또는 '쉬어'로 해석될 수 있습니다. 'Stop it'보다 부드럽지만, 짜증 섞인 어조로 말하면 불쾌감을 줄 수 있습니다.
+
+### 🔹 Give it a try. : 노력 해 보세요
+- **💡 뉘앙스 & 실전 활용 맥락**: 상대방에게 어떤 것을 시도해보라고 격려하거나 제안할 때 사용합니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `Give it / a try.` ('기빗 어 트라이'. 'Give it'이 연음되어 '기빗'처럼 들리고, 'try'에 강세.)
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `I'm not sure if I can do it. / Just give it a try!`
+    - 🇰🇷 제가 할 수 있을지 모르겠어요. / 그냥 한번 해 봐요!
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: 'Try it'보다 좀 더 격려의 뉘앙스가 강합니다.
+
+### 🔹 Give me a call. : 제게 전화 주세요
+- **💡 뉘앙스 & 실전 활용 맥락**: 상대방에게 자신에게 전화해달라고 요청할 때 사용합니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `Give me / a call.` ('기미 어 콜'. 'Give me'가 연음되어 '기미'처럼 들리고, 'call'에 강세.)
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `When you're free, / give me a call.`
+    - 🇰🇷 시간 될 때, / 전화 줘.
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: 'Call me'와 같은 의미이지만, 'Give me a call'이 좀 더 부드럽고 자연스러운 표현입니다.
+
+### 🔹 Gladly. : 기꺼이 하지요
+- **💡 뉘앙스 & 실전 활용 맥락**: 상대방의 요청이나 제안에 대해 기쁜 마음으로 동의하거나 수락할 때 사용합니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `Gladly.` ('글래들리'. 'Glad'에 강세.)
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `Could you help me with this? / Gladly!`
+    - 🇰🇷 이것 좀 도와주실 수 있나요? / 기꺼이요!
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: 'Yes, I will'보다 훨씬 적극적이고 긍정적인 느낌을 줍니다.
+
+### 🔹 Go ahead. : 어서 그렇게 하세요
+- **💡 뉘앙스 & 실전 활용 맥락**:
+    1. 상대방에게 먼저 하라고 허락하거나 권유할 때.
+    2. 질문이나 말을 계속하라고 할 때.
+    3. 어떤 행동을 시작하라고 할 때.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `Go / ahead.` ('고 어헤드'. 'ahead'의 'head'에 강세.)
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `May I start eating? / Go ahead.`
+    - 🇰🇷 먼저 먹어도 될까요? / 어서 드세요.
+  - 🇺🇸 `Do you have a question? / Go ahead.`
+    - 🇰🇷 질문 있으세요? / 말씀하세요.
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: 'Do it'보다 훨씬 부드럽고 허락의 뉘앙스가 강합니다.
+
+### 🔹 Go fifty-fifty. : 반반 나누어 내지요
+- **💡 뉘앙스 & 실전 활용 맥락**: 비용이나 책임을 반반씩 부담하자고 제안할 때 사용합니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `Go / fifty-fifty.` ('고 피프티-피프티'. 'fifty-fifty'에 강세.)
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `Let's go fifty-fifty / on the dinner bill.`
+    - 🇰🇷 저녁 식사 비용은 / 반반 나누어 내자.
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: 'Split the bill'과 유사하지만, 'Go fifty-fifty'는 좀 더 구어적입니다.
+
+### 🔹 Go for it. : 그것을 한번 해 보시지요. 노력 해 보시지요
+- **💡 뉘앙스 & 실전 활용 맥락**: 상대방에게 어떤 목표나 도전을 망설이지 말고 시도해보라고 강력하게 격려할 때 사용합니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `Go / for it.` ('고 포 릿'. 'for it'이 연음되어 '포릿'처럼 들리고, 'go'와 'it'에 강세.)
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `I'm scared to try bungee jumping. / Don't be! / Go for it!`
+    - 🇰🇷 번지점프 해보는 게 무서워. / 두려워하지 마! / 한번 해 봐!
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: 'Try it'보다 훨씬 더 열정적이고 적극적인 격려의 표현입니다.
+
+### 🔹 Go get it. : 가서 가지세요
+- **💡 뉘앙스 & 실전 활용 맥락**: 어떤 물건을 가져오라고 지시할 때 사용합니다. 때로는 목표를 향해 나아가라는 격려의 의미로도 쓰입니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `Go / get it.` ('고 게릿'. 'get it'이 연음되어 '게릿'처럼 들리고, 'get'에 강세.)
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `Your package is at the front desk. / Go get it.`
+    - 🇰🇷 당신 소포가 프런트 데스크에 있어요. / 가서 가져오세요.
+  - 🇺🇸 `You have a great opportunity. / Go get it!`
+    - 🇰🇷 좋은 기회가 있어. / 가서 잡아! (쟁취해!)
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: 'Go and get it'의 축약형으로, 구어체에서 매우 흔하게 쓰입니다.
+
+### 🔹 Go on, please. : 어서 계속 하세요
+- **💡 뉘앙스 & 실전 활용 맥락**: 상대방이 말을 멈추거나 망설일 때, 계속해서 말하거나 행동하라고 격려할 때 사용합니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `Go on, / please.` ('고 온, 플리즈'. 'on'에 강세.)
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `I was about to say... / Go on, please.`
+    - 🇰🇷 제가 말하려던 건... / 계속 말씀하세요.
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: 'Continue'보다 더 부드럽고 격려하는 뉘앙스입니다.
+
+### 🔹 Going down? : 내려 가세요?
+- **💡 뉘앙스 & 실전 활용 맥락**: 엘리베이터에서 상대방에게 아래층으로 가는지 물어볼 때 사용합니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `Going / down?` ('고잉 다운?'. 'down'에 강세가 있으며, 의문문이므로 끝을 올립니다.)
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `(In an elevator) / Going down?`
+    - 🇰🇷 (엘리베이터 안에서) / 내려가세요?
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: 'Are you going down?'의 축약형으로, 일상 회화에서 매우 흔하게 쓰입니다.
+
+### 🔹 Going up? : 올라 가세요?
+- **💡 뉘앙스 & 실전 활용 맥락**: 엘리베이터에서 상대방에게 위층으로 가는지 물어볼 때 사용합니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `Going / up?` ('고잉 업?'. 'up'에 강세가 있으며, 의문문이므로 끝을 올립니다.)
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `(In an elevator) / Going up?`
+    - 🇰🇷 (엘리베이터 안에서) / 올라가세요?
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: 'Are you going up?'의 축약형으로, 일상 회화에서 매우 흔하게 쓰입니다.
+
+### 🔹 Good enough. : 그 정도면 충분 합니다. 좋습니다
+- **💡 뉘앙스 & 실전 활용 맥락**: 어떤 것이 요구 사항을 충족하거나, 더 이상 개선할 필요가 없다고 판단될 때 사용합니다. 만족감을 표현합니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `Good / enough.` ('굿 이너프'. 'enough'의 'nough'에 강세.)
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `Is this report detailed enough? / Yes, it's good enough.`
+    - 🇰🇷 이 보고서가 충분히 자세한가요? / 네, 그 정도면 충분해요.
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: 'It's enough'보다 'Good enough'는 '괜찮다, 만족스럽다'는 긍정적인 뉘앙스가 더 강합니다.
+
+### 🔹 Good for you. : 당신에게 좋은 일이지요
+- **💡 뉘앙스 & 실전 활용 맥락**:
+    1. 상대방에게 좋은 일이 생겼을 때 축하하거나 칭찬할 때.
+    2. 때로는 비꼬는 듯한 어조로 "네가 잘났지"라는 의미로 사용될 수도 있으니 주의.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `Good / for you.` ('굿 포 유'. 'good'에 강세. 'for'는 약하게 '퍼'처럼 발음될 때가 많습니다.)
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `I got a promotion! / Good for you!`
+    - 🇰🇷 승진했어요! / 잘 됐네요! (축하해요!)
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: 긍정적인 의미로 사용할 때는 밝고 진심 어린 어조로 말해야 합니다. 비꼬는 뉘앙스를 피하려면 표정과 어조가 중요합니다.
+
+### 🔹 Good luck to you! : 당신에게 행운을 빕니다
+- **💡 뉘앙스 & 실전 활용 맥락**: 상대방이 어떤 일을 앞두고 있을 때, 성공을 기원하며 행운을 빌어주는 표현입니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `Good luck / to you!` ('굿 럭 투 유!'. 'luck'에 강세. 'to'는 약하게 '투' 또는 '터'처럼 발음됩니다.)
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `I have a big exam tomorrow. / Good luck to you!`
+    - 🇰🇷 내일 중요한 시험이 있어요. / 행운을 빌어요!
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: 'Good luck'보다 'to you'를 붙여서 좀 더 강조하거나 특정인에게 행운을 빌어주는 느낌을 줍니다.
+
+### 🔹 Good luck. : 행운을 빕니다
+- **💡 뉘앙스 & 실전 활용 맥락**: 상대방에게 행운을 빌어주는 가장 일반적인 표현입니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `Good / luck.` ('굿 럭'. 'luck'에 강세.)
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `I hope you get the job. / Good luck!`
+    - 🇰🇷 그 일자리를 얻길 바라. / 행운을 빌어!
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: 매우 흔하고 자연스러운 표현입니다.
+
+### 🔹 Good talking to you. : 당신과의 대화는 즐거 웠어요
+- **💡 뉘앙스 & 실전 활용 맥락**: 대화를 마무리하며 상대방에게 즐거운 시간이었음을 표현할 때 사용합니다. 헤어질 때의 인사말입니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `Good / talking to you.` ('굿 토킹 투 유'. 'talking'에 강세. 'to'는 약하게 '투' 또는 '터'처럼 발음됩니다.)
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `Well, I should get going. / Good talking to you.`
+    - 🇰🇷 음, 이제 가봐야겠네요. / 즐거운 대화였습니다.
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: 'It was good to talk to you'의 축약형으로, 구어체에서 매우 자연스럽습니다.
+
+### 🔹 Grow up! : 좀 철좀 들어라
+- **💡 뉘앙스 & 실전 활용 맥락**: 상대방이 유치하거나 어리석게 행동할 때, 성숙하게 행동하라고 비난하거나 충고할 때 사용합니다. 짜증이나 실망이 담겨 있습니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `Grow / up!` ('그로우 업!'. 두 단어 모두 강하게 발음하며, 'up'에 더 강한 강세. 'Grow'와 'up'이 연음되어 '그로우업'처럼 들립니다.)
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `Stop acting like a child, / grow
+
+### 🔹 Just about. : 거의
+- **💡 뉘앙스 & 실전 활용 맥락**: 어떤 양이나 정도가 '거의 다 되었다'거나 '거의 그 정도다'라고 동의할 때 사용합니다. 정확히 일치하지는 않지만 매우 근접할 때 쓰죠.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `Just / about.` (`t` 발음이 약하게 연음되거나 거의 들리지 않을 수 있습니다.)
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `Are you finished with your work? Just about.` (Are you finished / with your work? / Just about.)
+    - 🇰🇷 일 다 끝냈어요? 거의 다요.
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: '거의'라는 의미로 `almost`와 혼동하기 쉽지만, `just about`은 좀 더 구어적이고 '거의 다 됐다'는 완료의 뉘앙스가 강합니다.
+
+### 🔹 Just kidding. : 그냥 농담이에요
+- **💡 뉘앙스 & 실전 활용 맥락**: 상대방에게 한 말이 진심이 아니었음을 밝히며 농담이었다고 말할 때 사용합니다. 분위기를 부드럽게 만들거나 오해를 풀 때 유용합니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `Just / kidding.` (`t` 발음이 약하게 연음되거나 거의 들리지 않을 수 있습니다. `kidding`의 `dd`는 부드러운 `ㄹ` 발음과 유사합니다.)
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `You really believed that? Just kidding!` (You really / believed that? / Just kidding!)
+    - 🇰🇷 그거 진짜 믿었어요? 농담이에요!
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: `I'm just kidding`이라고 주어를 붙여 말해도 되지만, `Just kidding`만으로도 충분히 의미가 전달됩니다.
+
+### 🔹 Just looking. : 그냥 보는 거에요
+- **💡 뉘앙스 & 실전 활용 맥락**: 상점 등에서 점원이 "May I help you?"라고 물었을 때, 특별히 필요한 것 없이 그냥 구경하고 있을 때 정중하게 거절하며 사용하는 표현입니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `Just / looking.` (`t` 발음이 약하게 연음되거나 거의 들리지 않을 수 있습니다. `looking`의 `g`는 거의 발음되지 않습니다.)
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `Can I help you find something? No, thanks, just looking.` (Can I help you / find something? / No, thanks, / just looking.)
+    - 🇰🇷 뭐 찾는 거 도와드릴까요? 아니요, 괜찮아요, 그냥 보는 중이에요.
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: `I'm just looking`이라고 주어를 붙여 말해도 되지만, `Just looking`만으로도 충분히 자연스럽습니다.
+
+### 🔹 Just a moment. : 잠깐 만요
+- **💡 뉘앙스 & 실전 활용 맥락**: 상대방에게 잠시 기다려 달라고 요청할 때 사용하는 매우 흔하고 공손한 표현입니다. `Just a minute`과 유사하게 사용됩니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `Just a / moment.` (`t`와 `a`가 `츠더`처럼 연음되고, `moment`의 `t`는 약하게 발음됩니다.)
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `Could you please hold on? Just a moment, I'll be right with you.` (Could you please / hold on? / Just a moment, / I'll be right with you.)
+    - 🇰🇷 잠시만 기다려 주시겠어요? 잠시만요, 바로 도와드릴게요.
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: `Just moment`이라고 `a`를 빼먹지 않도록 주의하세요. `a`가 있어야 자연스럽습니다.
+
+### 🔹 Keep an eye on this, will you? : 이것좀 봐줘여, 그렇래요?
+- **💡 뉘앙스 & 실전 활용 맥락**: 어떤 물건이나 상황을 잠시 동안 지켜봐 달라고 부탁할 때 사용합니다. `will you?`는 부가 의문문으로, 상대방의 동의를 구하는 뉘앙스입니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `Keep an / eye on / this, / will you?` (`keep an`은 `키번`처럼, `eye on`은 `아이온`처럼 연음됩니다. `will you`는 `윌유`처럼 빠르게 발음됩니다.)
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `I need to step out for a minute. Keep an eye on this, will you?` (I need to / step out / for a minute. / Keep an eye on this, / will you?)
+    - 🇰🇷 잠시 나갔다 와야 해요. 이것 좀 봐주시겠어요?
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: `watch this`와 혼동할 수 있지만, `keep an eye on`은 '주의 깊게 지켜보다, 돌보다'의 의미가 더 강합니다.
+
+### 🔹 Keep going. : 계속 가세요
+- **💡 뉘앙스 & 실전 활용 맥락**: 하던 일을 멈추지 않고 계속 진행하라고 격려하거나 지시할 때 사용합니다. 물리적으로 '계속 걷다/운전하다'의 의미도 있습니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `Keep / going.` (`going`의 `g`는 거의 발음되지 않습니다.)
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `Don't stop now, you're almost there. Keep going!` (Don't stop now, / you're almost there. / Keep going!)
+    - 🇰🇷 지금 멈추지 마, 거의 다 왔어. 계속해!
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: `Go on`과 유사하지만, `Keep going`은 '멈추지 않고 지속하다'는 뉘앙스가 더 강합니다.
+
+### 🔹 Keep in touch. : 계속 연락해요
+- **💡 뉘앙스 & 실전 활용 맥락**: 헤어질 때 상대방에게 앞으로도 계속 연락하며 지내자는 의미로 사용합니다. 친밀한 관계에서 자주 쓰입니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `Keep in / touch.` (`keep in`은 `키핀`처럼 연음됩니다.)
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `It was great seeing you! Let's keep in touch.` (It was great / seeing you! / Let's keep in touch.)
+    - 🇰🇷 만나서 정말 좋았어요! 계속 연락해요.
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: `Keep contact`은 어색합니다. `Keep in touch`가 올바른 표현입니다.
+
+### 🔹 Keep it confidential. : 대외 비밀로 해 주세요
+- **💡 뉘앙스 & 실전 활용 맥락**: 어떤 정보를 다른 사람에게 발설하지 말고 비밀로 유지해 달라고 요청할 때 사용합니다. 주로 업무나 민감한 사안에 대해 쓰입니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `Keep it / confidential.` (`keep it`은 `키핏`처럼 연음됩니다. `confidential`은 `컨피덴셜`처럼 발음됩니다.)
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `This information is highly sensitive, so please keep it confidential.` (This information / is highly sensitive, / so please / keep it confidential.)
+    - 🇰🇷 이 정보는 매우 민감하니, 대외 비밀로 해주세요.
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: `Keep it secret`도 가능하지만, `confidential`은 '기밀'이라는 좀 더 공식적이고 전문적인 뉘앙스를 가집니다.
+
+### 🔹 Keep it to yourself. : 당신만 알고 계세요. (비밀로 해 주세요)
+- **💡 뉘앙스 & 실전 활용 맥락**: 어떤 정보를 다른 사람에게 말하지 말고 오직 자신만 알고 있으라고 당부할 때 사용합니다. 개인적인 비밀에 대해 주로 쓰입니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `Keep it / to yourself.` (`keep it`은 `키핏`처럼 연음됩니다. `to`는 `투`보다는 `터`에 가깝게 약하게 발음됩니다.)
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `I'm going to tell you something important, but you have to keep it to yourself.` (I'm going to / tell you / something important, / but you have to / keep it to yourself.)
+    - 🇰🇷 중요한 걸 말해줄 건데, 당신만 알고 있어야 해요.
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: `Keep it secret`과 유사하지만, `Keep it to yourself`는 '다른 사람에게 말하지 말라'는 행위에 초점을 맞춥니다.
+
+### 🔹 Keep looking. : 계속해서 찾아 봐요
+- **💡 뉘앙스 & 실전 활용 맥락**: 무언가를 찾고 있는 사람에게 포기하지 말고 계속 찾아보라고 격려할 때 사용합니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `Keep / looking.` (`looking`의 `g`는 거의 발음되지 않습니다.)
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `Don't give up! I'm sure it's around here somewhere. Keep looking.` (Don't give up! / I'm sure / it's around here somewhere. / Keep looking.)
+    - 🇰🇷 포기하지 마! 분명히 이 근처 어딘가에 있을 거야. 계속 찾아봐.
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: `Keep searching`도 가능하지만, `Keep looking`이 더 일반적이고 구어적입니다.
+
+### 🔹 Keep out of my way. : 제 길을 막지 마세요
+- **💡 뉘앙스 & 실전 활용 맥락**: 상대방이 자신의 길을 방해하거나, 어떤 일에 간섭하여 방해가 될 때 다소 강하게 경고하는 표현입니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `Keep out of / my way.` (`keep out of`는 `키바우러브`처럼 빠르게 연음됩니다.)
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `I'm in a hurry, so please keep out of my way.` (I'm in a hurry, / so please / keep out of my way.)
+    - 🇰🇷 저 급해요, 그러니 제 길을 막지 마세요.
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: 직역해서 `Don't block my way`라고 할 수도 있지만, `Keep out of my way`가 더 자연스러운 원어민 표현입니다.
+
+### 🔹 Keep the change. : 잔돈을 가지세요
+- **💡 뉘앙스 & 실전 활용 맥락**: 계산 후 거스름돈을 받지 않고 상대방(택시 기사, 점원 등)에게 팁으로 주거나 그냥 가지라고 할 때 사용합니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `Keep the / change.` (`the`는 `더`보다는 `드`에 가깝게 약하게 발음됩니다.)
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `Here's twenty dollars. Keep the change.` (Here's / twenty dollars. / Keep the change.)
+    - 🇰🇷 여기 20달러요. 잔돈은 가지세요.
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: `Have the change`는 어색합니다. `Keep the change`가 올바른 표현입니다.
+
+### 🔹 Keep your chin up! : 고개를 드세요. 낙담 하지 마세요 기운을 내요
+- **💡 뉘앙스 & 실전 활용 맥락**: 어려운 상황에 처한 사람에게 용기를 북돋아 주거나, 낙담하지 말고 기운을 내라고 격려할 때 사용합니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `Keep your / chin up!` (`your`는 `유어`보다는 `여`에 가깝게 약하게 발음됩니다.)
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `I know things are tough right now, but keep your chin up!` (I know / things are tough / right now, / but keep your chin up!)
+    - 🇰🇷 지금 상황이 힘들다는 거 알지만, 기운 내세요!
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: 직역해서 `Raise your head`라고 하면 어색합니다. `Keep your chin up`이 관용적인 표현입니다.
+
+### 🔹 Knock it off. : 그만 두세요
+- **💡 뉘앙스 & 실전 활용 맥락**: 상대방이 하고 있는 시끄럽거나 짜증 나는 행동을 멈추라고 다소 단호하게 말할 때 사용합니다. 비격식적이고 직접적인 표현입니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `Knock it / off.` (`knock it`은 `나킷`처럼 연음됩니다.)
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `Hey, you two! Knock it off and get back to work.` (Hey, you two! / Knock it off / and get back to work.)
+    - 🇰🇷 야, 너희 둘! 그만하고 다시 일해.
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: `Stop it`과 유사하지만, `Knock it off`는 좀 더 짜증이나 불만을 담아 '그만 좀 해!'라는 뉘앙스가 강합니다.
+
+### 🔹 Large or small? : 큰거요 아니면 작은 거요
+- **💡 뉘앙스 & 실전 활용 맥락**: 두 가지 크기 중 하나를 선택해야 할 때 상대방에게 묻는 질문입니다. 주로 음료나 음식 주문 시 사용됩니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `Large or / small?` (`or`는 `오어`보다는 `어`에 가깝게 약하게 발음됩니다.)
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `Would you like a coffee? Large or small?` (Would you like / a coffee? / Large or small?)
+    - 🇰🇷 커피 드릴까요? 큰 거요 아니면 작은 거요?
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: `Big or small`도 의미는 통하지만, 상품의 크기를 말할 때는 `Large or small`이 더 일반적입니다.
+
+### 🔹 Let it be! : 그렇게 되도록 두지요.
+- **💡 뉘앙스 & 실전 활용 맥락**: 어떤 상황이나 문제를 억지로 바꾸려 하지 말고 자연스럽게 흘러가도록 내버려 두라고 말할 때 사용합니다. 비틀즈 노래 제목으로도 유명하죠.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `Let it / be!` (`let it`은 `레딧`처럼 연음됩니다.)
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `Don't worry about it so much. Sometimes, it's best to just let it be.` (Don't worry / about it so much. / Sometimes, / it's best to / just let it be.)
+    - 🇰🇷 너무 걱정하지 마. 가끔은 그냥 내버려 두는 게 최선이야.
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: `Leave it`과 유사하지만, `Let it be`는 '간섭하지 말고 자연스럽게 두다'는 뉘앙스가 더 강합니다.
+
+### 🔹 Let me see… : 자 어떻게 된건지 보자
+- **💡 뉘앙스 & 실전 활용 맥락**: 어떤 상황을 이해하거나, 무언가를 확인하기 위해 잠시 생각하거나 살펴보는 시간을 가질 때 사용하는 구어적인 표현입니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `Let me / see…` (`let me`는 `레미`처럼 연음됩니다.)
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `How many people are coming to the party? Let me see… I think about ten.` (How many people / are coming / to the party? / Let me see… / I think / about ten.)
+    - 🇰🇷 파티에 몇 명이나 와? 자 보자… 한 열 명쯤 될 것 같아.
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: `Let's see`와 유사하지만, `Let me see`는 '내가 한번 보자/생각해 보자'는 주체적인 뉘앙스가 강합니다.
+
+### 🔹 Let me think about it. : 그것에 대해서 좀 생각 해 봅시다
+- **💡 뉘앙스 & 실전 활용 맥락**: 어떤 제안이나 문제에 대해 즉답하지 않고, 좀 더 시간을 가지고 신중하게 생각해 보겠다고 말할 때 사용합니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `Let me / think about / it.` (`let me`는 `레미`처럼, `think about`은 `띵커바웃`처럼 연음됩니다.)
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `Do you want to join our project? Let me think about it.` (Do you want to / join our project? / Let me think about it.)
+    - 🇰🇷 우리 프로젝트에 참여할래요? 그것에 대해 좀 생각해 볼게요.
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: `I will think about it`도 가능하지만, `Let me think about it`이 좀 더 부드럽고 자연스러운 표현입니다.
+
+### 🔹 Let's give him a big hand. : 그에게 큰 박수를 보냅시다
+- **💡 뉘앙스 & 실전 활용 맥락**: 누군가의 발표나 공연이 끝난 후, 또는 특별한 성과를 낸 사람에게 박수갈채를 보내자고 제안할 때 사용합니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `Let's give him / a big hand.` (`give him`은 `기빔`처럼 연음됩니다. `a big`은 `어빅`처럼 연음됩니다.)
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `That was an amazing performance! Let's give him a big hand.` (That was / an amazing performance! / Let's give him / a big hand.)
+    - 🇰🇷 정말 멋진 공연이었어요! 그에게 큰 박수를 보냅시다.
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: `Give him a big applause`는 어색합니다. `Give him a big hand`가 올바른 관용 표현입니다.
+
+### 🔹 Let's call it a day. : 오늘은 이것으로 마칩시다
+- **💡 뉘앙스 & 실전 활용 맥락**: 하루의 일이나 활동을 이제 그만 끝내고 마무리하자고 제안할 때 사용합니다. 주로 직장이나 학교에서 쓰입니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `Let's call it / a day.` (`call it`은 `콜릿`처럼 연음됩니다.)
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `We've worked hard enough. Let's call it a day.` (We've worked / hard enough. / Let's call it a day.)
+    - 🇰🇷 충분히 열심히 일했어요. 오늘은 이것으로 마칩시다.
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: `Let's finish today`는 의미는 통하지만, `Let's call it a day`가 훨씬 자연스러운 원어민 표현입니다.
+
+### 🔹 Let's eat out. : 자, 외식 하지요
+- **💡 뉘앙스 & 실전 활용 맥락**: 집에서 요리하지 않고 식당에 가서 식사하자고 제안할 때 사용합니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `Let's / eat out.` (`eat out`은 `이타웃`처럼 연음됩니다.)
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `I'm too tired to cook tonight. Let's eat out.` (I'm too tired / to cook tonight. / Let's eat out.)
+    - 🇰🇷 오늘 밤은 요리하기 너무 피곤해. 외식하자.
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: `Let's go out for dinner`도 가능하지만, `Let's eat out`이 더 간결하고 일반적인 표현입니다.
+
+### 🔹 Let's get down to business. : 이제 일을 시작 하지요
+- **💡 뉘앙스 & 실전 활용 맥락**: 잡담이나 서론을 마치고 본론으로 들어가거나, 본격적으로 중요한 일을 시작하자고 제안할 때 사용합니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `Let's get down to / business.` (`get down to`는 `겟다운투`처럼 빠르게 연음됩니다.)
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `Enough small talk. Let's get down to business and discuss the proposal.` (Enough / small talk. / Let's get down to business / and discuss / the proposal.)
+    - 🇰🇷 잡담은 충분히 했어요. 이제 본론으로 들어가서 제안서를 논의합시다.
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: `Let's start work`도 의미는 통하지만, `Let's get down to business`는 '본격적으로 중요한 일을 시작하다'는 뉘앙스가 강합니다.
+
+### 🔹 Let's get together sometime. : 언제 같이 모여 보지요
+- **💡 뉘앙스 & 실전 활용 맥락**: 상대방에게 나중에 언젠가 만나서 시간을 보내자고 제안할 때 사용합니다. 구체적인 약속을 잡기 전의 가벼운 제안입니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `Let's get together / sometime.` (`get together`는 `겟투게더`처럼 연음됩니다.)
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `It was great catching up. Let's get together sometime soon.` (It was great / catching up. / Let's get together / sometime soon.)
+    - 🇰🇷 오랜만에 만나서 좋았어요. 조만간 언제 같이 모여요.
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: `Let's meet sometime`도 가능하지만, `get together`는 좀 더 친밀하고 캐주얼한 모임을 의미합니다.
+
+### 🔹 Let's go over it one more time. : 자 한번 더 살펴 보지요
+- **💡 뉘앙스 & 실전 활용 맥락**: 어떤 내용이나 계획을 다시 한번 검토하거나 확인하자고 제안할 때 사용합니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `Let's go over / it one more time.` (`go over`는 `고오버`처럼 연음됩니다. `it one`은 `이론`처럼 연음됩니다.)
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `I'm not sure I understood everything. Let's go over it one more time.` (I'm not sure / I understood everything. / Let's go over it / one more time.)
+    - 🇰🇷 제가 모든 걸 다 이해했는지 모르겠어요. 한 번 더 살펴봅시다.
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: `Let's check it again`도 가능하지만, `go over`는 '자세히 검토하다'는 뉘앙스가 강합니다.
+
+### 🔹 Let's see. : 좀 봅시다
+- **💡 뉘앙스 & 실전 활용 맥락**: `Let me see`와 유사하게, 어떤 상황을 이해하거나, 무언가를 확인하기 위해 잠시 생각하거나 살펴보는 시간을 가질 때 사용합니다. 좀 더 일반적인 표현입니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `Let's / see.` (`s` 발음을 명확하게 합니다.)
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `What's on the agenda for today? Let's see.` (What's on / the agenda / for today? / Let's see.)
+    - 🇰🇷 오늘 의제는 뭐죠? 좀 봅시다.
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: `Let's see`는 '우리 한번 보자/생각해 보자'는 의미로, `Let me see`보다 주어가 불특정 다수일 때도 사용 가능합니다.
+
+### 🔹 Let's split the bill. : 나누어서 내지요
+- **💡 뉘앙스 & 실전 활용 맥락**: 식사나 모임 후 계산할 때, 각자 먹은 만큼 또는 똑같이 비용을 나누어 내자고 제안할 때 사용합니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `Let's split / the bill.` (`split the`는 `스플릿더`처럼 연음됩니다.)
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `That was a great meal. Let's split the bill.` (That was / a great meal. / Let's split the bill.)
+    - 🇰🇷 정말 맛있는 식사였어요. 나누어 내죠.
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: `Let's divide the bill`은 어색합니다. `Split the bill`이 올바른 표현입니다.
+
+### 🔹 Let's try. : 한번 해보지요
+- **💡 뉘앙스 & 실전 활용 맥락**: 어떤 새로운 시도나 도전을 해보자고 제안하거나, 어려워 보이는 일이라도 일단 시도해보자고 격려할 때 사용합니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `Let's / try.` (`s` 발음을 명확하게 합니다.)
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `I'm not sure if it will work, but let's try.` (I'm not sure / if it will work, / but let's try.)
+    - 🇰🇷 될지 안 될지 모르겠지만, 한번 해보죠.
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: `Let's challenge`는 어색합니다. `Let's try`가 '시도하다'는 의미로 적절합니다.
+
+### 🔹 Look who's here. : 아니 이게 누구야
+- **💡 뉘앙스 & 실전 활용 맥락**: 예상치 못하게 아는 사람을 만났을 때 놀라움과 반가움을 표현하며 사용하는 구어적인 표현입니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `Look who's / here.` (`who's`는 `후즈`처럼 발음됩니다.)
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `(Walking into a party) Well, look who's here! I didn't expect to see you.` ((Walking into a party) / Well, / look who's here! / I didn't expect / to see you.)
+    - 🇰🇷 (파티에 들어가며) 아니 이게 누구야! 널 볼 줄은 몰랐네.
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: 직역해서 `Who is this?`라고 하면 어색하며, `Look who's here`가 관용적인 표현입니다.
+
+### 🔹 Lucky you! : 자네 운이 좋았어
+- **💡 뉘앙스 & 실전 활용 맥락**: 상대방에게 좋은 일이 생겼을 때, 그 사람이 운이 좋았다고 부러움이나 축하의 의미를 담아 말할 때 사용합니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `Lucky / you!` (감탄사를 담아 발음합니다.)
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `I got tickets to the concert! Lucky you!` (I got tickets / to the concert! / Lucky you!)
+    - 🇰🇷 나 콘서트 티켓 구했어! 운이 좋았네!
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: `You are lucky`도 가능하지만, `Lucky you!`가 더 감탄사적이고 구어적인 표현입니다.
+
+### 🔹 Make a way! : 길을 비켜 주세요
+- **💡 뉘앙스 & 실전 활용 맥락**: 혼잡한 곳에서 다른 사람들에게 길을 비켜 달라고 요청할 때 사용합니다. 다소 급하거나 단호한 뉘앙스를 가질 수 있습니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `Make a / way!` (`make a`는 `메이커`처럼 연음됩니다.)
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `Excuse me, I need to get through. Make a way!` (Excuse me, / I need to / get through. / Make a way!)
+    - 🇰🇷 실례합니다, 지나가야 해요. 길을 비켜 주세요!
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: `Move aside`도 가능하지만, `Make a way`는 '길을 만들다'는 의미로 좀 더 적극적인 요청입니다.
+
+### 🔹 Make mine well done. : 내것은 잘 익도록 해줘요
+- **💡 뉘앙스 & 실전 활용 맥락**: 스테이크 등 고기 요리를 주문할 때, 자신의 것을 '웰던(well done)'으로 해달라고 요청할 때 사용합니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `Make mine / well done.` (`mine`과 `well` 사이는 살짝 끊어 읽습니다.)
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `I'd like the steak, please. Make mine well done.` (I'd like / the steak, please. / Make mine / well done.)
+    - 🇰🇷 스테이크 주세요. 제 건 잘 익혀주세요.
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: `My order is well done`은 어색합니다. `Make mine well done`이 자연스러운 주문 표현입니다.
+
+### 🔹 Make that two, please. : 그것을 2 개로 해 주세요
+- **💡 뉘앙스 & 실전 활용 맥락**: 다른 사람이 주문한 것과 똑같은 것을 자신도 주문할 때, 또는 이미 주문한 것을 하나 더 추가하여 총 두 개로 만들어 달라고 요청할 때 사용합니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `Make that / two, please.` (`make that`은 `메이댓`처럼 연음됩니다.)
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `I'll have a latte. And for me, make that two, please.` (I'll have / a latte. / And for me, / make that two, please.)
+    - 🇰🇷 저는 라떼 한 잔 주세요. 그리고 저는 그걸로 두 잔 주세요.
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: `Give me two of that`도 가능하지만, `Make that two`가 더 간결하고 흔한 표현입니다.
+
+### 🔹 Make yourself at home. : 집처럼 편하게 하세요
+- **💡 뉘앙스 & 실전 활용 맥락**: 손님을 집에 초대했을 때, 편안하게 쉬고 자유롭게 행동하라고 권유할 때 사용하는 매우 환영하는 표현입니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `Make yourself / at home.` (`yourself at`은 `유어셀팻`처럼 연음됩니다.)
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `Come on in! Make yourself at home.` (Come on in! / Make yourself at home.)
+    - 🇰🇷 들어오세요! 집처럼 편하게 계세요.
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: `Be comfortable like home`은 어색합니다. `Make yourself at home`이 관용적인 표현입니다.
+
+### 🔹 Many thanks in advance. : 미리 감사 드려요
+- **💡 뉘앙스 & 실전 활용 맥락**: 상대방에게 어떤 도움이나 호의를 요청하면서, 그 도움을 받기 전에 미리 감사를 표할 때 사용합니다. 주로 이메일이나 공식적인 요청에서 쓰입니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `Many thanks / in advance.` (`in advance`는 `인어드밴스`처럼 연음됩니다.)
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `Could you please send me the report by tomorrow? Many thanks in advance.` (Could you please / send me / the report / by tomorrow? / Many thanks / in advance.)
+    - 🇰🇷 내일까지 보고서를 보내주실 수 있을까요? 미리 감사드립니다.
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: `Thanks in advance`도 가능하지만, `Many thanks in advance`는 좀 더 정중하고 강조하는 뉘앙스입니다.
+
+###
+
+### 🔹 Occupied : 사용중
+- **💡 뉘앙스 & 실전 활용 맥락**: 화장실이나 회의실처럼 공간이 사용 중일 때, 또는 전화 통화 중일 때 "통화 중입니다"라는 의미로 쓰입니다. 다소 격식 있는 표현으로, "Sorry, it's occupied."처럼 사과와 함께 쓰이기도 합니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `어큐파이드 /` (강세는 '큐'에 있습니다. '어'는 약하게 발음하고 '큐'를 명확하게 발음하며, '파이드'는 자연스럽게 이어줍니다.)
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `The bathroom / is occupied.`
+    - 🇰🇷 화장실이 사용 중이에요.
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: "사용 중"이라는 의미로 "Using"이라고 말하는 경우가 있는데, 이는 틀린 표현입니다. 공간이나 시설이 사용 중일 때는 반드시 "Occupied"를 사용하세요.
+
+### 🔹 Oh, dear! : 아니 저런
+- **💡 뉘앙스 & 실전 활용 맥락**: 놀람, 실망, 안타까움, 걱정 등 다양한 감정을 표현할 때 사용되는 감탄사입니다. 주로 좋지 않은 소식을 들었을 때나 예상치 못한 상황에 직면했을 때 쓰입니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `오 디얼! /` ('오'는 길게, '디얼'은 부드럽게 연결하며, 끝을 살짝 올려 감탄의 뉘앙스를 줍니다.)
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `Oh, dear! / I forgot / my wallet.`
+    - 🇰🇷 아니 저런! 지갑을 잊었네.
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: 너무 과장되게 발음하기보다는 자연스럽게 한숨 쉬는 듯한 톤으로 말하는 것이 좋습니다.
+
+### 🔹 Okay. : 그래. 알았어요.
+- **💡 뉘앙스 & 실전 활용 맥락**: 동의, 이해, 수락을 나타내는 가장 일반적인 표현입니다. 질문에 대한 긍정적인 답변이나 제안에 대한 수락, 또는 단순히 이해했음을 나타낼 때 사용합니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `오케이 /` (강세는 '케이'에 있습니다. '오'는 짧고 약하게, '케이'는 명확하게 발음합니다.)
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `Okay, / I'll meet you / at 7.`
+    - 🇰🇷 알았어요, 7시에 만나요.
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: 한국어 '오케이'처럼 너무 딱딱하게 발음하기보다는, 상황에 따라 톤을 조절하여 부드럽게 말하는 연습이 필요합니다.
+
+### 🔹 Okeydokey ( 가까운 사이에서만 사용) : 좋아요
+- **💡 뉘앙스 & 실전 활용 맥락**: 'Okay'의 비격식적이고 좀 더 친근한 버전입니다. 친구나 가족 등 가까운 사이에서 동의나 수락을 표현할 때 사용하며, 가볍고 유쾌한 분위기를 만듭니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `오키도키 /` (강세는 '키'와 '도'에 있습니다. 경쾌하고 리드미컬하게 발음합니다.)
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `Can you grab / some coffee? / Okeydokey!`
+    - 🇰🇷 커피 좀 사다 줄래? 좋아요!
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: 격식 있는 자리나 처음 만나는 사람에게는 사용하지 않도록 주의해야 합니다. 자칫 가볍거나 무례하게 들릴 수 있습니다.
+
+### 🔹 On the contrary. : 반대로
+- **💡 뉘앙스 & 실전 활용 맥락**: 상대방의 의견이나 진술에 대해 정반대의 의견을 제시할 때 사용합니다. 강한 반박이나 정정을 할 때 쓰이며, 다소 단호한 느낌을 줄 수 있습니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `온 더 컨트러리 /` ('온'은 짧게, '더'는 약하게, '컨'에 강세를 주고 '트러리'는 자연스럽게 이어줍니다.)
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `You think / it's easy? / On the contrary, / it's very difficult.`
+    - 🇰🇷 쉽다고 생각하세요? 반대로, 아주 어렵습니다.
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: "반대로"라는 의미로 "Oppositely"를 쓰는 경우가 있는데, 이는 어색한 표현입니다. 의견을 반박할 때는 "On the contrary"가 자연스럽습니다.
+
+### 🔹 Once in a blue moon. : 아주 가끔요
+- **💡 뉘앙스 & 실전 활용 맥락**: 어떤 일이 매우 드물게 일어난다는 것을 강조할 때 사용합니다. 'blue moon'이 실제로 드물게 뜨는 현상에서 유래한 표현으로, 과장된 느낌을 줍니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `원스 인 어 블루 문 /` ('원스'는 짧게, '인 어'는 연음하여 '이너', '블루 문'은 또렷하게 발음합니다. '블루'와 '문'에 각각 강세를 줍니다.)
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `Do you go / to the movies / often? / Once in a blue moon.`
+    - 🇰🇷 영화 자주 보러 가세요? 아주 가끔요.
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: "Very rarely"와 같은 직설적인 표현보다 훨씬 더 강조된 느낌을 줍니다. 일상 대화에서 자연스럽게 활용해 보세요.
+
+### 🔹 Ouch! : 아야
+- **💡 뉘앙스 & 실전 활용 맥락**: 갑작스러운 통증이나 불편함을 느꼈을 때 내는 소리입니다. 놀람이나 가벼운 불평을 나타낼 때도 사용될 수 있습니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `아우치! /` (입을 크게 벌려 '아' 소리를 내고 '우치'를 빠르게 붙여 발음합니다. 짧고 강하게 내뱉습니다.)
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `Ouch! / I just / stubbed my toe.`
+    - 🇰🇷 아야! 방금 발가락을 찧었어.
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: 한국어 '아야'와 비슷하지만, '아우치'는 입을 더 크게 벌리고 소리를 내는 것이 자연스럽습니다.
+
+### 🔹 Out of question. : 질문의 여지가 없습니다 (불가능 합니다)
+- **💡 뉘앙스 & 실전 활용 맥락**: 어떤 것이 절대적으로 불가능하거나 논의할 가치조차 없음을 강조할 때 사용합니다. 매우 단호하고 강력한 부정의 표현입니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `아웃 오브 퀘스천 /` ('아웃'은 짧게, '오브'는 '어브'처럼 약하게, '퀘스천'은 '퀘스쳔'처럼 발음하며 '퀘스'에 강세를 줍니다.)
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `Going there / alone / is out of question.`
+    - 🇰🇷 거기에 혼자 가는 것은 불가능합니다.
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: "No question"과 혼동하지 마세요. "No question"은 "의심할 여지 없이 확실하다"는 긍정의 의미인 반면, "Out of question"은 "절대 불가능하다"는 부정의 의미입니다.
+
+### 🔹 Pick it up! : 줏으세요
+- **💡 뉘앙스 & 실전 활용 맥락**: 바닥에 떨어진 물건을 주우라고 지시하거나, 어떤 것을 들어 올리라고 할 때 사용합니다. 다소 직접적인 명령조의 표현입니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `픽 잇 업! /` ('픽'은 짧게, '잇'과 '업'은 연음하여 '이럽'처럼 발음합니다. '픽'과 '업'에 강세를 줍니다.)
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `Your keys / are on the floor. / Pick it up!`
+    - 🇰🇷 네 열쇠가 바닥에 있어. 주워!
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: "Pick up it"은 틀린 어순입니다. 대명사(it, them 등)가 목적어일 때는 반드시 동사구 사이에 와야 합니다.
+
+### 🔹 Please enjoy yourself. : 좀 즐겁게 지내세요
+- **💡 뉘앙스 & 실전 활용 맥락**: 파티나 행사 등에서 상대방에게 즐거운 시간을 보내라고 권유할 때 사용하는 정중한 표현입니다. 호스트가 손님에게 자주 사용합니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `플리즈 인조이 유어셀프 /` ('플리즈'는 부드럽게, '인조이'는 '인조이'에 강세를 주고, '유어셀프'는 자연스럽게 이어줍니다.)
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `Welcome to the party! / Please enjoy yourself.`
+    - 🇰🇷 파티에 오신 걸 환영해요! 즐겁게 지내세요.
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: "Enjoy your time"도 비슷한 의미로 쓰일 수 있지만, "Enjoy yourself"가 훨씬 더 자연스럽고 일반적인 표현입니다.
+
+### 🔹 Please relax. : 좀 느긋해 지세요
+- **💡 뉘앙스 & 실전 활용 맥락**: 상대방이 긴장하거나 불안해 보일 때, 편안하게 마음을 가지라고 권유하는 표현입니다. 부드럽고 위로하는 뉘앙스를 담고 있습니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `플리즈 릴랙스 /` ('플리즈'는 부드럽게, '릴랙스'는 '랙스'에 강세를 주고 발음합니다.)
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `You look / so stressed. / Please relax.`
+    - 🇰🇷 너무 스트레스 받아 보여요. 좀 느긋해지세요.
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: "Relax yourself"는 어색한 표현입니다. "Relax"는 그 자체로 "편안하게 쉬다"라는 의미를 가집니다.
+
+### 🔹 Please! : 제발
+- **💡 뉘앙스 & 실전 활용 맥락**: 간절한 부탁이나 요청을 할 때 사용합니다. 상황에 따라 애원, 짜증, 또는 강한 요구의 뉘앙스를 가질 수 있습니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `플리즈! /` (상황에 따라 톤을 조절합니다. 간절할 때는 길게 늘여서, 짜증 날 때는 짧고 강하게 발음합니다.)
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `Please! / Just give me / one more chance.`
+    - 🇰🇷 제발! 한 번만 더 기회를 주세요.
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: 한국어 '제발'처럼 무조건 강하게만 발음하기보다는, 상황에 맞는 감정을 실어 발음하는 연습이 중요합니다.
+
+### 🔹 Poor thing. : 안됬네요
+- **💡 뉘앙스 & 실전 활용 맥락**: 불쌍하거나 안타까운 상황에 처한 사람이나 동물에게 동정심을 표현할 때 사용합니다. 주로 작거나 약한 대상에게 쓰입니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `푸어 띵 /` ('푸어'는 길게, '띵'은 짧게 발음하며, '푸어'에 강세를 줍니다. 안타까운 톤으로 말합니다.)
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `He lost / his toy. / Poor thing.`
+    - 🇰🇷 그 아이가 장난감을 잃어버렸대. 안됐네요.
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: 사람에게 사용할 때는 다소 어린아이에게 쓰는 느낌이 강할 수 있으니, 성인에게는 "That's a shame"이나 "I'm sorry to hear that"이 더 적절할 수 있습니다.
+
+### 🔹 Pretty good! : 정말 좋지요
+- **💡 뉘앙스 & 실전 활용 맥락**: 어떤 것에 대한 긍정적인 평가나 만족감을 표현할 때 사용합니다. 'Good'보다 더 강조된 느낌을 주며, 활기찬 뉘앙스를 가집니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `프리티 굿! /` ('프리티'는 '프리리'처럼 발음될 수 있으며, '프리'에 강세를 줍니다. '굿'은 짧고 강하게 발음합니다.)
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `How was / your vacation? / Pretty good!`
+    - 🇰🇷 휴가는 어땠어요? 정말 좋았어요!
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: "Very good"과 비슷하지만, "Pretty good"은 좀 더 캐주얼하고 자연스러운 느낌을 줍니다.
+
+### 🔹 Really? : 정말이에요?
+- **💡 뉘앙스 & 실전 활용 맥락**: 상대방의 말에 대한 놀람, 의심, 또는 확인을 나타낼 때 사용합니다. 억양에 따라 다양한 감정을 표현할 수 있습니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `리얼리? /` ('리'에 강세를 주고, 끝을 올려 질문의 뉘앙스를 줍니다. 놀랄 때는 더 높게, 의심할 때는 낮게 발음합니다.)
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `I'm moving / to Canada. / Really?`
+    - 🇰🇷 나 캐나다로 이사 가. 정말이에요?
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: "Is it real?"은 '진짜인가요?'라는 의미로, 상대방의 말에 대한 반응으로는 "Really?"가 훨씬 자연스럽습니다.
+
+### 🔹 Relax. : 좀 느긋해져요.
+- **💡 뉘앙스 & 실전 활용 맥락**: 'Please relax'보다 좀 더 직접적이고 캐주얼한 표현입니다. 상대방에게 긴장을 풀고 편안하게 있으라고 권유할 때 사용합니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `릴랙스 /` ('랙스'에 강세를 주고 발음합니다. 부드럽고 차분한 톤으로 말합니다.)
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `Don't worry / too much. / Relax.`
+    - 🇰🇷 너무 걱정하지 마. 좀 느긋해져.
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: "Relax yourself"는 어색합니다. "Relax"는 그 자체로 동사로 쓰입니다.
+
+### 🔹 Same here. : 저도 동감입니다
+- **💡 뉘앙스 & 실전 활용 맥락**: 상대방의 의견, 감정, 또는 경험에 대해 자신도 똑같이 느끼거나 경험했음을 나타낼 때 사용합니다. 공감과 동의를 표현하는 캐주얼한 방식입니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `세임 히어 /` ('세임'과 '히어'를 또렷하게 발음하며, '세임'에 강세를 줍니다.)
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `I'm so tired / today. / Same here.`
+    - 🇰🇷 오늘 너무 피곤해. 저도 동감입니다.
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: "Me too"와 비슷하지만, "Same here"는 좀 더 구체적으로 '나도 같은 상황/감정이다'라는 뉘앙스를 줍니다.
+
+### 🔹 Same to you. : 당신도요
+- **💡 뉘앙스 & 실전 활용 맥락**: 상대방이 자신에게 한 인사, 축하, 소원 등을 그대로 상대방에게 돌려줄 때 사용합니다. "Happy New Year!"에 "Same to you!"라고 답하는 식입니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `세임 투 유 /` ('세임'에 강세를 주고, '투'는 약하게 '트'처럼 발음하며 '유'와 자연스럽게 이어줍니다.)
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `Have a great weekend! / Same to you.`
+    - 🇰🇷 즐거운 주말 보내세요! 당신도요.
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: "You too"와 비슷하지만, "Same to you"는 좀 더 정중하고 완전한 문장처럼 들립니다.
+
+### 🔹 Say cheese! : 치즈라고 말하세요
+- **💡 뉘앙스 & 실전 활용 맥락**: 사진을 찍을 때, 사람들이 미소를 짓도록 유도하기 위해 사용하는 표현입니다. '치즈'라고 말하면 입꼬리가 자연스럽게 올라가 미소가 지어집니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `세이 치즈! /` ('세이'는 짧게, '치즈'는 길게 늘여서 발음하며, '치'에 강세를 줍니다.)
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `Everyone, / look at the camera! / Say cheese!`
+    - 🇰🇷 모두 카메라 보세요! 치즈라고 말하세요!
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: 한국어 '김치'와 비슷한 역할을 합니다. 자연스러운 미소를 유도하는 표현임을 기억하세요.
+
+### 🔹 Say hello for me. : 나대신 안부 전해줘요
+- **💡 뉘앙스 & 실전 활용 맥락**: 특정 인물에게 자신의 안부를 전해달라고 부탁할 때 사용합니다. 친근하고 따뜻한 뉘앙스를 가집니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `세이 헬로우 포 미 /` ('세이'는 짧게, '헬로우'는 '헬'에 강세를 주고, '포 미'는 약하게 이어줍니다.)
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `I'm going / to see your mom. / Say hello for me.`
+    - 🇰🇷 네 엄마 만나러 갈 거야. 나 대신 안부 전해줘요.
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: "Give my regards"는 좀 더 격식 있는 표현입니다. 친구나 가족에게는 "Say hello for me"가 더 자연스럽습니다.
+
+### 🔹 Say that again? : 다시 말씀 해 주실래요?
+- **💡 뉘앙스 & 실전 활용 맥락**: 상대방의 말을 잘 듣지 못했거나 이해하지 못했을 때, 다시 말해달라고 요청하는 캐주얼한 표현입니다. 'Pardon?'이나 'Could you repeat that?'보다 덜 격식적입니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `세이 댓 어게인? /` ('세이'는 짧게, '댓'은 약하게, '어게인'은 '게인'에 강세를 주고 끝을 올려 질문의 뉘앙스를 줍니다.)
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `I'm sorry, / I didn't catch that. / Say that again?`
+    - 🇰🇷 죄송해요, 못 들었어요. 다시 말씀해 주실래요?
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: "Repeat again"은 '다시 반복하다'라는 의미로 중복되는 표현입니다. "Repeat that" 또는 "Say that again"이 올바릅니다.
+
+### 🔹 Say when. ( 그만 하기를 원할때 ) : when 이라고 하세요
+- **💡 뉘앙스 & 실전 활용 맥락**: 음료를 따르거나 음식을 덜어줄 때, 상대방에게 원하는 양만큼 채워지면 "When"이라고 말해서 멈추라고 지시하는 표현입니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `세이 웬 /` ('세이'는 짧게, '웬'은 또렷하게 발음합니다.)
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `I'll pour / you some wine. / Just say when.`
+    - 🇰🇷 와인 좀 따라 드릴게요. 그만하라고 말하세요.
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: 이 표현은 특정 상황에서만 사용됩니다. 다른 상황에서 "Say when"을 사용하면 오해를 살 수 있습니다.
+
+### 🔹 See you later! (Later!) : 나중에 봐요
+- **💡 뉘앙스 & 실전 활용 맥락**: 헤어질 때 사용하는 일반적인 작별 인사입니다. 'Later!'는 좀 더 캐주얼하고 짧은 버전입니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `씨 유 레이터! /` ('씨'는 길게, '유'는 약하게, '레이터'는 '레이러'처럼 발음하며 '레이'에 강세를 줍니다. '레이터!'는 짧고 경쾌하게.)
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `I have to go now. / See you later!`
+    - 🇰🇷 이제 가야 해. 나중에 봐요!
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: "See you later"는 '나중에'라는 의미가 포함되어 있으므로, "See you next time"과 같은 의미로 사용될 수 있습니다.
+
+### 🔹 See you. : 나중에 봐요
+- **💡 뉘앙스 & 실전 활용 맥락**: 'See you later'보다 더 짧고 캐주얼한 작별 인사입니다. 친구나 가까운 지인에게 자주 사용합니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `씨 유 /` ('씨'는 길게, '유'는 약하게 발음합니다.)
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `I'm heading out. / See you.`
+    - 🇰🇷 나 나간다. 나중에 봐.
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: 격식 있는 자리에서는 "Goodbye"나 "Have a good day"가 더 적절합니다.
+
+### 🔹 Serious? : 진심에요?
+- **💡 뉘앙스 & 실전 활용 맥락**: 상대방의 말이 사실인지, 진심인지 확인할 때 사용하는 짧은 질문입니다. 놀람이나 의심의 감정을 담을 수 있습니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `시리어스? /` ('시'에 강세를 주고, 끝을 올려 질문의 뉘앙스를 줍니다.)
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `I'm quitting / my job. / Serious?`
+    - 🇰🇷 나 직장 그만둘 거야. 진심이에요?
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: "Are you serious?"의 줄임말입니다. "Is it serious?"는 '심각한가요?'라는 의미로 다릅니다.
+
+### 🔹 Shame on you. : 창피 한줄 아세요
+- **💡 뉘앙스 & 실전 활용 맥락**: 상대방의 행동이 부끄럽거나 비난받아 마땅하다고 생각할 때 사용하는 강한 비난의 표현입니다. 상대방에게 죄책감을 느끼게 하려는 의도가 있습니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `쉐임 온 유 /` ('쉐임'에 강세를 주고, '온 유'는 연음하여 '오뉴'처럼 발음합니다. 비난하는 톤으로 말합니다.)
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `You cheated / on the test? / Shame on you.`
+    - 🇰🇷 시험에서 부정행위를 했다고? 창피한 줄 아세요.
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: 매우 강한 표현이므로, 함부로 사용하지 않도록 주의해야 합니다.
+
+### 🔹 She is my style. (She is not my style.) : 그녀는 내 타입이에요 (그녀는 내 타입이아니에요)
+- **💡 뉘앙스 & 실전 활용 맥락**: 어떤 사람(특히 이성)이 자신의 이상형이나 선호하는 유형에 부합할 때 사용합니다. 'not my style'은 반대의 의미입니다. 외모뿐만 아니라 성격, 분위기 등 전반적인 느낌을 포함합니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `쉬 이즈 마이 스타일 /` ('쉬'는 짧게, '이즈'는 약하게, '마이'는 짧게, '스타일'은 길게 늘여서 발음하며 '스타일'에 강세를 줍니다.)
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `I think / she's really cool. / Yeah, / she is my style.`
+    - 🇰🇷 그녀 정말 멋진 것 같아. 응, 그녀는 내 타입이야.
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: "My type"도 비슷한 의미로 사용되지만, "My style"은 좀 더 포괄적인 느낌을 줍니다.
+
+### 🔹 She is very sophisticated. : 그녀는 매우 세련되었어요
+- **💡 뉘앙스 & 실전 활용 맥락**: 어떤 여성이 교양 있고, 세련되며, 지적인 매력을 가졌을 때 칭찬하는 표현입니다. 단순히 옷을 잘 입는 것을 넘어, 태도나 사고방식까지 포함하는 긍정적인 평가입니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `쉬 이즈 베리 소피스티케이티드 /` ('쉬'는 짧게, '이즈'는 약하게, '베리'는 '베'에 강세를 주고, '소피스티케이티드'는 '피스'와 '케이'에 강세를 줍니다.)
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `I met / his new girlfriend. / She is very sophisticated.`
+    - 🇰🇷 그의 새 여자친구를 만났어. 그녀는 매우 세련되었어요.
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: "Sophisticated"는 단순히 '멋지다'는 의미를 넘어, '정교하고 복잡하며 세련된' 뉘앙스를 가집니다.
+
+### 🔹 Shoot! : 어서 말해 봐요
+- **💡 뉘앙스 & 실전 활용 맥락**: 상대방이 망설이거나 주저할 때, 빨리 말하라고 재촉하는 캐주얼한 표현입니다. 때로는 가벼운 짜증이나 답답함을 나타낼 수도 있습니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `슛! /` (짧고 강하게 내뱉습니다.)
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `I have something / to tell you... / Shoot!`
+    - 🇰🇷 할 말이 있는데... 어서 말해 봐요!
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: "Tell me!"와 비슷하지만, "Shoot!"은 좀 더 구어적이고 친근한 느낌을 줍니다.
+
+### 🔹 Skip it! : 다음으로 넘어 가요
+- **💡 뉘앙스 & 실전 활용 맥락**: 어떤 주제나 항목을 건너뛰고 다음으로 넘어가자고 제안할 때 사용합니다. 주로 회의나 발표, 또는 대화에서 사용됩니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `스킵 잇! /` ('스킵'은 짧게, '잇'은 약하게 발음하며, '스킵'에 강세를 줍니다.)
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `This topic / is not important. / Let's skip it!`
+    - 🇰🇷 이 주제는 중요하지 않아. 다음으로 넘어가요!
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: "Pass it"도 비슷한 의미로 쓰일 수 있지만, "Skip it"은 '건너뛰다'는 의미가 더 강합니다.
+
+### 🔹 So much for that. : 이제 그일은 그만 하지요
+- **💡 뉘앙스 & 실전 활용 맥락**: 어떤 주제나 활동을 끝내거나 더 이상 논의하지 않겠다고 선언할 때 사용합니다. 때로는 실망이나 불만을 표현하는 뉘앙스를 가질 수도 있습니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `쏘 머치 포 댓 /` ('쏘'는 짧게, '머치'는 '머치'에 강세를 주고, '포 댓'은 약하게 이어줍니다.)
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `The rain / ruined our picnic. / So much for that.`
+    - 🇰🇷 비가 우리 피크닉을 망쳤어. 이제 그 일은 그만하지요.
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: "That's enough about that"과 비슷하지만, "So much for that"은 좀 더 체념하거나 실망하는 뉘앙스를 포함할 수 있습니다.
+
+### 🔹 So soon? : 그리 빨리?
+- **💡 뉘앙스 & 실전 활용 맥락**: 어떤 일이 예상보다 빨리 일어났거나 끝났을 때 놀람이나 아쉬움을 표현하는 짧은 질문입니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `쏘 순? /` ('쏘'는 짧게, '순'은 길게 늘여서 발음하며 끝을 올려 질문의 뉘앙스를 줍니다.)
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `I have to leave / already. / So soon?`
+    - 🇰🇷 벌써 가봐야 해. 그리 빨리?
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: "Too early?"와 비슷하지만, "So soon?"은 좀 더 감탄이나 아쉬움의 뉘앙스를 담고 있습니다.
+
+### 🔹 So what? : 그래서 어떻다는 겁니까?
+- **💡 뉘앙스 & 실전 활용 맥락**: 상대방의 말이 자신에게 중요하지 않거나, 별다른 의미가 없다고 생각할 때 무시하거나 반박하는 표현입니다. 다소 도전적이거나 무례하게 들릴 수 있습니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `쏘 왓? /` ('쏘'는 짧게, '왓'은 짧고 강하게 발음하며 끝을 올려 질문의 뉘앙스를 줍니다. 비꼬는 듯한 톤으로 말합니다.)
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `I'm richer / than you. / So what?`
+    - 🇰🇷 내가 너보다 부자야. 그래서 어떻다는 겁니까?
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: 매우 직접적이고 공격적인 표현이므로, 사용에 주의해야 합니다.
+
+### 🔹 Sold out. : 팔렸어요
+- **💡 뉘앙스 & 실전 활용 맥락**: 상품, 티켓, 좌석 등이 모두 팔려서 더 이상 구매할 수 없을 때 사용합니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `솔드 아웃 /` ('솔드'는 짧게, '아웃'은 또렷하게 발음하며, '솔드'와 '아웃'에 각각 강세를 줍니다.)
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `I wanted / to buy that concert ticket, / but it's sold out.`
+    - 🇰🇷 그 콘서트 티켓을 사고 싶었는데, 팔렸어요.
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: "All sold"는 틀린 표현입니다. 반드시 "Sold out"을 사용해야 합니다.
+
+### 🔹 Something's fishy. : 뭔가 이상한데
+- **💡 뉘앙스 & 실전 활용 맥락**: 어떤 상황이나 설명이 의심스럽거나, 뭔가 숨겨진 불법적인 일이 있는 것 같다고 느낄 때 사용합니다. 'fishy'는 '수상한, 의심스러운'이라는 의미입니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `썸띵스 피쉬 /` ('썸띵스'는 '썸띵스'에 강세를 주고, '피쉬'는 '피'에 강세를 줍니다. 의심스러운 톤으로 말합니다.)
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  -
+
+### 🔹 Uh-uh : 오오 아닌데요
+- **💡 뉘앙스 & 실전 활용 맥락**: 'No'를 좀 더 비격식적이고 부드럽게, 혹은 단호하게 거절할 때 사용합니다. 고개를 좌우로 흔드는 제스처와 함께 쓰이는 경우가 많습니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: '어-어' 보다는 '으-어'에 가깝게 발음하며, 첫 'uh'는 낮게, 두 번째 'uh'는 살짝 높게 올리거나, 단호할 때는 둘 다 낮게 발음합니다.
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `Do you want to go out tonight?` / `Uh-uh, I'm too tired.`
+    - 🇰🇷 오늘 밤에 나갈래? / 오오 아닌데요, 너무 피곤해요.
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: 'No' 대신 'Uh-uh'를 사용할 때, 억양에 따라 거절의 강도가 달라지므로 상황에 맞게 조절해야 합니다. 너무 무뚝뚝하게 들릴 수 있습니다.
+
+### 🔹 Unbelievable. : 믿을 수가 없네
+- **💡 뉘앙스 & 실전 활용 맥락**: 놀라움, 충격, 경외감, 혹은 불신을 표현할 때 사용합니다. 긍정적인 상황(너무 좋아서 믿기지 않을 때)과 부정적인 상황(너무 황당해서 믿기지 않을 때) 모두에 쓰일 수 있습니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `Un-be-LIEV-a-ble`. 'liev'에 강세를 주어 길게 발음하고, 감탄하듯이 억양을 올립니다.
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `He won the lottery?` / `Unbelievable!`
+    - 🇰🇷 그가 복권에 당첨됐다고? / 믿을 수가 없네!
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: 'It's unbelievable'처럼 주어를 붙여 말하는 것이 더 일반적이지만, 감탄사처럼 단독으로 사용해도 무방합니다. 억양을 평이하게 하면 놀라움이 반감됩니다.
+
+### 🔹 Up to here. : (목까지 손으로 대어 보이면서)폭발 일보전이다
+- **💡 뉘앙스 & 실전 활용 맥락**: 스트레스, 짜증, 혹은 화가 극에 달했음을 표현할 때 사용합니다. 보통 손으로 목이나 턱을 가리키는 제스처와 함께 쓰여, 더 이상 참을 수 없다는 의미를 강조합니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `Up to HERE`. 'here'에 강세를 주며, 짜증이나 답답함을 담아 말합니다. 'up to'는 자연스럽게 연결됩니다.
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `I've had it` / `up to here with his excuses.`
+    - 🇰🇷 그의 변명에 / 폭발 일보전이다.
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: 제스처 없이 말하면 의미 전달이 약해질 수 있습니다. 단순히 '여기까지'라는 물리적인 거리를 나타내는 표현과 혼동하지 않도록 주의해야 합니다.
+
+### 🔹 Up, or down? : 올라가요? 아니면 내려가요?
+- **💡 뉘앙스 & 실전 활용 맥락**: 엘리베이터나 에스컬레이터 등에서 상대방에게 어느 방향으로 가는지 물어볼 때 사용합니다. 간결하고 직접적인 질문입니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `UP, or DOWN?`. 'up'과 'down'에 각각 강세를 주며, 'or'는 약하게 발음합니다. 질문이므로 억양을 올립니다.
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `Excuse me,` / `are you going up, or down?`
+    - 🇰🇷 실례합니다, / 올라가요? 아니면 내려가요?
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: 'Up or down'을 한 단어처럼 빠르게 말하기보다는, 각 방향을 명확히 구분하여 질문하는 것이 좋습니다.
+
+### 🔹 Wait a minute. : 잠시만 기다리세요
+- **💡 뉘앙스 & 실전 활용 맥락**: 상대방에게 잠시 기다려달라고 요청할 때 사용합니다. 'Just a moment'이나 'Hold on'과 유사하며, 격식 없이 편하게 쓸 수 있습니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `WAIT a MIN-ute`. 'wait'과 'min'에 강세를 줍니다. 'a'는 약하게 '어'로 발음하며, 'wait a'는 `웨이러`처럼 연음됩니다.
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `Wait a minute,` / `I need to grab my keys.`
+    - 🇰🇷 잠시만 기다리세요, / 열쇠를 챙겨야 해요.
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: 'Wait one minute'보다는 'Wait a minute'이 더 자연스럽습니다. 'minute'을 너무 길게 발음하지 않도록 주의합니다.
+
+### 🔹 Watch out! : 위험해, 주의해요
+- **💡 뉘앙스 & 실전 활용 맥락**: 임박한 위험이나 사고를 경고할 때 사용합니다. 급박한 상황에서 상대방의 주의를 환기시키기 위한 외침입니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `WATCH OUT!`. 'watch'와 'out' 모두 강하게 발음하며, 경고의 의미를 담아 억양을 높입니다. 'ch'와 'ou' 발음에 유의합니다.
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `Watch out!` / `There's a car coming!`
+    - 🇰🇷 위험해! / 차가 오고 있어요!
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: 'Be careful'과 유사하지만, 'Watch out'은 더 즉각적이고 급박한 위험에 대한 경고입니다.
+
+### 🔹 Watch your language. : 말 조심해요
+- **💡 뉘앙스 & 실전 활용 맥락**: 상대방이 부적절하거나 무례한 말을 할 때, 언행에 주의하라고 경고하는 표현입니다. 종종 화난 어조로 사용됩니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `WATCH your LAN-guage`. 'watch'와 'lan'에 강세를 줍니다. 'your'는 약하게 '여'로 발음합니다.
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `Hey,` / `watch your language!` / `There are kids here.`
+    - 🇰🇷 이봐요, / 말 조심해요! / 여기 아이들이 있어요.
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: 'Be careful with your words'보다 더 직접적이고 경고성이 강합니다. 'language'를 '랭귀지'처럼 발음하지 않도록 주의합니다.
+
+### 🔹 We are in the same boat. : 우리는 같은 처지/운명이지요
+- **💡 뉘앙스 & 실전 활용 맥락**: 두 명 이상의 사람들이 같은 어려움이나 곤경에 처해 있음을 나타낼 때 사용합니다. 연대감이나 공감을 표현할 때 유용합니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `We are in the SAME BOAT`. 'same'과 'boat'에 강세를 줍니다. 'in the'는 `인더`처럼 빠르게 연음됩니다.
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `Don't worry,` / `we are in the same boat.`
+    - 🇰🇷 걱정 마, / 우리는 같은 처지야.
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: 'We are same boat'처럼 관사 'the'를 빼먹는 실수를 자주 합니다. 'in the same boat'가 하나의 관용구입니다.
+
+### 🔹 Welcome home! : 집에 온것을 환영합니다
+- **💡 뉘앙스 & 실전 활용 맥락**: 집으로 돌아온 사람을 따뜻하게 맞이할 때 사용합니다. 오랜만에 돌아온 가족이나 친구에게 특히 많이 씁니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `WEL-come HOME!`. 'wel'과 'home'에 강세를 주며, 반가움을 담아 억양을 올립니다.
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `After a long trip,` / `it's great to hear, "Welcome home!"`
+    - 🇰🇷 긴 여행 후에, / "집에 온 것을 환영합니다!"라는 말을 듣는 것은 정말 좋아요.
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: 'Welcome to home'이 아니라 'Welcome home'이 올바른 표현입니다. 'home'은 부사로 쓰일 수 있습니다.
+
+### 🔹 Well done. : 잘 했어요
+- **💡 뉘앙스 & 실전 활용 맥락**: 누군가의 성과나 노력을 칭찬하고 격려할 때 사용합니다. 'Good job'과 유사하며, 간결하고 효과적인 칭찬입니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `WELL DONE`. 'well'과 'done' 모두 강세를 주며, 칭찬의 의미를 담아 억양을 살짝 올립니다.
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `You finished the project on time.` / `Well done!`
+    - 🇰🇷 프로젝트를 제시간에 끝냈군요. / 잘 했어요!
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: 'Very good'과 비슷하게 쓰이지만, 'Well done'은 특히 어떤 일을 성공적으로 마쳤을 때 더 적합합니다.
+
+### 🔹 What a nerve! : 뻔뻔 하군요
+- **💡 뉘앙스 & 실전 활용 맥락**: 상대방의 뻔뻔함, 무례함, 혹은 대담함에 대해 놀라움이나 분노를 표현할 때 사용합니다. 부정적인 뉘앙스가 강합니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `WHAT a NERVE!`. 'what'과 'nerve'에 강세를 주며, 'a'는 약하게 발음합니다. 분노나 어이없음을 담아 억양을 올립니다.
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `He asked for a raise` / `after being late all week?` / `What a nerve!`
+    - 🇰🇷 그는 일주일 내내 지각하고도 / 임금 인상을 요구했다고? / 뻔뻔 하군요!
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: 'Nerve'를 '신경'으로만 생각하여 직역하면 의미가 통하지 않습니다. '뻔뻔함, 용기'라는 의미를 기억해야 합니다.
+
+### 🔹 What a relief! : 이제 맘이 놓인다
+- **💡 뉘앙스 & 실전 활용 맥락**: 걱정이나 불안감이 해소되었을 때 느끼는 안도감을 표현합니다. 긍정적인 감탄사입니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `WHAT a RE-LIEF!`. 'what'과 'lief'에 강세를 주며, 'a'는 약하게 발음합니다. 안도감을 담아 억양을 올립니다.
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `The test is over.` / `What a relief!`
+    - 🇰🇷 시험이 끝났다. / 이제 맘이 놓인다!
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: 'It's a relief'와 같이 주어를 붙여 말할 수도 있지만, 감탄사로 단독 사용이 더 흔합니다.
+
+### 🔹 What a shame. : 이게 무슨 창피한 노릇인가?
+- **💡 뉘앙스 & 실전 활용 맥락**: 안타까움, 유감, 혹은 실망감을 표현할 때 사용합니다. 'That's too bad'와 유사하지만, 좀 더 강한 유감이나 부끄러움을 나타낼 수 있습니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `WHAT a SHAME`. 'what'과 'shame'에 강세를 주며, 'a'는 약하게 발음합니다. 안타까움을 담아 억양을 내립니다.
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `He lost the game` / `by one point.` / `What a shame.`
+    - 🇰🇷 그는 1점 차이로 / 경기에 졌다. / 이게 무슨 창피한 노릇인가. (안타깝다)
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: 'Shame'을 '창피함'으로만 생각하기보다, '안타까움, 유감'의 의미로도 많이 쓰인다는 것을 알아야 합니다.
+
+### 🔹 What about it? : 그게 어떤데요?
+- **💡 뉘앙스 & 실전 활용 맥락**: 상대방이 어떤 사실을 말했을 때, 그 사실이 자신에게 어떤 의미가 있는지, 또는 그래서 뭘 어쩌라는 건지 되물을 때 사용합니다. 때로는 도전적이거나 무관심한 뉘앙스를 가질 수 있습니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `WHAT a-BOUT it?`. 'what'과 'bout'에 강세를 주며, 'about it'은 `어바우릿`처럼 연음됩니다. 질문이므로 억양을 올립니다.
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `I heard you were late.` / `What about it?`
+    - 🇰🇷 네가 늦었다고 들었어. / 그게 어떤데요?
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: 억양에 따라 의미가 크게 달라질 수 있습니다. 무관심하게 말하면 무례하게 들릴 수 있으니 주의해야 합니다.
+
+### 🔹 What about you?(What about me?) : 당신은 어때요? (나는 어때요?)
+- **💡 뉘앙스 & 실전 활용 맥락**: 상대방에게 같은 질문을 되묻거나, 자신에 대한 의견을 물을 때 사용합니다. 대화의 흐름을 이어갈 때 유용합니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `WHAT a-BOUT YOU?` / `(WHAT a-BOUT ME?)`. 'what'과 'you'/'me'에 강세를 주며, 'about'은 `어바웃`처럼 약하게 발음합니다. 질문이므로 억양을 올립니다.
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `I'm going to the party.` / `What about you?`
+    - 🇰🇷 나는 파티에 갈 거야. / 당신은 어때요?
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: 'How about you?'와 유사하게 쓰이지만, 'What about you?'는 좀 더 직접적으로 상대방의 상황이나 의견을 묻는 뉘앙스가 있습니다.
+
+### 🔹 What brings you here. : 어떻게 오셨지요?
+- **💡 뉘앙스 & 실전 활용 맥락**: 상대방이 어떤 장소에 오게 된 이유나 목적을 물을 때 사용합니다. 격식 있으면서도 친근하게 질문할 수 있습니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `WHAT brings you HERE?`. 'what'과 'here'에 강세를 줍니다. 'brings you'는 `브링쥬`처럼 연음될 수 있습니다. 질문이므로 억양을 올립니다.
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `Welcome to our office.` / `What brings you here today?`
+    - 🇰🇷 저희 사무실에 오신 것을 환영합니다. / 오늘 어떻게 오셨지요?
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: 'Why did you come here?'보다 더 부드럽고 자연스러운 표현입니다.
+
+### 🔹 What did you say? : 뭐라구요?
+- **💡 뉘앙스 & 실전 활용 맥락**: 상대방의 말을 잘 듣지 못했거나, 믿기지 않아서 다시 한번 확인하고 싶을 때 사용합니다. 놀라움이나 불신을 담을 수 있습니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `WHAT did you SAY?`. 'what'과 'say'에 강세를 줍니다. 'did you'는 `디쥬`처럼 연음됩니다. 질문이므로 억양을 올립니다.
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `I just quit my job.` / `What did you say?!`
+    - 🇰🇷 나 방금 직장을 그만뒀어. / 뭐라구요?!
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: 'Pardon?'이나 'Excuse me?'보다 좀 더 직접적이고 때로는 도전적인 뉘앙스를 가질 수 있습니다. 억양에 따라 의미가 달라집니다.
+
+### 🔹 What do you do? : 직업이 뭐지요?
+- **💡 뉘앙스 & 실전 활용 맥락**: 상대방의 직업이나 하는 일을 물을 때 사용하는 가장 일반적이고 자연스러운 표현입니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `WHAT do you DO?`. 'what'과 'do'에 강세를 줍니다. 'do you'는 `두유` 또는 `쥬`처럼 연음됩니다. 질문이므로 억양을 올립니다.
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `Nice to meet you.` / `So, what do you do?`
+    - 🇰🇷 만나서 반가워요. / 그래서, 직업이 뭐지요?
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: 'What is your job?'도 틀린 표현은 아니지만, 'What do you do?'가 훨씬 더 자연스럽고 흔하게 쓰입니다.
+
+### 🔹 What do you know? : 무엇을 알고 있지요?
+- **💡 뉘앙스 & 실전 활용 맥락**: 상대방이 어떤 정보나 사실을 얼마나 알고 있는지 물을 때 사용합니다. 때로는 놀라움을 표현하는 감탄사로도 쓰입니다. (예: "What do you know! It's raining!")
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `WHAT do you KNOW?`. 'what'과 'know'에 강세를 줍니다. 'do you'는 `두유` 또는 `쥬`처럼 연음됩니다. 질문이므로 억양을 올립니다.
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `I have some news.` / `What do you know about it?`
+    - 🇰🇷 소식이 있어요. / 그것에 대해 무엇을 알고 있지요?
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: 감탄사로 쓰일 때는 '세상에! 이런 일이!'와 같은 뉘앙스로, 질문으로 쓰일 때와 억양이 다릅니다.
+
+### 🔹 What do you mean? : 무슨 의미지요?
+- **💡 뉘앙스 & 실전 활용 맥락**: 상대방의 말이 명확하지 않거나 이해가 안 될 때, 설명을 요청할 때 사용합니다. 혼란스러움이나 의문을 표현합니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `WHAT do you MEAN?`. 'what'과 'mean'에 강세를 줍니다. 'do you'는 `두유` 또는 `쥬`처럼 연음됩니다. 질문이므로 억양을 올립니다.
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `I think we should reconsider.` / `What do you mean by that?`
+    - 🇰🇷 우리는 재고해야 한다고 생각해요. / 무슨 의미지요?
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: 'What is your meaning?'은 부자연스러운 표현입니다. 'What do you mean?'이 올바릅니다.
+
+### 🔹 What do you say? : 뭐라고 하실래요? 어떠세요?
+- **💡 뉘앙스 & 실전 활용 맥락**: 상대방의 의견이나 제안에 대한 반응을 물을 때 사용합니다. 'How about it?'과 유사하게, 제안이나 계획에 대한 동의를 구할 때 쓰입니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `WHAT do you SAY?`. 'what'과 'say'에 강세를 줍니다. 'do you'는 `두유` 또는 `쥬`처럼 연음됩니다. 질문이므로 억양을 올립니다.
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `Let's go for a walk.` / `What do you say?`
+    - 🇰🇷 산책하러 가요. / 뭐라고 하실래요? (어떠세요?)
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: 직역하면 '무엇을 말하느냐'가 되지만, 실제로는 '의견이 어떠냐'는 의미로 쓰입니다.
+
+### 🔹 What do you think of it? : 이것에 대해서 뭐라고 생각 하세요?
+- **💡 뉘앙스 & 실전 활용 맥락**: 특정 사물, 아이디어, 상황 등에 대한 상대방의 의견이나 평가를 물을 때 사용합니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `WHAT do you THINK of IT?`. 'what'과 'think'에 강세를 줍니다. 'do you'는 `두유` 또는 `쥬`처럼 연음되고, 'of it'은 `어빗`처럼 연음됩니다. 질문이므로 억양을 올립니다.
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `I bought a new car.` / `What do you think of it?`
+    - 🇰🇷 새 차를 샀어요. / 이것에 대해서 뭐라고 생각 하세요?
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: 'What do you think about it?'도 가능하지만, 'of'가 더 흔하게 쓰입니다.
+
+### 🔹 What do you think? : 무엇이라고 생각 하세요?
+- **💡 뉘앙스 & 실전 활용 맥락**: 상대방의 일반적인 의견이나 생각을 물을 때 사용합니다. 'What do you think of it?'보다 더 포괄적인 질문입니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `WHAT do you THINK?`. 'what'과 'think'에 강세를 줍니다. 'do you'는 `두유` 또는 `쥬`처럼 연음됩니다. 질문이므로 억양을 올립니다.
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `We have two options.` / `What do you think?`
+    - 🇰🇷 두 가지 선택지가 있어요. / 무엇이라고 생각 하세요?
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: 'What is your opinion?'보다 훨씬 더 자연스럽고 일상적인 표현입니다.
+
+### 🔹 What for? (For what?) : 뭐 때문이지요?
+- **💡 뉘앙스 & 실전 활용 맥락**: 어떤 행동이나 요청의 이유나 목적을 물을 때 사용합니다. 간결하고 직접적인 질문입니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `WHAT FOR?` / `(FOR WHAT?)`. 'what'과 'for' 모두 강세를 주며, 질문이므로 억양을 올립니다.
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `I need to borrow your car.` / `What for?`
+    - 🇰🇷 네 차를 빌려야 해. / 뭐 때문이지요?
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: 'Why?'와 유사하지만, 'What for?'는 특정 목적을 더 강조하는 뉘앙스가 있습니다.
+
+### 🔹 What is it? : 무슨 일이지요?
+- **💡 뉘앙스 & 실전 활용 맥락**: 어떤 상황이나 문제에 대해 물을 때, 또는 누군가 자신을 부르거나 뭔가 할 말이 있는 것 같을 때 사용합니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `WHAT IS it?`. 'what'과 'is'에 강세를 줍니다. 'is it'은 `이짓`처럼 연음됩니다. 질문이므로 억양을 올립니다.
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `You look worried.` / `What is it?`
+    - 🇰🇷 걱정스러워 보이네요. / 무슨 일이지요?
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: 'What's the matter?'와 유사하지만, 'What is it?'은 좀 더 일반적인 상황에서 쓰입니다.
+
+### 🔹 What makes you say that? : 무슨 근거로 그렇게 말 하세요?
+- **💡 뉘앙스 & 실전 활용 맥락**: 상대방이 어떤 주장을 했을 때, 그 주장의 근거나 이유를 물을 때 사용합니다. 의심이나 궁금증을 표현합니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `WHAT makes you SAY that?`. 'what'과 'say'에 강세를 줍니다. 'makes you'는 `메익스유`처럼 연음됩니다. 질문이므로 억양을 올립니다.
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `I think he's lying.` / `What makes you say that?`
+    - 🇰🇷 그가 거짓말하고 있는 것 같아요. / 무슨 근거로 그렇게 말 하세요?
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: 'Why do you say that?'보다 좀 더 상대방의 추론 과정이나 근거를 묻는 뉘앙스가 강합니다.
+
+### 🔹 What time is it? : 몇시지요?
+- **💡 뉘앙스 & 실전 활용 맥락**: 현재 시간을 물을 때 사용하는 가장 기본적인 표현입니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `WHAT TIME is IT?`. 'what'과 'time'에 강세를 줍니다. 'is it'은 `이짓`처럼 연음됩니다. 질문이므로 억양을 올립니다.
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `Excuse me,` / `what time is it?`
+    - 🇰🇷 실례합니다, / 몇시지요?
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: 'What time now?'는 부자연스러운 표현입니다. 'What time is it?'이 올바릅니다.
+
+### 🔹 What? : 뭐라구요?
+- **💡 뉘앙스 & 실전 활용 맥락**: 상대방의 말을 듣지 못했거나, 놀라움, 불신, 혹은 분노를 표현할 때 사용하는 짧은 감탄사/질문입니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `WHAT?`. 강하게 발음하며, 억양에 따라 놀라움, 불신, 분노 등 다양한 감정을 표현합니다.
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `I just broke your favorite mug.` / `What?!`
+    - 🇰🇷 네가 가장 좋아하는 머그컵을 방금 깼어. / 뭐라구요?!
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: 너무 자주 사용하면 무례하게 들릴 수 있으니, 상황에 맞게 'Pardon?'이나 'Excuse me?'와 번갈아 사용하는 것이 좋습니다.
+
+### 🔹 What’s it called? : 그것을 뭐라고 부르지요?
+- **💡 뉘앙스 & 실전 활용 맥락**: 어떤 사물이나 개념의 이름을 모를 때, 그 이름을 물어볼 때 사용합니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `WHAT'S it CALLED?`. 'what's'와 'called'에 강세를 줍니다. 'it called'는 `잇 콜드`처럼 연음됩니다. 질문이므로 억양을 올립니다.
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `I saw a strange animal.` / `What's it called?`
+    - 🇰🇷 이상한 동물을 봤어요. / 그것을 뭐라고 부르지요?
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: 'What is its name?'도 가능하지만, 'What's it called?'가 더 자연스럽고 흔하게 쓰입니다.
+
+### 🔹 What’s today's special? : 오늘 특선 요리가 뭐지요?
+- **💡 뉘앙스 & 실전 활용 맥락**: 식당에서 오늘의 특별 메뉴를 물어볼 때 사용합니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `WHAT'S to-DAY'S SPE-cial?`. 'what's', 'day's', 'spe'에 강세를 줍니다. 'today's'는 `투데이즈`처럼 연음됩니다. 질문이므로 억양을 올립니다.
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `Excuse me, waiter,` / `what's today's special?`
+    - 🇰🇷 실례합니다, 웨이터, / 오늘 특선 요리가 뭐지요?
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: 'Today's special menu'는 중복 표현입니다. 'Today's special'만으로 충분합니다.
+
+### 🔹 Whatever you say. : 뭐라고 하시던지요
+- **💡 뉘앙스 & 실전 활용 맥락**: 상대방의 의견이나 결정에 동의하거나, 더 이상 논쟁하고 싶지 않을 때 사용합니다. 때로는 체념하거나 비꼬는 뉘앙스를 가질 수도 있습니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `WHAT-ev-er you SAY`. 'what'과 'say'에 강세를 줍니다. 'you'는 약하게 발음합니다. 억양에 따라 순응, 무관심, 비꼼 등 다양한 감정을 표현합니다.
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `I think we should go with plan B.` / `Whatever you say.`
+    - 🇰🇷 플랜 B로 가는 게 좋겠어요. / 뭐라고 하시던지요.
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: 억양에 따라 상대방의 말을 무시하는 것처럼 들릴 수 있으니 주의해야 합니다.
+
+### 🔹 What's happening? : 어떻게 지내요?
+- **💡 뉘앙스 & 실전 활용 맥락**: 친구나 지인에게 안부를 물을 때 사용하는 비격식적인 인사말입니다. 'What's up?'과 유사합니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `WHAT'S HAP-pen-ing?`. 'what's'와 'hap'에 강세를 줍니다. 'happening'은 `해프닝`처럼 발음합니다. 질문이므로 억양을 올립니다.
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `Hey John,` / `what's happening?`
+    - 🇰🇷 안녕 존, / 어떻게 지내요?
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: 'What's happening?'은 현재 진행 중인 상황을 묻는 질문이 아니라, 안부를 묻는 인사말입니다.
+
+### 🔹 What's new? : 그동안 새로운 거 있었어요?
+- **💡 뉘앙스 & 실전 활용 맥락**: 오랜만에 만난 사람에게 그동안 있었던 새로운 소식이나 변화를 물을 때 사용합니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `WHAT'S NEW?`. 'what's'와 'new'에 강세를 주며, 질문이므로 억양을 올립니다.
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `Long time no see!` / `What's new?`
+    - 🇰🇷 오랜만이야! / 그동안 새로운 거 있었어요?
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: 'What's new?'는 '새로운 소식'을 묻는 것이지, '새로운 물건'을 묻는 것이 아닙니다.
+
+### 🔹 What's the big deal? : 뭐가 그 난리에요?
+- **💡 뉘앙스 & 실전 활용 맥락**: 어떤 상황이나 문제에 대해 사람들이 과도하게 반응하거나 중요하게 생각할 때, 그 중요성을 낮춰 말하거나 비꼬는 뉘앙스로 사용합니다.
+- **🔊 발음, 연음 & 쉐도잉 리듬 가이드**: `WHAT'S the BIG DEAL?`. 'what's'와 'big deal'에 강세를 줍니다. 'the'는 약하게 발음합니다. 질문이므로 억양을 올리거나, 무관심하게 내립니다.
+- **📝 실전 쉐도잉 예문 (Shadowing Drill)**:
+  - 🇺🇸 `Everyone is panicking` / `about the deadline.` / `What's the big deal?`
+    - 🇰🇷 모두가 마감일 때문에 / 패닉에 빠졌어. / 뭐가 그 난리에요?
+- **⚠️ 콩글리시 & 단골 실수 방지 (Pitfall)**: 상대방의
+
+---
+
+## 🏋️ 실전 자가 점검 스피킹 드릴 (Interactive Drills)
+
+#### 문제 1. 친구가 시험 결과에 대해 걱정하고 있습니다. 친구를 안심시키기 위해 "걱정 마, 그 시험은 식은 죽 먹기야."라고 말하고 싶다면 어떻게 표현해야 할까요?
+||Don't worry, / the exam / is a piece of cake.||
+- **💡 상세 해설 & 핵심 포인트**: '식은 죽 먹기'라는 의미의 `A piece of cake`를 활용하여 시험이 매우 쉽다는 것을 강조합니다. `Don't worry`로 시작하여 상대방을 안심시키는 표현입니다.
+
+#### 문제 2. 동료가 "이 프로젝트를 제시간에 끝낼 수 있을까요?"라고 물었을 때, 당신은 전적으로 동의하며 확신을 표현하고 싶습니다. 한 단어로 어떻게 대답할 수 있을까요?
+||Absolutely.||
+- **💡 상세 해설 & 핵심 포인트**: 상대방의 말에 전적으로 동의하거나 어떤 사실이 확실하다는 것을 강조할 때 사용하는 강한 긍정 표현인 `Absolutely`를 활용합니다.
+
+#### 문제 3. 당신이 문을 열어주며 상대방에게 먼저 들어가라고 공손하게 권유하고 싶습니다. 이때 사용할 수 있는 가장 적절한 표현은 무엇일까요?
+||After you.||
+- **💡 상세 해설 & 핵심 포인트**: 상대방에게 먼저 하라고 권유하는 매우 공손하고 격식 있는 표현인 `After you`를 사용합니다. "You first."보다 더 정중한 뉘앙스를 가집니다.

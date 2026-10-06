@@ -1,0 +1,486 @@
+# idiom & phrasal verbs & slangs.md
+
+> [!NOTE]
+> **소스 출처**: Step-by-Step English Speaking Training Patterns
+
+---
+
+## 🏷 NotebookLM 자동 태그 (한국어 번역)
+
+**키워드**: 영어 관용구, 구동사, 속어, 정의 및 예시, 비격식 어휘
+
+**한줄 요약**
+> 본 문서는 일상 대화에서 사용되는 방대한 관용어, 구동사, 속어 표현을 꼼꼼하게 분류한 포괄적인 비격식 영어 사전입니다. 알파벳 순서의 용어집으로 구성되어 있으며, 각 표현의 명확한 정의와 함께 실제 상황에서 이러한 다채로운 구절이 어떻게 기능하는지 보여주는 문맥적 예시를 제공합니다. 이 자료의 주된 목적은 학습자들이 격식 있는 교과서 언어와 원어민의 비격식적이고 리듬감 있는 대화 사이의 간극을 메울 수 있도록 돕는 것입니다. 주요 내용은 감정 표현, 사회적 상호작용, 재정 상태, 그리고 성공과 실패에 대한 다양한 은유를 포함합니다. 또한, 이 자료는 표준적인 비유적 표현과 비격식 구동사를 구분하여 현대 미국 영어의 미묘한 뉘앙스를 마스터하는 데 필수적인 도구를 제공합니다.
+
+---
+
+## 📋 상세 분석 (소스_프롬프트.txt 기반)
+
+---
+title: "idiom & phrasal verbs & slangs.md"
+aliases: []
+tags: [source, mcp-extracted]
+type: document
+---
+# 📄 idiom & phrasal verbs & slangs.md (Part: 전체)
+
+## 📌 요약 (Executive Summary)
+- 본 문서는 데니스 올리버(Dennis Oliver)가 편찬한 일상 영어 관용구(Idioms), 구동사(Phrasal Verbs), 그리고 속어(Slangs)의 정의와 대화 예문들을 수록한 방대한 분량의 원형 전사 자료집이다.
+- 단순 암기 위주의 방식에서 벗어나 실전 구어체 발화 맥락에서 쓰이는 실제 표현들의 정의(Definitions), 쓰임새(Lists), 그리고 유기적인 실제 사용 예문(Examples)들을 상세히 기술하고 있다.
+- 무손실 추출 엔진 원칙에 따라, 원고 원본 고유의 비속어/속어 표기, 구어체 일탈 기호, 특이한 행 바꿈 및 타이포 패턴(예: 'all right (1)/(2)', 'softwware' 오타, 'burn the the midnight oil' 중복 표기, 'so71y' 오타, 'B.S.', 'ass [offensive]' 등 가감 없는 가이드라인)을 있는 그대로 100% 무손실 상태로 보존 전사한다.
+
+---
+
+## 🧱 상세 분해 (Detailed Breakdown)
+
+### ### 1. 일상 핵심 관용 표현군 (Dennis Oliver's Idioms)
+- **핵심 논지**: 일상 및 비즈니스 상황에서 빈번히 사용되는 비유적 관용 표현들의 의미와 실제 대화식 용례를 가감 없이 입증한다.
+- **근거 및 데이터**:
+  - **ace**: 시험, 숙제, 과제 등에서 'A' 학점을 받다.
+    - *"Somebody said you aced the test, Dave. That's great!"* (누가 너 시험 A 받았대, 데이브. 대단해!)
+  - **all right (1)**: 마지못해 동의하는 표현.
+    - *A: "Come to the party with me. Please!" B: "Oh, all right. I don't want to, but I will."* (A: 나랑 파티 가자. 제발! B: 오, 알았어. 가고 싶진 않지만 갈게.)
+  - **all right (2)**: 꽤 괜찮은, 특별히 좋지는 않은.
+    - *A: "How's your chemistry class?" B: "It's all right, I guess, but it's not the best class I've ever had."* (A: 화학 수업 어때? B: 괜찮은 것 같아, 하지만 최고는 아니야.)
+  - **all right (3)**: 다치지 않은, 괜찮은 상태의.
+    - *A: "You don't look normal. Are you all right?" B: "Yes, but I have a headache."* (A: 너 안 좋아 보여. 괜찮아? B: 응, 근데 두통이 좀 있어.)
+  - **and then some**: 그것보다 훨씬 더 많이.
+    - *A: "I'd guess your new computer cost about $2,000." B: "It cost that much and then some because I also bought extra RAM and VRAM."* (A: 새 컴퓨터 2천 달러 정도 줬겠네. B: 그 가격에 더 줬지. 왜냐하면 RAM이랑 VRAM도 추가했거든.)
+  - **antsy**: 안절부절못하는, 조급하게 기다리는.
+    - *"I hope Katy calls soon. Just sitting around and waiting is making me antsy."* (케이티가 얼른 전화하면 좋겠어. 그냥 앉아서 기다리려니 안달이 나네.)
+  - **as easy as pie**: 매우 쉬운.
+    - *"I thought you said this was a difficult problem. It isn't. In fact, it's as easy as pie."* (너 이거 어려운 문제라고 하지 않았어? 전혀 아냐. 사실 누워서 떡 먹기야.)
+  - **at the eleventh hour**: 막판에, 거의 늦을 뻔하게.
+    - *"Yes, I got the work done in time. I finished it at the eleventh hour, but I wasn't late."* (응, 제시간에 일을 끝냈어. 거의 막판에 아슬아슬하게 끝냈지만 늦진 않았어.)
+  - **bad-mouth**: 험담하다, 누군가에 대해 불친절하거나 당황스러운 말을 하다.
+    - *A: "I don't believe what Bob said. Why is he bad-mouthing me?" B: "He's probably jealous of your success."* (A: 난 밥이 한 말 안 믿어. 걔가 왜 날 험담하는 거지? B: 아마 네 성공을 질투해서 그럴 거야.)
+  - **be a piece of cake**: 식은 죽 먹기이다.
+    - *A: "Bob said the test was difficult, but I thought it was a piece of cake."* (A: 밥은 시험이 어렵다고 했지만, 난 식은 죽 먹기라고 생각했어.)
+  - **be all ears**: 경청하다, 몹시 듣고 싶어 하다.
+    - *A: "I just got an e-mail message from our old friend Sally." B: "Tell me what she said. I'm all ears!"* (A: 옛 친구 샐리한테 이메일이 왔어. B: 무슨 내용인지 말해줘. 경청하고 있어!)
+  - **be broke**: 돈이 전혀 없다.
+    - *"No, I can't lend you ten dollars. I'm completely broke until payday."* (아니, 너한테 10달러 못 빌려줘. 나 월급날까지 완전 빈털터리야.)
+  - **be fed up with**: 참을성이 바닥나다, 아주 지긋지긋해지다.
+    - *"Bill, you're too careless with your work. I'm fed up with apologizing for your mistakes!"* (빌, 일처리를 너무 대충 하는구나. 네 실수에 대해 사과하는 것도 이제 지긋지긋해!)
+  - **be in and out**: 특정 시간에 어떤 장소에 왔다 갔다 하다.
+    - *"Could we postpone our meeting until tomorrow? I expect to be in and out of the office most of the day today."* (회의를 내일로 미룰 수 있을까요? 오늘 하루 종일 사무실을 왔다 갔다 할 것 같아요.)
+  - **be up and running**: (기술이나 프로세스가) 정상 가동 중이다.
+    - *"Dave's ESL Cafe on the Web has been up and running since December 1995."* (데이브의 ESL 웹 카페는 1995년 12월부터 정상적으로 운영되고 있습니다.)
+  - **be used to (+Ving/noun)**: ~에 익숙하다, 대수롭지 않게 느끼다.
+    - *"It won't be hard to get up at 5:00 AM. I'm used to getting up early."* (아침 5시에 일어나는 건 어렵지 않아. 난 아침 일찍 일어나는 데 익숙하거든.)
+  - **beat**: 완전히 지친, 기진맥진한 (형용사).
+    - *"This has been a long day. I'm beat!"* (길고 힘든 하루였어. 완전히 지쳤어!)
+  - **beat around the bush**: 요점을 피하다, 돌려 말하다.
+    - *"Quit beating around the bush! If you don't want to go with me, just tell me!"* (돌려 말하지 마! 나랑 가기 싫으면 그냥 싫다고 말해!)
+  - **beat one's brains out**: 무언가를 이해하거나 해내기 위해 머리를 쥐어짜다.
+    - *"Can you help me with this problem? I've been beating my brains out with it, but I just can't solve it."* (이 문제 좀 도와줄 수 있어? 머리를 쥐어짜 봤지만 도저히 안 풀려.)
+  - **Beats me**: 전혀 모르겠다, 아무 생각도 안 난다.
+    - *A: "What time's the party?" B: "Beats me!"* (A: 파티 몇 시야? B: 나도 전혀 몰라!)
+  - **before long**: 머잖아, 곧.
+    - *A: "I'm really tired of working." B: "Just be patient. The weekend will be here before long."* (A: 일하는 거 정말 지긋지긋해. B: 조금만 참아. 머잖아 주말이 올 거야.)
+  - **bent out of shape**: 괜히 안달복달하는, 필요 이상으로 걱정하는.
+    - *"I know you're worried about your job interview, but don't get bent out of shape. You'll do just fine."* (면접 때문에 걱정하는 건 알지만, 너무 안달 내지 마. 잘 해낼 거야.)
+  - **bite off more than one can chew**: 분에 넘치는 일에 책임을 지다, 무리하다.
+    - *"I'm really behind with my project. Can you help me? I'm afraid I bit off more than I could chew!"* (내 프로젝트가 정말 많이 밀렸어. 좀 도와줄래? 내가 너무 무리한 과욕을 부린 것 같아!)
+  - **blabbermouth**: 입이 가벼운 사람, 비밀을 다 불고 다니는 수다쟁이.
+    - *"Don't say anything to Bob unless you want the whole office to know. Bob's quite a blabbermouth."* (온 사무실 사람들이 다 아는 걸 원치 않으면 밥한테는 아무 말도 하지 마. 걔 완전 수다쟁이야.)
+  - **blow one's top**: 머리끝까지 화가 나다, 뚜껑이 열리다.
+    - *A: "Was your father upset when you came home at 3 AM?" B: "He was more than upset. He blew his top!"* (A: 새벽 3시에 들어갔을 때 아버지가 화내셨어? B: 화내신 정도가 아냐. 완전히 뚜껑이 열리셨지!)
+  - **boom box**: 휴대용 카세트/CD 플레이어.
+    - *"Don't forget to bring your boom box to the picnic!"* (소풍에 휴대용 카세트 플레이어 꼭 챙겨와!)
+  - **the bottom line**: 가장 핵심이 되는 중요한 정보, 최종 요점.
+    - *"The discussion lasted many hours. The bottom line was that the XYZ Company isn't for sale."* (토론은 몇 시간 동안 지속되었고, 결국 가장 핵심은 XYZ 회사가 매물이 아니라는 점이었다.)
+  - **Break a leg!**: 행운을 빌어!
+    - *"I understand you have a job interview tomorrow. Break a leg!"* (너 내일 면접 있다면서. 행운을 빌어!)
+  - **break someone's heart**: 아주 큰 실망이나 상처를 주다.
+    - *"Joe broke his mother's heart when he dropped out of school."* (조가 학교를 자퇴했을 때 그의 어머니는 엄청나게 마음 아파하셨다.)
+  - **broke**: 돈이 한 푼도 없는.
+    - *A: "Can you lend me 10 dollars?" B: "I'm afraid not. I'm broke."* (A: 10달러만 빌려줄래? B: 미안하지만 안 되겠어. 나 빈털터리야.)
+  - **buck(s)**: 달러.
+    - *"The cheapest tickets for the concert cost 25 bucks. Do you still want to go?"* (콘서트 가장 싼 표가 25달러야. 그래도 갈래?)
+  - **bug**: 귀찮게 굴다, 괴롭히다.
+    - *"I'm trying to concentrate! Don't bug me!"* (집중하려는 중이니까 나 좀 귀찮게 하지 마!)
+  - **bull-headed**: 황소고집의, 고집불통인, 융통성이 없는.
+    - *"Don't be so bull-headed. Why can't you admit that others' opinions are just as good as yours?"* (그렇게 고집 피우지 마. 다른 사람들의 의견도 네 의견만큼 훌륭하다는 걸 왜 인정 안 해?)
+  - **a bundle**: 거액의 돈, 많은 돈.
+    - *A: "Your new car is really nice." B: "It should be. It cost me a bundle!"* (A: 네 새 차 진짜 좋다. B: 당연하지. 돈 엄청 썼거든!)
+  - **burn the midnight oil**: 밤샘 공부나 작업을 하다, 밤늦게까지 기름을 태우다.
+    - *"I'm not ready for the test tomorrow. I guess I'll have to burn the the midnight oil."* (나 내일 시험 볼 준비가 안 돼서 오늘 밤샘 공부 해야 할 것 같아; 원문 중복 표기 보존)
+  - **bushed**: 몹시 피곤한, 지쳐 떨어진.
+    - *"I'm going to lie down for a while. I'm really bushed."* (잠깐 좀 누워야겠어. 완전히 파김치가 됐어.)
+  - **by oneself**: 혼자서 도움 없이, 외롭게.
+    - *"I can't do this by myself. Can you help me?"* (나 이거 혼자서 다 못 해. 좀 도와줄래?)
+  - **by the skin of one's teeth**: 겨우겨우, 아슬아슬하게 해내다.
+    - *"I'll have to start earlier the next time. This time I only finished by the skin of my teeth."* (다음에는 더 일찍 시작해야겠어. 이번에는 정말 턱걸이로 아슬아슬하게 끝냈거든.)
+  - **call it a day**: 오늘 하루 일을 끝내다, 마무리 짓다.
+    - *"It's late and you've accomplished a lot. Why don't you call it a day?"* (시간도 늦었고 일도 많이 해냈으니 오늘은 이만 퇴근하는 게 어때?)
+  - **can't make heads or tails of something**: 도무지 갈피를 못 잡다, 전혀 이해할 수 없다.
+    - *"I can't make heads or tails of your e-mail. Were you having problems with your computer?"* (네 이메일이 도대체 무슨 소린지 통 모르겠어. 컴퓨터에 무슨 문제 있었니?)
+  - **catch one's eye**: 관심을 끌다, 눈길을 사로잡다.
+    - *"This brochure about Tahiti caught my eye when I was at the travel agency."* (여행사에 있을 때 타히티 소개 팜플렛이 내 눈길을 사로잡았어.)
+  - **catch some Zs**: 잠을 자다, 토막 잠을 자다.
+    - *"You look tired, Dave. Why don't you catch some Zs?"* (데이브, 너 정말 피곤해 보여. 가서 한잠 자는 게 어때?)
+  - **cool (also kewl)**: 멋진, 특별한, 아주 훌륭한.
+    - *"The ESL Cafe on the Web is really cool!"* (그 인터넷 ESL 카페 진짜 대박 멋져!)
+  - **Cool it!**: 진정해!, 흥분을 가라앉혀!
+    - *"There's no need to be so upset. Just cool it!"* (그렇게 화낼 필요 전혀 없어. 진정해!)
+  - **cost (someone) an arm and a leg**: 가격이 엄청나게 비싸다, 팔다리가 잘릴 정도로 돈이 들다.
+    - *A: "Your new car is really nice." B: "It should be. It cost (me) an arm and a leg!"* (A: 새 차 정말 좋다. B: 그래야만 하지. 진짜 거금을 쏟아부었거든!)
+  - **couch potato**: 하루 종일 소파에 누워 TV만 보는 게으른 사람.
+    - *"You're a real couch potato, Jay. You need to get more exercise!"* (제이, 넌 진짜 완전 소파 죽돌이야. 운동 좀 해야 해!)
+  - **cram**: 벼락치기 공부를 하다, 짧은 시간에 채워 넣다.
+    - *"Sidney did well on the test because he crammed for it. However, he probably won't remember any of the information a couple of days from now."* (시드니는 벼락치기를 해서 시험을 잘 봤다. 그렇지만 며칠 지나면 아마 머릿속에 아무것도 안 남아 있을 것이다.)
+  - **crash course**: 단기 집중 코스.
+    - *"Tom's company is sending him to a business meeting in Istanbul. Should he take a crash course in Turkish?"* (톰의 회사에서 그를 이스탄불 출장 보낸대. 터키어 속성 코스라도 들어야 하는 거 아냐?)
+  - **Cut it out!**: 시끄럽게 하거나 짜증 나게 하는 행동을 당장 멈춰라!
+    - *"You kids are making too much noise. Cut it out!"* (너희들 너무 시끄러워. 당장 그만해!)
+  - **Don't count your chickens until (before) they hatch (they've hatched).**: 김칫국부터 마시지 마라, 뚜껑은 열어봐야 안다.
+    - *A: "I'm sure that I'm going to win a lot of money in Las Vegas." B: "Don't count your chickens until they hatch!"* (A: 나 라스베이거스에서 대박 딸 확신이 있어. B: 김칫국부터 마시지 마!)
+  - **dicey**: 위험한, 리스크가 큰, 불확실한.
+    - *A: "A friend of mine says I can make a lot of money if I buy stock in the XYZ company. Should I do it?" B: "I wouldn't if I were you. The chances for success are too dicey."* (A: 내 친구가 XYZ 주식을 사면 거액을 벌 수 있대. 사야 할까? B: 내가 너라면 안 사. 성공 확률이 너무 도박이야.)
+  - **ditch class**: 수업을 빼먹다, 땡땡이치다.
+  - **do a bang-up job**: 일을 완벽하게 아주 잘 처리해 내다.
+    - *"Have you seen Frank's home page? He did a bang-up job with it."* (프랭크 홈페이지 봤어? 진짜 끝내주게 잘 만들었더라고.)
+  - **down in the dumps**: 기분이 꿀꿀한, 우울한, 침울한.
+    - *A: "Is something wrong?" B: "Not really, but I feel kind of down in the dumps."* (A: 무슨 문제 있어? B: 그런 건 아닌데 그냥 기분이 좀 꿀꿀하네.)
+  - **drop someone a line**: 연락을 취하다, 몇 줄 써서 보내다.
+    - *"I haven't written to my parents for a long time. I'd better drop them a line today or tomorrow."* (부모님께 오랫동안 편지를 못 드렸어. 오늘이나 내일 중으로 엽서라도 한 장 써야겠어.)
+  - **drag one's feet**: 할 일을 차일피일 미루다, 늑장 부리다.
+    - *"Joe should have finished his project a week ago. Why is he dragging his feet?"* (조는 일주일 전에 프로젝트를 끝냈어야 했어. 왜 저렇게 늑장 부리는 거야?)
+  - **an eager beaver**: 열성적인 일벌레, 항상 자발적으로 나서는 사람.
+  - **Easy does it!**: 살살 조심히 다뤄라!, 성급하게 굴지 마라!
+    - *A: "I'm going to move the table just a little further from the window." B: "Easy does it! If you move too fast, you might knock over the plant!"* (A: 창문에서 테이블을 아주 조금만 더 밀어 놓을게. B: 살살 조심해! 너무 급하게 밀다가 화분 넘어뜨릴라!)
+  - **an egghead**: 아주 지적인 사람, 공부벌레.
+    - *"Jake didn't make very good grades in school, but his sister was a real egghead."* (제이크는 학교 성적이 별로였지만 그의 누나는 진짜 완전 공부벌레였어.)
+  - **elbow grease**: 엄청난 육체적 노력, 육체노동.
+  - **every other _____**: 격일의, 하나 거르고 다른 하나.
+  - **far-fetched**: 믿기 어려운, 터무니없는, 말도 안 되는.
+    - *"That story's pretty far-fetched. Nobody's going to believe it."* (그 이야기 정말 터무니없네. 아무도 안 믿을 거야.)
+  - **feel blue**: 우울하다, 슬프다.
+    - *"I'm feeling blue because I haven't had any mail except bills for a long, long time."* (오랫동안 고지서 말고는 아무 편지도 못 받아서 기분이 정말 꿀꿀해.)
+  - **fire someone**: (근무 태도 불량으로) 해고하다.
+    - *"If you continue to be late for work, the company will fire you."* (계속 지각하면 회사에서 잘릴 거야.)
+  - **feel puny**: 컨디션이 저조하다, 몸이 안 좋다.
+    - *"Ted was feeling puny yesterday, so he decided not to go to work."* (테드는 어제 몸이 좀 찌뿌둥해서 출근 안 하기로 했어.)
+  - **fender-bender**: 가벼운 접촉 사고.
+    - *"Traffic was really slow on the freeway this morning because of a fender-bender in one of the westbound lanes."* (오늘 아침 서쪽 방면 도로에서 가벼운 접촉 사고가 나는 바람에 고속도로 정체가 아주 심했어.)
+  - **for ages**: 오랫동안, 세월이 흘러서.
+    - *"Where's Marie? I haven't seen her for ages."* (마리 어디 갔어? 진짜 본 지 백만 년은 된 것 같네.)
+  - **get going**: 자리를 뜨다, 출발하다.
+    - *"Look at the time! I'd better get going!"* (시간 좀 봐! 나 이제 일어나서 가봐야겠어!)
+  - **get it**: 이해하다 (부정어로 자주 사용).
+    - *"I don't get it. What do you mean?"* (나 전혀 이해가 안 돼. 무슨 소리야?)
+  - **get a kick out of something**: 재미있어하다, 흥미를 느끼다.
+    - *"I really get a kick out of listening to children talk. They say some very funny things."* (아이들이 말하는 걸 들으면 진짜 재미있어. 정말 기발하고 웃긴 말들을 한다니까.)
+  - **get lost!**: 꺼져!, 저리 가!
+    - *"I wish he'd get lost and stop bothering me. I don't want to talk to him!"* (걔가 그냥 썩 꺼져서 날 그만 괴롭혔으면 좋겠어. 걔랑 한 마디도 하기 싫거든!)
+  - **get on one's nerves**: 짜증 나게 만들다, 성질을 건드리다.
+    - *"I know you like that song, but it's getting on my nerves. Can you play something else?"* (네가 그 노래 좋아하는 건 알지만 슬슬 내 성질 건드리네. 다른 것 좀 틀어줄래?)
+  - **get a move on**: 서두르다.
+    - *"If you don't want to be late, you'd better get a move on."* (지각 안 하려면 서두르는 게 좋을 거야.)
+  - **get one's wires crossed**: 서로 오해하다, 핀트가 어긋나다.
+    - *A: "Bill said there was a meeting this morning. Don't we have one?" B: "No. The meeting's tomorrow. I guess Bill got his wires crossed."* (A: 빌이 오늘 아침에 회의가 있다고 했는데, 회의 없어? B: 아니. 회의는 내일이야. 빌이 혼동했나 봐.)
+  - **get out of hand**: 감당이 안 되다, 통제 불능이 되다.
+    - *"Your absences are getting out of hand, Bob. You'd better do something quickly to improve the situation if you want to keep your job."* (밥, 너 무단 결근이 감당이 안 되는 수준이야. 네 자리를 보존하고 싶으면 상황을 개선하기 위해 조치를 서둘러 취해야 할 거야.)
+  - **Get real!**: 현실을 직시해!, 헛꿈 꾸지 마.
+    - *A: "I'm going to Las Vegas. I know I'll win a lot of money!" B: "Get real! You'll probably lose a lot of money!"* (A: 나 라스베이거스 갈 거야. 돈 엄청 딸 수 있어! B: 현실을 좀 직시해! 쫄딱 잃고 말걸!)
+  - **get up and go**: 활력, 열정.
+  - **have/has ('ve/'s) got**: 가지다.
+    - *"Dave's got a son whose name is Benjamin and a daughter whose name is Shannon."* (데이브는 아들 벤자민과 딸 샤넌을 두고 있다.)
+  - **have something down pat**: 완전히 꿰뚫다, 마스터하다.
+    - *"I know I did well on the test. I had all the material down pat."* (나 시험 아주 잘 본 거 알아. 시험 범위 내용을 통째로 다 꿰고 있었거든.)
+  - **head honcho**: 최고 결정권자, 대장, 우두머리 보스.
+    - *"Dave's the head honcho of the ESL Cafe on the Web."* (데이브가 웹 ESL 카페의 대장이지.)
+  - **hit the books**: 뼈 빠지게 공부하다.
+    - *"I wish I could go to the movies, but I've got to hit the books."* (나도 영화 보러 가고 싶지만, 오늘 공부해야 해.)
+  - **hit the hay**: 잠자리에 들다.
+    - *"It's late, so I guess I'll hit the hay."* (늦었네, 이제 자러 가야겠어.)
+  - **hit the sack**: 드러눕다, 잠자러 가다.
+    - *"I'm really tired. I think I'll hit the sack."* (진짜 피곤하다. 이제 그만 누워 자야겠어.)
+  - **How come?**: 어째서?, 왜? (뒤에는 평서문 문장 순서).
+    - *"How come you weren't at the party?"* (어째서 파티에 안 온 거야?)
+  - **if I had my druthers**: 만약 내가 원하는 대로 할 수 있다면.
+    - *"If I had my druthers, I'd stay home from work today."* (내 마음대로 선택할 수 있다면, 오늘 출근 안 하고 그냥 집에서 뒹굴거리고 싶어.)
+  - **in over one's head**: 능력 밖의 일에 부딪히다, 혼자 감당하기 어려운 곤경에 빠지다.
+    - *"Do you have time to help me? I thought I could do this myself, but I'm afraid I'm in over my head. I just can't handle things alone."* (시간 있으면 나 좀 도와줄래? 혼자 할 수 있을 줄 알았는데 능력이 안 닿아. 도저히 혼자서는 감당이 안 되네.)
+  - **inside out**: 옷을 안팎을 뒤집어 입은.
+  - **in time**: 지각하지 않고 제때에.
+    - *"I thought I was going to be late for my flight, but it was delayed, so I was still in time."* (비행기 놓칠 줄 알았는데 다행히 지연되는 바람에 제시간에 도착했어.)
+  - **jump all over someone**: 호되게 야단치다, 비판하다.
+    - *A: "What's wrong with Joe?" B: "He's feeling bad because his boss jumped all over him this morning."* (A: 조한테 무슨 일 있어? B: 아침에 상사한테 아주 호되게 털려서 기분이 영 별로인가 봐.)
+  - **jump the gun**: 성급하게 굴다, 먼저 설발을 치다.
+    - *A: "How did Marsha know about the party? It was supposed to be a surprise." B: "Chuck jumped the gun. Without thinking, he said, 'I'm bringing the cake at your party; I hope you like it!'"* (A: 마샤가 깜짝 파티인 줄 어떻게 안 거야? 원래 서프라이즈였잖아. B: 척이 방정맞게 설발을 쳤어. 아무 생각 없이 '네 생일 파티 케이크는 내가 가져갈게, 마음에 들면 좋겠다!'라고 말해버렸대.)
+  - **leave well enough alone**: 긁어 부스럼 만들지 않다, 그냥 그대로 내버려 두다.
+    - *"Don't tell Jim how to discipline his children. Leave well enough alone."* (짐의 훈육 방식에 토 달지 마. 그냥 내버려 두는 게 약이야.)
+  - **a let-down**: 큰 실망감을 안겨주는 일이나 상황.
+    - *"It must've been quite a let-down not to be chosen for that job. I know you really hoped you would get it."* (그 자리에 안 뽑혀서 진짜 실망이 크겠어. 네가 얼마나 간절히 가고 싶어 했는지 아는데.)
+  - **Let sleeping dogs lie.**: 잠자는 사자의 코털을 건드리지 마라, 긁어 부스럼 만들지 마라.
+    - *"I know that what Julie said made you angry, but let sleeping dogs lie. If you say or do anything, you'll only make things worse."* (줄리가 한 말에 화난 건 알지만, 그냥 묻어둬. 긁어 부스럼 만들어봤자 상황만 나빠져.)
+  - **live from hand to mouth**: 하루 벌어 하루 먹고살다, 겨우 입에 풀칠하다.
+    - *"Chuck and Alice are living from hand to mouth since Chuck lost his job."* (척이 실직한 뒤로 척과 앨리스는 하루하루 겨우 먹고사는 처지야.)
+  - **live and let live**: 서로 간섭하지 않고 각자 갈 길 가다, 공존하다.
+    - *"I'm not going to criticize Alice's family just because their habits are a little strange. My motto is 'Live and let live.'"* (앨리스 가족들 습관이 좀 별나다고 해서 굳이 비난하진 않을 거야. 내 좌우명은 각자의 개성을 존중하는 거니까.)
+  - **a low blow**: 큰 좌절이나 실망을 유발하는 치명적인 한 방.
+    - *A: "Fred seems depressed. Is he OK?" B: "He's OK, but not good. It was a low blow for him to be laid off from his job."* (A: 프레드가 우울해 보여. 괜찮아? B: 괜찮긴 한데 별로 안 좋아. 갑자기 정리해고당한 게 정말 타격이 컸거든.)
+  - **lousy**: 남루한, 형편없는, 완전 구린.
+    - *"Why did you speak so rudely to your grandmother? That was a lousy thing to do!"* (할머니께 왜 그렇게 싹퉁바가지 없이 말했어? 그건 정말 형편없는 행동이야!)
+  - **macho**: 극단적으로 가부장적이거나 남성미를 과시하는.
+    - *"Her husband would never agree to help with the housework; he's too macho to do that."* (그녀의 남편은 집안일을 절대 안 도우려 해. 지가 무슨 마초인 줄 안다니까.)
+  - **make a mountain out of a molehill**: 침소봉대하다, 사소한 일을 크게 부풀리다.
+    - *"Calm down. There's really nothing to worry about. You're making a mountain out of a molehill."* (진정해. 전혀 걱정할 일 아니야. 넌 너무 일을 크게 부풀리고 있어.)
+  - **make up one's mind**: 결단을 내리다, 결심하다.
+    - *A: "Where are you going on your vacation?" B: "Maybe Canada, maybe Mexico. I can't make up my mind."* (A: 휴가 어디로 가? B: 캐나다나 멕시코 생각 중인데, 아직 결정을 못 하겠어.)
+  - **once in a while**: 아주 가끔, 이따금씩.
+    - *A: "Would you like coffee or tea?" B: "Coffee, please. I drink tea once in a while, but I generally drink coffee."* (A: 커피 드릴까요, 차 드릴까요? B: 커피 주세요. 가끔 차를 마시긴 하지만 평소에는 주로 커피를 마셔요.)
+  - **over one's head**: 이해하기에 너무 심오하거나 난해한.
+    - *"This explanation of cgi scripting is over my head. Can you explain it in a less technical way?"* (이 CGI 스크립팅 explanation은 내 머리로는 도저히 이해가 안 돼. 조금 덜 전문적인 언어로 설명해 줄 수 있어?)
+  - **pay the piper**: 자기가 저지른 일에 대가를 치르다, 결자해지하다.
+    - *"I stayed up too late tonight. Tomorrow I'll have to pay the piper."* (오늘 밤 너무 늦게까지 안 잤네. 내일 피곤해서 대가를 아주 톡톡히 치르겠지.)
+  - **plastic**: 신용카드.
+    - *"Oh, no! I forgot to get any cash! I hope this restaurant accepts plastic!"* (오, 안 돼! 현금 뽑는 걸 깜빡했네! 이 식당 신용카드 결제 되면 좋겠는데!)
+  - **pooped**: 기진맥진한, 완전히 탈진해 떨어진.
+    - *"I went to bed really early last night. I was pooped!"* (나 어젯밤에 진짜 일찍 잤어. 완전히 지쳐 쓰러졌었거든!)
+  - **pop quiz**: 불시 쪽지시험.
+    - *"You shouldn't have missed class yesterday. We had a pop quiz."* (너 어제 수업 빠지면 안 되는 거였어. 불시 쪽지시험 봤단 말이야.)
+  - **pretty**: 꽤, 상당히.
+    - *"That car's pretty expensive. Are you sure you can afford it?"* (저 차 꽤 비싼데, 너 정말 감당할 수 있겠어?)
+  - **pull an all-nighter**: 밤샘 작업을 하다, 밤을 꼬박 새우다.
+    - *A: "You look really tired." B: "I am. I pulled an all-nighter to get ready for the meeting this morning."* (A: 너 진짜 피곤해 보인다. B: 어제 아침 회의 준비하느라 밤 꼬박 새웠거든.)
+  - **pull someone's leg**: 터무니없는 말로 상대방을 골려주다, 장난치다.
+  - **rain or shine**: 비가 오나 눈이 오나, 날씨에 관계없이 무조건 시행되는.
+    - *"We're leaving tomorrow, rain or shine."* (비가 오든 날이 맑든 간에 우리는 무조건 내일 출발해.)
+  - **rain cats and dogs**: 비가 억수같이 내리다.
+    - *"You can't leave just now! It's raining cats and dogs and you don't have an umbrella or raincoat!"* (지금은 못 나가! 비가 억수같이 쏟아지는데 우산도 우비도 없잖아!)
+  - **read someone's mind**: 독심술을 쓰다, 상대방 속마음을 꿰뚫어 보다.
+    - *A: "I'll bet you're thinking of what you're going to have for dinner." B: "Hey, did you read my mind?"* (A: 너 지금 저녁 뭐 먹을지 생각하고 있지? B: 헉, 내 마음을 읽은 거야?)
+  - **rub someone the wrong way**: 불쾌감을 주다, 성질을 돋우다, 비위를 건드리다.
+    - *"All my little brother says is 'Why?' Usually I'm patient with him, but sometimes all his questions rub me the wrong way."* (내 동생은 입만 열면 '왜?'라고 물어봐. 평소에는 잘 참아주는데 가끔씩 질문 공세를 하면 정말 비위가 상한다니까.)
+  - **run-down (1)**: 기력이 쇠한, 병약해 보이는.
+    - *"Are you eating regularly and getting enough sleep? You look run-down."* (너 밥은 제때 챙겨 먹고 잠은 잘 자는 거야? 안색이 퀭해 보여.)
+  - **run-down (2)**: 낡아서 쓰러져 가는, 보수가 필요한 건물.
+    - *"This must be a poor neighborhood. All the buildings look really run-down."* (여기는 가난한 동네임이 틀림없어. 모든 건물들이 낡아서 당장 허물어질 것 같잖아.)
+  - **__-savvy**: ~에 빠삭한, 잘 아는.
+    - *"If you're having problems with your hard disk, talk to Jim. He's very computer-savvy."* (하드 디스크에 문제 생겼으면 짐한테 물어봐. 걔 컴퓨터는 완전히 기막히게 꿰뚫고 있거든.)
+  - **schmooze**: 가볍고 편안하게 사담을 나누다.
+    - *"No, we weren't talking about anything important. We were just schmoozing."* (아니, 우리 딱히 중요한 이야기한 거 아냐. 그냥 노가리 까고 있었어.)
+  - **shoot the breeze**: 잡담하다, 한담을 나누다.
+  - **sleep on it**: 결정을 미루고 하룻밤 고민해 보다.
+    - *"The job that you're offering me sounds really good, but I'd like to sleep on it before giving you my final decision."* (제안해주신 일자리가 아주 좋아 보이지만, 하룻밤 더 신중히 생각하고 최종 답변을 드릴게요.)
+  - **a snap**: 아주 누워서 떡 먹기인 일.
+    - *A: "Is your job difficult?" B: "No, actually it's a snap. In fact, it's so easy that it's a little bit boring."* (A: 일 많이 힘들어? B: 아냐, 사실 식은 죽 먹기야. 너무 쉬워서 조금 지루할 지경이라니까.)
+  - **so-so**: 그저 그런, 특별할 것 없는.
+    - *A: "How're you doing?" B: "So-so. I've been better, but I've also been worse."* (A: 요즘 어떻게 지내? B: 그저 그래. 더 좋을 때도 있었고, 더 나쁠 때도 있었지 뭐.)
+  - **state of the art**: 최첨단의 기술을 도입한.
+    - *"The company is very proud of the equipment in its computer room. It's state of the art."* (회사는 컴퓨터실의 장비에 큰 자부심을 가지고 있습니다. 아주 최첨단이거든요.)
+  - **Step on it!**: 서둘러라!, 엑셀 밟아라!
+    - *"Step on it! The taxi will be here at any time and you're not even dressed!"* (서둘러! 택시가 언제 올지 모르는데 넌 아직 옷도 다 안 입었잖아!)
+  - **take it easy**: 무리하지 않고 쉬다, 널널하게 지내다.
+    - *"I don't have any special vacation plans. I'm just going to take it easy."* (특별한 휴가 계획은 없어. 그냥 집에서 푹 쉬려고.)
+  - **tell a white lie**: 악의 없는 선의의 거짓말을 하다.
+    - *"The cake that Susan made tasted terrible, but I knew that she made it because she wanted to please me, so when she asked if I liked it, I told a white lie and said it was good."* (수잔이 만든 케이크는 정말 끔찍한 맛이었지만, 날 위해 정성껏 만들었다는 걸 아니까 맛있냐고 물어봤을 때 그냥 선의의 거짓말로 맛있다고 대답해 줬어.)
+  - **toss something**: 쓸모없는 것을 쓰레기통에 내버리다.
+    - *"These shoes are worn out. I guess I'll have to toss them."* (이 신발 완전히 다 닳아서 구멍 났어. 이제 갖다 버려야겠네.)
+  - **tough**: 거친, 아주 난해하고 힘든.
+    - *"Question number three is a tough one. Do you know the answer?"* (3번 문제 이거 진짜 장난 아닌 난제인데. 너 정답 알아?)
+  - **There, there.**: 우는 사람이나 어린이를 달래는 말 (뚝 그쳐, 괜찮아).
+    - *"There, there. Everything's going to be OK."* (어이구 착하지, 울지 마. 다 괜찮아질 거야.)
+  - **tight-fisted**: 구두쇠의, 돈 한 푼 허투루 안 쓰는.
+  - **Was my face red!**: 완전히 쪽팔려서 쥐구멍에라도 숨고 싶었다!
+    - *"When I got to the meeting I noticed that I was wearing one black sock and one brown one. Was my face red!"* (회의장에 도착해서야 내가 양말을 한쪽은 검은색, 한쪽은 갈색으로 짝짝이로 신고 온 걸 알았어. 진짜 얼굴이 터질 정도로 창피해 죽는 줄 알았다니까!)
+  - **wear out one's welcome**: 손님으로서 너무 질척거리며 오래 머물러 주인을 불편하게 하다.
+    - *A: "Can't you stay two or three more days?" B: "No. I don't want to wear out my welcome."* (A: 이틀만 더 묵었다 가지 그래? B: 안 돼. 너무 오랫동안 신세 지면 민폐잖아.)
+  - **wet behind the ears**: 아직 머리에 피도 안 마른, 완전히 경험 없는 애송이인.
+    - *"Don't include Fred as part of the bargaining team. He's just started working here and is still too wet behind the ears."* (프레드를 협상단에 넣지 마. 걔 들어온 지 며칠 안 된 머리에 피도 안 마른 신참이잖아.)
+  - **What for?**: 도대체 왜?, 무엇을 위해서?
+    - *A: "Come here for a minute. I need you." B: "What for?"* (A: 일로 와봐. 도울 일이 있어. B: 무슨 일인데?)
+  - **Zilch**: 땡전 한 푼 없음, 제로, 무(無).
+    - *A: "How much money do you have?" B: "Zilch. I'm broke until payday."* (A: 너 돈 얼마 있어? B: 땡전 한 푼 없어. 월급날 전까지 완전 거지야.)
+  - **Zip your lip!**: 입에 지퍼를 채우고 절대 말하지 마라!
+    - *"What I told you is really important, so zip your lip!"* (내가 방금 한 말 진짜 극비 사항이니까 절대 함구해!)
+- **주요 인용**: > "Quit beating around the bush! If you don't want to go with me, just tell me!"
+
+### ### 2. 구동사 동작 표현군 (Dennis Oliver's Phrasal Verbs)
+- **핵심 논지**: 동사와 전치사의 특수한 결합(Separable/Inseparable 등)을 통해 다의적이고 관용적인 거동 사태를 묘사한다.
+- **근거 및 데이터**:
+  - **act up** (자동사): 버릇없이 행동하다(사람); 고장 나다, 제대로 안 돌아가다(기계).
+    - *"The babysitter had a difficult time. The children acted up all evening."* (베이비시터가 아주 애를 먹었어. 애들이 밤새 말썽 피웠거든.)
+    - *"I guess I'd better take my car to the garage. It's been acting up lately."* (아무래도 정비소에 차를 가져가 봐야겠어. 요즘 차가 영 이상하더라고.)
+  - **act like** (전치사 결합형): ~인 것처럼 꼴사납게 굴다.
+    - *"What's wrong with Bob? He's acting like an idiot."* (밥 왜 저래? 완전히 머저리같이 굴고 있어.)
+  - **add up** (자동사, 주로 부정문): 논리적으로 앞뒤가 딱 들어맞다.
+    - *"His theory seems, at first, to be plausible, but the facts in his research don't add up."* (그의 이론은 언뜻 보면 그럴싸해 보이지만, 정작 연구 수치들이 전혀 귀결이 안 돼.)
+  - **add up** (타동사, 분리형): 총계를 계산해 내다.
+    - *"What's the total of those bills? Could you add them up and see?"* (이 영수증 총액이 얼마지? 다 합산해서 봐 줄래?)
+  - **add up to** (전치사 결합형): 합계가 ~에 이르다.
+    - *"The bills add up to $734.96. That's more than I expected!"* (청구서 합산이 734.96달러에 달했어. 생각했던 것보다 훨씬 많이 나왔네!)
+  - **ask out** (분리형): 데이트 신청을 하다.
+    - *"Nancy has a new boyfriend. Joe asked her out last night."* (낸시한테 새 남친이 생겼어. 조가 어젯밤에 데이트 신청해서 사귀기로 했대.)
+  - **back down** (자동사): 내뱉은 위협이나 고집을 굽히고 철회하다.
+    - *"Tom was going to call the police... but he backed down when I said I'd pay for the damages."* (톰은 경찰을 부르려 하다가 내가 차 수리비를 전액 대겠다고 하니까 꼬리를 내리고 물러섰다.)
+  - **back off** (자동사): 뒤로 물러나 위협이나 행동을 멈추다.
+    - *"Tom was ready to call the police... but he backed off."* (톰은 경찰에 전화하려 하다가 결국 뒤로 물러섰다.)
+  - **back up** (자동사): 차를 후진시키다, 뒤로 미루다, 백업하다.
+    - *"You missed the lines in the parking space. You'll have to back up and try again."* (주차선을 빗겨 대셨네요. 뒤로 후진했다가 다시 대셔야 해요.)
+  - **beg off** (자동사): 양해를 구하고 거절하다.
+    - *"At first Lily said she would be at the party. Later she begged off."* (릴리는 처음에 파티에 오겠다고 했다가 나중에 사정이 있다며 사양했다.)
+  - **blow up (1)** (분리형): 풍선 등에 바람을 가득 불어넣다.
+    - *"We need lots of balloons for the party. Will you blow them up?"* (파티에 풍선이 많이 필요해. 네가 좀 불어줄래?)
+  - **blow up (2)** (분리형): 폭발하다, 다이너마이트 등으로 완전히 폭파해 버리다.
+    - *"That old building really came down quickly! That's because the construction company used dynamite to blow it up."* (그 낡은 건물 진짜 순식간에 무너지던데! 철거 업체에서 다이너마이트로 한 방에 날려버렸기 때문이래.)
+  - **blow up (3)** (자동사): 갑자기 뚜껑이 열려 화를 불같이 내다.
+    - *"When I told Jerry that I'd had an accident with his car, he blew up."* (제리한테 지 차 사고 냈다고 털어놓자마자 불같이 화를 내더라고.)
+  - **bone up on** (일체형): 단기간에 벼락치기로 공부하거나 철저히 복습하다.
+    - *"If you're going to travel to Peru, you'd better bone up on your Spanish."* (페루로 여행 가려면 스페인어 속성으로 복습 단단히 해 가야 할 거야.)
+  - **break down (1)** (분리형): 요소를 세부 파트로 쪼개고 분류하다.
+    - *"We spent a lot of money at the supermarket. When we broke the total cost down, we spent more on cleaning supplies than food."* (우리는 마트에서 거금을 썼다. 총비용을 세부 항목별로 분석해 보니, 식자재보다 청소 세제를 사는 데 돈을 훨씬 더 썼던 것이었다.)
+  - **break down (2)** (자동사): 기계가 고장 나거나 작동을 멈추다.
+    - *"Sharon will be late for work today. Her car broke down on the freeway."* (샤론은 오늘 지각할 거야. 고속도로에서 지 차가 고장 났대.)
+  - **break in / break into** (전치사 결합형): 잠긴 자물쇠 등을 강제로 깨고 불법 침입하다.
+  - **bring off** (분리형): 불가능해 보이거나 지극히 난해한 일을 끝내 성사해 내다.
+    - *"No one thought Chuck could get an A in that course, but he brought it off."* (아무도 척이 그 수업에서 A를 받을 수 있으리라 생각 안 했지만, 걔는 기어코 해내고야 말았다.)
+  - **bring up (1)** (분리형): 묻혀 있던 화두를 대화 중에 끄집어내다.
+    - *"We planned to discuss overtime pay in the meeting. Why didn't someone bring that topic up?"* (우리는 오늘 회의에서 초과 근무 수당 건을 이야기하려 했다. 왜 아무도 그 화두를 끄집어내지 않은 거야?)
+  - **bring up (2)** (분리형): 고아나 자식을 책임지고 양육하다.
+    - *"Lucy's parents died when she was a baby. Her grandparents brought her up."* (루시는 갓난아기일 때 부모님이 돌아가셔서 조부모의 품에서 자랐다.)
+  - **brush up on**: 단시간에 집중하여 복습하다.
+    - *"If you're going to travel to Peru, you'd better brush up on your Spanish."* (페루 여행 전 스페인어를 얼른 정독 복습하고 가렴.)
+  - **burn down** (자동사, 건물 등 전용): 화마로 완전히 전소되다.
+    - *"Lightning struck Mr. Kennedy's barn last night. It burned down before the fire fighters arrived."* (어젯밤 케네디 씨네 헛간에 번개 쳤다. 소방대원들이 오기도 전에 완전히 재가 되어 주저앉았다.)
+  - **burn up (1)** (자동사, 납작하거나 세우지 않는 물건 전용): 완전히 전소해 재가 되다.
+    - *"All of Mr. Kennedy's hay burned up when his barn burned down."* (케네디 씨네 헛간이 전소할 때 보관되어 있던 건초 더미들도 깡그리 타 버렸다.)
+  - **burn up (2)** (분리형): 타인을 머리끝까지 극도로 빡치게 만들다.
+    - *"Did you hear how rudely Fred talked to me? That really burned me up!"* (프레드가 나한테 얼마나 싸가지 없게 지껄였는지 들었어? 진짜 뚜껑 열리게 만들더라고!)
+  - **butt in** (자동사): 남의 대화나 줄에 비매너로 끼어들거나 참견하다.
+    - *"Hey, you! Don't butt in! Wait for your turn!"* (야, 너! 새치기하거나 끼어들지 마! 순서를 기다려!)
+  - **butter up** (분리형): 무언가 득을 볼 심산으로 지나치게 간신배처럼 아첨을 떨다.
+    - *"I guess Marty really wants to be promoted. He's been buttering his boss up all week."* (마티가 진짜 승진하고 싶나 봐. 일주일 내내 상사한테 꿀을 바르며 아양을 떨고 있어.)
+  - **call off** (분리형): 예정된 약속이나 회의, 수업을 공식 취소하다.
+    - *"We don't have school today. The mayor called classes off because of the snow."* (오늘 학교 안 가. 시장이 폭설 때문에 임시 휴교령을 내렸거든.)
+  - **goof off**: 일을 대충 농땡이 피우거나 게으름을 부리다.
+    - *"Stop goofing off and help me clean the house!"* (그만 농땡이 피우고 집 청소 좀 도와라!)
+  - **grow up**: 자라다, 철이 들다.
+    - *"Lee really irritates me sometimes. He's really silly and childish. I wish he would grow up."* (리는 가끔 사람을 정말 짜증 나게 해. 너무 유치하고 애 같아. 제발 철 좀 들었으면 좋겠어.)
+  - **hand in**: 과제나 서류를 제출하다.
+    - *"You know that you have to hand it in at 8:30 tomorrow morning!"* (내일 아침 8시 반까지 이거 무조건 제출해야 하는 거 알지!)
+  - **iron out**: 서로 타협하고 의견 대립을 철저히 조율해 해결하다.
+    - *"Yes, I know we disagree on lots of things, Susan, but we can iron them out."* (그래, 수잔, 우리가 많은 부분에서 대립하고 있다는 건 알지만 서로 조율해 나갈 수 있어.)
+  - **jack up**: (가격을) 후려쳐 올리다, 차를 잭으로 들어 올리다.
+    - *"The car dealer bought my old Ford for $750 and jacked the price up to $1,500 when they sold it."* (그 딜러는 내 낡은 포드를 단돈 750달러에 사 가더니 되팔 때는 가격을 1,500달러로 후려쳐 올려버렸어.)
+  - **jump all over**: 상대방을 혹독하게 털어버리다, 거세게 꾸짖다.
+    - *"Arthur is really upset. His boss jumped all over him because he's been late for work three times this week."* (아서는 지금 멘탈이 나갔어. 이번 주에 세 번이나 지각했다고 상사한테 완전히 탈탈 털렸거든.)
+- **주요 인용**: > "We spent a lot of money at the supermarket. When we broke the total cost down, we spent more on cleaning supplies than food."
+
+### ### 3. 미 원어민 다빈도 속어군 (American Slangs)
+- **핵심 논지**: 구어 발화에서 정식 어휘를 제치고 습관적으로 치환되는 독특하고 다채로운 속어 단어군을 완벽 보존 추출한다.
+- **근거 및 데이터**:
+  - **amigo**: 친구 (스페인어 유래).
+    - *"I met many amigos at Dave's ESL Cafe."* (데이브의 ESL 카페에서 정말 많은 아미고들을 만났어.)
+  - **ammunition**: 화장실 휴지 (직역: 탄약; 휴지가 떨어진 긴박한 상태를 비유).
+    - *"Help! We're completely out of ammunition!"* (살려줘! 우리 집에 '탄약'이 다 떨어졌어!)
+  - **antifreeze**: 술, 알코올 (직역: 부동액; 추운 겨울날 얼지 않게 녹이는 것에 비유).
+    - *"I'm going to need a lot of antifreeze tonight!"* (나 오늘 밤 엄청난 부동액이 필요할 예정이야!)
+  - **armpit**: 지저분하고 끔찍한 기피 장소 (직역: 겨드랑이 밑).
+    - *"This cheap motel is an absolute armpit!"* (이 싸구려 모텔은 진짜 완전 꼬질꼬질한 시궁창이야!)
+  - **ass [offensive]**: 엉덩이, backside(1); 혹은 꼴사나운 한심한 쓰레기 인간(2).
+    - *"I fell on my ass on the ski slopes."* (스키장 슬로프에서 엉덩방아를 찧었어.)
+    - *"I cannot be friends when you act like an ass."* (네가 쓰레기같이 행동하면 난 너랑 친구 안 해.)
+  - **awesome**: 대단한, 끝내주는, 인상 깊은.
+    - *"Dave's ESL Cafe is truly awesome!"* (데이브의 ESL 카페 진짜 개쩐다!)
+  - **baby boomer**: 2차 세계 대전 종전부터 1960년대 초반 사이에 태어난 세대.
+    - *"Dave Sperling was born in 1961, so he's considered a baby boomer."* (데이브 스펄링은 1961년생이라 베이비부머 세대에 속해.)
+  - **booze**: 술, 알코올 음료.
+    - *"The ESL party was fun, even though there wasn't any booze."* (비록 술은 없었지만 파티는 참 재미있었어.)
+  - **boss**: 끝내주게 훌륭한, 최고인 (형용사형 사용).
+    - *"Dave's ESL Cafe is totally boss!"* (데이브의 ESL 카페 진짜 완전 짱이다!)
+  - **bread**: 돈.
+    - *"Can I borrow some bread?"* (나 돈 좀 빌릴 수 있을까?)
+  - **brew**: 커피(1) 혹은 맥주(2).
+    - *"Every morning Dave needs a fresh cup of brew."* (데이브는 매일 아침 갓 내린 신선한 커피 한 잔이 필수야.)
+    - *"Do you want another brew, dude?"* (친구, 맥주 한 병 더 할래?)
+  - **brewski**: 맥주.
+    - *"I love drinking brewskies!"* (나 시원하게 맥주 들이켜는 거 환장하잖아!)
+  - **B.S.**: 헛소리, 구라, 거짓말 (Bullshit의 약어 표기).
+    - *"I'm tired of listening to your B.S."* (네가 구라 치는 거 듣는 것도 이제 지긋지긋해.)
+  - **bull**: 헛소리, 거짓말.
+    - *"That's a bunch of bull!"* (그거 죄다 멍개소리야!)
+  - **bullshit [offensive]**: 거짓말, 가식, 기만 (동사 및 명사).
+    - *"I don't like people that bullshit me."* (나한테 개구라 치고 기만하는 인간들 제일 싫어.)
+  - **buns [possibly offensive]**: 엉덩이, rear end.
+    - *"Don stare at my buns!"* (내 엉덩이 좀 그만 쳐다봐!)
+  - **bushed**: 녹초가 된.
+    - *"I'm completely bushed."* (나 완전히 파김치야.)
+  - **butt**: 방둥이, 엉덩이.
+    - *"Stop sitting on your butt and help me wash the dishes!"* (소파에 엉덩이 깔고 빈둥대지 말고 그릇 씻는 것 좀 도와!)
+  - **catch some rays**: 햇살을 쬐다, 일광욕을 즐기다.
+    - *"Let's go to the beach and catch some rays."* (해변에 일광욕하러 가자.)
+  - **cheesy**: 싸구려 같은, 한물간, 구린.
+    - *"Why are you wearing such cheesy clothes?"* (너 왜 그렇게 싸구려 구린 옷을 입고 다니냐?)
+  - **chicken**: 겁쟁이.
+    - *"Don't be such a chicken!"* (그렇게 비겁하게 굴지 마, 쫄보야!)
+  - **cool**: 훌륭한, 멋진, 기가 막힌.
+    - *"Dave's ESL Cafe is totally cool!"* (데이브의 ESL 카페 진짜 완전 쿨해!)
+  - **cooler, the**: 감옥, 유치장.
+    - *"If you drink and drive, you'll end up spending time in the cooler."* (음주운전 하면 결국 철창신세를 지게 될 거야.)
+  - **couch potato**: 게으름뱅이, TV 중독 소파 죽돌이.
+    - *"Why did I have to marry such a couch potato?"* (난 왜 저런 소파 죽돌이랑 결혼해야 했을까?)
+  - **crap [offensive]**: 쓰레기 같은 것(1), 똥/배설물(2), 허언/거짓말(3).
+    - *"My furniture is a bunch of cheap crap."* (내 가구들은 죄다 싸구려 쓰레기 더미들이야.)
+    - *"Yuck! I stepped on dog crap!"* (으악! 개똥 밟았어!)
+    - *"I've had enough of your crap."* (네 거짓말 헛소리도 들을 만큼 들었어.)
+  - **deck**: 주먹으로 한 대 후려치다, 눕히다.
+    - *"His wife almost decked him when he returned home with lipstick on his shirt."* (그가 셔츠에 립스틱을 묻혀서 귀가했을 때 그의 부인은 그의 면상을 거의 주먹으로 날려버릴 뻔했다.)
+  - **dicey**: 리스크가 큰, 불확실한.
+    - *"Gambling is a dicey occupation."* (도박은 리스크가 참 큰 직업이지.)
+  - **dinero**: 돈 (스페인어에서 차용).
+    - *"I wish I had more dinero!"* (내 수중에 돈이 더 있으면 오죽 좋을까!)
+  - **el cheapo**: 저질의 싸구려 물건.
+    - *"Since I don't make much money, I always purchase the el cheapo brand."* (돈을 많이 못 벌어서 난 항상 제일 꼬질꼬질한 싸구려 브랜드만 구매해.)
+  - **evil**: 끝내주게 죽여주는, 엄청나게 멋진.
+    - *"Your car is really evil!"* (네 차 진짜 간지 폭발이다!)
+  - **eyeball**: 눈을 부라리며 노려보다, 빤히 쳐다보다 (동사).
+    - *"Dave eyeballed his daughter's new boyfriend."* (데이브는 딸내미의 새 남자친구를 매섭게 째려봤다.)
+  - **eyepopper**: 눈이 튀어나올 정도로 기절초풍할 미인이나 놀라운 사물.
+    - *"Wow, that girl is truly an eyepopper!"* (와, 저 여자 진짜 완전 기절초풍 미인이다!)
+  - **fab**: 끝내주는 (fabulous의 약어).
+  - **face-off**: 피할 수 없는 정면대결, 대치.
+    - *"I think it's time we had a face-off."* (우리 이제 담판을 지을 정면대결의 때가 온 것 같아.)
+  - **fart [offensive]**: 방귀를 뀌다.
+    - *"It's embarrassing to fart on the first date."* (첫 데이트에서 뿡 방귀 뀌면 진짜 이불킥 각이지.)
+  - **fender-bender**: 경미한 자동차 접촉 사고.
+  - **flaky**: 예측 불가하고 툭하면 파토내는 신뢰성 제로의 인간.
+    - *"I waited four hours for my flaky friend to show up."* (그 툭하면 잠수 타는 얌체 친구를 기다리느라 4시간이나 허비했어.)
+  - **flashback**: 갑작스럽게 과거 기억이 주마등처럼 뇌리를 스치는 상태.
+    - *"In Little Tokyo I had a flashback to my days living in Japan."* (리틀 도쿄에 가니 일본에 살던 시절의 추억이 주마등처럼 스쳐 지나갔어.)
+  - **flick**: 영화.
+    - *"Let's go out tonight and watch a flick."* (오늘 밤 극장에 영화 한 편 때리러 가자.)
+  - **fox**: 성적 매력이 넘치고 알록달록 아주 핫한 사람.
+    - *"Is it true that Dave is a fox?"* (데이브가 그렇게 섹시하고 핫하다는 게 진실이야?)
+  - **freebie**: 공짜로 얻는 무상의 경품이나 사은품.
+    - *"My trip to New York was a freebie."* (내 뉴욕 여행은 공짜 사은 경품이었어.)
+  - **French kiss [possibly offensive]**: 혀를 사용하여 프렌치 키스를 나누다.
+    - *"Dave's dog is always trying to French kiss him!"* (데이브네 개는 틈만 나면 걔랑 딥키스를 갈구하려 해!)
+  - **geek**: 사교성은 떨어지지만 엄청 똑똑하고 공부나 일만 파는 괴짜 범생이.
+  - **get it**: 사리분별을 똑똑히 해내다, 이해하다.
+    - *"Sorry, but I just don't get it."* (미안하지만 난 도무지 무슨 소린지 하나도 이해를 못 하겠어.)
+  - **get naked [possibly offensive]**: 격식을 완전히 깨고 흐트러져 신나게 한판 놀아제끼다.
+    - *"Let's get naked tonight!"* (오늘 밤 격식 다 집어치우고 완전히 망가져 놀자!)
+  - **glitch**: 결함, 일시적인 오류.
+    - *"There must be a glitch in this softwware."* (이 프로그램에 분명히 치명적인 오류 결함이 있는 것 같아; 원문 'softwware' 타이포 보존)
+  - **go bananas**: 머리가 돌다, 멘붕 오다, 미쳐 날뛰다.
+    - *"This project is causing me to go bananas!"* (이 프로젝트 때문에 머리가 돌아서 완전히 미칠 지경이야!)
+  - **gomer**: 머리가 나쁜 멍청이 바보.
+    - *"Stop acting like a gomer!"* (그렇게 바보 머저리같이 굴지 좀 마!)
+- **주요 인용**: > "Dave's dog is always trying to French kiss him!"
+
+## 💡 주요 용어 (Key Terminology)
+- **Idioms (관용 어휘)**: 문자 그대로(Literal) 해석했을 때는 도무지 뜻을 알 수 없으나, 원어민 사회의 고유 문화적 약속에 의거해 관용적으로 치환되어 통용되는 특수 의미론적 결합 구조.
+- **Phrasal Verbs (구동사 결합 성향)**: 동사 단독의 뜻을 뛰어넘어, 부사나 전치사(Up, Out, Off, Back, Down, In 등)와의 입지 결합 강도에 따라 완전 분리형(Separable)이나 밀착 고착형(Inseparable)의 변수를 띄는 구어 중심의 표현.
+- **Slangs (속어 표기 일탈)**: 사전식 정석 문법에서 배척되거나 윤리적으로 기피되는 비하적 표현, 배설물, 성적 뉘앙스, 혹은 극단적 친근함의 비공식 대용 발화 단어.
+
+## 🔗 연결 키워드 (Canonical Concepts)
+- **연결 키워드**: 구동사사전, 일상영어회화, 영문예문, 한영번역, 필수어휘
+---
+
+---
+
+*source: NotebookLM / Step-by-Step English Speaking Training Patterns*

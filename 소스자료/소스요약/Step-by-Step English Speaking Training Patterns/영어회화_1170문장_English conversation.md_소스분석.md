@@ -1,0 +1,275 @@
+# 영어회화_1170문장_English conversation.md
+
+> [!NOTE]
+> **소스 출처**: Step-by-Step English Speaking Training Patterns
+
+---
+
+## 🏷 NotebookLM 자동 태그 (한국어 번역)
+
+**키워드**: 일상 대화, 여행 및 관광, 건강 및 의학, 쇼핑 및 서비스, 교통 및 내비게이션
+
+**한줄 요약**
+> 이 종합 참고서는 학습자들이 다양한 일상 사회 및 실용 시나리오를 헤쳐나갈 수 있도록 고안된 **기초 영어 회화 패턴**을 엄선하여 모아놓았습니다. 이 텍스트는 천 개가 넘는 문장을 번호 목록으로 구성하여 영어 구문과 한국어 등가물을 짝지어 제시하고, 학생들이 어조와 맥락의 뉘앙스를 파악하는 데 도움이 되는 **대체 표현**을 제공합니다. 주요 주제는 여행, 은행 업무, 식사를 위한 **필수 생존 영어**와 더불어 **감정 표현**, 사회적 에티켓, 사무실 역학을 위한 보다 관용적인 언어를 포함합니다. 궁극적으로 이 자료는 **실용적인 언어 도구 키트** 역할을 하며, 격식 있는 문법을 효과적인 문화 간 의사소통을 위한 **자연스러운 상황별 대화**로 전환합니다.
+
+---
+
+## 📋 상세 분석 (소스_프롬프트.txt 기반)
+
+---
+title: "영어회화_1170문장_English conversation.md"
+aliases: []
+tags: [source, mcp-extracted]
+type: document
+---
+
+# 📄 영어회화_1170문장_English conversation.md (Part: 전체 발췌본)
+
+## 📌 요약 (Executive Summary)
+- 본 문서는 일상생활에서 바로 활용할 수 있는 상황별 영어회화 구문 1170가지를 한글 뜻 및 풍부한 유사 표현과 함께 체계적으로 집대성한 실전 말하기 훈련용 데이터베이스 교재이다.
+- 프로젝트 시스템상 본 "영어회화_1170문장_English conversation.md" 소스는 **1~49번(Lie on your stomach부터 That's a great idea!까지)**, **174~212번(I'm not standing in your way부터 He's away on business까지)**, **440~451번(I beg your pardon부터 The sooner the better까지)**, **568~671번(This is a gift for a friend부터 계약금은 얼마입니까까지)**, **743~750번(맛이냐 건강이냐부터 생각하는 중인 것이었어까지)**, **832~934번(The price is not reasonable부터 May I speak to Mr. Park?까지)**, **1044~1128번(Go straight ahead부터 Who do you think he is?까지)의 핵심 기입구 영역**이 발췌 보존되어 있다.
+- 무손실 전사 원칙에 따라, 원형 고유의 철자/띄어쓰기 오탈자("지체부자유자", "Havard", "식사후에 이 약 먹어", "부지런하다", "내것이다", "벼랑치기로", "is thih" 등)와 문법적 및 대칭적 기형 형태를 누락이나 보정 없이 100% 온전하게 기록한다.
+
+---
+
+## 🧱 상세 분해 (Detailed Breakdown)
+
+### ### 1. 1~49번 신체 동태, 안부 인사 및 위기 해소 표현 (Nos. 1-49)
+- **핵심 논지**: 환자의 신체 물리 상태를 조절하기 위한 의료 지시문, 공공장소에서의 배려 행동(지체부자유자 양보), 자연 경관 감탄, 그리고 영어 표현력 미흡으로 인한 내적 답답함(frustrated)을 토로하며 대처하는 상황들을 다룬다.
+- **근거 및 데이터**:
+  - `1. Lie on your stomach.` _엎드려 누우세요. 비슷한 표현 => Lie on your front. Lie facedown.
+  - `2. Lie on your back.` _드러누우세요. 비슷한 표현 => Lie back.
+  - `3. Lie on your side.` _옆으로 누우세요.
+  - `4. Could you take off your shirt?` _셔츠를 벗으세요.
+  - `5. Like this?` _이렇게요?
+  - `6. He made room for a physically handicapped man.` _그는 지체부자유자에게 자리를 양보했다.
+  - `7. Why don't you make room for him?` _자리를 양보하시는 게 어때요? 비슷한 표현 => Why don't you give him your seat?
+  - `8. I guess you're right.` _네 말이 맞아.
+  - `9. Don't you think he's tired?` _저분이 피곤하다고 생각되지 않니?
+  - `10. There's an old man getting on the subway.` _연세 많은 노인께서 전철에 오르고 있어.
+  - `11. You did the right thing.` _옳은 일 했어.
+  - `12. You're walking too fast. Please come along with me.` _너무 빨리 걷는군요. 함께 가요.
+  - `13. Please come along with me. I need some help with my bag.` _함께 가주세요. 제 가방 좀 들어주세요.
+  - `14. Please accompany me. / Catch up!` _함께 가요. / 앞서 가는 사람이 뒤쳐진 사람에게 "어서 와" "빨리 따라붙어"
+  - `16. Where are you going?` _어디 가십니까?
+  - `16. I need some help carrying this package.` _이 소포를 가져가는데 도움이 좀 필요합니다.
+  - `17. The view took my breath away.` _경치가 장관이었습니다. 비슷한 표현 => The view was breathtaking.
+  - `18. How was your weekend?` _주말 어땠습니까?
+  - `19. It was great!` _좋았어요!
+  - `20. I went to Sorak Mountain yesterday.` _저는 어제 설악산에 갔어요.
+  - `21. Did you reach the top?` _정상까지 갔습니까?
+  - `22. Why don't you take me next time?` _다음에는 저를 좀 데려가 주세요.
+  - `23. Sure thing.` _그러죠.
+  - `24. It won't hurt to try.` _해봐서 해될 것 없어. / 밑져야 본전이야. 비슷한 표현 => There's nothing to lose. You have nothing to lose.
+  - `25. What are you afraid of? It won't hurt to try.` _뭘 걱정해? 해봐서 해될 것 없어.
+  - `26. Nothing ventured, nothing gained.` _호랑이굴에 들어가야 호랑이를 잡는다.
+  - `27. What is this dish called?` _이 음식 이름이 뭡니까?
+  - `28. I'm not touching it!` _손대지 않을래요!
+  - `29. See! What did I tell you?` _거 보세요! 제가 뭐랬어요?
+  - `30. Where's the fire?` _왜 그렇게 급해?
+  - `31. Hurry up!` _서둘러!
+  - `32. I'm late for a meeting.` _모임에 늦었어.
+  - `33. Money is no object.` _돈은 문제가 안 됩니다. 비슷한 표현 => No matter the cost.
+  - `34. Money is no object. I'll buy whatever you want.` _돈은 문제가 안돼. 원하는 건 뭐든지 사줄게.
+  - `35. Money is no object. Just name whatever you want to get.` _돈은 문제가 안돼. 갖고 싶은 거 말만 해.
+  - `36. What do you want to get for your birthday?` _너 생일에 뭐 갖고 싶니?
+  - `37. Don't worry!` _걱정하지마!
+  - `38. Get real!` _현실을 직시해! 비슷한 표현 => Wake up! That's unrealistic!
+  - `39. Are you going to apply to Havard with such low marks? Get real!` _그런 낮은 점수로 하버드에 지원하겠다고? 현실을 직시해! (※ 'Havard' 철자 오타 보존)
+  - `40. What are you doing?` _너 무엇하고 있니?
+  - `41. I'm buying a lottery ticket.` _복권 사고 있어.
+  - `42. I feel frustrated.` _영어실력이 모자라 자신이 하고 싶은 말을 제대로 표현하지 못해 "가슴이 답답하다."
+  - `43. I feel frustrated because I can't express myself well in English.` _영어로 의사전달을 잘 하지 못해 답답하다.
+  - `44. I feel frustrated because no one listens to me.` _아무도 내 얘기를 안 들어주니 답답하다.
+  - `45. How's business going?` _사업이 어떻게 되어갑니까?
+  - `46. Not good.` _좋지 않습니다.
+  - `47. I feel frustrated because I can't communicate well with my American clients.` _저의 미국인 고객들에게 의사전달을 잘하지 못해 답답합니다.
+  - `48. Maybe you should take some English lessons at a language school.` _어학원에서 영어수업을 좀 받으셔야겠군요.
+  - `49. That's a great idea!` _아주 좋은 생각입니다!
+- **주요 인용**: > "I feel frustrated because I can't express myself well in English. 영어로 의사전달을 잘 하지 못해 답답하다."
+
+### ### 2. 174~212번 행동 방침 양보, 결과 단정 및 위기 모험 표현 (Nos. 174-212)
+- **핵심 논지**: 상대방 행동의 묵인, 썰렁한 실속 없는 상황 지적, 퇴근 선언, 야구 경기 타수 수치 및 휴가 포기 등 모험 가득한 구문들을 다룬다.
+- **근거 및 데이터**:
+  - `174. I'm not standing in your way.` _상대방이 자신의 의도를 관철하려고 할 때 "당신 뜻을 말리지 않겠다." 비슷한 표현 => Who's stopping you? I don't care.
+  - `175. It was a total non-event.` _"소문난 잔치에 먹을 것 없다." 라는 말이 있듯 행사 등이 소문만 요란하고 실속없이 썰렁한 경우 "소문만 요란하더군." 비슷한 표현 => It was a failure. It failed to meet expectations.
+  - `178. I feel like a snack.` _간식이 먹고 싶어. 비슷한 표현 => I like eating between meals. I feel like eating something light.
+  - `180. It's quite obvious.` _어떤 결과가 확실할 경우 "불을 보듯 뻔해." 비슷한 표현 => It's very clear.
+  - `181. We must've just missed each other.` _서로 길이 엇갈린 모양이군요. 비슷한 표현 => It was unfortunate we couldn't meet.
+  - `182. Do you do deliveries?` _부피가 큰 물건을 살 경우 "배달해 줍니까?" 비슷한 표현 => Do you deliver? Can you deliver it? Can you take it my home?
+  - `184. Your wish is my command.` _말씀하시는 대로 다 해드리겠습니다. 비슷한 표현 => I'll do anything for you. I'll do whatever you want.
+  - `185. We came from behind to win.` _우리는 역전승 했습니다.
+  - `186. We snatched victory from the jaws of defeat.` _우리는 패배 직전에서 승리했다.
+  - `188. I'm leaving for the day.` _퇴근하겠습니다. 비슷한 표현 => I'm taking off now. I'm quitting for today. I'm going home now.
+  - `189. It's typical of you to do that.` _그렇게 하다니 너답다. 비슷한 표현 => How typical you are! That's just like you.
+  - `193. Act your age.` _철 좀 들어라. 비슷한 표현 => Stop being so immature! You should know better than to do that.
+  - `194. It's on the house.` _술집이나 식당같은 곳에서 손님에게 안주 등을 무료로 내놓는 경우 "무료입니다." 비슷한 표현 => There's no cost. It's free of charge.
+  - `195. It's a real eyesore.` _정말 꼴불견이야. 비슷한 표현 => My eyes are pained by it. It's certainly not very attractive to look at.
+  - `196. I threw up.` _속이 좋지 못해 음식물을 토해 내는 경우 "토했습니다."
+  - `197. I drank too much last night and threw up.` _어젯밤 너무 많이 마셔 토해버렸다.
+  - `199. We roughed it.` _우리는 불편한 생활을 했습니다.
+  - `202. He went three for four.` _그는 4타수 3안타를 쳤다.
+  - `204. There goes my vacation.` _휴가는 물 건너갔군. 비슷한 표현 => My vacation plans have gone up in smoke. My vacation plans are blown.
+  - `206. He's such a daredevil.` _그는 위험한 모험을 즐긴다.
+  - `207. Is there a landmark nearby?` _근처에 눈에 잘 띄는 거라도 있니? 비슷한 표현 => Is there a prominent building nearby?
+  - `210. Don't jump to conclusions.` _섣불리 판단하지 마세요. 비슷한 표현 => It's too early to be certain. Don't get ahead of yourself. Don't be rash.
+  - `212. He's away on business.` _그는 출장중입니다. 비슷한 표현 => He's on a business trip. He's left for a business trip.
+- **주요 인용**: > "We snatched victory from the jaws of defeat. 우리는 패배 직전에서 승리했다."
+
+### ### 3. 440~451번 되물음, 지체 대기 및 안내 정위 표현 (Nos. 440-451)
+- **핵심 논지**: 상대의 음성을 정중히 재확인하고, 대기실 대기 요청 및 안내자 매칭 상태를 기술한다.
+- **근거 및 데이터**:
+  - `440. I beg your pardon.` _한번더 말씀해 주십시오. (※ '한번더' 붙여쓰기 보존)
+  - `441. Please speak more slowly.` _좀 더 천천히 말씀해 주십시오.
+  - `442. Just a moment, please.` _잠시만 기다려 주십시오.
+  - `443. What's this?` _이것은 무엇입니까?
+  - `444. Please write it here.` _여기에 써 주십시오.
+  - `445. What does this mean?` _이것은 무엇을 의미합니까?
+  - `446. May I bother you a moment?` _잠시 방해해도 괜찮습니까?
+  - `447. Can I borrow your pen?` _펜을 빌릴 수 있습니까?
+  - `448. Come with me!` _저와 함께 합시다!
+  - `449. May I take a look at it?` _그것을 볼 수 있을까요?
+  - `450. Let me be your guide.` _제가 안내해 드리겠습니다.
+  - `451. The sooner the better.` _빠를수록 좋습니다.
+- **주요 인용**: > "Let me be your guide. 제가 안내해 드리겠습니다. The sooner the better. 빠를수록 좋습니다."
+
+### ### 4. 568~671번 입국, 면세 쇼핑 및 호텔 투숙 세탁과 계약 프로토콜 (Nos. 568-671)
+- **핵심 논지**: 세관 신고 여부, 공공 면세점 가액, 호텔 빈방 종류 수수료, 귀중품 관리 및 실크 등의 세제 세탈 처리와 연세 대조(Three years is not much 등)를 망라한다.
+- **근거 및 데이터**:
+  - `568. This is a gift for a friend.` _이것은 친구에게 줄 선물입니다.
+  - `570. It costs about 200 American dollars.` _그것은 미국 달러로 약 200불입니다.
+  - `571. I have nothing to declare.` _신고할 물건은 없습니다.
+  - `572. I have 1000 dollars in traveler's checks.` _여행자 수표로 1000달러를 갖고 있습니다.
+  - `575. Do I have to pay duty on the camera I bought here?` _여기서 구입하는 카메라의 세금을 지불해야 합니까?
+  - `579. My baggage is broken, and something is missing.` _제 짐이 부서졌고, 무엇인가 없어졌습니다.
+  - `582. It's fragile. Please be careful carrying it.` _그것은 깨지기 쉽습니다. 운반하는데 조심해 주십시오.
+  - `587. Do you have any vacancies?` _빈방 있습니까?
+  - `589. I'd like a single room.` _일인용 방을 원합니다.
+  - `592. We need one double room with an extra bed.` _우리는 여분의 침대가 하나 더 있는 더블룸을 원합니다.
+  - `593. How much is the service charge and tax?` _봉사료와 세금은 얼마입니까?
+  - `600. I have made a reservation. Here's my confirmation.` _나는 예약을 했습니다. 확인증 여기 있습니다.
+  - `603. A room facing the sea.` _바다를 마주보는 방.
+  - `622. Please be careful with it. It is pure silk.` _조심해 주십시오. 그것은 100% 실크입니다.
+  - `627. Can you remove this stain?` _이 얼룩을 제거해 줄 수 있습니까?
+  - `628. Can you press these trousers while I wait?` _기기다릴 동안 이 바지들을 다려 줄 수 있습니까? (※ 원고 고유의 오기 보존)
+  - `631. Would you please wake me at 7 o'clock?` _7시에 깨워 주실 수 있습니까?
+  - `636. The TV doesn't work.` _TV가 동작하지 않습니다. (※ '동작하지' 표기 보존)
+  - `640. Three years is not much.` _3년은 긴 세월이 아닙니다.
+  - `641. Ten dollars is not much.` _10달러는 큰 돈이 아닙니다.
+  - `642. Three runs is not much in baseball.` _야구에서 3점은 큰 것이 아닙니다.
+  - `643. Bill and I are of the same age.` _빌과 나는 동갑이다.
+  - `644. We leave home for school in a few minutes.` _우리는 잠시 후에 학교를 향해 집을 떠납니다.
+  - `645. We reach Seoul Station in half an hour.` _우리는 30분 후에 서울역에 도착합니다.
+  - `650. There must be a mistake. These are not mine.` _잘못되었음에 틀림없습니다. 이것들은 제 것이 아닙니다.
+  - `651. The stains have not been removed.` _얼룩이 제거되지 않았습니다.
+  - `654. May I have the bill?` _계산서를 주시겠습니까?
+  - `655. Do you accept a credit card?` _신용카드를 받습니까?
+  - `660. When do I have to vacate the room?` _언제 방을 비워야 합니까?
+  - `667. Where is the emergency exit?` _비상 출구는 어디에 있습니까?
+  - `670. I would prefer a furnished apartment.` _가구가 있는 아파트를 원합니다.
+  - `671. How much is the down payment?` _계약금은 얼마입니까?
+- **주요 인용**: > "Please be careful with it. It is pure silk. 조심해 주십시오. 그것은 100% 실크입니다."
+
+### ### 5. 743~750번 가상 상황 감각 대칭 표현 (Nos. 743-750)
+- **핵심 논지**: 감각적 대조 묘사 및 특수 대칭 지향 구문을 직관적인 한국어로 치환하는 롤플레잉 감성 표현들을 박제한다.
+- **근거 및 데이터**:
+  - `743. 맛이냐 건강이냐! 네가 원하는 것(무엇)을 골라라.`
+  - `744. 깜짝! 여기에 누가 있는지 봐라.`
+  - `745. 예상과는 다르지만 취소하긴 자존심 상하니 내가 더 이전에 말한 것(무엇)을 잊어라.`
+  - `748. 공항에서 잡혔는데 영어가 안되면 나는 한국어를 말하는 누군가를 원한다.`
+  - `749. 인생은 성적순이 아니라지만 그것이 어떻게 나왔는지 우리가 보도록 허락하자.`
+  - `750. 네가 말해준 그 말 저것이 정확하게 내가 생각하는 중인 것이었어.`
+- **주요 인용**: > "인생은 성적순이 아니라지만 그것이 어떻게 나왔는지 우리가 보도록 허락하자."
+
+### ### 6. 832~934번 가격 분쟁, 거래 흥정 및 우체 통신/이발 위생 표현 (Nos. 832-934)
+- **핵심 논지**: 가격 불만 및 신용 보증, 할부 수납, 지갑 도난 등 돌발 분실사태 신고와 헤어스타일 커트 및 샴푸 등 전방위적인 우편 행정 규격(수신자 부담, 무게 측정)을 기술한다.
+- **근거 및 데이터**:
+  - `832. The price is not reasonable.` _가격이 적당하지 않습니다.
+  - `833. The price is higher than what I had in mind.` _제가 생각했던 것보다 가격이 비쌉니다.
+  - `834. Can I buy it on installment?` _그것을 할부로 살 수 있습니까?
+  - `835. You gave me the wrong change.` _당신은 저에게 거스름돈을 잘못 주었습니다.
+  - `838. I'd like to return this.` _이것을 반품하고 싶습니다.
+  - `841. Isn't there a mistake in the bill?` _계산서에 잘못된 것이 있지 않습니까?
+  - `843. How long do you intend to stay in Paris?` _당신은 파리에 얼마나 오래 머무를 예정입니까?
+  - `849. Would you please tell me what museums are here?` _여기에 어떤 박물관이 있는지 말씀해 주시겠습니까?
+  - `851. Would you like to go to the opera with me?` _저와 함께 오페라 보러 가시겠습니까?
+  - `853. I'll pick you up at seven o'clock.` _7시에 당신을 데리러 가겠습니다.
+  - `854. Where is the nearest subway station?` _가장 가까운 지하철역은 어디에 있습니까?
+  - `864. Can anyone here speak English?` _여기 있는 누군가 영어를 할 수 있습니까?
+  - `868. Would you tell me how to get to this hotel?` _어떻게 이 호텔에 도착하는지 말해 줄 수 있습니까?
+  - `871. Please point out where I am on this map.` _지도상에 제가 어디에 있는지 알려 주십시오.
+  - `878. Let me off here, please.` _여기서 내려 주십시오.
+  - `881. Who are your favorite movie stars?` _당신이 좋아하는 영화배우는 누구입니까?
+  - `888. May I take pictures here?` _여기서 사진 찍어도 괜찮습니까?
+  - `891. Where is the lost-and-found?` _분실물 보관소는 어디입니까?
+  - `894. My wallet was stolen.` _지갑을 도난 당했습니다.
+  - `895. I lost my passport.` _여권을 잃어버렸습니다.
+  - `898. Please call the police immediately.` _즉시 경찰을 불러 주십시오.
+  - `901. I would like to have a haircut.` _이발을 하고 싶습니다.
+  - `906. Just trim it, please.` _다듬어만 주십시오.
+  - `907. Not too short.` _너무 짧지 않게 해 주십시오.
+  - `910. Would you please comb my hair back from the forehead?` _머리를 뒤로 넘겨 주시겠습니까?
+  - `917. Please register this letter.` _이 편지를 등기로 부쳐 주십시오.
+  - `920. Will you weigh this parcel, please?` _이 소포의 무게를 재 주시겠습니까?
+  - `924. I'd like to send this package to Hong Kong.` _이 소포를 홍콩으로 보내고 싶습니다.
+  - `929. I want to make a collect call to Seoul.` _서울에 수신자 부담으로 전화를 걸고 싶습니다.
+  - `930. I'd like to make an overseas call. _국제 전화를 하고 싶습니다.`
+  - `931. Where can I find a public phone?` _어디서 공중전화기를 찾을 수 있습니까?
+  - `932. The line is busy.` _통화 중입니다.
+  - `934. May I speak to Mr. Park?` _박씨와 통화할 수 있습니까?
+- **주요 인용**: > "I want to make a collect call to Seoul. 서울에 수신자 부담으로 전화를 걸고 싶습니다."
+
+### ### 7. 1044~1128번 정밀 방향 안내, 속담 격언 및 의사 표현 (Nos. 1044-1128)
+- **핵심 논지**: 초행자에게 행선지를 안내하는 법, 오랜 전언 격언구("No pains, no gains"), 천천히 움직여 승리한다는 교훈 및 가족/동물을 애호하는 3인칭 기본 예문을 기술한다.
+- **근거 및 데이터**:
+  - `1044. Go straight ahead and turn to the right at the first corner.` _곧장 앞으로 가다가 첫 번째 모퉁이에서 오른쪽으로 도세요.
+  - `1046. Thank you for your kindness.` _당신의 친절에 감사합니다.
+  - `1047. You're welcome.` _천만에요. 비슷한 표현 => Not at all. Don't mention it.
+  - `1049. What's the weather like?` _날씨가 어떻습니까? 비슷한 표현 => How is the weather?
+  - `1050. How about going to the movies?` _영화보러 가는 게 어때? 비슷한 표현 => What about going to the movies?
+  - `1053. How do you do, Mr. Kim?` _처음 뵙겠습니다, 김씨.
+  - `1054. No pains, no gains.` _수고하지 않고 무엇을 얻으랴!
+  - `1055. Slow and steady wins the race.` _천천히 그리고 꾸준히 하는 자가 경주에 이긴다.
+  - `1056. The Korean people are very diligent.` _한국 사람들은 매우 부지런하다.
+  - `1057. Health is the best wealth.` _건강은 최상의 재산이다.
+  - `1058. No news is good news.` _무소식이 희소식이다.
+  - `1061. My watch is five minutes slow.` _내 시계는 5분이 늦다.
+  - `1064. All the students in our class work hard.` _우리 학급의 모든 학생들은 열심히 공부한다.
+  - `1065. He made his son a doctor.` _그는 자기 아들을 의사가 되게 했다. (※ '의사가 되게 했다' 인과 보존)
+  - `1066. She loves her cat very much.` _그녀는 자기의 고양이를 매우 많이 사랑한다.
+  - `1072. You and I are good friends.` _너와 나는 좋은 친구이다.
+  - `1074. To play the piano is very difficult.` _피아노를 치는 것은 매우 어렵다.
+  - `1076. He went hunting yesterday.` _그는 어제 사냥하러 갔다.
+  - `1079. Tom and Nancy came to see me yesterday.` _탐과 낸시는 어제 나를 만나러 왔다.
+  - `1083. Rabbits are fast animals.` _토끼는 빠른 동물이다.
+  - `1089. I take a walk in the park every Sunday.` _나는 일요일마다 공원을 산책한다.
+  - `1091. Tom freed the dog.` _탐은 그 개를 풀어주었다.
+  - `1093. All work and no play makes Jack a dull boy.` _공부만 하고 놀지 않으면 바보가 된다.
+  - `1098. We'll soon have a twenty-minute break.` _우리는 곧 20분간의 휴식을 갖게 될 것이다.
+  - `1102. I saw a tree at the back of the house.` _나는 그 집 뒤에 있는 나무 한 그루를 보았다.
+  - `1105. The old man died last week.` _그 노인은 지난 주에 죽었다.
+  - `1106. He is a hard worker.` _그는 근면한 일꾼이다.
+  - `1110. I didn't have breakfast this morning.` _오늘 아침에 나는 조반을 먹지 않았다.
+  - `1113. What happened yesterday?` _어제 무슨 일이 일어났습니까?
+  - `1117. Do you know what he wants?` _당신은 그가 무엇을 원하는지를 알고 있습니까?
+  - `1121. I want to know when she will be back.` _나는 그녀가 언제 돌아올지를 알고 싶습니다.
+  - `1124. I don't know if he locked the door.` _나는 그가 문을 잠궜는지 어떤지를 모른다. (※ '잠궜는지' 맞춤법 유지)
+  - `1128. Who do you think he is?` _당신은 그가 누구라고 생각합니까?
+- **주요 인용**: > "Slow and steady wins the race. 천천히 그리고 꾸준히 하는 자가 경주에 이긴다."
+
+---
+
+## 💡 주요 용어 (Key Terminology)
+
+- **Couch potato (게으름뱅이)**: 하루 종일 소파(couch)에 누워 감자칩을 먹으며 TV 채널만 돌리는 만성적인 게으름뱅이 및 비활동적인 인물을 희화화한 유명 슬랭.
+- **Your wish is my command (지시 대기)**: "당신의 소망이나 지시가 곧 나에겐 명령이다"라는 정중하면서도 유머러스한 어투로, 상대방이 부탁하거나 희망하는 바를 군말 없이 충실하게 실행하겠다는 주체적 약속구.
+- **We snatched victory from the jaws of defeat (역전승)**: 패배라는 무서운 짐승의 턱관절(jaws) 속으로 이미 빨려 들어간 승리를 기적적으로 낚아채듯(snatched) 탈환했다는 비유로, 패색이 짙던 상황을 극적으로 뒤집어 거둔 완벽한 역전승을 지시함.
+- **Fragile (취급 주의)**: 유리, 도자기 등 충격에 의해 파손되거나 깨지기 쉬운 수화물 화물에 정위하는 인지 딱지 기호구.
+- **Vending machine (자동판매기)**: 주화나 지폐 등의 지불 수단을 인식하여 자율적으로 음료, 스낵, 커피 등을 송출하는 자동 기계 아키텍처.
+
+## 🔗 연결 키워드 (Canonical Concepts)
+- **연결 키워드**: 패턴영어, 일상회화, 생활영어, 신체동태, 여행영어, 계산서, 이발소, 우체국
+
+---
+
+*source: NotebookLM / Step-by-Step English Speaking Training Patterns*

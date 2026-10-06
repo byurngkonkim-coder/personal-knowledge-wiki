@@ -1,0 +1,9316 @@
+---
+title: "영어표현연습3_3회예문반복__English_pdf"
+category: "글로벌 어학 & 영어"
+type: "english_learning"
+project: "03_English Materials"
+notebook: "English_pdf"
+summary: "title: '영어표현연습3_3회예문반복__English_pdf'"
+decision_status: "accepted"
+source: "영어표현연습3_3회예문반복__English_pdf.md"
+source_path: "03_English Materials/English_pdf/영어표현연습3_3회예문반복__English_pdf.md"
+created: 2026-10-02
+converted: 2026-10-02
+status: canonical
+tags:
+  - 영어학습
+  - 영어회화
+aliases: []
+---
+
+> ---
+> title: "영어표현연습3_3회예문반복__English_pdf"
+> aliases: []
+> tags: [english, speaking, pattern, source, mcp-extracted]
+> type: document
+> ---
+> # 🗣️ 영어표현연습3_3회예문반복__English_pdf
+>
+> ## 📋 요약 (Summary)
+> - **주요 학습 테마**: 원어민 일상 회화 필수 구동사(Phrasal Verbs), 빈출 스피킹 기초 패턴(Speaking Patterns), 일상 동작 및 가사/생활 필수 동사(Daily Action Verbs)
+> - **핵심 수록 표현 수**: 총 200개 이상의 구동사, 패턴 및 핵심 동사 표현 (본문 전체 100% 전수 망라)
+> - **학습 포인트**:
+>   1. 구동사의 다의어적 쓰임(물리적 동작 → 비유적·추상적 의미 확장)을 예문 기반으로 체득
+>   2. 감정, 의사결정, 정중한 요청을 표현하는 원어민 빈출 회화 패턴 습득
+>   3. 일상 생활, 요리, 청소, 업무, 인간관계에서 즉각 튀어나오는 무의식 발화 훈련
+>
+> ---
+>
+> ## 🗺️ 원문 구조 (Document Map)
+> 1. `break up` : 헤어지다, 관계를 끝내다; 부서지다
+> 2. `call off` : 취소하다
+> 3. `carry on` : ~을 계속하다
+> 4. `catch up` : 따라잡다; 오랜만에 만나 이야기하다
+> 5. `check out` : 확인하다; 체크아웃하다
+> 6. `come along` : 동반하다; 진전되다
+> 7. `come off` : 떨어져 나가다; 성공하다
+> 8. `come out` : 나오다, 드러나다
+> 9. `cut off` : 잘라내다, 단절시키다
+> 10. `eat out` : 외식하다
+> 11. `fall out` : 떨어져 나오다; 싸우다
+> 12. `fill in` : 채워 넣다, 작성하다
+> 13. `find out` : 알아내다, 발견하다
+> 14. `get around` : 돌아다니다; 피하다
+> 15. `get away` : 도망치다, 벗어나다; 휴가를 가다
+> 16. `get by` : 그럭저럭 살아가다, 그럭저럭 해내다
+> 17. `get off` : 내리다; 떠나다
+> 18. `get on` : 탑승하다; 잘 지내다
+> 19. `get over` : 극복하다, 회복하다
+> 20. `give up` (`give something up`) : 포기하다
+> 21. `give away` : 기부하다, 거저 주다; 누설하다
+> 22. `go off` : 떠나다; 울리다(터지다); 상하다
+> 23. `go on` : 계속하다, 진행되다
+> 24. `go through` : 겪다, 경험하다; 검토하다
+> 25. `hold on` : 기다리다; 단단히 잡다
+> 26. `hold up` : 지탱하다, 지연시키다; 강탈하다
+> 27. `keep on` : 계속 ~하다
+> 28. `leave out` : 빼다, 생략하다
+> 29. `look after` : ~을 돌보다
+> 30. `look at` : ~을 보다
+> 31. `look for` : ~을 찾다
+> 32. `look into` : ~을 조사하다
+> 33. `look out` : 조심하다, 주의하다
+> 34. `look up` : 찾아보다; (상황이) 호전되다
+> 35. `make for` : ~로 향하다; ~에 기여하다
+> 36. `make out` : 이해하다, 알아보다; 주장하다
+> 37. `make up` : 구성하다; 화해하다; 지어내다
+> 38. `move on` : 다음 단계로 나아가다, 이동하다
+> 39. `mess with` : ~을 건드리다, ~와 장난치다
+> 40. `kick off` : 시작하다, 개시하다
+> 41. `put off` : 연기하다, 미루다; 정떨어지게 하다
+> 42. `put on` : 입다, 신다, 쓰다; 켜다; 상연하다
+> 43. `set off` : 출발하다, 시작하다; 촉발하다
+> 44. `shut off` : 끄다, 차단하다
+> 45. `shut up` : 입을 다물다, 조용히 하다
+> 46. `stand up` : 일어서다; 지지하다; 유효하다
+> 47. `take off` : 벗다; 이륙하다; 급성장하다
+> 48. `turn off` : 끄다
+> 49. `figure out` : 이해하다, 해결하다, 알아내다
+> 50. `make up for` : ~을 만회하다, 보상하다
+> 51. `sort out` : 해결하다, 정리하다, 분류하다
+> 52. `work out` : 해결하다, 잘 되다; 운동하다
+> 53. `pull away` : 떨어져 나가다, 출발하다
+> 54. `pull over` : 갓길에 대다, 차를 세우다
+> 55. `pull up` : 멈추다, 세우다; 당겨 올리다
+> 56. `run away` : 도망치다
+> 57. `take away` : 가져가다, 치우다; (교훈 등을) 얻다
+> 58. `put down` : 내려놓다; 진압하다; 적다
+> 59. `put out` : 불을 끄다; 내놓다; 내밀다
+> 60. `put together` : 조립하다, 모으다, 구성하다
+> 61. `turn on` : 켜다, 작동시키다; 매력을 발산하다
+> 62. `turn over` : 뒤집다, 넘기다; 양도하다
+> 63. `show off` : 과시하다, 자랑하다
+> 64. `stick out` : 튀어나오다, 두드러지다; 내밀다
+> 65. `pull off` : 성공하다, 해내다; ~을 벗기다
+> 66. `pull out` : 빼내다, 철수하다; ~에서 빠져나오다
+> 67. `cut back` : 줄이다
+> 68. `cross out` : 지우다, 줄을 그어 지우다
+> 69. `go with` : 어울리다, 잘 맞다
+> 70. `look across` : 둘러보다, 건너다보다
+> 71. `bring out` : 꺼내다; (특징·개성을) 끌어내다, 돋보이게 하다
+> 72. `get ahead` : 앞서나가다, 성공하다
+> 73. `fall behind` : 뒤처지다
+> 74. `do without` : ~ 없이 지내다
+> 75. `set apart` : 구별하다, 돋보이게 하다
+> 76. `top off` : 마무리하다, 가득 채우다
+> 77. `work on` : 작업하다, 개선하다, 노력하다
+> 78. `stand out` : 눈에 띄다, 두드러지다
+> 79. `count on` : 의지하다, 믿다, 기대하다
+> 80. `take up` : 시작하다; (시간 등을) 차지하다
+> 81. `think over` : 곰곰이 생각하다
+> 82. `fill out` : (양식을) 작성하다
+> 83. `fit in` : 어울리다, 적응하다
+> 84. `mix up` : 뒤섞다, 혼동하다
+> 85. `point out` : 지적하다, 가리키다
+> 86. `stick around` : 머무르다, 기다리다
+> 87. `tap into` : 활용하다, 끌어내다
+> 88. `get across` : 이해시키다, 전달하다
+> 89. `come up with` : 생각해내다, 제안하다
+> 90. `pass out` : 기절하다; 나눠주다
+> 91. `pick up` : 시작하다, 집다; 익히다, 얻다
+> 92. `pay off` : 성과를 내다; 갚다
+> 93. `talk into` : 설득하다
+> 94. `walk away` : 떠나다, 포기하다
+> 95. `go ahead` : 진행하다, 먼저 가다
+> 96. `go for` : 선택하다; 가지러 가다, 도전하다
+> 97. `pop up` : 불쑥 나타나다, 갑자기 생겨나다
+> 98. `set up` : 설치하다, 준비하다
+> 99. `stop by` : 잠시 들르다
+> 100. `come down` : 내려오다; (병에) 걸리다
+> 101. `go around` : 돌아다니다, 순회하다; 골고루 돌아가다
+> 102. `mess up` : 어지럽히다, 망치다
+> 103. `bring up` : 양육하다; 화제를 꺼내다
+> 104. `rush into` : 서두르다, 성급하게 뛰어들다
+> 105. `rely on` : 의지하다, 믿다
+> 106. `care for` : 돌보다; 좋아하다
+> 107. `run into` : 우연히 만나다; 곤경에 부딪히다
+> 108. `miss out` : 놓치다
+> 109. `turn around` : 회복하다, 반전시키다; 돌아보다
+> 110. `walk through` : 통과하다; 자세히 설명하다
+> 111. `look up to` : 존경하다
+> 112. `wear out` : 지치게 하다, 닳게 하다
+> 113. `talk out of` : 설득하여 ~을 그만두게 하다
+> 114. `take on` : 맡다, 떠맡다
+> 115. `fall for` : 속아 넘어가다; 사랑에 빠지다
+> 116. `turn down` : 거절하다; 줄이다
+> 117. `get back to` : 다시 연락하다
+> 118. `settle down` : 정착하다, 진정하다
+> 119. `wrap up` : 마무리하다
+> 120. `pass away` : 사망하다
+> 121. `get to` : 도달하다; 영향을 미치다, 마음에 와닿다
+> 122. `hold back` : 억제하다, 숨기다, 참다
+> 123. `run out of` : 바닥나다, 다 떨어지다
+> 124. `go against` : 거스르다, 반대하다, 어긋나다
+> 125. `pass around` : 돌리다, 나눠주다
+> 126. `stock up` : 비축하다, 충전하다
+> 127. `fall apart` : 분해되다, 무너지다, 망가지다
+> 128. `get into` : 진입하다, 빠져들다, 관여하다; 습관을 들이다
+> 129. `stand up for` : 옹호하다, 지지하다
+> 130. `take after` : 닮다
+> 131. `get along` : 잘 지내다
+> 132. `get together` : 모이다
+> 133. `move up` : 앞당기다
+> 134. `stick to` : 고수하다, 지키다
+> 135. `throw on` : 대충 입다, 걸치다
+> 136. `stand up to` : 저항하다, 견디다, 버티다
+> 137. `keep up with` : 따라잡다, 유지하다
+> 138. `throw away` : 버리다
+> 139. 기초 회화 패턴 시리즈 (pp. 92~110)
+> 140. 동작·가사·생활 핵심 동사 시리즈 (pp. 204~244)
+>
+> ---
+>
+> ## 📚 상세 분해 (Detailed Breakdown) — 무손실 핵심 표현 & 패턴 마스터
+>
+> ### 1. `break up` : 헤어지다, 관계를 끝내다; 부서지다
+> - **💡 뉘앙스 & 상황 맥락**: 연인 간의 결별이나 회의/모임의 해산, 물리적으로 얼음이나 덩어리가 산산조각 나는 현상 등 '결합 상태의 완전한 해체'를 뜻합니다.
+> - **🔊 발음 & 연음 팁 (Pronunciation Tip)**: [브레익-업]으로 k와 u가 연음되어 [브레이껍]처럼 들립니다.
+> - **📝 실전 예문 (Real Examples)**:
+>   - 🇺🇸 `They decided to break up after five years of dating.`
+>     - 🇰🇷 그들은 5년간의 연애 끝에 헤어지기로 결정했다.
+>   - 🇺🇸 `The ice on the lake began to break up as spring approached.`
+>     - 🇰🇷 봄이 다가오자 호수의 얼음이 깨지기 시작했다.
+>   - 🇺🇸 `The loud noise caused the meeting to break up.`
+>     - 🇰🇷 시끄러운 소음 때문에 회의가 중단되었다.
+> - **🔄 패턴 응용 & 교체 연습 (Substitution Drill)**: `decide to break up` + `after [기간/이유]` = [~ 끝에 헤어지기로 결정하다]
+> - **⚠️ 주의사항 & 콩글리시 방지 (Pitfalls & Common Mistakes)**: 단순히 헤어져 귀가할 때는 `part ways`나 `go home`을 쓰며, 연인 관계의 종결에 `break up`을 씁니다.
+>
+> ### 2. `call off` : 취소하다
+> - **💡 뉘앙스 & 상황 맥락**: 예정되었던 회의, 경기, 계획 등을 완전히 중단하고 '취소'할 때 쓰는 대표적인 구동사입니다(`cancel`의 일상 회화 표현).
+> - **🔊 발음 & 연음 팁 (Pronunciation Tip)**: [콜-오프]가 이어져 [컬로-프]로 연음됩니다.
+> - **📝 실전 예문 (Real Examples)**:
+>   - 🇺🇸 `They had to call off the outdoor concert due to heavy rain.`
+>     - 🇰🇷 폭우 때문에 야외 콘서트를 취소해야 했다.
+>   - 🇺🇸 `The game was called off because of the blizzard.`
+>     - 🇰🇷 경기는 눈보라 때문에 취소되었다.
+>   - 🇺🇸 `We had to call off our plans at the last minute.`
+>     - 🇰🇷 우리는 막판에 계획을 취소해야 했다.
+> - **🔄 패턴 응용 & 교체 연습 (Substitution Drill)**: `have to call off` + `[계획/행사]` + `due to / because of [원인]`
+> - **⚠️ 주의사항 & 콩글리시 방지 (Pitfalls & Common Mistakes)**: `put off`(연기하다)와 혼동하지 않도록 주의하십시오. `call off`는 취소(Canceled)입니다.
+>
+> ### 3. `carry on` : ~을 계속하다
+> - **💡 뉘앙스 & 상황 맥락**: 방해나 역경에도 굴하지 않고 하던 일이나 행동을 끊김 없이 '계속해서 밀고 나아가다'라는 의미를 지닙니다.
+> - **🔊 발음 & 연음 팁 (Pronunciation Tip)**: r 사운드가 뒤 모음과 만나 [캐리-온]이 부드럽게 이어집니다.
+> - **📝 실전 예문 (Real Examples)**:
+>   - 🇺🇸 `Please carry on with your excellent work.`
+>     - 🇰🇷 당신은 훌륭한 일을 계속하세요.
+>   - 🇺🇸 `Despite the rain they carried on with the outdoor concert.`
+>     - 🇰🇷 비에도 불구하고 그들은 야외 콘서트를 계속 진행했다.
+>   - 🇺🇸 `He carried on as if nothing had happened.`
+>     - 🇰🇷 그는 아무 일도 없었던 것처럼 계속 행동했다.
+> - **🔄 패턴 응용 & 교체 연습 (Substitution Drill)**: `carry on with` + `[명사]` = [~을 계속 진행하다]
+> - **⚠️ 주의사항 & 콩글리시 방지 (Pitfalls & Common Mistakes)**: 명사형 `carry-on`은 기내 휴대용 가방을 뜻하지만 구동사로는 '지속하다'입니다.
+>
+> ### 4. `catch up` : 따라잡다; 오랜만에 만나 이야기하다
+> - **💡 뉘앙스 & 상황 맥락**: 물리적/진도 면에서 뒤처진 격차를 메우거나, 오랫동안 못 본 지인을 만나 밀린 근황을 나눌 때 필수적인 표현입니다.
+> - **🔊 발음 & 연음 팁 (Pronunciation Tip)**: tch 뒤의 up이 붙어 [캐첩]에 가깝게 발음됩니다.
+> - **📝 실전 예문 (Real Examples)**:
+>   - 🇺🇸 `I need to catch up on my sleep this weekend.`
+>     - 🇰🇷 이번 주말에 잠을 보충해야겠다.
+>   - 🇺🇸 `Let's catch up for coffee next week.`
+>     - 🇰🇷 다음 주에 커피 마시면서 밀린 이야기나 하자.
+>   - 🇺🇸 `She studied hard to catch up with her classmates.`
+>     - 🇰🇷 그녀는 반 친구들을 따라잡기 위해 열심히 공부했다.
+> - **🔄 패턴 응용 & 교체 연습 (Substitution Drill)**: `catch up on + [밀린 일/잠/뉴스]`, `catch up with + [사람]`
+>
+> ### 5. `check out` : 확인하다; 체크아웃하다
+> - **💡 뉘앙스 & 상황 맥락**: 호텔 등 숙소에서 비용을 치르고 퇴실하는 것 외에도, 구어체에서 "이것 좀 봐봐", "직접 확인해봐"라는 뜻으로 매우 자주 쓰입니다.
+> - **🔊 발음 & 연음 팁 (Pronunciation Tip)**: k와 out이 연음되어 [체카웃]으로 들립니다.
+> - **📝 실전 예문 (Real Examples)**:
+>   - 🇺🇸 `Can you check out this new restaurant with me?`
+>     - 🇰🇷 이 새로운 레스토랑을 저와 함께 확인해 볼까요?
+>   - 🇺🇸 `We need to check out of the hotel by noon.`
+>     - 🇰🇷 우리는 정오까지 호텔에서 체크아웃해야 한다.
+>   - 🇺🇸 `The police are checking out the alibi.`
+>     - 🇰🇷 경찰은 알리바이를 확인하고 있다.
+> - **🔄 패턴 응용 & 교체 연습 (Substitution Drill)**: `Check out + [명사]` = [~을 확인해 보다/구경하다]
+>
+> ### 6. `come along` : 동반하다; 진전되다
+> - **💡 뉘앙스 & 상황 맥락**: 어떤 일행에 동행하거나, 작업/프로젝트가 순조롭게 진척될 때, 혹은 좋은 기회가 찾아올 때 씁니다.
+> - **🔊 발음 & 연음 팁 (Pronunciation Tip)**: [컴-얼렁]이 매끄럽게 연결됩니다.
+> - **📝 실전 예문 (Real Examples)**:
+>   - 🇺🇸 `Why don't you come along with us to the movie?`
+>     - 🇰🇷 영화 보러 우리와 함께 가지 않을래?
+>   - 🇺🇸 `How is your project coming along?`
+>     - 🇰🇷 프로젝트는 어떻게 진행되고 있니?
+>   - 🇺🇸 `I hope a good opportunity will come along soon.`
+>     - 🇰🇷 좋은 기회가 곧 생기기를 바란다.
+> - **🔄 패턴 응용 & 교체 연습 (Substitution Drill)**: `How is [대상] coming along?` = [~은 어떻게 잘 되어가니?]
+>
+> ### 7. `come off` : 떨어져 나가다; 성공하다
+> - **💡 뉘앙스 & 상황 맥락**: 부착물이 떨어지는 물리적 탈락 외에도 계획이나 시도가 계획대로 성공적으로 실현되는 뉘앙스를 가집니다.
+> - **🔊 발음 & 연음 팁 (Pronunciation Tip)**: [커머프] 형태로 빠르고 부드럽게 발음됩니다.
+> - **📝 실전 예문 (Real Examples)**:
+>   - 🇺🇸 `The handle came off the door.`
+>     - 🇰🇷 문 손잡이가 떨어져 나갔다.
+>   - 🇺🇸 `Did your plan finally come off?`
+>     - 🇰🇷 네 계획이 결국 성공했니?
+>   - 🇺🇸 `The paint might come off if you scrub too hard.`
+>     - 🇰🇷 너무 세게 문지르면 페인트가 벗겨질 수 있다.
+>
+> ### 8. `come out` : 나오다, 드러나다
+> - **💡 뉘앙스 & 상황 맥락**: 감춰졌던 진실이 밝혀지거나, 신간/음반이 대중 앞에 출시·발매될 때 쓰입니다.
+> - **🔊 발음 & 연음 팁 (Pronunciation Tip)**: [커마웃]으로 강세는 out에 실립니다.
+> - **📝 실전 예문 (Real Examples)**:
+>   - 🇺🇸 `The sun came out after the rain.`
+>     - 🇰🇷 비가 그친 후 해가 나왔다.
+>   - 🇺🇸 `The truth eventually came out.`
+>     - 🇰🇷 결국 진실이 드러났다.
+>   - 🇺🇸 `His new book comes out next month.`
+>     - 🇰🇷 그의 새 책은 다음 달에 나온다.
+>
+> ### 9. `cut off` : 잘라내다, 단절시키다
+> - **💡 뉘앙스 & 상황 맥락**: 줄이나 물건을 물리적으로 잘라내는 것뿐 아니라 공급(물, 가스, 전기) 차단, 인간관계나 통신을 영구히 끊어버릴 때 쓰입니다.
+> - **🔊 발음 & 연음 팁 (Pronunciation Tip)**: [커러프]로 플랩 현상이 발생합니다.
+> - **📝 실전 예문 (Real Examples)**:
+>   - 🇺🇸 `The floodwaters cut off the village from the rest of the world.`
+>     - 🇰🇷 홍수는 마을을 세상과 단절시켰다.
+>   - 🇺🇸 `She cut off a piece of string.`
+>     - 🇰🇷 그녀는 끈 한 조각을 잘라냈다.
+>   - 🇺🇸 `He cut off his ex-girlfriend completely after their breakup.`
+>     - 🇰🇷 그는 헤어진 후 전 여자친구와 완전히 관계를 끊었다.
+>
+> ### 10. `eat out` : 외식하다
+> - **💡 뉘앙스 & 상황 맥락**: 집에서 요리해 먹지 않고 밖의 음식점에서 식사를 즐기는 상황입니다.
+> - **🔊 발음 & 연음 팁 (Pronunciation Tip)**: [이-라웃]으로 연음됩니다.
+> - **📝 실전 예문 (Real Examples)**:
+>   - 🇺🇸 `Let's eat out tonight; I don't feel like cooking.`
+>     - 🇰🇷 오늘 밤 외식하자; 요리할 기분이 아니야.
+>   - 🇺🇸 `How often do you eat out in a week?`
+>     - 🇰🇷 일주일에 얼마나 자주 외식하니?
+>   - 🇺🇸 `We often eat out when we're on vacation.`
+>     - 🇰🇷 우리는 휴가 중일 때 자주 외식한다.
+>
+> ### 11. `fall out` : 떨어져 나오다; 싸우다
+> - **💡 뉘앙스 & 상황 맥락**: 머리카락이나 이가 물리적으로 빠져나오는 것, 혹은 사람 사이가 사소한 일로 언쟁을 벌이고 틀어질 때 씁니다.
+> - **🔊 발음 & 연음 팁 (Pronunciation Tip)**: [폴라웃]으로 이어집니다.
+> - **📝 실전 예문 (Real Examples)**:
+>   - 🇺🇸 `My hair started to fall out after the treatment.`
+>     - 🇰🇷 치료 후에 머리카락이 빠지기 시작했다.
+>   - 🇺🇸 `They fell out over a trivial matter.`
+>     - 🇰🇷 그들은 사소한 문제로 싸웠다.
+>   - 🇺🇸 `Don't let your teeth fall out!`
+>     - 🇰🇷 이가 빠지지 않게 조심해!
+>
+> ### 12. `fill in` : 채워 넣다, 작성하다; 정보를 알려주다
+> - **💡 뉘앙스 & 상황 맥락**: 서식의 빈칸을 채우는 뜻 외에, 자리에 없던 사람에게 상황 보고나 세부 사항을 업데이트해 줄 때 `fill (someone) in` 형태로 씁니다.
+> - **🔊 발음 & 연음 팁 (Pronunciation Tip)**:
+
+---
+
+### 페이지 1
+
+헤어지다, 관계를 끝내다; 부서지다 
+break up 
+break up 
+break up  
+ 
+그들은 5년간의 연애 끝에 헤어지기로 결정했다. 
+They decided to break up after five years of dating. 
+They decided to break up after five years of dating. 
+They decided to break up after five years of dating.  
+ 
+봄이 다가오자 호수의 얼음이 깨지기 시작했다. 
+The ice on the lake began to break up as spring approached. 
+The ice on the lake began to break up as spring approached. 
+The ice on the lake began to break up as spring approached.  
+ 
+시끄러운 소음 때문에 회의가 중단되었다. 
+The loud noise caused the meeting to break up. 
+The loud noise caused the meeting to break up. 
+The loud noise caused the meeting to break up.  
+ 
+취소하다 
+call off 
+call off 
+call off  
+ 
+폭우 때문에 야외 콘서트를 취소해야 했다. 
+They had to call off the outdoor concert due to heavy rain. 
+They had to call off the outdoor concert due to heavy rain. 
+They had to call off the outdoor concert due to heavy rain.  
+ 
+경기는 눈보라 때문에 취소되었다. 
+The game was called off because of the blizzard. 
+The game was called off because of the blizzard. 
+The game was called off because of the blizzard.
+
+### 페이지 2
+
+우리는 막판에 계획을 취소해야 했다. 
+We had to call off our plans at the last minute. 
+We had to call off our plans at the last minute. 
+We had to call off our plans at the last minute.  
+ 
+~을 계속하다 
+carry on 
+carry on 
+carry on  
+ 
+당신은 훌륭한 일을 계속하세요. 
+Please carry on with your excellent work. 
+Please carry on with your excellent work. 
+Please carry on with your excellent work.  
+ 
+비에도 불구하고 그들은 야외 콘서트를 계속 진행했다. 
+Despite the rain  they carried on with the outdoor concert. 
+Despite the rain  they carried on with the outdoor concert. 
+Despite the rain  they carried on with the outdoor concert.  
+ 
+그는 아무 일도 없었던 것처럼 계속 행동했다. 
+He carried on as if nothing had happened. 
+He carried on as if nothing had happened. 
+He carried on as if nothing had happened.  
+ 
+따라잡다; 오랜만에 만나 이야기하다 
+catch up 
+catch up 
+catch up  
+ 
+이번 주말에 잠을 보충해야겠다. 
+I need to catch up on my sleep this weekend. 
+I need to catch up on my sleep this weekend. 
+I need to catch up on my sleep this weekend.
+
+### 페이지 3
+
+다음 주에 커피 마시면서 밀린 이야기나 하자. 
+Let's catch up for coffee next week. 
+Let's catch up for coffee next week. 
+Let's catch up for coffee next week.  
+ 
+그녀는 반 친구들을 따라잡기 위해 열심히 공부했다. 
+She studied hard to catch up with her classmates. 
+She studied hard to catch up with her classmates. 
+She studied hard to catch up with her classmates.  
+ 
+확인하다; 체크아웃하다 
+check out 
+check out 
+check out  
+ 
+이 새로운 레스토랑을 저와 함께 확인해 볼까요? 
+Can you check out this new restaurant with me? 
+Can you check out this new restaurant with me? 
+Can you check out this new restaurant with me?  
+ 
+우리는 정오까지 호텔에서 체크아웃해야 한다. 
+We need to check out of the hotel by noon. 
+We need to check out of the hotel by noon. 
+We need to check out of the hotel by noon.  
+ 
+경찰은 알리바이를 확인하고 있다. 
+The police are checking out the alibi. 
+The police are checking out the alibi. 
+The police are checking out the alibi.  
+ 
+동반하다; 진전되다 
+come along 
+come along 
+come along
+
+### 페이지 4
+
+영화 보러 우리와 함께 가지 않을래? 
+Why don't you come along with us to the movie? 
+Why don't you come along with us to the movie? 
+Why don't you come along with us to the movie?  
+ 
+프로젝트는 어떻게 진행되고 있니? 
+How is your project coming along? 
+How is your project coming along? 
+How is your project coming along?  
+ 
+좋은 기회가 곧 생기기를 바란다. 
+I hope a good opportunity will come along soon. 
+I hope a good opportunity will come along soon. 
+I hope a good opportunity will come along soon.  
+ 
+떨어져 나가다; 성공하다 
+come off 
+come off 
+come off  
+ 
+문 손잡이가 떨어져 나갔다. 
+The handle came off the door. 
+The handle came off the door. 
+The handle came off the door.  
+ 
+네 계획이 결국 성공했니? 
+Did your plan finally come off? 
+Did your plan finally come off? 
+Did your plan finally come off?  
+ 
+너무 세게 문지르면 페인트가 벗겨질 수 있다. 
+The paint might come off if you scrub too hard. 
+The paint might come off if you scrub too hard. 
+The paint might come off if you scrub too hard.
+
+### 페이지 5
+
+나오다, 드러나다 
+come out 
+come out 
+come out  
+ 
+비가 그친 후 해가 나왔다. 
+The sun came out after the rain. 
+The sun came out after the rain. 
+The sun came out after the rain.  
+ 
+결국 진실이 드러났다. 
+The truth eventually came out. 
+The truth eventually came out. 
+The truth eventually came out.  
+ 
+그의 새 책은 다음 달에 나온다. 
+His new book comes out next month. 
+His new book comes out next month. 
+His new book comes out next month.  
+ 
+잘라내다, 단절시키다 
+cut off 
+cut off 
+cut off  
+ 
+홍수는 마을을 세상과 단절시켰다. 
+The floodwaters cut off the village from the rest of the world. 
+The floodwaters cut off the village from the rest of the world. 
+The floodwaters cut off the village from the rest of the world.  
+ 
+그녀는 끈 한 조각을 잘라냈다. 
+She cut off a piece of string. 
+She cut off a piece of string. 
+She cut off a piece of string.
+
+### 페이지 6
+
+그는 헤어진 후 전 여자친구와 완전히 관계를 끊었다. 
+He cut off his ex-girlfriend completely after their breakup. 
+He cut off his ex-girlfriend completely after their breakup. 
+He cut off his ex-girlfriend completely after their breakup.  
+ 
+외식하다 
+eat out 
+eat out 
+eat out  
+ 
+오늘 밤 외식하자; 요리할 기분이 아니야. 
+Let's eat out tonight; I don't feel like cooking. 
+Let's eat out tonight; I don't feel like cooking. 
+Let's eat out tonight; I don't feel like cooking.  
+ 
+일주일에 얼마나 자주 외식하니? 
+How often do you eat out in a week? 
+How often do you eat out in a week? 
+How often do you eat out in a week?  
+ 
+우리는 휴가 중일 때 자주 외식한다. 
+We often eat out when we're on vacation. 
+We often eat out when we're on vacation. 
+We often eat out when we're on vacation.  
+ 
+떨어져 나오다; 싸우다 
+fall out 
+fall out 
+fall out  
+ 
+치료 후에 머리카락이 빠지기 시작했다. 
+My hair started to fall out after the treatment. 
+My hair started to fall out after the treatment. 
+My hair started to fall out after the treatment.
+
+### 페이지 7
+
+그들은 사소한 문제로 싸웠다. 
+They fell out over a trivial matter. 
+They fell out over a trivial matter. 
+They fell out over a trivial matter.  
+ 
+이가 빠지지 않게 조심해! 
+Don't let your teeth fall out! 
+Don't let your teeth fall out! 
+Don't let your teeth fall out!  
+ 
+채워 넣다 작성하다 
+fill in 
+fill in 
+fill in  
+ 
+빈칸을 올바른 답으로 채워 넣으세요. 
+Please fill in the blanks with the correct answers. 
+Please fill in the blanks with the correct answers. 
+Please fill in the blanks with the correct answers.  
+ 
+내가 놓친 것을 알려줄 수 있니? 
+Can you fill me in on what I missed? 
+Can you fill me in on what I missed? 
+Can you fill me in on what I missed?  
+ 
+필수 필드를 모두 채워 넣는 것을 잊지 마세요. 
+Don't forget to fill in all the required fields. 
+Don't forget to fill in all the required fields. 
+Don't forget to fill in all the required fields.  
+ 
+알아내다 발견하다 
+find out 
+find out 
+find out
+
+### 페이지 8
+
+기차가 언제 출발하는지 알아봐야 해. 
+I need to find out when the train leaves. 
+I need to find out when the train leaves. 
+I need to find out when the train leaves.  
+ 
+누가 창문을 깼는지 알아냈니? 
+Did you find out who broke the window? 
+Did you find out who broke the window? 
+Did you find out who broke the window?  
+ 
+다음 주에 결과를 알게 될 것이다. 
+We'll find out the results next week. 
+We'll find out the results next week. 
+We'll find out the results next week.  
+ 
+돌아다니다; 피하다 
+get around 
+get around 
+get around  
+ 
+대중교통으로 시내를 돌아다니기 쉽다. 
+It's easy to get around the city by public transport. 
+It's easy to get around the city by public transport. 
+It's easy to get around the city by public transport.  
+ 
+그는 항상 세금 내는 것을 피하려고 한다. 
+He always tries to get around paying taxes. 
+He always tries to get around paying taxes. 
+He always tries to get around paying taxes.  
+ 
+스캔들 소식은 빠르게 퍼졌다. 
+News of the scandal quickly got around. 
+News of the scandal quickly got around. 
+News of the scandal quickly got around.
+
+### 페이지 9
+
+도망치다 벗어나다; 휴가를 가다 
+get away 
+get away 
+get away  
+ 
+도둑은 경찰에게서 도망치는 데 성공했다. 
+The thief managed to get away from the police. 
+The thief managed to get away from the police. 
+The thief managed to get away from the police.  
+ 
+머리를 비우기 위해 며칠 동안 떠나야겠다. 
+I need to get away for a few days to clear my head. 
+I need to get away for a few days to clear my head. 
+I need to get away for a few days to clear my head.  
+ 
+우리는 주말에 산으로 휴가를 떠나는 것을 좋아한다. 
+We like to get away to the mountains on weekends. 
+We like to get away to the mountains on weekends. 
+We like to get away to the mountains on weekends.  
+ 
+그럭저럭 살아가다 그럭저럭 해내다 
+get by 
+get by 
+get by  
+ 
+지금 급여로 그럭저럭 살아갈 수 있지만 빠듯하다. 
+I can get by on my current salary but it's tight. 
+I can get by on my current salary but it's tight. 
+I can get by on my current salary but it's tight.  
+ 
+걱정 마 우리가 가진 것이 적어도 그럭저럭 해낼 거야. 
+Don't worry we'll get by even if we have less. 
+Don't worry we'll get by even if we have less. 
+Don't worry we'll get by even if we have less.
+
+### 페이지 10
+
+그녀는 프랑스어를 유창하게 하지는 못하지만 그럭저럭 지낼 수 있다. 
+She doesn't speak fluent French but she can get by. 
+She doesn't speak fluent French but she can get by. 
+She doesn't speak fluent French but she can get by.  
+ 
+내리다; 떠나다 
+get off 
+get off 
+get off  
+ 
+우리는 다음 정류장에서 내려야 한다. 
+We need to get off at the next stop. 
+We need to get off at the next stop. 
+We need to get off at the next stop.  
+ 
+오늘 일찍 퇴근해야 한다. 
+I need to get off work early today. 
+I need to get off work early today. 
+I need to get off work early today.  
+ 
+그 범죄자는 경고만 받고 풀려났다. 
+The criminal got off with a warning. 
+The criminal got off with a warning. 
+The criminal got off with a warning.  
+ 
+탑승하다 - 버스 기차 등; 잘 지내다 
+get on 
+get on 
+get on  
+ 
+기차가 출발하기 전에 기차에 탑승하자. 
+Let's get on the train before it leaves. 
+Let's get on the train before it leaves. 
+Let's get on the train before it leaves.
+
+### 페이지 11
+
+나는 동료들과 잘 지낸다. 
+I get on well with my colleagues. 
+I get on well with my colleagues. 
+I get on well with my colleagues.  
+ 
+새 프로젝트는 어떻게 진행되고 있니? 
+How are you getting on with your new project? 
+How are you getting on with your new project? 
+How are you getting on with your new project?  
+ 
+극복하다 회복하다 
+get over 
+get over 
+get over  
+ 
+그는 독감을 극복하는 데 오랜 시간이 걸렸다. 
+It took him a long time to get over the flu. 
+It took him a long time to get over the flu. 
+It took him a long time to get over the flu.  
+ 
+그녀는 대중 연설에 대한 두려움을 극복하려고 노력하고 있다. 
+She's trying to get over her fear of public speaking. 
+She's trying to get over her fear of public speaking. 
+She's trying to get over her fear of public speaking.  
+ 
+과거의 실수를 극복하고 앞으로 나아가야 한다. 
+You need to get over your past mistakes and move on. 
+You need to get over your past mistakes and move on. 
+You need to get over your past mistakes and move on.  
+ 
+포기하다 
+give something up 
+give something up 
+give something up
+
+### 페이지 12
+
+나는 건강을 위해 담배를 끊기로 결정했다. 
+I decided to give up smoking for my health. 
+I decided to give up smoking for my health. 
+I decided to give up smoking for my health.  
+ 
+힘들어도 꿈을 포기하지 마. 
+Don't give up on your dreams even if it's hard. 
+Don't give up on your dreams even if it's hard. 
+Don't give up on your dreams even if it's hard.  
+ 
+그는 오래된 차를 포기해야 했다. 
+He had to give up his old car. 
+He had to give up his old car. 
+He had to give up his old car.  
+ 
+기부하다 거저 주다; 누설하다 
+give away 
+give away 
+give away  
+ 
+그들은 낡은 옷을 자선 단체에 기부하기로 결정했다. 
+They decided to give away their old clothes to charity. 
+They decided to give away their old clothes to charity. 
+They decided to give away their old clothes to charity.  
+ 
+그는 실수로 놀라움을 누설했다. 
+He accidentally gave away the surprise. 
+He accidentally gave away the surprise. 
+He accidentally gave away the surprise.  
+ 
+그 가게는 무료 샘플을 나눠주고 있었다. 
+The store was giving away free samples. 
+The store was giving away free samples. 
+The store was giving away free samples.
+
+### 페이지 13
+
+떠나다; 터지다; 음식이 상하다 
+go off 
+go off 
+go off  
+ 
+그는 작별 인사도 없이 떠났다. 
+He went off without saying goodbye. 
+He went off without saying goodbye. 
+He went off without saying goodbye.  
+ 
+알람이 오전 6시에 울렸다. 
+The alarm went off at 6 AM. 
+The alarm went off at 6 AM. 
+The alarm went off at 6 AM.  
+ 
+이 우유는 상한 냄새가 난다. 
+This milk smells like it's gone off. 
+This milk smells like it's gone off. 
+This milk smells like it's gone off.  
+ 
+계속하다 진행되다 
+go on 
+go on 
+go on  
+ 
+무슨 일이 있어도 쇼는 계속되어야 한다. 
+The show must go on no matter what. 
+The show must go on no matter what. 
+The show must go on no matter what.  
+ 
+여기서 무슨 일이 진행되고 있는 거야? 
+What's going on here? 
+What's going on here? 
+What's going on here?
+
+### 페이지 14
+
+그녀는 장애물에도 불구하고 자신의 계획을 계속하기로 결정했다. 
+She decided to go on with her plans despite the obstacles. 
+She decided to go on with her plans despite the obstacles. 
+She decided to go on with her plans despite the obstacles.  
+ 
+겪다 경험하다; 검토하다 
+go through 
+go through 
+go through  
+ 
+그는 지금 힘든 시간을 겪고 있다. 
+He's going through a tough time right now. 
+He's going through a tough time right now. 
+He's going through a tough time right now.  
+ 
+보고서를 한 줄씩 검토합시다. 
+Let's go through the report line by line. 
+Let's go through the report line by line. 
+Let's go through the report line by line.  
+ 
+그들은 많은 서류 작업을 거쳐야 했다. 
+They had to go through a lot of paperwork. 
+They had to go through a lot of paperwork. 
+They had to go through a lot of paperwork.  
+ 
+기다리다; 단단히 잡다 
+hold on 
+hold on 
+hold on  
+ 
+잠시만 기다려 주세요. 
+Hold on a minute please. 
+Hold on a minute please. 
+Hold on a minute please.
+
+### 페이지 15
+
+밧줄을 단단히 잡으세요! 
+Hold on tight to the rope! 
+Hold on tight to the rope! 
+Hold on tight to the rope!  
+ 
+회사는 경제가 좋아질 때까지 겨우 버티고 있다. 
+The company is just holding on until the economy improves. 
+The company is just holding on until the economy improves. 
+The company is just holding on until the economy improves.  
+ 
+지탱하다 지연시키다; 강탈하다 
+hold up 
+hold up 
+hold up  
+ 
+이 오래된 다리는 더 이상 오래 버티지 못할 것이다. 
+This old bridge won't hold up much longer. 
+This old bridge won't hold up much longer. 
+This old bridge won't hold up much longer.  
+ 
+교통사고가 몇 시간 동안 교통을 지연시켰다. 
+The traffic accident held up traffic for hours. 
+The traffic accident held up traffic for hours. 
+The traffic accident held up traffic for hours.  
+ 
+복면을 쓴 남자가 은행을 강탈했다. 
+A masked man held up the bank. 
+A masked man held up the bank. 
+A masked man held up the bank.  
+ 
+계속 ~하다 
+keep on 
+keep on 
+keep on
+
+### 페이지 16
+
+사소한 일에 계속 불평하지 마. 
+Don't keep on complaining about the small things. 
+Don't keep on complaining about the small things. 
+Don't keep on complaining about the small things.  
+ 
+계속 연습하면 분명히 나아질 거야. 
+If you keep on practicing  you'll definitely improve. 
+If you keep on practicing  you'll definitely improve. 
+If you keep on practicing  you'll definitely improve.  
+ 
+힘든 상황에서도 그는 그저 계속 미소 지었다. 
+He just kept on smiling even when things were tough. 
+He just kept on smiling even when things were tough. 
+He just kept on smiling even when things were tough.  
+ 
+빼다 생략하다 
+leave out 
+leave out 
+leave out  
+ 
+중요한 세부 사항은 빼먹지 마세요. 
+Don't leave out any important details. 
+Don't leave out any important details. 
+Don't leave out any important details.  
+ 
+아무도 그에게 말을 걸지 않아서 그는 소외감을 느꼈다. 
+He felt left out because no one talked to him. 
+He felt left out because no one talked to him. 
+He felt left out because no one talked to him.  
+ 
+나는 실수로 레시피에서 재료 하나를 빼먹었다. 
+I accidentally left out an ingredient in the recipe. 
+I accidentally left out an ingredient in the recipe. 
+I accidentally left out an ingredient in the recipe.
+
+### 페이지 17
+
+~을 돌보다 
+look after 
+look after 
+look after  
+ 
+제가 휴가 간 동안 제 고양이를 돌봐줄 수 있나요? 
+Can you look after my cat while I'm on vacation? 
+Can you look after my cat while I'm on vacation? 
+Can you look after my cat while I'm on vacation?  
+ 
+건강을 돌보는 것이 중요하다. 
+It's important to look after your health. 
+It's important to look after your health. 
+It's important to look after your health.  
+ 
+그녀는 방과 후에 어린 동생들을 돌본다. 
+She looks after her younger siblings after school. 
+She looks after her younger siblings after school. 
+She looks after her younger siblings after school.  
+ 
+~을 보다 
+look at 
+look at 
+look at  
+ 
+5페이지의 그림을 보세요. 
+Please look at the picture on page 5. 
+Please look at the picture on page 5. 
+Please look at the picture on page 5.  
+ 
+그는 놀란 표정으로 나를 바라보았다. 
+He looked at me with surprise. 
+He looked at me with surprise. 
+He looked at me with surprise.
+
+### 페이지 18
+
+다른 관점에서 문제를 바라봅시다. 
+Let's look at the problem from a different angle. 
+Let's look at the problem from a different angle. 
+Let's look at the problem from a different angle.  
+ 
+~을 찾다 
+look for 
+look for 
+look for  
+ 
+그녀는 잃어버린 열쇠를 찾고 있다. 
+She's looking for her lost keys. 
+She's looking for her lost keys. 
+She's looking for her lost keys.  
+ 
+당신은 직업에서 무엇을 찾고 있나요? 
+What are you looking for in a job? 
+What are you looking for in a job? 
+What are you looking for in a job?  
+ 
+우리는 이 문제에 대한 해결책을 찾아야 한다. 
+We need to look for a solution to this problem. 
+We need to look for a solution to this problem. 
+We need to look for a solution to this problem.  
+ 
+~을 조사하다 
+look into 
+look into 
+look into  
+ 
+경찰이 그 문제를 조사하고 있다. 
+The police are looking into the matter. 
+The police are looking into the matter. 
+The police are looking into the matter.
+
+### 페이지 19
+
+이러한 오류가 발생하는 이유를 조사해야 한다. 
+We need to look into why these errors are occurring. 
+We need to look into why these errors are occurring. 
+We need to look into why these errors are occurring.  
+ 
+그들은 확장의 가능성을 조사하기로 결정했다. 
+They decided to look into the possibility of expanding. 
+They decided to look into the possibility of expanding. 
+They decided to look into the possibility of expanding.  
+ 
+조심하다 주의하다 
+look out 
+look out 
+look out  
+ 
+조심해! 차가 오고 있어! 
+Look out! There's a car coming! 
+Look out! There's a car coming! 
+Look out! There's a car coming!  
+ 
+항상 잠재적인 위험에 주의해야 한다. 
+Always look out for potential dangers. 
+Always look out for potential dangers. 
+Always look out for potential dangers.  
+ 
+이 지역에서는 뱀을 조심하세요. 
+Look out for snakes in this area. 
+Look out for snakes in this area. 
+Look out for snakes in this area.  
+ 
+찾아보다 - 정보; 방문하다 
+look up 
+look up 
+look up
+
+### 페이지 20
+
+단어를 모르면 사전에서 찾아볼 수 있다. 
+If you don't know the word you can look it up in the dictionary. 
+If you don't know the word you can look it up in the dictionary. 
+If you don't know the word you can look it up in the dictionary.  
+ 
+그녀의 주소를 찾아보고 카드를 보낼게. 
+I'll look up her address and send her a card. 
+I'll look up her address and send her a card. 
+I'll look up her address and send her a card.  
+ 
+드디어 그에게 상황이 좋아지고 있다. 
+Things are finally looking up for him. 
+Things are finally looking up for him. 
+Things are finally looking up for him.  
+ 
+~로 향하다; ~에 기여하다 
+make for 
+make for 
+make for  
+ 
+하이커들은 가장 가까운 대피소로 향했다. 
+The hikers made for the nearest shelter. 
+The hikers made for the nearest shelter. 
+The hikers made for the nearest shelter.  
+ 
+열심히 일하는 것은 종종 성공에 기여한다. 
+Hard work often makes for success. 
+Hard work often makes for success. 
+Hard work often makes for success.  
+ 
+이러한 요소들은 쾌적한 작업 환경을 조성한다. 
+These factors make for a pleasant working environment. 
+These factors make for a pleasant working environment. 
+These factors make for a pleasant working environment.
+
+### 페이지 21
+
+이해하다 알아보다; 주장하다 
+make out 
+make out 
+make out  
+ 
+나는 그가 무슨 말을 하는지 잘 알아들을 수 없다. 
+I can't quite make out what he's saying. 
+I can't quite make out what he's saying. 
+I can't quite make out what he's saying.  
+ 
+시험은 어떻게 잘 봤니? 
+How did you make out on your exam? 
+How did you make out on your exam? 
+How did you make out on your exam?  
+ 
+그는 자신이 무죄라고 주장하려고 했다. 
+He tried to make out that he was innocent. 
+He tried to make out that he was innocent. 
+He tried to make out that he was innocent.  
+ 
+구성하다; 화해하다; 지어내다 
+make up 
+make up 
+make up  
+ 
+위원회는 다양한 부서의 대표자들로 구성되어 있다. 
+The committee is made up of representatives from various departments. 
+The committee is made up of representatives from various departments. 
+The committee is made up of representatives from various departments.  
+ 
+그들은 싸웠지만 곧 화해했다. 
+They had a fight but they soon made up. 
+They had a fight but they soon made up. 
+They had a fight but they soon made up.
+
+### 페이지 22
+
+그녀는 아이들을 위해 이야기를 지어내는 것을 좋아한다. 
+She likes to make up stories for her children. 
+She likes to make up stories for her children. 
+She likes to make up stories for her children.  
+ 
+다음 단계로 나아가다 이동하다 
+move on 
+move on 
+move on  
+ 
+이제 과거를 뒤로하고 앞으로 나아갈 때이다. 
+It's time to move on and leave the past behind. 
+It's time to move on and leave the past behind. 
+It's time to move on and leave the past behind.  
+ 
+발표자는 다음 슬라이드로 넘어가기로 결정했다. 
+The speaker decided to move on to the next slide. 
+The speaker decided to move on to the next slide. 
+The speaker decided to move on to the next slide.  
+ 
+잠시 휴식을 취한 후 우리는 토론으로 넘어갈 것입니다. 
+After a brief break we'll move on to the discussion. 
+After a brief break we'll move on to the discussion. 
+After a brief break we'll move on to the discussion.  
+ 
+~을 건드리다 ~와 장난치다 
+mess with 
+mess with 
+mess with  
+ 
+무엇을 하는지 모르면 설정을 건드리지 마세요. 
+Don't mess with the settings unless you know what you're doing. 
+Don't mess with the settings unless you know what you're doing. 
+Don't mess with the settings unless you know what you're doing.
+
+### 페이지 23
+
+나를 놀리는 거니? 
+Are you messing with me? 
+Are you messing with me? 
+Are you messing with me?  
+ 
+위험한 화학물질을 다루지 말아야 한다. 
+You shouldn't mess with dangerous chemicals. 
+You shouldn't mess with dangerous chemicals. 
+You shouldn't mess with dangerous chemicals.  
+ 
+시작하다 개시하다 
+kick off 
+kick off 
+kick off  
+ 
+컨퍼런스는 기조연설로 시작될 것이다. 
+The conference will kick off with a keynote speech. 
+The conference will kick off with a keynote speech. 
+The conference will kick off with a keynote speech.  
+ 
+자신을 소개하면서 회의를 시작합시다. 
+Let's kick off the meeting by introducing ourselves. 
+Let's kick off the meeting by introducing ourselves. 
+Let's kick off the meeting by introducing ourselves.  
+ 
+팀은 강력한 승리로 새 시즌을 시작했다. 
+The team kicked off the new season with a strong win. 
+The team kicked off the new season with a strong win. 
+The team kicked off the new season with a strong win.  
+ 
+연기하다 미루다 
+put off 
+put off 
+put off
+
+### 페이지 24
+
+오늘 할 일을 내일로 미루지 마라. 
+Don't put off until tomorrow what you can do today. 
+Don't put off until tomorrow what you can do today. 
+Don't put off until tomorrow what you can do today.  
+ 
+회의는 다음 주로 연기되었다. 
+The meeting has been put off until next week. 
+The meeting has been put off until next week. 
+The meeting has been put off until next week.  
+ 
+그녀의 계속되는 불평은 정말 나를 질리게 한다. 
+Her constant complaining really puts me off. 
+Her constant complaining really puts me off. 
+Her constant complaining really puts me off.  
+ 
+입다 신다 쓰다; 켜다 
+put on 
+put on 
+put on  
+ 
+그녀는 코트를 입고 나갔다. 
+She put on her coat and went out. 
+She put on her coat and went out. 
+She put on her coat and went out.  
+ 
+불 좀 켜주세요. 
+Please put on the light. 
+Please put on the light. 
+Please put on the light.  
+ 
+그들이 공연한 연극은 환상적이었다. 
+The play they put on was fantastic. 
+The play they put on was fantastic. 
+The play they put on was fantastic.
+
+### 페이지 25
+
+출발하다 시작하다 
+set off 
+set off 
+set off  
+ 
+우리는 교통 체증을 피하기 위해 일찍 출발했다. 
+We set off early to avoid the traffic. 
+We set off early to avoid the traffic. 
+We set off early to avoid the traffic.  
+ 
+알람이 일련의 사건들을 촉발했다. 
+The alarm set off a chain reaction of events. 
+The alarm set off a chain reaction of events. 
+The alarm set off a chain reaction of events.  
+ 
+그들은 대륙을 가로지르는 긴 여정을 시작했다. 
+They set off on a long journey across the continent. 
+They set off on a long journey across the continent. 
+They set off on a long journey across the continent.  
+ 
+끄다 차단하다 
+shut off 
+shut off 
+shut off  
+ 
+끝내고 나서 물을 잠그는 것을 잊지 마세요. 
+Don't forget to shut off the water after you finish. 
+Don't forget to shut off the water after you finish. 
+Don't forget to shut off the water after you finish.  
+ 
+폭풍 때문에 전기가 끊겼다. 
+The power was shut off due to the storm. 
+The power was shut off due to the storm. 
+The power was shut off due to the storm.
+
+### 페이지 26
+
+그는 감정을 차단하려고 노력했다. 
+He tried to shut off his emotions. 
+He tried to shut off his emotions. 
+He tried to shut off his emotions.  
+ 
+입 닥쳐! 입을 다물다 
+shut up 
+shut up 
+shut up  
+ 
+제발 조용히 해! 집중하려고 노력 중이야. 
+Please shut up! I'm trying to concentrate. 
+Please shut up! I'm trying to concentrate. 
+Please shut up! I'm trying to concentrate.  
+ 
+선생님은 시끄러운 학생들에게 조용히 하라고 말했다. 
+The teacher told the noisy students to shut up. 
+The teacher told the noisy students to shut up. 
+The teacher told the noisy students to shut up.  
+ 
+그녀는 그가 잠시라도 입을 다물었으면 하고 바랐다. 
+She just wished he would shut up for a minute. 
+She just wished he would shut up for a minute. 
+She just wished he would shut up for a minute.  
+ 
+일어서다; 지지하다; 유효하다 
+stand up 
+stand up 
+stand up  
+ 
+판사가 법정에 들어올 때 일어나 주세요. 
+Please stand up when the judge enters the courtroom. 
+Please stand up when the judge enters the courtroom. 
+Please stand up when the judge enters the courtroom.
+
+### 페이지 27
+
+그는 항상 옳다고 믿는 것을 옹호한다. 
+He always stands up for what he believes is right. 
+He always stands up for what he believes is right. 
+He always stands up for what he believes is right.  
+ 
+너의 알리바이가 면밀한 조사를 견뎌낼 수 있니? 
+Does your alibi stand up to scrutiny? 
+Does your alibi stand up to scrutiny? 
+Does your alibi stand up to scrutiny?  
+ 
+벗다 이륙하다 
+take off 
+take off 
+take off  
+ 
+집에 들어가기 전에 신발을 벗어주세요. 
+Please take off your shoes before entering the house. 
+Please take off your shoes before entering the house. 
+Please take off your shoes before entering the house.  
+ 
+비행기는 20분 후에 이륙할 것이다. 
+The plane will take off in twenty minutes. 
+The plane will take off in twenty minutes. 
+The plane will take off in twenty minutes.  
+ 
+그 프로젝트는 초기 출시 후 정말 성공적으로 시작되었다. 
+The project really took off after the initial launch. 
+The project really took off after the initial launch. 
+The project really took off after the initial launch.  
+ 
+끄다 
+turn off 
+turn off 
+turn off
+
+### 페이지 28
+
+나갈 때 불 끄는 것을 잊지 마세요. 
+Don't forget to turn off the lights when you leave. 
+Don't forget to turn off the lights when you leave. 
+Don't forget to turn off the lights when you leave.  
+ 
+텔레비전 좀 꺼주시겠어요? 
+Could you turn off the television please? 
+Could you turn off the television please? 
+Could you turn off the television please?  
+ 
+그는 회의 중에 휴대폰을 껐다. 
+He turned off his phone during the meeting. 
+He turned off his phone during the meeting. 
+He turned off his phone during the meeting.  
+ 
+이해하다 해결하다 
+figure out 
+figure out 
+figure out  
+ 
+이 새 소프트웨어를 어떻게 사용하는지 알아낼 수 있니? 
+Can you figure out how to use this new software? 
+Can you figure out how to use this new software? 
+Can you figure out how to use this new software?  
+ 
+나는 그가 왜 그랬는지 이해할 수 없다. 
+I can't figure out why he did that. 
+I can't figure out why he did that. 
+I can't figure out why he did that.  
+ 
+이 문제에 대한 해결책을 찾아보자. 
+Let's try to figure out a solution to this problem. 
+Let's try to figure out a solution to this problem. 
+Let's try to figure out a solution to this problem.
+
+### 페이지 29
+
+~을 만회하다 보상하다 
+make up for 
+make up for 
+make up for  
+ 
+잃어버린 시간을 만회하려고 노력할게. 
+I'll try to make up for the lost time. 
+I'll try to make up for the lost time. 
+I'll try to make up for the lost time.  
+ 
+그는 그녀의 생일을 잊은 것을 만회하기 위해 꽃을 사주었다. 
+He bought her flowers to make up for forgetting her birthday. 
+He bought her flowers to make up for forgetting her birthday. 
+He bought her flowers to make up for forgetting her birthday.  
+ 
+그녀의 친절함이 처음의 무례함을 보상했다. 
+Her kindness made up for her initial rudeness. 
+Her kindness made up for her initial rudeness. 
+Her kindness made up for her initial rudeness.  
+ 
+해결하다 정리하다 
+sort out 
+sort out 
+sort out  
+ 
+우리는 이 문제를 즉시 해결해야 한다. 
+We need to sort out this problem immediately. 
+We need to sort out this problem immediately. 
+We need to sort out this problem immediately.  
+ 
+이 오래된 서류들을 정리하는 것을 도와줄 수 있니? 
+Can you help me sort out these old documents? 
+Can you help me sort out these old documents? 
+Can you help me sort out these old documents?
+
+### 페이지 30
+
+그는 자신의 삶을 정리하려고 노력하고 있다. 
+He's trying to sort out his life. 
+He's trying to sort out his life. 
+He's trying to sort out his life.  
+ 
+해결하다 잘 되다; 운동하다 
+work out 
+work out 
+work out  
+ 
+everything will work out in the end. 걱정 마 결국 모든 것이 잘 될 거야. 
+Don't worry 
+Don't worry 
+Don't worry 
+ 
+나는 헬스장에서 더 자주 운동해야 한다. 
+I need to work out at the gym more often. 
+I need to work out at the gym more often. 
+I need to work out at the gym more often.  
+ 
+우리는 계획의 세부 사항을 해결해야 한다. 
+We need to work out the details of the plan. 
+We need to work out the details of the plan. 
+We need to work out the details of the plan.  
+ 
+떨어져 나가다 출발하다 
+pull away 
+pull away 
+pull away  
+ 
+기차가 역에서 천천히 출발했다. 
+The train slowly pulled away from the station. 
+The train slowly pulled away from the station. 
+The train slowly pulled away from the station.
+
+### 페이지 31
+
+그녀는 그의 손아귀에서 벗어나려고 했다. 
+She tried to pull away from his grasp. 
+She tried to pull away from his grasp. 
+She tried to pull away from his grasp.  
+ 
+leaving a cloud of dust. 차가 빠르게 출발하며 먼지 구름을 남겼다. 
+The car pulled away quickly 
+The car pulled away quickly 
+The car pulled away quickly 
+ 
+갓길에 대다 차를 세우다 
+pull over 
+pull over 
+pull over  
+ 
+경찰관이 내게 차를 갓길에 대라고 말했다. 
+The police officer told me to pull over. 
+The police officer told me to pull over. 
+The police officer told me to pull over.  
+ 
+안개 때문에 차를 갓길에 대야 했다. 
+We had to pull over because of the fog. 
+We had to pull over because of the fog. 
+We had to pull over because of the fog.  
+ 
+다음 휴게소에 차를 세워줄 수 있니? 
+Can you pull over at the next rest stop? 
+Can you pull over at the next rest stop? 
+Can you pull over at the next rest stop?  
+ 
+멈추다 세우다; 당겨 올리다 
+pull up 
+pull up 
+pull up
+
+### 페이지 32
+
+차가 집 바로 앞에 멈췄다. 
+The car pulled up right in front of the house. 
+The car pulled up right in front of the house. 
+The car pulled up right in front of the house.  
+ 
+그는 양말을 당겨 올렸다. 
+He pulled up his socks. 
+He pulled up his socks. 
+He pulled up his socks.  
+ 
+경찰차가 갑자기 그들 옆에 멈춰 섰다. 
+A police car suddenly pulled up beside them. 
+A police car suddenly pulled up beside them. 
+A police car suddenly pulled up beside them.  
+ 
+도망치다 
+run away 
+run away 
+run away  
+ 
+개는 천둥소리를 듣고 도망쳤다. 
+The dog ran away when it heard the thunder. 
+The dog ran away when it heard the thunder. 
+The dog ran away when it heard the thunder.  
+ 
+그는 집에서 도망치겠다고 위협했다. 
+He threatened to run away from home. 
+He threatened to run away from home. 
+He threatened to run away from home.  
+ 
+문제에서 도망치지 마. 
+Don't just run away from your problems. 
+Don't just run away from your problems. 
+Don't just run away from your problems.
+
+### 페이지 33
+
+가져가다 치우다 
+take away 
+take away 
+take away  
+ 
+이 빈 접시들을 치워주세요. 
+Please take away these empty plates. 
+Please take away these empty plates. 
+Please take away these empty plates.  
+ 
+이 연설에서 당신이 얻는 주된 메시지는 무엇인가요? 
+What's the main message you take away from this speech? 
+What's the main message you take away from this speech? 
+What's the main message you take away from this speech?  
+ 
+그들은 그의 운전면허를 압수해야 했다. 
+They had to take away his driving license. 
+They had to take away his driving license. 
+They had to take away his driving license.  
+ 
+내려놓다; 진압하다; 적다 
+put down 
+put down 
+put down  
+ 
+가방을 내려놓고 편히 쉬세요. 
+Please put down your bags and relax. 
+Please put down your bags and relax. 
+Please put down your bags and relax.  
+ 
+그 반란은 빠르게 진압되었다. 
+The rebellion was quickly put down. 
+The rebellion was quickly put down. 
+The rebellion was quickly put down.
+
+### 페이지 34
+
+명단에 이름을 적는 것을 잊지 마세요. 
+Don't forget to put down your name on the list. 
+Don't forget to put down your name on the list. 
+Don't forget to put down your name on the list.  
+ 
+불을 끄다; 내놓다 
+put out 
+put out 
+put out  
+ 
+소방관들이 재빨리 불을 껐다. 
+The firefighters quickly put out the fire. 
+The firefighters quickly put out the fire. 
+The firefighters quickly put out the fire.  
+ 
+오늘 밤 쓰레기를 내놓을 수 있니? 
+Can you put out the trash tonight? 
+Can you put out the trash tonight? 
+Can you put out the trash tonight?  
+ 
+그는 나와 악수하기 위해 손을 내밀었다. 
+He put out his hand to shake mine. 
+He put out his hand to shake mine. 
+He put out his hand to shake mine.  
+ 
+조립하다 모으다 
+put together 
+put together 
+put together  
+ 
+이 가구를 조립하는 데 몇 시간이 걸렸다. 
+It took me hours to put together this furniture. 
+It took me hours to put together this furniture. 
+It took me hours to put together this furniture.
+
+### 페이지 35
+
+그녀는 창의적인 아이디어를 모으는 데 능숙하다. 
+She's good at putting together creative ideas. 
+She's good at putting together creative ideas. 
+She's good at putting together creative ideas.  
+ 
+그들은 프로젝트를 위해 훌륭한 팀을 구성했다. 
+They put together a great team for the project. 
+They put together a great team for the project. 
+They put together a great team for the project.  
+ 
+켜다 작동시키다 
+turn on 
+turn on 
+turn on  
+ 
+에어컨 좀 켜주시겠어요? 
+Could you turn on the air conditioner? 
+Could you turn on the air conditioner? 
+Could you turn on the air conditioner?  
+ 
+이메일을 확인하려면 컴퓨터를 켜야 해. 
+I need to turn on my computer to check emails. 
+I need to turn on my computer to check emails. 
+I need to turn on my computer to check emails.  
+ 
+그는 그녀에게 깊은 인상을 주기 위해 매력을 발산했다. 
+He turned on the charm to impress her. 
+He turned on the charm to impress her. 
+He turned on the charm to impress her.  
+ 
+뒤집다 넘기다; 양도하다 
+turn over 
+turn over 
+turn over
+
+### 페이지 36
+
+계속 읽으려면 페이지를 넘겨주세요. 
+Please turn over the page to continue reading. 
+Please turn over the page to continue reading. 
+Please turn over the page to continue reading.  
+ 
+차가 얼어붙은 도로에서 전복되었다. 
+The car turned over on the icy road. 
+The car turned over on the icy road. 
+The car turned over on the icy road.  
+ 
+그는 아들에게 사업을 양도하기로 결정했다. 
+He decided to turn over the business to his son. 
+He decided to turn over the business to his son. 
+He decided to turn over the business to his son.  
+ 
+과시하다 자랑하다 
+show off 
+show off 
+show off  
+ 
+그는 자신의 새 차를 자랑하는 것을 좋아한다. 
+He loves to show off his new car. 
+He loves to show off his new car. 
+He loves to show off his new car.  
+ 
+너무 과시하지 마; 짜증 나. 
+Don't show off too much; it's annoying. 
+Don't show off too much; it's annoying. 
+Don't show off too much; it's annoying.  
+ 
+그녀는 자신의 노래 재능을 과시하려고 했다. 
+She tried to show off her singing talent. 
+She tried to show off her singing talent. 
+She tried to show off her singing talent.
+
+### 페이지 37
+
+튀어나오다 두드러지다 
+stick out 
+stick out 
+stick out  
+ 
+그의 귀는 약간 튀어나와 있다. 
+His ears stick out a bit. 
+His ears stick out a bit. 
+His ears stick out a bit.  
+ 
+새로운 건물은 이웃에서 정말 두드러진다. 
+The new building really sticks out in the neighborhood. 
+The new building really sticks out in the neighborhood. 
+The new building really sticks out in the neighborhood.  
+ 
+혀를 내밀어 보세요. 
+Try to stick out your tongue. 
+Try to stick out your tongue. 
+Try to stick out your tongue.  
+ 
+성공하다 해내다; ~을 벗기다 
+pull off 
+pull off 
+pull off  
+ 
+그들은 어려운 승리를 해냈다. 
+They managed to pull off a difficult victory. 
+They managed to pull off a difficult victory. 
+They managed to pull off a difficult victory.  
+ 
+그는 붙어 있는 뚜껑을 벗기려고 했다. 
+He tried to pull off the stuck lid. 
+He tried to pull off the stuck lid. 
+He tried to pull off the stuck lid.
+
+### 페이지 38
+
+그런 스턴트를 해내려면 많은 기술이 필요하다. 
+It takes a lot of skill to pull off a stunt like that. 
+It takes a lot of skill to pull off a stunt like that. 
+It takes a lot of skill to pull off a stunt like that.  
+ 
+빼내다 철수하다; ~에서 빠져나오다 
+pull out 
+pull out 
+pull out  
+ 
+치과 의사가 그의 이를 뽑아야 했다. 
+The dentist had to pull out his tooth. 
+The dentist had to pull out his tooth. 
+The dentist had to pull out his tooth.  
+ 
+그 회사는 시장에서 철수하기로 결정했다. 
+The company decided to pull out of the market. 
+The company decided to pull out of the market. 
+The company decided to pull out of the market.  
+ 
+그는 불타는 차에서 빠져나올 수 있었다. 
+He managed to pull out of the burning car. 
+He managed to pull out of the burning car. 
+He managed to pull out of the burning car.  
+ 
+줄이다 
+cut back 
+cut back 
+cut back  
+ 
+베이스 소리를 좀 줄여주세요. 
+Please cut back on the bass. 
+Please cut back on the bass. 
+Please cut back on the bass.
+
+### 페이지 39
+
+우리는 볼륨을 줄여야 합니다. 
+We need to cut back the volume. 
+We need to cut back the volume. 
+We need to cut back the volume.  
+ 
+그들은 라이브 공연을 줄이기로 결정했다. 
+They decided to cut back their live performances. 
+They decided to cut back their live performances. 
+They decided to cut back their live performances.  
+ 
+지우다 
+cross out 
+cross out 
+cross out  
+ 
+그는 악보의 몇몇 음표를 지웠다. 
+He crossed out a few notes in the sheet music. 
+He crossed out a few notes in the sheet music. 
+He crossed out a few notes in the sheet music.  
+ 
+나는 틀린 가사를 지웠다. 
+I crossed out the wrong lyric. 
+I crossed out the wrong lyric. 
+I crossed out the wrong lyric.  
+ 
+마음에 들지 않는 부분은 지워야 한다. 
+You should cross out the parts you don't like. 
+You should cross out the parts you don't like. 
+You should cross out the parts you don't like.  
+ 
+어울리다 
+go with 
+go with 
+go with
+
+### 페이지 40
+
+이 멜로디는 영화 주제와 정말 잘 어울린다. 
+This melody really goes with the movie's theme. 
+This melody really goes with the movie's theme. 
+This melody really goes with the movie's theme.  
+ 
+이 노래가 앨범의 전체적인 분위기와 어울리나요? 
+Does this song go with the overall mood of the album? 
+Does this song go with the overall mood of the album? 
+Does this song go with the overall mood of the album?  
+ 
+그녀의 목소리는 밴드의 스타일과 잘 맞지 않았다. 
+Her voice didn't quite go with the band's style. 
+Her voice didn't quite go with the band's style. 
+Her voice didn't quite go with the band's style.  
+ 
+둘러보다 
+look across 
+look across 
+look across  
+ 
+그녀는 드레스 진열대를 둘러보았다. 
+She looked across the rack of dresses. 
+She looked across the rack of dresses. 
+She looked across the rack of dresses.  
+ 
+새로운 재킷을 찾으러 옷가게를 둘러보았다. 
+I looked across the clothing store for a new jacket. 
+I looked across the clothing store for a new jacket. 
+I looked across the clothing store for a new jacket.  
+ 
+그는 진열된 창문을 빠르게 훑어보았다. 
+He quickly looked across the window display. 
+He quickly looked across the window display. 
+He quickly looked across the window display.
+
+### 페이지 41
+
+꺼내다/끌어내다 
+bring out 
+bring out 
+bring out  
+ 
+나는 곧 겨울 코트를 꺼내야 한다. 
+I need to bring out my winter coats soon. 
+I need to bring out my winter coats soon. 
+I need to bring out my winter coats soon.  
+ 
+그 색깔이 당신의 눈을 정말 돋보이게 한다. 
+That color really brings out your eyes. 
+That color really brings out your eyes. 
+That color really brings out your eyes.  
+ 
+이 새로운 패션 트렌드는 사람들의 개성을 이끌어낸다. 
+This new fashion trend brings out the individuality of people. 
+This new fashion trend brings out the individuality of people. 
+This new fashion trend brings out the individuality of people.  
+ 
+앞서나가다/성공하다 
+get ahead 
+get ahead 
+get ahead  
+ 
+그녀는 항상 패션 트렌드에서 앞서나가려고 노력한다. 
+She always tries to get ahead in fashion trends. 
+She always tries to get ahead in fashion trends. 
+She always tries to get ahead in fashion trends.  
+ 
+앞서나가고 싶다면 위험을 감수해야 한다. 
+If you want to get ahead, you need to take risks. 
+If you want to get ahead, you need to take risks. 
+If you want to get ahead, you need to take risks.
+
+### 페이지 42
+
+그는 경력에서 성공하기 위해 열심히 일했다. 
+He worked hard to get ahead in his career. 
+He worked hard to get ahead in his career. 
+He worked hard to get ahead in his career.  
+ 
+뒤처지다 
+fall behind 
+fall behind 
+fall behind  
+ 
+그는 병 때문에 학업에 뒤처졌다. 
+He fell behind in his studies because of illness. 
+He fell behind in his studies because of illness. 
+He fell behind in his studies because of illness.  
+ 
+숙제에 뒤처지지 마세요. 
+Don't fall behind on your assignments. 
+Don't fall behind on your assignments. 
+Don't fall behind on your assignments.  
+ 
+너무 많은 수업을 빠지면 뒤처질 수 있다. 
+If you miss too many classes, you might fall behind. 
+If you miss too many classes, you might fall behind. 
+If you miss too many classes, you might fall behind.  
+ 
+이 수학 문제를 푸는 것을 도와줄 수 있나요? 
+Can you help me figure out this math problem? 
+Can you help me figure out this math problem? 
+Can you help me figure out this math problem?  
+ 
+내가 왜 계속 이 실수를 하는지 모르겠다. 
+I can't figure out why I keep making this mistake. 
+I can't figure out why I keep making this mistake. 
+I can't figure out why I keep making this mistake.
+
+### 페이지 43
+
+설명서를 이해하는 데 시간이 좀 걸렸다. 
+It took me a while to figure out the instructions. 
+It took me a while to figure out the instructions. 
+It took me a while to figure out the instructions.  
+ 
+없이 지내다 
+do without 
+do without 
+do without  
+ 
+이 수업에서는 내 교과서 없이는 안 된다. 
+I can't do without my textbooks for this class. 
+I can't do without my textbooks for this class. 
+I can't do without my textbooks for this class.  
+ 
+우리는 오늘 제대로 된 휴식 없이 지내야 할 것이다. 
+We'll have to do without a proper break today. 
+We'll have to do without a proper break today. 
+We'll have to do without a proper break today.  
+ 
+학생들은 시험 기간에 종종 잠 없이 지내야 한다. 
+Students often have to do without sleep during exam periods. 
+Students often have to do without sleep during exam periods. 
+Students often have to do without sleep during exam periods.  
+ 
+그 기관은 오염의 원인을 조사하고 있다. 
+The agency is looking into the cause of the pollution. 
+The agency is looking into the cause of the pollution. 
+The agency is looking into the cause of the pollution.  
+ 
+우리는 더 지속 가능한 에너지원을 조사해야 한다. 
+We need to look into more sustainable energy sources. 
+We need to look into more sustainable energy sources. 
+We need to look into more sustainable energy sources.
+
+### 페이지 44
+
+위원회는 환경 문제들을 조사하겠다고 약속했다. 
+The committee promised to look into the environmental concerns. 
+The committee promised to look into the environmental concerns. 
+The committee promised to look into the environmental concerns.  
+ 
+구별하다/돋보이게 하다 
+set apart 
+set apart 
+set apart  
+ 
+그것의 독특한 생태계가 이 지역을 특별하게 만든다. 
+Its unique ecosystem sets this area apart. 
+Its unique ecosystem sets this area apart. 
+Its unique ecosystem sets this area apart.  
+ 
+그들의 재활용에 대한 헌신이 다른 회사들과 그들을 차별화한다. 
+Their commitment to recycling sets them apart from other companies. 
+Their commitment to recycling sets them apart from other companies. 
+Their commitment to recycling sets them apart from other companies.  
+ 
+이 공원을 특별하게 만드는 것은 때묻지 않은 자연의 아름다움이다. 
+What sets apart this park is its untouched natural beauty. 
+What sets apart this park is its untouched natural beauty. 
+What sets apart this park is its untouched natural beauty.  
+ 
+마무리하다/가득 채우다 
+top off 
+top off 
+top off  
+ 
+우리 청소 노력을 지역사회 바비큐로 마무리합시다. 
+Let's top off our cleanup efforts with a community BBQ. 
+Let's top off our cleanup efforts with a community BBQ. 
+Let's top off our cleanup efforts with a community BBQ.
+
+### 페이지 45
+
+그들은 최종 나무 심기로 재조림 프로젝트를 마무리하기로 결정했다. 
+They decided to top off the reforestation project with a final tree planting. 
+They decided to top off the reforestation project with a final tree planting. 
+They decided to top off the reforestation project with a final tree planting.  
+ 
+완벽한 날씨가 우리의 친환경 캠핑 여행을 마무리했다. 
+The perfect weather topped off our eco-friendly camping trip. 
+The perfect weather topped off our eco-friendly camping trip. 
+The perfect weather topped off our eco-friendly camping trip.  
+ 
+작업하다/개선하다 
+work on 
+work on 
+work on  
+ 
+우리는 현재 부엌을 리모델링하는 중이다. 
+We're currently working on renovating our kitchen. 
+We're currently working on renovating our kitchen. 
+We're currently working on renovating our kitchen.  
+ 
+그는 새는 지붕을 수리하는 작업을 하고 있다. 
+He's working on repairing the leaky roof. 
+He's working on repairing the leaky roof. 
+He's working on repairing the leaky roof.  
+ 
+그들은 집을 더 에너지 효율적으로 만들기 위해 노력하고 있다. 
+They are working on making their home more energy-efficient. 
+They are working on making their home more energy-efficient. 
+They are working on making their home more energy-efficient.  
+ 
+새 가구를 조립하는 데 몇 시간이 걸렸다. 
+It took us hours to put together the new furniture. 
+It took us hours to put together the new furniture. 
+It took us hours to put together the new furniture.
+
+### 페이지 46
+
+이 책장을 조립하는 것을 도와줄 수 있나요? 
+Can you help me put together this bookshelf? 
+Can you help me put together this bookshelf? 
+Can you help me put together this bookshelf?  
+ 
+집들이 파티 계획을 세워야 한다. 
+We need to put together a plan for the housewarming party. 
+We need to put together a plan for the housewarming party. 
+We need to put together a plan for the housewarming party.  
+ 
+우리는 피자 배달로 이사 날을 마무리했다. 
+We topped off the moving day with a pizza delivery. 
+We topped off the moving day with a pizza delivery. 
+We topped off the moving day with a pizza delivery.  
+ 
+그들은 아름다운 정원으로 새집 건축을 마무리했다. 
+They topped off the new house construction with a beautiful garden. 
+They topped off the new house construction with a beautiful garden. 
+They topped off the new house construction with a beautiful garden.  
+ 
+완벽한 하루를 마무리하기 위해, 우리는 집에서 조용한 저녁을 즐겼다. 
+To top off the perfect day, we enjoyed a quiet evening at home. 
+To top off the perfect day, we enjoyed a quiet evening at home. 
+To top off the perfect day, we enjoyed a quiet evening at home.  
+ 
+눈에 띄다/두드러지다 
+stand out 
+stand out 
+stand out  
+ 
+그 밝은 빨간 드레스는 가게에서 정말 눈에 띈다. 
+That bright red dress really stands out in the store. 
+That bright red dress really stands out in the store. 
+That bright red dress really stands out in the store.
+
+### 페이지 47
+
+그녀는 자신을 돋보이게 하는 옷을 입는 것을 좋아한다. 
+She likes to wear clothes that make her stand out. 
+She likes to wear clothes that make her stand out. 
+She likes to wear clothes that make her stand out.  
+ 
+모든 브랜드 중에서 이것은 품질 면에서 정말 두드러진다. 
+Among all the brands, this one really stands out for its quality. 
+Among all the brands, this one really stands out for its quality. 
+Among all the brands, this one really stands out for its quality.  
+ 
+나는 최신 트렌드를 따라잡기 위해 쇼핑을 가야 한다. 
+I need to go shopping to catch up on the latest trends. 
+I need to go shopping to catch up on the latest trends. 
+I need to go shopping to catch up on the latest trends.  
+ 
+세일 후에는 작은 가게들이 수요를 따라잡기 어렵다. 
+After the sale, it's hard for smaller shops to catch up with the demand. 
+After the sale, it's hard for smaller shops to catch up with the demand. 
+After the sale, it's hard for smaller shops to catch up with the demand.  
+ 
+쇼핑 다 하고 커피 마시면서 얘기 좀 하자. 
+Let's catch up over coffee after we're done shopping. 
+Let's catch up over coffee after we're done shopping. 
+Let's catch up over coffee after we're done shopping.  
+ 
+의지하다/기대하다 
+count on 
+count on 
+count on  
+ 
+이 가게는 항상 좋은 거래를 기대할 수 있다. 
+You can always count on this store for good deals. 
+You can always count on this store for good deals. 
+You can always count on this store for good deals.
+
+### 페이지 48
+
+나는 이 물건을 사기 위해 할인을 기대했다. 
+I counted on the discount to buy this item. 
+I counted on the discount to buy this item. 
+I counted on the discount to buy this item.  
+ 
+우리는 매출을 위해 고객 충성도에 의지한다. 
+We count on customer loyalty for our sales. 
+We count on customer loyalty for our sales. 
+We count on customer loyalty for our sales.  
+ 
+시작하다/차지하다 
+take up 
+take up 
+take up  
+ 
+그녀는 역사 소설 읽기를 시작하기로 결정했다. 
+She decided to take up reading historical novels. 
+She decided to take up reading historical novels. 
+She decided to take up reading historical novels.  
+ 
+독서는 당신의 많은 여가 시간을 차지할 수 있다. 
+Reading can take up a lot of your free time. 
+Reading can take up a lot of your free time. 
+Reading can take up a lot of your free time.  
+ 
+그는 시를 읽는 것을 시작할까 생각 중이다. 
+He's thinking of taking up reading poetry. 
+He's thinking of taking up reading poetry. 
+He's thinking of taking up reading poetry.  
+ 
+이 책에서 얻는 주요 메시지는 무엇인가요? 
+What's the main message you take away from this book? 
+What's the main message you take away from this book? 
+What's the main message you take away from this book?
+
+### 페이지 49
+
+나는 그 전기에서 많은 귀중한 교훈을 얻었다. 
+I took away a lot of valuable lessons from that biography. 
+I took away a lot of valuable lessons from that biography. 
+I took away a lot of valuable lessons from that biography.  
+ 
+작가는 독자들이 희망을 얻어가기를 바란다. 
+The author wants readers to take away a sense of hope. 
+The author wants readers to take away a sense of hope. 
+The author wants readers to take away a sense of hope.  
+ 
+곰곰이 생각하다 
+think over 
+think over 
+think over  
+ 
+이 철학책에서 읽은 내용을 곰곰이 생각할 시간이 필요하다. 
+I need some time to think over what I read in this philosophy book. 
+I need some time to think over what I read in this philosophy book. 
+I need some time to think over what I read in this philosophy book.  
+ 
+그는 밤새도록 줄거리 반전을 곰곰이 생각했다. 
+He spent the whole night thinking over the plot twists. 
+He spent the whole night thinking over the plot twists. 
+He spent the whole night thinking over the plot twists.  
+ 
+비판하기 전에 작가의 의도를 곰곰이 생각해 보십시오. 
+Before you criticize, try to think over the author's intentions. 
+Before you criticize, try to think over the author's intentions. 
+Before you criticize, try to think over the author's intentions.  
+ 
+작성하다 
+fill out 
+fill out 
+fill out
+
+### 페이지 50
+
+입국 심사 양식을 빠짐없이 작성해 주세요. 
+Please fill out the immigration form completely. 
+Please fill out the immigration form completely. 
+Please fill out the immigration form completely.  
+ 
+이 비자 신청서를 작성해야 합니다. 
+You need to fill out this visa application form. 
+You need to fill out this visa application form. 
+You need to fill out this visa application form.  
+ 
+제출하기 전에 모든 필수 항목을 작성했는지 확인하십시오. 
+Make sure to fill out all required fields before you submit. 
+Make sure to fill out all required fields before you submit. 
+Make sure to fill out all required fields before you submit.  
+ 
+어울리다/적응하다 
+fit in 
+fit in 
+fit in  
+ 
+새로운 문화에서 여행할 때 적응하기 어려울 수 있다. 
+It can be hard to fit in when you're traveling in a new culture. 
+It can be hard to fit in when you're traveling in a new culture. 
+It can be hard to fit in when you're traveling in a new culture.  
+ 
+그녀는 현지 관습에 어울리려고 최선을 다했다. 
+She tried her best to fit in with the local customs. 
+She tried her best to fit in with the local customs. 
+She tried her best to fit in with the local customs.  
+ 
+이 옷이 그 고급 레스토랑에 어울릴까요? 
+Do you think this outfit will fit in at the fancy restaurant? 
+Do you think this outfit will fit in at the fancy restaurant? 
+Do you think this outfit will fit in at the fancy restaurant?
+
+### 페이지 51
+
+휴가 때 보통 어떻게 돌아다니나요? 
+How do you usually get around when you're on vacation? 
+How do you usually get around when you're on vacation? 
+How do you usually get around when you're on vacation?  
+ 
+그는 사고 이후로 돌아다니는 데 어려움을 겪는다. 
+He has a hard time getting around since his accident. 
+He has a hard time getting around since his accident. 
+He has a hard time getting around since his accident.  
+ 
+뒤섞다/혼동하다 
+mix up 
+mix up 
+mix up  
+ 
+감독은 새 영화에서 장르를 뒤섞기로 결정했다. 
+The director decided to mix up genres in his new film. 
+The director decided to mix up genres in his new film. 
+The director decided to mix up genres in his new film.  
+ 
+나는 두 주인공의 이름을 종종 혼동한다. 
+I often mix up the names of the two main characters. 
+I often mix up the names of the two main characters. 
+I often mix up the names of the two main characters.  
+ 
+속편과 원본 영화를 혼동하지 마세요. 
+Don't mix up the sequels with the original movie. 
+Don't mix up the sequels with the original movie. 
+Don't mix up the sequels with the original movie.  
+ 
+지적하다/가리키다 
+point out 
+point out 
+point out
+
+### 페이지 52
+
+비평가는 영화 줄거리의 여러 결함을 지적했다. 
+The critic pointed out several flaws in the movie's plot. 
+The critic pointed out several flaws in the movie's plot. 
+The critic pointed out several flaws in the movie's plot.  
+ 
+그는 오류가 발생한 정확한 장면을 지적했다. 
+He pointed out the exact scene where the error occurred. 
+He pointed out the exact scene where the error occurred. 
+He pointed out the exact scene where the error occurred.  
+ 
+영화에서 가장 기억에 남는 대사를 지적해 줄 수 있나요? 
+Can you point out the most memorable line from the film? 
+Can you point out the most memorable line from the film? 
+Can you point out the most memorable line from the film?  
+ 
+머무르다/기다리다 
+stick around 
+stick around 
+stick around  
+ 
+관객들은 엔딩 크레딧 후의 장면을 보기 위해 머무르는 경향이 있다. 
+The audience tends to stick around for the post-credits scene. 
+The audience tends to stick around for the post-credits scene. 
+The audience tends to stick around for the post-credits scene.  
+ 
+다른 사람이 오는지 보기 위해 잠시 머무르자. 
+Let's stick around and see if anyone else arrives. 
+Let's stick around and see if anyone else arrives. 
+Let's stick around and see if anyone else arrives.  
+ 
+그는 상영 후 질문에 답하기 위해 남아있기로 결정했다. 
+He decided to stick around after the screening to answer questions. 
+He decided to stick around after the screening to answer questions. 
+He decided to stick around after the screening to answer questions.
+
+### 페이지 53
+
+활용하다/끌어내다 
+tap into 
+tap into 
+tap into  
+ 
+그 웹툰은 90년대의 향수를 성공적으로 활용했다. 
+The webtoon successfully tapped into the nostalgia of the 90s. 
+The webtoon successfully tapped into the nostalgia of the 90s. 
+The webtoon successfully tapped into the nostalgia of the 90s.  
+ 
+창작자들은 판타지 스토리의 성장하는 시장을 활용했다. 
+The creators tapped into a growing market for fantasy stories. 
+The creators tapped into a growing market for fantasy stories. 
+The creators tapped into a growing market for fantasy stories.  
+ 
+인기를 얻으려면 웹툰은 현재 사회 문제를 활용해야 한다. 
+To be popular, webtoons need to tap into current social issues. 
+To be popular, webtoons need to tap into current social issues. 
+To be popular, webtoons need to tap into current social issues.  
+ 
+이해시키다/전달하다 
+get across 
+get across 
+get across  
+ 
+작가는 등장인물의 감정을 전달하기 위해 생생한 색상을 사용한다. 
+The artist uses vivid colors to get across the character's emotions. 
+The artist uses vivid colors to get across the character's emotions. 
+The artist uses vivid colors to get across the character's emotions.  
+ 
+몇 개의 패널만으로 이야기의 전체 복잡성을 전달하기는 어렵다. 
+It's hard to get across the full complexity of the story in just a few panels. 
+It's hard to get across the full complexity of the story in just a few panels. 
+It's hard to get across the full complexity of the story in just a few panels.
+
+### 페이지 54
+
+이 웹툰으로 어떤 메시지를 전달하려고 하시나요? 
+What message are you trying to get across with this webtoon? 
+What message are you trying to get across with this webtoon? 
+What message are you trying to get across with this webtoon?  
+ 
+생각해내다/제안하다 
+come up with 
+come up with 
+come up with  
+ 
+그 작가는 항상 독특한 줄거리 반전을 생각해낸다. 
+The writer always comes up with unique plot twists. 
+The writer always comes up with unique plot twists. 
+The writer always comes up with unique plot twists.  
+ 
+그들은 다음 시즌을 위해 새로운 캐릭터를 생각해내야 한다. 
+They need to come up with a new character for the next season. 
+They need to come up with a new character for the next season. 
+They need to come up with a new character for the next season.  
+ 
+지속적으로 신선한 아이디어를 생각해내는 것은 어렵다. 
+It's challenging to come up with fresh ideas consistently. 
+It's challenging to come up with fresh ideas consistently. 
+It's challenging to come up with fresh ideas consistently.  
+ 
+기절하다/나눠주다 
+pass out 
+pass out 
+pass out  
+ 
+그는 취미 프로젝트에 너무 열심히 몰두해서 거의 기절할 뻔했다. 
+He worked so hard on his hobby project that he almost passed out. 
+He worked so hard on his hobby project that he almost passed out. 
+He worked so hard on his hobby project that he almost passed out.
+
+### 페이지 55
+
+그녀는 자신의 미술 전시회 초대장을 나눠주었다. 
+She passed out invitations to her art exhibition. 
+She passed out invitations to her art exhibition. 
+She passed out invitations to her art exhibition.  
+ 
+더위 때문에 그는 야외 취미 활동 중에 기절했다. 
+The heat made him pass out during his outdoor hobby. 
+The heat made him pass out during his outdoor hobby. 
+The heat made him pass out during his outdoor hobby.  
+ 
+시작하다/집다 
+pick up 
+pick up 
+pick up  
+ 
+나는 새로운 취미로 그림 그리기를 시작하기로 결정했다. 
+I decided to pick up painting as a new hobby. 
+I decided to pick up painting as a new hobby. 
+I decided to pick up painting as a new hobby.  
+ 
+기타 기본 코드는 쉽게 배울 수 있다. 
+It's easy to pick up basic guitar chords. 
+It's easy to pick up basic guitar chords. 
+It's easy to pick up basic guitar chords.  
+ 
+그는 취미 포럼에서 많은 유용한 팁을 얻었다. 
+He picked up a lot of useful tips from the hobby forum. 
+He picked up a lot of useful tips from the hobby forum. 
+He picked up a lot of useful tips from the hobby forum.  
+ 
+성과를 내다/갚다 
+pay off 
+pay off 
+pay off
+
+### 페이지 56
+
+그녀의 취미에 대한 모든 노력이 마침내 대회에서 우승했을 때 성과를 냈다. 
+All her hard work on her hobby finally paid off when she won the competition. 
+All her hard work on her hobby finally paid off when she won the competition. 
+All her hard work on her hobby finally paid off when she won the competition.  
+ 
+그의 공예에 대한 헌신은 정말 성과를 냈다. 
+His dedication to his craft truly paid off. 
+His dedication to his craft truly paid off. 
+His dedication to his craft truly paid off.  
+ 
+취미로 새로운 언어를 배우는 것은 여행할 때 정말 큰 도움이 될 수 있다. 
+Learning a new language as a hobby can really pay off when you travel. 
+Learning a new language as a hobby can really pay off when you travel. 
+Learning a new language as a hobby can really pay off when you travel.  
+ 
+설득하다 
+talk into 
+talk into 
+talk into  
+ 
+나는 이번 주말에 친구들을 캠핑 가도록 설득했다. 
+I managed to talk my friends into going camping this weekend. 
+I managed to talk my friends into going camping this weekend. 
+I managed to talk my friends into going camping this weekend.  
+ 
+그녀를 글램핑을 시도하도록 설득하는 데 많은 설득이 필요했다. 
+It took a lot of convincing to talk her into trying glamping. 
+It took a lot of convincing to talk her into trying glamping. 
+It took a lot of convincing to talk her into trying glamping.  
+ 
+그는 우리에게 텐트 없이 별 아래에서 자도록 설득하려고 했다. 
+He tried to talk us into sleeping under the stars without a tent. 
+He tried to talk us into sleeping under the stars without a tent. 
+He tried to talk us into sleeping under the stars without a tent.
+
+### 페이지 57
+
+떠나다/포기하다 
+walk away 
+walk away 
+walk away  
+ 
+텐트를 설치한 후, 우리는 짧은 하이킹을 위해 캠핑장에서 잠시 떠나기로 결정했다. 
+After setting up the tent, we decided to walk away from the campsite for a short hike. 
+After setting up the tent, we decided to walk away from the campsite for a short hike. 
+After setting up the tent, we decided to walk away from the campsite for a short hike.  
+ 
+당신은 당신의 책임에서 단순히 떠날 수 없다. 
+You can't just walk away from your responsibilities. 
+You can't just walk away from your responsibilities. 
+You can't just walk away from your responsibilities.  
+ 
+그들은 너무 좌절해서 거의 여행 전체를 포기할 뻔했다. 
+They were so frustrated, they almost walked away from the whole trip. 
+They were so frustrated, they almost walked away from the whole trip. 
+They were so frustrated, they almost walked away from the whole trip.  
+ 
+캠프장에서 한밤중에 화재 경보가 울렸다. 
+The fire alarm went off in the middle of the night at the campsite. 
+The fire alarm went off in the middle of the night at the campsite. 
+The fire alarm went off in the middle of the night at the campsite.  
+ 
+불꽃놀이가 호수 위에서 쾅 소리를 내며 터졌다. 
+The fireworks went off with a bang over the lake. 
+The fireworks went off with a bang over the lake. 
+The fireworks went off with a bang over the lake.  
+ 
+그들은 숲으로 작은 모험을 떠나기로 결정했다. 
+They decided to go off on a little adventure into the woods. 
+They decided to go off on a little adventure into the woods. 
+They decided to go off on a little adventure into the woods.
+
+### 페이지 58
+
+좋은 하이킹 코스에 대한 정보를 좀 찾아봐야 한다. 
+I need to look up some information about good hiking trails. 
+I need to look up some information about good hiking trails. 
+I need to look up some information about good hiking trails.  
+ 
+그 새로운 놀이공원을 찾아봐야 한다. 
+You should look up that new amusement park. 
+You should look up that new amusement park. 
+You should look up that new amusement park.  
+ 
+나는 편안한 피크닉을 위한 최고의 장소들을 찾아볼 것이다. 
+I'll look up the best spots for a relaxing picnic. 
+I'll look up the best spots for a relaxing picnic. 
+I'll look up the best spots for a relaxing picnic.  
+ 
+진행하다/먼저 가다 
+go ahead 
+go ahead 
+go ahead  
+ 
+마음껏 워터 스포츠를 즐기세요. 
+Feel free to go ahead and enjoy the water sports. 
+Feel free to go ahead and enjoy the water sports. 
+Feel free to go ahead and enjoy the water sports.  
+ 
+공원 관리자는 새로운 레저 단지에 대한 허가를 내주었다. 
+The park management gave the go ahead for the new leisure complex. 
+The park management gave the go ahead for the new leisure complex. 
+The park management gave the go ahead for the new leisure complex.  
+ 
+준비가 되었다면, 먼저 가서 게임을 시작해도 좋다. 
+If you're ready, you can go ahead and start the game. 
+If you're ready, you can go ahead and start the game. 
+If you're ready, you can go ahead and start the game.
+
+### 페이지 59
+
+선택하다/가지러 가다 
+go for 
+go for 
+go for  
+ 
+나는 패들보드 대신 카약을 선택할 것 같다. 
+I think I'll go for kayaking instead of paddleboarding. 
+I think I'll go for kayaking instead of paddleboarding. 
+I think I'll go for kayaking instead of paddleboarding.  
+ 
+해변을 따라 길게 산책하러 가자. 
+Let's go for a long walk by the beach. 
+Let's go for a long walk by the beach. 
+Let's go for a long walk by the beach.  
+ 
+그는 가장 도전적인 장애물 코스를 선택하기로 결정했다. 
+He decided to go for the most challenging obstacle course. 
+He decided to go for the most challenging obstacle course. 
+He decided to go for the most challenging obstacle course.  
+ 
+불쑥 나타나다/갑자기 생겨나다 
+pop up 
+pop up 
+pop up  
+ 
+새로운 미술 전시회가 시내에 갑자기 나타났다. 
+A new art exhibition just popped up downtown. 
+A new art exhibition just popped up downtown. 
+A new art exhibition just popped up downtown.  
+ 
+예상치 않게, 몇몇 희귀한 작품들이 갤러리에 불쑥 나타났다. 
+Unexpectedly, a few rare pieces popped up in the gallery. 
+Unexpectedly, a few rare pieces popped up in the gallery. 
+Unexpectedly, a few rare pieces popped up in the gallery.
+
+### 페이지 60
+
+임시 미술 설치물은 종종 공공장소에 갑자기 나타난다. 
+Temporary art installations often pop up in public spaces. 
+Temporary art installations often pop up in public spaces. 
+Temporary art installations often pop up in public spaces.  
+ 
+설치하다/준비하다 
+set up 
+set up 
+set up  
+ 
+그들은 전시물을 설치하는 데 온종일 보냈다. 
+They spent all morning setting up the exhibits. 
+They spent all morning setting up the exhibits. 
+They spent all morning setting up the exhibits.  
+ 
+우리는 사진 전시회를 위한 조명을 설치해야 한다. 
+We need to set up the lighting for the photography exhibition. 
+We need to set up the lighting for the photography exhibition. 
+We need to set up the lighting for the photography exhibition.  
+ 
+박물관 자원봉사자들은 새로운 전시물을 설치하는 것을 도왔다. 
+The museum volunteers helped to set up the new display. 
+The museum volunteers helped to set up the new display. 
+The museum volunteers helped to set up the new display.  
+ 
+잠시 들르다 
+stop by 
+stop by 
+stop by  
+ 
+집에 가는 길에 갤러리에 잠시 들르자. 
+Let's stop by the gallery on our way home. 
+Let's stop by the gallery on our way home. 
+Let's stop by the gallery on our way home.
+
+### 페이지 61
+
+많은 사람들이 새로운 조각상을 감상하기 위해 잠시 들렀다. 
+Many people stopped by to admire the new sculpture. 
+Many people stopped by to admire the new sculpture. 
+Many people stopped by to admire the new sculpture.  
+ 
+시간이 되시면 개막 리셉션에 잠시 들러주세요. 
+Feel free to stop by the opening reception if you have time. 
+Feel free to stop by the opening reception if you have time. 
+Feel free to stop by the opening reception if you have time.  
+ 
+내려오다/병에 걸리다 
+come down 
+come down 
+come down  
+ 
+아장아장 걷는 아이가 드디어 혼자 계단을 내려왔다. 
+The toddler finally came down the stairs by himself. 
+The toddler finally came down the stairs by himself. 
+The toddler finally came down the stairs by himself.  
+ 
+내 아이는 밖에서 놀다가 감기에 걸렸다. 
+My child came down with a cold after playing outside. 
+My child came down with a cold after playing outside. 
+My child came down with a cold after playing outside.  
+ 
+네 여동생에게 저녁 먹으러 내려오라고 말해 줄 수 있니? 
+Can you tell your sister to come down for dinner? 
+Can you tell your sister to come down for dinner? 
+Can you tell your sister to come down for dinner?  
+ 
+돌아다니다/순회하다 
+go around 
+go around 
+go around
+
+### 페이지 62
+
+아기가 가구를 잡고 돌아다니기 시작한다. 
+The baby is starting to go around the furniture. 
+The baby is starting to go around the furniture. 
+The baby is starting to go around the furniture.  
+ 
+부모들은 공원을 돌아다니는 아이를 쫓아가야 했다. 
+The parents had to chase their child who was going around the park. 
+The parents had to chase their child who was going around the park. 
+The parents had to chase their child who was going around the park.  
+ 
+모든 아이들에게 나눠줄 만큼 충분한 사탕이 있다. 
+There's enough candy to go around for all the kids. 
+There's enough candy to go around for all the kids. 
+There's enough candy to go around for all the kids.  
+ 
+어지럽히다/망치다 
+mess up 
+mess up 
+mess up  
+ 
+아이들은 내가 청소한 직후에 항상 방을 어지럽힌다. 
+The kids always mess up their room right after I clean it. 
+The kids always mess up their room right after I clean it. 
+The kids always mess up their room right after I clean it.  
+ 
+방금 정리한 장난감들을 어지럽히지 마세요. 
+Please don't mess up the toys I just organized. 
+Please don't mess up the toys I just organized. 
+Please don't mess up the toys I just organized.  
+ 
+나는 실수로 아기의 수유 일정을 망쳤다. 
+I accidentally messed up the baby's feeding schedule. 
+I accidentally messed up the baby's feeding schedule. 
+I accidentally messed up the baby's feeding schedule.
+
+### 페이지 63
+
+양육하다/화제를 꺼내다 
+bring up 
+bring up 
+bring up  
+ 
+그들은 사랑이 넘치는 환경에서 아이들을 양육할 계획이다. 
+They plan to bring up their children in a loving environment. 
+They plan to bring up their children in a loving environment. 
+They plan to bring up their children in a loving environment.  
+ 
+도시에서 가정을 꾸리는 것은 쉽지 않다. 
+It's not easy to bring up a family in the city. 
+It's not easy to bring up a family in the city. 
+It's not easy to bring up a family in the city.  
+ 
+그는 과거 관계에 대해 언급하는 것을 좋아하지 않는다. 
+He doesn't like to bring up his past relationship. 
+He doesn't like to bring up his past relationship. 
+He doesn't like to bring up his past relationship.  
+ 
+서두르다 
+rush into 
+rush into 
+rush into  
+ 
+충분히 생각하지 않고 결혼을 서두르지 마세요. 
+Don't rush into marriage without thinking it through. 
+Don't rush into marriage without thinking it through. 
+Don't rush into marriage without thinking it through.  
+ 
+그들은 바로 아이를 갖는 것을 서두르지 않기로 결정했다. 
+They decided not to rush into having children right away. 
+They decided not to rush into having children right away. 
+They decided not to rush into having children right away.
+
+### 페이지 64
+
+주요 인생 결정을 서두르는 것은 결코 좋은 생각이 아니다. 
+It's never a good idea to rush into major life decisions. 
+It's never a good idea to rush into major life decisions. 
+It's never a good idea to rush into major life decisions.  
+ 
+의지하다/믿다 
+rely on 
+rely on 
+rely on  
+ 
+결혼 생활에서 배우자들은 서로에게 의지할 수 있어야 한다. 
+In a marriage, partners should be able to rely on each other. 
+In a marriage, partners should be able to rely on each other. 
+In a marriage, partners should be able to rely on each other.  
+ 
+당신은 항상 그에게 지원을 의지할 수 있다. 
+You can always rely on him for support. 
+You can always rely on him for support. 
+You can always rely on him for support.  
+ 
+그들은 관계를 유지하기 위해 명확한 의사소통에 의지한다. 
+They rely on clear communication to maintain their relationship. 
+They rely on clear communication to maintain their relationship. 
+They rely on clear communication to maintain their relationship.  
+ 
+돌보다 
+care for 
+care for 
+care for  
+ 
+반려동물을 돌보는 것은 큰 책임이다. 
+It's a big responsibility to care for a pet. 
+It's a big responsibility to care for a pet. 
+It's a big responsibility to care for a pet.
+
+### 페이지 65
+
+그녀는 자신의 고양이를 마치 자기 자식처럼 돌본다. 
+She cares for her cat like it's her own child. 
+She cares for her cat like it's her own child. 
+She cares for her cat like it's her own child.  
+ 
+우리는 유기 동물을 돌볼 적절한 시설을 확보해야 한다. 
+We need to ensure proper facilities to care for stray animals. 
+We need to ensure proper facilities to care for stray animals. 
+We need to ensure proper facilities to care for stray animals.  
+ 
+우리 강아지가 무엇을 원하는지 알아채기 어려울 때가 있다. 
+It's sometimes hard to make out what my dog wants. 
+It's sometimes hard to make out what my dog wants. 
+It's sometimes hard to make out what my dog wants.  
+ 
+나는 저 고양이의 야옹 소리가 무엇을 의미하는지 알아들을 수 없다. 
+I can't make out what that cat's meow means. 
+I can't make out what that cat's meow means. 
+I can't make out what that cat's meow means.  
+ 
+멀리서도 저 개의 품종을 알아볼 수 있나요? 
+Can you make out the breed of that dog from a distance? 
+Can you make out the breed of that dog from a distance? 
+Can you make out the breed of that dog from a distance?  
+ 
+우연히 만나다 
+run into 
+run into 
+run into  
+ 
+나는 공원에서 다른 강아지 주인들을 자주 우연히 만난다. 
+I often run into other dog owners at the park. 
+I often run into other dog owners at the park. 
+I often run into other dog owners at the park.
+
+### 페이지 66
+
+우리는 반려동물을 산책시키다가 옛 친구를 우연히 만났다. 
+We ran into an old friend while walking our pet. 
+We ran into an old friend while walking our pet. 
+We ran into an old friend while walking our pet.  
+ 
+공격적인 동물들과 문제가 생기지 않도록 조심하세요. 
+Be careful not to run into any trouble with aggressive animals. 
+Be careful not to run into any trouble with aggressive animals. 
+Be careful not to run into any trouble with aggressive animals.  
+ 
+재택근무를 하면서 아이들을 돌보는 것은 어려울 수 있다. 
+It can be challenging to look after children while working from home. 
+It can be challenging to look after children while working from home. 
+It can be challenging to look after children while working from home.  
+ 
+그녀는 근무 시간 동안 노부모를 돌봐야 한다. 
+She has to look after her elderly parents during her work hours. 
+She has to look after her elderly parents during her work hours. 
+She has to look after her elderly parents during her work hours.  
+ 
+통화 중일 때 누가 강아지를 돌볼 건가요? 
+Who will look after the dog when you're on a call? 
+Who will look after the dog when you're on a call? 
+Who will look after the dog when you're on a call?  
+ 
+놓치다 
+miss out 
+miss out 
+miss out  
+ 
+원격 근무라고 해서 중요한 팀 회의를 놓치지 마세요. 
+Don't miss out on important team meetings just because you're working remotely. 
+Don't miss out on important team meetings just because you're working remotely. 
+Don't miss out on important team meetings just because you're working remotely.
+
+### 페이지 67
+
+그는 사무실 사교 행사를 놓치고 있다고 느꼈다. 
+He felt like he was missing out on office social events. 
+He felt like he was missing out on office social events. 
+He felt like he was missing out on office social events.  
+ 
+중요한 업데이트를 놓치고 싶지 않다. 
+I don't want to miss out on any important updates. 
+I don't want to miss out on any important updates. 
+I don't want to miss out on any important updates.  
+ 
+회복하다/돌아보다 
+turn around 
+turn around 
+turn around  
+ 
+우리는 원격 근무 중 생산성을 회복해야 한다. 
+We need to turn around our productivity during remote work. 
+We need to turn around our productivity during remote work. 
+We need to turn around our productivity during remote work.  
+ 
+회사는 유연한 근무 옵션으로 성과를 회복할 수 있었다. 
+The company managed to turn around its performance with flexible work options. 
+The company managed to turn around its performance with flexible work options. 
+The company managed to turn around its performance with flexible work options.  
+ 
+집에서 일과 삶의 균형을 회복하는 데 시간이 좀 걸렸다. 
+It took some time to turn around the work-life balance while at home. 
+It took some time to turn around the work-life balance while at home. 
+It took some time to turn around the work-life balance while at home.  
+ 
+대중교통 덕분에 이 도시에서는 차 없이도 그럭저럭 지낼 수 있다. 
+You can get by in this city without a car, thanks to public transport. 
+You can get by in this city without a car, thanks to public transport. 
+You can get by in this city without a car, thanks to public transport.
+
+### 페이지 68
+
+버스표 하나로도 그럭저럭 지낼 수 있다. 
+We can get by with just one bus ticket. 
+We can get by with just one bus ticket. 
+We can get by with just one bus ticket.  
+ 
+그는 일일 통근을 위해 빠듯한 예산으로 그럭저럭 지낸다. 
+He manages to get by on a tight budget for his daily commute. 
+He manages to get by on a tight budget for his daily commute. 
+He manages to get by on a tight budget for his daily commute.  
+ 
+통과하다/자세히 설명하다 
+walk through 
+walk through 
+walk through  
+ 
+우리는 역에 가기 위해 매우 좁은 지하 통로를 걸어 통과해야 했다. 
+We had to walk through a very narrow underpass to get to the station. 
+We had to walk through a very narrow underpass to get to the station. 
+We had to walk through a very narrow underpass to get to the station.  
+ 
+경찰은 사고 현장을 자세히 조사했다. 
+The police walked through the scene of the accident. 
+The police walked through the scene of the accident. 
+The police walked through the scene of the accident.  
+ 
+새로운 교통 앱 사용 단계를 자세히 설명해 줄 수 있나요? 
+Can you walk me through the steps for using the new traffic app? 
+Can you walk me through the steps for using the new traffic app? 
+Can you walk me through the steps for using the new traffic app?  
+ 
+시의회는 교통 체증 문제에 대한 해결책을 찾으려고 노력하고 있다. 
+The city council is trying to work out a solution to the traffic congestion. 
+The city council is trying to work out a solution to the traffic congestion. 
+The city council is trying to work out a solution to the traffic congestion.
+
+### 페이지 69
+
+새로운 통근 경로가 잘 풀리기를 바랍니다. 
+I hope everything works out with your new commute route. 
+I hope everything works out with your new commute route. 
+I hope everything works out with your new commute route.  
+ 
+그들은 대중교통 개선을 위한 계획을 세워야 한다. 
+They need to work out a plan for public transportation improvements. 
+They need to work out a plan for public transportation improvements. 
+They need to work out a plan for public transportation improvements.  
+ 
+존경하다 
+look up to 
+look up to 
+look up to  
+ 
+젊은 운전자들은 종종 경험 많은 프로 레이서들을 존경한다. 
+Young drivers often look up to experienced professional racers. 
+Young drivers often look up to experienced professional racers. 
+Young drivers often look up to experienced professional racers.  
+ 
+그는 자신의 운전 강사를 정말 존경한다. 
+He really looks up to his driving instructor. 
+He really looks up to his driving instructor. 
+He really looks up to his driving instructor.  
+ 
+많은 사람들이 안전하고 책임감 있게 운전하는 사람들을 존경한다. 
+Many people look up to those who drive safely and responsibly. 
+Many people look up to those who drive safely and responsibly. 
+Many people look up to those who drive safely and responsibly.  
+ 
+지치게 하다/닳게 하다 
+wear out 
+wear out 
+wear out
+
+### 페이지 70
+
+장거리 운전은 정말 당신을 지치게 할 수 있다. 
+Long-distance driving can really wear you out. 
+Long-distance driving can really wear you out. 
+Long-distance driving can really wear you out.  
+ 
+오래된 타이어는 완전히 닳았다. 
+The old tires are completely worn out. 
+The old tires are completely worn out. 
+The old tires are completely worn out.  
+ 
+교통 체증이 심한 곳에서 운전하는 것은 당신의 인내심을 빠르게 지치게 할 수 있다. 
+Driving in heavy traffic can quickly wear out your patience. 
+Driving in heavy traffic can quickly wear out your patience. 
+Driving in heavy traffic can quickly wear out your patience.  
+ 
+설득하여 ~을 그만두게 하다 
+talk out of 
+talk out of 
+talk out of  
+ 
+나는 그가 피곤할 때 운전하는 것을 그만두게 설득하려고 했다. 
+I tried to talk him out of driving when he was tired. 
+I tried to talk him out of driving when he was tired. 
+I tried to talk him out of driving when he was tired.  
+ 
+그의 친구들은 그가 공공 도로에서 경주하는 것을 그만두게 설득했다. 
+His friends talked him out of racing on public roads. 
+His friends talked him out of racing on public roads. 
+His friends talked him out of racing on public roads.  
+ 
+그녀는 남편이 위험한 오래된 차를 사는 것을 그만두게 설득할 수 있었다. 
+She managed to talk her husband out of buying a dangerous old car. 
+She managed to talk her husband out of buying a dangerous old car. 
+She managed to talk her husband out of buying a dangerous old car.
+
+### 페이지 71
+
+그녀는 위험에도 불구하고 성공적인 경력 전환을 해낼 수 있었다. 
+She managed to pull off a successful career change despite the risks. 
+She managed to pull off a successful career change despite the risks. 
+She managed to pull off a successful career change despite the risks.  
+ 
+어려운 움직임이었지만, 그는 그것을 완벽하게 해냈다. 
+It was a difficult move, but he pulled it off perfectly. 
+It was a difficult move, but he pulled it off perfectly. 
+It was a difficult move, but he pulled it off perfectly.  
+ 
+그 나이에 완전한 경력 전환을 해낼 수 있는 사람은 소수에 불과하다. 
+Only a few people can pull off a complete career change at that age. 
+Only a few people can pull off a complete career change at that age. 
+Only a few people can pull off a complete career change at that age.  
+ 
+맡다/떠맡다 
+take on 
+take on 
+take on  
+ 
+그는 다른 회사에서 새로운 도전적인 역할을 맡기로 결정했다. 
+He decided to take on a new challenging role at a different company. 
+He decided to take on a new challenging role at a different company. 
+He decided to take on a new challenging role at a different company.  
+ 
+이 새로운 직업으로 더 많은 책임을 맡을 준비가 되셨나요? 
+Are you ready to take on more responsibilities with this new job? 
+Are you ready to take on more responsibilities with this new job? 
+Are you ready to take on more responsibilities with this new job?  
+ 
+그녀는 최근 이직 후 새로운 프로젝트를 맡게 되어 기대하고 있다. 
+She's excited to take on new projects after her recent job change. 
+She's excited to take on new projects after her recent job change. 
+She's excited to take on new projects after her recent job change.
+
+### 페이지 72
+
+그의 가족은 그가 안정적인 직장을 떠나는 것을 그만두게 설득하려고 했다. 
+His family tried to talk him out of leaving his stable job. 
+His family tried to talk him out of leaving his stable job. 
+His family tried to talk him out of leaving his stable job.  
+ 
+누군가가 이미 내린 결정을 그만두게 설득하는 것은 어렵다. 
+It's hard to talk someone out of a decision they've already made. 
+It's hard to talk someone out of a decision they've already made. 
+It's hard to talk someone out of a decision they've already made.  
+ 
+아무도 그녀가 꿈의 직장을 위해 다른 나라로 이사하는 것을 그만두게 설득할 수 없었다. 
+No one could talk her out of moving to another country for her dream job. 
+No one could talk her out of moving to another country for her dream job. 
+No one could talk her out of moving to another country for her dream job.  
+ 
+속아 넘어가다/사랑에 빠지다 
+fall for 
+fall for 
+fall for  
+ 
+소셜 미디어에 떠도는 가짜 뉴스에 속아 넘어가지 마세요. 
+Don't fall for fake news circulating on social media. 
+Don't fall for fake news circulating on social media. 
+Don't fall for fake news circulating on social media.  
+ 
+많은 사람들이 클릭 유도성 제목에 속아 넘어간다. 
+Many people fall for clickbait headlines. 
+Many people fall for clickbait headlines. 
+Many people fall for clickbait headlines.  
+ 
+온라인에서 오해의 소지가 있는 정보에 속아 넘어가기 쉽다. 
+It's easy to fall for misleading information online. 
+It's easy to fall for misleading information online. 
+It's easy to fall for misleading information online.
+
+### 페이지 73
+
+거절하다/줄이다 
+turn down 
+turn down 
+turn down  
+ 
+그녀는 많은 협업 요청을 거절해야 했다. 
+She had to turn down many collaboration requests. 
+She had to turn down many collaboration requests. 
+She had to turn down many collaboration requests.  
+ 
+그는 자신이 믿지 않는 제품을 홍보하라는 수익성 있는 제안을 거절했다. 
+He turned down a lucrative offer to promote a product he didn't believe in. 
+He turned down a lucrative offer to promote a product he didn't believe in. 
+He turned down a lucrative offer to promote a product he didn't believe in.  
+ 
+새로운 사람들과 연결될 기회를 거절하지 마세요. 
+Don't turn down the opportunity to connect with new people. 
+Don't turn down the opportunity to connect with new people. 
+Don't turn down the opportunity to connect with new people.  
+ 
+다시 연락하다 
+get back to 
+get back to 
+get back to  
+ 
+그 댓글에 대해서는 나중에 다시 연락드리겠습니다. 
+I'll get back to you on that comment later. 
+I'll get back to you on that comment later. 
+I'll get back to you on that comment later.  
+ 
+소셜 미디어 관리자는 모든 사용자 문의에 다시 연락하겠다고 약속했다. 
+The social media manager promised to get back to all user inquiries. 
+The social media manager promised to get back to all user inquiries. 
+The social media manager promised to get back to all user inquiries.
+
+### 페이지 74
+
+메시지를 남겨주시면 가능한 한 빨리 다시 연락드리겠습니다. 
+Please leave a message, and I'll get back to you as soon as possible. 
+Please leave a message, and I'll get back to you as soon as possible. 
+Please leave a message, and I'll get back to you as soon as possible.  
+ 
+정착하다/진정하다 
+settle down 
+settle down 
+settle down  
+ 
+많은 것을 시도한 후, 그는 한 가지 자기계발 분야에 정착하고 집중하기로 결정했다. 
+After trying many things, he decided to settle down and focus on one area of self-improvement. 
+After trying many things, he decided to settle down and focus on one area of self-improvement. 
+After trying many things, he decided to settle down and focus on one area of self-improvement.  
+ 
+이제 정착하여 목표에 전념할 시간이다. 
+It's time to settle down and dedicate yourself to your goals. 
+It's time to settle down and dedicate yourself to your goals. 
+It's time to settle down and dedicate yourself to your goals.  
+ 
+그녀는 개인적인 성장을 위해 일관된 루틴에 정착하려고 노력하고 있다. 
+She's trying to settle down into a consistent routine for her personal growth. 
+She's trying to settle down into a consistent routine for her personal growth. 
+She's trying to settle down into a consistent routine for her personal growth.  
+ 
+그의 자기계발 여정은 명상을 시작한 후 정말 급성장했다. 
+His self-improvement journey really took off after he started meditating. 
+His self-improvement journey really took off after he started meditating. 
+His self-improvement journey really took off after he started meditating.  
+ 
+그녀의 경력은 자신에게 투자한 후 급성장했다. 
+Her career took off after she invested in herself. 
+Her career took off after she invested in herself. 
+Her career took off after she invested in herself.
+
+### 페이지 75
+
+새로운 자기계발서는 정말 급성장하고 있다. 
+The new self-help book is really taking off. 
+The new self-help book is really taking off. 
+The new self-help book is really taking off.  
+ 
+마무리하다 
+wrap up 
+wrap up 
+wrap up  
+ 
+이 자기계발 세션을 요약으로 마무리합시다. 
+Let's wrap up this self-improvement session with a summary. 
+Let's wrap up this self-improvement session with a summary. 
+Let's wrap up this self-improvement session with a summary.  
+ 
+그는 새로운 것을 시작하기 전에 현재 학습 프로젝트를 마무리해야 한다. 
+He needs to wrap up his current learning project before starting a new one. 
+He needs to wrap up his current learning project before starting a new one. 
+He needs to wrap up his current learning project before starting a new one.  
+ 
+이제 개인 성장에 대한 우리의 논의를 마무리할 시간이다. 
+It's time to wrap up our discussion on personal growth. 
+It's time to wrap up our discussion on personal growth. 
+It's time to wrap up our discussion on personal growth.  
+ 
+노후를 위한 모든 재정적 옵션을 검토하는 것이 중요하다. 
+It's important to go through all your financial options for retirement. 
+It's important to go through all your financial options for retirement. 
+It's important to go through all your financial options for retirement.  
+ 
+그들은 황금기를 위해 많은 계획을 세우는 중이다. 
+They are going through a lot of planning for their golden years. 
+They are going through a lot of planning for their golden years. 
+They are going through a lot of planning for their golden years.
+
+### 페이지 76
+
+매년 노후 자금을 검토해야 한다. 
+You should go through your retirement savings annually. 
+You should go through your retirement savings annually. 
+You should go through your retirement savings annually.  
+ 
+많은 사람들이 은퇴 후에도 파트타임 직업을 계속하는 것을 선택한다. 
+Many people choose to carry on with a part-time job even after retirement. 
+Many people choose to carry on with a part-time job even after retirement. 
+Many people choose to carry on with a part-time job even after retirement.  
+ 
+그녀는 은퇴 후에도 오랫동안 취미를 계속하고 싶어 한다. 
+She wants to carry on with her hobbies long into her retirement. 
+She wants to carry on with her hobbies long into her retirement. 
+She wants to carry on with her hobbies long into her retirement.  
+ 
+그는 지역사회에서 계속 자원봉사할 계획이다. 
+He plans to carry on volunteering in his community. 
+He plans to carry on volunteering in his community. 
+He plans to carry on volunteering in his community.  
+ 
+사망하다 
+pass away 
+pass away 
+pass away  
+ 
+그 부부는 사망하기 전에 유언장을 정리해 두었다. 
+The couple made sure their wills were in order before they passed away. 
+The couple made sure their wills were in order before they passed away. 
+The couple made sure their wills were in order before they passed away.  
+ 
+사망하기 전에 마지막 소원을 논의하는 것이 현명하다. 
+It's wise to discuss your final wishes before you pass away. 
+It's wise to discuss your final wishes before you pass away. 
+It's wise to discuss your final wishes before you pass away.
+
+### 페이지 77
+
+그들은 사망한 후에 가족들이 재정적으로 안정될 것을 보장했다. 
+They ensured their family would be financially secure after they passed away. 
+They ensured their family would be financially secure after they passed away. 
+They ensured their family would be financially secure after they passed away.  
+ 
+도달하다/영향을 미치다 
+get to 
+get to 
+get to  
+ 
+그의 가혹한 말은 정말 그녀의 마음에 와닿았다. 
+His harsh words really got to her. 
+His harsh words really got to her. 
+His harsh words really got to her.  
+ 
+부정적인 생각이 당신을 지배하게 두지 마세요. 
+Don't let negativity get to you. 
+Don't let negativity get to you. 
+Don't let negativity get to you.  
+ 
+슬픈 영화가 정말 내 마음에 와닿았고, 나는 울었다. 
+The sad movie really got to me, and I cried. 
+The sad movie really got to me, and I cried. 
+The sad movie really got to me, and I cried.  
+ 
+억제하다/숨기다 
+hold back 
+hold back 
+hold back  
+ 
+그녀는 눈물을 참으려 했지만, 그럴 수 없었다. 
+She tried to hold back her tears, but couldn't. 
+She tried to hold back her tears, but couldn't. 
+She tried to hold back her tears, but couldn't.
+
+### 페이지 78
+
+그는 더 이상 분노를 억제할 수 없었다. 
+He couldn't hold back his anger any longer. 
+He couldn't hold back his anger any longer. 
+He couldn't hold back his anger any longer.  
+ 
+당신의 진정한 감정을 숨기지 마세요. 
+Don't hold back your true feelings. 
+Don't hold back your true feelings. 
+Don't hold back your true feelings.  
+ 
+바닥나다 
+run out of 
+run out of 
+run out of  
+ 
+나는 인내심이 바닥나기 시작한다. 
+I'm starting to run out of patience. 
+I'm starting to run out of patience. 
+I'm starting to run out of patience.  
+ 
+몇 시간의 격렬한 토론 후에, 우리는 에너지가 바닥났다. 
+After hours of intense discussion, we ran out of energy. 
+After hours of intense discussion, we ran out of energy. 
+After hours of intense discussion, we ran out of energy.  
+ 
+그 프로젝트에 대한 그의 열정은 결국 바닥났다. 
+His enthusiasm for the project eventually ran out. 
+His enthusiasm for the project eventually ran out. 
+His enthusiasm for the project eventually ran out.  
+ 
+거스르다/반대하다 
+go against 
+go against 
+go against
+
+### 페이지 79
+
+그녀는 전통적인 화장 트렌드를 거스르는 것을 좋아한다. 
+She likes to go against traditional makeup trends. 
+She likes to go against traditional makeup trends. 
+She likes to go against traditional makeup trends.  
+ 
+그 밝은 아이섀도는 공식적인 복장 규정에 어긋날 수 있다. 
+That bright eyeshadow might go against the formal dress code. 
+That bright eyeshadow might go against the formal dress code. 
+That bright eyeshadow might go against the formal dress code.  
+ 
+일부 아티스트들은 의도적으로 일반적인 미의 기준에 반대한다. 
+Some artists intentionally go against common beauty standards. 
+Some artists intentionally go against common beauty standards. 
+Some artists intentionally go against common beauty standards.  
+ 
+새로운 화장 스타일에 도전하는 것을 주저하지 마세요. 
+Don't hold back from experimenting with new makeup styles. 
+Don't hold back from experimenting with new makeup styles. 
+Don't hold back from experimenting with new makeup styles.  
+ 
+그녀는 모든 새로운 립스틱을 사는 것을 참아야 했다. 
+She had to hold back from buying all the new lipsticks. 
+She had to hold back from buying all the new lipsticks. 
+She had to hold back from buying all the new lipsticks.  
+ 
+너무 많은 파운데이션은 당신의 자연스러운 빛을 방해할 수 있다. 
+Too much foundation can hold back your natural glow. 
+Too much foundation can hold back your natural glow. 
+Too much foundation can hold back your natural glow.  
+ 
+내가 가장 좋아하는 마스카라가 거의 다 떨어져간다. 
+I'm about to run out of my favorite mascara. 
+I'm about to run out of my favorite mascara. 
+I'm about to run out of my favorite mascara.
+
+### 페이지 80
+
+파운데이션이 다 떨어져서 임시방편으로 해야 했다. 
+We ran out of foundation, so I had to improvise. 
+We ran out of foundation, so I had to improvise. 
+We ran out of foundation, so I had to improvise.  
+ 
+그녀는 필수품이 떨어지지 않도록 항상 여분의 화장품을 산다. 
+She always buys extra makeup so she never runs out of essentials. 
+She always buys extra makeup so she never runs out of essentials. 
+She always buys extra makeup so she never runs out of essentials.  
+ 
+돌리다/나눠주다 
+pass around 
+pass around 
+pass around  
+ 
+축구 선수들은 경기장 주위로 빠르게 공을 돌렸다. 
+The soccer players quickly passed the ball around the field. 
+The soccer players quickly passed the ball around the field. 
+The soccer players quickly passed the ball around the field.  
+ 
+경기 중에 칩을 나눠 먹자. 
+Let's pass around the chips during the game. 
+Let's pass around the chips during the game. 
+Let's pass around the chips during the game.  
+ 
+트로피는 우승팀 선수들 사이에서 돌려졌다. 
+The trophy was passed around among the winning team members. 
+The trophy was passed around among the winning team members. 
+The trophy was passed around among the winning team members.  
+ 
+비축하다/충전하다 
+stock up 
+stock up 
+stock up
+
+### 페이지 81
+
+운동선수들은 큰 경주 전에 탄수화물을 비축해야 한다. 
+Athletes need to stock up on carbs before a big race. 
+Athletes need to stock up on carbs before a big race. 
+Athletes need to stock up on carbs before a big race.  
+ 
+경기 밤을 위해 음료를 비축해야 한다. 
+We need to stock up on drinks for the game night. 
+We need to stock up on drinks for the game night. 
+We need to stock up on drinks for the game night.  
+ 
+그는 마라톤 동안 깨어있기 위해 에너지 드링크를 비축했다. 
+He stocked up on energy drinks to stay awake during the marathon. 
+He stocked up on energy drinks to stay awake during the marathon. 
+He stocked up on energy drinks to stay awake during the marathon.  
+ 
+그들은 경기 후반에 초반 실수를 만회하려고 노력했다. 
+They tried to make up for their early mistakes in the second half of the game. 
+They tried to make up for their early mistakes in the second half of the game. 
+They tried to make up for their early mistakes in the second half of the game.  
+ 
+강력한 수비는 종종 약한 공격을 만회할 수 있다. 
+A strong defense can often make up for a weak offense. 
+A strong defense can often make up for a weak offense. 
+A strong defense can often make up for a weak offense.  
+ 
+우리는 훈련에서 잃어버린 시간을 만회해야 한다. 
+We need to make up for the lost time in training. 
+We need to make up for the lost time in training. 
+We need to make up for the lost time in training.  
+ 
+분해되다/무너지다/망가지다 
+fall apart 
+fall apart 
+fall apart
+
+### 페이지 82
+
+오래된 건물이 무너지기 시작한다. 
+The old building is starting to fall apart. 
+The old building is starting to fall apart. 
+The old building is starting to fall apart.  
+ 
+자금 지원이 중단되자 프로젝트에 대한 그의 계획은 무너지기 시작했다. 
+His plans for the project began to fall apart when funding was cut. 
+His plans for the project began to fall apart when funding was cut. 
+His plans for the project began to fall apart when funding was cut.  
+ 
+새로운 정책 아래 경제가 무너지는 것처럼 보인다. 
+The economy seems to be falling apart under the new policies. 
+The economy seems to be falling apart under the new policies. 
+The economy seems to be falling apart under the new policies.  
+ 
+진입하다/관여하다 
+get into 
+get into 
+get into  
+ 
+경제가 불황에 진입하기 시작했다. 
+The economy started to get into a recession. 
+The economy started to get into a recession. 
+The economy started to get into a recession.  
+ 
+우리는 또 다른 금융 위기에 빠지지 않으려고 노력하고 있다. 
+We are trying not to get into another financial crisis. 
+We are trying not to get into another financial crisis. 
+We are trying not to get into another financial crisis.  
+ 
+회사는 매출이 지속적으로 감소하는 상황에 빠지지 않도록 조심한다. 
+The company is careful not to get into a situation where sales are constantly decreasing. 
+The company is careful not to get into a situation where sales are constantly decreasing. 
+The company is careful not to get into a situation where sales are constantly decreasing.
+
+### 페이지 83
+
+포기하다 
+give up 
+give up 
+give up  
+ 
+많은 소기업들이 경기 침체기에 포기해야 했다. 
+Many small businesses had to give up during the economic downturn. 
+Many small businesses had to give up during the economic downturn. 
+Many small businesses had to give up during the economic downturn.  
+ 
+상황이 암울해 보여도 희망을 포기하지 마세요. 
+Don't give up hope even when things look bleak. 
+Don't give up hope even when things look bleak. 
+Don't give up hope even when things look bleak.  
+ 
+팀은 승리 가능성이 줄어들었음에도 불구하고 포기하지 않았다. 
+The team refused to give up despite the decreasing chances of winning. 
+The team refused to give up despite the decreasing chances of winning. 
+The team refused to give up despite the decreasing chances of winning.  
+ 
+옹호하다/지지하다 
+stand up for 
+stand up for 
+stand up for  
+ 
+당신은 항상 깨끗한 환경을 옹호해야 한다. 
+You should always stand up for a clean environment. 
+You should always stand up for a clean environment. 
+You should always stand up for a clean environment.  
+ 
+그녀는 종종 더 엄격한 청소 기준을 옹호한다. 
+She often stands up for stricter cleaning standards. 
+She often stands up for stricter cleaning standards. 
+She often stands up for stricter cleaning standards.
+
+### 페이지 84
+
+우리는 청소 직원의 권리를 옹호해야 한다. 
+We need to stand up for the rights of our cleaning staff. 
+We need to stand up for the rights of our cleaning staff. 
+We need to stand up for the rights of our cleaning staff.  
+ 
+일단 청소 모드에 진입하면 멈출 수 없다. 
+Once I get into cleaning mode, I can't stop. 
+Once I get into cleaning mode, I can't stop. 
+Once I get into cleaning mode, I can't stop.  
+ 
+바쁠 때는 청소 루틴에 익숙해지기 어렵다. 
+It's hard to get into a cleaning routine when you're busy. 
+It's hard to get into a cleaning routine when you're busy. 
+It's hard to get into a cleaning routine when you're busy.  
+ 
+그는 매일 저녁 정리하는 습관을 빠르게 들였다. 
+He quickly got into the habit of tidying up every evening. 
+He quickly got into the habit of tidying up every evening. 
+He quickly got into the habit of tidying up every evening.  
+ 
+닮다 
+take after 
+take after 
+take after  
+ 
+그녀는 깔끔하고 정리정돈을 잘하는 면에서 어머니를 닮았다. 
+She takes after her mother when it comes to being organized and clean. 
+She takes after her mother when it comes to being organized and clean. 
+She takes after her mother when it comes to being organized and clean.  
+ 
+우리 형은 청소를 좋아하는 면에서 부모님을 닮지 않았다. 
+My brother doesn't take after my parents in their love for cleaning. 
+My brother doesn't take after my parents in their love for cleaning. 
+My brother doesn't take after my parents in their love for cleaning.
+
+### 페이지 85
+
+강아지는 얼룩 하나 없는 하얀 털이 엄마를 정말 많이 닮았다. 
+The puppy really takes after its mom with its spotless white fur. 
+The puppy really takes after its mom with its spotless white fur. 
+The puppy really takes after its mom with its spotless white fur.  
+ 
+잘 지내다 
+get along 
+get along 
+get along  
+ 
+그들은 어릴 때부터 항상 잘 지냈다. 
+They've always gotten along well since childhood. 
+They've always gotten along well since childhood. 
+They've always gotten along well since childhood.  
+ 
+친구들과 잘 지내는 것이 중요하다. 
+It's important to get along with your friends. 
+It's important to get along with your friends. 
+It's important to get along with your friends.  
+ 
+가끔 다투지만, 결국 그들은 여전히 잘 지낸다. 
+Even though they argue sometimes, they still get along ultimately. 
+Even though they argue sometimes, they still get along ultimately. 
+Even though they argue sometimes, they still get along ultimately.  
+ 
+작은 의견 불일치 후에, 그들은 빠르게 화해했다. 
+After a small disagreement, they quickly made up. 
+After a small disagreement, they quickly made up. 
+After a small disagreement, they quickly made up.  
+ 
+싸운 후에 친구와 화해하는 것은 좋다. 
+It's good to make up with friends after a fight. 
+It's good to make up with friends after a fight. 
+It's good to make up with friends after a fight.
+
+### 페이지 86
+
+그들은 화해하고 차이점을 넘어 나아가기로 결정했다. 
+They decided to make up and move past their differences. 
+They decided to make up and move past their differences. 
+They decided to make up and move past their differences.  
+ 
+모이다 
+get together 
+get together 
+get together  
+ 
+다음 주에 저녁 식사를 위해 모이자. 
+Let's get together for dinner next week. 
+Let's get together for dinner next week. 
+Let's get together for dinner next week.  
+ 
+우리는 예전에 매주 금요일 밤에 모였다. 
+We used to get together every Friday night. 
+We used to get together every Friday night. 
+We used to get together every Friday night.  
+ 
+요즘은 우리 모두가 함께 모이기가 어렵다. 
+It's hard for all of us to get together these days. 
+It's hard for all of us to get together these days. 
+It's hard for all of us to get together these days.  
+ 
+폭우 때문에 야외 콘서트를 취소해야 했다. 
+They had to call off the outdoor concert due to the heavy rain. 
+They had to call off the outdoor concert due to the heavy rain. 
+They had to call off the outdoor concert due to the heavy rain.  
+ 
+번개 때문에 경기가 취소되었다. 
+The game was called off because of the lightning. 
+The game was called off because of the lightning. 
+The game was called off because of the lightning.
+
+### 페이지 87
+
+우리는 해변 여행 계획을 취소해야 했다. 
+We had to call off our plans for the beach trip. 
+We had to call off our plans for the beach trip. 
+We had to call off our plans for the beach trip.  
+ 
+앞당기다 
+move up 
+move up 
+move up  
+ 
+다가오는 폭풍을 피하기 위해 하이킹 여행을 앞당기기로 결정했다. 
+We decided to move up our hiking trip to avoid the coming storm. 
+We decided to move up our hiking trip to avoid the coming storm. 
+We decided to move up our hiking trip to avoid the coming storm.  
+ 
+일기예보는 그들에게 피크닉 날짜를 앞당기도록 강요했다. 
+The weather forecast forced them to move up the picnic date. 
+The weather forecast forced them to move up the picnic date. 
+The weather forecast forced them to move up the picnic date.  
+ 
+그들은 좋은 날씨 때문에 신제품 출시를 앞당겼다. 
+They moved up the launch of the new product due to the good weather. 
+They moved up the launch of the new product due to the good weather. 
+They moved up the launch of the new product due to the good weather.  
+ 
+화창한 날씨가 쌀쌀했던 아침을 정말 보완해준다. 
+The sunny weather really makes up for the chilly morning. 
+The sunny weather really makes up for the chilly morning. 
+The sunny weather really makes up for the chilly morning.  
+ 
+맑은 하늘과 부드러운 바람이 산책하기에 완벽한 날을 만든다. 
+The clear skies and gentle breeze make up a perfect day for a walk. 
+The clear skies and gentle breeze make up a perfect day for a walk. 
+The clear skies and gentle breeze make up a perfect day for a walk.
+
+### 페이지 88
+
+따뜻한 기온과 습도 없음의 조합이 이상적인 여름날을 이룬다. 
+A combination of warm temperatures and no humidity makes up the ideal summer day. 
+A combination of warm temperatures and no humidity makes up the ideal summer day. 
+A combination of warm temperatures and no humidity makes up the ideal summer day.  
+ 
+고수하다/지키다 
+stick to 
+stick to 
+stick to  
+ 
+건강한 식습관을 고수하는 것이 중요하다. 
+It's important to stick to your healthy eating habits. 
+It's important to stick to your healthy eating habits. 
+It's important to stick to your healthy eating habits.  
+ 
+공부 일정을 지키면 결과를 볼 수 있을 것이다. 
+If you stick to your study schedule, you'll see results. 
+If you stick to your study schedule, you'll see results. 
+If you stick to your study schedule, you'll see results.  
+ 
+그는 항상 아침 루틴을 고수한다. 
+He always sticks to his morning routine. 
+He always sticks to his morning routine. 
+He always sticks to his morning routine.  
+ 
+그의 알람 시계는 매일 오전 6시에 울린다. 몇 년 전에 확립한 습관이다. 
+His alarm clock goes off at 6 AM every day, a habit he established years ago. 
+His alarm clock goes off at 6 AM every day, a habit he established years ago. 
+His alarm clock goes off at 6 AM every day, a habit he established years ago.  
+ 
+그의 나쁜 습관들이 새로운 다이어트를 시작한 후 갑자기 사라졌다. 
+His bad habits suddenly went off after he started a new diet. 
+His bad habits suddenly went off after he started a new diet. 
+His bad habits suddenly went off after he started a new diet.
+
+### 페이지 89
+
+잠에서 깨자마자 휴대전화를 확인하는 뿌리 깊은 습관이 바로 발동되었다. 
+The ingrained habit of checking his phone immediately went off when he woke up. 
+The ingrained habit of checking his phone immediately went off when he woke up. 
+The ingrained habit of checking his phone immediately went off when he woke up.  
+ 
+대충 입다 
+throw on 
+throw on 
+throw on  
+ 
+그녀는 맨 먼저 찾은 옷을 아무렇게나 대충 입는 습관이 있다. 
+She has a habit of just throwing on whatever clothes she finds first. 
+She has a habit of just throwing on whatever clothes she finds first. 
+She has a habit of just throwing on whatever clothes she finds first.  
+ 
+그는 퇴근 후에 편안한 옷을 대충 입는 것을 좋아한다. 
+He likes to throw on comfortable clothes after work. 
+He likes to throw on comfortable clothes after work. 
+He likes to throw on comfortable clothes after work.  
+ 
+숙제를 대충 하지 마세요; 시간을 들여 하세요. 
+Don't just throw on your homework; take your time. 
+Don't just throw on your homework; take your time. 
+Don't just throw on your homework; take your time.  
+ 
+저항하다/버티다 
+stand up to 
+stand up to 
+stand up to  
+ 
+이 오래된 집은 시간과 혹독한 날씨의 시험을 정말 잘 견뎌냈다. 
+This old house has really stood up to the test of time and harsh weather. 
+This old house has really stood up to the test of time and harsh weather. 
+This old house has really stood up to the test of time and harsh weather.
+
+### 페이지 90
+
+새로운 지붕은 폭설을 견뎌야 한다. 
+The new roof should stand up to heavy snowfalls. 
+The new roof should stand up to heavy snowfalls. 
+The new roof should stand up to heavy snowfalls.  
+ 
+우리 창문은 강풍에 견디도록 설계되었다. 
+Our windows are designed to stand up to strong winds. 
+Our windows are designed to stand up to strong winds. 
+Our windows are designed to stand up to strong winds.  
+ 
+집을 묘사할 때 중요한 세부 사항을 빼놓지 마세요. 
+Don't leave out any important details when describing the house. 
+Don't leave out any important details when describing the house. 
+Don't leave out any important details when describing the house.  
+ 
+그들은 실수로 임대 계약서에서 중요한 조항을 빼놓았다. 
+They accidentally left out a key clause in the rental agreement. 
+They accidentally left out a key clause in the rental agreement. 
+They accidentally left out a key clause in the rental agreement.  
+ 
+우리는 주택 검사 체크리스트에서 아무것도 빼놓지 않도록 해야 한다. 
+We need to ensure we don't leave out anything from the home inspection checklist. 
+We need to ensure we don't leave out anything from the home inspection checklist. 
+We need to ensure we don't leave out anything from the home inspection checklist.  
+ 
+따라잡다/유지하다 
+keep up with 
+keep up with 
+keep up with  
+ 
+그렇게 큰 집을 유지 보수하는 것을 따라잡기가 어렵다. 
+It's hard to keep up with the maintenance of such a large house. 
+It's hard to keep up with the maintenance of such a large house. 
+It's hard to keep up with the maintenance of such a large house.
+
+### 페이지 91
+
+정원 작업을 꾸준히 유지해야 한다. 
+You need to regularly keep up with garden work. 
+You need to regularly keep up with garden work. 
+You need to regularly keep up with garden work.  
+ 
+그는 자신의 오래된 부동산에 필요한 모든 수리를 따라잡는 데 어려움을 겪는다. 
+He struggles to keep up with all the repairs needed for his old property. 
+He struggles to keep up with all the repairs needed for his old property. 
+He struggles to keep up with all the repairs needed for his old property.  
+ 
+플라스틱과 유리 재활용을 미루지 마세요. 
+Don't put off recycling your plastics and glass. 
+Don't put off recycling your plastics and glass. 
+Don't put off recycling your plastics and glass.  
+ 
+그는 항상 마지막 순간까지 재활용품 분류를 미룬다. 
+He always puts off sorting the recycling until the last minute. 
+He always puts off sorting the recycling until the last minute. 
+He always puts off sorting the recycling until the last minute.  
+ 
+우리는 환경 문제에 대한 조치를 미루지 말아야 한다. 
+We shouldn't put off taking action on environmental issues. 
+We shouldn't put off taking action on environmental issues. 
+We shouldn't put off taking action on environmental issues.  
+ 
+재활용품을 올바른 쓰레기통에 분류해 주세요. 
+Please sort out the recyclables into the correct bins. 
+Please sort out the recyclables into the correct bins. 
+Please sort out the recyclables into the correct bins.  
+ 
+우리는 플라스틱에서 종이를 분류해야 한다. 
+We need to sort out the paper from the plastic. 
+We need to sort out the paper from the plastic. 
+We need to sort out the paper from the plastic.
+
+### 페이지 92
+
+이 오래된 전자제품들을 재활용을 위해 분류하는 것을 도와줄 수 있나요? 
+Can you help me sort out these old electronics for recycling? 
+Can you help me sort out these old electronics for recycling? 
+Can you help me sort out these old electronics for recycling?  
+ 
+버리다 
+throw away 
+throw away 
+throw away  
+ 
+재활용할 수 있는 것은 아무것도 버리지 않도록 하세요. 
+Make sure you don't throw away anything that can be recycled. 
+Make sure you don't throw away anything that can be recycled. 
+Make sure you don't throw away anything that can be recycled.  
+ 
+완전히 좋은 옷을 버리는 것은 낭비이다. 
+It's a waste to throw away perfectly good clothes. 
+It's a waste to throw away perfectly good clothes. 
+It's a waste to throw away perfectly good clothes.  
+ 
+우리는 매일 버리는 것을 줄여야 한다. 
+We need to reduce what we throw away every day. 
+We need to reduce what we throw away every day. 
+We need to reduce what we throw away every day.  
+ 
+ 저 오늘 좀 피곤해요. 
+I'm kind of tired today. 
+I'm kind of tired today. 
+I'm kind of tired today.  
+ 
+ 저 이거에 좀 익숙하지 않아요. 
+I'm kind of new to this. 
+I'm kind of new to this. 
+I'm kind of new to this.
+
+### 페이지 93
+
+저 좀 배고파요. 
+I'm kind of hungry. 
+I'm kind of hungry. 
+I'm kind of hungry.  
+ 
+ 전 당신을 돕기 위해 여기 있어요. 
+I'm here to help you. 
+I'm here to help you. 
+I'm here to help you.  
+ 
+ 전 영어 배우러 여기 왔어요. 
+I'm here to learn English. 
+I'm here to learn English. 
+I'm here to learn English.  
+ 
+ 전 사과하러 왔어요. 
+I'm here to apologize. 
+I'm here to apologize. 
+I'm here to apologize.  
+ 
+ 저 막 출발하려구요. 
+I'm about to leave. 
+I'm about to leave. 
+I'm about to leave.  
+ 
+ 저 저녁 식사 막 시작하려구요. 
+I'm about to start dinner. 
+I'm about to start dinner. 
+I'm about to start dinner.  
+ 
+ 제가 당신에게 중요한 것을 말해주려고 해요. 
+I'm about to tell you something important. 
+I'm about to tell you something important. 
+I'm about to tell you something important.
+
+### 페이지 94
+
+저 그 영화 너무 보고 싶어요. 
+I'm dying to see that movie. 
+I'm dying to see that movie. 
+I'm dying to see that movie.  
+ 
+ 저 무슨 일이 있었는지 너무 알고 싶어요. 
+I'm dying to know what happened. 
+I'm dying to know what happened. 
+I'm dying to know what happened.  
+ 
+ 저 그 새로운 레스토랑 너무 가보고 싶어요. 
+I'm dying to try that new restaurant. 
+I'm dying to try that new restaurant. 
+I'm dying to try that new restaurant.  
+ 
+ 전 그 계획에 괜찮아요. 
+I'm okay with that plan. 
+I'm okay with that plan. 
+I'm okay with that plan.  
+ 
+ 저 오늘 밤 집에 있는 것도 괜찮아요. 
+I'm okay with staying in tonight. 
+I'm okay with staying in tonight. 
+I'm okay with staying in tonight.  
+ 
+ 전 당신이 결정하는 대로 괜찮아요. 
+I'm okay with whatever you decide. 
+I'm okay with whatever you decide. 
+I'm okay with whatever you decide.  
+ 
+ 저 주문할 준비 됐어요. 
+I'm ready to order. 
+I'm ready to order. 
+I'm ready to order.
+
+### 페이지 95
+
+저 집에 갈 준비 됐어요. 
+I'm ready to go home. 
+I'm ready to go home. 
+I'm ready to go home.  
+ 
+ 저 그 도전에 맞설 준비 됐어요. 
+I'm ready to face the challenge. 
+I'm ready to face the challenge. 
+I'm ready to face the challenge.  
+ 
+ 전 요리를 잘해요. 
+I'm good at cooking. 
+I'm good at cooking. 
+I'm good at cooking.  
+ 
+ 전 문제 해결을 잘해요. 
+I'm good at solving problems. 
+I'm good at solving problems. 
+I'm good at solving problems.  
+ 
+ 전 경청을 잘해요. 
+I'm good at listening. 
+I'm good at listening. 
+I'm good at listening.  
+ 
+ 저 가는 중이에요. 
+I'm on my way. 
+I'm on my way. 
+I'm on my way.  
+ 
+ 저 다이어트 중이에요. 
+I'm on a diet. 
+I'm on a diet. 
+I'm on a diet.
+
+### 페이지 96
+
+저 오늘 밤 당직이에요. 
+I'm on duty tonight. 
+I'm on duty tonight. 
+I'm on duty tonight.  
+ 
+ 전 제 발전에 만족해요. 
+I'm happy with my progress. 
+I'm happy with my progress. 
+I'm happy with my progress.  
+ 
+ 전 결과에 만족해요. 
+I'm happy with the results. 
+I'm happy with the results. 
+I'm happy with the results.  
+ 
+ 전 제 삶에 만족해요. 
+I'm happy with my life. 
+I'm happy with my life. 
+I'm happy with my life.  
+ 
+ 커피 좋아하세요? 
+Do you like coffee? 
+Do you like coffee? 
+Do you like coffee?  
+ 
+ 독서하는 거 좋아하세요? 
+Do you like to read? 
+Do you like to read? 
+Do you like to read?  
+ 
+ 이 노래 좋아하세요? 
+Do you like this song? 
+Do you like this song? 
+Do you like this song?
+
+### 페이지 97
+
+그를 아세요? 
+Do you know him? 
+Do you know him? 
+Do you know him?  
+ 
+ 도서관이 어디 있는지 아세요? 
+Do you know where the library is? 
+Do you know where the library is? 
+Do you know where the library is?  
+ 
+ 수영할 줄 아세요? 
+Do you know how to swim? 
+Do you know how to swim? 
+Do you know how to swim?  
+ 
+ 오늘 밤 외식하고 싶으세요? 
+Do you want to eat out tonight? 
+Do you want to eat out tonight? 
+Do you want to eat out tonight?  
+ 
+ 산책 가고 싶으세요? 
+Do you want to go for a walk? 
+Do you want to go for a walk? 
+Do you want to go for a walk?  
+ 
+ 그것에 대해 이야기하고 싶으세요? 
+Do you want to talk about it? 
+Do you want to talk about it? 
+Do you want to talk about it?  
+ 
+ 피자 먹고 싶으세요? 
+Do you feel like pizza? 
+Do you feel like pizza? 
+Do you feel like pizza?
+
+### 페이지 98
+
+밖에 나가고 싶으세요? 
+Do you feel like going out? 
+Do you feel like going out? 
+Do you feel like going out?  
+ 
+ 영화 보고 싶으세요? 
+Do you feel like watching a movie? 
+Do you feel like watching a movie? 
+Do you feel like watching a movie?  
+ 
+ 비가 올 거라고 생각하세요? 
+Do you think it will rain? 
+Do you think it will rain? 
+Do you think it will rain?  
+ 
+ 그가 옳다고 생각하세요? 
+Do you think he's right? 
+Do you think he's right? 
+Do you think he's right?  
+ 
+ 우리가 지금 떠나야 한다고 생각하세요? 
+Do you think we should leave now? 
+Do you think we should leave now? 
+Do you think we should leave now?  
+ 
+ 도움이 필요하세요? 
+Do you need any help? 
+Do you need any help? 
+Do you need any help?  
+ 
+ 차가 필요하세요? 
+Do you need a ride? 
+Do you need a ride? 
+Do you need a ride?
+
+### 페이지 99
+
+다른 것이 필요하세요? 
+Do you need anything else? 
+Do you need anything else? 
+Do you need anything else?  
+ 
+ 그녀의 이름을 기억하세요? 
+Do you remember her name? 
+Do you remember her name? 
+Do you remember her name?  
+ 
+ 우리가 어디서 만났는지 기억하세요? 
+Do you remember where we met? 
+Do you remember where we met? 
+Do you remember where we met?  
+ 
+ 제가 당신에게 말한 것을 기억하세요? 
+Do you remember what I told you? 
+Do you remember what I told you? 
+Do you remember what I told you?  
+ 
+ 좋은 생각인 것 같아요. 
+I think it's a good idea. 
+I think it's a good idea. 
+I think it's a good idea.  
+ 
+ 다시 시도해야 한다고 생각해요. 
+I think we should try again. 
+I think we should try again. 
+I think we should try again.  
+ 
+ 그는 매우 재능 있다고 생각해요. 
+I think he's very talented. 
+I think he's very talented. 
+I think he's very talented.
+
+### 페이지 100
+
+그것은 공정하지 않다고 생각해요. 
+I don’t think that's fair. 
+I don’t think that's fair. 
+I don’t think that's fair.  
+ 
+ 제가 할 수 있을 거라고 생각하지 않아요. 
+I don’t think I can make it. 
+I don’t think I can make it. 
+I don’t think I can make it.  
+ 
+ 그는 오지 않을 거라고 생각해요. 
+I don’t think he's coming. 
+I don’t think he's coming. 
+I don’t think he's coming.  
+ 
+ 저 낮잠 자야 할 것 같아요. 
+I think I’m going to take a nap. 
+I think I’m going to take a nap. 
+I think I’m going to take a nap.  
+ 
+ 저 늦을 것 같아요. 
+I think I’m going to be late. 
+I think I’m going to be late. 
+I think I’m going to be late.  
+ 
+ 저 여기가 마음에 들 것 같아요. 
+I think I’m going to like it here. 
+I think I’m going to like it here. 
+I think I’m going to like it here.  
+ 
+ 이야기해야 할 것 같아요. 
+I think we should talk. 
+I think we should talk. 
+I think we should talk.
+
+### 페이지 101
+
+좀 더 기다려야 할 것 같아요. 
+I think we should wait a little longer. 
+I think we should wait a little longer. 
+I think we should wait a little longer.  
+ 
+ 우리의 선택지를 다시 고려해야 할 것 같아요. 
+I think we should reconsider our options. 
+I think we should reconsider our options. 
+I think we should reconsider our options.  
+ 
+ 저 감기에 걸린 것 같아요. 
+I think I’ve got a cold. 
+I think I’ve got a cold. 
+I think I’ve got a cold.  
+ 
+ 저 돈이 충분한 것 같아요. 
+I think I’ve got enough money. 
+I think I’ve got enough money. 
+I think I’ve got enough money.  
+ 
+ 저 이거 할 수 있을 것 같아요. 
+I think I’ve got this. 
+I think I’ve got this. 
+I think I’ve got this.  
+ 
+ 저 새로운 도시로 이사 가는 것을 생각 중이에요. 
+I’m thinking about moving to a new city. 
+I’m thinking about moving to a new city. 
+I’m thinking about moving to a new city.  
+ 
+ 저 저녁으로 뭘 요리할지 생각 중이에요. 
+I’m thinking about what to cook for dinner. 
+I’m thinking about what to cook for dinner. 
+I’m thinking about what to cook for dinner.
+
+### 페이지 102
+
+저 휴가를 가는 것을 생각 중이에요. 
+I’m thinking about taking a vacation. 
+I’m thinking about taking a vacation. 
+I’m thinking about taking a vacation.  
+ 
+ 전 당신이 더 일찍 올 줄 알았어요. 
+I thought you were coming earlier. 
+I thought you were coming earlier. 
+I thought you were coming earlier.  
+ 
+ 전 당신이 이것에 대해 알고 있을 줄 알았어요. 
+I thought you knew about this. 
+I thought you knew about this. 
+I thought you knew about this.  
+ 
+ 전 당신이 매운 음식을 좋아하는 줄 알았어요. 
+I thought you liked spicy food. 
+I thought you liked spicy food. 
+I thought you liked spicy food.  
+ 
+ 전 초콜릿을 좋아해요. 
+I like chocolate. 
+I like chocolate. 
+I like chocolate.  
+ 
+ 전 책 읽는 것을 좋아해요. 
+I like reading books. 
+I like reading books. 
+I like reading books.  
+ 
+ 전 당신의 새 헤어스타일이 마음에 들어요. 
+I like your new haircut. 
+I like your new haircut. 
+I like your new haircut.
+
+### 페이지 103
+
+전 여행하는 것을 좋아해요. 
+I like to travel. 
+I like to travel. 
+I like to travel.  
+ 
+ 전 일할 때 음악 듣는 것을 좋아해요. 
+I like to listen to music when I work. 
+I like to listen to music when I work. 
+I like to listen to music when I work.  
+ 
+ 전 가족과 시간 보내는 것을 좋아해요. 
+I like to spend time with my family. 
+I like to spend time with my family. 
+I like to spend time with my family.  
+ 
+ 전 바다에서 수영하는 것을 좋아해요. 
+I like swimming in the ocean. 
+I like swimming in the ocean. 
+I like swimming in the ocean.  
+ 
+ 전 주말에 영화 보는 것을 좋아해요. 
+I like watching movies on weekends. 
+I like watching movies on weekends. 
+I like watching movies on weekends.  
+ 
+ 전 새로운 것을 배우는 것을 좋아해요. 
+I like learning new things. 
+I like learning new things. 
+I like learning new things.  
+ 
+ 전 당신의 유머 감각이 정말 좋아요. 
+I really like your sense of humor. 
+I really like your sense of humor. 
+I really like your sense of humor.
+
+### 페이지 104
+
+전 이 레스토랑이 정말 좋아요. 
+I really like this restaurant. 
+I really like this restaurant. 
+I really like this restaurant.  
+ 
+ 전 당신과 시간 보내는 것이 정말 좋아요. 
+I really like spending time with you. 
+I really like spending time with you. 
+I really like spending time with you.  
+ 
+ 셔츠 마음에 들어요. 
+I like your shirt. 
+I like your shirt. 
+I like your shirt.  
+ 
+ 긍정적인 태도가 마음에 들어요. 
+I like your positive attitude. 
+I like your positive attitude. 
+I like your positive attitude.  
+ 
+ 아이디어가 마음에 들어요. 
+I like your ideas. 
+I like your ideas. 
+I like your ideas.  
+ 
+ 전 시간 낭비하는 것을 싫어해요. 
+I don’t like wasting time. 
+I don’t like wasting time. 
+I don’t like wasting time.  
+ 
+ 전 일찍 일어나는 것을 싫어해요. 
+I don’t like getting up early. 
+I don’t like getting up early. 
+I don’t like getting up early.
+
+### 페이지 105
+
+전 추운 날씨를 싫어해요. 
+I don’t like cold weather. 
+I don’t like cold weather. 
+I don’t like cold weather.  
+ 
+ 전 공포 영화를 별로 좋아하지 않아요. 
+I don’t really like horror movies. 
+I don’t really like horror movies. 
+I don’t really like horror movies.  
+ 
+ 전 대중 연설을 별로 좋아하지 않아요. 
+I don’t really like public speaking. 
+I don’t really like public speaking. 
+I don’t really like public speaking.  
+ 
+ 전 매운 음식을 별로 좋아하지 않아요. 
+I don’t really like spicy food. 
+I don’t really like spicy food. 
+I don’t really like spicy food.  
+ 
+ 전 당신이 설명하는 방식이 좋아요. 
+I like the way you explain things. 
+I like the way you explain things. 
+I like the way you explain things.  
+ 
+ 전 이 방이 꾸며진 방식이 좋아요. 
+I like the way this room is decorated. 
+I like the way this room is decorated. 
+I like the way this room is decorated.  
+ 
+ 전 그녀가 노래하는 방식이 좋아요. 
+I like the way she sings. 
+I like the way she sings. 
+I like the way she sings.
+
+### 페이지 106
+
+please. 
+I’d like a cup of tea 
+I’d like a cup of tea 
+I’d like a cup of tea 
+ 
+ 예약하고 싶어요. 
+I’d like to make a reservation. 
+I’d like to make a reservation. 
+I’d like to make a reservation.  
+ 
+ 더 많은 정보를 원해요. 
+I’d like more information. 
+I’d like more information. 
+I’d like more information.  
+ 
+ 디저트 좀 드시겠어요? 
+Would you like some dessert? 
+Would you like some dessert? 
+Would you like some dessert?  
+ 
+ 우리와 함께하시겠어요? 
+Would you like to join us? 
+Would you like to join us? 
+Would you like to join us?  
+ 
+ 음료 한 잔 더 하시겠어요? 
+Would you like another drink? 
+Would you like another drink? 
+Would you like another drink?  
+ 
+ 산책 가시겠어요? 
+Would you like to go for a walk? 
+Would you like to go for a walk? 
+Would you like to go for a walk?
+
+### 페이지 107
+
+이것에 대해 더 논의하시겠어요? 
+Would you like to discuss this further? 
+Would you like to discuss this further? 
+Would you like to discuss this further?  
+ 
+ 기타 치는 법을 배우시겠어요? 
+Would you like to learn how to play the guitar? 
+Would you like to learn how to play the guitar? 
+Would you like to learn how to play the guitar?  
+ 
+ 물 좀 드시겠어요? 
+Would you like some water? 
+Would you like some water? 
+Would you like some water?  
+ 
+ 조언 좀 드릴까요? 
+Would you like some advice? 
+Would you like some advice? 
+Would you like some advice?  
+ 
+ 도움 좀 드릴까요? 
+Would you like some help? 
+Would you like some help? 
+Would you like some help?  
+ 
+ 창문 열어드릴까요? 
+Would you like me to open the window? 
+Would you like me to open the window? 
+Would you like me to open the window?  
+ 
+ 그것을 도와드릴까요? 
+Would you like me to help you with that? 
+Would you like me to help you with that? 
+Would you like me to help you with that?
+
+### 페이지 108
+
+택시 불러드릴까요? 
+Would you like me to call a taxi? 
+Would you like me to call a taxi? 
+Would you like me to call a taxi?  
+ 
+ 이번 주말에 무엇을 하고 싶으세요? 
+What would you like to do this weekend? 
+What would you like to do this weekend? 
+What would you like to do this weekend?  
+ 
+ 무엇을 주문하시겠어요? 
+What would you like to order? 
+What would you like to order? 
+What would you like to order?  
+ 
+ 무엇을 달성하고 싶으세요? 
+What would you like to achieve? 
+What would you like to achieve? 
+What would you like to achieve?  
+ 
+ 저녁 식사하러 어디로 가고 싶으세요? 
+Where would you like to go for dinner? 
+Where would you like to go for dinner? 
+Where would you like to go for dinner?  
+ 
+ 어디에서 만나고 싶으세요? 
+Where would you like to meet? 
+Where would you like to meet? 
+Where would you like to meet?  
+ 
+ 다음 여행으로 어디로 가고 싶으세요? 
+Where would you like to travel next? 
+Where would you like to travel next? 
+Where would you like to travel next?
+
+### 페이지 109
+
+우리의 선택지에 대해 생각해 보시겠어요? 
+Would you like to think about our options? 
+Would you like to think about our options? 
+Would you like to think about our options?  
+ 
+ 그 제안에 대해 생각해 보시겠어요? 
+Would you like to think about the proposal? 
+Would you like to think about the proposal? 
+Would you like to think about the proposal?  
+ 
+ 다음에 무엇을 할지 생각해 보시겠어요? 
+Would you like to think about what to do next? 
+Would you like to think about what to do next? 
+Would you like to think about what to do next?  
+ 
+ 문 닫아주시겠어요? 
+Would you mind closing the door? 
+Would you mind closing the door? 
+Would you mind closing the door?  
+ 
+ 이거 도와주시겠어요? 
+Would you mind helping me with this? 
+Would you mind helping me with this? 
+Would you mind helping me with this?  
+ 
+ 잠시 기다려주시겠어요? 
+Would you mind waiting for a moment? 
+Would you mind waiting for a moment? 
+Would you mind waiting for a moment?  
+ 
+ 부끄러워하지 마세요. 
+Don’t be shy. 
+Don’t be shy. 
+Don’t be shy.
+
+### 페이지 110
+
+늦지 마세요. 
+Don’t be late. 
+Don’t be late. 
+Don’t be late.  
+ 
+ 질문하는 것을 두려워하지 마세요. 
+Don’t be afraid to ask questions. 
+Don’t be afraid to ask questions. 
+Don’t be afraid to ask questions.  
+ 
+ 너무 부정적이지 마세요. 
+Don’t be so negative. 
+Don’t be so negative. 
+Don’t be so negative.  
+ 
+ 너무 진지하지 마세요. 
+Don’t be so serious. 
+Don’t be so serious. 
+Don’t be so serious.  
+ 
+ 자신에게 너무 엄격하지 마세요. 
+Don’t be so hard on yourself. 
+Don’t be so hard on yourself. 
+Don’t be so hard on yourself.  
+ 
+ 저에게 전화하는 것을 잊지 마세요. 
+Don’t forget to call me. 
+Don’t forget to call me. 
+Don’t forget to call me.  
+ 
+ 문 잠그는 것을 잊지 마세요. 
+Don’t forget to lock the door. 
+Don’t forget to lock the door. 
+Don’t forget to lock the door.
+
+### 페이지 111
+
+불 끄는 것을 잊지 마세요. 
+Don’t forget to turn off the lights. 
+Don’t forget to turn off the lights. 
+Don’t forget to turn off the lights.  
+ 
+ 모든 것을 혼자 고치려 하지 마세요. 
+Don’t try to fix everything by yourself. 
+Don’t try to fix everything by yourself. 
+Don’t try to fix everything by yourself.  
+ 
+ 모든 사람을 기쁘게 하려 하지 마세요. 
+Don’t try to please everyone. 
+Don’t try to please everyone. 
+Don’t try to please everyone.  
+ 
+ 당신이 아닌 다른 사람이 되려 하지 마세요. 
+Don’t try to be someone you're not. 
+Don’t try to be someone you're not. 
+Don’t try to be someone you're not.  
+ 
+ 생각조차 하지 마세요. 
+Don’t even think about it. 
+Don’t even think about it. 
+Don’t even think about it.  
+ 
+ 시도조차 하지 마세요. 
+Don’t even try. 
+Don’t even try. 
+Don’t even try.  
+ 
+ 묻지도 마세요. 
+Don’t even ask. 
+Don’t even ask. 
+Don’t even ask.
+
+### 페이지 112
+
+그만둘 생각조차 하지 마세요. 
+Don’t even think about quitting. 
+Don’t even think about quitting. 
+Don’t even think about quitting.  
+ 
+ 아무에게도 말할 생각조차 하지 마세요. 
+Don’t even think about telling anyone. 
+Don’t even think about telling anyone. 
+Don’t even think about telling anyone.  
+ 
+ 포기할 생각조차 하지 마세요. 
+Don’t even think about giving up. 
+Don’t even think about giving up. 
+Don’t even think about giving up.  
+ 
+ 도움을 요청하는 것을 주저하지 마세요. 
+Don’t hesitate to ask for help. 
+Don’t hesitate to ask for help. 
+Don’t hesitate to ask for help.  
+ 
+ 질문이 있으면 저에게 연락하는 것을 주저하지 마세요. 
+Don’t hesitate to contact me if you have any questions. 
+Don’t hesitate to contact me if you have any questions. 
+Don’t hesitate to contact me if you have any questions.  
+ 
+ 당신의 아이디어를 공유하는 것을 주저하지 마세요. 
+Don’t hesitate to share your ideas. 
+Don’t hesitate to share your ideas. 
+Don’t hesitate to share your ideas.  
+ 
+ 다시는 그렇게 하지 마세요. 
+Don’t you ever do that again. 
+Don’t you ever do that again. 
+Don’t you ever do that again.
+
+### 페이지 113
+
+당신의 꿈을 절대 포기하지 마세요. 
+Don’t you ever give up on your dreams. 
+Don’t you ever give up on your dreams. 
+Don’t you ever give up on your dreams.  
+ 
+ 당신 자신을 절대 의심하지 마세요. 
+Don’t you ever doubt yourself. 
+Don’t you ever doubt yourself. 
+Don’t you ever doubt yourself.  
+ 
+ 방해해서 죄송해요. 
+I’m sorry to bother you. 
+I’m sorry to bother you. 
+I’m sorry to bother you.  
+ 
+ 그것을 듣게 되어 유감이에요. 
+I’m sorry to hear that. 
+I’m sorry to hear that. 
+I’m sorry to hear that.  
+ 
+ 방해해서 죄송해요. 
+I’m sorry to interrupt. 
+I’m sorry to interrupt. 
+I’m sorry to interrupt.  
+ 
+ 지연에 대해 죄송해요. 
+I’m sorry about the delay. 
+I’m sorry about the delay. 
+I’m sorry about the delay.  
+ 
+ 무슨 일이 있었는지에 대해 죄송해요. 
+I’m sorry about what happened. 
+I’m sorry about what happened. 
+I’m sorry about what happened.
+
+### 페이지 114
+
+오해에 대해 죄송해요. 
+I’m sorry about the misunderstanding. 
+I’m sorry about the misunderstanding. 
+I’m sorry about the misunderstanding.  
+ 
+ 늦어서 죄송해요. 
+I’m sorry for being late. 
+I’m sorry for being late. 
+I’m sorry for being late.  
+ 
+ 제 실수에 대해 죄송해요. 
+I’m sorry for my mistake. 
+I’m sorry for my mistake. 
+I’m sorry for my mistake.  
+ 
+ 불편을 드려 죄송해요. 
+I’m sorry for the inconvenience. 
+I’m sorry for the inconvenience. 
+I’m sorry for the inconvenience.  
+ 
+ 도와드릴 수 없어서 죄송해요. 
+I’m sorry I can’t help you. 
+I’m sorry I can’t help you. 
+I’m sorry I can’t help you.  
+ 
+ 파티에 못 가서 죄송해요. 
+I’m sorry I can’t make it to the party. 
+I’m sorry I can’t make it to the party. 
+I’m sorry I can’t make it to the party.  
+ 
+ 더 오래 머물 수 없어서 죄송해요. 
+I’m sorry I can’t stay longer. 
+I’m sorry I can’t stay longer. 
+I’m sorry I can’t stay longer.
+
+### 페이지 115
+
+but I have to leave. 
+I’m sorry 
+I’m sorry 
+I’m sorry 
+ 
+ 유감스럽게도 귀하의 제안을 받아들일 수 없습니다. 
+I’m sorry to say that we can't accept your offer. 
+I’m sorry to say that we can't accept your offer. 
+I’m sorry to say that we can't accept your offer.  
+ 
+ 유감스럽게도 그는 지금 통화 중입니다. 
+I’m sorry to say that he's not available. 
+I’m sorry to say that he's not available. 
+I’m sorry to say that he's not available.  
+ 
+ 유감스럽게도 프로젝트가 지연되었습니다. 
+I’m sorry to say that the project is delayed. 
+I’m sorry to say that the project is delayed. 
+I’m sorry to say that the project is delayed.  
+ 
+ 만약 제가 당신을 불쾌하게 했다면 정말 죄송해요. 
+I’m so sorry if I offended you. 
+I’m so sorry if I offended you. 
+I’m so sorry if I offended you.  
+ 
+ 만약 제가 어떤 문제를 일으켰다면 정말 죄송해요. 
+I’m so sorry if I caused any trouble. 
+I’m so sorry if I caused any trouble. 
+I’m so sorry if I caused any trouble.  
+ 
+ 만약 제가 오해했다면 정말 죄송해요. 
+I’m so sorry if I misunderstood. 
+I’m so sorry if I misunderstood. 
+I’m so sorry if I misunderstood.
+
+### 페이지 116
+
+그가 안쓰러워요. 
+I feel sorry for him. 
+I feel sorry for him. 
+I feel sorry for him.  
+ 
+ 재난으로 피해를 입은 사람들이 안쓰러워요. 
+I feel sorry for the people affected by the disaster. 
+I feel sorry for the people affected by the disaster. 
+I feel sorry for the people affected by the disaster.  
+ 
+ 그런 일을 겪어야 하는 사람이 안쓰러워요. 
+I feel sorry for anyone who has to go through that. 
+I feel sorry for anyone who has to go through that. 
+I feel sorry for anyone who has to go through that.  
+ 
+ 필요한 것이 있으면 알려주세요. 
+Let me know if you need anything. 
+Let me know if you need anything. 
+Let me know if you need anything.  
+ 
+ 도와드릴게요. 
+Let me help you. 
+Let me help you. 
+Let me help you.  
+ 
+ 설명해 드릴게요. 
+Let me explain. 
+Let me explain. 
+Let me explain.  
+ 
+ 비밀을 하나 알려드릴게요. 
+Let me tell you a secret. 
+Let me tell you a secret. 
+Let me tell you a secret.
+
+### 페이지 117
+
+무슨 일이 있었는지 알려드릴게요. 
+Let me tell you what happened. 
+Let me tell you what happened. 
+Let me tell you what happened.  
+ 
+ 제 여행에 대해 알려드릴게요. 
+Let me tell you about my trip. 
+Let me tell you about my trip. 
+Let me tell you about my trip.  
+ 
+ 과정을 설명해 드릴게요. 
+Let me explain the process. 
+Let me explain the process. 
+Let me explain the process.  
+ 
+ 이것이 왜 중요한지 설명해 드릴게요. 
+Let me explain why this is important. 
+Let me explain why this is important. 
+Let me explain why this is important.  
+ 
+ 제 관점을 설명해 드릴게요. 
+Let me explain my point of view. 
+Let me explain my point of view. 
+Let me explain my point of view.  
+ 
+ 준비되면 알려주세요. 
+Let me know when you're ready. 
+Let me know when you're ready. 
+Let me know when you're ready.  
+ 
+ 질문이 있으면 알려주세요. 
+Let me know if you have any questions. 
+Let me know if you have any questions. 
+Let me know if you have any questions.
+
+### 페이지 118
+
+어떻게 결정하는지 알려주세요. 
+Let me know what you decide. 
+Let me know what you decide. 
+Let me know what you decide.  
+ 
+ 제가 찾을 수 있는지 볼게요. 
+Let me see if I can find it. 
+Let me see if I can find it. 
+Let me see if I can find it.  
+ 
+ 그가 가능한지 볼게요. 
+Let me see if he's available. 
+Let me see if he's available. 
+Let me see if he's available.  
+ 
+ 제가 도울 수 있는지 볼게요. 
+Let me see if I can help. 
+Let me see if I can help. 
+Let me see if I can help.  
+ 
+ 제 스케줄을 확인해 볼게요. 
+Let me check my schedule. 
+Let me check my schedule. 
+Let me check my schedule.  
+ 
+ 세부 사항을 확인해 볼게요. 
+Let me check the details. 
+Let me check the details. 
+Let me check the details.  
+ 
+ 제 매니저에게 확인해 볼게요. 
+Let me check with my manager. 
+Let me check with my manager. 
+Let me check with my manager.
+
+### 페이지 119
+
+뭔가 보여드릴게요. 
+Let me show you something. 
+Let me show you something. 
+Let me show you something.  
+ 
+ 구경시켜 드릴게요. 
+Let me show you around. 
+Let me show you around. 
+Let me show you around.  
+ 
+ 작동 방식을 보여드릴게요. 
+Let me show you how it works. 
+Let me show you how it works. 
+Let me show you how it works.  
+ 
+ 잠시 생각해 볼게요. 
+Let me think about it for a while. 
+Let me think about it for a while. 
+Let me think about it for a while.  
+ 
+ 다음에 무엇을 할지 생각해 볼게요. 
+Let me think about what to do next. 
+Let me think about what to do next. 
+Let me think about what to do next.  
+ 
+ 당신의 제안에 대해 생각해 볼게요. 
+Let me think about your offer. 
+Let me think about your offer. 
+Let me think about your offer.  
+ 
+ 냉장고에 우유가 좀 있어요. 
+There is some milk in the fridge. 
+There is some milk in the fridge. 
+There is some milk in the fridge.
+
+### 페이지 120
+
+그가 말한 것에 어느 정도 진실이 있어요. 
+There is some truth to what he said. 
+There is some truth to what he said. 
+There is some truth to what he said.  
+ 
+ 어느 정도 희망이 남아 있어요. 
+There is some hope left. 
+There is some hope left. 
+There is some hope left.  
+ 
+ 할 일이 너무 많아요. 
+There are so many things to do. 
+There are so many things to do. 
+There are so many things to do.  
+ 
+ 여기에 사람이 너무 많아요. 
+There are so many people here. 
+There are so many people here. 
+There are so many people here.  
+ 
+ 선택지가 너무 많아요. 
+There are so many options. 
+There are so many options. 
+There are so many options.  
+ 
+ 도로에 차가 많아요. 
+There are a lot of cars on the road. 
+There are a lot of cars on the road. 
+There are a lot of cars on the road.  
+ 
+ 이 계획에는 많은 이점이 있어요. 
+There are a lot of benefits to this plan. 
+There are a lot of benefits to this plan. 
+There are a lot of benefits to this plan.
+
+### 페이지 121
+
+제가 그것을 좋아하는 많은 이유가 있어요. 
+There are a lot of reasons why I like it. 
+There are a lot of reasons why I like it. 
+There are a lot of reasons why I like it.  
+ 
+ 우리가 투자해야 할 여러 가지 이유가 있어요. 
+There are a number of reasons why we should invest. 
+There are a number of reasons why we should invest. 
+There are a number of reasons why we should invest.  
+ 
+ 지연에는 여러 가지 이유가 있어요. 
+There are a number of reasons for the delay. 
+There are a number of reasons for the delay. 
+There are a number of reasons for the delay.  
+ 
+ 낙관할 여러 가지 이유가 있어요. 
+There are a number of reasons to be optimistic. 
+There are a number of reasons to be optimistic. 
+There are a number of reasons to be optimistic.  
+ 
+ 질문 있으세요? 
+Are there any questions? 
+Are there any questions? 
+Are there any questions?  
+ 
+ 이 근처에 좋은 레스토랑이 있나요? 
+Are there any good restaurants around here? 
+Are there any good restaurants around here? 
+Are there any good restaurants around here?  
+ 
+ 새로운 소식이 있나요? 
+Are there any updates? 
+Are there any updates? 
+Are there any updates?
+
+### 페이지 122
+
+제가 도울 수 있는 것이 있나요? 
+Is there anything I can do to help? 
+Is there anything I can do to help? 
+Is there anything I can do to help?  
+ 
+ 다른 필요한 것이 있나요? 
+Is there anything else you need? 
+Is there anything else you need? 
+Is there anything else you need?  
+ 
+ 뭔가 잘못된 것이 있나요? 
+Is there anything wrong? 
+Is there anything wrong? 
+Is there anything wrong?  
+ 
+ 행사에 사람이 많이 있나요? 
+Are there many people at the event? 
+Are there many people at the event? 
+Are there many people at the event?  
+ 
+ 선택지가 많이 있나요? 
+Are there many choices? 
+Are there many choices? 
+Are there many choices?  
+ 
+ 그들 사이에 많은 차이점이 있나요? 
+Are there many differences between them? 
+Are there many differences between them? 
+Are there many differences between them?  
+ 
+ 그래서 제가 여기 있는 거예요. 
+That’s why I'm here. 
+That’s why I'm here. 
+That’s why I'm here.
+
+### 페이지 123
+
+그래서 그가 일찍 떠난 거예요. 
+That’s why he left early. 
+That’s why he left early. 
+That’s why he left early.  
+ 
+ 그래서 조심하는 것이 중요한 거예요. 
+That’s why it's important to be careful. 
+That’s why it's important to be careful. 
+That’s why it's important to be careful.  
+ 
+ 그것은 그가 부끄러움이 많기 때문이에요. 
+That’s because he's shy. 
+That’s because he's shy. 
+That’s because he's shy.  
+ 
+ 그것은 제가 잠을 충분히 못 잤기 때문이에요. 
+That’s because I didn't get enough sleep. 
+That’s because I didn't get enough sleep. 
+That’s because I didn't get enough sleep.  
+ 
+ 그것은 새로운 시스템이기 때문이에요. 
+That’s because it's a new system. 
+That’s because it's a new system. 
+That’s because it's a new system.  
+ 
+ 그것이 제가 의미한 바예요. 
+That’s what I meant. 
+That’s what I meant. 
+That’s what I meant.  
+ 
+ 그것이 제가 들은 바예요. 
+That’s what I heard. 
+That’s what I heard. 
+That’s what I heard.
+
+### 페이지 124
+
+그것이 우리가 해야 할 일이에요. 
+That’s what we need to do. 
+That’s what we need to do. 
+That’s what we need to do.  
+ 
+ 그렇게 작동해요. 
+That’s how it works. 
+That’s how it works. 
+That’s how it works.  
+ 
+ 그렇게 제가 영어를 배웠어요. 
+That’s how I learned to speak English. 
+That’s how I learned to speak English. 
+That’s how I learned to speak English.  
+ 
+ 그렇게 우리가 목표를 달성할 수 있어요. 
+That’s how we can achieve our goals. 
+That’s how we can achieve our goals. 
+That’s how we can achieve our goals.  
+ 
+ 거기가 제가 자란 곳이에요. 
+That’s where I grew up. 
+That’s where I grew up. 
+That’s where I grew up.  
+ 
+ 거기가 우리가 만나야 할 곳이에요. 
+That’s where we should meet. 
+That’s where we should meet. 
+That’s where we should meet.  
+ 
+ 거기에 문제가 있어요. 
+That’s where the problem lies. 
+That’s where the problem lies. 
+That’s where the problem lies.
+
+### 페이지 125
+
+그게 원래 그래요. 
+That’s the way it is. 
+That’s the way it is. 
+That’s the way it is.  
+ 
+ 우리는 항상 그렇게 해요. 
+That’s the way we always do it. 
+That’s the way we always do it. 
+That’s the way we always do it.  
+ 
+ 그것이 성공으로 가는 길이에요. 
+That’s the way to success. 
+That’s the way to success. 
+That’s the way to success.  
+ 
+ 그렇게 어머니께 말하는 것은 옳지 않아요. 
+That’s no way to talk to your mother. 
+That’s no way to talk to your mother. 
+That’s no way to talk to your mother.  
+ 
+ 그렇게 손님을 대하는 것은 옳지 않아요. 
+That’s no way to treat a customer. 
+That’s no way to treat a customer. 
+That’s no way to treat a customer.  
+ 
+ 그렇게 문제를 해결하는 것은 옳지 않아요. 
+That’s no way to solve a problem. 
+That’s no way to solve a problem. 
+That’s no way to solve a problem.  
+ 
+ 그것이 바로 제가 생각하던 거예요. 
+That’s exactly what I was thinking. 
+That’s exactly what I was thinking. 
+That’s exactly what I was thinking.
+
+### 페이지 126
+
+그것이 바로 우리가 필요한 거예요. 
+That’s exactly what we need. 
+That’s exactly what we need. 
+That’s exactly what we need.  
+ 
+ 그것이 바로 그가 말한 거예요. 
+That’s exactly what he said. 
+That’s exactly what he said. 
+That’s exactly what he said.  
+ 
+ 제가 할 말은 그게 다예요. 
+That’s all I have to say. 
+That’s all I have to say. 
+That’s all I have to say.  
+ 
+ 제가 아는 것은 그게 다예요. 
+That’s all I know. 
+That’s all I know. 
+That’s all I know.  
+ 
+ 제가 원하는 것은 그게 다예요. 
+That’s all I want. 
+That’s all I want. 
+That’s all I want.  
+ 
+ 당신의 이야기를 해주세요. 
+Tell me your story. 
+Tell me your story. 
+Tell me your story.  
+ 
+ 무엇을 생각하는지 말해주세요. 
+Tell me what you think. 
+Tell me what you think. 
+Tell me what you think.
+
+### 페이지 127
+
+당신의 하루에 대해 말해주세요. 
+Tell me about your day. 
+Tell me about your day. 
+Tell me about your day.  
+ 
+ 저에게 뭘 해야 할지 말하지 마세요. 
+Don’t tell me what to do. 
+Don’t tell me what to do. 
+Don’t tell me what to do.  
+ 
+ 당신이 떠난다고 말하지 마세요. 
+Don’t tell me you're leaving. 
+Don’t tell me you're leaving. 
+Don’t tell me you're leaving.  
+ 
+ 불가능하다고 말하지 마세요. 
+Don’t tell me it's impossible. 
+Don’t tell me it's impossible. 
+Don’t tell me it's impossible.  
+ 
+ 제 새로운 프로젝트에 대해 말씀드릴게요. 
+Let me tell you about my new project. 
+Let me tell you about my new project. 
+Let me tell you about my new project.  
+ 
+ 이곳의 역사에 대해 말씀드릴게요. 
+Let me tell you about the history of this place. 
+Let me tell you about the history of this place. 
+Let me tell you about the history of this place.  
+ 
+ 제가 읽은 멋진 책에 대해 말씀드릴게요. 
+Let me tell you about a great book I read. 
+Let me tell you about a great book I read. 
+Let me tell you about a great book I read.
+
+### 페이지 128
+
+제가 당신에게 조심하라고 말했잖아요. 
+I told you to be careful. 
+I told you to be careful. 
+I told you to be careful.  
+ 
+ 제가 당신에게 저를 기다리라고 말했잖아요. 
+I told you to wait for me. 
+I told you to wait for me. 
+I told you to wait for me.  
+ 
+ 제가 당신에게 숙제를 끝내라고 말했잖아요. 
+I told you to finish your homework. 
+I told you to finish your homework. 
+I told you to finish your homework.  
+ 
+ 제가 당신에게 그것을 만지지 말라고 말했잖아요. 
+I told you not to touch that. 
+I told you not to touch that. 
+I told you not to touch that.  
+ 
+ 제가 당신에게 걱정하지 말라고 말했잖아요. 
+I told you not to worry. 
+I told you not to worry. 
+I told you not to worry.  
+ 
+ 제가 당신에게 거기에 혼자 가지 말라고 말했잖아요. 
+I told you not to go there alone. 
+I told you not to go there alone. 
+I told you not to go there alone.  
+ 
+ 저는 본사로 보고하라고 들었어요. 
+I was told to report to the main office. 
+I was told to report to the main office. 
+I was told to report to the main office.
+
+### 페이지 129
+
+저는 여기서 기다리라고 들었어요. 
+I was told to wait here. 
+I was told to wait here. 
+I was told to wait here.  
+ 
+ 저는 프레젠테이션을 준비하라고 들었어요. 
+I was told to prepare a presentation. 
+I was told to prepare a presentation. 
+I was told to prepare a presentation.  
+ 
+ 당신의 미소로 당신이 행복하다는 것을 알 수 있어요. 
+I can tell by your smile that you're happy. 
+I can tell by your smile that you're happy. 
+I can tell by your smile that you're happy.  
+ 
+ 그가 말하는 방식으로 그가 자신감이 있다는 것을 알 수 있어요. 
+I can tell by the way he talks that he's confident. 
+I can tell by the way he talks that he's confident. 
+I can tell by the way he talks that he's confident.  
+ 
+ 그녀의 표정으로 그녀가 화났다는 것을 알 수 있어요. 
+I can tell by her expression that she's upset. 
+I can tell by her expression that she's upset. 
+I can tell by her expression that she's upset.  
+ 
+ 기억이 안 난다고요? 
+You are telling me you don't remember? 
+You are telling me you don't remember? 
+You are telling me you don't remember?  
+ 
+ 이것이 불가능하다고 말하는 거예요? 
+You are telling me this is impossible? 
+You are telling me this is impossible? 
+You are telling me this is impossible?
+
+### 페이지 130
+
+이 모든 것을 혼자 했다고 말하는 거예요? 
+You are telling me you did it all by yourself? 
+You are telling me you did it all by yourself? 
+You are telling me you did it all by yourself?  
+ 
+ 그를 알아요. 
+I know him. 
+I know him. 
+I know him.  
+ 
+ 무슨 말씀이신지 알아요. 
+I know what you mean. 
+I know what you mean. 
+I know what you mean.  
+ 
+ 당신이 어떻게 느끼는지 알아요. 
+I know how you feel. 
+I know how you feel. 
+I know how you feel.  
+ 
+ 저는 당신이 지난 여름에 무엇을 했는지 알아요. 
+I know what you did last summer. 
+I know what you did last summer. 
+I know what you did last summer.  
+ 
+ 저는 당신이 무엇을 원하는지 알아요. 
+I know what you want. 
+I know what you want. 
+I know what you want.  
+ 
+ 저는 당신이 무엇을 말하려고 하는지 알아요. 
+I know what you are trying to say. 
+I know what you are trying to say. 
+I know what you are trying to say.
+
+### 페이지 131
+
+저는 이 문제를 해결하는 방법을 알아요. 
+I know how to solve this problem. 
+I know how to solve this problem. 
+I know how to solve this problem.  
+ 
+ 저는 맛있는 식사를 요리하는 방법을 알아요. 
+I know how to cook a good meal. 
+I know how to cook a good meal. 
+I know how to cook a good meal.  
+ 
+ 저는 거기에 가는 방법을 알아요. 
+I know how to get there. 
+I know how to get there. 
+I know how to get there.  
+ 
+ 기타를 칠 줄 아세요? 
+Do you know how to play the guitar? 
+Do you know how to play the guitar? 
+Do you know how to play the guitar?  
+ 
+ 이것을 고치는 방법을 아세요? 
+Do you know how to fix this? 
+Do you know how to fix this? 
+Do you know how to fix this?  
+ 
+ 공항에 가는 방법을 아세요? 
+Do you know how to get to the airport? 
+Do you know how to get to the airport? 
+Do you know how to get to the airport?  
+ 
+ 저는 그를 10년 동안 알고 지냈어요. 
+I’ve known him for ten years. 
+I’ve known him for ten years. 
+I’ve known him for ten years.
+
+### 페이지 132
+
+저는 이것에 대해 한동안 알고 있었어요. 
+I’ve known about this for a while. 
+I’ve known about this for a while. 
+I’ve known about this for a while.  
+ 
+ 저는 그녀를 어릴 때부터 알고 지냈어요. 
+I’ve known her since childhood. 
+I’ve known her since childhood. 
+I’ve known her since childhood.  
+ 
+ 제가 도착하면 알려드릴게요. 
+I’ll let you know when I arrive. 
+I’ll let you know when I arrive. 
+I’ll let you know when I arrive.  
+ 
+ 무슨 일이든 바뀌면 알려드릴게요. 
+I’ll let you know if anything changes. 
+I’ll let you know if anything changes. 
+I’ll let you know if anything changes.  
+ 
+ 결과를 알려드릴게요. 
+I’ll let you know the results. 
+I’ll let you know the results. 
+I’ll let you know the results.  
+ 
+ 음료 한 잔 하실래요? 
+Care for a drink? 
+Care for a drink? 
+Care for a drink?  
+ 
+ 커피 좀 더 드실래요? 
+Care for some more coffee? 
+Care for some more coffee? 
+Care for some more coffee?
+
+### 페이지 133
+
+체스 한 판 할까요? 
+Care for a game of chess? 
+Care for a game of chess? 
+Care for a game of chess?  
+ 
+ 저는 그가 어떻게 생각하는지 신경 쓰지 않아요. 
+I don’t care what he thinks. 
+I don’t care what he thinks. 
+I don’t care what he thinks.  
+ 
+ 저는 비가 오든 말든 신경 쓰지 않아요. 
+I don’t care if it rains. 
+I don’t care if it rains. 
+I don’t care if it rains.  
+ 
+ 저는 돈에 신경 쓰지 않아요. 
+I don’t care about money. 
+I don’t care about money. 
+I don’t care about money.  
+ 
+ 그는 그의 가족을 신경 써요. 
+He cares about his family. 
+He cares about his family. 
+He cares about his family.  
+ 
+ 그는 그의 일을 신경 써요. 
+He cares about his job. 
+He cares about his job. 
+He cares about his job.  
+ 
+ 그는 환경을 신경 써요. 
+He cares about the environment. 
+He cares about the environment. 
+He cares about the environment.
+
+### 페이지 134
+
+창문을 열어도 될까요? 
+Do you mind if I open the window? 
+Do you mind if I open the window? 
+Do you mind if I open the window?  
+ 
+ 여기 앉아도 될까요? 
+Do you mind if I sit here? 
+Do you mind if I sit here? 
+Do you mind if I sit here?  
+ 
+ 질문 하나 해도 될까요? 
+Do you mind if I ask you a question? 
+Do you mind if I ask you a question? 
+Do you mind if I ask you a question?  
+ 
+ 기다리는 것은 괜찮아요. 
+I don’t mind waiting. 
+I don’t mind waiting. 
+I don’t mind waiting.  
+ 
+ 당신을 돕는 것은 괜찮아요. 
+I don’t mind helping you. 
+I don’t mind helping you. 
+I don’t mind helping you.  
+ 
+ 소음은 괜찮아요. 
+I don’t mind the noise. 
+I don’t mind the noise. 
+I don’t mind the noise.  
+ 
+ 당신을 불쾌하게 할 의도는 아니었어요. 
+I didn’t mean to offend you. 
+I didn’t mean to offend you. 
+I didn’t mean to offend you.
+
+### 페이지 135
+
+당신의 감정을 상하게 할 의도는 아니었어요. 
+I didn’t mean to hurt your feelings. 
+I didn’t mean to hurt your feelings. 
+I didn’t mean to hurt your feelings.  
+ 
+ 방해할 의도는 아니었어요. 
+I didn’t mean to interrupt. 
+I didn’t mean to interrupt. 
+I didn’t mean to interrupt.  
+ 
+ 당신이 떠난다는 것을 의미하는 건가요? 
+Do you mean that you're leaving? 
+Do you mean that you're leaving? 
+Do you mean that you're leaving?  
+ 
+ 이것을 의미하는 건가요? 
+Do you mean this one? 
+Do you mean this one? 
+Do you mean this one?  
+ 
+ 말 그대로를 의미하는 건가요? 
+Do you mean literally? 
+Do you mean literally? 
+Do you mean literally?  
+ 
+ 그것은 우리가 다시 시작해야 한다는 의미예요. 
+That means we have to start over. 
+That means we have to start over. 
+That means we have to start over.  
+ 
+ 그것은 우리가 올바른 방향으로 가고 있다는 의미예요. 
+That means we're on the right track. 
+That means we're on the right track. 
+That means we're on the right track.
+
+### 페이지 136
+
+그것은 제가 갈 수 없다는 의미예요. 
+That means I can't go. 
+That means I can't go. 
+That means I can't go.  
+ 
+ 도와주셔서 감사해요. 
+Thank you for your help. 
+Thank you for your help. 
+Thank you for your help.  
+ 
+ 와주셔서 감사해요. 
+Thank you for coming. 
+Thank you for coming. 
+Thank you for coming.  
+ 
+ 이해해주셔서 감사해요. 
+Thank you for your understanding. 
+Thank you for your understanding. 
+Thank you for your understanding.  
+ 
+ 선물 정말 고마워요. 
+Thanks a lot for the gift. 
+Thanks a lot for the gift. 
+Thanks a lot for the gift.  
+ 
+ 조언 정말 고마워요. 
+Thanks a lot for your advice. 
+Thanks a lot for your advice. 
+Thanks a lot for your advice.  
+ 
+ 모든 것 정말 고마워요. 
+Thanks a lot for everything. 
+Thanks a lot for everything. 
+Thanks a lot for everything.
+
+### 페이지 137
+
+저는 행복해요. 
+I feel happy. 
+I feel happy. 
+I feel happy.  
+ 
+ 저는 피곤해요. 
+I feel tired. 
+I feel tired. 
+I feel tired.  
+ 
+ 저는 집에 가고 싶어요. 
+I feel like going home. 
+I feel like going home. 
+I feel like going home.  
+ 
+ 오늘 밤은 요리하기 싫어요. 
+I don’t feel like cooking tonight. 
+I don’t feel like cooking tonight. 
+I don’t feel like cooking tonight.  
+ 
+ 밖에 나가기 싫어요. 
+I don’t feel like going out. 
+I don’t feel like going out. 
+I don’t feel like going out.  
+ 
+ 그것에 대해 이야기하기 싫어요. 
+I don’t feel like talking about it. 
+I don’t feel like talking about it. 
+I don’t feel like talking about it.  
+ 
+ 오늘 정말 멋져 보여요. 
+You look great today. 
+You look great today. 
+You look great today.
+
+### 페이지 138
+
+피곤해 보여요. 
+You look tired. 
+You look tired. 
+You look tired.  
+ 
+ 유령이라도 본 것 같아 보여요. 
+You look like you've seen a ghost. 
+You look like you've seen a ghost. 
+You look like you've seen a ghost.  
+ 
+ 자유롭게 질문하세요. 
+Feel free to ask any questions. 
+Feel free to ask any questions. 
+Feel free to ask any questions.  
+ 
+ 편하게 계세요. 
+Feel free to make yourself at home. 
+Feel free to make yourself at home. 
+Feel free to make yourself at home.  
+ 
+ 필요한 것이 있으면 편하게 연락하세요. 
+Feel free to contact me if you need anything. 
+Feel free to contact me if you need anything. 
+Feel free to contact me if you need anything.  
+ 
+ 비가 올 것 같아요. 
+It looks like rain. 
+It looks like rain. 
+It looks like rain.  
+ 
+ 그가 울 것 같아요. 
+It looks like he's about to cry. 
+It looks like he's about to cry. 
+It looks like he's about to cry.
+
+### 페이지 139
+
+우리가 늦을 것 같아요. 
+It looks like we're going to be late. 
+It looks like we're going to be late. 
+It looks like we're going to be late.  
+ 
+ 좋은 생각인 것 같아요. 
+It seems like a good idea. 
+It seems like a good idea. 
+It seems like a good idea.  
+ 
+ 그가 화난 것 같아요. 
+It seems like he's upset. 
+It seems like he's upset. 
+It seems like he's upset.  
+ 
+ 마지막으로 만난 지 오래된 것 같아요. 
+It seems like ages since we last met. 
+It seems like ages since we last met. 
+It seems like ages since we last met.  
+ 
+ 좋네요! 
+That sounds great! 
+That sounds great! 
+That sounds great!  
+ 
+ 계획 같네요. 
+That sounds like a plan. 
+That sounds like a plan. 
+That sounds like a plan.  
+ 
+ 어려워 보여요. 
+That sounds difficult. 
+That sounds difficult. 
+That sounds difficult.
+
+### 페이지 140
+
+맛있어요. 
+It tastes delicious. 
+It tastes delicious. 
+It tastes delicious.  
+ 
+ 달아요. 
+It tastes sweet. 
+It tastes sweet. 
+It tastes sweet.  
+ 
+ 닭고기 맛이 나요. 
+It tastes like chicken. 
+It tastes like chicken. 
+It tastes like chicken.  
+ 
+ 날 수 있다면 좋겠어요. 
+I wish I could fly. 
+I wish I could fly. 
+I wish I could fly.  
+ 
+ 당신과 함께 갈 수 있다면 좋겠어요. 
+I wish I could go with you. 
+I wish I could go with you. 
+I wish I could go with you.  
+ 
+ 더 많이 도울 수 있다면 좋겠어요. 
+I wish I could help more. 
+I wish I could help more. 
+I wish I could help more.  
+ 
+ 제가 더 키가 컸다면 좋겠어요. 
+I wish I were taller. 
+I wish I were taller. 
+I wish I were taller.
+
+### 페이지 141
+
+제가 휴가 중이라면 좋겠어요. 
+I wish I were on vacation. 
+I wish I were on vacation. 
+I wish I were on vacation.  
+ 
+ 제가 부자라면 좋겠어요. 
+I wish I were rich. 
+I wish I were rich. 
+I wish I were rich.  
+ 
+ 맹세코 제가 한 일이 아니에요. 
+I swear I didn't do it. 
+I swear I didn't do it. 
+I swear I didn't do it.  
+ 
+ 진실을 말할 것을 맹세해요. 
+I swear to tell the truth. 
+I swear to tell the truth. 
+I swear to tell the truth.  
+ 
+ 맹세코 다시는 그렇게 하지 않을게요. 
+I swear I'll never do it again. 
+I swear I'll never do it again. 
+I swear I'll never do it again.  
+ 
+ 티켓을 구할 수 있는지 볼게요. 
+I’ll see if I can get tickets. 
+I’ll see if I can get tickets. 
+I’ll see if I can get tickets.  
+ 
+ 그가 가능한지 볼게요. 
+I’ll see if he's available. 
+I’ll see if he's available. 
+I’ll see if he's available.
+
+### 페이지 142
+
+제가 당신을 도울 수 있는지 볼게요. 
+I’ll see if I can help you. 
+I’ll see if I can help you. 
+I’ll see if I can help you.  
+ 
+ 도와주실 수 있는지 궁금했어요. 
+I was wondering if you could help me. 
+I was wondering if you could help me. 
+I was wondering if you could help me.  
+ 
+ 이번 주말에 시간 있으신지 궁금했어요. 
+I was wondering if you're free this weekend. 
+I was wondering if you're free this weekend. 
+I was wondering if you're free this weekend.  
+ 
+ 우리가 만날 수 있는지 궁금했어요. 
+I was wondering if we could meet. 
+I was wondering if we could meet. 
+I was wondering if we could meet.  
+ 
+ 제가 틀렸나 봐요. 
+I guess I was wrong. 
+I guess I was wrong. 
+I guess I was wrong.  
+ 
+ 제가 너무 낙관적이었나 봐요. 
+I guess I was too optimistic. 
+I guess I was too optimistic. 
+I guess I was too optimistic.  
+ 
+ 제가 너무 많은 것을 기대했나 봐요. 
+I guess I was expecting too much. 
+I guess I was expecting too much. 
+I guess I was expecting too much.
+
+### 페이지 143
+
+출발하자. 
+Hit the road. 
+Hit the road. 
+Hit the road.  
+ 
+ 시간 되면 연락해. 
+Hit me up when you're free. 
+Hit me up when you're free. 
+Hit me up when you're free.  
+ 
+ 오늘 밤 열심히 공부해. 
+Hit the books tonight. 
+Hit the books tonight. 
+Hit the books tonight.  
+ 
+ 잊어버려요. 
+Forget about it. 
+Forget about it. 
+Forget about it.  
+ 
+ 제가 말한 것은 잊어버려요. 
+Forget about what I said. 
+Forget about what I said. 
+Forget about what I said.  
+ 
+ 과거는 잊어버려요. 
+Forget about the past. 
+Forget about the past. 
+Forget about the past.  
+ 
+ 저 집으로 가고 있어요. 
+I’m heading home. 
+I’m heading home. 
+I’m heading home.
+
+### 페이지 144
+
+저 가게로 가고 있어요. 
+I’m heading to the store. 
+I’m heading to the store. 
+I’m heading to the store.  
+ 
+ 저 지금 나가고 있어요. 
+I’m heading out now. 
+I’m heading out now. 
+I’m heading out now.  
+ 
+그녀는 매우 기분 좋은 성격을 가지고 있어 사귀기 쉽습니다. 
+She has a very agreeable personality, making her easy to get along with. 
+She has a very agreeable personality, making her easy to get along with. 
+She has a very agreeable personality, making her easy to get along with. 
+ 
+공원 산책하기에 날씨가 꽤 기분 좋았습니다. 
+The weather was quite agreeable for a walk in the park. 
+The weather was quite agreeable for a walk in the park. 
+The weather was quite agreeable for a walk in the park. 
+ 
+긴 논의 끝에 우리는 기분 좋은 해결책에 도달했습니다. 
+We reached an agreeable solution after a long discussion. 
+We reached an agreeable solution after a long discussion. 
+We reached an agreeable solution after a long discussion. 
+ 
+그는 어린아이들에게 매우 인내심이 있습니다. 
+He is very patient with young children. 
+He is very patient with young children. 
+He is very patient with young children. 
+ 
+좋은 선생님이 되려면 인내심이 있어야 합니다. 
+Being a good teacher requires you to be patient. 
+Being a good teacher requires you to be patient. 
+Being a good teacher requires you to be patient.
+
+### 페이지 145
+
+그녀는 인내심 있게 자신의 차례를 기다렸습니다. 
+She waited patiently for her turn. 
+She waited patiently for her turn. 
+She waited patiently for her turn. 
+ 
+그는 항상 마감일을 지키는 책임 있는 직원입니다. 
+He is a responsible employee who always meets deadlines. 
+He is a responsible employee who always meets deadlines. 
+He is a responsible employee who always meets deadlines. 
+ 
+자신의 행동에 책임지는 것이 중요합니다. 
+It's important to be responsible for your own actions. 
+It's important to be responsible for your own actions. 
+It's important to be responsible for your own actions. 
+ 
+그녀는 새로운 프로젝트에 책임감 있는 접근 방식을 취했습니다. 
+She took a responsible approach to the new project. 
+She took a responsible approach to the new project. 
+She took a responsible approach to the new project. 
+ 
+그 소심한 사슴은 아주 작은 소리에도 도망갔습니다. 
+The timid deer ran away at the slightest sound. 
+The timid deer ran away at the slightest sound. 
+The timid deer ran away at the slightest sound. 
+ 
+그는 너무 소심해서 월급 인상을 요구하지 못했습니다. 
+He was too timid to ask for a raise. 
+He was too timid to ask for a raise. 
+He was too timid to ask for a raise. 
+ 
+그녀는 소심하게 미소 짓고 아래를 내려다보았습니다. 
+She gave a timid smile and looked down. 
+She gave a timid smile and looked down. 
+She gave a timid smile and looked down.
+
+### 페이지 146
+
+저는 너무 어설퍼서 자꾸 제 발에 걸려 넘어집니다. 
+I'm so clumsy; I keep tripping over my own feet. 
+I'm so clumsy; I keep tripping over my own feet. 
+I'm so clumsy; I keep tripping over my own feet. 
+ 
+그는 깨진 꽃병을 고치려 어설프게 시도했습니다. 
+He made a clumsy attempt to fix the broken vase. 
+He made a clumsy attempt to fix the broken vase. 
+He made a clumsy attempt to fix the broken vase. 
+ 
+새 웨이터는 좀 어설퍼서 접시 몇 개를 떨어뜨렸습니다. 
+The new waiter was a bit clumsy and dropped a few plates. 
+The new waiter was a bit clumsy and dropped a few plates. 
+The new waiter was a bit clumsy and dropped a few plates. 
+ 
+그는 새 직장에서 괜찮은 봉급을 받습니다. 
+He earns a decent salary from his new job. 
+He earns a decent salary from his new job. 
+He earns a decent salary from his new job. 
+ 
+그 영화는 꽤 괜찮았지만, 특별하지는 않았습니다. 
+The movie was pretty decent, nothing spectacular. 
+The movie was pretty decent, nothing spectacular. 
+The movie was pretty decent, nothing spectacular. 
+ 
+괜찮은 사람이 되려고 노력하세요. 
+Please try to be a decent human being. 
+Please try to be a decent human being. 
+Please try to be a decent human being. 
+ 
+사막 환경은 믿을 수 없을 정도로 가혹합니다. 
+The desert environment is incredibly harsh. 
+The desert environment is incredibly harsh. 
+The desert environment is incredibly harsh.
+
+### 페이지 147
+
+그의 말은 좀 가혹했지만, 그는 옳았습니다. 
+His words were a bit harsh, but he was right. 
+His words were a bit harsh, but he was right. 
+His words were a bit harsh, but he was right. 
+ 
+자신에게 너무 가혹하게 굴지 마세요. 
+Don't be too harsh on yourself. 
+Don't be too harsh on yourself. 
+Don't be too harsh on yourself. 
+ 
+그는 아침 커피를 마시기 전에는 항상 심술이 나 있습니다. 
+He's always grumpy before he's had his morning coffee. 
+He's always grumpy before he's had his morning coffee. 
+He's always grumpy before he's had his morning coffee. 
+ 
+그 노인은 좀 심술이 난 것으로 알려져 있었습니다. 
+The old man was known for being a bit grumpy. 
+The old man was known for being a bit grumpy. 
+The old man was known for being a bit grumpy. 
+ 
+심술이 난 기분 때문에 하루를 망치지 마세요. 
+Don't let a grumpy mood ruin your day. 
+Don't let a grumpy mood ruin your day. 
+Don't let a grumpy mood ruin your day. 
+ 
+그녀는 그의 매력적인 미소에 그가 매우 매력적이라고 생각했습니다. 
+She found him very attractive with his charming smile. 
+She found him very attractive with his charming smile. 
+She found him very attractive with his charming smile. 
+ 
+새 건물은 매우 매력적인 디자인을 가지고 있습니다. 
+The new building has a very attractive design. 
+The new building has a very attractive design. 
+The new building has a very attractive design.
+
+### 페이지 148
+
+그 일자리 제안은 매우 매력적이었습니다. 
+The job offer was very attractive. 
+The job offer was very attractive. 
+The job offer was very attractive. 
+ 
+강의가 너무 지루해서 거의 잠들 뻔했습니다. 
+The lecture was so dull that I almost fell asleep. 
+The lecture was so dull that I almost fell asleep. 
+The lecture was so dull that I almost fell asleep. 
+ 
+날씨가 하루 종일 지루하고 비가 내렸습니다. 
+The weather was dull and rainy all day. 
+The weather was dull and rainy all day. 
+The weather was dull and rainy all day. 
+ 
+그녀는 끊임없는 반복이 다소 지루하다고 생각했습니다. 
+She found the constant repetition rather dull. 
+She found the constant repetition rather dull. 
+She found the constant repetition rather dull. 
+ 
+문 잠그는 것을 확실합니다. 
+I'm certain that I locked the door. 
+I'm certain that I locked the door. 
+I'm certain that I locked the door. 
+ 
+당신의 결정에 대해 확실하십니까? 
+Are you certain about your decision? 
+Are you certain about your decision? 
+Are you certain about your decision? 
+ 
+오늘 나중에 비가 올 것이 확실합니다. 
+It's certain to rain later today. 
+It's certain to rain later today. 
+It's certain to rain later today.
+
+### 페이지 149
+
+저는 편안한 소파에서 쉬는 것을 좋아해요. 
+I love relaxing on my comfy sofa. 
+I love relaxing on my comfy sofa. 
+I love relaxing on my comfy sofa. 
+ 
+그 호텔 방은 작았지만 매우 편안했습니다. 
+The hotel room was small but very comfy. 
+The hotel room was small but very comfy. 
+The hotel room was small but very comfy. 
+ 
+그녀는 편안한 잠옷으로 갈아입었습니다. 
+She slipped into her comfy pajamas. 
+She slipped into her comfy pajamas. 
+She slipped into her comfy pajamas. 
+ 
+오래된 버려진 집은 으스스한 분위기를 가지고 있었습니다. 
+The old abandoned house had a creepy atmosphere. 
+The old abandoned house had a creepy atmosphere. 
+The old abandoned house had a creepy atmosphere. 
+ 
+지하실에서 으스스한 소리가 들렸습니다. 
+I heard a creepy noise coming from the basement. 
+I heard a creepy noise coming from the basement. 
+I heard a creepy noise coming from the basement. 
+ 
+저 광대는 정말 으스스해요. 
+That clown is really creepy. 
+That clown is really creepy. 
+That clown is really creepy. 
+ 
+신호가 좋지 않아 사진이 좀 흐릿했습니다. 
+The picture was a bit fuzzy due to the poor signal. 
+The picture was a bit fuzzy due to the poor signal. 
+The picture was a bit fuzzy due to the poor signal.
+
+### 페이지 150
+
+그날에 대한 제 기억은 좀 애매합니다. 
+My memory of that day is a little fuzzy. 
+My memory of that day is a little fuzzy. 
+My memory of that day is a little fuzzy. 
+ 
+아기 담요는 멋지게 솜털이 뽀송하고 부드러웠습니다. 
+The baby blanket was wonderfully fuzzy and soft. 
+The baby blanket was wonderfully fuzzy and soft. 
+The baby blanket was wonderfully fuzzy and soft. 
+ 
+손이 흔들려서 사진이 흐릿하게 나왔습니다. 
+The photo came out blurry because my hand shook. 
+The photo came out blurry because my hand shook. 
+The photo came out blurry because my hand shook. 
+ 
+안경 없이는 시야가 흐릿했습니다. 
+My vision was blurry without my glasses. 
+My vision was blurry without my glasses. 
+My vision was blurry without my glasses. 
+ 
+일과 여가 사이의 경계가 흐릿해졌습니다. 
+The lines between work and leisure have become blurry. 
+The lines between work and leisure have become blurry. 
+The lines between work and leisure have become blurry. 
+ 
+그녀는 항상 일과 공부로 매우 바쁩니다. 
+She's always very busy with her work and studies. 
+She's always very busy with her work and studies. 
+She's always very busy with her work and studies. 
+ 
+그 레스토랑은 토요일 밤에 믿을 수 없을 정도로 바빴습니다. 
+The restaurant was incredibly busy on Saturday night. 
+The restaurant was incredibly busy on Saturday night. 
+The restaurant was incredibly busy on Saturday night.
+
+### 페이지 151
+
+지금은 너무 바빠서 이야기할 수 없어요. 
+I'm too busy to talk right now. 
+I'm too busy to talk right now. 
+I'm too busy to talk right now. 
+ 
+저는 양자 물리학에 대한 매우 흥미로운 기사를 읽었습니다. 
+I read a very interesting article about quantum physics. 
+I read a very interesting article about quantum physics. 
+I read a very interesting article about quantum physics. 
+ 
+박물관의 새 전시는 꽤 흥미롭습니다. 
+The new exhibition at the museum is quite interesting. 
+The new exhibition at the museum is quite interesting. 
+The new exhibition at the museum is quite interesting. 
+ 
+그는 우리에게 자신의 여행에 대한 흥미로운 이야기를 해주었습니다. 
+He told us an interesting story about his travels. 
+He told us an interesting story about his travels. 
+He told us an interesting story about his travels. 
+ 
+그녀는 매우 성공한 사업가입니다. 
+She is a highly successful businesswoman. 
+She is a highly successful businesswoman. 
+She is a highly successful businesswoman. 
+ 
+그 행사는 대성공이었습니다. 
+The event was a huge successful. 
+The event was a huge successful. 
+The event was a huge successful. 
+ 
+그는 길고 성공적인 경력을 가지기를 희망합니다. 
+He hopes to have a long and successful career. 
+He hopes to have a long and successful career. 
+He hopes to have a long and successful career.
+
+### 페이지 152
+
+그는 농담을 이해하는 데 약간 둔합니다. 
+He's a bit dense when it comes to understanding jokes. 
+He's a bit dense when it comes to understanding jokes. 
+He's a bit dense when it comes to understanding jokes. 
+ 
+안개가 너무 짙어서 아무것도 볼 수 없었습니다. 
+The fog was so dense that we couldn't see anything. 
+The fog was so dense that we couldn't see anything. 
+The fog was so dense that we couldn't see anything. 
+ 
+숲이 매우 빽빽해서 걷기가 어려웠습니다. 
+The forest was very dense, making it hard to walk through. 
+The forest was very dense, making it hard to walk through. 
+The forest was very dense, making it hard to walk through. 
+ 
+꽃을 가져다주셔서 정말 사려 깊으시네요. 
+It was very thoughtful of you to bring me flowers. 
+It was very thoughtful of you to bring me flowers. 
+It was very thoughtful of you to bring me flowers. 
+ 
+그는 항상 생일을 기억하는 매우 사려 깊은 사람입니다. 
+He's a very thoughtful person who always remembers birthdays. 
+He's a very thoughtful person who always remembers birthdays. 
+He's a very thoughtful person who always remembers birthdays. 
+ 
+그녀는 복잡한 질문에 사려 깊은 대답을 했습니다. 
+She gave a thoughtful response to the complex question. 
+She gave a thoughtful response to the complex question. 
+She gave a thoughtful response to the complex question. 
+ 
+그는 재치 있는 발언과 빠른 응수로 유명합니다. 
+He's known for his witty remarks and quick comebacks. 
+He's known for his witty remarks and quick comebacks. 
+He's known for his witty remarks and quick comebacks.
+
+### 페이지 153
+
+그 연극은 재치 있는 대화로 가득했습니다. 
+The play was filled with witty dialogue. 
+The play was filled with witty dialogue. 
+The play was filled with witty dialogue. 
+ 
+그녀는 모두를 웃게 만든 재치 있는 답변을 했습니다. 
+She gave a witty answer that made everyone laugh. 
+She gave a witty answer that made everyone laugh. 
+She gave a witty answer that made everyone laugh. 
+ 
+그는 새로운 언어를 배우는 데 매우 관심이 있습니다. 
+He's very keen on learning new languages. 
+He's very keen on learning new languages. 
+He's very keen on learning new languages. 
+ 
+오늘 밤 콘서트에 갈 의향이 있으세요? 
+Are you keen on going to the concert tonight? 
+Are you keen on going to the concert tonight? 
+Are you keen on going to the concert tonight? 
+ 
+그녀는 매운 음식을 별로 좋아하지 않습니다. 
+She's not very keen on spicy food. 
+She's not very keen on spicy food. 
+She's not very keen on spicy food. 
+ 
+째째한 말다툼에 시간을 낭비하지 마세요. 
+Don't waste your time on petty arguments. 
+Don't waste your time on petty arguments. 
+Don't waste your time on petty arguments. 
+ 
+그는 너무 쪼잔해서 자신이 틀렸다는 것을 인정하지 못합니다. 
+He's too petty to admit he was wrong. 
+He's too petty to admit he was wrong. 
+He's too petty to admit he was wrong.
+
+### 페이지 154
+
+그것은 째째한 복수 전술이었습니다. 
+It was a petty revenge tactic. 
+It was a petty revenge tactic. 
+It was a petty revenge tactic. 
+ 
+그녀는 매우 예리한 정신을 가지고 있어 새로운 개념을 빠르게 이해합니다. 
+She has a very sharp mind and quickly grasps new concepts. 
+She has a very sharp mind and quickly grasps new concepts. 
+She has a very sharp mind and quickly grasps new concepts. 
+ 
+화면의 이미지는 믿을 수 없을 정도로 뚜렷했습니다. 
+The image on the screen was incredibly sharp. 
+The image on the screen was incredibly sharp. 
+The image on the screen was incredibly sharp. 
+ 
+조심하세요, 저 칼은 매우 날카롭습니다. 
+Be careful, that knife is very sharp. 
+Be careful, that knife is very sharp. 
+Be careful, that knife is very sharp. 
+ 
+그는 무엇을 먹는지에 대해 매우 까다롭습니다. 
+He's very particular about what he eats. 
+He's very particular about what he eats. 
+He's very particular about what he eats. 
+ 
+이 책을 선택한 특별한 이유가 있나요? 
+Is there any particular reason you chose this book? 
+Is there any particular reason you chose this book? 
+Is there any particular reason you chose this book? 
+ 
+그녀는 세부 사항에 특별한 주의를 기울였습니다. 
+She paid particular attention to the details. 
+She paid particular attention to the details. 
+She paid particular attention to the details.
+
+### 페이지 155
+
+경제가 마침내 더 안정되고 있습니다. 
+The economy is finally becoming more stable. 
+The economy is finally becoming more stable. 
+The economy is finally becoming more stable. 
+ 
+그는 좋은 혜택이 있는 안정된 직업을 가지고 있습니다. 
+He has a stable job with good benefits. 
+He has a stable job with good benefits. 
+He has a stable job with good benefits. 
+ 
+그 테이블은 그리 안정적이지 않아 흔들립니다. 
+The table is not very stable; it wobbles. 
+The table is not very stable; it wobbles. 
+The table is not very stable; it wobbles. 
+ 
+우리의 궁극적인 목표는 세계 평화를 이루는 것입니다. 
+Our ultimate goal is to achieve world peace. 
+Our ultimate goal is to achieve world peace. 
+Our ultimate goal is to achieve world peace. 
+ 
+이것은 건강한 식사를 위한 궁극적인 가이드입니다. 
+This is the ultimate guide to healthy eating. 
+This is the ultimate guide to healthy eating. 
+This is the ultimate guide to healthy eating. 
+ 
+그는 조국을 위해 궁극적인 희생을 했습니다. 
+He made the ultimate sacrifice for his country. 
+He made the ultimate sacrifice for his country. 
+He made the ultimate sacrifice for his country. 
+ 
+그것은 일리 있는 생각인 것 같습니다. 
+That sounds like a reasonable idea. 
+That sounds like a reasonable idea. 
+That sounds like a reasonable idea.
+
+### 페이지 156
+
+그 차의 가격은 매우 적당했습니다. 
+The price of the car was very reasonable. 
+The price of the car was very reasonable. 
+The price of the car was very reasonable. 
+ 
+상황에 대해 타당하게 생각하려고 노력하세요. 
+Please try to be reasonable about the situation. 
+Please try to be reasonable about the situation. 
+Please try to be reasonable about the situation. 
+ 
+그녀는 음악에 타고난 재능이 있습니다. 
+She has a natural talent for music. 
+She has a natural talent for music. 
+She has a natural talent for music. 
+ 
+시험 전에 긴장하는 것은 자연스러운 일입니다. 
+It's natural to feel nervous before an exam. 
+It's natural to feel nervous before an exam. 
+It's natural to feel nervous before an exam. 
+ 
+그는 자신의 타고난 서식지로 돌아갔습니다. 
+He returned to his natural habitat. 
+He returned to his natural habitat. 
+He returned to his natural habitat. 
+ 
+이 퍼즐은 풀기 꽤 힘듭니다. 
+This puzzle is quite tricky to solve. 
+This puzzle is quite tricky to solve. 
+This puzzle is quite tricky to solve. 
+ 
+그것은 신중한 처리가 필요한 애매한 상황입니다. 
+It's a tricky situation that requires careful handling. 
+It's a tricky situation that requires careful handling. 
+It's a tricky situation that requires careful handling.
+
+### 페이지 157
+
+그는 모두를 당황하게 만든 애매한 질문을 했습니다. 
+He asked a tricky question that stumped everyone. 
+He asked a tricky question that stumped everyone. 
+He asked a tricky question that stumped everyone. 
+ 
+그것은 덥고 화창한 전형적인 여름날이었습니다. 
+It was a typical summer day, hot and sunny. 
+It was a typical summer day, hot and sunny. 
+It was a typical summer day, hot and sunny. 
+ 
+그의 반응은 그의 느긋한 태도의 전형이었습니다. 
+His response was typical of his laid-back attitude. 
+His response was typical of his laid-back attitude. 
+His response was typical of his laid-back attitude. 
+ 
+그녀는 항상 핸드폰을 붙잡고 있는 전형적인 십대입니다. 
+She's a typical teenager, always on her phone. 
+She's a typical teenager, always on her phone. 
+She's a typical teenager, always on her phone. 
+ 
+그는 평범한 삶을 살고, 흥미로운 것은 없습니다. 
+He lives an ordinary life, nothing exciting. 
+He lives an ordinary life, nothing exciting. 
+He lives an ordinary life, nothing exciting. 
+ 
+그녀는 평범하고 수수한 드레스를 선택했습니다. 
+She chose a plain, ordinary dress. 
+She chose a plain, ordinary dress. 
+She chose a plain, ordinary dress. 
+ 
+그의 공연은 평범하지 않았습니다. 
+There was nothing ordinary about his performance. 
+There was nothing ordinary about his performance. 
+There was nothing ordinary about his performance.
+
+### 페이지 158
+
+내 차가 진흙에 박혔어요. 
+My car got stuck in the mud. 
+My car got stuck in the mud. 
+My car got stuck in the mud. 
+ 
+저는 어려운 상황에 갇혀 있습니다. 
+I'm stuck in a difficult situation. 
+I'm stuck in a difficult situation. 
+I'm stuck in a difficult situation. 
+ 
+엘리베이터가 층 사이에 갇혔습니다. 
+The elevator got stuck between floors. 
+The elevator got stuck between floors. 
+The elevator got stuck between floors. 
+ 
+어른들에게 예의 바르게 행동하는 것이 중요합니다. 
+It's important to be polite to your elders. 
+It's important to be polite to your elders. 
+It's important to be polite to your elders. 
+ 
+그는 낯선 사람에게 예의 바르게 고개를 끄덕였습니다. 
+He gave a polite nod to the stranger. 
+He gave a polite nod to the stranger. 
+He gave a polite nod to the stranger. 
+ 
+그녀는 초대를 거절하기 위해 예의 바른 이메일을 보냈습니다. 
+She sent a polite email to decline the invitation. 
+She sent a polite email to decline the invitation. 
+She sent a polite email to decline the invitation. 
+ 
+물은 인간 생존에 필수적입니다. 
+Water is vital for human survival. 
+Water is vital for human survival. 
+Water is vital for human survival.
+
+### 페이지 159
+
+지시사항을 이해하는 것이 필수적입니다. 
+It's vital that you understand the instructions. 
+It's vital that you understand the instructions. 
+It's vital that you understand the instructions. 
+ 
+이 역할에는 경험이 필수적입니다. 
+Experience is vital for this role. 
+Experience is vital for this role. 
+Experience is vital for this role. 
+ 
+오늘 나중에 비가 올 것 같습니다. 
+It's likely to rain later today. 
+It's likely to rain later today. 
+It's likely to rain later today. 
+ 
+그녀는 그 일자리에 가장 그럴듯한 후보입니다. 
+She's the most likely candidate for the job. 
+She's the most likely candidate for the job. 
+She's the most likely candidate for the job. 
+ 
+그가 선거에서 이길 가능성이 매우 높습니다. 
+It's highly likely that he will win the election. 
+It's highly likely that he will win the election. 
+It's highly likely that he will win the election. 
+ 
+당신은 답을 잘못 맞혔습니다. 
+You got the answer wrong. 
+You got the answer wrong. 
+You got the answer wrong. 
+ 
+그가 거짓말을 한 것은 잘못된 일이었습니다. 
+It was wrong of him to lie. 
+It was wrong of him to lie. 
+It was wrong of him to lie.
+
+### 페이지 160
+
+이 상황에 대해 뭔가 잘못된 느낌이 듭니다. 
+Something feels wrong about this situation. 
+Something feels wrong about this situation. 
+Something feels wrong about this situation. 
+ 
+그 공원은 대중에게 공개됩니다. 
+The park is open to the public. 
+The park is open to the public. 
+The park is open to the public. 
+ 
+그녀는 자신의 행동에 대해 공개적으로 사과했습니다. 
+She made a public apology for her actions. 
+She made a public apology for her actions. 
+She made a public apology for her actions. 
+ 
+그는 공직에 있습니다. 
+He holds a public office. 
+He holds a public office. 
+He holds a public office. 
+ 
+제 사적인 공간을 존중해주세요. 
+Please respect my private space. 
+Please respect my private space. 
+Please respect my private space. 
+ 
+그들은 방 구석에서 사적인 대화를 나눴습니다. 
+They had a private conversation in the corner of the room. 
+They had a private conversation in the corner of the room. 
+They had a private conversation in the corner of the room. 
+ 
+그 연예인은 매우 사적인 삶을 삽니다. 
+The celebrity lives a very private life. 
+The celebrity lives a very private life. 
+The celebrity lives a very private life.
+
+### 페이지 161
+
+방은 인공적인 빛으로 밝혀져 있었습니다. 
+The room was lit by artificial light. 
+The room was lit by artificial light. 
+The room was lit by artificial light. 
+ 
+그녀는 인공적인 맛보다 천연 맛을 선호합니다. 
+She prefers natural flavors over artificial ones. 
+She prefers natural flavors over artificial ones. 
+She prefers natural flavors over artificial ones. 
+ 
+그 호수는 댐으로 만들어진 인공적인 것입니다. 
+The lake is artificial, created by a dam. 
+The lake is artificial, created by a dam. 
+The lake is artificial, created by a dam. 
+ 
+제가 여기 온 주된 이유는 당신을 보기 위해서였습니다. 
+The main reason I came here was to see you. 
+The main reason I came here was to see you. 
+The main reason I came here was to see you. 
+ 
+토론의 주된 주제는 무엇입니까? 
+What's the main topic of the discussion? 
+What's the main topic of the discussion? 
+What's the main topic of the discussion? 
+ 
+주된 도로가 사고로 인해 막혔습니다. 
+The main road was blocked due to an accident. 
+The main road was blocked due to an accident. 
+The main road was blocked due to an accident. 
+ 
+불이 없어서 방은 완전히 어두웠습니다. 
+The room was completely dark without any lights. 
+The room was completely dark without any lights. 
+The room was completely dark without any lights.
+
+### 페이지 162
+
+그녀는 길고 어두운 머리카락을 가지고 있습니다. 
+She has long, dark hair. 
+She has long, dark hair. 
+She has long, dark hair. 
+ 
+미래는 어둡고 불확실해 보였습니다. 
+The future looked dark and uncertain. 
+The future looked dark and uncertain. 
+The future looked dark and uncertain. 
+ 
+저는 약속에 늦었습니다. 
+I was late for my appointment. 
+I was late for my appointment. 
+I was late for my appointment. 
+ 
+시간이 늦어지고 있어요, 집에 가야 해요. 
+It's getting late, we should head home. 
+It's getting late, we should head home. 
+It's getting late, we should head home. 
+ 
+그는 항상 회의에 늦습니다. 
+He's always late for meetings. 
+He's always late for meetings. 
+He's always late for meetings. 
+ 
+그는 깊이 생각하지 않고 섣부른 결정을 내렸습니다. 
+He made a quick decision without much thought. 
+He made a quick decision without much thought. 
+He made a quick decision without much thought. 
+ 
+그녀는 눈치가 빠르고 즉흥 연기에 능숙합니다. 
+She has a quick wit and is good at improvisation. 
+She has a quick wit and is good at improvisation. 
+She has a quick wit and is good at improvisation.
+
+### 페이지 163
+
+보고서에 대한 빠른 요약을 해주실 수 있나요? 
+Can you give me a quick summary of the report? 
+Can you give me a quick summary of the report? 
+Can you give me a quick summary of the report? 
+ 
+산 정상에서의 경치는 정말 믿을 수 없었습니다. 
+The view from the mountain top was absolutely incredible. 
+The view from the mountain top was absolutely incredible. 
+The view from the mountain top was absolutely incredible. 
+ 
+그는 자신의 모험에 대한 믿을 수 없는 이야기를 했습니다. 
+He told an incredible story about his adventures. 
+He told an incredible story about his adventures. 
+He told an incredible story about his adventures. 
+ 
+그녀는 위험에 직면하여 믿을 수 없는 용기를 보여주었습니다. 
+She showed incredible courage in the face of danger. 
+She showed incredible courage in the face of danger. 
+She showed incredible courage in the face of danger. 
+ 
+그는 너무 고집스러워서 마음을 바꾸지 않습니다. 
+He's too stubborn to change his mind. 
+He's too stubborn to change his mind. 
+He's too stubborn to change his mind. 
+ 
+고집스러운 얼룩은 지워지지 않았습니다. 
+The stubborn stain wouldn't come out. 
+The stubborn stain wouldn't come out. 
+The stubborn stain wouldn't come out. 
+ 
+그녀는 자신의 신념에 관해서는 고집스러운 면이 있습니다. 
+She has a stubborn streak when it comes to her beliefs. 
+She has a stubborn streak when it comes to her beliefs. 
+She has a stubborn streak when it comes to her beliefs.
+
+### 페이지 164
+
+조심하세요, 비가 와서 도로가 미끄러워요. 
+Be careful, the road is slippery after the rain. 
+Be careful, the road is slippery after the rain. 
+Be careful, the road is slippery after the rain. 
+ 
+물고기가 너무 미끄러워서 잡을 수 없었습니다. 
+The fish was too slippery to hold onto. 
+The fish was too slippery to hold onto. 
+The fish was too slippery to hold onto. 
+ 
+그는 질문을 피하면서 애매한 답변을 했습니다. 
+He gave a slippery answer, avoiding the question. 
+He gave a slippery answer, avoiding the question. 
+He gave a slippery answer, avoiding the question. 
+ 
+그는 매우 빠른 주자입니다. 
+He's a very fast runner. 
+He's a very fast runner. 
+He's a very fast runner. 
+ 
+새 컴퓨터는 믿을 수 없을 정도로 빠릅니다. 
+The new computer is incredibly fast. 
+The new computer is incredibly fast. 
+The new computer is incredibly fast. 
+ 
+그녀는 새로운 기술을 매우 빠르게 배웠습니다. 
+She learned the new skill very fast. 
+She learned the new skill very fast. 
+She learned the new skill very fast. 
+ 
+그녀는 매우 친절하고 너그러운 사람입니다. 
+She's a very kind and generous person. 
+She's a very kind and generous person. 
+She's a very kind and generous person.
+
+### 페이지 165
+
+그가 도움을 제안한 것은 친절한 행동이었습니다. 
+It was kind of him to offer his help. 
+It was kind of him to offer his help. 
+It was kind of him to offer his help. 
+ 
+동물들에게 친절하게 대해주세요. 
+Please be kind to animals. 
+Please be kind to animals. 
+Please be kind to animals. 
+ 
+그가 끼어든 것은 무례한 행동이었습니다. 
+It was rude of him to interrupt. 
+It was rude of him to interrupt. 
+It was rude of him to interrupt. 
+ 
+어른들에게 무례하게 굴지 마세요. 
+Don't be rude to your elders. 
+Don't be rude to your elders. 
+Don't be rude to your elders. 
+ 
+그녀는 진실을 깨달았을 때 무례한 현실 직시를 경험했습니다. 
+She received a rude awakening when she realized the truth. 
+She received a rude awakening when she realized the truth. 
+She received a rude awakening when she realized the truth. 
+ 
+제가 어렸을 때 부모님은 매우 엄격하셨습니다. 
+My parents were very strict when I was a child. 
+My parents were very strict when I was a child. 
+My parents were very strict when I was a child. 
+ 
+그 학교는 출석에 대한 엄격한 규칙을 가지고 있습니다. 
+The school has strict rules about attendance. 
+The school has strict rules about attendance. 
+The school has strict rules about attendance.
+
+### 페이지 166
+
+그는 엄격하지만 공정한 상사입니다. 
+He's a strict but fair boss. 
+He's a strict but fair boss. 
+He's a strict but fair boss. 
+ 
+그는 가난한 집안 출신이었습니다. 
+He came from a poor family. 
+He came from a poor family. 
+He came from a poor family. 
+ 
+가뭄 때문에 작물 수확량이 부족했습니다. 
+The crop yield was poor due to the drought. 
+The crop yield was poor due to the drought. 
+The crop yield was poor due to the drought. 
+ 
+오, 불쌍한 당신! 괜찮아요? 
+Oh, you poor thing! Are you okay? 
+Oh, you poor thing! Are you okay? 
+Oh, you poor thing! Are you okay? 
+ 
+그녀는 파티를 위해 새로운 드레스를 샀습니다. 
+She bought a new dress for the party. 
+She bought a new dress for the party. 
+She bought a new dress for the party. 
+ 
+저는 다음 주에 새로운 직장을 시작합니다. 
+I'm starting a new job next week. 
+I'm starting a new job next week. 
+I'm starting a new job next week. 
+ 
+그 도시는 많은 새롭고 흥미로운 개발을 하고 있습니다. 
+The city has many new and exciting developments. 
+The city has many new and exciting developments. 
+The city has many new and exciting developments.
+
+### 페이지 167
+
+아이는 장난을 친 후 얄미운 웃음을 지었습니다. 
+The child gave a cheeky grin after playing a prank. 
+The child gave a cheeky grin after playing a prank. 
+The child gave a cheeky grin after playing a prank. 
+ 
+그는 좀 까불지만, 해를 끼칠 의도는 없습니다. 
+He's a bit cheeky, but he means no harm. 
+He's a bit cheeky, but he means no harm. 
+He's a bit cheeky, but he means no harm. 
+ 
+그녀는 모두를 웃게 만든 얄미운 농담을 했습니다. 
+She made a cheeky comment that made everyone laugh. 
+She made a cheeky comment that made everyone laugh. 
+She made a cheeky comment that made everyone laugh. 
+ 
+이 토마토는 완벽하게 잘 익어서 먹을 준비가 되었습니다. 
+These tomatoes are perfectly ripe and ready to eat. 
+These tomatoes are perfectly ripe and ready to eat. 
+These tomatoes are perfectly ripe and ready to eat. 
+ 
+나무에 달린 과일은 달콤하고 잘 익었습니다. 
+The fruit on the tree was sweet and ripe. 
+The fruit on the tree was sweet and ripe. 
+The fruit on the tree was sweet and ripe. 
+ 
+변화할 때가 무르익었습니다. 
+The time is ripe for a change. 
+The time is ripe for a change. 
+The time is ripe for a change. 
+ 
+그의 얼굴은 저에게 매우 익숙해 보였습니다. 
+His face looked very familiar to me. 
+His face looked very familiar to me. 
+His face looked very familiar to me.
+
+### 페이지 168
+
+그 노래는 익숙한 멜로디를 가지고 있었습니다. 
+The song had a familiar melody. 
+The song had a familiar melody. 
+The song had a familiar melody. 
+ 
+저는 그 소프트웨어에 익숙하지 않습니다. 
+I'm not familiar with that software. 
+I'm not familiar with that software. 
+I'm not familiar with that software. 
+ 
+저는 낯선 도시에 있는 저를 발견했습니다. 
+I found myself in an unfamiliar city. 
+I found myself in an unfamiliar city. 
+I found myself in an unfamiliar city. 
+ 
+음식 맛이 저에게는 완전히 낯설었습니다. 
+The taste of the food was completely unfamiliar to me. 
+The taste of the food was completely unfamiliar to me. 
+The taste of the food was completely unfamiliar to me. 
+ 
+그녀는 새로운 절차에 다소 낯설게 느꼈습니다. 
+She felt a bit unfamiliar with the new procedures. 
+She felt a bit unfamiliar with the new procedures. 
+She felt a bit unfamiliar with the new procedures. 
+ 
+우리는 이 물건들을 따로 보관해야 합니다. 
+We need to keep these items separate. 
+We need to keep these items separate. 
+We need to keep these items separate. 
+ 
+그들은 별도의 휴가를 가기로 결정했습니다. 
+They decided to take separate vacations. 
+They decided to take separate vacations. 
+They decided to take separate vacations.
+
+### 페이지 169
+
+두 가지 문제는 완전히 별개입니다. 
+The two issues are entirely separate. 
+The two issues are entirely separate. 
+The two issues are entirely separate. 
+ 
+그녀는 매우 명랑한 성격을 가지고 있습니다. 
+She has a very cheerful disposition. 
+She has a very cheerful disposition. 
+She has a very cheerful disposition. 
+ 
+방은 유쾌한 색상으로 장식되었습니다. 
+The room was decorated in cheerful colors. 
+The room was decorated in cheerful colors. 
+The room was decorated in cheerful colors. 
+ 
+그는 지나가면서 명랑하게 손을 흔들었습니다. 
+He gave a cheerful wave as he walked by. 
+He gave a cheerful wave as he walked by. 
+He gave a cheerful wave as he walked by. 
+ 
+그는 조국을 위해 싸운 용감한 군인이었습니다. 
+He was a brave soldier who fought for his country. 
+He was a brave soldier who fought for his country. 
+He was a brave soldier who fought for his country. 
+ 
+자신의 실수를 인정한 것은 용감한 결정이었습니다. 
+It was a brave decision to admit his mistake. 
+It was a brave decision to admit his mistake. 
+It was a brave decision to admit his mistake. 
+ 
+그녀는 두려움에도 불구하고 용감한 표정을 지었습니다. 
+She showed a brave face despite her fear. 
+She showed a brave face despite her fear. 
+She showed a brave face despite her fear.
+
+### 페이지 170
+
+지시사항은 따르기 매우 간단했습니다. 
+The instructions were very simple to follow. 
+The instructions were very simple to follow. 
+The instructions were very simple to follow. 
+ 
+그는 시골에서의 단순한 삶을 선호했습니다. 
+He preferred a simple life in the countryside. 
+He preferred a simple life in the countryside. 
+He preferred a simple life in the countryside. 
+ 
+그것은 복잡한 문제에 대한 간단한 해결책입니다. 
+It's a simple solution to a complex problem. 
+It's a simple solution to a complex problem. 
+It's a simple solution to a complex problem. 
+ 
+저에게 솔직하게 말해주세요. 
+Please be honest with me. 
+Please be honest with me. 
+Please be honest with me. 
+ 
+그는 항상 진실을 말하는 정직한 사람입니다. 
+He's an honest man who always tells the truth. 
+He's an honest man who always tells the truth. 
+He's an honest man who always tells the truth. 
+ 
+그녀는 그 그림에 대해 솔직한 의견을 주었습니다. 
+She gave an honest opinion about the painting. 
+She gave an honest opinion about the painting. 
+She gave an honest opinion about the painting. 
+ 
+그 문제는 너무 복잡해서 빨리 해결할 수 없었습니다. 
+The problem was too complex to solve quickly. 
+The problem was too complex to solve quickly. 
+The problem was too complex to solve quickly.
+
+### 페이지 171
+
+인간의 뇌는 믿을 수 없을 정도로 복잡한 기관입니다. 
+The human brain is an incredibly complex organ. 
+The human brain is an incredibly complex organ. 
+The human brain is an incredibly complex organ. 
+ 
+그녀는 복잡한 이론을 간단한 용어로 설명했습니다. 
+She explained the complex theory in simple terms. 
+She explained the complex theory in simple terms. 
+She explained the complex theory in simple terms. 
+ 
+새로운 시스템은 훨씬 더 효율적입니다. 
+The new system is much more efficient. 
+The new system is much more efficient. 
+The new system is much more efficient. 
+ 
+그녀는 많은 일을 해내는 매우 효율적인 일꾼입니다. 
+She's a very efficient worker who gets a lot done. 
+She's a very efficient worker who gets a lot done. 
+She's a very efficient worker who gets a lot done. 
+ 
+우리는 에너지를 사용하는 더 효율적인 방법을 찾아야 합니다. 
+We need to find more efficient ways to use energy. 
+We need to find more efficient ways to use energy. 
+We need to find more efficient ways to use energy. 
+ 
+그들은 전통적인 잔치로 휴일을 기념했습니다. 
+They celebrated the holiday with a traditional feast. 
+They celebrated the holiday with a traditional feast. 
+They celebrated the holiday with a traditional feast. 
+ 
+그녀는 전통 한복을 입었습니다. 
+She wore a traditional Korean dress. 
+She wore a traditional Korean dress. 
+She wore a traditional Korean dress.
+
+### 페이지 172
+
+그 회사는 전통적인 제조 방식을 사용합니다. 
+The company uses traditional methods of manufacturing. 
+The company uses traditional methods of manufacturing. 
+The company uses traditional methods of manufacturing. 
+ 
+그녀는 독창적인 아이디어를 가진 매우 창의적인 예술가입니다. 
+She's a very creative artist with original ideas. 
+She's a very creative artist with original ideas. 
+She's a very creative artist with original ideas. 
+ 
+이 문제에 대한 창의적인 해결책이 필요합니다. 
+We need some creative solutions to this problem. 
+We need some creative solutions to this problem. 
+We need some creative solutions to this problem. 
+ 
+그는 창의적인 사고를 가지고 항상 새로운 것을 생각해냅니다. 
+He has a creative mind and is always coming up with new things. 
+He has a creative mind and is always coming up with new things. 
+He has a creative mind and is always coming up with new things. 
+ 
+정말 멋진 차네요! 
+That's a really cool car! 
+That's a really cool car! 
+That's a really cool car! 
+ 
+그는 압박감 속에서도 침착함을 유지했습니다. 
+He stayed cool under pressure. 
+He stayed cool under pressure. 
+He stayed cool under pressure. 
+ 
+좋은 생각이지만, 효과가 있을지 모르겠어요. 
+It's a cool idea, but I'm not sure it will work. 
+It's a cool idea, but I'm not sure it will work. 
+It's a cool idea, but I'm not sure it will work.
+
+### 페이지 173
+
+그 마을은 자연으로 둘러싸인 평화로운 곳입니다. 
+The village is a peaceful place surrounded by nature. 
+The village is a peaceful place surrounded by nature. 
+The village is a peaceful place surrounded by nature. 
+ 
+저는 책을 읽으며 평화로운 오후를 보냈습니다. 
+I spent a peaceful afternoon reading a book. 
+I spent a peaceful afternoon reading a book. 
+I spent a peaceful afternoon reading a book. 
+ 
+우리는 갈등에 대한 평화로운 해결을 희망합니다. 
+We hope for a peaceful resolution to the conflict. 
+We hope for a peaceful resolution to the conflict. 
+We hope for a peaceful resolution to the conflict. 
+ 
+그 영화는 너무 지루해서 잠들었습니다. 
+The movie was so boring that I fell asleep. 
+The movie was so boring that I fell asleep. 
+The movie was so boring that I fell asleep. 
+ 
+저는 도전할 만한 것이 없는 지루한 직업을 가지고 있습니다. 
+I have a boring job that offers no challenges. 
+I have a boring job that offers no challenges. 
+I have a boring job that offers no challenges. 
+ 
+회의를 너무 지루하게 만들지 마세요. 
+Don't make the meeting too boring. 
+Don't make the meeting too boring. 
+Don't make the meeting too boring. 
+ 
+현지인들은 매우 친절하고 환영하는 분위기였습니다. 
+The locals were very friendly and welcoming. 
+The locals were very friendly and welcoming. 
+The locals were very friendly and welcoming.
+
+### 페이지 174
+
+그녀는 매우 친근한 미소를 가지고 있습니다. 
+She has a very friendly smile. 
+She has a very friendly smile. 
+She has a very friendly smile. 
+ 
+그는 항상 새로운 사람들에게 친절합니다. 
+He's always friendly to new people. 
+He's always friendly to new people. 
+He's always friendly to new people. 
+ 
+모기 물린 곳 때문에 피부가 너무 가려워요. 
+My skin is so itchy from the mosquito bites. 
+My skin is so itchy from the mosquito bites. 
+My skin is so itchy from the mosquito bites. 
+ 
+팔에 가려운 발진이 있습니다. 
+I have an itchy rash on my arm. 
+I have an itchy rash on my arm. 
+I have an itchy rash on my arm. 
+ 
+양모를 입으면 가끔 피부가 가렵습니다. 
+Wearing wool sometimes makes my skin itchy. 
+Wearing wool sometimes makes my skin itchy. 
+Wearing wool sometimes makes my skin itchy. 
+ 
+너무 배고파서 말이라도 먹을 수 있겠어요! 
+I'm so hungry I could eat a horse! 
+I'm so hungry I could eat a horse! 
+I'm so hungry I could eat a horse! 
+ 
+아이들은 하루 종일 놀고 나서 배고팠습니다. 
+The children were hungry after playing all day. 
+The children were hungry after playing all day. 
+The children were hungry after playing all day.
+
+### 페이지 175
+
+뭐 좀 먹으러 가자; 배고프네. 
+Let's grab a bite; I'm feeling hungry. 
+Let's grab a bite; I'm feeling hungry. 
+Let's grab a bite; I'm feeling hungry. 
+ 
+경비원은 밤새도록 주의했습니다. 
+The guard remained alert throughout the night. 
+The guard remained alert throughout the night. 
+The guard remained alert throughout the night. 
+ 
+장거리 운전 시에는 기민하게 대처하는 것이 중요합니다. 
+It's important to stay alert when driving long distances. 
+It's important to stay alert when driving long distances. 
+It's important to stay alert when driving long distances. 
+ 
+그녀는 항상 좋은 질문을 하는 기민한 학생이었습니다. 
+She was an alert student who always asked good questions. 
+She was an alert student who always asked good questions. 
+She was an alert student who always asked good questions. 
+ 
+그녀는 빨간 드레스를 입고 정말 멋져 보였습니다. 
+She looked absolutely stunning in her red dress. 
+She looked absolutely stunning in her red dress. 
+She looked absolutely stunning in her red dress. 
+ 
+산 정상에서의 경치는 눈부셨습니다. 
+The view from the top of the mountain was stunning. 
+The view from the top of the mountain was stunning. 
+The view from the top of the mountain was stunning. 
+ 
+그것은 오케스트라의 멋진 공연이었습니다. 
+It was a stunning performance by the orchestra. 
+It was a stunning performance by the orchestra. 
+It was a stunning performance by the orchestra.
+
+### 페이지 176
+
+이 신발은 저에게 너무 꽉 낍니다. 
+These shoes are too tight for me. 
+These shoes are too tight for me. 
+These shoes are too tight for me. 
+ 
+이 프로젝트에 대한 마감 기한이 매우 빠듯합니다. 
+We have a very tight deadline for this project. 
+We have a very tight deadline for this project. 
+We have a very tight deadline for this project. 
+ 
+꽉 잡아! 
+Hold on tight! 
+Hold on tight! 
+Hold on tight! 
+ 
+그는 과도한 무력 사용으로 처벌받았습니다. 
+He was punished for excessive use of force. 
+He was punished for excessive use of force. 
+He was punished for excessive use of force. 
+ 
+과도한 양의 설탕을 섭취하지 마세요. 
+Don't consume an excessive amount of sugar. 
+Don't consume an excessive amount of sugar. 
+Don't consume an excessive amount of sugar. 
+ 
+규제가 좀 과한 것 같습니다. 
+The regulations seem a bit excessive. 
+The regulations seem a bit excessive. 
+The regulations seem a bit excessive. 
+ 
+정답을 맞혔습니다. 
+You got the answer right. 
+You got the answer right. 
+You got the answer right.
+
+### 페이지 177
+
+올바른 일을 하는 것이 중요합니다. 
+It's important to do the right thing. 
+It's important to do the right thing. 
+It's important to do the right thing. 
+ 
+그는 그 일에 적합한 사람입니다. 
+He's the right person for the job. 
+He's the right person for the job. 
+He's the right person for the job. 
+ 
+그녀는 약속 시간에 항상 시간을 잘 지킵니다. 
+She's always very punctual for her appointments. 
+She's always very punctual for her appointments. 
+She's always very punctual for her appointments. 
+ 
+시간을 잘 지키는 것은 다른 사람의 시간을 존중하는 것을 보여줍니다. 
+Being punctual shows respect for others' time. 
+Being punctual shows respect for others' time. 
+Being punctual shows respect for others' time. 
+ 
+기차는 놀랍도록 시간을 잘 지켰습니다. 
+The train was surprisingly punctual. 
+The train was surprisingly punctual. 
+The train was surprisingly punctual. 
+ 
+하루 종일 일해서 완전히 지쳤습니다. 
+I'm utterly exhausted after working all day. 
+I'm utterly exhausted after working all day. 
+I'm utterly exhausted after working all day. 
+ 
+그녀는 마라톤을 뛰고 나서 지쳤습니다. 
+She felt exhausted after running the marathon. 
+She felt exhausted after running the marathon. 
+She felt exhausted after running the marathon.
+
+### 페이지 178
+
+구조대는 지쳤지만 안도했습니다. 
+The rescue team was exhausted but relieved. 
+The rescue team was exhausted but relieved. 
+The rescue team was exhausted but relieved. 
+ 
+그녀는 새로운 사람들을 만나는 것을 좋아하는 매우 외향적인 사람입니다. 
+She's a very outgoing person who loves meeting new people. 
+She's a very outgoing person who loves meeting new people. 
+She's a very outgoing person who loves meeting new people. 
+ 
+그는 자신을 인기 있게 만드는 외향적인 성격을 가지고 있습니다. 
+He has an outgoing personality that makes him popular. 
+He has an outgoing personality that makes him popular. 
+He has an outgoing personality that makes him popular. 
+ 
+그 회사는 외향적인 영업 담당자를 찾고 있습니다. 
+The company is looking for an outgoing sales representative. 
+The company is looking for an outgoing sales representative. 
+The company is looking for an outgoing sales representative. 
+ 
+그는 아무도 웃지 않는 구식 농담을 했습니다. 
+He told a corny joke that nobody laughed at. 
+He told a corny joke that nobody laughed at. 
+He told a corny joke that nobody laughed at. 
+ 
+그 영화의 결말은 너무 오글거렸습니다. 
+The movie's ending was so corny. 
+The movie's ending was so corny. 
+The movie's ending was so corny. 
+ 
+오글거리는 소리겠지만, 진심으로 당신을 사랑합니다. 
+I know it sounds corny, but I truly love you. 
+I know it sounds corny, but I truly love you. 
+I know it sounds corny, but I truly love you.
+
+### 페이지 179
+
+그는 그녀에게 유치한 작업 멘트를 날렸습니다. 
+He gave her a cheesy pickup line. 
+He gave her a cheesy pickup line. 
+He gave her a cheesy pickup line. 
+ 
+그 영화의 특수 효과는 정말 저렴했습니다. 
+The special effects in the film were really cheesy. 
+The special effects in the film were really cheesy. 
+The special effects in the film were really cheesy. 
+ 
+그렇게 오글거리지 마세요! 
+Don't be so cheesy! 
+Don't be so cheesy! 
+Don't be so cheesy! 
+ 
+우리는 벽난로 옆에서 아늑한 저녁을 보냈습니다. 
+We spent a cozy evening by the fireplace. 
+We spent a cozy evening by the fireplace. 
+We spent a cozy evening by the fireplace. 
+ 
+작은 오두막은 겨울에 매우 아늑하게 느껴졌습니다. 
+The small cabin felt very cozy in the winter. 
+The small cabin felt very cozy in the winter. 
+The small cabin felt very cozy in the winter. 
+ 
+그녀는 침실에 아늑한 독서 공간을 만들었습니다. 
+She created a cozy reading nook in her bedroom. 
+She created a cozy reading nook in her bedroom. 
+She created a cozy reading nook in her bedroom. 
+ 
+그녀는 나이에 비해 매우 성숙합니다. 
+She's very mature for her age. 
+She's very mature for her age. 
+She's very mature for her age.
+
+### 페이지 180
+
+그는 어려운 상황에 대해 매우 성숙한 접근 방식을 가지고 있습니다. 
+He has a very mature approach to difficult situations. 
+He has a very mature approach to difficult situations. 
+He has a very mature approach to difficult situations. 
+ 
+과일은 더 익을 시간이 필요합니다. 
+The fruits need more time to mature. 
+The fruits need more time to mature. 
+The fruits need more time to mature. 
+ 
+그의 행동은 성인 남성치고는 매우 유치했습니다. 
+His behavior was very immature for a grown man. 
+His behavior was very immature for a grown man. 
+His behavior was very immature for a grown man. 
+ 
+그렇게 유치하게 굴지 마세요! 
+Don't be so immature! 
+Don't be so immature! 
+Don't be so immature! 
+ 
+그녀의 발언은 다소 유치하고 도움이 되지 않았습니다. 
+Her comments were rather immature and unhelpful. 
+Her comments were rather immature and unhelpful. 
+Her comments were rather immature and unhelpful. 
+ 
+그녀는 큰 목표를 가진 의욕 넘치는 젊은 여성입니다. 
+She's an ambitious young woman with big goals. 
+She's an ambitious young woman with big goals. 
+She's an ambitious young woman with big goals. 
+ 
+그는 회사를 확장할 야심 있는 계획을 가지고 있습니다. 
+He has an ambitious plan to expand the company. 
+He has an ambitious plan to expand the company. 
+He has an ambitious plan to expand the company.
+
+### 페이지 181
+
+그것은 야심 있는 프로젝트였지만, 그들은 성공했습니다. 
+It was an ambitious project, but they succeeded. 
+It was an ambitious project, but they succeeded. 
+It was an ambitious project, but they succeeded. 
+ 
+그는 매우 매력적인 미소를 가지고 있습니다. 
+He has a very charming smile. 
+He has a very charming smile. 
+He has a very charming smile. 
+ 
+그 오래된 도시는 좁은 거리들로 인해 믿을 수 없을 정도로 매력적이었습니다. 
+The old town was incredibly charming with its narrow streets. 
+The old town was incredibly charming with its narrow streets. 
+The old town was incredibly charming with its narrow streets. 
+ 
+그녀는 그가 매우 매력적이고 대화하기 쉽다고 생각했습니다. 
+She found him very charming and easy to talk to. 
+She found him very charming and easy to talk to. 
+She found him very charming and easy to talk to. 
+ 
+판사는 공정한 판결을 내렸습니다. 
+The judge made a fair decision. 
+The judge made a fair decision. 
+The judge made a fair decision. 
+ 
+그것은 품질에 비해 괜찮은 가격입니다. 
+It's a fair price for the quality. 
+It's a fair price for the quality. 
+It's a fair price for the quality. 
+ 
+공정하게 말하면, 그는 최선을 다했습니다. 
+To be fair, he did try his best. 
+To be fair, he did try his best. 
+To be fair, he did try his best.
+
+### 페이지 182
+
+제품의 품질은 허용됩니다. 
+The quality of the product is acceptable. 
+The quality of the product is acceptable. 
+The quality of the product is acceptable. 
+ 
+이러한 행동은 우리 회사에서 용납되지 않습니다. 
+This behavior is not acceptable in our company. 
+This behavior is not acceptable in our company. 
+This behavior is not acceptable in our company. 
+ 
+그것은 허용되는 위험이지만, 우리는 조심해야 합니다. 
+It's an acceptable risk, but we should be careful. 
+It's an acceptable risk, but we should be careful. 
+It's an acceptable risk, but we should be careful. 
+ 
+우리는 파티에서 훌륭한 시간을 보냈습니다. 
+We had a great time at the party. 
+We had a great time at the party. 
+We had a great time at the party. 
+ 
+그는 발표를 훌륭하게 해냈습니다. 
+He did a great job on the presentation. 
+He did a great job on the presentation. 
+He did a great job on the presentation. 
+ 
+훌륭한 생각입니다! 
+That's a great idea! 
+That's a great idea! 
+That's a great idea! 
+ 
+시험은 놀랍도록 쉬웠습니다. 
+The exam was surprisingly easy. 
+The exam was surprisingly easy. 
+The exam was surprisingly easy.
+
+### 페이지 183
+
+조심하지 않으면 실수하기 쉽습니다. 
+It's easy to make mistakes if you're not careful. 
+It's easy to make mistakes if you're not careful. 
+It's easy to make mistakes if you're not careful. 
+ 
+그는 느긋한 성격을 가지고 있습니다. 
+He has an easygoing personality. 
+He has an easygoing personality. 
+He has an easygoing personality. 
+ 
+그것은 내리기 힘든 결정이었습니다. 
+It was a tough decision to make. 
+It was a tough decision to make. 
+It was a tough decision to make. 
+ 
+그는 이기기 힘든 경쟁자입니다. 
+He's a tough competitor to beat. 
+He's a tough competitor to beat. 
+He's a tough competitor to beat. 
+ 
+고기가 좀 질겼습니다. 
+The meat was a bit tough. 
+The meat was a bit tough. 
+The meat was a bit tough. 
+ 
+저는 이 지시사항 때문에 완전히 혼란스럽습니다. 
+I'm totally confused by these instructions. 
+I'm totally confused by these instructions. 
+I'm totally confused by these instructions. 
+ 
+제가 질문했을 때 그녀는 혼란스러워 보였습니다. 
+She looked confused when I asked the question. 
+She looked confused when I asked the question. 
+She looked confused when I asked the question.
+
+### 페이지 184
+
+갑작스러운 변화는 그를 혼란스럽게 만들었습니다. 
+The sudden change left him feeling confused. 
+The sudden change left him feeling confused. 
+The sudden change left him feeling confused. 
+ 
+슈퍼마켓은 매우 편리한 위치에 있습니다. 
+The supermarket is very conveniently located. 
+The supermarket is very conveniently located. 
+The supermarket is very conveniently located. 
+ 
+근처에 버스 정류장이 있는 것이 편리합니다. 
+It's convenient to have a bus stop nearby. 
+It's convenient to have a bus stop nearby. 
+It's convenient to have a bus stop nearby. 
+ 
+가장 편리한 시간에 전화 주세요. 
+Please call me at your earliest convenient time. 
+Please call me at your earliest convenient time. 
+Please call me at your earliest convenient time. 
+ 
+콘서트가 정말 환상적이었습니다! 
+The concert was absolutely fantastic! 
+The concert was absolutely fantastic! 
+The concert was absolutely fantastic! 
+ 
+프로젝트를 환상적으로 해냈습니다. 
+You did a fantastic job on the project. 
+You did a fantastic job on the project. 
+You did a fantastic job on the project. 
+ 
+정말 환상적인 경치네요! 
+What a fantastic view! 
+What a fantastic view! 
+What a fantastic view!
+
+### 페이지 185
+
+그의 방은 항상 엉망입니다. 
+His room is always so messy. 
+His room is always so messy. 
+His room is always so messy. 
+ 
+쏟아진 페인트가 큰 엉망을 만들었습니다. 
+The spilled paint made a huge messy. 
+The spilled paint made a huge messy. 
+The spilled paint made a huge messy. 
+ 
+그녀의 머리는 바람 때문에 엉망이었습니다. 
+Her hair was messy from the wind. 
+Her hair was messy from the wind. 
+Her hair was messy from the wind. 
+ 
+그녀는 운동을 좋아하는 매우 활력 있는 사람입니다. 
+She's a very energetic person who loves to exercise. 
+She's a very energetic person who loves to exercise. 
+She's a very energetic person who loves to exercise. 
+ 
+아이들은 놀면서 활력이 넘쳤습니다. 
+The children were full of energetic as they played. 
+The children were full of energetic as they played. 
+The children were full of energetic as they played. 
+ 
+그는 무대에서 활력 있는 공연을 펼쳤습니다. 
+He gave an energetic performance on stage. 
+He gave an energetic performance on stage. 
+He gave an energetic performance on stage. 
+ 
+도로는 몇 마일 동안 평평했습니다. 
+The road was flat for miles. 
+The road was flat for miles. 
+The road was flat for miles.
+
+### 페이지 186
+
+타이어가 펑크 났어요. 
+I have a flat tire. 
+I have a flat tire. 
+I have a flat tire. 
+ 
+소다가 너무 오래 밖에 있어서 김이 빠졌습니다. 
+The soda went flat after sitting out for too long. 
+The soda went flat after sitting out for too long. 
+The soda went flat after sitting out for too long. 
+ 
+파티에는 편안한 옷을 입어도 됩니다. 
+You can wear casual clothes to the party. 
+You can wear casual clothes to the party. 
+You can wear casual clothes to the party. 
+ 
+그들은 커피를 마시며 격식을 차리지 않는 대화를 나눴습니다. 
+They had a casual conversation over coffee. 
+They had a casual conversation over coffee. 
+They had a casual conversation over coffee. 
+ 
+그는 경영에 대한 편안한 접근 방식을 선호합니다. 
+He prefers a casual approach to management. 
+He prefers a casual approach to management. 
+He prefers a casual approach to management. 
+ 
+그녀는 항상 학생들을 먼저 생각하는 헌신적인 선생님입니다. 
+She's a dedicated teacher who always puts her students first. 
+She's a dedicated teacher who always puts her students first. 
+She's a dedicated teacher who always puts her students first. 
+ 
+그는 자신의 연구에 헌신적입니다. 
+He is dedicated to his research. 
+He is dedicated to his research. 
+He is dedicated to his research.
+
+### 페이지 187
+
+팀은 프로젝트를 완료하기 위해 헌신적인 노력을 보여주었습니다. 
+The team showed dedicated effort to complete the project. 
+The team showed dedicated effort to complete the project. 
+The team showed dedicated effort to complete the project. 
+ 
+나무 줄기는 속이 비어 있었습니다. 
+The tree trunk was hollow inside. 
+The tree trunk was hollow inside. 
+The tree trunk was hollow inside. 
+ 
+그는 가슴에 공허한 통증을 느꼈습니다. 
+He felt a hollow ache in his chest. 
+He felt a hollow ache in his chest. 
+He felt a hollow ache in his chest. 
+ 
+그의 약속은 공허하게 들렸습니다. 
+His promises sounded hollow. 
+His promises sounded hollow. 
+His promises sounded hollow. 
+ 
+의사는 그에게 엄격한 경고를 주었습니다. 
+The doctor gave him a firm warning. 
+The doctor gave him a firm warning. 
+The doctor gave him a firm warning. 
+ 
+매트리스는 꽤 단단했습니다. 
+The mattress was quite firm. 
+The mattress was quite firm. 
+The mattress was quite firm. 
+ 
+그녀는 밧줄을 단단하게 잡고 있습니다. 
+She has a firm grip on the rope. 
+She has a firm grip on the rope. 
+She has a firm grip on the rope.
+
+### 페이지 188
+
+그것은 근사한 속임수네요! 
+That's a neat trick! 
+That's a neat trick! 
+That's a neat trick! 
+ 
+그의 필체는 매우 깔끔합니다. 
+His handwriting is very neat. 
+His handwriting is very neat. 
+His handwriting is very neat. 
+ 
+그녀는 자신의 책상을 멋지게 깔끔하게 유지했습니다. 
+She kept her desk wonderfully neat. 
+She kept her desk wonderfully neat. 
+She kept her desk wonderfully neat. 
+ 
+큰 행사 전에 긴장하는 것은 정상적인 일입니다. 
+It's normal to feel nervous before a big event. 
+It's normal to feel nervous before a big event. 
+It's normal to feel nervous before a big event. 
+ 
+그는 정상적인 일상으로 돌아갔습니다. 
+He returned to his normal routine. 
+He returned to his normal routine. 
+He returned to his normal routine. 
+ 
+이것이 정상적인 반응입니까? 
+Is this a normal reaction? 
+Is this a normal reaction? 
+Is this a normal reaction? 
+ 
+그는 그림을 그릴 때 변함없는 손을 가지고 있습니다. 
+He has a steady hand when drawing. 
+He has a steady hand when drawing. 
+He has a steady hand when drawing.
+
+### 페이지 189
+
+그 회사는 안정적인 성장을 경험했습니다. 
+The company has experienced steady growth. 
+The company has experienced steady growth. 
+The company has experienced steady growth. 
+ 
+카메라를 안정되게 유지하세요. 
+Keep the camera steady. 
+Keep the camera steady. 
+Keep the camera steady. 
+ 
+저는 구운 아몬드의 고소한 맛을 좋아해요. 
+I love the nutty flavor of roasted almonds. 
+I love the nutty flavor of roasted almonds. 
+I love the nutty flavor of roasted almonds. 
+ 
+그는 꽤 이상한 생각을 가지고 있습니다. 
+He has some pretty nutty ideas. 
+He has some pretty nutty ideas. 
+He has some pretty nutty ideas. 
+ 
+정말 특이한 말이네요! 
+That's a nutty thing to say! 
+That's a nutty thing to say! 
+That's a nutty thing to say! 
+ 
+답은 모두가 볼 수 있도록 명백했습니다. 
+The answer was plain for everyone to see. 
+The answer was plain for everyone to see. 
+The answer was plain for everyone to see. 
+ 
+그녀는 평범한 흰색 티셔츠를 입었습니다. 
+She wore a plain white T-shirt. 
+She wore a plain white T-shirt. 
+She wore a plain white T-shirt.
+
+### 페이지 190
+
+양념이 없어서 수프 맛이 좀 밍밍했습니다. 
+The soup tasted a bit plain without any seasoning. 
+The soup tasted a bit plain without any seasoning. 
+The soup tasted a bit plain without any seasoning. 
+ 
+그녀는 항상 다른 사람들을 돕는 매우 배려하는 사람입니다. 
+She's a very caring person who always helps others. 
+She's a very caring person who always helps others. 
+She's a very caring person who always helps others. 
+ 
+그는 배려하는 마음을 가지고 있습니다. 
+He has a caring heart. 
+He has a caring heart. 
+He has a caring heart. 
+ 
+좋은 간호사가 되려면 배려심이 있어야 합니다. 
+Being a good nurse requires you to be caring. 
+Being a good nurse requires you to be caring. 
+Being a good nurse requires you to be caring. 
+ 
+행사에는 정장을 입어야 합니다. 
+You need to wear formal attire to the event. 
+You need to wear formal attire to the event. 
+You need to wear formal attire to the event. 
+ 
+회의는 매우 형식적인 방식으로 진행되었습니다. 
+The meeting was conducted in a very formal manner. 
+The meeting was conducted in a very formal manner. 
+The meeting was conducted in a very formal manner. 
+ 
+그는 비즈니스 커뮤니케이션에서 공식적인 언어를 선호합니다. 
+He prefers formal language in business communications. 
+He prefers formal language in business communications. 
+He prefers formal language in business communications.
+
+### 페이지 191
+
+우리는 커피를 마시며 비공식적인 대화를 나눴습니다. 
+We had an informal chat over coffee. 
+We had an informal chat over coffee. 
+We had an informal chat over coffee. 
+ 
+이 모임에는 비공식적인 옷을 입어도 됩니다. 
+You can wear informal clothes to this gathering. 
+You can wear informal clothes to this gathering. 
+You can wear informal clothes to this gathering. 
+ 
+그는 개인 이메일에서 비공식적인 글쓰기 스타일을 사용합니다. 
+He uses an informal style of writing in his personal emails. 
+He uses an informal style of writing in his personal emails. 
+He uses an informal style of writing in his personal emails. 
+ 
+그녀는 혼자 사는 매우 독립적인 여성입니다. 
+She's a very independent woman who lives on her own. 
+She's a very independent woman who lives on her own. 
+She's a very independent woman who lives on her own. 
+ 
+그 나라는 식민 통치로부터 독립을 얻었습니다. 
+The country gained its independent from colonial rule. 
+The country gained its independent from colonial rule. 
+The country gained its independent from colonial rule. 
+ 
+그는 독립적인 정신을 가지고 스스로 생각합니다. 
+He has an independent mind and thinks for himself. 
+He has an independent mind and thinks for himself. 
+He has an independent mind and thinks for himself. 
+ 
+그는 성공하고자 하는 강렬한 열망을 가지고 있습니다. 
+He has an intense desire to succeed. 
+He has an intense desire to succeed. 
+He has an intense desire to succeed.
+
+### 페이지 192
+
+열기가 너무 극심해서 우리는 안으로 들어가야 했습니다. 
+The heat was so intense we had to go inside. 
+The heat was so intense we had to go inside. 
+The heat was so intense we had to go inside. 
+ 
+그녀는 무대에서 격렬한 공연을 펼쳤습니다. 
+She gave an intense performance on stage. 
+She gave an intense performance on stage. 
+She gave an intense performance on stage. 
+ 
+어린 남동생에게 못되게 굴지 마세요. 
+Don't be mean to your little brother. 
+Don't be mean to your little brother. 
+Don't be mean to your little brother. 
+ 
+그것은 매우 못된 말이었습니다. 
+That was a very mean thing to say. 
+That was a very mean thing to say. 
+That was a very mean thing to say. 
+ 
+그는 평소에는 못되지 않지만, 기분이 안 좋았습니다. 
+He's not usually mean, but he was in a bad mood. 
+He's not usually mean, but he was in a bad mood. 
+He's not usually mean, but he was in a bad mood. 
+ 
+할머니의 반지는 저에게 매우 소중합니다. 
+My grandmother's ring is very precious to me. 
+My grandmother's ring is very precious to me. 
+My grandmother's ring is very precious to me. 
+ 
+시간은 소중한 자원입니다. 
+Time is a precious commodity. 
+Time is a precious commodity. 
+Time is a precious commodity.
+
+### 페이지 193
+
+그녀는 아기를 품에 안고, 너무나 소중하다고 느꼈습니다. 
+She held the baby in her arms, feeling it was so precious. 
+She held the baby in her arms, feeling it was so precious. 
+She held the baby in her arms, feeling it was so precious. 
+ 
+그녀는 너무 오래 서 있어서 약간 기운이 없었습니다. 
+She felt a bit faint after standing for so long. 
+She felt a bit faint after standing for so long. 
+She felt a bit faint after standing for so long. 
+ 
+멀리서 희미한 소리가 들렸습니다. 
+I heard a faint noise in the distance. 
+I heard a faint noise in the distance. 
+I heard a faint noise in the distance. 
+ 
+오래된 사진은 희미한 이미지를 가지고 있었습니다. 
+The old photograph had a faint image. 
+The old photograph had a faint image. 
+The old photograph had a faint image. 
+ 
+빙글빙글 돌고 나서 어지러웠습니다. 
+I felt dizzy after spinning around. 
+I felt dizzy after spinning around. 
+I felt dizzy after spinning around. 
+ 
+그녀는 약간 어지러움을 느껴 앉아야 했습니다. 
+She felt a bit dizzy and had to sit down. 
+She felt a bit dizzy and had to sit down. 
+She felt a bit dizzy and had to sit down. 
+ 
+높이 때문에 그는 어지러움을 느꼈습니다. 
+The heights made him feel dizzy. 
+The heights made him feel dizzy. 
+The heights made him feel dizzy.
+
+### 페이지 194
+
+음식 냄새 때문에 메스꺼웠습니다. 
+The smell of the food made me feel nauseous. 
+The smell of the food made me feel nauseous. 
+The smell of the food made me feel nauseous. 
+ 
+그녀는 멀미 때문에 메스꺼움을 느꼈습니다. 
+She felt nauseous from the motion sickness. 
+She felt nauseous from the motion sickness. 
+She felt nauseous from the motion sickness. 
+ 
+긴 자동차 여행 중에 메스꺼움을 느끼기 시작했습니다. 
+I started to feel nauseous during the long car ride. 
+I started to feel nauseous during the long car ride. 
+I started to feel nauseous during the long car ride. 
+ 
+이것은 매우 흔한 오해입니다. 
+This is a very common misunderstanding. 
+This is a very common misunderstanding. 
+This is a very common misunderstanding. 
+ 
+이 지역에서 관광객을 보는 것은 흔한 일입니다. 
+It's common to see tourists in this area. 
+It's common to see tourists in this area. 
+It's common to see tourists in this area. 
+ 
+우리는 공통점이 많습니다. 
+We have a lot in common. 
+We have a lot in common. 
+We have a lot in common. 
+ 
+그는 항상 더 많은 것을 원하는 매우 욕심 많은 사람입니다. 
+He's a very greedy person who always wants more. 
+He's a very greedy person who always wants more. 
+He's a very greedy person who always wants more.
+
+### 페이지 195
+
+그렇게 욕심 부리지 마세요! 다른 사람들과 나누세요. 
+Don't be so greedy! Share with others. 
+Don't be so greedy! Share with others. 
+Don't be so greedy! Share with others. 
+ 
+그의 욕심 많은 행동이 그의 몰락으로 이어졌습니다. 
+His greedy actions led to his downfall. 
+His greedy actions led to his downfall. 
+His greedy actions led to his downfall. 
+ 
+우리 사진 좀 찍어주시겠어요? 
+Could you take a picture of us? 
+Could you take a picture of us? 
+Could you take a picture of us? 
+ 
+자리에 앉으세요. 
+Please take a seat. 
+Please take a seat. 
+Please take a seat. 
+ 
+이 약은 하루에 두 번 복용해야 합니다. 
+You should take this medicine twice a day. 
+You should take this medicine twice a day. 
+You should take this medicine twice a day. 
+ 
+오후 6시까지 공항에 가야 해요. 
+I need to get to the airport by 6 PM. 
+I need to get to the airport by 6 PM. 
+I need to get to the airport by 6 PM. 
+ 
+콘서트 티켓 구하셨어요? 
+Did you get the tickets for the concert? 
+Did you get the tickets for the concert? 
+Did you get the tickets for the concert?
+
+### 페이지 196
+
+무슨 뜻인지 이해하지 못했어요. 
+I didn't get what you meant. 
+I didn't get what you meant. 
+I didn't get what you meant. 
+ 
+그녀는 자신의 옷을 직접 만드는 것을 좋아해요. 
+She likes to make her own clothes. 
+She likes to make her own clothes. 
+She likes to make her own clothes. 
+ 
+주말 계획을 세워요. 
+Let's make a plan for the weekend. 
+Let's make a plan for the weekend. 
+Let's make a plan for the weekend. 
+ 
+그는 마음만 먹으면 어떤 일이든 해낼 수 있습니다. 
+He can make anything happen if he puts his mind to it. 
+He can make anything happen if he puts his mind to it. 
+He can make anything happen if he puts his mind to it. 
+ 
+저는 새 차를 가지고 있어요. 
+I have a new car. 
+I have a new car. 
+I have a new car. 
+ 
+질문 있으세요? 
+Do you have any questions? 
+Do you have any questions? 
+Do you have any questions? 
+ 
+우리는 매일 저녁 7시에 저녁 식사를 합니다. 
+We have dinner at 7 PM every day. 
+We have dinner at 7 PM every day. 
+We have dinner at 7 PM every day.
+
+### 페이지 197
+
+오늘 무엇을 하고 싶어요? 
+What do you want to do today? 
+What do you want to do today? 
+What do you want to do today? 
+ 
+그녀는 항상 최선을 다하려고 노력합니다. 
+She always tries to do her best. 
+She always tries to do her best. 
+She always tries to do her best. 
+ 
+숙제를 해야 합니다. 
+I need to do my homework. 
+I need to do my homework. 
+I need to do my homework. 
+ 
+오늘 오후에 공원에 가자. 
+Let's go to the park this afternoon. 
+Let's go to the park this afternoon. 
+Let's go to the park this afternoon. 
+ 
+프로젝트는 어떻게 진행되고 있어요? 
+How's your project going? 
+How's your project going? 
+How's your project going? 
+ 
+이제 가야 해요. 
+I have to go now. 
+I have to go now. 
+I have to go now. 
+ 
+다음 주 토요일에 제 파티에 올 수 있나요? 
+Can you come to my party next Saturday? 
+Can you come to my party next Saturday? 
+Can you come to my party next Saturday?
+
+### 페이지 198
+
+들어오셔서 편안하게 계세요. 
+Please come in and make yourself comfortable. 
+Please come in and make yourself comfortable. 
+Please come in and make yourself comfortable. 
+ 
+언제 한국에 오셨어요? 
+When did you come to Korea? 
+When did you come to Korea? 
+When did you come to Korea? 
+ 
+새 영화 보셨어요? 
+Did you see the new movie? 
+Did you see the new movie? 
+Did you see the new movie? 
+ 
+무슨 뜻인지 알겠어요. 
+I see what you mean. 
+I see what you mean. 
+I see what you mean. 
+ 
+다음에 무슨 일이 일어날지 봅시다. 
+Let's see what happens next. 
+Let's see what happens next. 
+Let's see what happens next. 
+ 
+그의 이름을 아세요? 
+Do you know his name? 
+Do you know his name? 
+Do you know his name? 
+ 
+그 질문에 대한 답을 몰라요. 
+I don't know the answer to that question. 
+I don't know the answer to that question. 
+I don't know the answer to that question.
+
+### 페이지 199
+
+그녀는 고대 역사에 대해 많이 알고 있습니다. 
+She knows a lot about ancient history. 
+She knows a lot about ancient history. 
+She knows a lot about ancient history. 
+ 
+시간 좀 알려주시겠어요? 
+Can you tell me the time? 
+Can you tell me the time? 
+Can you tell me the time? 
+ 
+그에게 제가 안부 전했다고 말해주세요. 
+Please tell him I said hello. 
+Please tell him I said hello. 
+Please tell him I said hello. 
+ 
+그녀는 아이들에게 이야기 들려주는 것을 좋아합니다. 
+She likes to tell stories to children. 
+She likes to tell stories to children. 
+She likes to tell stories to children. 
+ 
+무슨 말 했어요? 
+What did you say? 
+What did you say? 
+What did you say? 
+ 
+그는 중요한 말을 아무것도 하지 않았습니다. 
+He didn't say anything important. 
+He didn't say anything important. 
+He didn't say anything important. 
+ 
+도와주셔서 감사하다고 말하고 싶어요. 
+I want to say thank you for your help. 
+I want to say thank you for your help. 
+I want to say thank you for your help.
+
+### 페이지 200
+
+질문 하나 해도 될까요? 
+Can I ask you a question? 
+Can I ask you a question? 
+Can I ask you a question? 
+ 
+그는 역으로 가는 길을 물었습니다. 
+He asked for directions to the station. 
+He asked for directions to the station. 
+He asked for directions to the station. 
+ 
+그녀는 부모님께 허락을 구할 것입니다. 
+She will ask her parents for permission. 
+She will ask her parents for permission. 
+She will ask her parents for permission. 
+ 
+저는 선생님으로 일해요. 
+I work as a teacher. 
+I work as a teacher. 
+I work as a teacher. 
+ 
+이 기계는 아직 작동하나요? 
+Does this machine still work? 
+Does this machine still work? 
+Does this machine still work? 
+ 
+이 프로젝트를 마치기 위해 함께 일해야 합니다. 
+We need to work together to finish this project. 
+We need to work together to finish this project. 
+We need to work together to finish this project. 
+ 
+오늘은 훨씬 기분이 좋아요. 
+I feel much better today. 
+I feel much better today. 
+I feel much better today.
+
+### 페이지 201
+
+춥다고 느껴요? 
+Do you feel cold? 
+Do you feel cold? 
+Do you feel cold? 
+ 
+그녀는 음악의 진동을 느낄 수 있습니다. 
+She can feel the vibration of the music. 
+She can feel the vibration of the music. 
+She can feel the vibration of the music. 
+ 
+지금 회의를 시작합시다. 
+Let's start the meeting now. 
+Let's start the meeting now. 
+Let's start the meeting now. 
+ 
+그와 시비 걸지 마세요. 
+Don't start a fight with him. 
+Don't start a fight with him. 
+Don't start a fight with him. 
+ 
+비는 약 한 시간 전에 시작되었습니다. 
+The rain started to start about an hour ago. 
+The rain started to start about an hour ago. 
+The rain started to start about an hour ago. 
+ 
+그는 매우 빨리 뛸 수 있습니다. 
+He can run very fast. 
+He can run very fast. 
+He can run very fast. 
+ 
+그녀는 자신의 사업을 운영합니다. 
+She runs her own business. 
+She runs her own business. 
+She runs her own business.
+
+### 페이지 202
+
+그 개는 공원에서 뛰는 것을 좋아합니다. 
+The dog loves to run in the park. 
+The dog loves to run in the park. 
+The dog loves to run in the park. 
+ 
+공항까지 태워다 주시겠어요? 
+Can you drive me to the airport? 
+Can you drive me to the airport? 
+Can you drive me to the airport? 
+ 
+저는 18살 때 운전하는 것을 배웠습니다. 
+I learned to drive when I was 18. 
+I learned to drive when I was 18. 
+I learned to drive when I was 18. 
+ 
+그는 긴 도로를 운전하는 것을 좋아합니다. 
+He likes to drive on long roads. 
+He likes to drive on long roads. 
+He likes to drive on long roads. 
+ 
+저녁으로 무엇을 먹고 싶어요? 
+What do you want to eat for dinner? 
+What do you want to eat for dinner? 
+What do you want to eat for dinner? 
+ 
+건강한 음식을 먹는 것이 중요합니다. 
+It's important to eat healthy food. 
+It's important to eat healthy food. 
+It's important to eat healthy food. 
+ 
+그녀는 신선한 과일을 먹는 것을 좋아합니다. 
+She loves to eat fresh fruits. 
+She loves to eat fresh fruits. 
+She loves to eat fresh fruits.
+
+### 페이지 203
+
+마실 것 좀 필요해요. 
+I need something to drink. 
+I need something to drink. 
+I need something to drink. 
+ 
+물을 많이 마시세요. 
+Please drink plenty of water. 
+Please drink plenty of water. 
+Please drink plenty of water. 
+ 
+그는 커피를 마시지 않습니다. 
+He doesn't drink coffee. 
+He doesn't drink coffee. 
+He doesn't drink coffee. 
+ 
+저는 보통 밤에 8시간 동안 잠을 잡니다. 
+I usually sleep for 8 hours a night. 
+I usually sleep for 8 hours a night. 
+I usually sleep for 8 hours a night. 
+ 
+잘 잤어요? 
+Did you sleep well? 
+Did you sleep well? 
+Did you sleep well? 
+ 
+아기가 평화롭게 자고 있습니다. 
+The baby is sleeping peacefully. 
+The baby is sleeping peacefully. 
+The baby is sleeping peacefully. 
+ 
+해변까지 걸어가요. 
+Let's walk to the beach. 
+Let's walk to the beach. 
+Let's walk to the beach.
+
+### 페이지 204
+
+문까지 바래다 주시겠어요? 
+Can you walk me to the door? 
+Can you walk me to the door? 
+Can you walk me to the door? 
+ 
+그녀는 저녁에 긴 산책을 하는 것을 즐깁니다. 
+She enjoys taking long walks in the evening. 
+She enjoys taking long walks in the evening. 
+She enjoys taking long walks in the evening. 
+ 
+앉으세요. 
+Please sit down. 
+Please sit down. 
+Please sit down. 
+ 
+그는 창가에 앉는 것을 좋아합니다. 
+He likes to sit by the window. 
+He likes to sit by the window. 
+He likes to sit by the window. 
+ 
+그녀는 저에게 옆에 앉으라고 요청했습니다. 
+She asked me to sit next to her. 
+She asked me to sit next to her. 
+She asked me to sit next to her. 
+ 
+이 더위를 견딜 수 없어요. 
+I can't stand this heat. 
+I can't stand this heat. 
+I can't stand this heat. 
+ 
+그는 콘서트 내내 서 있어야 했습니다. 
+He had to stand for the entire concert. 
+He had to stand for the entire concert. 
+He had to stand for the entire concert.
+
+### 페이지 205
+
+그 오래된 건물은 지진 후에도 여전히 서 있습니다. 
+The old building still stands after the earthquake. 
+The old building still stands after the earthquake. 
+The old building still stands after the earthquake. 
+ 
+무슨 책 읽고 있어요? 
+What book are you reading? 
+What book are you reading? 
+What book are you reading? 
+ 
+저는 자기 전에 책 읽는 것을 좋아해요. 
+I love to read before bed. 
+I love to read before bed. 
+I love to read before bed. 
+ 
+이것을 소리 내어 읽어주시겠어요? 
+Can you read this out loud? 
+Can you read this out loud? 
+Can you read this out loud? 
+ 
+이름을 명확하게 써주세요. 
+Please write your name clearly. 
+Please write your name clearly. 
+Please write your name clearly. 
+ 
+그녀는 시 쓰는 것을 좋아합니다. 
+She loves to write poems. 
+She loves to write poems. 
+She loves to write poems. 
+ 
+그는 학교 숙제로 에세이를 써야 합니다. 
+He needs to write an essay for school. 
+He needs to write an essay for school. 
+He needs to write an essay for school.
+
+### 페이지 206
+
+지시사항을 주의 깊게 들어주세요. 
+Please listen carefully to the instructions. 
+Please listen carefully to the instructions. 
+Please listen carefully to the instructions. 
+ 
+저는 일하면서 음악 듣는 것을 좋아해요. 
+I like to listen to music while I work. 
+I like to listen to music while I work. 
+I like to listen to music while I work. 
+ 
+제 말 듣고 있어요? 
+Are you listening to me? 
+Are you listening to me? 
+Are you listening to me? 
+ 
+당신의 계획에 대해 이야기합시다. 
+Let's talk about your plans. 
+Let's talk about your plans. 
+Let's talk about your plans. 
+ 
+그녀는 전화로 이야기하는 것을 좋아합니다. 
+She loves to talk on the phone. 
+She loves to talk on the phone. 
+She loves to talk on the phone. 
+ 
+우리는 매니저와 이야기해야 합니다. 
+We need to talk to the manager. 
+We need to talk to the manager. 
+We need to talk to the manager. 
+ 
+내 말 들려요? 
+Can you hear me? 
+Can you hear me? 
+Can you hear me?
+
+### 페이지 207
+
+그가 무슨 말을 했는지 들을 수 없었어요. 
+I couldn't hear what he said. 
+I couldn't hear what he said. 
+I couldn't hear what he said. 
+ 
+뉴스 들었어요? 
+Did you hear the news? 
+Did you hear the news? 
+Did you hear the news? 
+ 
+새로운 언어를 배우고 싶어요. 
+I want to learn a new language. 
+I want to learn a new language. 
+I want to learn a new language. 
+ 
+그녀는 새로운 것을 배우는 데 매우 빠릅니다. 
+She's very quick to learn new things. 
+She's very quick to learn new things. 
+She's very quick to learn new things. 
+ 
+실수로부터 많은 것을 배울 수 있습니다. 
+You can learn a lot from your mistakes. 
+You can learn a lot from your mistakes. 
+You can learn a lot from your mistakes. 
+ 
+그녀는 고등학교에서 영어를 가르칩니다. 
+She teaches English at a high school. 
+She teaches English at a high school. 
+She teaches English at a high school. 
+ 
+기타 치는 법을 가르쳐 주시겠어요? 
+Can you teach me how to play the guitar? 
+Can you teach me how to play the guitar? 
+Can you teach me how to play the guitar?
+
+### 페이지 208
+
+그는 자녀들에게 자연에 대해 가르치는 것을 좋아합니다. 
+He likes to teach his children about nature. 
+He likes to teach his children about nature. 
+He likes to teach his children about nature. 
+ 
+어떤 것을 선택하시겠어요? 
+Which one do you choose? 
+Which one do you choose? 
+Which one do you choose? 
+ 
+두 가지 선택지 중에서 골라야 합니다. 
+You have to choose between two options. 
+You have to choose between two options. 
+You have to choose between two options. 
+ 
+그녀는 항상 가장 건강한 선택을 합니다. 
+She always chooses the healthiest option. 
+She always chooses the healthiest option. 
+She always chooses the healthiest option. 
+ 
+붐비는 장소를 피하려고 노력하세요. 
+Try to avoid crowded places. 
+Try to avoid crowded places. 
+Try to avoid crowded places. 
+ 
+그는 항상 갈등을 피하려고 노력합니다. 
+He always tries to avoid conflict. 
+He always tries to avoid conflict. 
+He always tries to avoid conflict. 
+ 
+그녀는 교통 체증을 피할 수 있었습니다. 
+She managed to avoid the traffic jam. 
+She managed to avoid the traffic jam. 
+She managed to avoid the traffic jam.
+
+### 페이지 209
+
+저랑 필기 공유해 주실 수 있나요? 
+Can you share your notes with me? 
+Can you share your notes with me? 
+Can you share your notes with me? 
+ 
+신뢰하는 사람과 감정을 공유하는 것이 좋습니다. 
+It's good to share your feelings with someone you trust. 
+It's good to share your feelings with someone you trust. 
+It's good to share your feelings with someone you trust. 
+ 
+그들은 비용을 분담하기로 결정했습니다. 
+They decided to share the cost. 
+They decided to share the cost. 
+They decided to share the cost. 
+ 
+크리스마스를 위해 집을 장식합시다. 
+Let's decorate the house for Christmas. 
+Let's decorate the house for Christmas. 
+Let's decorate the house for Christmas. 
+ 
+그녀는 식물로 방을 장식하는 것을 좋아합니다. 
+She likes to decorate her room with plants. 
+She likes to decorate her room with plants. 
+She likes to decorate her room with plants. 
+ 
+그들은 새 사무실을 장식하기 위해 전문가를 고용했습니다. 
+They hired a professional to decorate the new office. 
+They hired a professional to decorate the new office. 
+They hired a professional to decorate the new office. 
+ 
+제 손을 잡아주세요. 
+Please hold my hand. 
+Please hold my hand. 
+Please hold my hand.
+
+### 페이지 210
+
+이것 좀 잠깐 잡아주시겠어요? 
+Can you hold this for a moment? 
+Can you hold this for a moment? 
+Can you hold this for a moment? 
+ 
+더 이상 숨을 참을 수 없어요. 
+I can't hold my breath any longer. 
+I can't hold my breath any longer. 
+I can't hold my breath any longer. 
+ 
+공을 다시 저에게 던져주세요. 
+Please toss the ball back to me. 
+Please toss the ball back to me. 
+Please toss the ball back to me. 
+ 
+그녀는 드레싱으로 샐러드를 버무렸습니다. 
+She tossed the salad with dressing. 
+She tossed the salad with dressing. 
+She tossed the salad with dressing. 
+ 
+옷을 그냥 바닥에 던지지 마세요. 
+Don't just toss your clothes on the floor. 
+Don't just toss your clothes on the floor. 
+Don't just toss your clothes on the floor. 
+ 
+닭고기를 적어도 한 시간 동안 숙성시켜야 합니다. 
+You should marinate the chicken for at least an hour. 
+You should marinate the chicken for at least an hour. 
+You should marinate the chicken for at least an hour. 
+ 
+주방장은 소고기를 숙성시키기 위해 특별한 소스를 사용합니다. 
+The chef uses a special sauce to marinate the beef. 
+The chef uses a special sauce to marinate the beef. 
+The chef uses a special sauce to marinate the beef.
+
+### 페이지 211
+
+맛이 밤새 숙성되도록 두세요. 
+Let the flavors marinate overnight. 
+Let the flavors marinate overnight. 
+Let the flavors marinate overnight. 
+ 
+울타리를 다듬어야 해요. 
+I need to trim my hedges. 
+I need to trim my hedges. 
+I need to trim my hedges. 
+ 
+종이 가장자리를 다듬어 주시겠어요? 
+Can you trim the edges of the paper? 
+Can you trim the edges of the paper? 
+Can you trim the edges of the paper? 
+ 
+그는 수염을 다듬기로 결정했습니다. 
+He decided to trim his beard. 
+He decided to trim his beard. 
+He decided to trim his beard. 
+ 
+그녀는 천천히 차를 조금씩 마셨습니다. 
+She slowly sipped her tea. 
+She slowly sipped her tea. 
+She slowly sipped her tea. 
+ 
+맛을 보려면 조금씩 마셔보세요. 
+Take a small sip to taste it. 
+Take a small sip to taste it. 
+Take a small sip to taste it. 
+ 
+그는 만족스럽게 와인을 조금씩 마셨습니다. 
+He sipped his wine contentedly. 
+He sipped his wine contentedly. 
+He sipped his wine contentedly.
+
+### 페이지 212
+
+핸드폰 좀 써도 될까요? 
+Can I use your phone? 
+Can I use your phone? 
+Can I use your phone? 
+ 
+우리는 더 많은 재활용 재료를 사용해야 합니다. 
+We need to use more recycled materials. 
+We need to use more recycled materials. 
+We need to use more recycled materials. 
+ 
+이 레시피에 버터가 사용되나요? 
+Does this recipe use butter? 
+Does this recipe use butter? 
+Does this recipe use butter? 
+ 
+저는 주말을 쉬면서 보내는 것을 좋아해요. 
+I like to spend my weekends relaxing. 
+I like to spend my weekends relaxing. 
+I like to spend my weekends relaxing. 
+ 
+새 차에 얼마를 썼어요? 
+How much did you spend on your new car? 
+How much did you spend on your new car? 
+How much did you spend on your new car? 
+ 
+그녀는 가족과 더 많은 시간을 보내고 싶어 합니다. 
+She wants to spend more time with her family. 
+She wants to spend more time with her family. 
+She wants to spend more time with her family. 
+ 
+그는 시내에 작은 카페를 소유하고 있습니다. 
+He owns a small cafe downtown. 
+He owns a small cafe downtown. 
+He owns a small cafe downtown.
+
+### 페이지 213
+
+이 부동산을 소유하고 계신가요? 
+Do you own this property? 
+Do you own this property? 
+Do you own this property? 
+ 
+그녀는 언젠가 자신의 사업을 소유하고 싶어 합니다. 
+She wants to own her own business one day. 
+She wants to own her own business one day. 
+She wants to own her own business one day. 
+ 
+식사 맛있게 드세요. 
+I hope you enjoy your meal. 
+I hope you enjoy your meal. 
+I hope you enjoy your meal. 
+ 
+그녀는 범죄 소설 읽는 것을 정말 즐깁니다. 
+She really enjoys reading crime novels. 
+She really enjoys reading crime novels. 
+She really enjoys reading crime novels. 
+ 
+우리는 아름다운 날씨를 즐겼습니다. 
+We enjoyed the beautiful weather. 
+We enjoyed the beautiful weather. 
+We enjoyed the beautiful weather. 
+ 
+저녁 식사 전에 손을 씻으세요. 
+Please wash your hands before dinner. 
+Please wash your hands before dinner. 
+Please wash your hands before dinner. 
+ 
+설거지를 해야 해요. 
+I need to wash the dishes. 
+I need to wash the dishes. 
+I need to wash the dishes.
+
+### 페이지 214
+
+그녀는 새 샴푸로 머리를 감았습니다. 
+She washed her hair with a new shampoo. 
+She washed her hair with a new shampoo. 
+She washed her hair with a new shampoo. 
+ 
+야채를 철저히 헹궈주세요. 
+Please rinse the vegetables thoroughly. 
+Please rinse the vegetables thoroughly. 
+Please rinse the vegetables thoroughly. 
+ 
+머리를 감은 후 시원한 물로 헹궈주세요. 
+After washing, rinse your hair with cool water. 
+After washing, rinse your hair with cool water. 
+After washing, rinse your hair with cool water. 
+ 
+그녀는 스펀지에서 비누를 헹궈냈습니다. 
+She rinsed the soap off the sponge. 
+She rinsed the soap off the sponge. 
+She rinsed the soap off the sponge. 
+ 
+파스타가 익으면 물을 빼는 것을 잊지 마세요. 
+Remember to drain the pasta after it's cooked. 
+Remember to drain the pasta after it's cooked. 
+Remember to drain the pasta after it's cooked. 
+ 
+그는 욕조에서 물을 빼기 위해 밸브를 열었습니다. 
+He opened the valve to drain the water from the tub. 
+He opened the valve to drain the water from the tub. 
+He opened the valve to drain the water from the tub. 
+ 
+끊임없는 일은 그의 에너지를 고갈시켰습니다. 
+The constant work drained his energy. 
+The constant work drained his energy. 
+The constant work drained his energy.
+
+### 페이지 215
+
+아침 7시로 알람을 설정해 주시겠어요? 
+Can you set the alarm for 7 AM? 
+Can you set the alarm for 7 AM? 
+Can you set the alarm for 7 AM? 
+ 
+다음 회의 날짜를 정합시다. 
+Let's set a date for our next meeting. 
+Let's set a date for our next meeting. 
+Let's set a date for our next meeting. 
+ 
+그는 저녁 식사를 위해 식탁을 차렸습니다. 
+He set the table for dinner. 
+He set the table for dinner. 
+He set the table for dinner. 
+ 
+저녁으로 무엇을 요리할 거예요? 
+What are you going to cook for dinner? 
+What are you going to cook for dinner? 
+What are you going to cook for dinner? 
+ 
+그는 가족을 위해 요리하는 것을 좋아합니다. 
+He loves to cook for his family. 
+He loves to cook for his family. 
+He loves to cook for his family. 
+ 
+닭고기는 30분 동안 요리해야 합니다. 
+The chicken needs to cook for 30 minutes. 
+The chicken needs to cook for 30 minutes. 
+The chicken needs to cook for 30 minutes. 
+ 
+들어오기 전에 신발을 벗어주세요. 
+Please remove your shoes before entering. 
+Please remove your shoes before entering. 
+Please remove your shoes before entering.
+
+### 페이지 216
+
+의사는 종양을 제거하기로 결정했습니다. 
+The doctor decided to remove the tumor. 
+The doctor decided to remove the tumor. 
+The doctor decided to remove the tumor. 
+ 
+다시 칠하기 전에 오래된 페인트를 제거해야 합니다. 
+You need to remove the old paint before repainting. 
+You need to remove the old paint before repainting. 
+You need to remove the old paint before repainting. 
+ 
+하루에 두 번 이를 닦는 것을 잊지 마세요. 
+Don't forget to brush your teeth twice a day. 
+Don't forget to brush your teeth twice a day. 
+Don't forget to brush your teeth twice a day. 
+ 
+그녀는 자기 전에 머리를 빗는 것을 좋아합니다. 
+She likes to brush her hair before bed. 
+She likes to brush her hair before bed. 
+She likes to brush her hair before bed. 
+ 
+그는 부드러운 붓으로 그림의 먼지를 닦아냈습니다. 
+He used a soft brush to brush the dust off the painting. 
+He used a soft brush to brush the dust off the painting. 
+He used a soft brush to brush the dust off the painting. 
+ 
+그는 수염을 면도해야 합니다. 
+He needs to shave his beard. 
+He needs to shave his beard. 
+He needs to shave his beard. 
+ 
+저는 매일 아침 면도합니다. 
+I shave every morning. 
+I shave every morning. 
+I shave every morning.
+
+### 페이지 217
+
+그녀는 다리를 면도하기로 결정했습니다. 
+She decided to shave her legs. 
+She decided to shave her legs. 
+She decided to shave her legs. 
+ 
+그는 길을 보여주기 위해 지도를 가리켰습니다. 
+He pointed to the map to show the way. 
+He pointed to the map to show the way. 
+He pointed to the map to show the way. 
+ 
+사람들에게 손가락질하지 마세요. 
+Don't point your finger at people. 
+Don't point your finger at people. 
+Don't point your finger at people. 
+ 
+등대는 배들을 향해 빛을 비출 것입니다. 
+The lighthouse will point its light towards the ships. 
+The lighthouse will point its light towards the ships. 
+The lighthouse will point its light towards the ships. 
+ 
+테이블에 열쇠를 두고 왔어요? 
+Did you leave your keys on the table? 
+Did you leave your keys on the table? 
+Did you leave your keys on the table? 
+ 
+일을 마지막 순간까지 미루지 마세요. 
+Don't leave your work until the last minute. 
+Don't leave your work until the last minute. 
+Don't leave your work until the last minute. 
+ 
+그녀는 직장을 그만두고 세계를 여행하기로 결정했습니다. 
+She decided to leave her job and travel the world. 
+She decided to leave her job and travel the world. 
+She decided to leave her job and travel the world.
+
+### 페이지 218
+
+얼마를 지불해야 하나요? 
+How much do I need to pay? 
+How much do I need to pay? 
+How much do I need to pay? 
+ 
+오늘 저녁은 제가 낼게요. 
+I'll pay for dinner tonight. 
+I'll pay for dinner tonight. 
+I'll pay for dinner tonight. 
+ 
+온라인이나 직접 지불할 수 있습니다. 
+You can pay online or in person. 
+You can pay online or in person. 
+You can pay online or in person. 
+ 
+이것을 다른 사이즈로 교환할 수 있나요? 
+Can I exchange this for a different size? 
+Can I exchange this for a different size? 
+Can I exchange this for a different size? 
+ 
+그들은 결혼식에서 서약을 교환했습니다. 
+They exchanged vows during the wedding ceremony. 
+They exchanged vows during the wedding ceremony. 
+They exchanged vows during the wedding ceremony. 
+ 
+연락처를 교환합시다. 
+Let's exchange contact information. 
+Let's exchange contact information. 
+Let's exchange contact information. 
+ 
+소포는 언제 발송할 거예요? 
+When will you ship the package? 
+When will you ship the package? 
+When will you ship the package?
+
+### 페이지 219
+
+저희는 상품을 당신의 주소로 발송할 수 있습니다. 
+We can ship the item to your address. 
+We can ship the item to your address. 
+We can ship the item to your address. 
+ 
+그 회사는 금요일까지 제품을 발송할 계획입니다. 
+The company plans to ship the products by Friday. 
+The company plans to ship the products by Friday. 
+The company plans to ship the products by Friday. 
+ 
+내일까지 결과를 받을 것으로 예상합니다. 
+I expect to receive the results by tomorrow. 
+I expect to receive the results by tomorrow. 
+I expect to receive the results by tomorrow. 
+ 
+이 과정에서 무엇을 기대하세요? 
+What do you expect from this course? 
+What do you expect from this course? 
+What do you expect from this course? 
+ 
+우리는 이렇게 많은 인파를 예상하지 못했습니다. 
+We didn't expect such a large crowd. 
+We didn't expect such a large crowd. 
+We didn't expect such a large crowd. 
+ 
+나쁜 날씨가 우리 비행기를 지연시킬 것입니다. 
+The bad weather will delay our flight. 
+The bad weather will delay our flight. 
+The bad weather will delay our flight. 
+ 
+지연시키지 마세요; 지금 하세요. 
+Don't delay; do it now. 
+Don't delay; do it now. 
+Don't delay; do it now.
+
+### 페이지 220
+
+건설 프로젝트는 자금 문제로 지연되었습니다. 
+The construction project was delayed due to funding issues. 
+The construction project was delayed due to funding issues. 
+The construction project was delayed due to funding issues. 
+ 
+온라인에서 주문을 추적할 수 있습니다. 
+You can track your order online. 
+You can track your order online. 
+You can track your order online. 
+ 
+숲에서 야생 동물을 추적하는 것은 어렵습니다. 
+It's hard to track wild animals in the forest. 
+It's hard to track wild animals in the forest. 
+It's hard to track wild animals in the forest. 
+ 
+경찰은 용의자를 추적하려고 노력하고 있습니다. 
+The police are trying to track down the suspect. 
+The police are trying to track down the suspect. 
+The police are trying to track down the suspect. 
+ 
+이 품목에 대해 환불받을 수 있나요? 
+Can I get a refund for this item? 
+Can I get a refund for this item? 
+Can I get a refund for this item? 
+ 
+상점은 만족하지 않으면 돈을 환불해 줄 것입니다. 
+The store will refund your money if you're not satisfied. 
+The store will refund your money if you're not satisfied. 
+The store will refund your money if you're not satisfied. 
+ 
+그들은 취소로 인해 모든 티켓을 환불해야 했습니다. 
+They had to refund all the tickets due to the cancellation. 
+They had to refund all the tickets due to the cancellation. 
+They had to refund all the tickets due to the cancellation.
+
+### 페이지 221
+
+관리자가 당신의 요청을 승인해야 합니다. 
+The manager needs to approve your request. 
+The manager needs to approve your request. 
+The manager needs to approve your request. 
+ 
+위원회는 새 제안을 승인하기로 투표했습니다. 
+The committee voted to approve the new proposal. 
+The committee voted to approve the new proposal. 
+The committee voted to approve the new proposal. 
+ 
+제 휴가 신청이 승인되기를 바랍니다. 
+I hope they approve my leave application. 
+I hope they approve my leave application. 
+I hope they approve my leave application. 
+ 
+계속 일을 진행하세요. 
+Please continue with your work. 
+Please continue with your work. 
+Please continue with your work. 
+ 
+비는 하루 종일 계속될 것으로 예상됩니다. 
+The rain is expected to continue throughout the day. 
+The rain is expected to continue throughout the day. 
+The rain is expected to continue throughout the day. 
+ 
+그녀는 해외에서 학업을 계속하기로 결정했습니다. 
+She decided to continue her studies abroad. 
+She decided to continue her studies abroad. 
+She decided to continue her studies abroad. 
+ 
+비밀번호를 입력하세요. 
+Please enter your password. 
+Please enter your password. 
+Please enter your password.
+
+### 페이지 222
+
+시스템에 올바른 데이터를 입력해야 합니다. 
+You need to enter the correct data into the system. 
+You need to enter the correct data into the system. 
+You need to enter the correct data into the system. 
+ 
+그는 조용히 문을 열고 방으로 들어갔습니다. 
+He gently opened the door and entered the room. 
+He gently opened the door and entered the room. 
+He gently opened the door and entered the room. 
+ 
+문 잠그는 것을 잊지 마세요. 
+Don't forget to lock the door. 
+Don't forget to lock the door. 
+Don't forget to lock the door. 
+ 
+저는 가끔 사람들의 이름을 잊어요. 
+I sometimes forget people's names. 
+I sometimes forget people's names. 
+I sometimes forget people's names. 
+ 
+과거는 잊고 나아가려고 노력하세요. 
+Try to forget about the past and move on. 
+Try to forget about the past and move on. 
+Try to forget about the past and move on. 
+ 
+다시 열쇠를 잃어버리고 싶지 않아요. 
+I don't want to lose my keys again. 
+I don't want to lose my keys again. 
+I don't want to lose my keys again. 
+ 
+그는 쉽게 화를 내는 경향이 있습니다. 
+He tends to lose his temper easily. 
+He tends to lose his temper easily. 
+He tends to lose his temper easily.
+
+### 페이지 223
+
+팀은 더 잘하지 않으면 경기에 질 수도 있습니다. 
+The team might lose the game if they don't play better. 
+The team might lose the game if they don't play better. 
+The team might lose the game if they don't play better. 
+ 
+제 질문에 답해주세요. 
+Please answer my question. 
+Please answer my question. 
+Please answer my question. 
+ 
+그녀는 전화를 받지 않았습니다. 
+She didn't answer the phone. 
+She didn't answer the phone. 
+She didn't answer the phone. 
+ 
+그는 항상 진실하게 답하려고 노력합니다. 
+He always tries to answer truthfully. 
+He always tries to answer truthfully. 
+He always tries to answer truthfully. 
+ 
+나중에 다시 전화해 주시겠어요? 
+Can you call me back later? 
+Can you call me back later? 
+Can you call me back later? 
+ 
+그들은 새 강아지의 이름을 맥스라고 부르기로 했습니다. 
+They decided to call their new puppy Max. 
+They decided to call their new puppy Max. 
+They decided to call their new puppy Max. 
+ 
+엄마한테 전화해야 해요. 
+I need to call my mom. 
+I need to call my mom. 
+I need to call my mom.
+
+### 페이지 224
+
+버스를 놓치고 싶지 않아요. 
+I don't want to miss the bus. 
+I don't want to miss the bus. 
+I don't want to miss the bus. 
+ 
+그녀는 가족을 정말 그리워합니다. 
+She really misses her family. 
+She really misses her family. 
+She really misses her family. 
+ 
+중요한 것 놓쳤어요? 
+Did you miss anything important? 
+Did you miss anything important? 
+Did you miss anything important? 
+ 
+비 때문에 야외 행사를 취소해야 했습니다. 
+We had to cancel the outdoor event due to rain. 
+We had to cancel the outdoor event due to rain. 
+We had to cancel the outdoor event due to rain. 
+ 
+예약을 취소할 수 있나요? 
+Can I cancel my reservation? 
+Can I cancel my reservation? 
+Can I cancel my reservation? 
+ 
+비행기는 악천후 때문에 취소되었습니다. 
+The flight was canceled because of bad weather. 
+The flight was canceled because of bad weather. 
+The flight was canceled because of bad weather. 
+ 
+업데이트를 위해 이메일을 확인하세요. 
+Please check your email for updates. 
+Please check your email for updates. 
+Please check your email for updates.
+
+### 페이지 225
+
+문이 잠겼는지 확인했어요? 
+Did you check if the door is locked? 
+Did you check if the door is locked? 
+Did you check if the door is locked? 
+ 
+일정을 확인해야 해요. 
+I need to check my schedule. 
+I need to check my schedule. 
+I need to check my schedule. 
+ 
+두 가지 선택지를 비교해 봅시다. 
+Let's compare the two options. 
+Let's compare the two options. 
+Let's compare the two options. 
+ 
+자신을 다른 사람과 비교하는 것은 공정하지 않습니다. 
+It's not fair to compare yourself to others. 
+It's not fair to compare yourself to others. 
+It's not fair to compare yourself to others. 
+ 
+그들은 다른 브랜드의 가격을 비교했습니다. 
+They compared the prices of different brands. 
+They compared the prices of different brands. 
+They compared the prices of different brands. 
+ 
+예약을 확인해주세요. 
+Please confirm your reservation. 
+Please confirm your reservation. 
+Please confirm your reservation. 
+ 
+회의 세부 사항을 확인해 주시겠어요? 
+Can you confirm the details of the meeting? 
+Can you confirm the details of the meeting? 
+Can you confirm the details of the meeting?
+
+### 페이지 226
+
+배송 주소를 확인해야 합니다. 
+I need to confirm the shipping address. 
+I need to confirm the shipping address. 
+I need to confirm the shipping address. 
+ 
+넘어져서 다리가 아직 아파요. 
+My leg still hurts from the fall. 
+My leg still hurts from the fall. 
+My leg still hurts from the fall. 
+ 
+그의 말은 정말 그녀의 감정을 상처 입혔습니다. 
+His words really hurt her feelings. 
+His words really hurt her feelings. 
+His words really hurt her feelings. 
+ 
+시도해 볼 만합니다 / 손해 볼 것 없습니다. 
+It wouldn't hurt to try. 
+It wouldn't hurt to try. 
+It wouldn't hurt to try. 
+ 
+그의 상처는 서서히 낫고 있습니다. 
+His wound is slowly healing. 
+His wound is slowly healing. 
+His wound is slowly healing. 
+ 
+시간은 감정적인 고통을 치유하는 데 도움이 됩니다. 
+Time helps to heal emotional pain. 
+Time helps to heal emotional pain. 
+Time helps to heal emotional pain. 
+ 
+그 베인 상처는 며칠 안에 나을 것입니다. 
+The cut will heal in a few days. 
+The cut will heal in a few days. 
+The cut will heal in a few days.
+
+### 페이지 227
+
+그는 축구를 하다가 무릎을 다쳤습니다. 
+He injured his knee while playing soccer. 
+He injured his knee while playing soccer. 
+He injured his knee while playing soccer. 
+ 
+다치지 않도록 조심하세요. 
+Be careful not to injure yourself. 
+Be careful not to injure yourself. 
+Be careful not to injure yourself. 
+ 
+사고에서 심하게 다친 사람은 아무도 없었습니다. 
+No one was seriously injured in the accident. 
+No one was seriously injured in the accident. 
+No one was seriously injured in the accident. 
+ 
+이 노래가 정말 마음에 들어요. 
+I really like this song. 
+I really like this song. 
+I really like this song. 
+ 
+매운 음식 좋아하세요? 
+Do you like spicy food? 
+Do you like spicy food? 
+Do you like spicy food? 
+ 
+그녀는 새 직장을 마음에 들어 하는 것 같아요. 
+She seems to like her new job. 
+She seems to like her new job. 
+She seems to like her new job. 
+ 
+당신의 의견에 동의합니다. 
+I agree with your opinion. 
+I agree with your opinion. 
+I agree with your opinion.
+
+### 페이지 228
+
+그들은 가격에 대해 동의할 수 없었습니다. 
+They couldn't agree on a price. 
+They couldn't agree on a price. 
+They couldn't agree on a price. 
+ 
+동의하세요, 아니면 동의하지 않으세요? 
+Do you agree or disagree? 
+Do you agree or disagree? 
+Do you agree or disagree? 
+ 
+당신은 당신의 행동에 대해 사과해야 합니다. 
+You should apologize for your behavior. 
+You should apologize for your behavior. 
+You should apologize for your behavior. 
+ 
+그는 늦어서 사과했습니다. 
+He apologized for being late. 
+He apologized for being late. 
+He apologized for being late. 
+ 
+오해에 대해 사과하고 싶어요. 
+I want to apologize for the misunderstanding. 
+I want to apologize for the misunderstanding. 
+I want to apologize for the misunderstanding. 
+ 
+저를 소개할게요. 
+Let me introduce myself. 
+Let me introduce myself. 
+Let me introduce myself. 
+ 
+친구에게 저를 소개해 주시겠어요? 
+Can you introduce me to your friend? 
+Can you introduce me to your friend? 
+Can you introduce me to your friend?
+
+### 페이지 229
+
+그 회사는 다음 달에 신제품을 출시할 것입니다. 
+The company will introduce a new product next month. 
+The company will introduce a new product next month. 
+The company will introduce a new product next month. 
+ 
+제 제안을 고려해 주세요. 
+Please consider my proposal. 
+Please consider my proposal. 
+Please consider my proposal. 
+ 
+선택 사항을 고려할 시간이 좀 필요해요. 
+I need some time to consider my options. 
+I need some time to consider my options. 
+I need some time to consider my options. 
+ 
+그녀는 이 분야에서 최고의 의사 중 한 명으로 여겨집니다. 
+She is considered one of the best doctors in the field. 
+She is considered one of the best doctors in the field. 
+She is considered one of the best doctors in the field. 
+ 
+저 그 일자리에 지원할 거예요. 
+I'm going to apply for that job. 
+I'm going to apply for that job. 
+I'm going to apply for that job. 
+ 
+밖에 나가기 전에 자외선 차단제를 바르는 것을 잊지 마세요. 
+Remember to apply sunscreen before going outside. 
+Remember to apply sunscreen before going outside. 
+Remember to apply sunscreen before going outside. 
+ 
+이 규칙은 모든 상황에 적용되지 않습니다. 
+This rule does not apply to all situations. 
+This rule does not apply to all situations. 
+This rule does not apply to all situations.
+
+### 페이지 230
+
+쉬는 것을 제안합니다. 
+I suggest we take a break. 
+I suggest we take a break. 
+I suggest we take a break. 
+ 
+좋은 식당 추천해주실 수 있나요? 
+Can you suggest a good restaurant? 
+Can you suggest a good restaurant? 
+Can you suggest a good restaurant? 
+ 
+그는 대안적인 해결책을 제안했습니다. 
+He suggested an alternative solution. 
+He suggested an alternative solution. 
+He suggested an alternative solution. 
+ 
+음료수 하나 드릴까요? 
+Can I offer you a drink? 
+Can I offer you a drink? 
+Can I offer you a drink? 
+ 
+그는 제 짐을 돕겠다고 제안했습니다. 
+He offered to help me with my luggage. 
+He offered to help me with my luggage. 
+He offered to help me with my luggage. 
+ 
+그 회사는 이번 주에 할인을 제공하고 있습니다. 
+The company is offering a discount this week. 
+The company is offering a discount this week. 
+The company is offering a discount this week. 
+ 
+펜 좀 빌릴 수 있을까요? 
+Can I borrow your pen? 
+Can I borrow your pen? 
+Can I borrow your pen?
+
+### 페이지 231
+
+그녀는 도서관에서 책을 빌렸습니다. 
+She borrowed a book from the library. 
+She borrowed a book from the library. 
+She borrowed a book from the library. 
+ 
+그는 친구에게 돈을 빌려야 했습니다. 
+He had to borrow money from his friend. 
+He had to borrow money from his friend. 
+He had to borrow money from his friend. 
+ 
+그는 항상 음식에 대해 불평합니다. 
+He always complains about the food. 
+He always complains about the food. 
+He always complains about the food. 
+ 
+불평할 필요 없어요. 
+There's no need to complain. 
+There's no need to complain. 
+There's no need to complain. 
+ 
+그녀는 서비스에 대해 불평하기 위해 매니저에게 갔습니다. 
+She went to the manager to complain about the service. 
+She went to the manager to complain about the service. 
+She went to the manager to complain about the service. 
+ 
+여기에 서명해주세요. 
+Please sign your name here. 
+Please sign your name here. 
+Please sign your name here. 
+ 
+계약서에 서명해야 합니다. 
+You need to sign the contract. 
+You need to sign the contract. 
+You need to sign the contract.
+
+### 페이지 232
+
+그는 외국어로 쓰인 표지판을 읽을 수 없었습니다. 
+He couldn't read the sign written in a foreign language. 
+He couldn't read the sign written in a foreign language. 
+He couldn't read the sign written in a foreign language. 
+ 
+문을 열려면 버튼을 누르세요. 
+Push the button to open the door. 
+Push the button to open the door. 
+Push the button to open the door. 
+ 
+저를 밀어붙이지 마세요; 시간이 더 필요해요. 
+Don't push me; I need more time. 
+Don't push me; I need more time. 
+Don't push me; I need more time. 
+ 
+그는 무거운 상자를 밀려고 했습니다. 
+He tried to push the heavy box. 
+He tried to push the heavy box. 
+He tried to push the heavy box. 
+ 
+제 나이를 추측할 수 있나요? 
+Can you guess my age? 
+Can you guess my age? 
+Can you guess my age? 
+ 
+당신이 맞는 것 같아요. 
+I guess you're right. 
+I guess you're right. 
+I guess you're right. 
+ 
+다음에 무슨 일이 일어날지 추측하기 어렵습니다. 
+It's hard to guess what will happen next. 
+It's hard to guess what will happen next. 
+It's hard to guess what will happen next.
+
+### 페이지 233
+
+좋은 하루 보내시길 바랍니다. 
+I hope you have a great day. 
+I hope you have a great day. 
+I hope you have a great day. 
+ 
+우리는 세계의 평화를 바랍니다. 
+We hope for peace in the world. 
+We hope for peace in the world. 
+We hope for peace in the world. 
+ 
+그녀는 내년에 해외여행을 가기를 바랍니다. 
+She hopes to travel abroad next year. 
+She hopes to travel abroad next year. 
+She hopes to travel abroad next year. 
+ 
+그녀는 샤워하면서 노래하는 것을 좋아해요. 
+She loves to sing in the shower. 
+She loves to sing in the shower. 
+She loves to sing in the shower. 
+ 
+그 노래 다시 불러주실 수 있나요? 
+Can you sing that song again? 
+Can you sing that song again? 
+Can you sing that song again? 
+ 
+합창단이 콘서트에서 노래할 것입니다. 
+The choir will sing at the concert. 
+The choir will sing at the concert. 
+The choir will sing at the concert. 
+ 
+어떤 것을 고르고 싶어요? 
+Which one do you want to pick? 
+Which one do you want to pick? 
+Which one do you want to pick?
+
+### 페이지 234
+
+그녀는 그가 새 셔츠를 고르는 것을 도왔습니다. 
+She helped him pick out a new shirt. 
+She helped him pick out a new shirt. 
+She helped him pick out a new shirt. 
+ 
+어린 남동생을 괴롭히지 마세요. 
+Don't pick on your little brother. 
+Don't pick on your little brother. 
+Don't pick on your little brother. 
+ 
+이 무거운 상자 옮기는 것 좀 도와주시겠어요? 
+Can you help me move this heavy box? 
+Can you help me move this heavy box? 
+Can you help me move this heavy box? 
+ 
+우리는 새 도시로 이사할 계획입니다. 
+We are planning to move to a new city. 
+We are planning to move to a new city. 
+We are planning to move to a new city. 
+ 
+줄이 앞으로 움직이기 시작했습니다. 
+The line started to move forward. 
+The line started to move forward. 
+The line started to move forward. 
+ 
+긴 하루를 보낸 후에 쉬어야 해요. 
+I need to relax after a long day. 
+I need to relax after a long day. 
+I need to relax after a long day. 
+ 
+그냥 쉬면서 순간을 즐기세요. 
+Just relax and enjoy the moment. 
+Just relax and enjoy the moment. 
+Just relax and enjoy the moment.
+
+### 페이지 235
+
+그녀는 수영장에서 쉬는 것을 좋아합니다. 
+She likes to relax by the pool. 
+She likes to relax by the pool. 
+She likes to relax by the pool. 
+ 
+이 개념을 저에게 설명해 주시겠어요? 
+Can you explain this concept to me? 
+Can you explain this concept to me? 
+Can you explain this concept to me? 
+ 
+그는 자신의 행동을 설명하려고 노력했습니다. 
+He tried to explain his actions. 
+He tried to explain his actions. 
+He tried to explain his actions. 
+ 
+그녀는 왜 늦었는지 설명해야 합니다. 
+She needs to explain why she was late. 
+She needs to explain why she was late. 
+She needs to explain why she was late. 
+ 
+아무에게도 말하지 않겠다고 약속해요. 
+I promise I won't tell anyone. 
+I promise I won't tell anyone. 
+I promise I won't tell anyone. 
+ 
+그는 어머니에게 약속했습니다. 
+He made a promise to his mother. 
+He made a promise to his mother. 
+He made a promise to his mother. 
+ 
+그녀는 항상 약속을 지킵니다. 
+She always keeps her promise. 
+She always keeps her promise. 
+She always keeps her promise.
+
+### 페이지 236
+
+저 아름다운 일몰 좀 보세요! 
+Look at that beautiful sunset! 
+Look at that beautiful sunset! 
+Look at that beautiful sunset! 
+ 
+그녀는 놀란 표정으로 저를 보았습니다. 
+She looked at me with surprise. 
+She looked at me with surprise. 
+She looked at me with surprise. 
+ 
+그는 그 문제를 조사할 것입니다. 
+He will look into the matter. 
+He will look into the matter. 
+He will look into the matter. 
+ 
+그녀는 머리를 보라색으로 염색하기로 결정했습니다. 
+She decided to dye her hair purple. 
+She decided to dye her hair purple. 
+She decided to dye her hair purple. 
+ 
+천연 재료를 사용하여 천을 염색할 수 있습니다. 
+You can dye fabric using natural ingredients. 
+You can dye fabric using natural ingredients. 
+You can dye fabric using natural ingredients. 
+ 
+그는 낡은 셔츠를 검은색으로 염색하고 싶었습니다. 
+He wanted to dye his old shirt black. 
+He wanted to dye his old shirt black. 
+He wanted to dye his old shirt black. 
+ 
+고양이 그림을 그릴 수 있나요? 
+Can you draw a picture of a cat? 
+Can you draw a picture of a cat? 
+Can you draw a picture of a cat?
+
+### 페이지 237
+
+그는 스케치북에 그림 그리는 것을 좋아합니다. 
+He loves to draw in his sketchbook. 
+He loves to draw in his sketchbook. 
+He loves to draw in his sketchbook. 
+ 
+그녀는 자를 사용하여 직선을 그렸습니다. 
+She used a ruler to draw a straight line. 
+She used a ruler to draw a straight line. 
+She used a ruler to draw a straight line. 
+ 
+생선 가시를 삼키지 않도록 조심하세요. 
+Be careful not to swallow the fish bones. 
+Be careful not to swallow the fish bones. 
+Be careful not to swallow the fish bones. 
+ 
+그는 큰 알약을 삼키는 데 어려움을 겪었습니다. 
+He had difficulty swallowing the large pill. 
+He had difficulty swallowing the large pill. 
+He had difficulty swallowing the large pill. 
+ 
+그의 거짓말을 믿지 마세요. 
+Don't swallow his lies. 
+Don't swallow his lies. 
+Don't swallow his lies. 
+ 
+음식을 천천히 씹으세요. 
+Please chew your food slowly. 
+Please chew your food slowly. 
+Please chew your food slowly. 
+ 
+개들은 뼈를 씹는 것을 좋아합니다. 
+Dogs love to chew on bones. 
+Dogs love to chew on bones. 
+Dogs love to chew on bones.
+
+### 페이지 238
+
+그는 일하면서 껌 씹는 것을 좋아합니다. 
+He likes to chew gum while working. 
+He likes to chew gum while working. 
+He likes to chew gum while working. 
+ 
+장본 것을 차에 싣는 것 좀 도와주시겠어요? 
+Can you help me load the groceries into the car? 
+Can you help me load the groceries into the car? 
+Can you help me load the groceries into the car? 
+ 
+컴퓨터가 프로그램을 불러와야 합니다. 
+The computer needs to load the program. 
+The computer needs to load the program. 
+The computer needs to load the program. 
+ 
+그들은 가구로 트럭을 실었습니다. 
+They loaded the truck with furniture. 
+They loaded the truck with furniture. 
+They loaded the truck with furniture. 
+ 
+트럭에서 상자를 내립시다. 
+Let's unload the boxes from the truck. 
+Let's unload the boxes from the truck. 
+Let's unload the boxes from the truck. 
+ 
+그는 이사 트럭에서 짐을 내리는 것을 이웃을 도왔습니다. 
+He helped his neighbor unload the moving truck. 
+He helped his neighbor unload the moving truck. 
+He helped his neighbor unload the moving truck. 
+ 
+모든 물품을 내리는 데 한 시간이 걸렸습니다. 
+It took them an hour to unload all the supplies. 
+It took them an hour to unload all the supplies. 
+It took them an hour to unload all the supplies.
+
+### 페이지 239
+
+피자는 30분 안에 배달될 것입니다. 
+The pizza will be delivered in 30 minutes. 
+The pizza will be delivered in 30 minutes. 
+The pizza will be delivered in 30 minutes. 
+ 
+그는 우체부로 일하며 편지를 배달합니다. 
+He works as a mailman and delivers letters. 
+He works as a mailman and delivers letters. 
+He works as a mailman and delivers letters. 
+ 
+연사는 강력한 메시지를 전달할 것입니다. 
+The speaker will deliver a powerful message. 
+The speaker will deliver a powerful message. 
+The speaker will deliver a powerful message. 
+ 
+누군가 문을 노크하고 있어요. 
+Someone is knocking at the door. 
+Someone is knocking at the door. 
+Someone is knocking at the door. 
+ 
+들어오기 전에 노크해주세요. 
+Please knock before entering. 
+Please knock before entering. 
+Please knock before entering. 
+ 
+그는 아래층에서 희미한 노크 소리를 들었습니다. 
+He heard a faint knock from downstairs. 
+He heard a faint knock from downstairs. 
+He heard a faint knock from downstairs. 
+ 
+나갈 때 문 잠그는 것을 잊지 마세요. 
+Don't forget to lock the door when you leave. 
+Don't forget to lock the door when you leave. 
+Don't forget to lock the door when you leave.
+
+### 페이지 240
+
+그녀는 자전거를 기둥에 잠갔습니다. 
+She locked her bicycle to the pole. 
+She locked her bicycle to the pole. 
+She locked her bicycle to the pole. 
+ 
+가기 전에 모든 창문을 잠갔는지 확인하세요. 
+Make sure to lock all the windows before you go. 
+Make sure to lock all the windows before you go. 
+Make sure to lock all the windows before you go. 
+ 
+문 좀 열어주시겠어요? 
+Can you unlock the gate for me? 
+Can you unlock the gate for me? 
+Can you unlock the gate for me? 
+ 
+그는 지문으로 핸드폰 잠금을 해제했습니다. 
+He used his fingerprint to unlock his phone. 
+He used his fingerprint to unlock his phone. 
+He used his fingerprint to unlock his phone. 
+ 
+그 열쇠는 오래된 상자를 열지 못하는 것 같았습니다. 
+The key didn't seem to unlock the old chest. 
+The key didn't seem to unlock the old chest. 
+The key didn't seem to unlock the old chest. 
+ 
+이번 주말에 방을 청소해야 해요. 
+I need to clean my room this weekend. 
+I need to clean my room this weekend. 
+I need to clean my room this weekend. 
+ 
+어지럽힌 것을 치우세요. 
+Please clean up your mess. 
+Please clean up your mess. 
+Please clean up your mess.
+
+### 페이지 241
+
+그녀는 항상 집을 완벽하게 깨끗하게 유지합니다. 
+She always keeps her house perfectly clean. 
+She always keeps her house perfectly clean. 
+She always keeps her house perfectly clean. 
+ 
+거실 카펫을 청소기를 돌려야 해요. 
+I need to vacuum the living room carpet. 
+I need to vacuum the living room carpet. 
+I need to vacuum the living room carpet. 
+ 
+계단에 청소기를 돌려줄 수 있나요? 
+Can you vacuum the stairs? 
+Can you vacuum the stairs? 
+Can you vacuum the stairs? 
+ 
+그는 손님들이 도착하기 전에 집 전체에 청소기를 돌렸습니다. 
+He vacuumed the entire house before the guests arrived. 
+He vacuumed the entire house before the guests arrived. 
+He vacuumed the entire house before the guests arrived. 
+ 
+테이블을 깨끗하게 닦아주세요. 
+Please wipe the table clean. 
+Please wipe the table clean. 
+Please wipe the table clean. 
+ 
+그녀는 천으로 선반의 먼지를 닦아냈습니다. 
+She used a cloth to wipe the dust off the shelves. 
+She used a cloth to wipe the dust off the shelves. 
+She used a cloth to wipe the dust off the shelves. 
+ 
+들어오기 전에 발을 닦는 것을 잊지 마세요. 
+Don't forget to wipe your feet before entering. 
+Don't forget to wipe your feet before entering. 
+Don't forget to wipe your feet before entering.
+
+### 페이지 242
+
+주방 바닥을 걸레질해야 해요. 
+I need to mop the kitchen floor. 
+I need to mop the kitchen floor. 
+I need to mop the kitchen floor. 
+ 
+복도 걸레질하는 것 좀 도와주시겠어요? 
+Can you help me mop the hallway? 
+Can you help me mop the hallway? 
+Can you help me mop the hallway? 
+ 
+그녀는 엎질러진 물을 조심스럽게 걸레질했습니다. 
+She carefully mopped up the spilled water. 
+She carefully mopped up the spilled water. 
+She carefully mopped up the spilled water. 
+ 
+세탁물을 개주세요. 
+Please fold your laundry. 
+Please fold your laundry. 
+Please fold your laundry. 
+ 
+그는 종이접기를 접는 법을 배웠습니다. 
+He learned how to fold origami. 
+He learned how to fold origami. 
+He learned how to fold origami. 
+ 
+이 담요들 접는 것 좀 도와주시겠어요? 
+Can you help me fold these blankets? 
+Can you help me fold these blankets? 
+Can you help me fold these blankets? 
+ 
+물 한 잔 따라주시겠어요? 
+Can you pour me a glass of water? 
+Can you pour me a glass of water? 
+Can you pour me a glass of water?
+
+### 페이지 243
+
+그녀는 파스타 위에 소스를 부었습니다. 
+She poured the sauce over the pasta. 
+She poured the sauce over the pasta. 
+She poured the sauce over the pasta. 
+ 
+비가 쏟아지기 시작했습니다. 
+The rain started to pour down. 
+The rain started to pour down. 
+The rain started to pour down. 
+ 
+그녀는 감자튀김을 케첩에 찍어 먹는 것을 좋아해요. 
+She likes to dip her fries in ketchup. 
+She likes to dip her fries in ketchup. 
+She likes to dip her fries in ketchup. 
+ 
+뜨거운 왁스에 손가락을 담그지 않도록 조심하세요. 
+Be careful not to dip your finger into the hot wax. 
+Be careful not to dip your finger into the hot wax. 
+Be careful not to dip your finger into the hot wax. 
+ 
+그는 시원한 물에 발가락을 살짝 담갔습니다. 
+He dipped his toes in the cool water. 
+He dipped his toes in the cool water. 
+He dipped his toes in the cool water. 
+ 
+칼에 베이지 않도록 조심하세요. 
+Please be careful not to cut yourself with the knife. 
+Please be careful not to cut yourself with the knife. 
+Please be careful not to cut yourself with the knife. 
+ 
+빵을 썰어주시겠어요? 
+Can you cut the bread into slices? 
+Can you cut the bread into slices? 
+Can you cut the bread into slices?
+
+### 페이지 244
+
+그녀는 머리를 잘라야 해요. 
+She needs to cut her hair. 
+She needs to cut her hair. 
+She needs to cut her hair.

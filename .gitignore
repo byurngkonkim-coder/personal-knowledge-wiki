@@ -1,0 +1,9 @@
+# 두 PC 동기화용 (2026-10-06, 데스크탑 기준으로 시작)
+# 자동 생성물 — build_wiki.py / build_vector_index.py 로 다시 만든다 (wiki_data.js 345MB 는 GitHub 한도 초과)
+wiki_portal/assets/
+__pycache__/
+*.pyc
+.omc/
+.env
+*.log
+

@@ -1,0 +1,6499 @@
+---
+title: "영어회화연습__English_txt"
+category: "글로벌 어학 & 영어"
+type: "english_learning"
+project: "03_English Materials"
+notebook: "English_txt"
+summary: "tags: [english, speaking, pattern, source, mcp-extracted]"
+decision_status: "accepted"
+source: "영어회화연습__English_txt.md"
+source_path: "03_English Materials/English_txt/영어회화연습__English_txt.md"
+created: 2026-10-02
+converted: 2026-10-02
+status: canonical
+tags:
+  - 영어학습
+  - 영어회화
+aliases: []
+---
+
+> ---
+> title: "영어회화연습"
+> aliases: []
+> tags: [english, speaking, pattern, source, mcp-extracted]
+> type: document
+> ---
+> # 🗣️ 영어회화연습 (Part: 전체)
+>
+> ## 🎯 학습 개요 (Learning Overview)
+> - **주요 학습 테마**: 일상 회화, 감정 표현, 비유적 표현, 구동사 활용, 문화적 뉘앙스
+> - **핵심 수록 표현 수**: 100+개
+> - **학습 포인트**: 다양한 동사 및 'be' 동사 활용 패턴 학습, 원어민이 자주 쓰는 관용적 표현 이해, 한국어와 영어의 문화적 차이에서 오는 표현 방식 습득.
+>
+> ## 📚 무손실 핵심 표현 & 패턴 마스터 (Core Expressions & Patterns)
+>
+> ### 🔹 1. `I'd like to let you know now, that I've accepted a job with another company.` : 이제 다른 회사에서 일자리를 얻었다는 걸 알려드리고 싶어요.
+> - **💡 뉘앙스 & 상황 맥락**: 격식 있는 상황에서 상대방에게 새로운 소식이나 결정을 알릴 때 사용하는 정중한 표현입니다. 특히 직장을 옮기는 것과 같은 중요한 소식을 전달할 때 적합합니다.
+> - **🔊 발음 & 연음 팁 (Pronunciation Tip)**: `I'd like to`는 `아이들라이크투` 보다는 `아이들라이크러`처럼 `to`가 약화되어 발음됩니다. `accepted a job`은 `엑셉티더잡`처럼 연음됩니다.
+> - **📝 실전 예문 (Real Examples)**:
+> - 🇺🇸 `I'd like to let you know that I'll be resigning next month.`
+> - 🇰🇷 다음 달에 사임할 예정임을 알려드리고 싶습니다.
+>
+> ### 🔹 2. `Did you ace your finals last quarter?` : 지난 학기 기말 시험 잘 봤어?
+> - **💡 뉘앙스 & 상황 맥락**: `ace`는 "아주 잘하다, 만점을 받다"라는 의미의 비격식적인 표현입니다. 시험이나 특정 과제를 매우 성공적으로 마쳤을 때 사용합니다.
+> - **🔊 발음 & 연음 팁 (Pronunciation Tip)**: `ace`는 `에이스`로 발음하며, `finals`와 `last quarter`는 각각 강세를 두어 발음합니다.
+> - **📝 실전 예문 (Real Examples)**:
+> - 🇺🇸 `She aced her presentation and got a promotion.`
+> - 🇰🇷 그녀는 발표를 완벽하게 해내서 승진했다.
+>
+> ### 🔹 3. `I'm aching in the joints.` : 마디마디가 쑤신다.
+> - **💡 뉘앙스 & 상황 맥락**: `ache`는 지속적이고 둔한 통증을 나타낼 때 사용합니다. `in the joints`는 관절 부위의 통증을 구체적으로 명시합니다.
+> - **🔊 발음 & 연음 팁 (Pronunciation Tip)**: `aching`은 `에이킹`으로 발음하며, `in the`는 `인더`처럼 자연스럽게 이어집니다.
+> - **📝 실전 예문 (Real Examples)**:
+> - 🇺🇸 `My back is aching after working all day.`
+> - 🇰🇷 하루 종일 일했더니 허리가 쑤신다.
+>
+> ### 🔹 4. `I ache all over.` : 몸살이 났다.
+> - **💡 뉘앙스 & 상황 맥락**: 몸 전체에 통증이 있을 때 사용하는 표현입니다. 감기나 몸살 등으로 전신이 쑤실 때 자주 쓰입니다.
+> - **🔊 발음 & 연음 팁 (Pronunciation Tip)**: `ache all over`는 `에이컬오버`처럼 `ache`와 `all`이 연음됩니다.
+> - **📝 실전 예문 (Real Examples)**:
+> - 🇺🇸 `After the marathon, I ached all over.`
+> - 🇰🇷 마라톤 후에 온몸이 쑤셨다.
+>
+> ### 🔹 5. `She acts like a Jewish American princess.` : 그 애는 공주병이야.
+> - **💡 뉘앙스 & 상황 맥락**: `Jewish American princess`는 특정 문화권에서 유래한 비유적 표현으로, "공주병"처럼 자기중심적이고 응석받이인 여성을 묘사할 때 사용됩니다. 다소 비하적인 뉘앙스가 있을 수 있으므로 사용에 주의해야 합니다.
+> - **🔊 발음 & 연음 팁 (Pronunciation Tip)**: `acts like a`는 `액츠라이커`처럼 연음됩니다.
+> - **📝 실전 예문 (Real Examples)**:
+> - 🇺🇸 `She acts like she's the only person in the room.`
+> - 🇰🇷 그녀는 방에 자기 혼자 있는 것처럼 행동한다.
+> - **⚠️ 주의사항 & 콩글리시 방지 (Pitfalls & Common Mistakes)**:
+> - `공주병`을 직역하여 `princess disease`라고 하면 원어민은 이해하지 못합니다. 대신 `stuck up`, `conceited`, `snotty`, `uppity`, `snob` 등의 표현을 사용하는 것이 더 자연스럽습니다.
+>
+> ### 🔹 6. `She's stuck up[conceited, snotty, uppity].` : 그 애는 공주병이야.
+> - **💡 뉘앙스 & 상황 맥락**: `stuck up`, `conceited`, `snotty`, `uppity` 모두 거만하고 잘난 체하는 태도를 나타내는 비격식적인 표현입니다. `stuck up`과 `conceited`는 자만심이 강한 것을, `snotty`와 `uppity`는 거만하고 건방진 태도를 강조합니다.
+> - **🔊 발음 & 연음 팁 (Pronunciation Tip)**: `stuck up`은 `스터컵`처럼 연음됩니다.
+> - **📝 실전 예문 (Real Examples)**:
+> - 🇺🇸 `He's so stuck up, he never talks to anyone.`
+> - 🇰🇷 그는 너무 거만해서 아무와도 이야기하지 않는다.
+> - 🇺🇸 `Don't be so conceited; nobody likes that.`
+> - 🇰🇷 그렇게 자만하지 마; 아무도 그런 걸 좋아하지 않아.
+>
+> ### 🔹 7. `She's a snob.` : 그 애는 공주병이야.
+> - **💡 뉘앙스 & 상황 맥락**: `snob`은 자신의 사회적 지위나 취향이 우월하다고 생각하며 다른 사람들을 깔보는 사람을 의미합니다. "속물" 또는 "잘난 체하는 사람"으로 번역될 수 있습니다.
+> - **🔊 발음 & 연음 팁 (Pronunciation Tip)**: `snob`은 `스납`으로 발음합니다.
+> - **📝 실전 예문 (Real Examples)**:
+> - 🇺🇸 `He's a coffee snob and only drinks expensive beans.`
+> - 🇰🇷 그는 커피 속물이라 비싼 원두만 마신다.
+>
+> ### 🔹 8. `Stop acting coy.` : 내숭 좀 그만 떨어.
+> - **💡 뉘앙스 & 상황 맥락**: `coy`는 수줍은 척하거나 순진한 척하는 태도를 의미합니다. 특히 이성 앞에서 관심을 끌기 위해 의도적으로 그런 행동을 할 때 사용됩니다.
+> - **🔊 발음 & 연음 팁 (Pronunciation Tip)**: `coy`는 `코이`로 발음합니다. `acting coy`는 `액팅 코이`처럼 발음됩니다.
+> - **📝 실전 예문 (Real Examples)**:
+> - 🇺🇸 `She was acting coy when he complimented her.`
+> - 🇰🇷 그가 칭찬했을 때 그녀는 내숭을 떨었다.
+>
+> ### 🔹 9. `Stop pretending.` : 내숭 좀 그만 떨어.
+> - **💡 뉘앙스 & 상황 맥락**: `pretend`는 ~인 척하다, 가장하다는 의미입니다. `Stop pretending`은 어떤 행동이나 감정이 진실이 아님을 지적하며 그만두라고 할 때 사용합니다.
+> - **🔊 발음 & 연음 팁 (Pronunciation Tip)**: `pretending`은 `프리텐딩`으로 발음합니다.
+> - **📝 실전 예문 (Real Examples)**:
+> - 🇺🇸 `Stop pretending you don't care; I know you do.`
+> - 🇰🇷 신경 안 쓰는 척 그만해; 네가 신경 쓰는 거 알아.
+>
+> ### 🔹 10. `Are you adding fuel to the fire?` : 불난 집에 부채질합니까?
+> - **💡 뉘앙스 & 상황 맥락**: 이미 나쁜 상황을 더 악화시키는 행동을 비유적으로 표현할 때 사용합니다. 한국어의 "불난 집에 부채질하다"와 동일한 의미입니다.
+> - **🔊 발음 & 연음 팁 (Pronunciation Tip)**: `adding fuel to the fire`는 `애딩퓨얼투더파이어`처럼 자연스럽게 이어집니다.
+> - **📝 실전 예문 (Real Examples)**:
+> - 🇺🇸 `Don't tell him that; you'll just be adding fuel to the fire.`
+> - 🇰🇷 그에게 그런 말 하지 마; 불난 집에 부채질하는 격이 될 거야.
+>
+> ### 🔹 11. `Koreans add a year to babies as soon as they're born.` : 한국에서는 태어나자마자 한 살이에요.
+> - **💡 뉘앙스 & 상황 맥락**: 한국의 나이 계산법을 설명할 때 사용합니다. 태어나자마자 한 살이 되는 문화적 차이를 명확히 전달합니다.
+> - **🔊 발음 & 연음 팁 (Pronunciation Tip)**: `add a year`는 `애더이어`처럼 연음됩니다. `as soon as they're born`은 `애즈수네즈데얼본`처럼 자연스럽게 이어집니다.
+> - **📝 실전 예문 (Real Examples)**:
+> - 🇺🇸 `In some cultures, they add a year to a baby's age at birth.`
+> - 🇰🇷 일부 문화권에서는 아기가 태어나자마자 한 살을 더한다.
+>
+> ### 🔹 12. `In Korea, you're a year old when you're born.` : 한국에서는 태어나자마자 한 살이에요.
+> - **💡 뉘앙스 & 상황 맥락**: 위 표현과 동일하게 한국의 나이 계산법을 설명하는 또 다른 방식입니다. 좀 더 간결하게 표현할 수 있습니다.
+> - **🔊 발음 & 연음 팁 (Pronunciation Tip)**: `you're a year old`는 `유어러이어올드`처럼 연음됩니다.
+> - **📝 실전 예문 (Real Examples)**:
+> - 🇺🇸 `In Korea, you're considered a year older on New Year's Day.`
+> - 🇰🇷 한국에서는 설날에 한 살 더 먹는 것으로 간주된다.
+>
+> ### 🔹 13. `He was addressing her.` : 그는 그 여자를 구스르고 있었다.
+> - **💡 뉘앙스 & 상황 맥락**: `address`는 일반적으로 "말을 걸다, 연설하다"라는 의미이지만, 여기서는 "구스르다, 달래다"의 뉘앙스로 사용되었습니다. 상대방의 기분을 좋게 하거나 특정 목적을 위해 말을 건넬 때 쓰일 수 있습니다.
+> - **🔊 발음 & 연음 팁 (Pronunciation Tip)**: `addressing`은 `어드레싱`으로 발음하며, 강세는 두 번째 음절에 있습니다.
+> - **📝 실전 예문 (Real Examples)**:
+> - 🇺🇸 `He addressed her concerns with a gentle tone.`
+> - 🇰🇷 그는 부드러운 어조로 그녀의 걱정을 달랬다.
+>
+> ### 🔹 14. `How do should I address you?` : 제가 어떻게 불러야 돼나요?
+> - **💡 뉘앙스 & 상황 맥락**: 상대방을 어떻게 불러야 할지 정중하게 물어볼 때 사용합니다. 특히 처음 만나는 사람이나 직장 상사에게 적합합니다. (원문 오타 `How do should I` -> `How should I` 또는 `How do I`)
+> - **🔊 발음 & 연음 팁 (Pronunciation Tip)**: `How should I address you`는 `하우슈다이 어드레쓰유`처럼 자연스럽게 이어집니다.
+> - **📝 실전 예문 (Real Examples)**:
+> - 🇺🇸 `How should I address your boss?`
+> - 🇰🇷 사장님을 어떻게 불러야 할까요?
+>
+> ### 🔹 15. `What would you like to be called?` : 제가 어떻게 불러야 돼나요?
+> - **💡 뉘앙스 & 상황 맥락**: 위 표현과 동일하게 상대방이 선호하는 호칭을 물어볼 때 사용합니다. 좀 더 직접적이고 친근한 뉘앙스도 가질 수 있습니다.
+> - **🔊 발음 & 연음 팁 (Pronunciation Tip)**: `would you like to be called`는 `우쥬라이크투비콜드`처럼 연음됩니다.
+> - **📝 실전 예문 (Real Examples)**:
+> - 🇺🇸 `What would you like to be called by your students?`
+> - 🇰🇷 학생들에게 어떻게 불리고 싶으세요?
+>
+> ### 🔹 16. `We adjourned the meeting until next Friday.` : 우리는 회합을 다음 주 금요일까지 연기하였다.
+> - **💡 뉘앙스 & 상황 맥락**: `adjourn`은 회의, 재판, 의회 등을 "휴회하다, 연기하다"라는 의미의 격식 있는 표현입니다.
+> - **🔊 발음 & 연음 팁 (Pronunciation Tip)**: `adjourn`은 `어전`으로 발음하며, 강세는 두 번째 음절에 있습니다.
+> - **📝 실전 예문 (Real Examples)**:
+> - 🇺🇸 `The judge adjourned the court until tomorrow morning.`
+> - 🇰🇷 판사는 내일 아침까지 법정을 휴회했다.
+>
+> ### 🔹 17. `Discreet cleavage is advised.` : 가슴 노출이 심한 옷을 삼가 해 주세요.
+> - **💡 뉘앙스 & 상황 맥락**: `discreet cleavage`는 "과하지 않은, 적절한 가슴골 노출"을 의미하며, `advised`는 "권고된다"는 의미입니다. 즉, 노출이 심한 옷은 피하라는 완곡하고 격식 있는 표현입니다.
+> - **🔊 발음 & 연음 팁 (Pronunciation Tip)**: `discreet`은 `디스크리트`로 발음하며, `cleavage`는 `클리비지`로 발음합니다.
+> - **📝 실전 예문 (Real Examples)**:
+> - 🇺🇸 `Modest attire is advised for the ceremony.`
+> - 🇰🇷 의식에는 단정한 복장이 권고됩니다.
+>
+> ### 🔹 18. `Winter affects me a lot.` : 저는 겨울을 유난히 많이 타요.
+> - **💡 뉘앙스 & 상황 맥락**: `affect`는 ~에 영향을 미치다, ~에 작용하다는 의미입니다. 특정 계절이나 환경이 신체적/정신적으로 영향을 줄 때 사용합니다. 한국어의 "계절을 타다"와 유사합니다.
+> - **🔊 발음 & 연음 팁 (Pronunciation Tip)**: `affects me a lot`은 `어펙츠미어랏`처럼 연음됩니다.
+> - **📝 실전 예문 (Real Examples)**:
+> - 🇺🇸 `Lack of sleep affects my mood greatly.`
+> - 🇰🇷 수면 부족은 내 기분에 큰 영향을 미친다.
+>
+> ### 🔹 19. `I could ill afford the time.` : 그만한 시간을 낼 수가 없었다.
+> - **💡 뉘앙스 & 상황 맥락**: `could ill afford`는 ~할 여유가 전혀 없었다는 의미로, 시간, 돈, 노력 등을 투자할 형편이 안 될 때 사용합니다. `ill`이 부정적인 뉘앙스를 더합니다.
+> - **🔊 발음 & 연음 팁 (Pronunciation Tip)**: `ill afford`는 `일 어포드`처럼 발음됩니다.
+> - **📝 실전 예문 (Real Examples)**:
+> - 🇺🇸 `We could ill afford to lose another employee.`
+> - 🇰🇷 우리는 또 다른 직원을 잃을 여유가 전혀 없었다.
+>
+> ### 🔹 20. `They agree like cats and dogs.` : 고양이와 개처럼 사이가 나쁘다.
+> - **💡 뉘앙스 & 상황 맥락**: `agree like cats and dogs`는 "고양이와 개처럼 사이가 나쁘다"는 의미의 관용구입니다. `agree`가 "동의하다"라는 일반적인 의미와는 다르게, 여기서는 "잘 어울리다, 조화롭다"의 반어적인 의미로 쓰여서 "전혀 조화롭지 못하다"는 뜻을 나타냅니다.
+> - **🔊 발음 & 연음 팁 (Pronunciation Tip)**: `cats and dogs`는 `캣츠앤독스`처럼 `and`가 약화되어 발음됩니다.
+> - **📝 실전 예문 (Real Examples)**:
+> - 🇺🇸 `My siblings agree like cats and dogs whenever they meet.`
+> - 🇰🇷 우리 형제들은 만날 때마다 고양이와 개처럼 싸운다.
+>
+> ### 🔹 21. `Names and natures do often agree.` : 보기 좋은 떡은 먹기에도 좋다.
+> - **💡 뉘앙스 & 상황 맥락**: "이름과 본성이 종종 일치한다"는 의미로, 겉모습이나 이름이 그 본질을 반영한다는 속담입니다. 한국어의 "보기 좋은 떡이 먹기도 좋다"와 유사하게, 겉모습이 좋으면 내용물도 좋을 것이라는 기대를 표현합니다.
+> - **🔊 발음 & 연음 팁 (Pronunciation Tip)**: `do often agree`는 `두오픈어그리`처럼 자연스럽게 이어집니다.
+> - **📝 실전 예문 (Real Examples)**:
+> - 🇺🇸 `Her kind name matches her gentle personality; names and natures do often agree.`
+> - 🇰🇷 그녀의 친절한 이름은 그녀의 온화한 성격과 일치한다; 이름과 본성은 종종 일치한다.
+>
+> ### 🔹 22. `Why can't we agree on anything?` : 우리는 왜 자꾸 엇갈리지?
+> - **💡 뉘앙스 & 상황 맥락**: 어떤 사안에 대해서도 의견 일치를 보지 못하고 계속해서 의견이 충돌할 때 사용하는 표현입니다. 답답함이나 불만을 나타냅니다.
+> - **🔊 발음 & 연음 팁 (Pronunciation Tip)**: `can't we agree on anything`은 `캔트위어그리온애니띵`처럼 연음됩니다.
+> - **📝 실전 예문 (Real Examples)**:
+> - 🇺🇸 `We always argue; why can't we agree on anything?`
+> - 🇰🇷 우리는 항상 다퉈; 왜 우리는 어떤 것에도 동의할 수 없을까?
+>
+> ### 🔹 23. `Beef doesn't agree with me.` : 저는 쇠고기를 못 먹습니다.
+> - **💡 뉘앙스 & 상황 맥락**: 특정 음식이나 환경이 몸에 맞지 않거나 소화가 잘 안 될 때 사용하는 표현입니다. 알레르기나 체질적인 문제를 설명할 때 유용합니다.
+> - **🔊 발음 & 연음 팁 (Pronunciation Tip)**: `doesn't agree with me`는 `더즌트어그리위쓰미`처럼 연음됩니다.
+> - **📝 실전 예문 (Real Examples)**:
+> - 🇺🇸 `Spicy food doesn't agree with me; I always get an upset stomach.`
+> - 🇰🇷 매운 음식은 나에게 맞지 않아; 항상 속이 안 좋아진다.
+>
+> ### 🔹 24. `I'm in a situation that doesn't allow me to even blink.` : 눈을 깜빡할 만한 여유조차 허락되지 않는 상태입니다.
+> - **💡 뉘앙스 & 상황 맥락**: 매우 바쁘거나 긴박하여 잠시의 여유도 없는 상황을 과장하여 표현할 때 사용합니다.
+> - **🔊 발음 & 연음 팁 (Pronunciation Tip)**: `allow me to even blink`는 `얼라우미투이븐블링크`처럼 자연스럽게 이어집니다.
+> - **📝 실전 예문 (Real Examples)**:
+> - 🇺🇸 `The deadline is so tight, it doesn't allow me to even breathe.`
+> - 🇰🇷 마감 기한이 너무 촉박해서 숨 쉴 틈도 없다.
+>
+> ### 🔹 25. `Allow me.` : 제가 하죠.
+> - **💡 뉘앙스 & 상황 맥락**: 상대방에게 어떤 일을 대신 해주겠다고 제안할 때 사용하는 정중하고 격식 있는 표현입니다. 주로 문을 열어주거나 짐을 들어주는 등의 상황에서 사용됩니다.
+> - **🔊 발음 & 연음 팁 (Pronunciation Tip)**: `Allow me`는 `얼라우 미`로 발음하며, `me`에 약간의 강세를 줍니다.
+> - **📝 실전 예문 (Real Examples)**:
+> - 🇺🇸 `Allow me to get that for you.`
+> - 🇰🇷 제가 그것을 가져다 드릴게요.
+>
+> ### 🔹 26. `Circumstances alter cases.` : 사정에 의해 입장도 바뀐다.
+> - **💡 뉘앙스 & 상황 맥락**: 상황에 따라 판단이나 입장이 달라질 수 있음을 나타내는 격언입니다. "상황이 경우를 바꾼다"는 직역으로, 유연한 사고를 강조합니다.
+> - **🔊 발음 & 연음 팁 (Pronunciation Tip)**: `circumstances`는 `써컴스탠시스`로, `alter`는 `올터`로 발음합니다.
+> - **📝 실전 예문 (Real Examples)**:
+> - 🇺🇸 `While I usually agree, circumstances alter cases, and this situation is unique.`
+> - 🇰🇷 보통은 동의하지만, 사정에 따라 입장이 바뀌며, 이 상황은 독특하다.
+>
+> ### 🔹 27. `You're very annoying.` : 당신은 참 신경을 거슬리게 하는군요.
+> - **💡 뉘앙스 & 상황 맥락**: 상대방의 행동이 매우 짜증 나거나 불쾌할 때 직접적으로 표현하는 말입니다. 다소 강한 어조이므로 사용에 주의해야 합니다.
+> - **🔊 발음 & 연음 팁 (Pronunciation Tip)**: `annoying`은 `어노잉`으로 발음하며, `very`에 강세를 주어 짜증의 정도를 강조할 수 있습니다.
+> - **📝 실전 예문 (Real Examples)**:
+> - 🇺🇸 `His constant complaining is very annoying.`
+> - 🇰🇷 그의 끊임없는 불평은 정말 짜증 난다.
+>
+> ### 🔹 28. `It doesn't apply to you.` : 당신한테는 해당되지 않아요.
+> - **💡 뉘앙스 & 상황 맥락**: 어떤 규칙, 조건, 설명 등이 특정 대상에게는 적용되지 않음을 명확히 할 때 사용합니다.
+> - **🔊 발음 & 연음 팁 (Pronunciation Tip)**: `apply to you`는 `어플라이투유`처럼 연음됩니다.
+> - **📝 실전 예문 (Real Examples)**:
+> - 🇺🇸 `This discount code doesn't apply to you because you're not a new customer.`
+> - 🇰🇷 이 할인 코드는 당신에게 해당되지 않아요. 당신은 신규 고객이 아니니까요.
+>
+> ### 🔹 29. `There is no arranged seating.` : 지정석이 없습니다.
+> - **💡 뉘앙스 & 상황 맥락**: 좌석이 미리 정해져 있지 않고 자유롭게 앉을 수 있는 상황을 설명할 때 사용합니다.
+> - **🔊 발음 & 연음 팁 (Pronunciation Tip)**: `arranged seating`은 `어레인지드 시팅`처럼 발음됩니다.
+> - **📝 실전 예문 (Real Examples)**:
+> - 🇺🇸 `For this event, there is no arranged seating, so arrive early for a good spot.`
+> - 🇰🇷 이 행사는 지정석이 없으니, 좋은 자리를 위해 일찍 오세요.
+>
+> ### 🔹 30. `Have we almost arrived there?` : 다 와가니?
+> - **💡 뉘앙스 & 상황 맥락**: 목적지에 거의 도착했는지 물어볼 때 사용하는 표현입니다. 주로 여행 중이거나 이동 중에 사용됩니다.
+> - **🔊 발음 & 연음 팁 (Pronunciation Tip)**: `almost arrived there`는 `올모스트 어라이브드 데어`처럼 자연스럽게 이어집니다.
+> - **📝 실전 예문 (Real Examples)**:
+> - 🇺🇸 `Are we almost there? I'm getting hungry.`
+> - 🇰🇷 거의 다 왔니? 배고파지기 시작했어.
+>
+> ### 🔹 31. `Few of the guests arrived on time.` : 제시간에 도착한 손님은 거의 없었다.
+> - **💡 뉘앙스 & 상황 맥락**: `few`는 "거의 없는"이라는 부정적인 의미를 가집니다. 정해진 시간에 맞춰 도착한 사람이 소수임을 강조합니다.
+> - **🔊 발음 & 연음 팁 (Pronunciation Tip)**: `few of the`는 `퓨어브더`처럼 연음됩니다. `on time`은 `온 타임`으로 발음합니다.
+> - **📝 실전 예문 (Real Examples)**:
+> - 🇺🇸 `Few of the students completed the assignment before the deadline.`
+> - 🇰🇷 마감 기한 전에 과제를 완료한 학생은 거의 없었다.
+>
+> ### 🔹 32. `She often asks off-the-wall questions.` : 걘 뚱딴지같은 질문을 잘해.
+> - **💡 뉘앙스 & 상황 맥락**: `off-the-wall`은 "별난, 엉뚱한, 기발한"이라는 의미의 비격식적인 형용사입니다. 예상치 못하거나 맥락에 맞지 않는 질문을 할 때 사용합니다.
+> - **🔊 발음 & 연음 팁 (Pronunciation Tip)**: `off-the-wall`은 `오프더월`처럼 발음되며, `wall`에 강세가 있습니다.
+> - **📝 실전 예문 (Real Examples)**:
+> - 🇺🇸 `His ideas are always a bit off-the-wall, but sometimes they work.`
+> - 🇰🇷 그의 아이디어는 항상 좀 엉뚱하지만, 가끔은 통한다.
+>
+> ### 🔹 33. `He asked for it.` : 그 자식 일을 자초했군.
+> - **💡 뉘앙스 & 상황 맥락**: 어떤 사람이 자신의 잘못된 행동으로 인해 좋지 않은 결과를 겪게 되었을 때, 그 결과가 자업자득임을 나타내는 비격식적인 표현입니다.
+> - **🔊 발음 & 연음 팁 (Pronunciation Tip)**: `asked for it`은 `애스크드포릿`처럼 연음됩니다.
+> - **📝 실전 예문 (Real Examples)**:
+> - 🇺🇸 `He kept teasing the dog, so when it bit him, I thought, "He asked for it."`
+> - 🇰🇷 그는 계속 개를 놀렸고, 개가 그를 물었을 때, 나는 "자업자득이군"이라고 생각했다.
+>
+> ### 🔹 34. `I'm not sure if it is okay to ask out one of my coworkers.` : 나의 직장 동료 중 한 명에게 데이트를 청해도 괜찮은지 모르겠어.
+> - **💡 뉘앙스 & 상황 맥락**: `ask out`은 "데이트 신청을 하다"라는 의미의 구동사입니다. 직장 동료에게 데이트 신청을 하는 것에 대한 망설임을 표현합니다.
+> - **🔊 발음 & 연음 팁 (Pronunciation Tip)**: `ask out`은 `애스크아웃`처럼 연음됩니다.
+> - **📝 실전 예문 (Real Examples)**:
+> - 🇺🇸 `He finally asked her out after months of secretly admiring her.`
+> - 🇰🇷 그는 몇 달 동안 몰래 그녀를 흠모한 끝에 마침내 그녀에게 데이트를 신청했다.
+>
+> ### 🔹 35. `Am I asking for too much?` : 내 욕심이 너무 과한 건가요?
+> - **💡 뉘앙스 & 상황 맥락**: 자신이 요구하는 것이 지나치거나 무리한 것인지 상대방에게 물어볼 때 사용합니다. 겸손하거나 조심스러운 태도를 나타냅니다.
+> - **🔊 발음 & 연음 팁 (Pronunciation Tip)**: `asking for too much`는 `애스킹포투머치`처럼 자연스럽게 이어집니다.
+> - **📝 실전 예문 (Real Examples)**:
+> - 🇺🇸 `If I ask for a raise, do you think I'm asking for too much?`
+> - 🇰🇷 내가 임금 인상을 요구하면, 너무 과한 욕심이라고 생각하니?
+>
+> ### 🔹 36. `Why don't you ask someone else?` : 다른데도 알아보지 그러세요?
+> - **💡 뉘앙스 & 상황 맥락**: 상대방이 자신에게 요청한 것을 들어주기 어렵거나, 더 나은 대안이 있을 때 다른 사람에게 물어보라고 제안하는 표현입니다.
+> - **🔊 발음 & 연음 팁 (Pronunciation Tip)**: `ask someone else`는 `애스크썸원엘스`처럼 연음됩니다.
+> - **📝 실전 예문 (Real Examples)**:
+> - 🇺🇸 `I can't help you with that; why don't you ask someone else?`
+> - 🇰🇷 그건 제가 도와드릴 수 없어요; 다른 사람에게 물어보지 그러세요?
+>
+> ### 🔹 37. `I asked him point-blank.` : 단도직입적으로 묻다.
+> - **💡 뉘앙스 & 상황 맥락**: `point-blank`는 "단도직입적으로, 직설적으로"라는 의미의 부사입니다. 돌려 말하지 않고 핵심을 바로 물어볼 때 사용합니다.
+> - **🔊 발음 & 연음 팁 (Pronunciation Tip)**: `point-blank`는 `포인트 블랭크`로 발음하며, `point`와 `blank` 사이에 짧은 멈춤이 있습니다.
+> - **📝 실전 예문 (Real Examples)**:
+> - 🇺🇸 `She asked him point-blank if he was lying.`
+> - 🇰🇷 그녀는 그에게 거짓말을 하고 있는지 단도직입적으로 물었다.
+>
+> ### 🔹 38. `Ask for troubles.` : 제 무덤 제가 판다.
+> - **💡 뉘앙스 & 상황 맥락**: 스스로 문제를 자초하거나 위험한 상황에 빠지는 행동을 비유적으로 표현할 때 사용합니다. `ask for it`과 유사한 의미입니다.
+> - **🔊 발음 & 연음 팁 (Pronunciation Tip)**: `ask for troubles`는 `애스크포트러블스`처럼 자연스럽게 이어집니다.
+> - **📝 실전 예문 (Real Examples)**:
+> - 🇺🇸 `If you keep provoking him, you're just asking for troubles.`
+> - 🇰🇷 계속 그를 자극하면, 제 무덤 제가 파는 격이야.
+>
+> ### 🔹 39. `It's like asking for the moon.` : 하늘의 별 따기 같아요.
+> - **💡 뉘앙스 & 상황 맥락**: 어떤 것이 거의 불가능하거나 매우 어려운 일임을 비유적으로 표현할 때 사용합니다. 한국어의 "하늘의 별 따기"와 동일한 의미입니다.
+> - **🔊 발음 & 연음 팁 (Pronunciation Tip)**: `asking for the moon`은 `애스킹포더문`처럼 자연스럽게 이어집니다.
+> - **📝 실전 예문 (Real Examples)**:
+> - 🇺🇸 `Getting a perfect score on this exam is like asking for the moon.`
+> - 🇰🇷 이 시험에서 만점을 받는 것은 하늘의 별 따기 같아요.
+>
+> ### 🔹 40. `Don't assume too much.` : 넘겨짚지 마세요. / 억지로 끼워 맞추지 말아요.
+> - **💡 뉘앙스 & 상황 맥락**: 충분한 근거 없이 섣불리 판단하거나 추측하지 말라고 경고할 때 사용합니다. 두 가지 한국어 번역 모두 이 뉘앙스를 잘 나타냅니다.
+> - **🔊 발음 & 연음 팁 (Pronunciation Tip)**: `assume too much`는 `어쑴투머치`처럼 자연스럽게 이어집니다.
+> - **📝 실전 예문 (Real Examples)**:
+> - 🇺🇸 `Just because he's quiet, don't assume too much about his personality.`
+> - 🇰🇷 그가 조용하다고 해서 그의 성격에 대해 너무 넘겨짚지 마세요.
+>
+> ### 🔹 41. `I attended half-heartedly.` : 그냥 건성으로 다녔어요.
+> - **💡 뉘앙스 & 상황 맥락**: 어떤 활동이나 일에 열정이나 진심 없이 마지못해 참여했음을 나타낼 때 사용합니다.
+> - **🔊 발음 & 연음 팁 (Pronunciation Tip)**: `half-heartedly`는 `하프하티들리`처럼 발음됩니다.
+> - **📝 실전 예문 (Real Examples)**:
+> - 🇺🇸 `She studied half-heartedly for the exam and failed.`
+> - 🇰🇷 그녀는 시험공부를 건성으로 해서 떨어졌다.
+>
+> ### 🔹 42. `Which college are you attending?` : 어느 대학에 다니십니까?
+> - **💡 뉘앙스 & 상황 맥락**: 상대방이 현재 다니고 있는 대학을 물어볼 때 사용하는 일반적인 질문입니다.
+> - **🔊 발음 & 연음 팁 (Pronunciation Tip)**: `attending`은 `어텐딩`으로 발음하며, 강세는 두 번째 음절에 있습니다.
+> - **📝 실전 예문 (Real Examples)**:
+> - 🇺🇸 `My son is attending a university in California.`
+> - 🇰🇷 제 아들은 캘리포니아에 있는 대학에 다니고 있습니다.
+>
+> ### 🔹 43. `What schools have you attended?` : 학력이 어떻게 되십니까?
+> - **💡 뉘앙스 & 상황 맥락**: 상대방의 학력이나 교육 배경을 물어볼 때 사용하는 표현입니다. 주로 이력서나 면접 상황에서 사용될 수 있습니다.
+> - **🔊 발음 & 연음 팁 (Pronunciation Tip)**: `have you attended`는 `해브유어텐디드`처럼 연음됩니다.
+> - **📝 실전 예문 (Real Examples)**:
+> - 🇺🇸 `On your resume, please list all the schools you have attended.`
+> - 🇰🇷 이력서에 다니셨던 모든 학교를 기재해 주세요.
+>
+> ### 🔹 44. `What is it that attracted you to her?` : 그 여자의 어디가 그렇게 마음에 드세요?
+> - **💡 뉘앙스 & 상황 맥락**: 상대방이 특정 인물이나 사물에 매력을 느끼는 이유를 물어볼 때 사용합니다. `What is it that ~` 패턴은 강조의 의미를 가집니다.
+> - **🔊 발음 & 연음 팁 (Pronunciation Tip)**: `attracted you to her`는 `어트랙티드유투허`처럼 연음됩니다.
+> - **📝 실전 예문 (Real Examples)**:
+> - 🇺🇸 `What is it that attracted you to this job?`
+> - 🇰🇷 이 직업의 어떤 점이 당신을 매료시켰나요?
+>
+> ### 🔹 45. `Can I audit your class?` : 교수님 수업을 청강해도 됩
+
+---
+
+홈페이지:
+
+http://www.kjtrans.co.kr
+
+E-mail: kjtrans@yahoo.co.kr
+
+휴대폰: 016-607-8094
+
+광
+
+주
+
+번
+
+역
+
+<accept>
+
+이제 다른 회사에서 일자리를 얻었다는 걸 알려드리고 싶어요. I'd like to let you know now, that I've accepted a job with another company.
+
+지난 학기 기말 시험 잘 봤어? Did you ace your finals last quarter?
+
+<ache>
+
+마디마디가 쑤신다. I'm aching in the joints.
+
+몸살이 났다. I ache all over.
+
+<act>
+
+그 애는 공주병이야. She acts like a Jewish American princess./ She's stuck up[conceited, snotty, uppity]./ She's a snob.
+
+내숭 좀 그만 떨어. Stop acting coy./ Stop pretending.
+
+<add>
+
+불난 집에 부채질합니까? Are you adding fuel to the fire?
+
+한국에서는 태어나자마자 한 살이에요. Koreans add a year to babies as soon as they're born./ In Korea, you're a year old when you're born.
+
+<address>
+
+그는 그 여자를 구스르고 있었다. He was addressing her.
+
+제가 어떻게 불러야 돼나요? How do should I address you?/ What would you like to be called?
+
+<adjourn>
+
+우리는 회합을 다음 주 금요일까지 연기하였다. We adjourned the meeting until next Friday.
+
+<advise>
+
+가슴 노출이 심한 옷을 삼가 해 주세요. Discreet cleavage is advised.
+
+<affect>
+
+저는 겨울을 유난히 많이 타요. Winter affects me a lot.
+
+<afford>
+
+그만한 시간을 낼 수가 없었다. I could ill afford the time.
+
+<agree>
+
+고양이와 개처럼 사이가 나쁘다. They agree like cats and dogs.
+
+보기 좋은 떡은 먹기에도 좋다. Names and natures do often agree.
+
+우리는 왜 자꾸 엇갈리지? Why can't we agree on anything?
+
+저는 쇠고기를 못 먹습니다. Beef doesn't agree with me.
+
+<allow>
+
+눈을 깜빡할 만한 여유조차 허락되지 않는 상태입니다. I'm in a situation that doesn't allow me to even blink.
+
+제가 하죠. Allow me.
+
+<alter>
+
+사정에 의해 입장도 바뀐다 Circumstances alter cases.
+
+<annoy>
+
+당신은 참 신경을 거슬리게 하는군요. You're very annoying.
+
+<apply>
+
+당신한테는 해당되지 않아요. It doesn't apply to you.
+
+<arrange>
+
+지정석이 없습니다. There is no arranged seating.
+
+<arrive>
+
+다 와가니? Have we almost arrived there?
+
+제시간에 도착한 손님은 거의 없었다. Few of the guests arrived on time.
+
+<ask>
+
+걘 뚱딴지같은 질문을 잘해. She often asks off-the-wall questions.
+
+그 자식 일을 자초했군. He asked for it.
+
+나의 직장 동료 중 한 명에게 데이트를 청해도 괜찮은지 모르겠어. I'm not sure if it is okay to ask out one of my coworkers.
+
+내 욕심이 너무 과한 건가요? Am I asking for too much?
+
+다른데도 알아보지 그러세요? Why don't you ask someone else?
+
+단도직입적으로 묻다. I asked him point-blank.
+
+제 무덤 제가 판다. Ask for troubles.
+
+하늘의 별 따기 같아요. It's like asking for the moon.
+
+<assume>
+
+넘겨짚지 마세요. Don't assume too much.
+
+억지로 끼워 맞추지 말아요. Don't assume too much.
+
+<attend>
+
+그냥 건성으로 다녔어요. I attended half-heartedly.
+
+어느 대학에 다니십니까? Which college are you attending?
+
+학력이 어떻게 되십니까? What schools have you attended?
+
+<attract>
+
+그 여자의 어디가 그렇게 마음에 드세요? What is it that attracted you to her?
+
+<audit>
+
+교수님 수업을 청강해도 됩니까? Can I audit your class?
+
+<back>
+
+(쉬다가 다시 일하러 갈 때) 죽으나 사나 또 일하러 가야지. Now back to the grind.
+
+무슨 일이 있어도 버티겠어. I'm not going to back down.
+
+<backfire>
+
+그것이 실패하지는 않을 겁니다. It won't backfire.
+
+<backpack>
+
+내 친구는 한국에서 배낭여행을 하고 있어요. My friend is backpacking around Korea.
+
+<backstab>
+
+존이 내 뒤통수를 쳤어. I'm back-stabbed by John.
+
+<bag>
+
+조용히 해! 지금 집중해야 한단 말야. Bag it! I'm trying to concentrate.
+
+<bark>
+
+당신 또 헛다리짚었어요. You barked up the wrong tree again.
+
+<bawl>
+
+사장에게 호된 꾸중을 들었다. I was bawled out by the boss.
+
+<be>
+
+그대로가 좋다. I like it just the way it is[you are].
+
+내가 몇 살로 보입니까? How old do you think I am?
+
+너는 잘도 지껄여대는 구나! What a good talker you are!
+
+당신의 속셈이 뭔지 모르지만 그만 두는 게 좋을걸요. I don't know what your game is, but you'd better stop it.
+
+몇 시에 온다고 그랬지요? What time did he say he would be here?
+
+사람을 얕보지 말라구. Who do you think I am?
+
+아직 여자친구 없지? You are still between girls, right?
+
+있는 그대로의 너를 사랑해. I love you just the way you are.
+
+<be a.>
+
+이 것이 30%정도 비쌉니다. It is about 30% more expensive.
+
+10대라는 이유만으로도 죽을 맛입니다. Being a teenager is tough enough.
+
+Mr. Kim이 우리를 위해서 많은 배려를 해줬는데 그가 사임했다고 하니 참 아쉽군요. It is a pity that Mr. Kim has resigned. He was very considerate to us.
+
+The time is ripe. 때가 되었군.
+
+가까이 오지도 않았다. 닿지도 않았다. It is not even close.
+
+가는 날이 장날이네요. That is purely coincidental.
+
+값이 너무 비싸요. That's too steep for me.
+
+겉으로는 사나워 보여도 알고 보면 따뜻한 사람이에요. His bark is worse than his bite.
+
+굼벵이도 꿈틀하는 재주가 있다. All things in their being are good for something./ Willows are weak, yet they bind other wood./ There's no tree but bears some fruit.
+
+그 사람 정말 잘 삐져요. He is really pouty.
+
+그 사람 지금 신경이 곤두 서 있어요. He is a little sensitive right now.
+
+그 사람도 별 수 없구나. He is no different.
+
+그 사람은 사고덩어리예요. He is accident-prone.
+
+그 사람은 의리가 있어요. He is loyal.
+
+그 사람이 나를 들들 볶아요. He's being really hard on me.
+
+그 앨범은 무척 인기가 많습니다. That album is red-hot.
+
+그 일에만 매달려 있어요. I am right on top of it.
+
+그 자식은 지독히 뻔뻔스러워. His manners are too familiar.
+
+그가 그 일에 적합하지 못하다는 말씀인가요? Do you mean to say he's unfit for the job?
+
+그거 뻔하지 뭐. That's natural./ Of course./ That's the way it goes.
+
+그거 야단났군! That's tough.
+
+그건 너무 튀어요. That's too loud./ That's too bright./ That will make me stand out.
+
+그건 비겁한 거죠, 그죠? It's just cold feet, isn't it?
+
+그것은 산산조각이 났습니다. It was blasted into splinters.
+
+그것은 수명이 짧다. Its wear is short.
+
+그것은 엉성하다. It's unsatisfactory./ It's slipshod.
+
+그것은 유감스럽지만 사실이야. It is only too true.
+
+그게 제 값을 하고 있어요. It's right on the money.
+
+그녀는 사람은 차분하고 꼼꼼하다. She is calm, collected and meticulous.
+
+그녀는 임신 몇 개월이죠? How long has she been pregnant?
+
+그녀는 자존심이 세다. She is self-conceited./ She is so cocky.(slang)
+
+그녀는 조금만 있으면 스무 살이 된다. She is just short of twenty.
+
+그는 거구에 기골이 장대하다. He is buff.
+
+그는 나한테 아주 무뚝뚝했다. He was very short with me.
+
+그는 발랄하고 힘차다. He is full of beans.
+
+그는 사교적이다. He is clubby.
+
+그는 신출귀몰한 사람이다. He's really slippery[elusive]./ He's like a ghost.
+
+그는 아주 현실적이에요. He's very grounded.
+
+그는 온건하면서도 빈틈이 없다. He is level-headed.
+
+그는 정말 골치 덩어리야. He is absolutely incorrigible.
+
+그는 정신이 없어요. He is forgetful./ He is absent-minded.
+
+그는 항상 파티에 중심이 되려고 해. He's always gonna be the life of the party.
+
+그러지 않기가 너무 어렵다. It is so hard not to.
+
+그런 목소리는 백 년에 한 번 나올까말까 해요. A voice like that is few and far between.
+
+그런 생각을 가질 만도 하다. It's possible to think that way.
+
+그럼, 악당들이 너를 당할 수 가 없지. I guess you are too good for the bad guys.
+
+그렇게 빡빡하게 살 필요 있어요? Don't be so uptight.
+
+그야말로 천편일률적이다. It's downright monotonous.
+
+기가 막히는군요.(아주 훌륭하군요) This is breathtaking.
+
+기분이 좋아서 가슴이 벅차 올랐어요. I was so happy that I was speechless.
+
+기회는 이때다. The coast is clear.
+
+까딱 잘못하면 큰일나요. A slip could be false.
+
+나는 말주변이 없어요. I'm not good with words.
+
+나는 바보가 아니야. I wasn't born yesterday.
+
+나는 우유부단한 성격이다. I am really wishy-washy./ I am really bland.
+
+나는 주머니 사정이 안 좋아요. My pocketbook is pretty thin these days./ My pockets are pretty empty these days.
+
+나에겐 너무 버거운 일이에요. This is too much for me to handle.
+
+나이만 많으면 다냐? You're no better than me just because you're older.
+
+난 이제 소기의 목적을 달성했다. I'm glad I came./ It was worth coming here./ It was worth the trip.
+
+날씨가 구질구질 해요. The weather is nasty.
+
+남의 눈치볼 필요 없어요. Don't be so conscious of others.
+
+남의 떡이 커 보인다. The grass is greener on the other side of the fence.
+
+내 체질에 안 맞는 일이야. I'm not cut out for this.
+
+내 친구는 어디로 튈지 몰라요. My friend is so unpredictable.
+
+내가 뒤에서 밀어 줄게. I am right behind you.
+
+내가 보수적인가 봐요. I guess I'm old-fashioned.
+
+내숭떨지마. Don't be sneaky.
+
+너는 마당발이다. You're well connected.
+
+너는 세상 물정을 너무 몰라. You're so naive.
+
+너는 욕심이 너무 지나쳐. Your eyes are bigger than your stomach.
+
+너무 갑작스런 부탁이다. It's pretty short notice.
+
+너무 무리하지 마세요. Don't be so hard on yourself.
+
+넌 비몽사몽간에 전화 받았니? Were you half asleep when you picked up the phones?
+
+넌 엉뚱하다. You are outrageous.
+
+누구나 장단점을 가지고 있어요. There's good and bad in everyone.
+
+눈썰미가 있어서 좋겠어요. You're lucky you can learn things instantly.
+
+눈치가 보여요. I have to be careful what I do.
+
+눈치껏 좀 하세요. Don't be so obvious.
+
+다리 떨지 마세요, 복 나가요. It's unlucky to shake your leg.
+
+다친 데가 아직도 만지면 아프다. My bruise is still tender.
+
+단번에 질려. The sample is ample.
+
+당신 한국말 참 많이 늘었군요. Your Korean is much better now.
+
+당신으로서도 어쩔 수가 없었을 거예요. There wasn't much you could have done.
+
+당신은 말을 너무 함부로 해요. You're too outspoken.
+
+당신은 시치미도 잘 떼는군요. You're very good at telling fibs.
+
+당신은 확률이 높은 쪽으로 행동해야 합니다. You're gotta play the odds.
+
+당신이 한 행동에 대해 책임을 지세요. Be responsible for what you've done.
+
+당신하고는 말이 통하는군요. Our thoughts are compatible.
+
+당연한 것 아니에요? Is the sky blue?
+
+더 이상 못 참겠다! Enough is enough!
+
+돈벌이는 잘 됩니까? Is the money good?
+
+돌다리도 두들겨 보고 건너라. Second thoughts are best.
+
+돕고 싶지만 지금 현금 가진 게 모자라는군요. I'd really like to help, but I'm short on cash now.
+
+될 성부른 나무는 떡잎부터 알아본다. As the twig is bent, so grows the tree.
+
+뒷맛이 안 좋아요. The aftertaste is bad.
+
+듣던 중 반가운 말이네요. That's good to hear./ That's music to my ears.
+
+등잔 밑이 어둡다. It's easy to miss what is in front of you.
+
+라면이 불었어요. The noodles are saggy and mushy.
+
+많은 사람들이 고향으로 내려갑니다. Many people are homeward bound.
+
+말은 쉬운 겁니다. Talk is cheap.
+
+말은 저렇게 해도 그렇게 나쁜 사람은 아니야. His bark is worse than his bite.
+
+말이 씨가 된다. Be careful what you wish for.
+
+면발이 쫄깃쫄깃해요. The noodles are stringy.
+
+몇 시쯤 이 편하세요? What time is convenient for you?
+
+모두가 당신을 벼르고 있어요. Everybody is mad at you.
+
+모든 사람들은 두각을 나타내고 인정받고 싶어하지. Everyone wants to be seen, and heard.
+
+목이 칼칼해요. My throat is dry.
+
+무리한 소리하지마. Stop being unreasonable.
+
+미안하면 다야, 미안하다고 말하면 단줄 아냐. Sorry isn't enough. Do you think that a mere apology frees you from all responsibility?
+
+바늘 가는 데 실 간다. Those two are inseparable.
+
+바로 맞추셨습니다. You are right on the money.
+
+밥이 되다. The rice is heavy.
+
+밥이 질다 The rice is mushy.
+
+보나마나 뻔한 일이다. It's predictable./ It's given.
+
+부담스러워요? Is it too much for you to manage?
+
+부모님께 건방지게 굴지 마라. Don't be fresh to your parents.
+
+부유한 집안에서 태어나는 것이 꼭 좋은 것만은 아니에요. It's not always good to be born with a silver spoon in your mouth.
+
+불행 중 다행입니다. It could have been worse.
+
+빨간 테가 눈에 확 띄네요. Those red frames are really eye-catching!
+
+뻔하다, 분명하다. It's plain to see.
+
+사람 밑에 사람 없고, 사람 위에 사람 없다. Nobody's belower than nobody.
+
+사면초가. I'm stuck.
+
+산을 잘 타시네요. I see you're good at hiking.
+
+성격이 둥글둥글하다. She is easygoing.
+
+성공시켜야만 해요. It better be successful.
+
+세상살이가 힘든 것은 나도 마찬가지야. Life is being hard on me, too.
+
+손이 많이 가는 음식이에요. That dish is hard to make.
+
+수강 신청이 꽉 찼어요. The class is full./ The class is closed.
+
+숨이 차서 더 이상 못 가겠어요. I'm too breathless to go any farther.
+
+실천에 옮길 수 있어요! That's doable!
+
+아, 그거 참 머리에 쏙 들어오는 말이네. Hey, that's catchy.
+
+아마 좀 서먹서먹할 거예요. It will probably be a bit awkward.
+
+아직 초저녁이야. The night is still young.
+
+알아들었어? Is that clear?
+
+애당초 불가능한 일이었어. It was impossible at the first place.
+
+어린아이치고는 정말 똑똑하다. He's really smart for a kid./ He's pretty bright for his age./ He's pretty mature for a kid.
+
+언니는 남자를 고르는 눈이 높아요. My sister's standards are high when choosing men.
+
+여기 서비스는 확실합니다. This service here is exceptional./ The service is excellent here./ We offer great service.
+
+여기서는 무엇을 잘 하지요? What's good here?
+
+여름치고는 이상하게 서늘해요. It's unusually cool for a summer day.
+
+열 길 물 속은 알아도 한 길 사람 속은 모른다. Men and melons are hard to know.
+
+오늘 널 만날 시간이 있을지 장담할 수가 없어. I'm not sure that I'll have time to meet you today.
+
+오늘은 불쾌지수가 높은 날이다 Today's discomfort index is very high.
+
+오히려 좀 못 생긴 편이죠. She is rather plain looking.
+
+왼손으로 글쓰기 힘들지 않아요?  Isn't it awkward writing with your left hand?
+
+요즘 정유업자들에게는 참 불경기인 것 같아요. These days life isn't easy for those in the oil business.
+
+우리 아버지는 내가 오늘날 성공하는 데 지대한 영향을 끼치셨지. My father was very instrumental in making me as successful as I am today.
+
+유치하군. You're so corny.
+
+음식에 기름기가 많군요. It's so greasy.
+
+이 소설은 격조에 있어 어떤 일관성이 있다. The novel is entire in tone.
+
+이 영화 끝내주지? Isn't this movie great terrific[awesome, fabulous, gorgeous]?
+
+이 일이 어려우시죠. I think it's hard on you.
+
+이건 1회용입니다. This is disposable.
+
+이것도 어디예요? This is better than nothing.
+
+이것만 안 건드리면 아무 일 없는 거죠? Will everything be okay as long as I do not disturb that?
+
+이것은 승부를 걸 만해요. This is worth investing in.
+
+이것은 썩는 건가요? Is it biodegradable?
+
+이만하기 다행이지. Well, it could be worse.
+
+이번에는 얼마나 오래 계실 건가요? How long will you be gone this time?
+
+이제 살 것 같아요. That's much better.
+
+자기 일을 하지 않고 딴전을 부리다. You're being negligent of your duties.
+
+잠깐 어디 좀 다녀올게요. I'll be right back.
+
+저녁 식사가 맛있었어요. Dinner was yummy.
+
+저는 복숭아 알레르기가 있어요. I'm allergic to peaches.
+
+저는 부족한 점이 많아서 안 돼요. I'm afraid I'm not fit to do that.
+
+저는 식성이 까다로운 편이에요. I am very fussy about foods.
+
+저속하지 않나요? Isn't it pathetic?
+
+전 길눈이 어두워요. I'm terrible at directions.
+
+전 아무거나 잘 먹습니다. Whatever I'm easy to please.
+
+정말 어이없는 일이에요. It's so frustrating.
+
+정찰제 입니다. The price are nonnegotiable./ We have set prices.
+
+제가 당신 삼촌뻘쯤은 될 겁니다. I'm old enough to be your aunt.
+
+제가 당신한테 심한가요? Am I being hard on you?
+
+제가 어떻게 화가 안 날 수 있나요? How can I not be upset?
+
+제것은 형편없어요. Mine is terrible.
+
+제인은 매우 둔감해서 무엇에나 신경을 쓰는 일이 없다. Jane is so thick-skinned that nothing bothers her.
+
+좀 더 자세히 설명해주시겠습니까? Could you be more specific?
+
+좋다 말았어요. It would have been nice.
+
+주문해서 만든 것이죠. It's custom-made.
+
+지금 유행하는 노래는 무엇입니까? Which song is most popular now?/ What is the most popular song now?
+
+지방 방송은 그만 하세요. Everyone else be quiet.
+
+콩으로 메주를 쑨다해도 안 믿어요. Even if it were true, I still wouldn't believe you.
+
+태어날 때부터 잘하는 사람은 없어요. No one is good from the beginning.
+
+택도 없는 소리하지 말아요. Don't be ridiculous.
+
+틀림없습니다. I'm positive.
+
+팔에 알통이 있다. My arms are muscular./ My arms are getting muscular./ My triceps and biceps are starting to develop.
+
+피장파장입니다. We're even./ That makes us even.
+
+피할 수 없으면 즐겨라. If it is unavoidable, enjoy it.
+
+할부됩니까? Is financing available?
+
+핸들이 흔들립니다. This steering is shimmy.
+
+화면이 흔들려요. The screen is fuzzy.
+
+휴우! 아슬아슬했다. Whew! That was close./ That was a close call!
+
+흐지부지 끝났어요. The ending was weak.
+
+<be about>
+
+그래서 그렇게 시끄러웠군요? Was that all the noise about?
+
+내가 대체 무슨 생각을 하고 있었지! What on earth was I thinking about!
+
+진작 그랬어야 해. It's about time.
+
+<be abroad>
+
+모든 것이 다 들통이 났다. Everything is all abroad.
+
+<be ad.>
+
+건강을 빌겠습니다. Here is how!
+
+괜히 번거롭잖아요. That's too much of a hassle.
+
+그때는 그때고, 지금은 지금이에요. That was then, this is now.
+
+그분은 안 가보신 데가 없습니다. He's been everywhere.
+
+나는 그런 것을 겪어보아서 잘 안다. I was there.
+
+나는 할 일을 다 했다. I'm home free.
+
+어중이떠중이 다 왔어요. Every Tom, Dick and Harry were there.
+
+항상 저를 도와 주셨잖아요. You've been there for me many times.
+
+<be ahead>
+
+그는 대학2년 선배예요. He is two years ahead of me in school.
+
+<be around>
+
+그녀가 멀리 가지 않았으면 좋겠어요. I hope she's still around.
+
+그는 세상 물정에 밝아요. He has been around.
+
+면접이 곧 다가오네. The job interview is just around the corner.
+
+뭐도 약에 쓰려면 없다니까. It's never around when you need it.
+
+얼마 안 남았습니다. It's just around the corner.
+
+<be as>
+
+(누구에게 핀잔이나 좋지 않은 소리를 들었을 때) 너도 만만치 않아. You are just as bad sense.
+
+감쪽같아요. It's as good as new.
+
+굉장히 기뻐하더군. She was as pleased as punch.
+
+그 여잔 칼 같다니까! She is as sharp as a razor!
+
+그게 당신 한계예요. That's as far as you can go.
+
+당신 고집불통이군요. You're as stubborn as a mule./ You have to do everything his way.
+
+보기만큼 그리 나쁘진 않아요. It's not as bad as it seems.
+
+비싼 만큼 그 값을 하는군요. It's as good as it costs./ It's worth the money.
+
+세상은 생각하는 대로 되어진다. The world is as you take it.
+
+소문만 요란했어요. It wasn't as good as it was made out to be./ It was all talk.
+
+저는 정신이 멀쩡한 걸요. I'm as sober as I can be.
+
+행동이 멋져야 멋진 사람이다. Handsome is as handsome does.
+
+<be at>
+
+그 여자는 프랑스 말에 능통하다. She is at home in French.
+
+그는 영어가 아주 능수 능란하다. He's terribly at home in English.
+
+그의 행방이 오리무중이다. He is at large.
+
+내친 김에 야구모자 하나 사줄래? Could you get me a cap while you're at it?
+
+너는 약방의 감초처럼 꼭 낀다. You seem to be at everything.
+
+뭐든지 시켜만 주십시오. I am at your service.
+
+<be away>
+
+범 없는 골에는 토끼가 스승이라. When the cat's away, the mice will play.
+
+사랑하는 사람과 떨어져 있는 것이 세상에서 가장 힘든 일 중의 하나죠. Being away from someone you love is one of the hardest things in the world.
+
+얼마간 다녀오셨어요? How long were you away?
+
+집에서 떠나 있는 동안 좀더 자주 가족들에게 전화할 수 있었으면 좋았을 텐데. I wish I could have called my family more often while I was away from home.
+
+<be back>
+
+그 사람은 집세가 많이 밀려 있다. He is far back on his rent.
+
+<be because>
+
+못 해서 안 하는 게 아니라 안 하니까 못 하는 거다. The reason you don't do isn't because you can't./ You can't do it because you don't.
+
+<be behind>
+
+너 큰일이구나. You're behind the eight ball.
+
+<be below>
+
+약간 치사한 방법이긴 하다. It's a little bit below the belt.
+
+<be beyond>
+
+그의 계획은 흠잡을 데가 없습니다. His plan is beyond challenge.
+
+<be for>
+
+십년 공부 도로아미타불. All the pains were for nothing.
+
+우는 것은 나와 거리가 멀다. Crying is not for me.
+
+저를 찾으면 없다고 해 주세요. If it's for me, say I'm not here.
+
+친구 좋다는 게 뭐예요. That's what friends are for.
+
+<be from>
+
+그 사람은 좀체 남의 말을 믿지 않는다. He's from Missouri.
+
+<be going to>
+
+그건 좀 곤란하겠는데요. That's going to be a little tricky.
+
+나는 점을 뺄 거예요. I'm going to take out my mole.
+
+제 동생은 재수학원에 다녀요. My brother is going to or attending a college preparatory academy[college prep-academy].
+
+<be in>
+
+그 꼬마는 완전히 격리되어 있어요. The kid is in a cocoon.
+
+그 아가씨는 멋있는 옷을 입고 있다. She is in swell clothes.
+
+그녀한테 데이트 신청을 해야 할지 말아야 할지 도무지 판단이 안 서. I'm in two minds about asking her out.
+
+그는 경쟁에서 뒤쳐져 있어요. He is in the back of the pack.
+
+그는 출근전 입니다. He is not in yet.
+
+그분과 다시 사이가 나빠졌어요. I'm in hot water with him again.
+
+까마귀 날자 배 떨어진다. I was in the wrong place at the wrong time.
+
+내 코가 석자다. I'm in debt up to my ears./ I'm over my head in debt.
+
+누구나 다 아는 사실이다. It's in the book.
+
+눈을 깜빡할 만한 여유조차 허락되지 않는 상태입니다. I'm in a situation that doesn't allow me to even blink.
+
+당신에게 돌아오는 것이 무엇이었습니까? What was in it for you?
+
+당신이 그렇게 말할 자격이 있어요? Are you in a position to say that?
+
+당신이 뭔데 저한테 이래라저래라하는 겁니까? You're not in a position to tell me what to do.
+
+무슨 일 때문에 전화를 하셨습니까? May I ask what this is in reference to?
+
+배꼽 쥐고 웃었어요. I was in stitches.
+
+생각은 하고 있는데 아직 결정하진 않았어. That's still in limbo.
+
+아주 좋아 보이는데. You look you're in the pink now.
+
+아직 사춘기를 못 벗어난 것 같군요. I think you're still in puberty.
+
+어제까지 밖에서 지냈기 때문에 집사람한테 면목이 없다. I'm in the doghouse with my wife since I stayed out last night.
+
+어찌해야 좋을지 모르겠다. I am in two minds.
+
+우리 회사는 요즘에 구조 조정 중이에요. Our company is in the middle of downsizing.
+
+위기가 닥쳐있다. The fat is in the fire.
+
+제 눈에 안경이다. Beauty is in the eye of the beholder.
+
+존은 그의 국장의 호감을 받게 될 겁니다. John will be in his director's good graces.
+
+추가로 하시는 겁니까? Is this in addition?
+
+<be into>
+
+그때 이후로 그 일에 빠져 버렸지요. Been into it ever since.
+
+<be like>
+
+(담배연기가 자욱할 때) 너구리 잡는다. It's like a smokestack in here.
+
+그들은 부부 금술이 좋다. They are like two little lovebirds.
+
+김빠진 맥주 마시는 기분이네. It's like drinking flat beer.
+
+늘 이 모양이야. It's always like this.
+
+다른 남편들을 좀 본받아봐요. Why can't you be like other husbands?
+
+당신 원래 이래요? Are you always like this?
+
+우리 부모님은 항상 신혼이세요. My parents are like newlyweds.
+
+이제야 그럴 듯 하군. That's more like it.
+
+콩과 당근처럼 뗄 수 없는 사이였습니다. We were like peas and carrots.
+
+한가위만 같아라. I wish every day was like Thanksgiving.
+
+<be near>
+
+난 그대가 곁에 있어도 그대가 그립다. I miss you even when you are near me.
+
+<be next>
+
+방이 서로 붙어 있는 건가요? Are the rooms next to each other?
+
+<be noun>
+
+(개나 고양이) 무슨 종입니까? What breed is it?
+
+(누구나 할 수 있는) 이건 쉬운 일이야! This is a foolproof plan!
+
+(완벽한데) 걸리는 게 하나 있어. There is just one tiny hitch.
+
+K씨는 거물급 바이어다. Mr. K is a big buyer.
+
+개망나니 짓 좀 그만 할 수 없니? Can't you just stop being a bull in china shop?
+
+걘 꽝이야! He's the pits.
+
+건방진 놈 같으니! You seem to be a wise guy!
+
+공포영화는 항상 재정적 이익과 인기를 누리는 흥행물이다. A horror movie is always good box office.
+
+구슬이 서 말이라도 꿰어야 보배. There's many a slip betwixt[between] the cup and the lip.
+
+그 경기는 막상막하다. That game is neck and neck.
+
+그 교수님은 학점이 너무 짜요. The professor is a really tough grader.
+
+그 문제는 알쏭달쏭하다.  It's a puzzling question.
+
+그 사람 본심은 나쁘지 않아요. He's not a bad person at heart.
+
+그 사람 어딘지 모르게 괴짜 같아. He's a little off-the-wall.
+
+그 사람 폐인 다됐어. He's a basket-case.
+
+그 사람은 말뿐이에요. He's all mouth.
+
+그 사람은 술만 마시면 울어요. He is a maudlin drinker.
+
+그 사람은 활발한 친구야. He is a cheery party.
+
+그 여자는 매우 가정적이다. She is a home body.
+
+그 연극은 박력 없이 김 빠진 내용이다. The play was just milk-and-water.
+
+그 이상도 그 이하도 아니에요. It's nothing more, nothing less.
+
+그 정신 높이 사겠다. That's the spirit.
+
+그 파티는 완벽한 실패작이었어요. The party was all fiasco.
+
+그가 양다리를 걸쳤어요. He is a two timer.
+
+그가 이길 것이 확실해. He is a shoo-in.
+
+그건 네가 알 바 아니다! That's my affair!
+
+그건 딴 얘기다. That's another pair of shoes.
+
+그건 비교가 될 수 없어. That's apples and oranges.
+
+그건 사기도박이다. It's a fixed game.
+
+그건 쓸 데 없는 짓이다. That's no bottle.
+
+그건 우리 비장의 카드야. It's our ace in the hole.
+
+그건 전혀 다른 얘기야. That's a horse of another color.
+
+그건 최고중의 최고다. It's the cream of the crop.
+
+그건 피차일반이다 It's six of one, half a dozen of the other.
+
+그것 참 어려운 주문인데요. That's tall order.
+
+그것으로 한시름 놓았어. That's a load off my mind.
+
+그것은 공공연한 비밀이에요. That's a known secret.
+
+그것은 내 취향이 아니다. That's not my cup of tea.
+
+그것은 대단찮은 과실이었다. It was a fault on the right side.
+
+그것은 버릇없는 짓이다. That's no way to behave.
+
+그것은 하늘의 별따기이다. The odds are a million to one.
+
+그것은 형편없군요. It's a real lemon.
+
+그것이 난처한 점이다. There's the rub
+
+그게 유일한 대안일 것 같아. That's the only way out.
+
+그녀는 김이 샜어.  She is a kill-joy.
+
+그녀는 나의 전처야. She is my ex.
+
+그녀는 대단한 말괄량이야. She's a real tomboy.
+
+그녀는 정말 예쁩니다. She's a sight for sore eyes.
+
+그녀는 정신 못 차리고 있어. She's a real space cadet.
+
+그녀는 히트를 쳤데요. She was a hit.
+
+그는 겉보기와는 달리 매우 강하다. He's a lot stronger than he looks.
+
+그는 기본적으로 괜찮은 사람이지만 나하고는 맞지 않는다. He's basically a decent person, but we're not compatible.
+
+그는 꽤 괴짜다. He is quite a character.
+
+그는 끝까지 버티는 사람이다. He is a last ditcher.
+
+그는 나의 심복이다. He is sort of man Friday.
+
+그는 남에게 잘 속는다. He is an easy mark.
+
+그는 내리막길을 걷고 있다. He's in a continual slump./ He's in a decline./ He keeps declining.
+
+그는 농땡이꾼이다. He is a clock watcher.
+
+그는 늙었어도 재미있는 사람이다. He is an amusing old party.
+
+그는 대기만성 타입인가 봐. He is a late bloomer.
+
+그는 분위기를 돋구는 사람이다. He is the life of the party.
+
+그는 빈틈없는 녀석이다. He is a knowing card.
+
+그는 술을 마시면 자꾸만 울어요. He is a merry drinker.
+
+그는 우체국에서 일한다. He's a man of letters.
+
+그는 유망한 사람이다. He is a man on his way.
+
+그는 이 방면에 잔뼈가 굵은 사람입니다. He's an old hand at this./ He knows this stuff like the back of his hand./ He write a book on this.
+
+그는 일류 배우이다. He's a stick out actor.
+
+그는 입이 가볍다. He is a blabbermouth./ He has loose lips.
+
+그는 정말 괴짜라니까. He is sure a character.
+
+그는 정서불안이다. He's kind of high-strung.
+
+그는 정치적으로 비중 있는 사람이다. He is a man of political weight.
+
+그는 주색잡기를 좋아한다. He's too much wine, women and song.
+
+그는 지나간 일을 두고 이러쿵저러쿵한다. He is Monday morning quarterback.
+
+그는 지독한 이기주의자이다. He's a dog in the manger.
+
+그는 최고의 선수이다. He's a top-notch player.
+
+그는 쾌활한 사람이다. He is a good sport.
+
+그는 평범한 사람이다. He is a man of no mark.
+
+그는 한 때 장안의 화제였습니다. He was once the toast of the town.
+
+그때가 정말 그립다. I'm home sick for that time.
+
+그때가 좋았어. Those were the days.
+
+그래 네 팔뚝 굵다. OK! You are the boss.
+
+그래서 조건이 뭡니까? What's the catch?
+
+그런 이름 가진 사람 여기 없는데요. There's no one here by that name.
+
+그런 일은 결코 없을 겁니다. That's be the day.
+
+그럴듯한 얘기군요. That's a likely story.
+
+그렇게 생각하면 큰 오산이에요. It's a big mistake thinking that way.
+
+그렇게 욕심부리지마! Don't be a hog!
+
+그렇다면 할 수 없지. There is nothing you can do about.
+
+그분은 언제나 저의 본보기가 돼 주셨어요. He's always been my role model.
+
+그에게 어떤 뇌물도 소용이 없다. There is no price for him.
+
+그의 위신이 땅에 떨어지다. His name is mud.
+
+그의 차는 고물이야 His car is a lemon.
+
+그저 그런 거지요, 뭐. It's just one of those things.
+
+근거가 없다. There's nothing to it.
+
+기구한 운명이에요. It's a twist of fate.
+
+긴장된 분위기예요. There's tension in the air.
+
+꼴불견이에요. Something is an eyesore. / Someone look at those freaks!
+
+꽤 됐지, 아마. It's been a while, I guess?
+
+나 혼자 외톨이가 되기 싫어. I don't want to be the only oddball.
+
+나는 감상에 잘 빠지는 바보랍니다. I'm just sentimental schmuck.
+
+나는 계속 승승장구하고 있어요. I'm on a winning streak.
+
+나는 그것을 도피라고 생각한다. I think it's a cop-out.
+
+나는 기다릴 수밖에 없다. This is the only thing that I can do./ I can only wait for the results./ There is nothing to do but worry.
+
+나는 닥치는 대로 읽는 사람이다. I'm a compulsive reader.
+
+나는 오늘 하루 당신을 안내해 드리겠습니다. I'm your buddy for the day.
+
+나는 집안의 말썽꾸러기예요. I'm the black sheep of the family.
+
+나도 몰라, 그저 느낌이야. I don't know, it's just a hunch.
+
+나도 이제 한 물 갔어. I'm a goner!/ I've become a has-been now.
+
+나만의 생각인지 모르겠다. Maybe I'm the only one with this thought.
+
+나이는 생각하기 나름이지. Age is only a state of mind.
+
+난 너와 이제 끝장이야. We are history.
+
+난 영화광이야. I am a big-time movie buff.
+
+난 예전의 내가 아니다. I'm not the person I used to be.
+
+난 원래 이래요. That's me./ That's the just the way I am
+
+난 이 고장의 터주대감이오. I'm an old timer here.
+
+남의 일 같지 않네요. I feel as if their hardship is mine.
+
+남자는 여자하기 나름이다. Behind every great man, there is a great woman./ A woman can make a man.
+
+내 마음대로 하는 일이 아닙니다. It's not my call.
+
+내 말이 그 말이야. That's the one!/ You bet I do!
+
+내 몸이 열 개라도 모자랄 지경이다. There aren't enough hours in the day.
+
+내 얼굴이 약간 부었어요. My face is a little puffy.
+
+내 일은 내가 알아서 해. I'm my own manager.
+
+너 걱정도 팔자구나. You are a worrywart.
+
+너 오늘 잘 만났다. Okay! You're mine today./ Your time has gone.
+
+너는 뇌물 잘 주는 봉이다. You are a soft touch.
+
+너는 덩치 값도 못한다. You are a paper Tiger./ You are a big weakling.
+
+너는 듣던 대로구나. You're everything they say you are.
+
+너는 멋진 사람이야. You are hip!
+
+너는 배은망덕한 녀석이다. You're an ingrate.
+
+너는 시건방져. You're a stuck-up.
+
+너는 이 일에 깊이 개입되었어. You're neck deep in it.
+
+너무 잘난 척 하지 마세요. Don't be so stuck-up.
+
+넌 날 따라 오려면 아직도 멀었어. You are still way behind me.
+
+넌 너무 따지는 게 단점이야. Your problem is that you're too critical./ Your problem is that you're too analytic./ Your problem is that you're too picky.
+
+넌 정말 멍청이로구나! You're a real turkey!
+
+네가 쓰기에는 어려운 단어구나. That's very big word for you.
+
+네가 알아서 해라. Be your own judge.
+
+노출이 심한 옷이다. It's a skimpy dress.
+
+농담에도 많은 진실이 있다. There's many a true word said in jest.
+
+늘 그렇죠, 뭐. It's the same as usual.
+
+늘 일이 터지고 나서야 뭐가 옳았는지 알지. Hindsight is twenty-twenty.
+
+늦잠 잔 건 지각에 대한 변명이 될 수 없어. Sleeping in is not an excuse for being late./ Waking up late is not an excuse for being late.
+
+다 너 때문이야. It's all because of you.
+
+다 너 잘되라고 하는 소리야. It's all for your own sake.
+
+다른 속셈이 있다! There's a catch!
+
+다시 오나 봐라. This is the last time I will come here!
+
+단둘이서 즐거운 시간을 즐기세요. Two's company, three's crowd.
+
+당신 말은 앞뒤가 안 맞는다. You're my superior in ability.
+
+당신은 나에겐 전부야! You're stone broke.
+
+당신은 나의 생명의 은인입니다. You're a life saver.
+
+당신은 나의 처음이자 마지막 사랑이다. You're my one and only.
+
+당신은 여기에 출입 금지된 사람이다. You are 86's here.
+
+당신은 항상 뒷북칩니다. You are always one step behind.
+
+대부분은 그저 기분 좋을 때 만나는 친구들이죠. Most of those are just fair weather friends.
+
+댁의 과목은 누가 담당하시나요? Who is your course instructor?
+
+더 이상 참을 수 없습니다. That's the last straw.
+
+도서관에서 메뚜기하고 있어요. I'm a seat warmer./ I'm seat-hopping.
+
+돈걱정하지 마라. Money is no object.
+
+돈 벌려면 쇼 사업이 제일이야. There is no business like show business.
+
+두 분은 어떤 사이에요? What is your relationship?/ How are you two related?/ How did you get to know each other?
+
+두 분은 이복 형제십니다. They are half brothers.
+
+두 손 두 발 다 들었다. You're my uncle.
+
+뒤통수를 한 대 얻어맞은 기분입니다. It is a big blow.
+
+뒤풀이가 있어요. There is a small party afterwards.
+
+때를 잘 맞추셨습니다. That was a good timing.
+
+똑똑한 척하지 마세요. Don't try to be a wise guy.
+
+뛰는 놈 위에 나는 놈 있다. There is always someone on step ahead of you.
+
+마음만으로도 고맙습니다. It's the thought that counts.
+
+만원 이하로는 안됩니다. Ten thousand won is my last offer.
+
+말 한마디로 천 냥 빚을 갚는다. A good tongue is a good weapon.
+
+말도 안 돼! It's all bunk!
+
+매일 매일이 똑 같아. Everyday is one of those days.
+
+맥주와 땅콩은 음식 궁합이 안 맞데요. That beer and peanuts are a bad combination.
+
+명령대로 하겠어. You're the boss.
+
+몇 학년입니까? What grade are you in?/ What year are you in?
+
+목구멍이 포도청이다. It's a living.
+
+무슨 띠세요? What sign are you?
+
+무슨 말인지 모르겠다. It's all Greek to me.
+
+뭘 그렇게 서두르세요? What's the rush?
+
+민방위 훈련을 하는 거예요. It's a civil defense drill.
+
+바로 그거다. That's the ticket.
+
+박물관을 구경한 소감이 어땠어요? What was your take on the museum?
+
+별 일이네! What's the occasion?/ This is not something you see everyday.
+
+보고서 제출기한이 화요일까지 아니어서 정말 다행이다! It's a great relief to know that the report is not due until Tuesday!
+
+부부라고 다 천생배필은 아니다. Every couple is not a pair.
+
+부인이 그를 먹여 살린다. His wife is his meal ticket.
+
+불은 황금을 시험하고 역경은 강한 사람을 시험한다. The fire is the test of gold; adversity of the strong man.
+
+비밀을 지켜라. Mum is the word.
+
+뻥이야. It's a baloney.
+
+산너머 산입니다! It's been one disaster after another!
+
+새치기하지 마세요. That's not the end of the line.
+
+서른 몇 살쯤 돼요. I'm thirty something.
+
+선례를 따르는 것이 좋다. The beaten road is the safest.
+
+세상에 공짜는 없다. There's no free lunch in this world.
+
+세상에 널린 게 여자[남자]에요. There are a lot of fish in the sea.
+
+세상일이라는 게 다 그런 겁니다. That's the way the ball bounces./ That's the way the cookie crumbles.
+
+솜방망이밖에 안 되는 처벌이야. The punishment was only a slap on the wrist.
+
+수지는 맞겠는가? What's the angle?
+
+수학은 나 같은 사람에게는 쥐약이야. Math is death on people like me.
+
+승산이 거의 없다. The odds are a million to one./ The odds are one in a million./ It's almost like asking for the moon.
+
+시간이 아깝다. It was a waste of time.
+
+식은 죽 먹기였지요. That was no brainer./ That‘s nothing./ Nothing is easier./ That‘s (as) easy as pie./ That’s a cinch.
+
+실례지만 사진 속의 인물이 당신 맞아요? Excuse me, but are you the person in the picture?
+
+썩어도 준치. A diamond on a dunghill is still a diamond.
+
+아니, 내 말은 감이 그렇다는 거지. No, I mean, it's just my hunch.
+
+아마 제인은 그 소식을 이미 들었을 거야. Chances are Jane has already heard the news.
+
+안심이 되는군. That's a load off my mind.
+
+알맹이가 없잖아요? Where's the beef?
+
+얘가 왜 이렇게 싱거워? You're really wishy-washy today./ You're really bland today.
+
+어디가 아프세요? What seems to be the trouble?
+
+어떻게 하는 거라구 했죠? How is that again?
+
+어머 닭살이야. Oh! That's gross./ That makes me sick.
+
+어쩔 수 없어. God will be the judge.
+
+언 발에 오줌누기. A big help you are./ A big help that was.
+
+얼마 정도로 예상하셨습니까? What's your price range?
+
+엎어치나 매치나 마찬가지잖아요. Either way, the result is the same.
+
+여기가 내 단골집이다. This is my hang-out.
+
+여부가 있나. There are no two ways about it.
+
+역시 너는 멋있는 놈이야. You're the man.
+
+역시 당신다워요. That's you.
+
+예쁜 아가씨구나! She is a chicken!
+
+오, 하나님, 제발 이것이 맞기를 비나이다. Oh, God, let this be it.
+
+오늘 경기는 참패였어요. That was a tough loss today.
+
+오늘 내 정신이 아니에요. I am not myself today.
+
+오늘 무슨 날이니? What's the occasion today?
+
+옥에 티군요. It's a fly in the ointment.
+
+올해는 쌀 풍작이었으면 좋겠습니다. I hope there is an overabundance of rice this year
+
+왜 이러는 거야?, 정신 나갔어? What's the big idea?
+
+외모가 중요한 게 아냐. Beauty is but skin-deep.
+
+요새는 그게 대유행이래요! They are all the rage these days!
+
+요즈음 10대의 부모역할이 쉽지 않지요? Parenting a teen these days sure is a tough job, isn't it?
+
+요즘 잘 나가는 물건이야. That's the thing nowadays.
+
+우리 아이들은 얼마나 엄마를 바쁘게 하는지 몰라요. My children are really a handful.
+
+우리 형제는 한 살 차이 밖에 안나. My brother and I are only a year apart.
+
+우리는 83년에 졸업했다. We were members of class of 83.
+
+우린 정말로 너무 서툰 아마추어들이야.  We are a couple of duffers, no doubt.
+
+웃기고 자빠졌네. Where is my violin?
+
+위험한 일이 내 전문이야. Dangerous is my middle name.
+
+윗도리에 비듬이 묻었다. There is dandruff on your jacket.
+
+이 개는 순종인가 잡종인가? Is this dog a purebred or a mutt?
+
+이 곳은 좀 으스스합니다. This place is kind of creepy.
+
+이 근처에 유흥업소가 있습니까? Are there any clubs and bars around here?
+
+이 문제에는 함정이 있다. There is some catch in this question.
+
+이 시기가 고비입니다. This is the hardest time./ Things will be difficult for a little while.
+
+이거 많이 팔리나 보죠? This must be a hot item.
+
+이거 뭔가를 보여주는 영화다. This is a kick-ass movie.
+
+이거 장난이 아닌데. It's not a child play.
+
+이것은 시간을 다투는 문제예요. This is an extremely urgent matter./ There is no time to lose.
+
+이것은 전화위복의 계기일지도 모른다. Maybe it's a blessing in disguise.
+
+이게 네 몫이야. Here's your cut.
+
+이게 좋기는 뭐가 좋아. This is anything but good.
+
+이번 시드니 올림픽은 몇 번째인가요? Which Olympiad is the one in Sydney?
+
+인생은 쓸쓸한 것이다. Life is a sorry business.
+
+일기예보에서 뭐라고 하니? What was the forecast?
+
+일에 적극적인 편인가요? Are you a motivated worker?
+
+일에는 순서가 있어요. There's a way to do things.
+
+자연스럽게 행동하세요. Be yourself.
+
+잔고는? What's my balance?
+
+잘 샀다. It's a good buy.
+
+잘못 돼도 한참 잘못 됐어. It's all wet!
+
+저 사람 주차단속반이야.
+
+He is a parking control officer.
+
+저 사람은 꾸준히 일만 한다. He's a stick-at-it.
+
+저는 당신이 합류하길 원해요. I want you to be a part of it.
+
+저는 어쩔 수 없는 한국인인 가봐요. I'm helplessly Korean.
+
+저는 컴맹이에요. I'm computer illiterate.
+
+저희는 '수'자를 돌림자로 합니다. From my family and my generation, Su is the fixed name.
+
+전 여기 단골입니다. I'm a regular here.
+
+전화는 뒀다 어디다 쓰시게요? What's the point of having a telephone?
+
+접시에 이가 나갔어요. There is a chip in this dish plate.
+
+정말 다행이네요. That's a load off my mind.
+
+정신을 어디에 두고 다닙니까? Where are your wits?
+
+정오까지는 이 일을 끝낼 도리가 없습니다. There's no way I can finish this by noon.
+
+제가 사는 이유도 모두 당신 때문이에요. You're the very reason I live for.
+
+조건이 뭐죠? What's the catch to it?
+
+좋아, 약속했어. It's a date.
+
+좋아요. 찬성입니다. It's a deal.
+
+참 시원섭섭하다. It's kind of a bittersweet thing.
+
+처치하기 곤란하군요. It's a tough call.
+
+출산 일이 언제지? When is her baby due?
+
+큰 도움이 됐어요. You've been a great help.
+
+탈의실은 어디입니까? Where's the fitting room?
+
+통하는 게 없다. There is no electricity.
+
+편식하지 말아라. Don't be such a picky eater.
+
+하늘이 무너져도 솟아날 구멍이 있다. There is always a way./ Nothing is totally bad.
+
+한 두 시간이면 될 겁니다. It won't be more than an hour or two.
+
+함정이 무엇인가? What's the catch?
+
+해가 서쪽에서 뜨겠군. That'll be the day.
+
+행운을 빕니다. Here's mud in your eyes!
+
+호떡집에 불났어요? Where's the fire?
+
+횡설수설하다. That's a lot of jargon./ I have no idea what you're saying.
+
+힘든 하루였네요! What a day today was!
+
+<be of>
+
+나도 일행에 끼어 있었다. I was of the party.
+
+제가 좀 도움이 됐길 바랍니다. I hope I was of help.
+
+조금이나마 당신에게 도움을 주고 싶어서 이렇게 편지를 쓰게 되었습니다. I'm writing this letter in the hope that I can be of some help to you.
+
+내기는 그만 두겠네. The bet's off.
+
+<be on>
+
+(음식점이나 주유소 등에서) 무료로 드리는 거예요. It's on the house.
+
+그는 날아오를 듯이 행복하다. The man is on cloud nine.
+
+그는 매우 정확하다. He's on the beam.
+
+그는 요즘 매우 잘나간다. He is on a roll./ He is on a lucky streak.
+
+그는 항상 바삐 돌아다닙니다. He's always on the go.
+
+나는 선생님에게 찍혔어요. I'm on the teacher's bad side.
+
+나는 예비합격이 됐다. I'm on the waiting list for college./ I'm an alternate for college.
+
+나는 이미 준비가 다 되어 있었다. I was already on the mark.
+
+나는 지금 금주 중이야. I'm on the wagon now.
+
+너 딴청을 피우고 있구나. You are on the wrong track.
+
+넌 이제 찬밥 신세야. You're on the back burner now./ Now you're second best./ Now you've got to play second fiddle.
+
+누구나 다 그 일을 알고 있다. Everybody is on to that.
+
+당신은 언제나 트집을 잡는군요. You are always on my case.
+
+맘대로 해라. You are on your own./ Whatever!
+
+무슨 용건인가요? What's on your mind?
+
+발등에 불 떨어졌구나. Your butt is on fire.
+
+손에 땀을 쥐게 하는 경기이다. I'm on the edge of my seat./ It's a kind of game that keeps me on the edge of seat.
+
+아침부터 바빴어. I've been on the go since daybreak.
+
+우리 말 트고 지내는 게 어때요? How about being on first name term each other.
+
+우리가 자주 밀리는 편이었거든요. We've been on the losing side often.
+
+우리는 모두 그를 잘 이해하고 있다. We are all on to him.
+
+우리는 서로 말놓고 지내는 사이야. We're on a first name basis.
+
+우리는 지금 야외촬영 중이다. We are on location.
+
+우린 말하고 지내는 그런 사이는 못 되요. We're not on speaking terms.
+
+입장이 역전되어 있다. The shoe is on the other foot.
+
+자, 슬슬 가봅시다 그려. Well, let's be on our way.
+
+전 부모님에게서 독립했어요. I'm on my own now.
+
+지금 쳐들어간다! I'm on my way to your place!
+
+하고싶은 말씀을 해보세요. Would you tell me what's on your mind?
+
+<be out>
+
+결정을 내리기엔 너무 빠른데요. The jury is still out on that.
+
+여기서는 제가 기죽어요. I feel like this is out of my league.
+
+이제 위험한 고비는 넘겼다. We are out of the woods.
+
+제가 너무 주제넘게 굴었나 봐요. I guess I was out of line.
+
+<be over>
+
+너의 철없던 시절은 끝났다. Your salad days are over.
+
+<be p.p>
+
+거스름돈을 덜 받았어요. I'm short-changed.
+
+그는 귀가 얇다. He is gullible./ He is easily influenced[effected, swayed] by what other people say.
+
+그는 요지부동이었습니다. He couldn't be persuaded.
+
+글이 두서가 없어요. This writing is poorly constructed.
+
+기분 나빠하지 마세요. Please don't be offended.
+
+나는 할 말을 잃었다. I was tongue-tied
+
+대부분 과목들이 상대평가이다. Most of my classes in college are graded on a curve.
+
+머리가 띵해요. My brain is muddled.
+
+저는 변비예요. I am constipated./ I'm suffering from constipation.
+
+주눅이 들어서 영어를 한마디도 못했다. I was so intimidated I couldn't say a word in English.
+
+하지만 결국은 이렇게 되는군요. But after all is said and done
+
+혀가 짧아서 그래요! I'm tongue-tied./ My tongue has a problem.
+
+<be round>
+
+그는 미쳤어. He is round the bend.
+
+<be so>
+
+둘이 먹다가 하나가 죽어도 모른다. This is so good that I'm oblivious to everything else./ Everybody says they're out of this world.
+
+<be such>
+
+넌 참 장난꾸러기구나. You're such a joker[a card]!
+
+사람 짜증나게 만드네. You're such a pain in the ass.
+
+<be there>
+
+그녀가 뭐라고 하는지 듣기 위해 거기 있었어야 했는데. You should have been there to hear what she said..
+
+<be to>
+
+산전수전 다 겪었다. I've been to hell and back./ I've experienced everything there is to experience.
+
+암만해도 뭔가 좀 이상한 데. Something is to pay.
+
+<be under>
+
+그만두라는 말을 들었다. I am under nothing.
+
+어디든 마찬가지야. Nothing is new under the sun.
+
+<be up>
+
+너 마음이 콩 밭에 가 있구나? Your head is up in the clouds, isn't it?
+
+너는 곧 죽을 거야.(너는 골탕 좀 먹게 될 거야) Your number is up.
+
+당신, 무슨 꿍꿍이가 있죠? You're up to something, aren't you?
+
+댁의 남편은 요즘 어떤 일을 하고 계세요? What has your husband been up to lately?
+
+승부는 끝났다.(볼 장 다 봤다) The jig is up.
+
+시험공부 하느라 밤새 한 잠도 못 잤어요. I was up all night studying for my exam.
+
+아직 미흡합니다. It's not up to par yet.
+
+아직도 기회는 있습니다. It's up for grabs.
+
+일 때문에 꼼짝 못하겠어요. I'm up to my ears in work.
+
+일어난 김에 물 한 컵 갖다 주실래요? While you're up, will you get me a glass of water?
+
+<be what>
+
+그런 줄 알았지. That's what I thought.
+
+나는 나고, 난 내가 하고 싶은 일을 해. I am what I am and I do what I do.
+
+뚝배기보다는 장맛이다. It's what's inside that matters.
+
+요즘 너의 관심사가 뭐니? What are you into these days?
+
+이런 게 사는 맛 아니겠어요? This is what life is all about, isn't it?
+
+<be where>
+
+그것이 진짜 이유이다. That's where it is.
+
+내 위치를 지키고 있네. I am where I should be.
+
+내가 어디까지 말했지? Where was I?
+
+내가 어디까지 얘기했지요? Where was I?/ What did I just say?
+
+어디 갔다 왔니? Where have you been?
+
+<be why>
+
+왜 그렇게 일이 밀리셨습니까? Why are you so far behind in your work?
+
+<be with>
+
+(친구에게) 너 요즘 왜 이렇게 말을 안 듣니? What's with you lately?
+
+그 남자 왜 그러니. What's with him?
+
+그는 돈을 척척 잘 쓴다. He is generous with his money.
+
+내말 무슨 뜻인지 알겠지? Are you with me?/ Got it?/ Did you get it?
+
+저는 응급 구조 요원입니다. I'm with EMS.
+
+<be within>
+
+손만 뻗으면 닿을 수 있는 위치에 있어요. Something is within striking distance.
+
+<be without>
+
+담배는 백해무익한 거예요. Cigarettes are without benefit.
+
+<bear>
+
+(문을 닿지 않을 때) 꼬리가 길구나. Born in a barn.
+
+저도 알건 다 알아요. I wasn't born yesterday.
+
+저는 대전 토박이에요. I was born and raised in Dajeon.
+
+<beat>
+
+걷는 것보다 빠르다. It beats walking.
+
+굶는 것보다야 낫지. It beats starving.
+
+그들을 이길 수가 없으면 그들하고 손을 잡아라. If you can't beat[lick] them, join them.
+
+나도 몰라요. Beats me.
+
+나쁘게 보이는 것보다야 낫지. It beats looking bad.
+
+더 이상 말 할 필요가 없다. You're beating a dead horse.
+
+이 가격보다 더 좋을 순 없다.(아주 싸다) You can't beat the price.
+
+이리저리 말 돌리지 말고 사실대로 털어놔! Stop beating around the bush.
+
+<become>
+
+이제 한국 사람이 다 되었군요. You have become Koreanized.
+
+<beg>
+
+엎드려 절 받기. Begging for something./ Begging for congratulation./ Begging for a compliment.
+
+<begin>
+
+팔이 안으로 굽는다. Charity begins at home.
+
+<behave>
+
+어떻게 인간의 탈을 쓰고 그럴 수가 있지? How can he be human and behave that way?/ A human being wouldn't behave that way!
+
+<believe>
+
+이거 정말 황당하네. I can't believe it.
+
+<bet>
+
+과연 그렇군. You bet your life.
+
+<bind>
+
+단속을 잘하면 잃는 법이 없다. Fast bind, fast find.
+
+<bite>
+
+나쁜 사람이 아니니 겁내지마. I won't bite you.
+
+송충이는 솔잎을 먹어야 한다. He bit off more than he can chew.
+
+자라보고 놀란 가슴 솥뚜껑보고 놀란다. Once bitten, twice shy./ A burnt child dreads the fire.
+
+<black>
+
+다른 누구의 구두를 닦아야 한다는 건가? Whose else should I be blacking?
+
+<blame>
+
+나라도 그렇게 밖에 할 수 없었을 거야. I don't blame you.
+
+<bless>
+
+아니, 이럴 수가! God bless the mark!
+
+어이구, 안됐군요. Bless you.
+
+<blow>
+
+곧 잠잠해질 것이다. It will soon blow over.
+
+그는 엄청 화를 낼 겁니다. He'll blow his top.
+
+쓸데없는 소리하지마! Stop blowing your own horn!/ Stop telling me those tall tales!
+
+일 그르치지 마라. Don't blow it.
+
+자화자찬하지 마세요. Don't blow your own trumpet[horn].
+
+<boil>
+
+결국 요점이 뭐라는 거예요? What does it all boil down to?
+
+급하다고 바늘 허리에 실 매어 쓰랴. A watched pot never boils.
+
+<borrow>
+
+여기서 꿔서 저기다 메꾸다. I borrow from Peter to pay Paul.
+
+<boss>
+
+나한테 이래라 저래라 하지마. Don't boss me around.
+
+<bother>
+
+너무 신경 쓰지마! Don't let it bother you.
+
+<bottle>
+
+조용히 해! Bottle it!
+
+<brace>
+
+저는 지금 치아 교정을 하고 있습니다. I have braces on my teeth.
+
+<break>
+
+고정관념을 깨라. Let's break the mold.
+
+공포 또는 두려움으로 그는 식은땀을 흘린다. He breaks out in a cold sweat.
+
+나 개털이야. I'm damn broke.
+
+나쁜 짓을 하면 벌받아. Who breaks pays.
+
+난리가 나다. All hell broke.
+
+모기보고 칼을 뺀다. Break a fly on the wheel./ Crush a fly on the wheel.
+
+세금 때문에 등골이 휜다구요. Taxes are breaking our backs.
+
+이 차는 길이 잘 들어 있다. This car is well broken in.
+
+제인이 톰을 떠나서 그는 슬픔에 잠겼다. Jane broke Tom's heart when she left him.
+
+<breed>
+
+타고난 천성은 어쩔 수 없다니까. What is bred in the bone will come out in the flesh.
+
+<brest-feed>
+
+전 모유를 먹고 자랐어요. I was breast-fed as a child.
+
+<bring>
+
+그 얘기는 꺼내지도 마세요. Don't even bring that up.
+
+나는 충동 구매했다. I bought it on impulse./ I got it right away.
+
+놓친 게 있으면 설명해 주세요. Please bring me up to speed.
+
+누가 집안의 경제권을 갖고 있지요? Who brings home the bacon?
+
+당신이 먼저 그 말을 꺼냈잖아요. You brought it up first.
+
+몸만 오세요. Bring yourself.
+
+빨래를 걷는 게 좋겠네요. I'd better bring in the laundry.
+
+왜 당신은 항상 과거의 일을 들먹이는 거죠? Why do you always have to bring up the past?
+
+이곳은 음식물 반입 금지 구역입니다. You're not allowed to bring food in here./ You can't eat in here./ Please don't bring any food in here.
+
+총알같이 뛰어와. Bring your ass over here in no second.
+
+<brown-bag>
+
+나 오늘 도시락 싸 가지고 왔어. I brown-bagged it today.
+
+<brush>
+
+나는 영어를 복습해야 해. I have to brush up on my English.
+
+<bug>
+
+오늘 귀찮게 하지마, 나 피곤해. Don't bug me today! I'm tired.
+
+<build>
+
+그녀는 몸매가 좋다. She is built well.
+
+친한 사이에도 예의는 지켜야 한다. To preserve friendship, one must build walls.
+
+<bum>
+
+담배 좀 빌릴까요? May I bum a cigarette?
+
+<burn>
+
+제가 아무래도 무리를 하고 있는 것 같아요. I'm burning the candle at both ends.
+
+좋은 유대 관계를 맺으세요. Don't burn your bridges.
+
+<butcher>
+
+너 영어를 완전히 망치고 있구나. You butcher the English language.
+
+<butter>
+
+그는 어느 편에 붙는 것이 이익인지 알고 있다. He knows which side his bread is buttered on.
+
+사탕발림 좀 그만 해. Stop buttering me up!.
+
+<buy>
+
+걘 유명 상표만 찾더라. He buys only name-brand products.
+
+그 집 헐값에 샀어. I bought the house for a song.
+
+그런다고 넘어갈 줄 알아? I can't be bought.
+
+난 그 생각에 동의할 수 없었어. I didn't buy it.
+
+믿기 어려운 데. I don't buy it./ I don't believe it.
+
+<buzz>
+
+나는 술이 많이 취했어요. I'm pretty buzzed.
+
+제발 좀 가 줘. Buzz off.
+
+<call>
+
+그러고 보니 그러네요. I guess you can call me that.
+
+당신이 진찰 받을 차례가 되면 이름을 부를게요. When it's time for you to see the doctor, I'll call out your name.
+
+뭐 묻은 개가 뭐 묻은 개를 욕하다. The pot calls the kettle black.
+
+전화를 걸어서 알아보시겠어요? Do you want to call and find out?
+
+제가 당신한테 전화하려고 했는데요. I was about to call you.
+
+출석을 부르겠습니다. I'll call the roll./ I'll call[check] the attendance.
+
+<calm>
+
+긴장을 푸세요. Calm your nerves.
+
+<can>
+
+당신은 작년에 해고당했어요. You were canned last year.
+
+<care>
+
+그는 틀림없이 당신을 그리 좋아하지 않았어요. He must not have cared much for you.
+
+더 드실래요? Care for seconds?
+
+뭐 어때. Who cares!
+
+신경 쓰지마. Who cares?
+
+저는 그런 것에 신경 쓰지 않아요. I don't care about them.
+
+특별히 좋아하는 음식이라도 있나요?  Do you care for any particular food?
+
+<carry>
+
+비행기에 직접 가지고 탈 짐입니다. I'll carry it on board myself.
+
+혹시 어느 서점에 가면 있을지 아세요? Do you happen to know which other bookstore may carry it?
+
+<cash>
+
+가엾은 사람은 막 사망했습니다. The old man just cashed in his chips.
+
+네 꿈을 빨리 실현시켜라. You cash in your dreams!
+
+<catch>
+
+그 성냥은 불이 켜지지 않는다. The match will not catch.
+
+그냥 어깨 너머로 배웠어요. I just caught on by observing.
+
+나는 밀린 잠을 해치우다. I caught up on my sleep last night.
+
+나중에 봐요. Catch you later.
+
+난 그런 옷은 죽어도 안 입어! I wouldn't be caught dead wearing something like that!
+
+생각지도 않은 일이 일어났습니다. It caught me off guard.
+
+실수로 들켰다. I was caught tripping.
+
+오랜만에 만나 회포를 풀다. We got caught off after a long time.
+
+우린 만나서 회포를 풀 것이 있다. I think we have a lot of things to catch up on.
+
+저는 환절기에 기침이 나와요. I cough a lot when the seasons change.
+
+함께 커피를 마시면서 서로의 근황에 대해서 이야기를 했습니다. We catch up on each other's lives over a cup of coffee.
+
+<cause>
+
+(비즈니스에서) 경쟁이 과다하여 서로 제살 깎아먹기식 영업을 하고 있다. Fierce competition has caused a price war.
+
+<change>
+
+너 여전하구나. You haven't changed a bit.
+
+너는 버릇을 고쳐야해. You should change your ways.
+
+제 버릇 개 못 준다. A leopard cannot change his spots.
+
+<chaperon>
+
+그녀는 여동생을 파티에 데리고 갔다. She chaperoned her sister to the party.
+
+<characterize>
+
+그 친구 귀가 큰 게 특징이야. He's characterized by his big ear.
+
+<charge>
+
+얼마를 받을 작정이냐? How much do you charge?
+
+<cheat>
+
+나는 아내 몰래 바람 피운 적이 없다. I never cheat on my wife.
+
+<check>
+
+그가 그 프로젝트에 관한 일을 끝냈는지 알아볼게요. I'll check if he's finished working on the project.
+
+그럼 언제 다시 찾아뵐까요? Then when should I check back with you?
+
+여기 좀 보세요. Check it out.
+
+저의 가방을 몇 시간 맡기려고 합니다. I need to check my bags for several hours.
+
+<cheese>
+
+그만둬! Cheese it!
+
+<chew>
+
+껌 소리 내지 마세요. Please chew your gum quietly./ Please chew your gum with your mouth closed.
+
+<chicken>
+
+꽁무니 빼지마. Don't chicken out.
+
+<chip>
+
+돈을 모아서 선물하자. Let's chip in and buy her a present.
+
+<choose>
+
+게임을 위해 편을 가르자. Let's choose sides for the game.
+
+이왕이면 다홍치마! Other things being equal, choose the better one.
+
+<christen>
+
+나는 베로니카라는 세례명을 받았다. I was christened Beronica.
+
+<clean>
+
+미안하지만 뒷정리 좀 부탁합니다. I'm sorry, but could you clean up after me?
+
+<click>
+
+우린 죽이 잘 맞아요. We click very well together.
+
+<clog>
+
+화장실 변기가 막혔어요. The toilet bowl is clogged.
+
+<close>
+
+하늘이 무너져도 솟아날 구멍이 있다. When God closes one door, he opens another.
+
+<coin>
+
+당신이 새로운 말을 만들어 냈군요. You coined the word.
+
+<collar>
+
+우리는 그를 체포할 겁니다. We'll collar him.
+
+<come>
+
+3시 30분쯤에 오실 수 있겠어요?  Could you come over about three-thirty for us?
+
+이것 마저 하고 갈게요. I'll come after I finish what I'm doing.
+
+그녀 정신이 오락가락 하다. Her mind comes off and on.
+
+그는 주체하지 못할 정도로 돈이 많아요. He's got money coming out his ears.
+
+그는 차츰 타락해 버렸다. He gradually came down in the world.
+
+금강산도 식후경. In any situation, eating comes first.
+
+나는 그들이 내년에 후속 편을 선보일 거라고 들었다. I've heard that they will be coming out with a sequel next year.
+
+나는 생각나는 대로 썼다. I wrote what came to mind.
+
+나중에 이야기하자. I'll come to that later.
+
+나한테 한 번 오세요. Come over to my place.
+
+내 사랑니가 자라난다. One of my wisdom teeth is coming in.
+
+내가 당신 쪽으로 갈까요? Shall I come your way?
+
+누워서 침 뱉기. Curses, like chickens, come home to roost./ Cut off your nose to spite your face./ Spit[Piss] in the wind.
+
+다른 사진들을 보세요. 거기는 제가 아주 잘 나왔답니다. Look at the other pictures. I came out pretty well in those.
+
+돈은 있다가도 없고, 없다가도 있는 거죠. Money comes and goes.
+
+될 대로 되라지. I don't care how it comes to an end.
+
+때마침 잘 왔어요. You came at the perfect time.
+
+뚜껑을 열어 봐야 알죠. We won't know until the results come out.
+
+만사형통이야. Everything is coming up roses./ Everything is going very well.
+
+매우 유용하게 써먹을 수 있을 거야. It will come very handy.
+
+뭐가 빨리 되나요? What comes out fast?
+
+뭔가 좋은 방도가 있으면 해요. I hope we come up with something.
+
+방해자가 왔다. Here comes a passenger!
+
+본색이 나오기 시작하는군요! You're coming out!
+
+사돈 남 말하네. You guys come from the same batch.
+
+생각이 났다 말았다 합니다. The thought's coming and going.
+
+실밥이 터졌어요. The seam has come undone.
+
+아주 적당한 때에 잘 오셨습니다. You couldn't have come at better time.
+
+어제 당신이 저를 심하게 꾸짖었어요. You came down pretty hard on me yesterday.
+
+어제 사진 찍은 것이 하나도 나오지 않았대요. None of the photographs I took yesterday came out.
+
+어째서 그렇게 됩니까? How comes it?
+
+언젠가는 유용할거예요. It'll come in handy someday./ It might be useful someday.
+
+여러분, 정숙해 주시기 바랍니다. Everyone, please come to order.
+
+옛정을 생각해서, 부탁이야. Come on, for old times sake.
+
+오늘은 몸이 아파서 출근을 못 하겠습니다. I can't come in to work today because I'm sick.
+
+올 것이 왔어요. The inevitable has come.
+
+요긴하다. It comes in handy.
+
+우리들은 이 곳에 견학 왔어요. We came here on a field trip./ We're here on a class trip.
+
+유명하면 유명세를 치르죠. Stardom comes with a price tag./ Celebrities must pay the price of fame.
+
+이 태풍을 무사히 잘 지나쳤길 바랍니다. I hope you came through this storm okay.
+
+이런 기회가 어디 흔한가요? Opportunities like this don't come often./ You don't get chances like this everyday./ It's not often that you get an opportunity like this.
+
+이제야 제 말을 알아듣는군요. Now you know where I'm coming from.
+
+장족의 발전을 하셨군요. You've come a long way.
+
+재산이 있다가 나중에 가난한 것보다 가난하다가 나중에 부자가 되는 것이 좋다. Riches come better after poverty than poverty after riches.
+
+제가 세미나 준비를 돕도록 월요일 일찍 출근할까요? Do you want me to come in to work early on Monday to help you prepare for the seminar?
+
+참석하셔서 자리를 빛내 주세요. Please come and give life to the event.
+
+한국이 많이 발전했다. Korea has come a long way.
+
+형제 중 몇 번 째세요? Where do you come?/ Where do you come in your family?/ Where do you fall?
+
+<complain>
+
+좋다. Can't complain.
+
+<concentrate>
+
+일이 손에 잡히지 않아요. I can't concentrate on my work.
+
+한눈 팔지 마세요. Concentrate on what you're doing.
+
+<concern>
+
+당신은 강 건너 불 구경하듯 하네요. You act like it doesn't concern you.
+
+무슨 일로 전화했는지 물어 보세요. Ask him what the call is concerning.
+
+<consult>
+
+그 일은 자네 형편대로 하게. Consult you own convenience in the matter.
+
+<control>
+
+나는 참지 못해 웃고 말았다. I couldn't control my muscle.
+
+<cool>
+
+나는 정말 오랫동안 기다렸다. I cooled my heels.
+
+술이 깨게 냉수를 마셔라. Cool your coppers.
+
+<copy>
+
+사진 사람수대로 뽑아주세요.  Copy these negatives according to the number of people, please.
+
+이 노래를 녹음해 주시겠어요? Could you copy the song for me?
+
+<consider>
+
+액땜했다고 생각하세요. Consider yourself lucky, it could have been worse.
+
+<cost>
+
+3달러에 상당하는 물건은 어떤 게 있나요? What do you have that costs three dollars?
+
+그 차는 굉장히 비쌀텐데요. That car would cost you a fortune.
+
+나는 사업에 한밑천 톡톡히 들였지요. My business cost me a great fortune.
+
+나는 사업에 한밑천 톡톡히 들였지요. My business cost me a great fortune.
+
+배보다 배꼽이 더 크다. The postage costs more than the goods.
+
+비싼 만큼 그 값을 하는군요. It's as good as it costs./ It's worth the money.
+
+엄청나게 비쌀 거예요. It will cost you an arm and a leg.
+
+저한테 여행 경비가 얼마나 들 것 같습니까? How much do you think it will cost me?
+
+<count>
+
+감지덕지 해야죠. We should count our blessings.
+
+고객은 누구나 소중한 분들입니다. Every customer counts.
+
+넌 몇까지 셀 수 있니? How high can you count?
+
+인원을 점검해 봅시다. Let's count noses.
+
+티끌 모아 태산. Every little bit counts.
+
+<cover>
+
+나는 내 의도를 숨기고 싶지 않다. I don't want to cover up my tracks.
+
+당신의 말이 큰 위안이 됐어요. Make sure you cover yourself with the blanket.
+
+혓바늘이 돋아서 그래요. My tongue's covered in a rash.
+
+<crack>
+
+그는 늘 나를 웃게 만든다. He always cracks me up.
+
+<cram>
+
+그는 벼락치기 시험준비를 하고 있다. He's cramming for his exam.
+
+<crash>
+
+오늘 네 집에서 자도 되냐? Can I crash at your place tonight?
+
+<create>
+
+그는 소란을 피웠습니다. He created a diversion.
+
+<cross>
+
+저를 위해 기도해 주실 거죠? Cross your fingers for me, will you?
+
+<cry>
+
+그들은 절반을 요구했다. They cried halves for it.
+
+당신은 무엇이 절실히 필요한가요? What are you crying for?
+
+콩으로 메주를 쑨다 해도 믿지 않는다. You've cried wolf too many times.
+
+<cut>
+
+그녀는 선생님으로는 적격 이예요. She is cut out to be a teacher.
+
+뭘 그만해? 내 말 안 끝났어. Cut what out? Let me finish!
+
+분수에 맞는 생활을 해라. Cut your coat according to your cloth.
+
+우리는 경비를 줄여야 합니다. We have to cut corners.
+
+죽기 아니면 까무러치기로 싸우다. Cut each other's throat.
+
+헛소리 집어 치워! Cut the crap!
+
+형식적인 절차는 생략합시다. Let's cut the red tape.
+
+<damn>
+
+말도 안 돼! I'll be damned!/ That's a total nonsense!/ No way!/ Nonsense!
+
+<dance>
+
+아무리 낮추어 봐도 그녀는 춤을 매우 잘 추었다. She danced very well, to say the least.
+
+<deal>
+
+그건 아주 쉬운 일이야. Dealing with it is a breeze.
+
+저 놈, 혼 좀 내줘라! Deal him hard measure!
+
+<decide>
+
+가위 바위 보로 정하자. Let's decide by rock scissors paper.
+
+<defer>
+
+대학을 졸업할 때까지 그의 군 입대는 연기되었다. His military service was deferred until he finished college.
+
+<delay>
+
+날씨가 좋아질 때까지 여행을 연기해야 한다. We must delay our journey until the weather improves.
+
+<delight>
+
+기꺼이 가겠소. I shall be delighted to come.
+
+<deliver>
+
+실적을 올려라. You must deliver.
+
+전 아르바이트로 신문 배달을 하고 있어요. I am delivering newspaper as a part time job.
+
+<demand>
+
+우리 상사는 아주 까다로워요. My boss demands a lot from me.
+
+<depress>
+
+맥빠지는 소리 좀 하지 마세요. Don't be so depressing.
+
+<deprive>
+
+그는 전쟁에서 두 다리를 잃었다. The war deprived him of the lower limbs.
+
+<describe>
+
+당신은 스스로를 외향적이라고 생각하세요, 아니면 내향적이라고 생각하세요? Would you describe yourself as outgoing or more reserved?
+
+<deserve>
+
+그녀는 당분간 무관심을 당할 만해요. She deserves cold eyes for a while.
+
+꼴값 떨고 있네. It deserves what she does!/ What a sight!
+
+이제 월급을 올려줄 때가 됐다고 생각지 않으세요? You don't think that I deserve a raise by now?
+
+인기에는 별로 관심이 없어요. 유명해지고 싶지는 않거든요. I don't care too much for fame, I don't feel like I deserve it.
+
+저는 당신을 차지할 자격이 없어요. I don't deserve you.
+
+제가 뭘 했기에 그런 소리를 들어야 하나요? What did I do to deserve that?
+
+한가지 선행은 다른 선행을 낳는다. One good turn deserves another.
+
+<despise>
+
+끈적끈적하게 구는 것은 딱 질색이에요. I despise the emotional stuff.
+
+<develop>
+
+이 필름 현상하는 데 시간이 얼마나 걸립니까? How quickly can you develop this film?
+
+<dice>
+
+노름으로 재산을 없애지 말아. Don't dice away your fortune.
+
+<die>
+
+곧은 나무 먼저 찍힌다. The good die young.
+
+그 버릇 어디 가겠니? Old habits die hard./ It's really difficult to break the old habit.
+
+죽으면 죽는 거지. I die, I die.
+
+창피해서 죽는 줄 알았어요. I thought I'd die of embarrassment.
+
+<dig>
+
+그 여자는 막무가내야. She always digs her heels in.
+
+나 그거 정말 좋아해. I really dig it.
+
+너 공부를 본격적으로 시작해! Dig into your studies!
+
+쥐구멍에라도 숨고싶다. I wanted to dig a hole in the ground and disappear.
+
+<digress>
+
+또 옆길로 새고 있군. He is digressing again.
+
+<discourage>
+
+기죽지 말아요. Don't be discouraged by it.
+
+<ditch>
+
+수업 제끼고 나랑 나이트 가자. Ditch your class and go to a disco with me.
+
+<do>
+
+그 상자는 의자로 써도 좋다. The box will do for a seat.
+
+그 정도면 됐다. That should do it.
+
+그것은 백해무익이에요. It will only do you harm.
+
+그는 일을 주먹구구식으로 한다. He does his work catch-as-catch-can.
+
+그들은 할 일 없어 그런 게 아니다. They don't do it for nothing.
+
+꾸준히 하면 성공한다. Steady does it!
+
+나는 그런 짓 할 사람이 아니다. I shall do nothing of the kind.
+
+나는 내 마음대로 하겠소. I'll do exactly as I please.
+
+내 말대로 해!(안 하면 너 각오해!) Do it or else!
+
+너도 한 번 해봐. Do yourself a favor.
+
+넌 도대체 못 하는 게 뭐니? What can't you do?/ What aren't you good at?/ Is there anything you can't do?
+
+네가 어떻게 나한테 그럴 수가 있냐? How could you do that to me?
+
+늘 많은 도움 주셔서 감사합니다. I appreciate everything you've done for me.
+
+다른 짓 하지 말고 잘 들어라. Would you stop doing that and please listen to me?
+
+단추를 끼워라! Do up your coat!
+
+당신은 청개구리군요. You always do the opposite of what I tell you.
+
+대충 하려고 하지 마세요. Don't do it haphazardly.
+
+미스터 김이 지난 주 회계학 시험을 얼마나 잘 쳤는지 들었나요? Have you heard how well Mr. Kim did on his accounting exam last week?
+
+법대로 하세요. Do it by the book.
+
+뾰족한 수가 없잖아. What can we do?
+
+생일을 어떻게 보내고 싶으세요? What would you like to do on your birthday?
+
+성형수술을 받더니 그녀 얼굴이 확 달라졌군. Her cosmetic surgery really did something for her.
+
+심증은 가는데 물증이 없어요. I think I know who did it, but I don't have proof.
+
+안 되겠군. That does it.
+
+왜 철저하게 하지 않은가? Why don't you do up brown?
+
+요즘 어때? Doing okay?
+
+우리는 그때 속은 겁니다. We were done in that time.
+
+이만하면 그 녀석도 꼼짝 못하겠다. That will do his business.
+
+자, 이제 됐다. There, that's done!
+
+자네가 적당히 해 주게. Do it how you can.
+
+조심해서 찬찬히 하라구. Easy does it.
+
+집안 일은 해도 해도 끝이 없다. A woman's work is never done.
+
+청구 번호를 가지고 어떻게 해야 하나요? What do I do with these call numbers?/ Where do I go from here?
+
+충동구매를 하지 마세요. Don't do any impulse buying.
+
+한 잔 했으면 좋겠다. I could do with a drink.
+
+<doll>
+
+무슨 일인데 그렇게 근사하게 빼 입었니? What are you all dolled up for?
+
+<double>
+
+그는 내 일까지 1인 2역을 해. He doubles as my works.
+
+<double-bag>
+
+봉지를 두 겹으로 싸 드릴까요? Should I double-bag it?
+
+<down>
+
+(긴장을 풀고) 터놓고 이야기합시다. Let your hair down.
+
+먼저 현금을 얼마나 내야 합니까? How much down?
+
+십 년 공부 도로아미타불. Ten hours of work down the drain!
+
+<drag>
+
+세미나가 지루하게 계속되었어요. The seminar dragged on and on.
+
+<draw>
+
+그는 마지막 숨을 거두었다. He drew his last breath.
+
+이 차는 잘 우러난다. This tea draws well.
+
+제비뽑기로 하자. Let's draw to see who goes first.
+
+한해가 저물어가고 있다. The year is drawing[coming] to a close.
+
+<dream>
+
+이것이 꿈인가요. 생시인가요? Am I dreaming or am I awake?
+
+<drink>
+
+이 밤을 실컷 마시면서 새우자. Let's drink the night away.
+
+<drive>
+
+거절할 수 없게 끔 하시는군요. You drive a hard bargain.
+
+그는 2타점 2루타를 쳤다. He drove in two runs with a double.
+
+바가지 좀 그만 긁어라. Stop driving me batty.
+
+<drop>
+
+그 녀석은 하나를 가르쳐주면 열을 안다. Drop a hint, and he will understand everything.
+
+아빠가 저를 여기에 데려다 주셨어요. My dad dropped me off here.
+
+입이 다물어지지 않았습니다. My jaw dropped.
+
+중간고사 전에 과목을 취소해야 합니다. You should drop a class before midterm.
+
+<duck>
+
+질문을 회피하지 마세요! Don't duck the question!
+
+<dump>
+
+5년 동안 사귄 여자 친구에게 실연 당했다. I was dumped by my girlfriend of five years.
+
+<dwell>
+
+작은 일에 연연하지 말아요. Stop dwelling on the little things.
+
+<earn>
+
+넌 요새 밥값은 하고 지내니? Are you earning your keep?
+
+밥값을 해야지요. I need to earn my keep.
+
+<eat>
+
+(～하면) 내 손에 장을 지지겠다. I'll eat my hat.
+
+(아이들이 너무 귀여워서) 깨물어 주고 싶다. He is so cute that I want to eat him up.
+
+군것질하지 말아요. Don't eat between meals.
+
+금강산도 식후경. A fellow must eat.
+
+나는 먹은 것이다 수염으로 간다. I guess everything I eat goes to my beard.
+
+다 드십시오. Eat up!
+
+마루가 더 이상 깨끗할 수는 없어. You could eat off the floor.
+
+무슨 일로 그래요? What's eating you?
+
+무슨 힘든 일 있니? What's eating you?
+
+오늘은 뭐 때문에 죽을상이니? What is eating at you today?/ What's wrong with you?/ What seems to be the trouble?
+
+이 과자는 먹는 데 바삭바삭해요. This cake eats short.
+
+잘못했으면 솔직히 시인해야 해. You have to eat crow if you are wrong.
+
+한 우물만 파라. One cannot eat one's cake and have it.
+
+<embarrass>
+
+이게 웬 망신이야?  I'm so embarrassed.
+
+눈꼴사나워요.  It's embarrassing to watch.
+
+<end>
+
+그러다가 큰 코 다쳐요. You'll end up embarrassing yourself.
+
+우리는 전화번호를 교환하게 되었다. We ended up swapping our telephone numbers.
+
+<enjoy>
+
+이렇게 맛있는 음식 맛을 본 지도 참 오래 됐네요. I haven't enjoyed food like this in a long time.
+
+잘 먹었습니다. I really enjoyed the meal./ Thank you for a good meal.
+
+<exaggerate>
+
+말이 그렇다는 것이죠. I'm just exaggerating a bit./ I'm just bluffing./ I'm just pulling your leg.
+
+<exceed>
+
+그 책은 내 기대보다 훨씬 잘됐다. The book exceeded my expectations.
+
+<excite>
+
+뭐가 그렇게 기쁘세요? What are you so excited about?
+
+<excuse>
+
+가셔도 좋습니다. You're excused.
+
+변명의 여지가 없습니다. Nothing can excuse this.
+
+<expect>
+
+그분이 돌아오시려면 적어도 한 시간 이상은 걸릴 것 같습니다. He's not expected to be in for at least another hour or so.
+
+저한테 너무 많은 걸 바라지 마세요.  Don't expect too much of me.
+
+<explain>
+
+이제 알만 하군요. That explains it.
+
+<eye>
+
+eye 내 반지에 눈독들이지 말아요. Stop eyeing my ring.
+
+<face>
+
+울며 겨자 먹기. To face the music./ Gotta do what you gotta do.
+
+<fail>
+
+시력이 떨어지는 것만 같아요. I'm afraid my eyesight is failing.
+
+<fall>
+
+A와 B가 날짜가 겹치다. A and B fall on the same day.
+
+공휴일이 일요일과 겹쳐 버렸어요. The holiday fell on Sunday.
+
+그녀에게 푹 빠졌어요. I fell head over heels for her.
+
+내가 당첨되었다. The lot fell on me.
+
+너 존에게 맛이 간 것 아냐? Are you falling head over heels for John.
+
+매도 먼저 맞는 게 낫다. Punishment deferred commonly falls the heavier./ Punishment comes slowly, but it comes./ Sooner begun, sooner done.
+
+모든 게 척척 맞아떨어지는군요. Everything is falling into place.
+
+열 번 찍어 안 넘어가는 나무 없다. Little strokes fell great oaks.
+
+재수가 없으면 뒤로 넘어져도 코가 깨진다. The bread always falls on the buttered side.
+
+<fancy>
+
+와인 들겠어요? Fancy some wine?
+
+<favor>
+
+독신주의자인가요? Do you favor celibacy?
+
+<fear>
+
+도둑이 제발 저린다. The thief doth fear each bush an officer.
+
+<feed>
+
+먹고살기에도 충분하지 못합니다. Not enough to feed my face.
+
+이 사람들 모두에게 내일 점심과 저녁을 먹일 만큼 음식이 충분 한가요? Do you have enough to feed all these people lunch and dinner tomorrow?
+
+<feel>
+
+감회가 새롭습니다. Everything feels different somehow.
+
+그 녀석 풀이 죽어 있는 모습이 안 되어 보였다. He looks so down[depressed] that I felt bad for him.
+
+그 상황에서는 저도 기분 나빴을 거예요. I'd have felt bad in the same situation.
+
+기분 정말 짱일 거야! I'm sure we're gonna feel like a million.
+
+기분이 그만이야! I feel like a new person.
+
+나는 딴 사람이 된 듯 했다. I felt like a different person.
+
+날아갈 것 같아요. I feel like I could almost fly./ I could walk on air./ I feel high as a kite.
+
+눈앞이 캄캄하다. I feel hopeless./ I'm worried sick.
+
+당신이 옆에 있어서 든든해요. I feel strong with you by my side.
+
+몸이 찌뿌드한 게 좋지 않네요. I don't feel like anything.
+
+속이 더부룩하다. I feel bloated.
+
+술기운이 돈다. I'm feeling a little tipsy.
+
+양심에 찔릴 것 같아요. I would feel a twinge of conscience.
+
+어떤 느낌인지 저는 모르겠군요. I guess I don't know how that feels.
+
+언젠가 후회할 거야. Someday you'll feel really sorry for yourselves.
+
+영어로 쓸려니까 느낌이 색다른데요. It feels strange writing in English.
+
+완전히 녹초가 됐어요. I feel like a wet noodle.
+
+요즘 몸이 찌뿌드드합니다. I feel under the weather lately.
+
+우리는 이용당한 기분이었습니다. We felt like we were used.
+
+육감으로 느낄 수가 있어요. I can feel it in my bones.
+
+이것 참 부담스럽군요. I don't feel comfortable with this.
+
+이제 훨씬 편안해요. I feel a whole lot better.
+
+저는 마음이 내키질 않아요. I don't feel up to it.
+
+피가 거꾸로 솟았어요. I felt a rush of excitement.
+
+피부가 당겨요. My face feels tight.
+
+그 말을 들으니 벅차다. I feel really proud when I hear that.
+
+<fight>
+
+마음을 고쳐먹어야 해. You have to fight the feeling.
+
+우린 어렸을 때부터 못 잡아먹어서 안달이었어. We have fought tooth and nail since young.
+
+<figure>
+
+거봐, 내가 그럴 줄 알았다니까. That figures./ It figures.
+
+그럴 줄 알았어요. That figures.
+
+그렇게 해서 일이 되겠어요?(될 확률이 거의 없다) Figure the odds.
+
+암산으로 안 되나요? Can't you figure it out in your head?
+
+<file>
+
+내 계획을 포기하겠다. I'll fling up my cards.
+
+<fill>
+
+가슴이 뿌듯해요. My heart is filled with pride.
+
+이 식사는 나무랄 데가 없다. This meal really fills the bill.
+
+<find>
+
+가족들은 다 잘 있던가? How did you find your folks?
+
+그걸 어디서 구할 수 있을까요? Do you know where I can find one?
+
+널 여기서 만나게 되니 너무 기뻐. I'm glad to find you here.
+
+모든 것은 원리원칙대로 된다. Water finds its level.
+
+색깔이 좀 야합니다. I find the colors a bit loud.
+
+시간을 내보세요. Find the time.
+
+시간이 나는 대로 제가 곧 알아보겠습니다. I'll do it as soon as I find some time.
+
+신랑감 구하는 비결 좀 알려주세요. Show me how to find Mr. Right.
+
+진짜 그런가 한 번 봅시다. That we have to find out.
+
+힘든 경험을 통해 어렵게 깨달았어요. I found out the hard way.
+
+<fix>
+
+나는 오늘 약속이 있어요. I'm fixed up today.
+
+비가 올 것 같군. It is fixing to rain.
+
+<flatter>
+
+과찬의 말씀입니다. I am flattered.
+
+괜히 비행기 태우지 마세요. Don't flatter me!
+
+황송합니다. I'm flattered.
+
+이건 정말 사진빨이에요. This picture is very flattering.
+
+<flip>
+
+난 그녀에게 뿅 갔다. I flipped over her.
+
+동전을 던져서 결정하자. Let's flip a coin. Heads or tails?
+
+<floor>
+
+놀라서 질렸다. I was floored.
+
+세게 밟아. Floor it!/ Step on it!
+
+정말 깜짝 놀랐어. I was floored.
+
+<fly>
+
+혹시 알아! Pigs might fly!
+
+<fog>
+
+차창에 김이 서려 있어요. The car windows are fogged up.
+
+<follow>
+
+어느 장단에 맞춰야 할지 모르겠어요. I don't know whose word to follow.
+
+<fool>
+
+나는 깜빡 속는 줄 알았다. You could have fooled me.
+
+딴전 부려봐야 소용없어. You can't fool me.
+
+<force>
+
+울며 겨자 먹기. I forced myself to do it.
+
+이 네 가지 긴 연설을 끝까지 듣고 앉아 있는 일은 없었으면 좋겠어요. I hope I won't be forced to sit through four of these long speeches.
+
+이건 엎드려 절 받기네. I'm forcing you to compliment me./ Fishing for compliment.
+
+<forget>
+
+꿈도 꾸지마. Forget it.
+
+<forgo>
+
+본론으로 들어가죠. Let's forgo the pleasantries.
+
+<freak>
+
+걔 완전히 맛이 갔지. She freaked out.
+
+<freeze>
+
+절대 그런 일은 없을 거야. When hell freezes over!/ It will never happen.
+
+<frustrate>
+
+요즘 그냥 답답해요. Nowadays life has been frustrating.
+
+<fuck>
+
+내 인생 종 쳤어. My life's just fucked up.
+
+<fumigate>
+
+그들은 건물을 소독하고 있어요. They're fumigating the building.
+
+<gain>
+
+나는 몹시 뚱뚱해졌다. I've gained a lot.
+
+<get>
+
+가슴이 막 타는 것 같아요. I get heartburn a lot.
+
+간단명료하게 얘기할게요. I'll get right to the point.
+
+감이 잡혀요? You get the idea?
+
+같은 일을 그렇게 오래하다 보면 그럴 수도 있어요. Doing the same old thing can get to you.
+
+고생길이 훤하군요. It's obvious things will get tough.
+
+곧바로 본론으로 들어가지 그래? Why don't you get straight to the point?
+
+괜한 생각하지 마세요. Don't get any ideas.
+
+귀찮게 좀 굴지마! Stop getting into the way!
+
+그 사람 정말 늙었어. He is certainly getting on in years.
+
+그 사람은 항상 손해만 봐. He's always getting the short end of the stick.
+
+그 소식과 직접 관련된 사람으로부터 직접 들었거든요. I got the news straight from the horse's mouth.
+
+그 점이 무슨 말인지 못 알아듣겠다. You've got me there.
+
+그거 이제 질리지도 않니? Aren't you just getting fed up with that stuff?
+
+그냥 끝냅시다. All right, let's get it over with.
+
+그녀는 그 비밀을 알았다. She got help to the secret.
+
+그는 그녀와의 관계에 아무런 진전이 없어. He's getting nowhere with that girl.
+
+그는 백이 든든해. He's got a lot of pull.
+
+그는 여생이 얼마 남지 않았다. He's got one foot in the grave.
+
+그는 융통성이 없다. He's got a one tracks mind.
+
+그는 정말 부자예요. He's got more than enough money.
+
+그는 항상 제 멋대로야. He always gets his way.
+
+그들은 날 가까이 하는 것을 겁내는 경향이 있죠. They get a little spooked by me
+
+그런 대로 지내고 있다. I'm just getting by.
+
+아무 요점이 없다. We're getting nowhere.
+
+그의 정체를 알아야겠다. We have to get his number.
+
+꺼져! Get lost!/ Get the fuck out of my face!
+
+꼭 알맞게 집에 돌아왔습니다. I got home none too soon.
+
+꿈 깨! 정신차려! Get real!/ Snap out of it!/ In your dream!/ Forget it!/ Not in your lifetime!
+
+끼어 들지 말고 줄 서세요. Don't cut in line and get in the back of the line.
+
+나 무좀 걸렸어. I got athlete's foot.
+
+나는 Tom으로부터 절교 당했어. I got a Dear Jane letter from Tom.
+
+나는 눈치챘다. I got an item.
+
+나는 닥치는 대로 읽는다. I read everything I can get on my hands.
+
+나는 봄을 탄다. I always get spring fever./ I'm always greatly affected by spring.
+
+나는 잠을 설쳤어요. I didn't get enough sleep last night./ I didn't sleep a wink.
+
+나는 잠자리가 뒤숭숭했다. I got up on the wrong side of the bed.
+
+나도 그 집에서 바가지를 썼지. I got gypped there, too.
+
+나에 대해 오해하고 계신 거예요. You've got me wrong./ You've got me all wrong.
+
+난 그렇게 호락호락 넘어가지 않아요. I don't get persuaded that easily.
+
+난 무척 긴장했다. I got butterflies in my stomach.
+
+내 실력은 아직 살아있다! I've still got it!
+
+내가 절망할 때 난 당신에게 의지합니다. When I get down, I turn to you.
+
+내게서 떨어져. Get off my back.
+
+내배 째. 에라 모르겠다. Get my vote.
+
+너 언제 제대했니? When did you get discharged?/ When did you get released from the army?
+
+넘어지지 않게 날 붙잡아. Get me before I fall.
+
+놓친 고기가 더 크다.  The fish that got away.
+
+누구든지 간에 대가를 심하게 받을 것이다. Whoever it is going to get it, get it good.
+
+눈에 뭔가 들어갔어요. I've got something in my eyes.
+
+눈이 10인치나 왔네. We've got ten inches of snow.
+
+다리가 풀렸어요. My legs got wobbly.
+
+다시 본 궤도로 올라섭시다! Let's get back on track!
+
+당신 말에 일리가 있어요. You've got a point.
+
+당신은 그 사실을 알고 나서 괴팍해져 가고 있어요. You're getting grumpy since you found that out.
+
+당신은 배 멀미를 합니까? Do you get seasick?
+
+당신은 사교성이 좋은 것 같군요. You seem to get along with other very well.
+
+당신의 눈빛에 반해 버렸어요. I get lost in your eyes.
+
+당신이 누구시든 간에 정신 차리세요. Whoever you are, get a life.
+
+당장 가서 현상하자! Let's go get them developed right now!
+
+더 자주 만나자. Let's get together more often!
+
+덜미를 잡혔나보죠? Did you get screwed?
+
+두 분은 어떤 사이에요? How did you get to know each other?/ What's your relationship?
+
+뒷북치지 마! Get with the times[it!]/ Thanks for the history lessons.
+
+뒷북치지 마세요. Get with it!, we've moved on to another topic./ That's old news.
+
+디스켓이 다 날아갔어요. My floppy got destroyed./ My floppy is fried.
+
+딴 수작 부리지마! Don't get any ideas!
+
+마음의 여유를 찾으세요. Don't let it get to you.
+
+모르겠군요. You got me.
+
+뭘 좀 알고 살아라. Get hip, man!
+
+배탈이 났어요. I've got the runs.
+
+본전을 뽑고 싶었어요. I wanted to get my money's worth.
+
+봉급이 좀 올랐나요? Did you get a raise?
+
+분위기에 흠뻑 빠져 보세요. Get into the groove.
+
+비가 오면 무릎이 쑤셔요. I got sharp pains in my knee when it rains.
+
+서울대학교를 어떻게 가지요? Do you know how to get to Seoul National Univ?
+
+세상에 공짜가 어디 있어? You can't get something for nothing.
+
+수고하게. 힘써 주시오. Get on the ball.
+
+싼 게 비지떡이다. You get what you pay for.
+
+아침부터 왠지 기분이 안 좋아요. I got out of bed on the wrong side.
+
+안경에 김이 서려요. My glasses get steamed up.
+
+약간의 콤플렉스를 갖고 있어. I just got a little hang-up.
+
+얘기가 옆길로 새고 있잖아. We're getting a little sidetracked here.
+
+얘기를 좀 정리해서 하세요. Get the story straight.
+
+어디서 돌에 맞았니? Where did that rock get you?
+
+오늘은 약속이 연이어 있거든요. I've got back-to-back appointments all day.
+
+요령만 익히면 타자치는 것은 쉬워요. Typing is easy once you get the hang of it.
+
+우리 서로 말 맞춥시다. We'd better get our stories straight.
+
+우리는 독 안에 든 쥐다. We‘ve got them here.
+
+우리는 허비할 시간이 없어. We haven't got all day.
+
+원래가격의 25%에 구입했다. I got it for 1/4 of the original price.
+
+윤곽이 잡히세요? Did you get the picture?
+
+이런 기회가 어디 항상 나요? You don't get chances like this everyday.
+
+이봐 생사람 잡지 말고 주제 파악이나 하라구. Look here, get a grip on your situation and don't accuse[bother] an innocent person.
+
+인생에는 많은 역전의 기회가 있다. In life you always get a second chance.
+
+임금을 주급으로 받습니까? 월급으로 받습니까? Do I get paid by the week or by the month?/ Is the pay weekly or salaried?
+
+입은 삐뚤어 졌어도 말은 바로 해라. You got a say what you got a say.
+
+저 사람이 이제 불손해 지는군요. He's got an attitude now.
+
+저는 매일 칼 퇴근합니다. I always get off work on time.
+
+저희들은 다른 곳에서 자금을 조달해야 할 것 같은데요. I guess we will have to get the money from another source.
+
+정들자 이별이네요. I was just getting to know and now you've got to leave.
+
+정말 적은 돈으로 집을 장만하다니 운이 좋았어. I'm lucky to have gotten my place for chicken feed.
+
+정신 바짝 차리세요. Get a grip.
+
+정직하게 버는 1달러의 의미를 되짚어 볼 때입니다. Time to get back to an honest dollar.
+
+제 목표는 토익을 900점 이상 받는 것입니다. My objective is to get over 900 points on the TOEIC test.
+
+제 방구석에 처박히는 일도 많다구요. I get sent to my room a lot too.
+
+제가 당신한테 잘 해준 대가가 겨우 이건가요? Is this what I get for being nice to you?
+
+제가 지금 어떤 처지인지 상상이 안 될 겁니다. You can't imagine what I've gotten myself into.
+
+제발 귀찮게 좀 하지 마세요! Would you get off my back!
+
+진상을 철저히 조사해 봅시다. Let's get to the bottom of this.
+
+칼자루를 쥔 사람은 그 사람이야. He's got the ball.
+
+통화가 안 되더군요. I couldn't get a hold of you.
+
+하루쯤 쉬는 날도 없나요? Do you ever get a day off?
+
+할말을 하고 나니 후련하다. Now that I got that off my chest, I feel much better.
+
+헷갈려. I got all mixed up.
+
+<give>
+
+해 보는 수밖에 달리 방도가 없어요. The only way out is for you to give it a shot.
+
+(신부에게) 누가 당신을 식장에서 데리고 들어갈 겁니까? Who's going to give you away?
+
+그 여자가 예쁘다는 건 나도 인정해요. She's pretty, I'll give you that.
+
+그녀는 나를 혼동되게 해요. She is giving me mixed signals.
+
+그는 술에 빠졌다. He was given to drink.
+
+그렇게 일찍 포기하다니 부끄럽지 않으세요. Shame on you for giving up so soon.
+
+깎아 주세요. Do you give discount?
+
+나는 그 녀석에게 2천 달러를 줬다. I gave him two grand yesterday.
+
+나는 지고는 못 살아요. I can't live giving in to others
+
+나도 그 일을 줄곧 생각해왔단다. I've been giving it some thought.
+
+난 신경 안 써! Who gives a shit!
+
+내가 알 게 뭐냐. I don't give a damn.
+
+너 나한테 튕기냐? Are you giving me the brush-off?
+
+너 헌혈 해봤니? Have you ever given blood?
+
+눈 하나 깜짝 안 해. I don't give a shit.
+
+당신이 저한테 한 대로 저도 한 것뿐 이예요. I'm just giving you a taste of your own medicine.
+
+대충만 이라도 좀 알려주세요. Could you give me a rough idea?
+
+대충 만이라도 좀 알려주세요. Could you give me a rough idea?
+
+되로 주고 말로 받는다. Gives a little, but takes a lot./ Stingy in the giving, but generous in the taking.
+
+두 번 다시 생각할 것 없어요. Don't give it a second thought.
+
+말이 와전된 것 같아. It sounds like somebody has given you incorrect information./ It sounds like you were misinformed.
+
+설마! Give me a break!
+
+에라, 모르겠다. 신경 안 쓸 꺼야. What the heck! I don't give a shit!
+
+연락 드리죠. I'll give you a shout.
+
+오는 정이 있어야 가는 정이 있죠. You need to give a little to get a little.
+
+왜 그러고 있어? What gives?
+
+전 무슨 일을 할 때 전력투구합니다. When I do something I give it my all.
+
+졌다. 넌 정말 못 말리는 놈이다. I have to give it to you.
+
+찔러나 봐! 밑져야 본전이잖아. Give it a chance! It doesn't hurt to try.
+
+패자 부활전 합시다. Let's give the losers a second chance.
+
+한 번만 봐주세요! Give me a break!/ Give it a rest!
+
+<go>
+
+(일이 잘 안될 때에) 어쩜 이렇게 꼬이냐? Why is nothing going right?/ Why is nothing working out?
+
+(자동차가 과속으로 경찰에 걸렸을 때) 한번만 봐 주세요. Let me go this one time, please./ Give me a break.
+
+(지나친 행동을 할 때) 우리 때문에 너무 신경 쓰지 마세요. Don't go overboard for us, please.
+
+하루를 맞서 싸우자! Go out tackle the day!
+
+가서 네 일이나 해라! Go about your business.
+
+가서 맥주 한 잔하며 스트레스를 풉시다. Let's go have a beer to unwind.
+
+걱정 마, 그녀는 지금 한때일 뿐이야. Don't worry, she's just going through a phase.
+
+괜한 시도를 한 셈이 되었다. I went on a wild goose chase.
+
+그 사람을 심하게 다루지마. Go easy on him.
+
+그는 산전수전 다 겪었어요. He has gone through hell.
+
+그들은 늘 같이 붙어 다닌다. They are going in couples.
+
+그들은 사귀고 있어요. They are going about together.
+
+그래, 오늘 너 잘 걸렸다. Go ahead. Make my day!
+
+그런 바보짓은 그만둬! Go and boil your head.
+
+그분은 초상집에 갔어요. He has gone to a wake.
+
+그에게 까다롭게 대하지 마세요. Go easy on him.
+
+나 요즘 제니와 사귀어. I'm going out with Jenny now.
+
+나 회사에서 잘렸어. I've been let go./ I've been laid off.
+
+나는 런던에 잠시 중간 기착했다가 파리로 갈 겁니다. I'll go to Paris, with a quick stop-over in London.
+
+남성답게 행동하겠다. I'll go macho.
+
+내 아내가 막 진통을 시작했다. My wife has just gone into labor.
+
+너 너무 수고가 많았구나. You've gone to so much trouble.
+
+당신 정신이 나갔군요. You've gone off the deep end./ You don't have both oars in the water stupid.
+
+돌아가면서 한 단락씩 읽읍시다. Let's go around and each read one paragraph.
+
+뒷일은 내게 맡기고 가세요. Just go and leave the rest up to me.
+
+또 누가 함께 가십니까? Who else is going with you?
+
+마음대로 안 되는데요. It's not going the way I expected.
+
+무엇이든 따르겠어. What you say goes.
+
+분위기가 좀 썰렁해진다. Atmosphere is going a bit awkward.
+
+사레들리다 It went down the wrong pipe.
+
+삼판양승으로 합시다. We'll go best out of three.
+
+아직도 건재해. Still going strong.
+
+어느 학교 졸업하셨어요? Where did you go to school?/ Which school did you graduate from?
+
+어디 갔다 오세요? Where did you go?/ Where are you coming from?/ Where have you been?
+
+어서 계속 주무세요. You go on back to sleep.
+
+어쩔 셈인데? What're you gonna do?
+
+어차피 한 번 살다갈 인생인데. After all, we go around once.
+
+언제 한 번 같이 갈 수 있겠네요. Maybe we can go together sometime.
+
+얼굴이 홍당무가 되었군요. You've gone beet red.
+
+얼마나 가 계실 건가요? How long are you going to be gone?
+
+오르막이 있으면 내리막이 있다. What goes up must go down.
+
+요즘 너무 힘들었어요. I've been going through so much lately.
+
+우리 잘해봅시다. I hope all goes well with you.
+
+우리나라는 지금 IMF 상황을 겪고 있다. We're going through some tough economic times./ We are feeling the effects of the financial crisis.
+
+우리는 동기동창이다. We went to the same school.
+
+우리도 그 절차를 밟아야 하는 가? Do we have to go through that?
+
+이 빛깔이면 되겠다. I could go for this color.
+
+이 책은 잘 팔린다. This book is going strong.
+
+인생이란 후다닥 지나가는 거야. Life goes by in the blink of an eye.
+
+자칫 잘못하면 우리는 일을 그만두어야 할지도 모른다. We may have to quit our jobs if things go badly.
+
+잘 따져보면, 내겐 가장 큰 몫이 있다. As far as brains go, I got the lion's share.
+
+잘 해 봅시다. I hope that everything goes smoothly.
+
+잘해! 힘내라! Way to go.
+
+재충전하기 위해 여행을 갔어요. I went on a trip to recharge my batteries.
+
+적당히 해 두라구. Don't go overboard.
+
+전력을 다하라. Go for broke.
+
+제가 언제 빈 말 하는 것 보셨어요? Have you ever seen me go back on my word?/ You know that I'm as good as my word./ Have you ever seen me break a promise?
+
+주말에 쉬긴 다 틀렸군. There goes my weekend!
+
+증권시세가 내림세에 있다. The stock market is going south.
+
+지금 때가 어느 땐데 흥청망청하고 있니?  Time's being what they are, how can you go around partying and drinking?/ Now is not to time to go around partying and drinking.
+
+지난 학기보다 올랐군요. It's gone up from last semester.
+
+참새가 방앗간을 그냥 지나칠까. No man goes carelessly by a place where profit lips.
+
+최후까지 갈 것이다. It'll go down to the wire.
+
+톰은 내 문제를 해결하는 데 발 벗고 나섰다. Tom went out of his way to take care of my problems.
+
+혹 떼러 갔다가 혹 붙이고 돌아오다. Go for wool and come home shorn.
+
+너 오버하는 거 알지? You know you're going too far.
+
+요즘 되는 일이 없어요. Things aren't going my way these days.
+
+<goof>
+
+내가 망쳤어. I goofed it up.
+
+<grasp>
+
+욕심을 부리다간 다 잃는다. Grasp all, lose all.
+
+<grate>
+
+야, 그 소린 내 귀에 거슬려. Hey, that sound is grating on my ears./ That sound is really annoying./ That sound is getting on my nerves.
+
+<grease>
+
+뇌물을 바칠까요? You want me to grease your palm?
+
+<grow>
+
+계들은 원래 그랬어요. They grow that way.
+
+그 동안 당신과 정이 많이 들었습니다.  I have grown quite attached to you.
+
+넌 언제 철들래?  When will you grow up?/ When are you going to act your age?
+
+돈이 하늘에서 떨어지는 줄 아니? You think money grows on trees?
+
+언제까지고 잘 나간다는 보장은 없어. No tree grows to the sky.
+
+철 좀 들거라. Grow up!
+
+<guess>
+
+놀랄 만한 소식이야! Guess what!
+
+제가 몇 살인지 한번 맞춰 보세요. Guess how old I am?
+
+자네 말은 억측에 지나지 않네. You are only guessing.
+
+<gum>
+
+눈에 눈곱이 끼었다. My eyes are gummed up.
+
+<hang>
+
+그 난관과 싸워야 했다. I had to hang tough.
+
+당신과 함께 하는 것이 좋아요. I like hanging out with you.
+
+삐거덕거리는 문이 가장 오래 달려 있다.(병약자가 오래 산다) Creaking doors hang the longest.
+
+어려움을 참고 견뎌라. Hang in there!
+
+<happen>
+
+그런 일이 있을 줄 예상했었습니다. I expected something like that would happen.
+
+그럼 우리 경제는 어떻게 되는 거죠? So what is going to happen to our economy?
+
+내용이 어떻게 전개되는지 이해되세요? Can you follow what's happening?
+
+도대체 어떻게 그런 일이 생길 수 있어요? How on earth could such a thing happen?
+
+두 번 다시 그런 일이 없도록 해라! Don't you ever let it happen again.
+
+생각도 하기 싫어요. It shouldn't happen to a dog.
+
+<hate>
+
+난 고소공포증이 있어. I hate heights.
+
+널 미워해, 몇 배나 더! I hate you, too, in spades!
+
+음식이 아까워 죽겠어요. I hate to waste food./ I hate to see food go to waste.
+
+<have>
+
+여자가 한을 품으면 오뉴월에도 서리가 내린다. Hell hath no fury like a woman scorned.
+
+어디 가서 요기나 하지. Let's have a bite somewhere.
+
+(공손하게) 이러면 제가 부담스러워요. You really shouldn't have.
+
+1회용 컵 있나요? Can I have a disposable paper cup?
+
+공짜는 없어. All have their price.
+
+군대에서의 추억이 주마등처럼 스쳐 지나갔어요. I was having flashbacks of army life.
+
+귀하는 승낙하는 것이 상책일 것이오. You had best consent.
+
+그 사람 기억력이 대단해요. He has a photographic memory./ He has a good memory like a computer.
+
+그 사람은 아주 뻔뻔스럽다. He has cool cheek.
+
+그 사람은 저한테 푹 빠졌어요. He has a crush on me.
+
+그 사람을 속였다.(바람을 맞혔다) I have him had.
+
+그 사람한테 발목 잡힌 것 있어요? Does he have something on you?
+
+그건 내가 찜 해 놨어. I have dibs on this.
+
+그것은 일석이조이다. It has a double advantage.
+
+그녀는 다혈질입니다. She has a short fuse.
+
+그녀는 마약을 복용하고 있다. She has a monkey on her back.
+
+그녀는 말을 잘한다. She has a ready tongue.
+
+그녀는 반신반의하는 것 같았습니다. She seemed to have doubts.
+
+그녀는 시시콜콜 나에 대해 알고 있었죠. She had the goods on me.
+
+그녀는 얼굴에 철판을 깔았어요. She doesn't seem to have any shame.
+
+그녀는 음악에 대해 잘 알아. She has an ear for music.
+
+그녀는 패션에 관해서는 주관이 뚜렷하다. She has a mind of her own when it comes to fashion.
+
+그놈을 혼 내 줘라. Let him have it.
+
+그는 가족에 대해선 마음이 약해집니다. He has a soft spot for his family.
+
+그는 거만해졌다. He has a big head./ He is gone to his head.
+
+그는 결백해. He has clean hands.
+
+그는 돈밖에 없다. He has no furniture in his pocket except money.
+
+그는 마지막이다. 그는 전사했다. He has had it.
+
+그는 머리가 좋은 사람이다. He has a long head.
+
+그는 사업에 재능이 있어요. He has a head for business.
+
+그는 수완이 좋다.(그는 유능하다) He has a lot on the ball.
+
+그는 시야가 좁아요. He has tunnel vision.
+
+그는 아직 풋내기다. He has milk on his chin.
+
+그는 이목구비가 뚜렷하게 생겼어요. He has clear-cut features.
+
+그는 평소에 과속하는 습관이 있다. He has a lead[heavy] foot.
+
+그는 현상수배자이다. He has a price on his head.
+
+그렇게 한 번 해보겠습니다. I'll have a crack at it.
+
+김군은 늘 무표정한 얼굴이야. Mr. Kim has a dead pan always.
+
+나는 그럴 용기가 없었어. I didn't have the guts.
+
+나는 말발이 서지 않아. I don't have a say in that matter.
+
+나는 목이 뻐근해요. I have a stiff neck./ My neck muscles are really tight./ My neck is killing me./ I pulled my neck muscles.
+
+나는 외곬수입니다. I have a one-track mind.
+
+나는 좀 과음했어. I had a drop too much.
+
+나는 집에 갈까말까 하고 있다. I have half a mind to go home.
+
+나는 참 그 아이의 얼굴을 볼 면목이 없었다. I didn't have the nerve to face the kid.
+
+나도 한 때는 잘나갔었는데. I had my glory days.
+
+난 집에 가고 싶은 생각이 간절하다. I have a good mind to go home.
+
+그는 내 말이면 꼼짝못해요. I have him wrapped around my finger.
+
+내 코가 석자예요. I have enough problem of my own.
+
+너는 입에서 악취가 풍겨. You have bad breath.
+
+너는 하나만 알고 둘은 모르는구나. You have a very one-sided view about it./ You have a very narrow-minded view about it.
+
+너무 큰 기대를 하고 갔다가 실망했어요. I had high hopes but it was let down.
+
+네 오빠가 날 좋아한다는 느낌이 들어. I have a hunch that your brother likes me.
+
+눈에 다래끼 나다. I have a sty in my eye.
+
+눈이 그 분과 닮았어요. You have his eyes.
+
+눈이 충혈 되었어요. I have red eyes./ My eyes are bloodshot.
+
+다리가 저려요. I have a cramp in my leg./ My leg is cramped.
+
+당신 배짱 한번 두둑하군요. What nerve you have.
+
+당신 패가 좋다. You have a good hand
+
+당신은 권태기가 있었어요? Have you ever had the seven-year itch?
+
+당신은 그걸 내놓는 데 어려움이 없을 겁니다. You won't have a problem coughing it up.
+
+당신은 운동신경이 좋군요. You have very quick reflexes.
+
+당신은 정말 하나밖에 모르는군요. You really have a one-track mind.
+
+당신은 참 개성적이에요. You have quite a personality.
+
+당신은 충치가 두개 있습니다. You have two cavities.
+
+당신이 화가 나신 것도 당연하네요. You had good reason to be upset.
+
+당신이라면 어떻게 했겠어요? What would you have done?
+
+대신 조건이 있어요. However, I have one condition./ But there is one condition./ However, I must ask for a favor in return.
+
+더 빨리 될 수 있는 방법은 없을까요? Is there any way I can have it done sooner?
+
+두 개를 모두 건질 수는 없다. You cannot have it both ways.
+
+두 마리 토끼를 동시에 쫓지는 마라. You can't have your cake and eat it, too.
+
+마음껏 즐깁시다. Let's have a ball!
+
+말하는 것이 뻔뻔스럽다. You have the face to say.
+
+머리가 점점 벗겨지고 있다. He has receding hairline.
+
+목 안 아프게 하는 드롭프스 있나요? Could I have some throat lozenges?
+
+뭐라 동정의 말씀을 드려야 할지 모르겠습니다. I don't have adequate words to express my sympathy.
+
+밑져야 본전이죠. You have nothing to lose.
+
+바로 찾아 오셨습니다. You have the right place.
+
+발톱이 살을 파고들어서 아프다. I have an in-growing toenail, so it hurts so bad.
+
+봐 주세요. Have a heart.
+
+뻐드렁니가 있어요. I have buck teeth.
+
+사랑니를 뺏어요. I had my wisdom tooth pulled out.
+
+사실은 성형수술을 좀 했어. The truth is, I've had a little cosmetic surgery./ Actually, I've had some plastic surgery done.
+
+사인해 주세요.  May I have your autograph[signature]?
+
+상관하고 말다툼을 했어요. I had words with my boss.
+
+소신을 가지세요. Have faith in your beliefs.
+
+순산하길 기도할게요. I hope you have an easy delivery.
+
+신입사원을 위한 환영회를 엽시다. Let's have a welcome party for new members of the staff.
+
+아이쿠, 드디어 바람맞았구나! Oh, I've been had last!
+
+아직 풋내기다. He has milk on his chin.
+
+어떤 사람들은 참 팔자도 좋아요. Some people have all the luck.
+
+얼마를 원하세요? What price[price range] do you have in mind?
+
+여러 가지 고민들로 머릿속이 복잡해요. I have a lot on my mind.
+
+예고 없이 쪽지시험을 봤어요. We had a pop quiz.
+
+오리무중이야. I don't have a clue.
+
+왜 그렇게 시무룩하게 있어요? Why do you have a long face? cf I'm just feeling a little blue.
+
+우리 정말 건설적인 대화를 나누고 있는 것 같지 않아요? Don't you think we're having a constructive conversation?
+
+우리의 사랑은 영원할 거야. We will always have Paris together.
+
+우린 체육대회를 했습니다. We had a field day.
+
+이 스커트는 옆이 트였어. The skirt has a side-slit.
+
+이 옷은 정전기가 잘 올라요. These clothes have a lot of static.
+
+이가 몹시 쑤십니다. I have such an awful toothache.
+
+이것 좀 싸 주세요. Can I have a doggy bag?
+
+이심전심. To have the right chemistry
+
+일이 많이 밀려 있어요. We've quite a backlog.
+
+일회용 반창고 있습니까? Do you have any disposable bandages?
+
+입이 열 개라도 할말이 없다. Even if I had a silver tongue, I would have nothing to say.
+
+잊은 물건 없습니까? Are you sure you have everything?
+
+자꾸 딸꾹질이 나와요. I have hiccups.
+
+자비를 좀 베푸세요. Have a heart!
+
+잘 자, 내 꿈 꿔 Good night./ Have a good sleep./ Meet me in your dreams,/ Dream about me.
+
+저는 머리숱이 많아요. I have thick hair.
+
+저는 입덧이 심합니다. I have severe morning sickness.
+
+전 사진 찍는 건 좋아하는데, 사진 발이 안 받아요. I like having my pictures taken, but I'm not very photogenic.
+
+정말 염치가 없군. You have no shame.
+
+제가 당신한테 얼마나 쩔쩔 매는지 몰라요. You don't know the power you have over me.
+
+제게 작은 문제가 생겼습니다. I had a minor setback.
+
+좋은 일을 한꺼번에 할 수는 없다. You can't have your cake and eat, too.
+
+짐작은 했어. I had a feeling.
+
+짚신도 짝이 있어요. Every Jack has his Gill.
+
+착각은 자유다. Everyone is free to have their own illusions.
+
+찬성자 다수로 가결되었다. The ayes have it.
+
+친구들이 절보고 공주병이라고 부른답니다. My friends say that I have a princess complex.
+
+컵에 이가 빠졌어요. This cup has a chip./ This cup is chipped.
+
+태몽을 꾸었다. I had the dream that foretells the birth of baby.
+
+털어서 먼지 안 나는 사람 없어요. Everyone has their faults.
+
+학교 생활은 재미있나요? Do you have fun in school?
+
+<hear>
+
+내 말대로 하세요. You heard me.
+
+전화 감이 머네요. I can barely hear you.
+
+제가 바로 들은 건가요? Did I hear you right?
+
+이건 약과다. You haven't heard[seen] anything yet.
+
+<help>
+
+우리를 그냥 내버려두는 것이 도와주는 겁니다. You can help by leaving us alone.
+
+이제 당신을 기억하는 데 도움이 될 거예요. This will help me remember you.
+
+저한테 화풀이 해봤자 아무 소용이 없어요. Picking on me won't help!
+
+<hit>
+
+그녀석이 정곡을 찔렀구나. He's hit right on the bull's eye.
+
+난 좀 있다 잘게. I'll hit the sack a little later.
+
+남의 일 같지가 않네요. It really hit close to home.
+
+너 성질 건드렸어. You hit my nerve.
+
+누가 나를 희롱했어요. Someone hit on me.
+
+두 사람은 너무 잘 어울려. They really hit it off.
+
+양식이 바닥나다. Food in storage hit the bottom.
+
+양식이 바닥나다. Food in storage hit the bottom.
+
+여러분 공감하십니까? Does this hit home to you?
+
+이 국 참 시원하네요. This soup is hitting the spot.
+
+이 맥주 아주 끝내 주는군요. This beer hits the spot.
+
+휴, 이제야 살 것 같다. That hits the spot.
+
+<hoard>
+
+사재기를 하지 마세요. You shouldn't hoard[hog].
+
+<hold>
+
+그 이론 중 어느 것도 완벽하지 않다. None of these theories hold water.
+
+나는 뒤끝이 없어요. I don't hold grudges.
+
+난 누구에게도 뒤지지 않는다. I can hold my own.
+
+내가 유리해. I hold all the cards.
+
+내게 감추지 마라! Don't hold out on me!
+
+너는 뒤끝이 없다. You didn't hold a grudge./ You are not having a grudge./ Nobody held a grudge.
+
+너무 기대하지 마라. Don't hold your breath.
+
+너무 기대하지 말아라. Don‘t hold your breath.
+
+누가 뒤에서 쫓아오기라도 해? Hold your horses.
+
+당신의 주장은 저에겐 전혀 정당하지 못한 것 같습니다. Your argument doesn't hold water with me.
+
+직위가 무엇입니까? What position do you hold?
+
+함부로 결론을 내리지 마세요. Hold your horses.
+
+그놈은 아주 골치다. There is no holding him.
+
+<honk>
+
+경적을 울려요. 두 번. Honk the horn, twice.
+
+<hope>
+
+우리는 낙관하고 있지요. We hope for the best.
+
+<huff>
+
+왜 숨을 헐떡이고 있어요? Why are you huffing and puffing?
+
+<humiliate>
+
+그는 사람들이 많은 데서 망신을 주었어요. He humiliated me in public.
+
+<humor>
+
+웃기지 좀 마. Don't humor me./ Don't try to pamper me.
+
+<hurt>
+
+당신은 정말 손이 맵군요. Your slap doesn't just hurt, it stings.
+
+몇 분이 급해. A few minutes would hurt.
+
+물어 본다고 손해볼 건 없을 거야. I don't suppose it would hurt to ask!
+
+밑져야 본전. Trying wouldn't hurt./ It doesn't hurt to try./ It'll never hurt.
+
+복습한다고 해될 건 없을 겁니다. It won't hurt to brush up.
+
+<hustle>
+
+그는 항상 무엇인가에 열정적이었습니다. He was always hustling something.
+
+<image>
+
+마음 탓이지. You are imaging things.
+
+<impound>
+
+법원에 차를 압류 당했어. My car was impounded by court.
+
+<impress>
+
+무엇이 가장 인상적이었습니까? What impressed you the most?
+
+<improve>
+
+친구와 포도주는 오래될 수록 좋다. Friends and wines improve with age.
+
+<interest>
+
+중앙 오페라 하우스에서 공연되고 있는 연극을 보지 않을래요? Are you interested in seeing the play that is being staged at the central opera house?
+
+<interrupt>
+
+기차가 불통이다.  The railway service is interrupted.
+
+<intimidate>
+
+당신은 날 협박할 수 없어요. You can't intimidate me.
+
+<iron>
+
+우리는 이 문제를 잘 조정해서 조화롭게 해야 해요. We need to iron out the problems.
+
+<irritate>
+
+발꿈치가 까졌어요. My heels are irritated.
+
+<jaywalk>
+
+무단횡단을 하지 말라. You shouldn't jaywalk.
+
+<join>
+
+같은 처지군요. Join the club.
+
+같이 식사해도 될까요?  Mind if I join you?
+
+함께 할 수 있다면 얼마나 좋을까요. I wish I could join you guys.
+
+<joke>
+
+농담이면 죽어 너! You'd better not be joking!
+
+<juggle>
+
+엄마는 정말 할 일이 많은 사람이에요. Moms have so much to juggle.
+
+<jump>
+
+그 때의 심정 이해할 수 있어요. 때로는 쥐구멍에라도 뛰어들어가고 싶을 때가 있지요. I know the feeling. Sometimes you just feel like jumping into a hole.
+
+너도나도 다 기뻐서 날뛰었지. Each and every one of them jumped for joy.
+
+<keep>
+
+제인을 잘 지켜봐야 될 것 같은데요. We'd better keep close tabs on Jane.
+
+계속 열심히 잘 하십시오. Keep up the good work.
+
+고양이에게 생선가게 맡긴다. Keep a fox in the chicken coop./ It's like having the fox guard the henhouse.
+
+그 사람은 화를 속으로 삭이는 타입이에요. He's the type of person who keeps his worries inside.
+
+그 사람이 왜 이렇게 안 오는지 모르겠군요. I wonder what's keeping him.
+
+그가 익숙해질 때까지 일을 시켜라. Keep him up the mark.
+
+그녀는 딱딱한 표정을 짓는다. She keeps a stiff face.
+
+그녀는 자꾸 토한다. She can't keep anything down.
+
+그녀는 틈만 나면 바가지를 긁는다. She keeps nagging me at every opportunity.
+
+그는 꼭 비밀을 지킬 것입니다. He's supposed to keep his own counsel.
+
+그들은 단식한다. They keep[observe] a fast.
+
+끝까지 나의 입장을 지켜야겠다. Keep my end up.
+
+나는 속상한 일을 마음속에서 삭혀요. I just keep it in.
+
+내가 왜 이렇게 후회를 하고 있는 거지? Why do I keep on kicking myself?
+
+왜 자꾸 시비를 걸어요? Why do you keep bugging me?
+
+너에게 속이는 건 없다. I keep nothing from you.
+
+눈썹이 눈을 찔러요. My eyelashes keep getting in my eye.
+
+다음주 월요일에 시간 비워둬. Please keep next Monday open.
+
+당신의 처신을 바르게 해라. Keep your nose clean!
+
+두고 보자고. I'll keep my eyes on you!/ We'll see!/ Just wait and see!
+
+몸이 말을 안 들어요. My body doesn't keep up with my mind.
+
+비밀을 지킬 수 있어요? Can you keep it to yourself?
+
+세상은 꿈꾸는 자와 도전하는 자의 것이다. The world is for those who keep on dreaming and challenging themselves./ The world belongs to the dreamers and those who challenge themselves.
+
+수고하세요. Keep up the good work./ Don't work too hard.
+
+약속은 지켜야지. Keep up your end of the bargain.
+
+어쩜 그렇게 날씬하지요? How do you keep in shape?
+
+오래 기다리셨습니까? Have I kept you waiting for a long time?
+
+용기 잃지 말아요! Keep your chin up!/ Cheer up!
+
+우리가 그것을 비밀로 할 수 있을까요? Can we keep that under wraps?
+
+이 일에는 정말 긴장이 된다. This job really keeps me no my toes.
+
+전화벨만 울리고 아무도 받지 않는다. The phone just kept ringing and ringing. No one's answering the phone.
+
+조마조마하게 하지 마. 게임에서 누가 이겼는지 가르쳐 줘. Don't keep me in suspense. Tell me who won the game.
+
+좀 속으로 읽으세요. Keep it to yourself./ Could you read it to yourself?
+
+참고하세요. Keep that in mind.
+
+체통을 세워라. Keep up your appearance.
+
+카페인이 든 것을 먹으면 잠이 안 와요. Anything with caffeine in it keeps me up.
+
+<kid>
+
+까불지마! Don't kid yourself.
+
+<kill>
+
+경기 침체 때문에 못살겠습니다. The recession is killing me.
+
+애간장이 다 타 들어가는 것 같아요. The suspense is killing me.
+
+<kiss>
+
+(다쳤을 때) 여기 '호~' 해주세요. Please kiss it and make it feel better.
+
+(부부싸움 후) 이제 그만 화해합시다. It's time to kiss and make up.
+
+<knock>
+
+그 여자는 굉장한 미인이다. She knocks your eyes out.
+
+쇠뿔도 단김에 빼라. Opportunity seldom knocks twice.
+
+쥐구멍에도 볕들 날이 있다. Fortune knocks once at every man's gate./ Every dog has his day.
+
+직접 해보지도 않고 미리부터 얕잡아서 얘기할건 아닙니다. Don't knock it until you try it.
+
+집어쳐! Knock it off!
+
+<know>
+
+건강한 사람은 자신의 건강을 모른다. 오직 병자만이 그것을 안다. The healthy know not of their health, but only the sick.
+
+그 사람은 전혀 분위기 파악을 못해. He never know which way the wind is blowing./ He doesn't know the picture.
+
+그건 보나마나 예요. We already know what the result will be.
+
+난 체스의 졸과 왕도 구분 못한다. I don't know a pawn from a king.
+
+네 말을 믿은 내가 바보지. I should have known better.
+
+당신 발이 넓군요. You know all the right people.
+
+심증은 가는데 물증이 없어요. I think I know who did it, but I don't have proof.
+
+알 만한 사람은 다 알아요. Most people already know that.
+
+없을 줄 아는데요. Not that I know of.
+
+잘났어 정말! You know everything, don't you.
+
+저 그 사람 잘 알아요. I know him inside and out.
+
+제가 아는 바로는 없어요. Not that I know of.
+
+<lace>
+
+신발 신는 데 좀 도와 주실래요? Could you help me lace up my shoes?
+
+<last>
+
+부부싸움은 칼로 물 베기. Lovers' spats never last.
+
+작심삼일. My resolutions never last more than three days./ I always plan to do things but I never follow through.
+
+<laugh>
+
+그는 돈벌이가 잘 된다. He's laughing all the way to the bank.
+
+길고 짧은 것은 대봐야 알지. He laughs best who laughs last./ It isn't over till it's over
+
+<lay>
+
+개천에서 용 났다. A black hen lays a white egg.
+
+꺼져! Lay off!
+
+오늘 눈에 띄지 않게 조심하세요. You'd better lay low today.
+
+회사에서 벌써 목이 여럿 달아났어요. Several have already been laid off.
+
+<lead>
+
+그들에게 감잡히는 것이 있나요? Do they any leads?
+
+그들은 질질 끌려 다녔다. They were led by the nose.
+
+내가 수위를 차지할 수 있을 것 같아? Could I lead the list?
+
+유혹하지 않도록 부탁합니다. Lead us not into temptation.
+
+평양감사도 제가 싫으면 그만이다. You can lead a horse to water, but you can't make it drink.
+
+<learn>
+
+너 같은 녀석은 본때를 봐야해. A fellow like you needs to learn a lesson.
+
+아픈 만큼 성숙하는 거야. You learn from the pain.
+
+자신의 행동에 대한 책임감을 가질 줄 알아야 해. You should learn to take responsibility for your actions.
+
+<leave>
+
+걱정거리는 뒤로 제쳐 두세요. Leave your cares[worries] behind.
+
+그 채널에 나둬요. Leave it on that channel.
+
+그 코미디는 관객을 웃음바다로 몰아 넣었다. The comedy left the audience in the aisle.
+
+그는 소외감을 느꼈다. I feel a little left out.
+
+그대로 두면 저절로 나을 겁니다. If you leave it as it is, it'll cure itself.
+
+나를 이 일에서 빼돌리지 말아. Don't leave me out of this.
+
+더 말할 게 뭐 있니? What's left to say?
+
+반 친구들이 절 따돌려요.  My classmates leave me out in the cold.
+
+열쇠를 방에 두고 나왔습니다. I left my key in my room./ I've locked myself out.
+
+오늘 오후 두 시간 일찍 퇴근하고 싶습니다. I'd like to leave the office two hours early this afternoon.
+
+오늘 조금 일찍 퇴근해도 되겠습니까? May I leave a little earlier than usual today?
+
+<lecture>
+
+그는 항상 잔소리만 늘어놓으세요. He always lectures.
+
+<lend>
+
+10달러만 빌려줄 수 있어? Can you lend me 10 bucks?
+
+귀 좀 빌려주세요. Lend me an ear./ Listen up./ I need to talk to you for a moment.
+
+<let>
+
+과거는 과거로 묻어 둡시다. Let bygones be bygones./ Forgive and forget.
+
+방심하지 말아요. Don't let your guard down.
+
+실망시켜 드리지 않을게요. I'll try not to let you down.
+
+<level>
+
+솔직하게 말할게. Let me level with you.
+
+<lie>
+
+그는 눈도 깜짝거리지 않고 거짓말을 합니다. He can lie with a straight face./ He can lie without blinking an eye.
+
+눈 빤히 뜨고 거짓말하겠니? Would these eyes lie?
+
+지나간 일을 가지고 이러쿵저러쿵 하지 마세요. Let dead dogs lie./ Let's not bring up the past.
+
+<lift>
+
+당신은 정말 집안 일에 손 하나 까닥 않는군요. You don't lift a finger to help me around the house.
+
+<lighten>
+
+심각하게 생각하지마, 음? Oh, lighten up, will you?
+
+<like>
+
+계란을 한쪽만 익혀주세요. I'd like my eggs sunny-side up.
+
+굉장하지! How do you like it!
+
+몇 인분 주문하시겠습니까? How many orders would you like?/ How many orders can I get you?/ How many orders?
+
+전 가족적인 분위기를 좋아해요. I like homey atmosphere.
+
+진통제 줄까요? Would you like some pain relievers?
+
+한국 음식이 입에 맞습니까? How do you like Korean food[dishes]?
+
+<listen>
+
+난 건성으로 들었어요. I listened absent-mindedly.
+
+<live>
+
+걱정 마 이 정도 가지고 안 죽어. Don't worry. I can live!
+
+그것을 감수하고 살 수 있습니까? Can you live with tat?
+
+그들은 이름 값을 못하네요. Not live up to their names.
+
+여기서 몇 번째 집에 살고 계세요? How many doors do you live from here?
+
+오래 살고 볼일이군. I never thought I'd live to see the day.
+
+<liven>
+
+분위기 좀 뛰어볼까요. Let's liven it up.
+
+<load>
+
+난 주머니가 두둑해. I'm loaded.
+
+<look>
+
+(It looks good on you라고 얘기하자) 나한테 안 어울리는 게 있겠어요? What doesn't look good on me?
+
+겉만 번지르르해요. It just looks flashy.
+
+그 사람은 서글서글하게 생겼어요. He looks kind and gentle.
+
+그 여자 어때? How does she look to you?
+
+그녀는 TV에 화면을 잘 받더군요. She looks great on TV.
+
+그녀는 아주 좋아 보인다. She looks like a million dollars.
+
+그는 마침내 마음을 고쳐먹었다. He's finally looking on the bright side of things again.
+
+그렇게 하면 좋아 보일까요? Do you think it will look good?
+
+기분이 좋아 보이는군. You look chipper.
+
+나는 긍정적으로 생각할거예요. I'll try to look on the bright side of things.
+
+나이에 비해서 어려 보이시네요. You look young for your age.
+
+내가 좀 만만한가 보죠. I must look easy.
+
+당신 폼이 영 어설퍼요. You look so awkward doing that.
+
+당신은 실물보다 훨씬 예뻐요. You look better than in real life.
+
+당신의 건강을 빕니다! I look toward you!
+
+도토리 키 재기하고 있군요. You two look about the same to me.
+
+미성년자처럼 보이는데요. You look like a minor.
+
+신수가 훤하십니다. You look like a million.
+
+실제로 보니까 훨씬 낫다. You look even more attractive in person./ You look fantastic.
+
+아, 가까이서 보니 훨씬 미남이시군요. Oh, you're even better looking up close.
+
+어디서 많이 본 듯한 사람인데. He looks very familiar./ I'm sure I know him from somewhere./ There's something very familiar about him.
+
+오늘도 푹푹 찌겠군. Looks like another sizzler[scorcher] today.
+
+오리 요리가 먹음직스럽게 보이는 군. The duck looks tempting.
+
+옷걸이가 좋군요. Anything looks good on you.
+
+저 어때요, 괜찮아 보여요? Do I look alright?/ How do I look?
+
+저 어때요, 괜찮아 보여요? Do I look alright?/ How do I look?
+
+제가 그렇게 어려 보이나요. Do I really look that young?
+
+제가 몇 살쯤 되어 보입니까? How old do I look?
+
+지금 있는 그대로가 참 보기 좋은 것 같은데요. I think you look pretty good as you are.
+
+<lose>
+
+꾸물거릴 시간이 없어. No time to lose.
+
+내 체면이 뭐가 돼? Do you want me to lose my face?
+
+바로 거기서 이해가 안가. You lost me there.
+
+방향 감각을 쉽게 잃어요. I easily lose my bearings.
+
+벌써 여름이라니, 살이 하나도 안 빠졌는데. It can't be summer. I haven't lost any weight yet.
+
+소식이 끊어졌어. I've lost track of Johnson.
+
+시간이 벌써 이렇게 된 줄 몰랐다. I lost track of time./ I wasn't aware of the time.
+
+이야기는 되풀이하면 커지는 법이다. A tale never loses in the telling.
+
+저는 저의 우위를 뺏길 수는 없습니다. I can't lose my edge.
+
+저는 정신이 완전히 나갔나 봐요. I must be losing my mind.
+
+주식 투자하다 거덜났어. I lost my shirt from stock investments.
+
+그는 빈털터리가 되었다. He lost his shirt.
+
+소식이 끊어졌어. I've lost track of Johnson.
+
+<love>
+
+(사랑의 경우) 늘 처음 그대로의 마음으로 살자. Let's always love each other as I'm in the way we do now.
+
+과부 심정 홀아비가 안다. Love understands love.
+
+세상에서 널 가장 사랑해. I couldn't love you more.
+
+<luck>
+
+너 정말 땡잡았구나. You really lucked out!/ What good luck!
+
+<make>
+
+어휴, 기죽어! You make my spirits droop./ You make me loose heart./ Whew, this is out of my league.
+
+같은 걸로 주세요. Make it two, please./ Same here, please./ I'll have the same.
+
+그 사람 요즘 TV에서 뜬다면서요. I hear he is making it big on T.V. nowadays.
+
+그가 그것을 완전히 분석했어요. He's made a science of it.
+
+그가 추파를 먼저 던지잖아요. He made a pass at me.
+
+그거 지나친 생각 아니니? Isn't that making mountains out of mole hills?
+
+그는 도저히 말이 안 돼요. He never makes any sense.
+
+그는 해내고야 말 것 같군요. He looks like he'll make it.
+
+그는 허세를 부린다. He shows what he is not made of.
+
+그들은 훌륭한 성적을 올렸다. They made a wonderful showing.
+
+그의 수법을 알아내고 말겠어. I'll make him show his card.
+
+나를 푸대접할 작정이냐? Are you going to make a stranger of me?
+
+난 웃음거리 되긴 싫어. I don't want to make a laughingstock of myself.
+
+내가 선수쳤지. I made a preemptive strike.
+
+내가 어떤 천한 말이라고 했느냐? Did I make the air blue?
+
+내가 필요한 것은 오직 나를 행복하게 해줄 약간의 돈과 새 차다. All I need is some money and a new car to make me happy.
+
+너만은 특별취급을 해주마. I will make an exception in your favor.
+
+너야말로 내 기분을 알아주는군! You made my day.
+
+네 얼굴을 보고 미스코리아가 울고 가겠다. You would make Miss Korea cry.
+
+네 주장만 자꾸 하는구나. You only want to make your party good.
+
+당신 짐작은 용케 들어맞았어. You have made a lucky guess.
+
+당신 한몫 잡았겠네요. You must have made a bundle of cash.
+
+당신이 그곳에서 좋은 친구 많이 사귀었으면 좋겠어요.  I hope you make a lot of nice friends out there.
+
+들락날락 좀 하지마. Make up your mind in or out.
+
+명심하겠습니다. I'll make a note of it.
+
+모든 일은 마음먹기에 달렸다. The mind makes heaven of hell and hell of heaven.
+
+뭐가 뭔지 분간이 안 간다. I can't make heads or tails of it.
+
+믿는 도끼에 발등 찍힌다. Trust makes way for treachery./ Trust is the mother of deceit./ In trust is treason.
+
+별똥별이 떨어지는 것을 보며 소원을 빌어요. Make a wish when you see a shooting star.
+
+사서 고생하지 말아요. Don't make trouble for yourself.
+
+삼세판으로 해요. Let's make it the best two out of three.
+
+생각해보니 열 받네. Now that I think about, it makes me mad.
+
+손을 꽉 쥐세요. Make a tight fist, please.
+
+어물어물하지 말고 빨리 해라! Make it snappy.
+
+엄살 피우지 마세요. Stop making a big fuss.
+
+왜 그렇게 열심히 일을 하고 계시죠? What makes you work so hard?
+
+우리나라는 16강에 진출할 겁니다. Our team will make it to Stage2.
+
+이 음식은 아주 역겹군요. This makes my stomach turn.
+
+이런 일로 소동을 피우지 마십시오. Don't make a federal case out of this.
+
+인기척을 하고 들어오세요. Make your presence known before you come in.
+
+입이 열 개라도 할 말이 없다. No amount of words can make up for something.
+
+자업자득이에요. You made your bed, so you lie in it.
+
+저는 백을 좀 썼습니다. I made some calls.
+
+절대로 거짓말하지 않겠습니다. I'll never make a misleading statement.
+
+제 말을 알아들었어요? Do I make myself clear?
+
+제 시간에 거기에 도착할 수 있다고 생각하십니까? Do you think you can make it there in time?
+
+제 시간에 도착하려면 겁나게 서둘러야겠어. You'd better make excellent time to get there on time.
+
+제가 말씀드리면, 당신은 열 받을 겁니다. If I tell you, it'll make you sick.
+
+그가 추파를 먼저 던지잖아요. He made a pass at me.
+
+치가 떨려요. It makes me grind my teeth.
+
+칭찬은 좋은 사람은 더욱 좋게 하고, 나쁜 사람은 더욱 나쁘게 한다. Praise makes good men better and bad men worse.
+
+컴퓨터를 고치고 있을 때는 모니터가 꺼져 있는지 확인해라. Make sure the monitor is turned off when you are fixing the computer.
+
+코끝이 찡했어요. It made me sniffle.
+
+혹 떼러 갔다가 혹 붙였어요. I've made things worse.
+
+<manage>
+
+도대체 어떻게 그 일을 감당해 냈어요? How in the world did you ever manage that?
+
+<map>
+
+여름 휴가 계획 이미 세우셨나요? Have you mapped out a plan yet for your summer vacation?
+
+<mark>
+
+그들은 대서특필해 왔다. They've been marking with a white stone.
+
+그의 생애는 별 일을 한 것도 없다. No events marked his life.
+
+내가 한 말을 알겠나! Mark my word!
+
+<matter>
+
+둘이 먹다가 한 명이 죽어도 모르겠어요. It tastes so good that nothing else seems to matter.
+
+제게 중요한 것은 그것뿐이에요. That's all that matters to me.
+
+<mean>
+
+(미팅에서) 우린 인연이 없는 것 같아. It wasn't meant to be.
+
+그 말이 그 말이네요. Both mean the same thing.
+
+그래도 내가 너 좋아하는 거 알지? Do you know how much you mean to me, don't you?/ Do you know how much I care about you, don't you?
+
+그런 말이 아니었어요. I didn't mean it like that./ That's not what I meant.
+
+농담 아니야. I mean business!/ I am not kidding!
+
+무슨 뜻으로 말씀하십니까? What do you mean to imply?
+
+안 된다면 안 되는 줄 알아. When I say, 'no', that means 'no'.
+
+일부러 그런 게 아니에요. I didn't mean to do that.
+
+전 안 되나 봐요. I'm not meant for this.
+
+지난주에 창고에 두었던 그 서류 말씀하세요? Do you mean the papers that I filed in the storage room last week?
+
+진정이야. I mean it.
+
+<meet>
+
+그는 내 친구의 친구입니다. I met him through a friend./ He is a friend of my friend's.
+
+그들은 중매로 알게 되었다. They met through matchmaking.
+
+드디어 올 것이 오고 말았구나. I've finally met face to face.
+
+<mind>
+
+좋습니다. 그렇게 합시다. I don't mind if I do.
+
+<miss>
+
+금방 아실 거예요. You won't miss it.
+
+길이 엇갈려서 못 만났어요. We just missed each other.
+
+방송 중에 NG 났어요. I missed my cue./ I forgot my line.
+
+아슬아슬했어요! Near miss!
+
+자기 차례를 잊지 말아. Don't miss your cue.
+
+한발 늦었구나. You missed the boat.
+
+<mix>
+
+그는 공과 사가 분명한 사람이다. He never mixes business with personal pleasure[private matters].
+
+<move>
+
+별 짓 다했어. I moved heaven and earth.
+
+옆으로 좀 가 주시겠습니까? Would you mind moving over?
+
+<nail>
+
+그는 스스로 꼼짝못하게 하는군. He nailed himself.
+
+<name>
+
+뭐든지 말씀해 보세요. You name it.
+
+손님이 내고 싶은 값을 불러 보십시오. Name your own price.
+
+<need>
+
+남자도 남자 나름이지. You need more than a pair of pants to be a man.
+
+다리 뻗을 자리가 더 필요해요! I need more legroom!
+
+도둑이 제발 저린다. A guilty conscience needs no accuser.
+
+모든 일에는 시간이 걸리는 거예요. Everything needs time.
+
+아쉬울 때만 날 찾는군. You look for me only when you need something.
+
+전 종합보험에 들어야 합니다. I need blanket coverage.
+
+<notice>
+
+당신은 눈치채지 못했을 가능성이 다분하다. Chances are you wouldn't have noticed it.
+
+<oblige>
+
+그녀는 노래를 불러주었다. She obliged with a song.
+
+<occur>
+
+아무 것도 생각이 나지 않아요. Nothing occurs to me.
+
+<off>
+
+내가 찜 했어! Hands off! It's mine.
+
+<offer>
+
+그가 나를 걸고 넘어져요. He offers me up.
+
+너만 먹니 나도 안주고? Aren't you going to offer me some?
+
+<open>
+
+그 골칫거리는 터트리지 맙시다. Let's not open up that can of worms.
+
+옷이 날개다. Good clothes open all doors./ The tailor makes the man.
+
+<order>
+
+여기 주목하세요. Order!/ Let's have some order!
+
+<overlook>
+
+이번엔 잘못을 눈감아 드리겠습니다. I'll overlook the offense this time.
+
+저의 무심함을 용서하십시오. Please overlook my apathy.
+
+<overreact>
+
+너무 심하지 않아요? Don't you think you're overreacting?
+
+<owe>
+
+이러시면 다음에 제가 내야 하잖아요. Now I owe you one.
+
+<own>
+
+아는 것은 죄다 고백해라. Own up all you know about it!
+
+<page>
+
+방송으로 그녀를 좀 불러주세요. Could you page her for me?
+
+<paint>
+
+지난 밤 밤새도록 춤추고 술 마시면서 거하게 놀았어요. I painted the town red last night.
+
+<panic>
+
+진정하라구. Don't panic.
+
+<paper>
+
+제 개는 순종입니다. My dog is papered.
+
+<paralyze>
+
+두려움 때문에 마비되거나 그러지 마세요. Don't be paralyzed by your fears!
+
+<pass>
+
+그냥 잊어버려요. Let it pass, it's not worth it.
+
+슬쩍 넘어갈 생각 말아요. Don't think I'm going to let it pass.
+
+어리석은 사람도 말을 하지 않으면 슬기로운 사람으로 통한다. The fool who is silent passes for wise.
+
+<pay>
+
+공든 탑이 무너지랴. It always pays to do your best.
+
+그 사람에게 본때를 보여줘요. Let him pay for what he's done.
+
+그는 동문서답한다.(사오정이다) He never pays attention./ He doesn't pay attention.
+
+그는 지나치게 남을 의식한다. He pays too much attention to what other people think.
+
+내 구좌로 200불이 들어왔다. A $200 credit was paid into my account.
+
+댁의 회사는 봉급이 많은 줄 알았어요. I thought your company paid well.
+
+뭉칫돈을 내고 있는 중이야. I'm paying through the nose.
+
+사랑이 밥 먹여주나? Love won't pay the bills.
+
+언젠가는 쓴맛을 보게 될 거야. You'll pay for it some day.
+
+<pick>
+
+그는 게임을 막 배우기 시작했어요. He is just picking up the game.
+
+그는 마침내 용기를 냈다. He picked up his courage at last.
+
+그는 이제 여유가 있다. He's picking up the pieces.
+
+그는 재기중이다. He's picking up the pieces.
+
+그는 점심식사에 나를 데리고 가기로 했던 것을 잊어버렸음에 틀림없다. He must have forgotten that he was supposed to pick me up at lunch time.
+
+내 말에 토 좀 달지마! Don't pick out every word I say./ Don't criticize every word I say.
+
+말꼬리 잡고 늘어지지 말아요. Don't pick at everything I say.
+
+문방구에 가서 팩스용지 좀 사다 주세요. I'd like you to go to the stationery store and pick up some fax paper.
+
+어떻게 배웠나? How did you pick it up?
+
+절대 먼저 시비 안 걸어. I never pick a fight first.
+
+좀 빨리 가자. Pick it up.
+
+주워 들은 게 많아요. I've picked things up here and there.
+
+항상 나만 못살게 굴어요. He is always picking on me.
+
+<pin>
+
+그 사람은 밖에서 살다시피 해요. He is hard to pin down.
+
+그 일을 제 탓이라고 하지 마세요. Don't pin that on me.
+
+<piss>
+
+내가 너를 화나게 한 게 아니었으면 해. I hope I didn't piss you off.
+
+무지하게 열 받네. I'm so pissed off.
+
+<place>
+
+가져 갈 음식을 주문하고 싶습니다. I'd like to place a take-out-order, please.
+
+그는 몇 등 했어요? Where did he place?
+
+어디서 만났는지 모르겠습니다. I can't place you.
+
+<plan>
+
+얼마나 오래 우리와 함께 근무하실 생각입니까? How long are you planning to stay with us?
+
+<play>
+
+그가 나의 마음을 떠보려고 한다. He is playing games./ He is testing me to see how I'll react.
+
+너 튕기지 좀 마. Don't play hard to get.
+
+눈이 믿기질 않았다. I thought my eyes were playing tricks on me.
+
+늘 언행에 조심하세요. Just play your cards close to the vest.
+
+배부른 소리하고 있네. Stop playing hard-to-get./ Stop playing games.
+
+잘난 체하지 말아! Don't play the gentleman!
+
+<please>
+
+모든 사람들을 다 기분 좋게 맞추어 줄 수는 없다. One can't please everybody.
+
+이 극은 재미있어요. The play pleases.
+
+<pocket>
+
+제 자랑을 하지 말아라. Pocket your pride.
+
+<poop>
+
+여행을 다녀와서 뻗어 버렸어요. I was pooped when I came back from the trip./ I was beat after the trip./ I was dead-tired after the trip.
+
+일과가 끝날 때면 기진맥진해요. I'm pooped by day's end.
+
+<pop>
+
+눈이 빠질 정도로 아프다. My eyes feel like they're going to pop out.
+
+당신이 청혼했어요? Did you pop the question?
+
+<postpone>
+
+회의는 다음 주 월요일로 연기되었다. The meeting has been postponed to next Monday.
+
+<pound>
+
+집안을 쿵쿵거리고 다니지 마. Don't pound about the house.
+
+<pout>
+
+당신 왜 뾰루퉁해 있어요? Why are you pouting?
+
+<practice>
+
+말을 행동으로 옮겨라 Practice what you preach./ You have to walk the talk.
+
+<prepare>
+
+마음은 굴뚝같은데 몸이 안 따른다. I'm prepared mentally but my body isn't cooperating.
+
+음식점에서 뭐가 제일 빨리 되나요? What can you prepare the quickest?
+
+<press>
+
+시간에 몹시 쫓기고 있습니다. I'm pressed for time.
+
+<pretend>
+
+내 말을 못 알아듣는 것처럼 시치미 떼지 말아요. Don't pretend not to know what I'm talking about.
+
+딴전 부리는 척 하지 말아라. Stop pretending you're not listening!
+
+<proofread>
+
+교정 좀 봐주시겠어요?  Would you proofread [check over, read over] this for mistakes?
+
+<propose>
+
+건배할까요? May I propose a toast?
+
+<provide>
+
+이 가게는 애프터서비스가 좋다. This shop provides good after-sales service.
+
+<pry>
+
+꼬치꼬치 묻고 싶지 않지만, 그게 다 뭐예요. I hate to pry, but what are they?
+
+<pull>
+
+기운 내. Pull yourself together.
+
+사나이가 칼을 뽑았으면 썩은 호박이라도 찔러야지. A man shouldn't pull a knife[sword] unless he intends to use it.
+
+서둘러라. 달아나라. Pull foot.
+
+자리를 옮기자. Let's pull up stakes.
+
+제가 인터넷에 올린 글이 조회수가 300을 넘어요. More than 300 people pulled up my message.
+
+<push>
+
+나는 오십이 다 되어갑니다. I'm pushing fifty.
+
+<put>
+
+살 좀 찌셔야 되겠네요. You need to put some meat on your bones.
+
+그 사람, 쫓아버려! Put him off!
+
+그것 때문에 파티의 흥이 깨졌어요. That was really put a damper on the party.
+
+그것을 어떻게 표현하면 좋을지 모르겠습니다. I don't know how to put it.
+
+그는 실언을 했다. He put his foot in his mouth.
+
+그런 건 감수해야죠. We just have to put up with it.
+
+그렇지만 너무 낙심하시지 마세요. Just don't put yourself down so much.
+
+나는 돈벌이를 노리고 있다. I'm putting out for money.
+
+나를 난처하게 만들지 말아. Don't put me in a spot.
+
+넌 이제 선생님한테 찍히겠다. You'll be put on the blacklist.
+
+네가 한 말에 책임을 져. Put your money where your mouth is.
+
+단호하게 요구, 행동하겠습니다. I put my foot down.
+
+당신 또 삐졌네요. You're put out again.
+
+당신은 늘 제게 모든 걸 뒤집어씌우는군요. You're putting all the blame on me.
+
+당신은 먹는 게 다 어디로 가요? Where do you put all that?
+
+당신은 정우성 뺨치게 잘 생겼네요. Your looks put Chung, U-sung to shame.
+
+더 이상은 거론하지 않는다. Put the lid on it.
+
+사정이 딱하군요. You put me on a spot.
+
+외상으로 해주셔요. Put it on my tab.
+
+우리는 원수를 갚아야한다. We have to put it across.
+
+이렇게 이야기해보자. Let me put it this way.
+
+입장 바꿔 생각해봐라. Put yourself in my shoes[place].
+
+적반하장. To put the cart before the horse.
+
+초콜릿은 나로 하여금 식욕을 잃게 해요. Chocolate puts me off.
+
+하지만 저는 그 모든 걸 엄마 탓으로 돌릴 수 없어요. But I can't put it all on my mother.
+
+힘 좀 써다오. Please put in a word for me.
+
+<quit>
+
+쓸데없는 걱정 좀 그만 둬. Quit being a worry-wart.
+
+<rain>
+
+밖에 비가 그렇게 많이 오고 있나요? Is it raining that hard out?
+
+비가 오락가락하고 있습니다. It rains on and off.
+
+<raise>
+
+용돈 좀 올려 주세요. Please raise my allowance.
+
+<rake>
+
+잔머리 굴리지 마세요. 그 사람은 당신보다 한 수 위예요. Stop raking your brain. He is always one step ahead of you.
+
+<reach>
+
+그는 항상 꿈만 먹고살아. He's always reaching for the moon.
+
+우리는 연봉협상에서 실패했어. We couldn't reach an agreement on salary.
+
+<read>
+
+너 너무 과민반응 보이지마. You're reading too much into it.
+
+속뜻을 생각해 봐야겠어요. I'd better read between the lines.
+
+<recap>
+
+요약 정리해보자. Let's recap.
+
+<recede>
+
+나는 머리가 벗어진다. My hair line is receding.
+
+<recognize>
+
+안경을 쓰니 잘 못 알아보겠어요. I hardly recognize you with those glasses.
+
+<refresh>
+
+그러고 보니 기억이 나네. That refreshes my memory.
+
+<refuse>
+
+딱 잘라 거절하고 싶었지만 정 때문에 어쩔 수 없었다. I wanted to flatly refuse, but my heart wouldn't let me.
+
+<regret>
+
+이러면 후회하실 텐데요. You are going to regret this.
+
+<relate>
+
+제게는 남 얘기 같지 않아요. I can relate to that.
+
+<relax>
+
+푹 쉬는데는 이보다 더 좋은 것이 없지요. No better way to relax.
+
+<relieve>
+
+해장하러 갑시다. Let's get something to relieve our hangover.
+
+<relocate>
+
+근무지가 옮겨져도 괜찮으시겠습니까? Are you willing to relocate?
+
+<remain>
+
+메일로 연락은 취할 수 있습니다. I'll remain wired.
+
+<remind>
+
+깜빡 잊을 뻔했군. That reminds me.
+
+<repeat>
+
+온고이지신. History repeats itself./ History is the best policy.
+
+<report>
+
+그분은 지금 결재중입니다. He is reporting to his supervisor.
+
+<request>
+
+한달 간 휴가를 신청하고 싶습니다. I'd like to request a leave of absence for a month.
+
+<resolve>
+
+이 문제는 짚고 넘어가야 합니다. We must resolve this issue.
+
+<rest>
+
+아이가 대지의 안식처에서 고이 잠들다. The child rests upon the lap of the earth.
+
+<reverse>
+
+이 두 단어의 위치가 바뀌어야 합니다. The order of these two words here in the second sentence should be reversed.
+
+<ride>
+
+귀찮게 굴지 말아. Don't ride me.
+
+길이 험하군요! The country rides hard!
+
+음주 운전자가 모는 차를 타느니 내가 운전하고 말지. Before I'll ride with a drunk, I'll drive myself.
+
+<ring>
+
+계산 좀 해주세요. Could you ring it up for me?
+
+이름은 생각나는데 얼굴이 잘 떠오르지 않네. The name rings a bell, but I can't place the face.
+
+제 전화통이 불나고 있어요. My phone's ringing off the hook.
+
+합계가 얼마지요? What does it ring up to?
+
+<rise>
+
+어떤 사람은 죄악으로 출세하고 어떤 사람은 덕으로 몰락한다. Some rise by sin, and some by virtue fall.
+
+<risk>
+
+모험을 걸어 보라. Risk it.
+
+<rob>
+
+여기서 꿔서 저기 빚 갚고 저기서 꿔서 여기 빚 갚고 있지. I rob Peter to pay Paul.
+
+<rock>
+
+긁어 부스럼 만들지 마세요.  Don't rock the boat./ Don't shake things up.
+
+나는 풍파를 일으키지 않았어요. I didn't rock the boat.
+
+<roll>
+
+더러워도 꾹 참아. Just roll with the punches.
+
+<romp>
+
+어떻게 그렇게 쉽게 이겼어요? How did you romp home?
+
+<root>
+
+나는 약자 편을 들고 싶어. I'd like to root for the underdog.
+
+너는 어느 팀을 응원하니? Which team are you rooting for?
+
+<rub>
+
+그녀는 정말 내 신경을 건드렸어. She really rubbed me the wrong way.
+
+나는 자네 기분을 건드릴 마음이 없네. I don't want to rub you the wrong way.
+
+불난 집에 부채질하지 말라. Do not rub it in.
+
+자다가 남의 다리 긁다. Rub the wrong back.
+
+<run>
+
+그 애들이 저를 아주 괴롭히고 있어요. They have been running me down.
+
+기가 막혀 말이 안나오는 군. I ran out of words.
+
+나는 네 머릿결을 쓰다듬어 주고 싶어. I want you to run my fingers through your hair.
+
+내 인내심도 극에 달하고 있어요. My patience is running out.
+
+시간이 거의 다 되어 가는 데요. Time is running out./ The sands are running out.
+
+신호를 무시하고 달리다가 경찰에 걸리고 말았어요. The police caught me running a red light.
+
+심부름 갈 것이 좀 있다고 들었거든요. I was told to run some errands.
+
+앞으로 살아갈 날이 막막하구나. What a terrible time to run out.
+
+어때, 자네 차 잘 굴러? How is she running?
+
+참는 데도 한계가 있어. I'm running out of patience.
+
+천재성은 우리 집안의 유전이에요. Genius runs in my family.
+
+호떡집에 불났다. Running around like a chicken with its head cut off.
+
+회의 가는 도중 전철에서 옛 동료 몇을 우연히 만났다. On the way to the conference, we ran into some of our old coworkers on the train.
+
+<rush>
+
+그의 얼굴이 빨개졌다. Blood rushed to his face.
+
+보채지 좀 말아요. Stop rushing me.
+
+얼른 가 봐야겠다. I must rush off.
+
+하룻강아지 범 무서운 줄 모른다. Fools rush in where angels fear to tread.
+
+<save>
+
+물에 빠진 사람 구해 놓으니까 내 봇짐 달라한다. Save a stranger from the sea and he will turn your enemy.
+
+성가시지 않겠다. It saves the trouble.
+
+<say>
+
+괜한 말을 했군요. I shouldn't have said that.
+
+그녀는 ‘흥’이라고 했지. She said phooey.
+
+그렇고 말고. You can say that again.
+
+글쎄, 잘 모르겠는걸. I can't say.
+
+꼭 가야 할 것 없다. I won't say you ought to.
+
+난들 어쩌겠어. What can I say.
+
+낫 놓고 기역자도 모른다. He cannot say B to a battledore.
+
+내가 괜한 말을 했나 봐요. I shouldn't have said anything.
+
+내가 말한 거지. Says me.
+
+내가 안 된다고 하면 어떻게 할 거예요? What if I said no?/ What would you do if I said no?
+
+누가 하는 이야기야? Says who?
+
+당신 말이 옳아요. You can say that again.
+
+됐으면 그만 이라고 하세요. Say when.
+
+뭐라고 써 있는데요? What does it say?
+
+설마가 사람 잡는다. Saying never can ruin a man./ Never say never.
+
+속이 다 시원하네요. I'm glad I finally said that.
+
+우린 눈빛만 봐도 통해. We don't have to say anything to know what each other's feeling.
+
+인사나 드릴까 해서 들렸지요. I came by to just say hi.
+
+자, 글쎄, 야. Say.
+
+정말이야. You don't say.
+
+제가 여기서 더 이상 일할 수 없단 말씀인가요? Are you saying that I can't work here anymore?
+
+주차는 불법이라고 쓴 차가 없잖아요. There is no sign which says parking is illegal.
+
+한 번 말했으면 딴소리하지 마라. If you say yes, stay yes.
+
+한 입으로 두말하기 없기예요. Don't say one thing and mean another.
+
+할 말이 있고 안 할 말이 있는 거야. Some things shouldn't be said.
+
+항복해! Say uncle!
+
+<scald>
+
+커피를 마시다 입이 헐었다. I scalded my mouth in drinking hot coffee.
+
+<scorch>
+
+아침부터 푹푹 찌더라구. It's been scorching hot since the morning.
+
+<scram>
+
+어서 뺑소니치자. Let's scram.
+
+<scrap>
+
+그들은 그 계획을 무산시켰습니다. They scrapped the plan.
+
+<scratch>
+
+수박 겉 핥기 식이에요. It's like scratching the surface.
+
+오는 정이 있어야 가는 정이 있다. Scratch my back and I will scratch yours.
+
+<screw>
+
+난 정말 재수도 꽤나 없는 것 같아. I guess I'm just screwed.
+
+정말 제정신이 아니겠군요. You must have really screwed up.
+
+<search>
+
+난 몰라요. Search me.
+
+<season>
+
+마늘을 넣어 맛을 내면 돼요. Season it with garlic.
+
+<see>
+
+그가 주위에서 보이지 않으니 어찌된 일이죠? How come I don't see him around?
+
+그는 삐딱한 사람이다. He can't see things straight.
+
+그들은 항상 의견이 달라. They never see eye to eye.
+
+나 화났어! I'm seeing red!
+
+나무만 보고 숲을 보지 못한다. One cannot see the wood for the trees.
+
+당신 본색이 드러났군요. I see your true colors.
+
+당신 속을 훤히 들여다 볼 수 있어요! I can see right through you!
+
+뭘 하고 있는지 보면 몰라요? Can't you see what I'm doing?
+
+애들 앞에서는 냉수도 못 마시겠네. Monkeys see, Monkeys do.
+
+오래 살고 볼일이군요. I never thought I'd live to see the day.
+
+오래 살다 보니 별일을 다 보네. This isn't something you see[run across] every day.
+
+왜 나는 네가 우는 것을 한 번도 본적이 없지? How come I never see you cry?
+
+왜 저를 보자고 하셨죠? What did you want to see me about?
+
+이 정도는 아무 것도 아닙니다. You haven't seen anything yet.
+
+이런 일이 생길 줄 알았어요. I saw this coming.
+
+저도 집에선 귀염 받는다구요. I'm seen and heard pretty much.
+
+제가 언제 빈 말 하는 것 보셨어요? Have you ever seen me go back on my word?
+
+지금도 그녀의 얼굴이 보이는 것 같다. I seem to see her still.
+
+친구를 바래다주고 오는 길이에요. I was seeing my friend off.
+
+<seem>
+
+당신은 사교성이 좋은 것 같군요. You seem like a real people person./ You seem to get along with other very well./ You have a really friendly personality.
+
+<sell>
+
+그 잡지는 날개 돋친 듯 팔려요. That magazine is selling like hot cakes.
+
+낱개로 살 수 있습니까? Are these sold separately?/ Can these be bought separately?/ Are these sold individually?
+
+밑지고 팝니다. I'm selling at a loss.
+
+<send>
+
+심부름을 갔다가 허탕만 쳤다. They sent me on a fool's errand.
+
+<separate>
+
+쓰레기를 분리 수거해 주세요. Please separate your garbage.
+
+<serve>
+
+거봐라, 고소하다. It serves you right.
+
+몇 인분 드릴까요? How many servings?
+
+샐러드도 같이 나오나요? Is that served with a salad?/ Does that come with a salad?
+
+<set>
+
+당신은 우리를 속였습니다. You set us up.
+
+삐삐를 진동으로 바꾸어 주세요. Set your pagers on silent.
+
+이 통장에서 자동이체 되도록 해주세요. Can you set it up so that payments are taken out of my account automatically?
+
+<shake>
+
+사지가 멀쩡한 녀석이 그러고 있니! Shake a leg!
+
+<shape>
+
+그들이 밥그릇 싸움을 시작했구먼. A turf war is shaping up among them.
+
+이제 좀 체제가 잡혀가고 있습니다. It's shaping up.
+
+<share>
+
+내게 그런 걸 알려 줘서 고마워요. Thank you for sharing that with me.
+
+우산 같이 쓰실래요? Would you like to share this umbrella?/ I'd be glad to share my umbrella with you./ I can share this umbrella with you.
+
+<shave>
+
+내가 술을 입에 한번만 더 대면 성을 간다. If I ever take another drink, I'll shave my head.
+
+<shift>
+
+우리 이제 본격적으로 시작합시다. We're shifting into high gear.
+
+<shine>
+
+태양은 어디나 똑같이 비친다. The sun shines upon all alike.
+
+<shirk>
+
+책임을 남에게 전가하지마! Don't shirk your responsibilities.
+
+<shit>
+
+당연한 걸 가지고 뭐 그리 대단한 것처럼 그래? Does a bear shit in the woods?
+
+<shoot>
+
+그는 즉흥적인 데가 있어. He just shoots from the hip.
+
+야단났군! Shoot!
+
+제기랄! 이런! Shoot!
+
+<show>
+
+선생은 권위가 있어야 한다. A teacher must show his authority.
+
+원하신다면 제가 주위를 구경시켜 드리지요. I wouldn't mind showing you around.
+
+<shower>
+
+공짜로 상품을 무더기로 주더라니까. They showered me with freebies!
+
+<shy>
+
+저는 나이트클럽에 가는걸 좀 피하는 편입니다. I tend to shy away from nightclub.
+
+<sign>
+
+감히 어떻게 제가 사인을 하지 않을 수 있겠습니까? How could I not sign it?
+
+자매결연학교를 맺다. We sign the sister school agreement.
+
+<simmer>
+
+아지랑이가 피어오르고 있습니다. The air is shimmering with heat haze.
+
+조용히 해! 침착해라! Simmer down!
+
+<sing>
+
+그 자식 나불나불 잘도 부는구먼. He sings like a canary.
+
+그는 입에 침이 마르도록 그녀를 칭찬하더군요. He was singing her praises.
+
+듣기 싫은 소리 작작해. Don't sing me the same old song.
+
+서당개 삼 년에 풍월 한다. The sparrow near a school sings the primer.
+
+이제 끝났어. Fat lady sang a song./ It's a wrap.
+
+<sit>
+
+가만히 있지 않겠다. I won't sit back.
+
+굿이나 보고 떡이나 먹어라. Sit back and enjoy the ride.
+
+그는 양다리를 걸치고 있다. He's sitting on both sides of the fence./ He's two-timing them.
+
+나는 그이와 식사했어. I sat at the board with him.
+
+<skate>
+
+살얼음을 밟는 기분이에요. I feel like I'm skating on thin ice.
+
+<skin>
+
+너 거기에 가기만 하면 가만 안 둘 거야. I'll skin you alive if you go there.
+
+<skip>
+
+가슴이 철렁했어요. My heart skipped a beat.
+
+그만 두시오! Skip it!
+
+난 한끼도 못 걸러. I can't skip even a meat.
+
+자세한 것은 그만 두고 요점만 말하게. Skip the long details and give me the bottom line!
+
+<skyrocket>
+
+그들 인기가 하늘로 치솟는군. Their popularity is skyrocketing./ They're really hot./ They keep climbing the charts.
+
+<sleep>
+
+세상 모르고 잤어. I slept like a log.
+
+엎치락뒤치락 잠을 제대로 못 잤어. I couldn't sleep tight tossing and turning.
+
+잘 생각해 봐. Sleep on it.
+
+좀 더 생각해봅시다. Let me sleep on it, please.
+
+<slide>
+
+이번 한 번만 봐줘. Let it slide this time.
+
+<slip>
+
+깜박 했어요. It just slipped my mind.
+
+얼떨결에 말이 나왔어요. It slipped out.
+
+<slipshod>
+
+그는 주먹구구로 일을 처리합니다. He does slipshod work.
+
+<slouch>
+
+어깨 좀 펴고 다녀요. Don't slouch.
+
+<smell>
+
+고약한 냄새가 나는군요. It smells awful.
+
+수상한 낌새라도 있냐? You smell a rat or something?
+
+<smile>
+
+그 사람 입이 귀에 걸렸어요. He's smiling from ear to ear.
+
+봉사 문고리 잡는다. Lady luck will smile on anyone.
+
+<snap>
+
+그들은 5연패에서 벗어났다. They snapped their five-game losing streak.
+
+<sneak>
+
+네가 사무실 주변을 배회하다가 서류들을 복사해간 것 같은데. It appears that you have been sneaking around the office and photocopying documents.
+
+<sniffle>
+
+훌쩍거리지 말고 코 풀어요. Stop sniffling and blow your nose.
+
+<soak>
+
+내 귀에 쏙쏙 들어온다. It's soaking into my head.
+
+<sound>
+
+그 여자 전화목소리가 상당히 괜찮더군요. She sounded great on the phone.
+
+미스터 김, 목소리가 풀이 죽어있군요. Hi, Mr. Kim. You sound a little down.
+
+<spark>
+
+그의 발언이 큰 논쟁을 불러일으켰습니다. His remarks sparked a huge controversy.
+
+<speak>
+
+어중간한 영어로 말하더군. He spoke in broken English.
+
+자화자찬하는군요. You speak very highly of yourself.
+
+<speed>
+
+과속하셨습니다! You were speeding.
+
+<spin>
+
+그는 그저 다람쥐 쳇바퀴 돌 듯 합니다. He's just spinning his wheels.
+
+<spit>
+
+(담아두지만 말고) 할 말은 하세요. Spit it out.
+
+내 버스를 뭘로 보는 거야. Don't spit on my bus.
+
+<split>
+
+너는 항상 토를 다는구나. You're always splitting hairs.
+
+<splurge>
+
+걘 낭비벽이 너무 심해. She splurged on clothes.
+
+<spoil>
+
+분위기 깨지 마세요. Don't spoil the fun.
+
+이것은 당신의 식욕을 없애줄 것이다. This will spoil your appetite.
+
+<sponge>
+
+전 눈칫밥을 먹고 있습니다. I feel uncomfortable to sponge off my parents.
+
+<spook>
+
+우리를 겁주는 건가요? Are you spooking out on us?
+
+<spoon-feed>
+
+그는 학생들을 과보호한다. He spoon-feeds his student.
+
+한두 살 먹은 어린앤 줄 아세요? You don't have to spoon-feed them.
+
+<spot>
+
+5점 접어 줄 게요. I'll even spot you five points.
+
+<spout>
+
+그는 정치적 발언을 끊임없이 내뱉었어. He was spouting political rhetoric.
+
+<stab>
+
+믿는 도끼에 발등 찍힌다. Stabbed in the back.
+
+<stall>
+
+내 차는 시동이 자주 꺼져요. My car always stalls.
+
+<stand>
+
+가망이 없다. Stand no show.
+
+나는 바람맞았다. She stood me up.
+
+난 절대 안 넘어간다. I'm standing my ground.
+
+맥주 한 병을 살까요? May I stand you a bottle of beer?
+
+어디에 내놓아도 손색이 없습니다. It stands up to comparison.
+
+오장육부가 뒤집힌다. I can't stand it.
+
+직장 구할 가능성이 높아요. You stand a good chance of getting the job.
+
+<start>
+
+나는 차를 마시며 하루를 시작한다. I start my day by having tea.
+
+당신 행동 때문에 우리 회사 소문이 떠돌고 있잖아요. Your behavior can start rumors about our company.
+
+아이가 옹알이를 하다. The baby is starting to babble./ The baby is starting to mimic.
+
+용두사미. Starts off with a bang and ends with a whimper.
+
+이건 어제오늘 일이 아니에요. This didn't start yesterday.
+
+<stay>
+
+이젠 그만 화 풀어요. Don't stay angry.
+
+저는 단지 그 문제에 말려들지 않으려고 애를 쓰고 있는 중입니다. I'm just trying to stay out of everything.
+
+<steam>
+
+흥분하지 마라! Don't steam!
+
+<step>
+
+그들은 자율적으로 퇴진한 게 아니란 말씀입니까? Are you trying to say that they didn't step down voluntarily?
+
+빨리 해라! Step on it!
+
+<stick>
+
+그 일을 포기하지 말고 계속해요. Stick with it.
+
+기다리세요. Stick around.
+
+내 머리가 까치머리가 됐어요. My hair sticks up in the morning./ I have helmet hair.
+
+삼천포로 빠지지 마. Stick to the topic.
+
+왜 나를 위해서 변호하지 않는 거요? Why don't you stick up for me?
+
+일을 빨리빨리 해라. Don't let flies stick to your heels.
+
+자기의 본분을 지켜야 한다. The cobbler should stick to his last.
+
+전 혀를 내미는 버릇이 있어요. I have a habit of sticking my tongue out.
+
+제가 당신 곁에 있어 드릴게요. I'll stick by you.
+
+<stop>
+
+결정은 내가 합니다. The buck stops here.
+
+사재기는 하지 말아야 합니다. We'd better stop panic buying.
+
+이 엘리베이터는 홀수 층만 운행합니다. This elevator stops on odd number floors only.
+
+저 좀 누가 말려 주세요. Stop me!/ I wish somebody could stop me./ Somebody please stop her.
+
+저의 집에 한 번 놀러 오세요. Please stop by my house sometime./ Why don't you drop by when you have time?
+
+지난번 어디까지 했지요? Where did we stop last time?
+
+<straighten>
+
+그럼, 정말로 그가 정신을 차렸단 말인가요? So, you mean he's really straightened out?
+
+<stretch>
+
+상상의 나래를 펼쳐라. Stretch your imagination
+
+<strike>
+
+서울의 첫 인상이 어때요? How does Seoul strike you?
+
+오늘 장사 공쳤어요. I struck out today.
+
+<stuff>
+
+코가 막혀서 호흡에 지장이 있어요. My nose is stuffed up so I have difficulty breathing.
+
+<subject>
+
+모든 출입 차량 검사입니다. All vehicles subject to inspection.
+
+<succeed>
+
+경제만 잘 끌고 나가면 되는 거야. Nothing succeeds like economic success.
+
+구더기 무서워서 장 못 담그랴. You can't succeed if you are afraid of failure./ You have to get your hands dirty to get the work done.
+
+칠전팔기. If at first you don't succeed, try, try again.
+
+<suck>
+
+그래서 그가 마이크에게 아부를 해 왔던 거구나. No wonder he's been sucking up to Mike.
+
+<sue>
+
+내 배 째! Sue me!
+
+<suffice>
+
+싫으면 그냥 싫다고 말해요. 괜찮아요. A simple no will suffice.
+
+<sugarcoat>
+
+사탕발림하지 않고 있는 그대로 말하겠다. I'm not going to sugarcoat this.
+
+<suit>
+
+마음대로 하시오. Suit yourself.
+
+<support>
+
+가족은 어떻게 부양하실 겁니까? How are you going to support your family?
+
+<suppose>
+
+내가 그걸 어떻게 알았겠어요. How was I supposed to know?
+
+<surf>
+
+인터넷 항해를 했어요. I surfed through the net.
+
+<surprise>
+
+그럴지도 모릅니다. I shouldn't be surprised.
+
+<survive>
+
+괜찮아요, 견딜만해요. I'll survive.
+
+<swamp>
+
+일에 쫓기고 있었어요. I've been swamped with work.
+
+책임감 때문에 어깨가 무겁습니다. I'm swamped with responsibilities./ My shoulders are heavy with responsibilities./ My shoulders are weighed down by obligations.
+
+<sweat>
+
+그 400달러에 대해선 신경 쓰지 마세요. Don't sweat the four hundred dollars.
+
+<sweep>
+
+이제까지 그것은 비밀에 부쳐져왔다. It's been swept under the rug.
+
+<swell>
+
+멋있구나. Swell.
+
+<table>
+
+그건 보류합시다. Let's table them.
+
+<tag>
+
+나를 졸졸 따라다니지 말아. Don't tag at my heels.
+
+무작정 따라 나섰어요. I just tagged along.
+
+<tail>
+
+날 좀 그만 따라다녀! Stop tailing me!
+
+<take>
+
+간단하게 뭐 좀 먹을까? Let's take a light meal somewhere./ How about a quick bite?
+
+감정적으로 되지 말라. Don't take it personally.
+
+고깝게 생각하지마. Don't take it too hard.
+
+그 사람 지금 휴학중입니다. He is taking a leave of absence for a year from school.
+
+그는 눈치가 없다. He can't take a hint./ He is slow at taking hints.
+
+그는 당신에게 화풀이를 하고 있는 겁니다. He's taking it out on you.
+
+금방 갈 거예요. It shouldn't take long.
+
+기가 차다, 질리다, 잘하는 짓이다! You take the cake.
+
+꺼져 버려! Take a powder!
+
+나 무시하지마! Are you taking the piss?/ Are you taking the piss out of me?/ Are you taking the Mickey out of me?/ Are you taking the Mickey?/ Are you making fun of me?/ Are you pulling my leg?/ Are you kidding?
+
+나 보험 들었어. I took out insurance policies.
+
+나는 그 말을 에누리해서 듣겠다. I'll take that with a grain of salt.
+
+나는 그의 흉내를 내고 싶지 않다. I don't want to take a leaf out of his book.
+
+나는 내일 월차를 냈어요. I'm taking the day off tomorrow.
+
+나는 밤 비행기를 탔어요. I took the red-eye flight.
+
+나는 아주 드물게 술을 조금 마신다. Once in a blue moon, I take little wine.
+
+나는 언급을 회피하겠다. I'll take the fifth.
+
+나도 어디선가 들은 얘기인데, 알아서 새겨들어. It's just something I heard, take it for what it is worth.
+
+나중에 하지요. I'll take a rain check.
+
+나한테 화풀이하지 마세요. Don't take it out on me.
+
+날 뭘로 생각하는 거야? What do you take me for?
+
+남의 말을 가로막지 마십시오. Don't take me up short.
+
+내 말 한 번 믿어봐. Take it from me./ Trust me.
+
+내 말대로 해봐. Just take my advice and do it.
+
+내 말을 믿어 달라. Take my word for it.
+
+내일 걱정은 내일 해도 되잖아요. Tomorrow will take care of itself.
+
+넌 날 놀라게 만들었어. You took my breath away.
+
+네 일에 관여하고 싶지 않아. That's your business to take care of.
+
+네, 알아서 해오겠습니다. I'll take care of it for you, sir.
+
+네가 한 말 당장 취소해! 아니면 너 가만 안 나둬! Take back what you've said or else!
+
+답을 다 찍었어요. I took a guess on all the answers.
+
+당신 말을 믿겠어요. I'll take your word for it.
+
+당신은 입장을 밝혀야 했어요. You had to take a stand.
+
+돈 놓고 돈 먹기. It takes money to make money.
+
+돈을 쉽게 벌 수 있다는 그의 약속에 감쪽같이 속았다. I was taken in by his promise of easy money.
+
+메모 좀 잘 해 오세요. Be sure to take good notes.
+
+그는 몸을 사린다. He doesn't take chances[risks].
+
+뭘 좀 드셨나요? Have you taken anything for it?
+
+바쁠수록 돌아가라. The busier you are, the more you need to take time to do things right.
+
+방금 제가 그 말을 하려던 참이에요. You took the words out of my mouth.
+
+사돈 남 말하고 있네. It takes one to know one.
+
+사진 한 장 같이 찍으시겠습니까? Would you mind taking a picture with me?/  Would you take a picture with me?
+
+상반신만 찍어 주세요. Just take it from the waist up, please.
+
+세상일을 되는대로 받아 들여라. Take things as they come.
+
+쉬엄쉬엄 살아라. Take one day at a time.
+
+시간을 너무 빼앗지 않았는지요. I'm afraid I've taken too much of your time.
+
+싫으면 관둬. Take it or leave it.
+
+아무래도 우리 당한 거 같아. I think we've been taken for a ride.
+
+양보다 질로 나가야겠다. I'd better take quality over quantity./ I take quality first, quantity second.
+
+어떠한 것들이 들더라도 하겠다. Whatever it takes.
+
+어떠한 것들이 들더라도 하겠다. Whatever it takes.
+
+왜 그렇게 오래 걸렸지요? What took you so long?
+
+우리 아이는 낯을 좀 가려요. Our child doesn't take to strangers.
+
+음식이 남으면 내일 점심으로 싸 가면 돼요. If you have food left over, you may take it for lunch tomorrow.
+
+이 지도상에서 부산으로 가려면 어느 고속도로를 타야하는 지 가르쳐 주시겠어요? Please show me on this map which highway I need to take to get to Pusan?
+
+이 참에 알아두세요. Take this opportunity to learn it.
+
+자연이 도시개발계획에게 자리를 내주었다. Natural is taking a backseat to city development.
+
+저는 농담도 못하나요? Can't you take a joke?
+
+저는 조퇴를 했어요. I took the rest of the day off.
+
+저는 퇴근합니다. I'm taking the rest of the day off.
+
+저희 뒷바라지하시느라 힘드시죠? Taking care of us must be hard.
+
+제가 오늘 신경 좀 썼어요. I took a little extra time getting ready today.
+
+존, 의사록을 작성해 주시겠습니까? John, could you take the minutes, please?
+
+천천히 구경하시고 찾는 물건이 있으면 말해주세요. Take your time and let me know if you need any help.
+
+코트는 이리 주시겠어요? May I take your coat?
+
+필요한 것은 뭐든지. Whatever it takes.
+
+하나를 보면 열을 안다. It takes only one rotten apple to spoil the whole bunch.
+
+한 우물만 파세요. Take one thing at a time.
+
+휴가를 내어 거기에 가겠습니다. I'll take sometime off to[and〕go there.
+
+<talk>
+
+그 친구는 허튼 소리를 잘 해요. He's talking through his hat.
+
+그럼요, 좋고 말고요. Now, you're talking!
+
+날 설득시켜 보세요. Talk me into it./ Convince me.
+
+당신은 항상 아는 척 하는군. You're always talking like a book.
+
+당신을 염두에 두고 한 말이 아니었어요. I wasn't talking about you./ That wasn't meant for you./ I wasn't knocking you.
+
+말대꾸하는데 이제 진절머리가 난다. I am so sick of you talking back to me.
+
+말이 많을 게다. People will talk.
+
+뭐라구? 시시한 소리 작작해. How much? Don't talk such rot.
+
+바라던 바이네. You talked me into it.
+
+아빤 맨날 내가 어른인 것처럼 말씀하신다. He's always talking man-to-man with me.
+
+알아듣겠어? Am I talking to myself?
+
+이제야 말이 통하는구나. Now you're talking.
+
+제 조카는 잠꼬대를 가끔 해요. My nephew talks in his sleep sometimes.
+
+지가 무슨 상류층이라고 말투가 그래? He always talks posh.
+
+허풍 떨지마. Don't talk the tall story.
+
+<tap>
+
+내 통장에 잔고가 없다. I'm all tapped out.
+
+<taste>
+
+맛이 좀 이상해. It tastes funny.
+
+<teach>
+
+공자 앞에서 문자쓰지 마라. To teach a fish how to swim. / Don't teach your grandmother to suck eggs.
+
+내가 본때를 보여줄게요. I'll teach you a lesson.
+
+너 두고보자! I'm gonna teach you a lesson./ Paybacks are hell./ We'll see how things turn out in the end.
+
+<tell>
+
+거 보라고, 내 말이 맞잖아. What did I tell you.
+
+거봐, 그럴 줄 알았다니까. You see, I told you so./ I knew that you'd happen./ I told you in advance.
+
+그러게 말이야! Tell me about it!
+
+그렇게 보이나요? Can you tell?
+
+길고 짧은 것은 대 보아야 안다. It's hard to tell the difference only by their appearances./ Don't judge a book by its cover.
+
+나이는 못 속인다니까. Age will tell./ Age never lies.
+
+나한테 아부하라고 말하지 마. Don't tell me to dance.
+
+보면 몰라요? Can't you tell?
+
+저한테 일찍이 그렇게 말한 사람은 없었어요. No one has ever told me that before.
+
+케케묵은 소리 작작 해! Tell me news!
+
+한 번 말하면 알아들어야지. If I've told you once, I've told you a hundred times.
+
+<thank>
+
+너무 고마워서 어떻게 감사드려야할지 모르겠어요. I can never thank you enough.
+
+신세 크게 졌습니다. Thank you for your hospitality.
+
+알려줘서 고마워. Thanks for the tip.
+
+언젠가는 나한테 고맙다고 할거다. Someday you'll thank me for this.
+
+잘됐어요. Thank goodness.
+
+<thin>
+
+머리 좀 솎아 주세요. Thin it out a little, please.
+
+<think>
+
+그릇이 작은놈은 생각도 졸렬하다. Small mind thinks small.
+
+별것도 아니 걸 가지고 그래, 됐어. Think nothing of it.
+
+불우이웃 돕기 한 셈 쳐라. Think of it as already given to charity./ Think of it as a gift to charity./ See it as a donation to the poor.
+
+살다 보니 별꼴 다 보겠네. I never thought I'd live to see this happen.
+
+생각이 통했군요. Great minds think alike.
+
+야, 준비성 하나 끝내주는데. Boy, you thought of everything.
+
+그는 여자 꼬시는 데만 정신을 쏟는다. He never thinks about anything except chasing women.
+
+<throw>
+
+계속 우겨대면 없는 호랑이도 만들어낸다. Throw dirt enough, and some will stick.
+
+고양이 세수하다 I threw some waters on my face./ I quickly washed my face.
+
+다시 한 번 더하면 혼내주겠어. I'll throw the book at you if you do it again.
+
+여지껏 함께 산전수전 다 겪었는데, 이제 와서 그것을 헛되게 하지 말자. We've been through a lot together, so let's not throw it away.
+
+<tie>
+
+당장은 손을 뗄 겨를이 없네요. My hands are tied up at the moment.
+
+사장은 회의로 아침 내내 꼼짝달싹 못했다. The president was tied up all morning in a meeting.
+
+언제 결혼할 거예요? When are you going to tie the knot?
+
+<tip>
+
+존이 귀띔 해줬어. John tipped me off!
+
+<tire>
+
+엄마는 잔소리가 지겹지도 않아요? Mom, aren't you tired of nagging me?
+
+<touch>
+
+와, 만세! Touch down!
+
+제 발은 바닥에 닿을까말까 하다구요. My feet are hardly touching the ground.
+
+<toy>
+
+사람들의 감정을 가지고 장난치면 안돼. You can't toy with people's feelings.
+
+<track>
+
+오랜 학교 때 친구들을 찾아보고 싶어요. I want to track down my old school friends.
+
+<transfer>
+
+전화 돌려드리겠습니다. I'll transfer you./ I'll connect you.
+
+<tread>
+
+얕잡아 보지마! Don't tread[step] on us!/ Don't mess with us!
+
+<trip>
+
+그 점에 대해 걱정이 많았거든. I was tripping on it.
+
+춤 춰요! Let's trip it!
+
+하마터면 돌에 걸려 넘어질 뻔했다. I nearly tripped over the stone.
+
+<trouble>
+
+담뱃불 좀 빌릴까요? May I trouble you for a light?
+
+<try>
+
+괜히 폼 잡지마. Stop trying to act cool.
+
+그들은 시장을 독식하려 한다. They are trying to corner the market.
+
+그런 수는 쓰지 말아. Don't try any of your games.
+
+길고 짧은 것은 대 봐야 안다. You never know what you can do till you try.
+
+너 맞선 좀 볼래? Do you want to try a marriage interview?
+
+누굴 바보 멍청이로 아시나요? Who are you trying to fool?
+
+봐, 내가 괜히 까다롭게 굴려는 게 아냐. Look! I'm not trying to be difficult.
+
+오래 전부터 그럴려고 했어요. I have been trying for a long time.
+
+이것 좀 드실래요? Would you like to try some?
+
+잔머리 굴릴 생각 마! Don't even try to do something phony.
+
+전 당신 기운을 북돋아 주려고 했어요. I was trying to give you a boost.
+
+<tug>
+
+그 영화는 정말 심금을 울려. The movie tugged at my heartstrings.
+
+<turn>
+
+그 문제에 대해 모르는 척 하지 마세요. Don't turn a blind eye to the problem.
+
+그 여자는 외국인이라면 항상 경멸해. She always turns up her nose at foreigners.
+
+그녀는 정말 밥맛이다. She really turns me off.
+
+그는 그의 일에 만족 해 했다. He turned up his thumb.
+
+사촌이 논을 사면 배가 아프다. Turning green with envy.
+
+시끄러운 음악은 질색이다. Loud music turns me off.
+
+잘된 것만 인화해 주십시오. I want prints only of the exposures that turned out well.
+
+제 X-ray 결과가 어떻게 나왔나요? How did my X-ray turn out?
+
+<understand>
+
+그는 마음이 너그러운 사람입니다. He is understanding.
+
+그의 말이 머리에 쏙쏙 들어와요. He makes it so easy for me to understand.
+
+<unroll>
+
+극진히 모셔라. Please unroll the carpet.
+
+<use>
+
+그녀는 애교가 있다. She uses her girlish charm.
+
+당신은 항상 입에 담지 못할 말만하잖아요. You're always using foul language.
+
+전화 좀 빌려주세요. Let me use your telephone.
+
+제게는 뭐든지 쓸모가 있어요. I can use anything.
+
+<visit>
+
+가뭄에 콩 나듯 하다. They visit the orphanage once in a blue moon.
+
+<wait>
+
+(우선 순위 정할 때) 이건 나중에 해도 되요. It can wait.
+
+나는 너를 눈이 빠지게 기다렸는데. I waited and waited for you.
+
+두고 보자. Let's wait and see
+
+언젠가 크게 한몫 잡을 기회가 올 꺼야. I'm waiting for my big break.
+
+<walk>
+
+그는 날 무시해. He's walking all over me.
+
+그는 위험한 일을 하고 있어요. He's been walking on thin ice.
+
+나의 남편은 내 눈치를 보고 있다. My husband is walking on eggs shells around me.
+
+도서관에서 신발을 질질 끌고 다니지 마세요. Hush! Walk quietly.
+
+입장을 바꿔 생각해보세요. Walk a mile in my shoes./ Put yourself in my position.
+
+<want>
+
+그만 하면 만족할 줄 알아야지, 뭘 또 바래? Egg in your beer, what do you want?
+
+난 항상 그것을 원해요. I want twenty-four-seven.
+
+생각하기도 싫어요.  I don't even want to think about it./ I don't want it on my mind.
+
+이런 일 두 번 있을까봐 겁난다. I hope I don't want it again.
+
+<waste>
+
+난 관심 없으니까 그만해. I'm not interested so stop wasting your breath.
+
+말해봤자 소용없어요. Don't waste your breath.
+
+<watch>
+
+가게 좀 봐 주실 수 있겠어요? Can you watch the store for me?
+
+그냥 어깨 너머로 배웠어요. I just watched and learned.
+
+너나 잘해! Watch your own.
+
+말조심해! Watch your language!
+
+무슨 일이 있어도 꼭 봐야 돼. I have to watch it no matter what.
+
+유혹에 빠지지 않도록 조심해. Better watch and pray.
+
+함부로 말하지 말아요. Watch what you say./ Mind[Watch] your p's and q's.
+
+<water>
+
+이 포도주는 물에 탄 것입니다. This wine is watered down.
+
+<wear>
+
+그 집은 손질이 잘 안 된 것 같다. The house wears a neglected look.
+
+그녀는 두 가지 이상의 직업을 가지고 있다. She wears more than two hats.
+
+그녀는 자기 나이보다 젊어 보인다. She wears her years well.
+
+그럭저럭 하루해를 보내다. I have worn through the day.
+
+나는 집안의 가장이라구. I wear the pants at our house.
+
+너무 자주 찾아가서 싫어하지 않도록 해라. Don't wear out his welcome.
+
+<weasel>
+
+꽁무니를 슬슬 빼시는군요. Don't try to weasel out of it.
+
+<weigh>
+
+지금 당신의 마음을 괴롭히는 것이 무엇인지 알아요. I know what's weighing on your mind./ I know what's worrying you.
+
+<welcome>
+
+여기는 텃세가 심해요. Newcomers aren't welcomed here.
+
+<wet>
+
+계약이 맺어졌으니 한 잔 하자! Let's wet the deal!
+
+<whet>
+
+이것은 당신의 식욕을 돋궈줄 것이다. This will whet[pep up] your appetite.
+
+<whisper>
+
+왜들 그렇게 수군거리는 거죠? Why is everyone whispering?
+
+<win>
+
+그는 따 놓은 당상입니다. He is sure to win the award.
+
+사실은 져 준거죠? You let me win, didn't you?
+
+올해 공로상은 누가 받았나? Who won life-time achievement award this year?
+
+우리 팀이 역전승을 거뒀습니다. We won a losing game./ It was a came-from-behind win.
+
+일부러 져 준거지요? You let me win, didn't you?
+
+<wind>
+
+어떻게 이곳까지 오게 됐어요? How did you wind up here?
+
+여름이 한풀 꺾이고 있다. Summer is winding down.
+
+이러다 죽도 밥도 안되겠다. If we keep on like this, we'll wind up with nothing.
+
+<wire>
+
+급히 100만 달러만 송금해 줄 수 있니? Can you wire me ＄100 fast?
+
+<wish>
+
+그 사람 가버렸으면 좋겠는데. I wish his away.
+
+박세리의 9연승을 기원한다. I wish Pak 9 consecutive victories.
+
+<withdraw>
+
+회원에서 탈퇴하고 싶습니다. I want to withdraw from being a member.
+
+<wonder>
+
+당신이 그렇게 말한 것도 다 이유가 있었군요. No wonder you said that.
+
+조금도 이상할 것 없다. It is not to be wondered at.
+
+<work>
+
+그는 뼈 빠지게 일해. He's working his head off.
+
+그런 식으로는 안 될 거예요. It's not going to work.
+
+나에게는 그게 효과가 있어요! It works for me!
+
+눈 코 뜰 새 없이 일을 해야 합니다. I have to work my tail off.
+
+뭐 어떻게든 되겠죠. It will work out somehow.
+
+약 기운이 떨어졌어요. It doesn't work any longer./ It becomes ineffective./ It is beginning to wear off.
+
+어떻게든 되겠지. I'm sure it'll work out./ I'm not worried about it./ It'll all work out somehow.
+
+역시 내 예상 대로군. My sixth sense works well.
+
+일을 열심히 하기보다는 영리하게 해라. Work smarter, not harder.
+
+저 두 사람은 손발이 척척 맞아요. Those two work together so well.
+
+저의 아버지는 공무원입니다. My father works for the government.
+
+효과가 있던가요? Did it work?
+
+<worth>
+
+가 볼 만한 곳을 알고 계십니까? Do you know anywhere worth going?
+
+<wrap>
+
+그는 내 말이면 꼼짝 못해요. I have him wrapped around my finger.
+
+<write>
+
+여기에 낙서하지 마세요. Don't write your graffiti here.
+
+얼굴에 다 쓰여 있어, 다 아는 수가 있지. It's written all over your face, I have my ways.
+
+제 이름은 적어서 뭐 하시려고요? Why are you writing down my name?/ Why did you write down my name?/ What do you want with my name?
+
+필기체로 쓰지 마세요. Don't write in cursive, please.
+
+<zonk>
+
+필름이 끊겨서 무엇을 했는지 기억이 안나. I wondered what I did after zonked out[passed out, crashed, blacked out]
+
+<the others>
+
+가져가실 거예요? 아니면, 여기서 드실 거예요? Here or to go?
+
+가족이 많아. A long family.
+
+갈수록 태산. Out of frying pan into the fire.
+
+거의 그래요. Just about!
+
+걱정 말아요. No sweat.
+
+계란을 앞뒤로 익혀 주세요. Over hard please.
+
+계속 반복되는 거죠, 뭐. About the same, thanks.
+
+굉장히 좋구나! Fabulous!
+
+그는 정의의 사나이다. The guys in the white hats.
+
+그래서는 안 돼. You couldn't.
+
+그런 일은 절대 없을걸! Fat chance!
+
+그렇지만 할 수 있다면 해주실 거죠? But if you could, would you?
+
+김새는 군! What a kill-joy!
+
+나는 당신 곁에 머물러 있고 싶습니다. I just one of here beside you.
+
+나는 항상 운이 없는 놈이야! Just my luck!
+
+나쁘게 생각지 말아 주십시오. No hard feelings.
+
+나쁜 뜻으로 한 것은 아니네. No offence.
+
+난 더 이상 잘잘못을 따지고 싶지 않아요. Who-did-what-to-whom.
+
+내 눈에 흙이 들어가기 전에는 안 돼! Over my dead body!
+
+넌 어떠니? Yourself?
+
+누구겠어! Who else!
+
+다음 기회로 미루죠. Maybe some other time.
+
+더 드릴까요? How about second?
+
+뜻밖에 만나서 반가워! What a nice surprise!
+
+맙소사! Holy cow!
+
+멋있어! Awesome!
+
+멋져! 근사해! Way cool!
+
+무슨 일인데요? Regarding what?
+
+물건을 아껴 씁시다. Let's husband resources.
+
+물론. 뻔하지. Obviously.
+
+물론이지. What else?
+
+미인보다 노인이 우선. Age before beauty.
+
+반 푼수 집안 망친다. Too clever by half./ A little learning is a dangerous thing.
+
+배짱 한번 두둑하군. What nerve!
+
+분위기 바꾸게 자리 옮길까? How about change of scenery?
+
+빈대 잡으려다 초가삼간 태운다. Penny-wise, pound-foolish.
+
+사후 약방문. A day after the fair.
+
+상태가 아주 안 좋아. Not so hot.
+
+선생도 가지가지야. Teachers, teachers.
+
+세 살 버릇 여든까지 간다. Once a begger, always a begger.
+
+소문난 잔치 먹을 것이 없다. All noise and no substance.
+
+손대지 마세요! Hands off!
+
+승산이 있나? 어때? What price?
+
+시시해! Blah!
+
+신난다! Righteous!
+
+실속 없는 공론이다. All talk and no cider.
+
+십년공부 도로아미타불. All the pains for nothing.
+
+싼 게 비지떡. A penny-wise and pound-foolish, you know.
+
+아니오, 그 정반대요. No, the other way around.
+
+아니오, 천만에. Heavens no!
+
+아닌 밤중에 홍두깨. Like a bolt out of the blue.
+
+아아, 정말 전부가 환상적인 상황이지요. Oh, total red carpet situation.
+
+아주 좋습니다. Never better.
+
+알았어. 거짓말하지 마. Gotcha!
+
+약소하지만 받아줄래? A little something for you.
+
+어림도 없다. Not by the hair of chinny chin chin.
+
+어림없는 소리예요. Not in a million years.
+
+어머나! 저런! Dear!
+
+어이구! Boy!
+
+얼마나 예뻐요? How some?
+
+얼마나 예뻐요? How some?
+
+오늘은 있는데 내일은 없다. Here today, gone tomorrow.
+
+왜 하필 오늘이지? Why today of all days?
+
+외람된 말씀인데요. With all due respect.
+
+이 멍청아! You, goon!
+
+이 방법 밖에는 없다. No choice.
+
+이런 우연이 다 있군요. What a coincidence !
+
+이럴 수가. What a blue rose.
+
+이번엔 참으로 잘한 짓입니다. Way to go this time.
+
+이유가 있어야 하나요. Because just because.
+
+입술에 침이나 바르고 말해. Oh, sugar lips!
+
+재수 없군! What rotten luck!
+
+저도 마찬가지예요. Likewise.
+
+절돼 안 돼! Not on your life!
+
+정말 그렇게 되면 좋겠어요. Amen.
+
+정말 오래간만이다. Hi! Stranger!
+
+제자리에! 준비! 땅! On the marks! Get set! Go!
+
+조금은 그렇습니다. Kind of.
+
+좋아. Positive.
+
+지금은 빨간 불이야! The signal ways "Don't Walk!".
+
+참 귀찮게 하는 군. Not again!
+
+참 낭비가 심하군! What a spendthrift!
+
+참 잘했어요! That a girl!
+
+참 잘했어요. That a girl.
+
+최고다! Dynamite!
+
+필름 몇 장 짜리로 드릴까요? How many exposures?
+
+하여튼 너는 문제아야. You such a brat.
+
+한마디로 이야기할 수 없군요. Yes and no.
+
+휴, 다행이군요. Whew, what a relief!
+
+홈페이지:
+
+http://www.kjtrans.co.kr
+
+E-mail: kjtrans@yahoo.co.kr
+
+휴대폰: 016-607-8094
+
+광
+
+주
+
+번
+
+역

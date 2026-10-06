@@ -1,0 +1,1346 @@
+---
+title: "실용 영어 패턴_조동사와 익숙함표현 연습__English_pdf"
+category: "글로벌 어학 & 영어"
+type: "english_learning"
+project: "03_English Materials"
+notebook: "English_pdf"
+summary: "aliases: ['실용 영어 패턴 조동사와 익숙함 표현', 'Could Should Would and Used to Patterns']"
+decision_status: "accepted"
+source: "실용 영어 패턴_조동사와 익숙함표현 연습__English_pdf.md"
+source_path: "03_English Materials/English_pdf/실용 영어 패턴_조동사와 익숙함표현 연습__English_pdf.md"
+created: 2026-10-02
+converted: 2026-10-02
+status: canonical
+tags:
+  - 영어학습
+  - 영어회화
+aliases: []
+---
+
+> ---
+> title: "실용 영어 패턴: 조동사와 익숙함 표현"
+> aliases: ["실용 영어 패턴 조동사와 익숙함 표현", "Could Should Would and Used to Patterns"]
+> tags: [english, speaking, pattern, source, mcp-extracted]
+> type: document
+> ---
+>
+> # 🗣️ 실용 영어 패턴: 조동사와 익숙함 표현
+>
+> ## 📋 요약 (Summary)
+> - **주요 학습 테마**: 조동사(`Could`, `Should`, `Would`)의 다의적 뉘앙스(가능성·추측·제안·정중한 요청·과거 습관) 및 '익숙함'을 나타내는 3대 핵심 표현(`be used to`, `get used to`, `used to`), 임박 표현(`be about to`)의 완전 정복.
+> - **핵심 수록 표현 수**: 원문 대본에 수록된 7개 대분류 하위 16개 핵심 세부 패턴, 총 230개 이상의 실전 예문 전수 수록 (100% 무손실).
+> - **학습 포인트**:
+>   1. 한국어 학습자가 가장 혼동하기 쉬운 `used to + 동사원형`(과거의 습관/상태), `be used to + -ing/명사`(익숙한 상태), `get used to + -ing
+
+---
+
+### 페이지 1
+
+실용 영어 패턴: 조동사와 익숙함 표현
+네, 제공해주신 YouTube 영상 대본 발췌본을 분석하여 한국어 해석이 명시되지 않은 영
+어 문장들에 대해 소스의 맥락과 영상의 설명(일부 발췌된 부분)을 바탕으로 한국어 해
+석을 추가하고 보기 좋게 정리해 드리겠습니다.
+이 영상들은 주로 영어 표현 학습을 위한 것이므로, 많은 영어 문장들은 특정 패턴이나
+상황을 반복 연습하기 위한 예시입니다. 따라서 같은 문장이 여러 번 반복될 수 있으며,
+한국어 설명이 해당 문장 바로 옆에 붙어있지 않은 경우가 많습니다. 저는 소스의 전반
+적인 내용과 문맥, 그리고 패턴 설명 부분을 참고하여 각 영어 문장에 가장 적절하다고
+판단되는 한국어 해석을 연결하여 제시합니다.
+아래에 소스별 또는 패턴별로 주요 영어 예시 문장과 그에 대한 한국어 해석을 정리했습
+니다.
+--------------------------------------------------------------------------------
+소스 기반 영어 문장 및 한국어 해석 추가
+1. Could 패턴 (1,2-3) 'Could'는 능력, 가능성, 제안, 정중한 요청 등 다양한 의미로 사용
+됩니다. 소스에서는 주로 가능성 (~일 수도 있다), 제안 (~할 수 있다/해볼 수 있다), 과
+거 능력 (~할 수 있었다), 정중한 요청 (~해 주시겠어요?), 그리고 과거의 특정 상황에서
+의 능력/감각 표현에 사용된 예시들이 나타납니다.
+•
+I could be wrong.1 - 제가 틀릴 수도 있습니다.
+•
+It could still be slippery, so be careful.1 - 아직 미끄러울 수 있으니 조심하세요.
+•
+That could be a good sign.1 - 그게 좋은 신호일 수 있어요.
+•
+That could take months.1 - 그건 몇 달 걸릴 수 있어요.
+•
+It could be something else.1 - 다른 것일 수도 있어요.
+
+### 페이지 2
+
+It could take us a long time to get back home.1 - 집에 돌아가는 데 시간이 오래 걸릴
+수 있어요.
+•
+If they like me, it could lead to a full-time job.1 - 만약 그들이 나를 좋아한다면, 그것
+이 정규직으로 이어질 수 있어요.
+•
+They could be our neighbors.1 - 그들이 우리 이웃일 수도 있어요.
+•
+The doctor said that could be one of the side effects.1 - 의사가 그게 부작용 중 하나
+일 수 있다고 말했어요.
+•
+I really think this could be a good investment.1 - 저는 이게 정말 좋은 투자일 수 있
+다고 생각해요.
+•
+I could teach you.1 - 제가 당신을 가르쳐 줄 수 있어요.
+•
+I could text you the address.1 - 제가 주소를 문자로 보내 줄 수 있어요.
+•
+It could happen to you.1 - 그건 당신에게 일어날 수 있어요.
+•
+It could reappear at any moment.1 - 그건 언제든지 다시 나타날 수 있어요.
+•
+I could take a few days off work.1 - 저는 며칠 일에서 쉴 수 있어요 (휴가 낼 수 있어
+요).
+•
+You know, I could actually introduce you if you want.1 - 원하시면, 제가 실제로 당신
+을 소개해 줄 수도 있어요.
+
+### 페이지 3
+
+Maybe this weekend we could go to the beach.1 - 어쩌면 이번 주말에 우리가 해변에
+갈 수 있어요.
+•
+We could use the extra space for a guest room.1 - 우리는 여분의 공간을 객실로 사용
+할 수 있어요.
+•
+What could possibly go wrong?1 - 대체 뭐가 잘못될 수 있겠어요?
+•
+You could get arrested.14 - 당신은 체포될 수 있어요.
+•
+Could you do me a favor?1... - 부탁 하나 들어주시겠어요?
+•
+Could you take a picture of us?1 - 저희 사진 좀 찍어주시겠어요?
+•
+Could I ask you something?15 - 뭐 좀 여쭤봐도 될까요?
+•
+Could I speak to you in private please?1 - 개인적으로 잠시 이야기할 수 있을까요?
+•
+Could you maybe just give us his phone number?1 - 혹시 그냥 그의 전화번호를 알려
+주실 수 있나요?
+•
+Could you leave please?1 - 나가주시겠어요?
+•
+Could you come get me?1 - 와서 저 좀 데려가 주시겠어요?
+
+### 페이지 4
+
+Could you get it back for me?1 - 저 대신 그것을 되찾아와 주시겠어요?
+Could you help us out?1 - 저희를 좀 도와주시겠어요?
+•
+Could you at least use the correct phrase?1 - 적어도 올바른 표현을 사용해 주시겠어
+요?
+•
+They said they could handle it.1 - 그들은 그것을 처리할 수 있다고 말했습니다.
+•
+They said they could operate.1 - 그들은 수술할 수 있다고 말했습니다.
+•
+I didn't think you could keep it a secret.1 - 네가 그것을 비밀로 지킬 수 있을 거라고
+생각하지 못했어요.
+•
+I could see through the window.1 - 나는 창문 너머로 볼 수 있었습니다.
+•
+She was sad, I could feel it.1 - 그녀는 슬펐어요, 저는 그것을 느낄 수 있었습니다.
+•
+I couldn't find it.1... - 저는 그것을 찾을 수 없었습니다.
+•
+I couldn't say no twice.1 - 두 번은 거절할 수 없었습니다.
+•
+I couldn't sleep thinking about it.110 - 그것에 대해 생각하느라 잠을 잘 수 없었습니
+다.
+I couldn't think of anything else to say.1 - 저는 달리 할 말이 떠오르지 않았습니다.
+
+### 페이지 5
+
+I couldn't see that everything that I was looking for.1 - 제가 찾고 있던 모든 것을 볼
+수 없었습니다.
+•
+It could happen to anyone.2 - 누구에게나 일어날 수 있어요.
+•
+It's sunny now, but it could always rain later.2 - 지금은 화창하지만, 나중에 언제든 비
+가 올 수 있어요.
+•
+You could get hurt.2 - 당신은 다칠 수도 있어요.
+•
+They could sue us, we could lose everything.2 - 그들이 우리를 고소할 수 있어요, 우
+리는 모든 것을 잃을 수 있어요.
+•
+This could be a sign.2 - 이것은 징조일 수 있어요.
+•
+Oh, we could get caught.2 - 오, 우리는 잡힐 수도 있어요.
+•
+It could be good thoughts, could be bad.2 - 좋은 생각일 수도 있고, 나쁜 생각일 수도
+있어요.
+•
+Yeah, this could be cancer.2 - 네, 이건 암일 수도 있어요.
+•
+It could spread everywhere.2 - 그것은 어디든 퍼질 수 있어요.
+•
+But I could lend you some money.2 - 하지만 제가 당신에게 돈을 좀 빌려줄 수 있어
+요.
+
+### 페이지 6
+
+Well, I could pick you up.2 - 음, 제가 당신을 태워다 줄 수 있어요.
+•
+He could be lying about this whole thing.2 - 그는 이 모든 것에 대해 거짓말하고 있을
+수도 있어요.
+•
+It could take a few days to update.2 - 업데이트하는 데 며칠 걸릴 수 있어요.
+•
+He could fall in love with me someday.211 - 그는 언젠가 저와 사랑에 빠질 수도 있어
+요.
+•
+So that could be worth a fortune.11 - 그래서 그것은 엄청난 재산 가치가 있을 수 있어
+요.
+•
+I mean, it worked for her, it could work for us.11 - 제 말은, 그녀에게 효과가 있었으
+니, 우리에게도 효과가 있을 수 있어요.
+•
+What if it could make him change his mind?11 - 만약 그것이 그의 마음을 바꾸게 할
+수 있다면 어쩌지?
+•
+We could be out of food by tomorrow afternoon.11 - 내일 오후까지 우리는 음식이
+다 떨어질 수 있어요.
+•
+The whole thing could be a ploy.11 - 전체가 계략일 수 있어요.
+•
+Everything could always use a little improvement.11 - 모든 것은 언제나 약간의 개선
+이 필요할 수 있습니다.
+
+### 페이지 7
+
+So we could go to jail.11 - 그래서 우리는 감옥에 갈 수도 있어요.
+•
+What if it could?11 - 만약 그럴 수 있다면 어쩌지?
+•
+This could be a big mistake.11 - 이것은 큰 실수일 수 있어요.
+•
+You could get fired for that.11 - 당신은 그것 때문에 해고될 수 있어요.
+•
+Could be dangerous.11 - 위험할 수 있어요.
+•
+If only you could change.11 - 네가 변할 수만 있다면.
+•
+If I could do anything.11 - 제가 무엇이든 할 수 있다면.
+•
+You could regret it if you don't do it.411 - 하지 않으면 후회할 수도 있어요.
+•
+I could help you study if you like.4 - 원하시면 공부하는 것을 도와줄 수 있어요.
+•
+You could just walk away, you know.4 - 그냥 떠날 수도 있잖아요.
+•
+If you could only eat one food for the rest of your life, what would it be?4 - 남은 평
+생 동안 한 가지 음식만 먹을 수 있다면, 무엇일까요?
+•
+Well, if you'd get a job, you could get your car fixed.4 - 음, 네가 직업을 구하면 차를
+고칠 수 있을 거야.
+
+### 페이지 8
+
+Your friend could die if you don't start cooperating.4 - 네가 협조하지 않으면 네 친구
+는 죽을 수도 있어.
+•
+I could ensure that.4 - 제가 그것을 보장할 수 있습니다.
+•
+What if we could? What if we could change their fate?4 - 만약 우리가 할 수 있다면
+어쩌지? 우리가 그들의 운명을 바꿀 수 있다면 어쩌지?
+•
+You could save four billion lives.4 - 당신은 40억 명의 생명을 구할 수 있어요.
+•
+That you could be ruining your life with, right?12 - 네가 그것으로 인생을 망치고 있을
+수도 있다는 거지, 그렇지?
+•
+But if we could find it, could you imagine?12 - 하지만 만약 우리가 그것을 찾을 수 있
+다면, 상상할 수 있겠어?
+•
+If we could perfect it, we could become gods.12 - 만약 우리가 그것을 완벽하게 할 수
+있다면, 우리는 신이 될 수 있을 거야.
+•
+Could you pass the salt?12 - 소금 좀 건네주시겠어요?
+•
+Could you keep your eyes on the road please?12 - 제발 길에서 눈을 떼지 마시겠어
+요?
+•
+Can you pick up some bread on the way home please?12 - 집에 오는 길에 빵 좀 사
+와 줄래요?
+
+### 페이지 9
+
+Could you give me a hand?12 - 저 좀 도와주시겠어요? (손을 빌려달라는 의미)
+•
+Could you just sit down and order some food?12 - 그냥 앉아서 음식을 좀 주문하시겠
+어요?
+•
+Could we get some fresh air?12 - 신선한 공기를 좀 쐴 수 있을까요?
+•
+Could I get some more tea?12 - 차를 좀 더 마실 수 있을까요?
+•
+Could I get some painkillers over here please?12 - 여기 진통제 좀 가져다 주시겠어요?
+•
+Could you get me some cough drops?12 - 기침약 좀 가져다 주시겠어요?
+•
+Could I have some too?12 - 저도 좀 가질 수 있을까요?
+•
+Could you at least get them some chairs or something?13 - 적어도 그들에게 의자나
+뭐라도 가져다 줄 수 있을까요?
+•
+Could you tell them a little about yourself?13 - 그들에게 당신 자신에 대해 조금 이야
+기해 줄 수 있나요?
+•
+Could you hold that please?13 - 그것 좀 잡아주시겠어요?
+•
+Could you help me with my zipper?13 - 제 지퍼 좀 도와주시겠어요?
+
+### 페이지 10
+
+Could I at least get some encouragement?13 - 적어도 격려라도 좀 받을 수 있을까요?
+Could I please speak to your supervisor?13 - 당신 상사와 통화할 수 있을까요?
+•
+Could I get your autograph?13 - 사인 좀 받을 수 있을까요?
+•
+Could you postpone our departure for just five minutes sir?13 - 저희 출발을 딱 5분
+만 연기해 주시겠어요?
+•
+Could you, could you do that for me?13 - 저를 위해 그것을 해 주시겠어요?
+•
+Could you please tell me how you plan to resolve it?13 - 그것을 어떻게 해결할 계획
+인지 말씀해 주시겠어요?
+•
+I did the best I could.13 - 저는 제가 할 수 있는 최선을 다했습니다.
+•
+I couldn't understand a word he said.1013 - 저는 그가 말한 단어 하나도 이해할 수 없
+었습니다.
+•
+The hospital said I could go back to school.10 - 병원에서 제가 학교에 돌아가도 된다
+고 말했습니다.
+•
+I couldn't do it.10 - 저는 그것을 할 수 없었습니다.
+•
+You couldn't do it.10 - 당신은 그것을 할 수 없었습니다.
+
+### 페이지 11
+
+He couldn't do it.10 - 그는 그것을 할 수 없었습니다.
+I could sense that something was wrong.10 - 저는 뭔가 잘못되었다는 것을 느낄 수
+있었습니다.
+•
+I could feel my heart pound.10 - 저는 심장이 뛰는 것을 느낄 수 있었습니다.
+•
+I could feel her breath on my cheek.10 - 저는 뺨에 그녀의 숨결을 느낄 수 있었습니
+다.
+•
+I could smell it from the hallway.10 - 저는 복도에서 그것을 냄새 맡을 수 있었습니다.
+•
+I could tell she knew what I was feeling.10 - 그녀가 제가 느끼는 것을 알고 있다는 것
+을 알 수 있었습니다.
+•
+I couldn't see her but I could see her name tag.10 - 저는 그녀를 볼 수 없었지만, 그녀
+의 명찰을 볼 수 있었습니다.
+•
+I couldn't understand why this was happening.10 - 저는 왜 이런 일이 일어나는지 이
+해할 수 없었습니다.
+•
+I saw what he was doing, I couldn't do what he was doing.10 - 저는 그가 하는 것을
+보았지만, 저는 그가 하는 것을 할 수 없었습니다.
+•
+I could run 200 meters faster than anybody in my school.310 - 저는 우리 학교 누구
+보다 200미터를 더 빠르게 달릴 수 있었습니다.
+
+### 페이지 12
+
+He could make me laugh when I was afraid.3 - 그는 제가 두려워할 때 저를 웃게 만들
+수 있었습니다.
+•
+I could swing it like nobody's business.3 - 저는 아무렇지 않게 그것을 휘두를 수 있었
+습니다.
+•
+I was overpowered, there was nothing I could do.3 - 저는 압도당했고, 제가 할 수 있
+는 것은 아무것도 없었습니다.
+•
+I'm sorry, they surprised me, there was nothing I could do.3 - 죄송해요, 그들이 저를
+놀라게 했어요, 제가 할 수 있는 것은 아무것도 없었습니다.
+•
+I invited him to dinner so you could get a chance to get to know him.3 - 제가 그를
+저녁 식사에 초대했으니 당신이 그를 알게 될 기회를 얻을 수 있을 거예요.
+•
+I wanted to make them unlimited and sell them at a lower price point so that
+everyone could enjoy them.3 - 저는 그것들을 무제한으로 만들고 더 낮은 가격에 팔아
+서 모든 사람이 그것을 즐길 수 있게 하고 싶었습니다.
+2. Should 패턴 (14-15,16-17) 'Should'는 의무, 충고, 제안, 예상, 후회 등에 사용됩니다.
+소스에서는 주로 충고/제안 (~해야 한다), 예상 (~일 것이다), 그리고 부정형/의문형 예시
+가 나타납니다.
+•
+We should go say hi.14 - 우리 가서 인사해야 해/가자.
+•
+I should probably get going.14 - 아마 이제 가봐야 할 것 같아요.
+•
+You should come over for dinner sometime.14 - 언제 한번 저녁 먹으러 와야 해/와요.
+
+### 페이지 13
+
+You should get some sleep.14 - 잠 좀 자야 해.
+There is something I should tell you.18 - 너에게 말해야 할 것이 있어.
+•
+It seems like something you should know.18 - 네가 알아야 할 것 같은 일이야.
+•
+I think we should talk about it.18 - 우리가 그것에 대해 얘기해야 할 것 같아.
+•
+Maybe I should just forget about love.19 - 어쩌면 사랑은 그냥 잊어야 할지도 몰라.
+•
+Maybe we should get some food on the way home.19 - 어쩌면 집에 가는 길에 뭐 좀
+사 먹어야 할지도 몰라.
+•
+Maybe we should wait till next Sunday.19 - 어쩌면 다음 주 일요일까지 기다려야 할지
+도 몰라.
+•
+We shouldn't complain.20 - 우리는 불평해서는 안 돼.
+•
+You shouldn't be close to me.20 - 내게 가까이 오면 안 돼.
+•
+You shouldn't get too excited.20 - 너무 신나면 안 돼.
+•
+You shouldn't be embarrassed.2021 - 창피해하면 안 돼.
+•
+You shouldn't lie on your resume.21 - 이력서에 거짓말 하면 안 돼.
+
+### 페이지 14
+
+Maybe we shouldn't touch any more buttons.21 - 어쩌면 버튼을 더 이상 만지면 안
+될지도 몰라.
+•
+We should never forget that.22 - 우리는 결코 그것을 잊어서는 안 돼.
+•
+You really shouldn't be ripping that off.22 - 너 그거 정말 뜯어내면 안 돼.
+•
+I don't think we should see each other anymore.22 - 더 이상 만나지 말아야 할 것 같
+아.
+•
+Should I be worried?22 - 걱정해야 할까요?
+•
+Should I go talk to him?2223 - 내가 가서 그와 얘기해야 할까요?
+•
+Should we get some coffee?23 - 우리 커피 좀 마실까요?
+•
+Should I talk to him about it?2324 - 내가 그것에 대해 그에게 얘기해야 할까요?
+•
+Should we order some champagne to celebrate?23 - 축하하기 위해 샴페인 좀 시킬까
+요?
+•
+Should we send them something back?23 - 그들에게 뭘 좀 돌려보내야 할까요?
+•
+Should I give him another chance?2425 - 그에게 한 번 더 기회를 줘야 할까요?
+Where should we send the ambulance?25 - 구급차를 어디로 보내야 할까요?
+
+### 페이지 15
+
+You know what you should do?2425 - 네가 뭘 해야 할지 아니?
+•
+Do you think I should ask her out?25 - 내가 그녀에게 데이트 신청해야 한다고 생각하
+니?
+•
+Shouldn't you be resting?2627 - 쉬고 있어야 하는 거 아니에요?
+•
+Shouldn't we call the cops?26 - 경찰 불러야 하는 거 아니에요?
+•
+Shouldn't you be at work?26 - 직장에 있어야 하는 거 아니에요?
+•
+You're leaving tomorrow, shouldn't you be packing?26 - 내일 떠나는데, 짐 싸고 있어
+야 하는 거 아니에요?
+•
+Shouldn't we be proactive?28 - 우리가 선제적으로 나서야 하는 거 아니에요?
+•
+Shouldn't we like be practicing soon?28 - 우리 곧 연습해야 하는 거 아니에요?
+•
+Shouldn't we just let him in?28 - 그냥 들여보내야 하는 거 아니에요?
+•
+Shouldn't we tell her what happened?28 - 무슨 일이 일어났는지 그녀에게 말해줘야
+하는 거 아니에요?
+•
+Shouldn't you be downstairs?29 - 아래층에 있어야 하는 거 아니에요?
+
+### 페이지 16
+
+Shouldn't we be issuing warnings now?29 - 지금 경고를 발령해야 하는 거 아니에요?
+This should be fun.2729 - 이거 재밌겠네.
+•
+This should be easy.29 - 이거 쉬울 거야.
+•
+The doctor said it should be fine.2729 - 의사가 괜찮을 거라고 했어.
+•
+Your ankle should be better by then.30 - 그때까지 네 발목이 나아질 거야.
+•
+We should have some more information shortly.30 - 곧 더 많은 정보가 있을 거예요.
+•
+She should be here by now.30 - 지금쯤 여기 와 있어야 할 텐데.
+•
+Your food should be out in just a few minutes.30 - 음식은 몇 분 안에 나올 거예요.
+•
+Your locations should be on your clipboards.31 - 위치는 클립보드에 있을 거예요.
+•
+Then it should be yours.31 - 그럼 그건 네 것이 될 거야.
+•
+You should check it out on your way home.31 - 집에 가는 길에 확인해 봐.
+•
+Should you need anything else, any further information please contact us.3132 - 혹
+시라도 다른 것이 필요하시거나 추가 정보가 있으시면 저희에게 연락해 주십시오.
+
+### 페이지 17
+
+Should you need anything, any kind of support please don't hesitate to ask.3233 -
+혹시라도 무엇이 필요하시거나 어떤 종류의 지원이라도 필요하시면 주저하지 말고 요청
+해 주십시오.
+•
+Should you require anything else at all please let me know.3233 - 혹시라도 다른 어떤
+것이라도 필요하시면 저에게 알려주십시오.
+•
+Should you again find yourself in need of my services, I would be honored to assist
+you.3234 - 혹시라도 다시 제 서비스가 필요하시면 기꺼이 도와드리겠습니다.
+•
+Should you need anything before then, Minerva is here.1734 - 혹시 그때 전에 무엇이
+필요하시면 미네르바가 여기 있습니다.
+•
+And should you ever need anything in this city, dinner reservations, parking tickets,
+just drop our name into yours.1532 - 그리고 혹시 이 도시에서 무엇이라도 필요하시면,
+저녁 예약, 주차 위반 딱지 등, 그냥 저희 이름을 대세요.
+•
+You should get back to school.16 - 학교로 돌아가야 해.
+•
+You should go back to work.16 - 직장으로 돌아가야 해.
+•
+Let's go back to work.16 - 직장으로 돌아가자.
+•
+You should come over sometime after school.16 - 방과 후에 언제 한번 들러야 해.
+•
+We should do this more often.16 - 우리는 이걸 더 자주 해야 해.
+
+### 페이지 18
+
+You should wear a business suit.16 - 정장을 입어야 해.
+I think you should be more concerned.16 - 내 생각에 너는 더 걱정해야 해.
+•
+We should go to an early dinner tonight.16 - 오늘 밤 일찍 저녁 먹으러 가야 해.
+•
+You should stick around.16 - 주변에 머물러 있어야 해.
+•
+It's all dirty, you should throw this out.16 - 이거 다 더러워, 버려야 해.
+•
+I think you should definitely go for it.16 - 내 생각에 너는 분명히 그것을 시도해야 해.
+•
+It's a great opportunity and you should take it.16 - 좋은 기회야 그러니 잡아야 해.
+•
+There are some things you should know.16 - 네가 알아야 할 몇 가지가 있어.
+•
+You should put in for a raise.1635 - 너는 임금 인상을 요구해야 해.
+•
+I should be able to wear what I want.35 - 나는 내가 입고 싶은 것을 입을 수 있어야
+해.
+•
+I should call your mom and tell her what happened.35 - 네 엄마에게 전화해서 무슨
+일이 있었는지 말해줘야 해.
+•
+We should try that new French restaurant.35 - 새로 생긴 프랑스 식당에 가봐야 해.
+
+### 페이지 19
+
+I should apologize for my behavior to you last summer.35 - 지난 여름 당신에게 했던
+행동에 대해 사과해야 해요.
+•
+We should probably start packing up the place now.35 - 우리는 아마 이제 그곳을 짐
+싸기 시작해야 할 거야.
+•
+Maybe we should just reschedule.35 - 어쩌면 그냥 일정을 다시 잡아야 할지도 몰라.
+•
+Maybe you should wait outside.35 - 어쩌면 너는 밖에서 기다려야 할지도 몰라.
+•
+Maybe we should save some of our wedding money.35 - 어쩌면 우리는 결혼 자금을
+좀 아껴야 할지도 몰라.
+•
+I shouldn't be laughing.35 - 나는 웃으면 안 돼.
+•
+You shouldn't go in there.35 - 너는 거기에 들어가면 안 돼.
+•
+You shouldn't come in there.35 - 너는 거기에 들어오면 안 돼.
+•
+You shouldn't do that.35 - 너는 그것을 하면 안 돼.
+•
+You shouldn't worry too much.3536 - 너무 걱정하지 마.
+•
+You shouldn't ignore me.36 - 나를 무시하면 안 돼.
+You really shouldn't be doing that.36 - 너는 정말 그것을 하면 안 돼.
+
+### 페이지 20
+
+You shouldn't let it go by.36 - 그냥 지나치게 두면 안 돼.
+•
+I'm sorry, I shouldn't be so critical.36 - 미안해요, 그렇게 비판적이면 안 되는데.
+•
+You should never say that word.36 - 너는 절대 그 단어를 말해서는 안 돼.
+•
+We shouldn't be wasting our time.36 - 우리는 시간을 낭비해서는 안 돼.
+•
+You shouldn't rush into anything.36 - 너는 어떤 일에도 성급하게 뛰어들면 안 돼.
+•
+This shouldn't be so hard.36 - 이것은 그렇게 어렵지 않아야 해.
+•
+You shouldn't blame yourself, it's not your fault.36 - 자신을 탓하지 마, 네 잘못이 아
+니야.
+•
+You shouldn't underestimate her.36 - 그녀를 과소평가하면 안 돼.
+•
+You shouldn't compare yourself to me.36 - 너 자신을 나와 비교하면 안 돼.
+•
+You shouldn't give up until we do.36 - 우리가 할 때까지 너는 포기하면 안 돼.
+•
+You shouldn't believe everything you hear.2436 - 네가 듣는 모든 것을 믿으면 안 돼.
+•
+You shouldn't be spending so much on groceries.24 - 식료품에 그렇게 많이 쓰면 안
+돼.
+
+### 페이지 21
+
+You shouldn't be afraid to show exactly who you are.24 - 네가 정확히 어떤 사람인지
+보여주는 것을 두려워하면 안 돼.
+•
+Although we shouldn't judge, it's easy for people to lose their way.24 - 우리가 판단
+해서는 안 되지만, 사람들이 길을 잃기 쉬워요.
+•
+Should I go?24 - 제가 가야 할까요?
+•
+Should we order?24 - 저희 주문할까요?
+•
+Should I just cancel it?24 - 그냥 취소해야 할까요?
+•
+Do you think I should do it?24 - 내가 그것을 해야 한다고 생각하니?
+•
+Should we write up an offer?24 - 저희 제안서를 작성할까요?
+•
+Should I settle?24 - 합의해야 할까요?
+•
+Is there anything we should know about the place/apartment?2427 - 그 장소/아파트
+에 대해 우리가 알아야 할 것이 있나요?
+•
+Shouldn't we be going too?27 - 우리도 가야 하는 거 아니에요?
+•
+Shouldn't we knock first?27 - 우리 먼저 노크해야 하는 거 아니에요?
+
+### 페이지 22
+
+Shouldn't you be studying?27 - 공부하고 있어야 하는 거 아니에요?
+Shouldn't we be evacuating?27 - 우리는 대피해야 하는 거 아니에요?
+•
+Shouldn't I call him back?27 - 그에게 다시 전화해야 하는 거 아니에요?
+•
+Shouldn't we wait till dawn?27 - 새벽까지 기다려야 하는 거 아니에요?
+•
+Shouldn't we get her a present?27 - 그녀에게 선물을 사줘야 하는 거 아니에요?
+•
+Shouldn't we review safety guidelines?27 - 안전 지침을 검토해야 하는 거 아니에요?
+•
+Shouldn't you be practicing with your band?27 - 밴드와 함께 연습하고 있어야 하는
+거 아니에요?
+•
+Shouldn't we acknowledge their outrage?27 - 그들의 분노를 인정해야 하는 거 아니에
+요?
+•
+That should be fine.27 - 괜찮을 거예요.
+•
+It should be something fun.27 - 재밌는 것일 거예요.
+•
+Guests should arrive soon.27 - 손님들이 곧 도착할 거예요.
+•
+He should be back any minute.27 - 그는 곧 돌아올 거예요.
+
+### 페이지 23
+
+He should be out shortly.2732 - 그는 곧 나올 거예요.
+That should help.32 - 도움이 될 거예요.
+•
+Should be a short meeting.32 - 짧은 회의일 거예요.
+•
+Then we should have no problems.32 - 그럼 우리는 문제가 없을 거예요.
+•
+He should be there in a few hours.32 - 그는 몇 시간 안에 거기에 있을 거예요.
+•
+There should be a menu right there to your right.32 - 메뉴가 바로 오른쪽에 있을 거
+예요.
+•
+Should you need any proof of the matter then look just here.17 - 혹시라도 문제에 대
+한 증거가 필요하시면 여기를 보세요.
+3. Would 패턴 (37,38-39) 'Would'는 과거의 습관 (~하곤 했다), 간접화법 (말했다 ~할
+것이라고), 가정 (만약 ~라면 ~일 것이다), 정중한 요청 (~해 주시겠어요?), 선호 (어떤
+것이 좋으세요?) 등에 사용됩니다.
+•
+I said I'd do it.37 - 제가 그것을 하겠다고 말했습니다.
+•
+You said you'd help her.37 - 당신은 그녀를 돕겠다고 말했습니다.
+•
+He said he would get here as fast as he could.37 - 그는 가능한 한 빨리 여기에 오겠
+다고 말했습니다.
+He said he'd call tonight.37 - 그는 오늘 밤 전화하겠다고 말했습니다.
+
+### 페이지 24
+
+I told him I would think about it.37 - 저는 그에게 그것에 대해 생각해 보겠다고 말했
+습니다.
+•
+They promised it would be there in time.37 - 그들은 제시간에 거기에 있을 것이라고
+약속했습니다.
+•
+This is harder than I thought it would be.37 - 생각했던 것보다 더 어렵네요.
+•
+You promised you wouldn't say anything.37 - 당신은 아무 말도 하지 않겠다고 약속했
+습니다.
+•
+I figured this would be the place to find you.37 - 저는 여기가 당신을 찾을 곳일 거라
+고 생각했습니다.
+•
+I warned you this would happen.37 - 제가 이런 일이 일어날 거라고 경고했습니다.
+•
+That would be helpful.37 - 그건 도움이 될 거예요.
+•
+That would look good on you.37 - 그건 당신에게 잘 어울릴 거예요.
+•
+That wouldn't be fair.37 - 그건 공평하지 않을 거예요.
+•
+It would be rude.37 - 그건 무례할 거예요.
+You know what would be better?37 - 뭐가 더 나을지 아세요?
+
+### 페이지 25
+
+Don't you think that would be a little weird?37 - 그거 좀 이상할 거라고 생각하지 않
+아요?
+•
+That would be awkward.37 - 그건 어색할 거예요.
+•
+That would mean a lot to me.37 - 그건 저에게 큰 의미가 될 거예요.
+•
+I'd have to say it would be virtually impossible.37 - 거의 불가능할 거라고 말해야 할
+것 같아요.
+•
+I met somebody who would be perfect for you.37 - 당신에게 완벽한 사람을 만났어요.
+•
+Would you mind getting that?37 - 저것 좀 가져와 주시겠어요?
+•
+Would you mind if I just came inside?37 - 그냥 안에 들어가도 괜찮을까요?
+•
+Would you say you were satisfied?37 - 만족했다고 말씀하시겠어요?
+•
+Would it be possible to reschedule this call please?37 - 이 통화 일정을 다시 잡는 것
+이 가능할까요?
+•
+Which would you prefer?37 - 어떤 것을 선호하시겠어요?
+•
+Which of the pastas would you recommend?37 - 파스타 중에서 어떤 것을 추천하시겠
+어요?
+
+### 페이지 26
+
+I said you wouldn't mind if she took your place.37 - 그녀가 네 자리를 차지해도 신경
+쓰지 않을 거라고 말했어.
+•
+If you wouldn't mind sending that as soon as possible.37 - 가능하다면 그것을 보내주
+시면 감사하겠습니다 (보내주시면 신경 쓰지 않겠습니다).
+•
+If you wouldn't mind dropping me off.37 - 저를 내려주시면 감사하겠습니다.
+•
+If you wouldn't mind sharing with us.37 - 저희와 공유해 주시면 감사하겠습니다.
+•
+You would always drink coffee.37 - 당신은 항상 커피를 마시곤 했어요.
+•
+My wife would always say...37 - 제 아내는 항상 ...라고 말하곤 했습니다.
+•
+I would always comfort him.37 - 저는 항상 그를 위로하곤 했습니다.
+•
+He would always read me to sleep.37 - 그는 항상 저에게 책을 읽어주며 재우곤 했습
+니다.
+•
+I would never forget about you, ever.37 - 저는 당신을 절대 잊지 않을 겁니다, 절대로.
+•
+She wouldn't show up at the church on Sunday.37 - 그녀는 일요일에 교회에 나타나지
+않곤 했습니다.
+•
+We would repeat everything the other said.37 - 우리는 서로가 말한 모든 것을 반복하
+곤 했습니다.
+
+### 페이지 27
+
+He would always take his mother's side in arguments.37 - 그는 논쟁에서 항상 어머니
+편을 들곤 했습니다.
+•
+He would disappear for months, but he would always come home.37 - 그는 몇 달씩
+사라지곤 했지만, 항상 집으로 돌아오곤 했습니다.
+•
+When he was so small, we'd give him a bath in the sink.37 - 그가 아주 작았을 때, 우
+리는 싱크대에서 그를 목욕시키곤 했습니다.
+•
+I thought that would be the best thing to do.38 - 그게 할 수 있는 가장 좋은 일이라
+고 생각했습니다.
+•
+When I was younger, I never thought I would be here.38 - 어렸을 때, 제가 여기 있을
+거라고는 전혀 생각하지 못했습니다.
+•
+We said we would meet at the coffee house at six o'clock.38 - 우리는 6시에 커피숍에
+서 만나기로 말했습니다.
+•
+Strange, she said you wouldn't be able to.38 - 이상하네, 그녀는 네가 할 수 없을 거라
+고 말했어.
+•
+I thought you would be taller.38 - 네가 더 키가 클 거라고 생각했어.
+•
+I really thought she would say it.38 - 저는 그녀가 그것을 말할 거라고 정말 생각했습
+니다.
+Well, I knew that you would never give up.38 - 음, 네가 절대 포기하지 않을 거라는
+
+### 페이지 28
+
+것을 알았어.
+He knew I would never understand.38 - 그는 제가 절대 이해하지 못할 거라는 것을 알
+았습니다.
+•
+So I didn't think it would be this hard.38 - 그래서 저는 이게 이렇게 어려울 거라고 생
+각하지 못했습니다.
+•
+So I knew that you would, so I came prepared.38 - 그래서 네가 그럴 거라는 것을 알
+았고, 그래서 준비해서 왔어.
+•
+I knew she would ruin this day, I knew it.3840 - 그녀가 오늘을 망칠 거라는 것을 알았
+어, 알았다고.
+•
+So I knew you would come back.40 - 그래서 저는 당신이 돌아올 거라는 것을 알았습
+니다.
+•
+So I didn't think this would take so long.40 - 그래서 저는 이게 이렇게 오래 걸릴 거
+라고 생각하지 못했습니다.
+•
+She promised me that she would try to contact me.40 - 그녀는 저에게 연락하려고 노
+력하겠다고 약속했습니다.
+•
+So I knew you'd come through.40 - 그래서 저는 당신이 해낼 거라는 것을 알았습니다.
+•
+So I knew you would say that.40 - 그래서 저는 당신이 그렇게 말할 거라는 것을 알았
+습니다.
+
+### 페이지 29
+
+So I never thought it would happen to me.40 - 그래서 저는 그런 일이 제게 일어날
+거라고는 전혀 생각하지 못했습니다.
+•
+So I thought you'd want to know.40 - 그래서 네가 알고 싶을 거라고 생각했어.
+•
+I thought it would be funny.40 - 웃길 거라고 생각했어.
+•
+So we just thought it would be best.40 - 그래서 우리는 그게 최선일 거라고 생각했습
+니다.
+•
+Imagine what our kids would look like.4041 - 우리 애들이 어떻게 생겼을지 상상해 봐.
+•
+So tonight I was thinking that I would cook instead of take out.40 - 그래서 오늘 밤
+은 배달 대신 요리할까 생각하고 있었어.
+•
+If you were her, where would you guys go?40 - 네가 그녀라면, 너희는 어디로 갈 거
+야?
+•
+It'd be a pretty bad idea, don't you think?41 - 꽤 나쁜 생각일 텐데, 그렇게 생각하지
+않아?
+•
+This job would be a great opportunity for me.41 - 이 일은 제게 좋은 기회가 될 거예
+요.
+•
+I'd say it's a good possibility.41 - 좋은 가능성이라고 말하고 싶네요.
+I would think twice about that if I were you.41 - 내가 너라면 그것에 대해 두 번 생각
+
+### 페이지 30
+
+할 거야.
+It would be great if we could be friends.41 - 우리가 친구가 될 수 있다면 정말 좋을
+텐데.
+•
+Predict what these kids would look like when they were all grown up.41 - 이 아이들
+이 다 자랐을 때 어떻게 생겼을지 예상해 봐.
+•
+We would just need to have your consent.41 - 저희는 그냥 당신의 동의만 있으면 됩
+니다.
+•
+I can't imagine it would be a problem.41 - 문제가 될 거라고는 상상할 수 없어요.
+•
+I would never do something like that.41 - 저는 절대 그런 일은 하지 않을 거예요.
+•
+If he asked me again, I think I would say yes.41 - 그가 다시 묻는다면, 저는 예라고 말
+할 것 같아요.
+•
+It would be a pretty busy week.4142 - 꽤 바쁜 한 주가 될 거예요.
+•
+My First Kiss, I always wondered what it would be like.42 - 첫 키스, 항상 어떤 느낌일
+지 궁금했어요.
+•
+I can't imagine what that would feel like.42 - 그게 어떤 느낌일지 상상할 수 없어요.
+•
+It would be nice to go to the park.42 - 공원에 가는 것이 좋을 거예요.
+
+### 페이지 31
+
+That would be a mistake in my opinion.42 - 제 의견으로는 그건 실수일 거예요.
+Not having a job would be a big boost for me.42 - 직업이 없다는 것은 제게 큰 타격
+이 될 거예요.
+•
+Lots of stores that this would be a great fit for.42 - 이것이 잘 어울릴 많은 가게들.
+•
+Would you mind not doing that while we're talking?42 - 저희가 얘기하는 동안 그것
+을 하지 않아 주시겠어요?
+•
+Would you mind taking a look at my resume?42 - 제 이력서를 좀 봐주시겠어요?
+•
+Would you mind telling me what has happened?42 - 무슨 일이 일어났는지 말씀해 주
+시겠어요?
+•
+You wouldn't happen to have any spare, would you?4243 - 혹시 여분 좀 가지고 계시
+지 않겠죠, 그렇죠? (완곡한 요청)
+•
+Would you mind lending me your expertise?43 - 당신의 전문 지식을 좀 빌려주시겠어
+요?
+•
+If you wouldn't mind, I'd appreciate it if you'd let me continue.43 - 괜찮으시다면, 제
+가 계속하게 해주시면 감사하겠습니다.
+•
+If you wouldn't mind, perhaps I could...43 - 괜찮으시다면, 어쩌면 제가 ... 할 수도 있
+습니다.
+
+### 페이지 32
+
+Would it be possible to ask you a few questions?43 - 몇 가지 질문을 드리는 것이 가
+능할까요?
+•
+Would you give me a ride to the bus station tomorrow?43 - 내일 버스 정류장까지 태
+워다 주시겠어요?
+•
+Would you mind locking my door on the way out?43 - 나가시는 길에 제 문을 잠가
+주시겠어요?
+•
+If you wouldn't mind, could you just let me read my book?43 - 괜찮으시다면, 그냥 제
+가 책 좀 읽게 해 주시겠어요?
+•
+Would it be okay if I go?43 - 제가 가도 괜찮을까요?
+•
+Would it be possible for me to speak?43 - 제가 이야기하는 것이 가능할까요?
+•
+Would you be able to help me?44 - 저를 도와주실 수 있겠어요?
+•
+If you wouldn't mind taking a look at my idea notebook.44 - 제 아이디어 노트를 좀
+봐주시면 감사하겠습니다.
+•
+Would you mind opening the window?44 - 창문 좀 열어주시겠어요?
+•
+Would you please open the window?44 - 창문 좀 열어주시겠어요? (mind 보다 덜 정
+중)
+Wouldn't you try to help me if you thought you could?44 - 할 수 있다고 생각했다면
+
+### 페이지 33
+
+저를 도우려 하지 않았겠어요?
+You wouldn't happen to have any aspirin?44 - 혹시 아스피린 좀 가지고 계시지 않겠
+죠?
+•
+Would you close the door behind you?44 - 나가실 때 문 좀 닫아주시겠어요?
+•
+Those are comforting words my father would often say.44 - 그것들은 아버지가 종종
+말씀하시곤 했던 위로의 말들이에요.
+•
+We would have breakfast at the same table.44 - 우리는 같은 식탁에서 아침 식사를
+하곤 했습니다.
+•
+She would go quiet when she was working out the plan.4445 - 그녀는 계획을 세울
+때 조용해지곤 했습니다.
+•
+She would often turn to prayer.45 - 그녀는 종종 기도를 찾곤 했습니다.
+•
+Love would always run away.45 - 사랑은 항상 도망가곤 했습니다.
+•
+He would tell me every day.45 - 그는 매일 저에게 말하곤 했습니다.
+•
+He would always guess.45 - 그는 항상 추측하곤 했습니다.
+•
+She would always be interesting.45 - 그녀는 항상 흥미로웠습니다.
+
+### 페이지 34
+
+That would always get a pretty big laugh.45 - 그것은 항상 꽤 큰 웃음을 유발하곤 했
+습니다.
+•
+We would always debate the virtues.45 - 우리는 항상 미덕에 대해 논쟁하곤 했습니다.
+•
+Well, I would set myself up.45 - 음, 저는 스스로를 준비시키곤 했습니다.
+•
+Where would he go every day?45 - 그는 매일 어디로 가곤 했을까요?
+•
+And she would be right.45 - 그리고 그녀는 옳았습니다.
+•
+He would wear these really big flashy ties.45 - 그는 이런 정말 크고 화려한 넥타이를
+매곤 했습니다.
+•
+And we would often talk about his work.45 - 그리고 우리는 종종 그의 일에 대해 이
+야기하곤 했습니다.
+•
+When I was younger, my father would bring me...45 - 어렸을 때, 아버지는 저에게 ...
+를 가져다주시곤 했습니다.
+•
+Those guys I would always take forever.39 - 그 사람들은 제가 항상 영원히 걸릴 거라
+고 생각했습니다.
+•
+Every day he would come visit.39 - 매일 그는 찾아오곤 했습니다.
+•
+And she would not listen.39 - 그리고 그녀는 듣지 않으려고 했습니다.
+
+### 페이지 35
+
+He would often play with the form.39 - 그는 종종 그 형태를 가지고 놀곤 했습니다.
+4. Be used to 패턴 (46,47) 'Be used to + 명사/동명사'는 '~에 익숙하다'라는 의미로, 이
+미 익숙해져 있는 상태를 나타냅니다.
+•
+I'm used to the noise.46 - 저는 그 소음에 익숙해요.
+•
+I'm used to knowing.46 - 저는 아는 것에 익숙해요.
+•
+I'm just not used to that.46 - 저는 그냥 그것에 익숙하지 않아요.
+•
+I'm not used to doing this.46 - 저는 이것을 하는 것에 익숙하지 않아요.
+•
+I'm used to being let down.46 - 저는 실망하는 것에 익숙해요.
+•
+He's used to risk.46 - 그는 위험에 익숙해요.
+•
+The seniors are used to hardship.46 - 어르신들은 고난에 익숙해요.
+•
+The neighbors are used to screaming.46 - 이웃들은 소리치는 것에 익숙해요.
+•
+I'm not used to holding nephews.46 - 저는 조카들을 안는 것에 익숙하지 않아요.
+•
+I'm not used to this kind of thing.46 - 저는 이런 종류의 것에 익숙하지 않아요.
+I'm just not used to obstacles.46 - 저는 그냥 장애물에 익숙하지 않아요.
+
+### 페이지 36
+
+Are you used to it?46 - 그것에 익숙해요?
+•
+What are you used to?46 - 무엇에 익숙해요?
+•
+I'm not used to being tickled.46 - 저는 간지럼을 타는 것에 익숙하지 않아요.
+•
+These Girls Aren't used to Couture.46 - 이 소녀들은 고급 의상에 익숙하지 않아요.
+•
+I'm used to playing for grown-ups.46 - 저는 어른들을 위해 연주하는 것에 익숙해요.
+•
+I'm used to getting my own way.46 - 저는 제 방식대로 하는 것에 익숙해요.
+•
+I'm used to different smells.46 - 저는 다른 냄새에 익숙해요.
+•
+Are you just used to saying that?46 - 그냥 그렇게 말하는 것에 익숙한 건가요?
+•
+Dobby is used to Death Grips.46 - 도비는 데스 그립스에 익숙해요.
+•
+Our premium cable network is a little different from what you're used to.46 - 우리
+프리미엄 케이블 네트워크는 당신이 익숙한 것과는 좀 다릅니다.
+•
+Most of you are used to listening to a very different kind of music.46 - 여러분 대부
+분은 매우 다른 종류의 음악을 듣는 것에 익숙해요.
+I'm kind of used to being stared at.46 - 저는 약간 쳐다봐지는 것에 익숙해요.
+
+### 페이지 37
+
+I'm used to being way out but this is ridiculous.46 - 저는 벗어나는 것에 익숙하지만
+이건 말도 안 돼요.
+•
+Which I'm sure that you're used to.46 - 당신이 익숙할 것이라고 확신하는 것.
+•
+You're not used to being given orders, are you?46 - 지시를 받는 것에 익숙하지 않죠,
+그렇죠?
+•
+Maybe you're just not used to kissing men.46 - 어쩌면 남자와 키스하는 것에 익숙하
+지 않은 걸지도 몰라.
+•
+These are animals that are used to running as hard as fast as they can.46 - 이 동물들
+은 최대한 열심히 그리고 빠르게 달리는 것에 익숙합니다.
+•
+Maybe they need to learn from some other Pride Landers who are used to working
+as a team.46 - 어쩌면 그들은 팀으로 일하는 것에 익숙한 다른 프라이드 랜더들로부터
+배워야 할지도 모른다.
+•
+There are certain things that you are used to getting that I will never ever ever be
+able to give you.46 - 네가 얻는 것에 익숙한 어떤 것들이 있지만, 나는 절대 절대 절대
+네게 줄 수 없을 거야.
+•
+I love my brethren, I'm used to the way this universe works.46 - 나의 형제들을 사랑
+해, 나는 이 우주가 작동하는 방식에 익숙해.
+•
+I'm guessing you girls are used to being in places you're not supposed to be.46 - 너
+희 소녀들은 있으면 안 되는 곳에 있는 것에 익숙하다고 추측해.
+
+### 페이지 38
+
+But you have to understand what these people are used to.46 - 하지만 이 사람들이
+무엇에 익숙한지 이해해야 해.
+•
+People like you are just way too used to getting your own way.46 - 너 같은 사람들은
+자기 방식대로 하는 것에 너무 익숙해.
+•
+My workers are used to an extremely hot climate.46 - 내 일꾼들은 극도로 더운 기후
+에 익숙해.
+5. Get used to 패턴 (48-49,50) 'Get used to + 명사/동명사'는 '~에 익숙해지다'라는 의
+미로, 익숙해지는 과정을 나타냅니다.
+•
+Get used to it.48... - 그것에 익숙해져요.
+•
+Get used to him.4852 - 그에게 익숙해지다.
+•
+Don't get used to it.48 - 그것에 익숙해지지 마.
+•
+You get used to it.48 - 너는 그것에 익숙해질 거야/익숙해진다.
+•
+First of all, you do get used to his face.48 - 우선, 너는 그의 얼굴에 익숙해지게 될 거
+야.
+•
+You'll get used to you.53 - 너는 너 자신에게 익숙해질 거야.
+•
+You get used to the pain.53 - 너는 그 고통에 익숙해질 거야/익숙해진다.
+
+### 페이지 39
+
+You get used to me in time.53 - 시간이 지나면 나에게 익숙해질 거야.
+You're going to have to get used to that.53 - 너는 그것에 익숙해져야 할 거야.
+•
+I'm a lot to get used to.5354 - 저는 익숙해지기 힘든 사람이에요/점이 많아요.
+•
+Better get used to disappointment.54 - 실망에 익숙해지는 게 좋을 거야.
+•
+You better get used to that.54 - 너는 그것에 익숙해지는 게 좋을 거야.
+•
+I could get used to this.54 - 이것에 익숙해질 수도 있겠어.
+•
+I just could not get used to sleeping alone.5154 - 저는 혼자 자는 것에 도저히 익숙해
+질 수 없었습니다.
+•
+Do you get used to that?51 - 그것에 익숙해지니?
+•
+Can someone get used to that?51 - 누군가 그것에 익숙해질 수 있을까?
+•
+You should get used to it.51 - 너는 그것에 익숙해져야 해.
+•
+They should get used to being unemployed.51 - 그들은 실업 상태에 익숙해져야 할
+거야.
+•
+I'll never get used to him.52 - 저는 그에게 절대 익숙해지지 않을 거예요.
+
+### 페이지 40
+
+How will we ever get used to the new you?52 - 새로운 너에게 우리가 어떻게 익숙해
+질 수 있을까?
+•
+Guess I'll have to get used to folding a fitted sheet in front of somebody.52 - 아무래
+도 누군가 앞에서 시트 개는 것에 익숙해져야 할 것 같아.
+•
+I kind of got used to being a commander.55 - 저는 약간 지휘관이 되는 것에 익숙해
+졌습니다.
+•
+I've gotten used to you.55 - 나는 너에게 익숙해졌어.
+•
+I've gotten used to keeping people at arms length.55 - 저는 사람들과 거리를 두는 것
+에 익숙해졌습니다.
+•
+I had just gotten used to the Catwoman suit.5556 - 저는 막 캣우먼 슈트에 익숙해졌
+었습니다.
+•
+That's what I'm trying to get used to.56 - 그것이 제가 익숙해지려고 노력하는 것입니
+다.
+•
+I'm still trying to get used to it myself.5657 - 저는 여전히 스스로 그것에 익숙해지려
+고 노력하고 있습니다.
+•
+There are certain things you must get used to.57 - 네가 반드시 익숙해져야 하는 어떤
+것들이 있어.
+•
+They have to get used to doing it my way.5758 - 그들은 내 방식대로 하는 것에 익숙
+해져야 해.
+
+### 페이지 41
+
+They're getting very used to it.58 - 그들은 그것에 매우 익숙해지고 있어.
+•
+I suppose we'll get used to it.58 - 저는 우리가 그것에 익숙해질 거라고 생각합니다.
+•
+I don't want to get used to it.58 - 저는 그것에 익숙해지고 싶지 않아요.
+•
+Might as well get used to it.58 - 어차피 익숙해지는 게 나을 거야.
+•
+I never thought I'd get used to a girl.5859 - 저는 여자에게 익숙해질 거라고 생각조차
+못했습니다.
+•
+Girls are easier to get used to than boys.59 - 여자들은 남자들보다 익숙해지기 더 쉬
+워.
+•
+I'm really getting used to talking to patients.59 - 저는 환자들과 이야기하는 것에 정말
+익숙해지고 있습니다.
+•
+I take a little getting used to.4959 - 익숙해지려면 시간이 좀 걸린다.
+•
+I'm still getting used to me.4959 - 저는 여전히 나 자신에게 익숙해지고 있습니다.
+•
+It's going to take me a few minutes to get used to being on the outside.49 - 밖으로
+나가는 것에 익숙해지려면 몇 분 걸릴 거야.
+6. Used to 패턴 (60,61) 'Used to + 동사원형'은 '예전에 ~하곤 했다' 또는 '예전에 ~이
+었다'는 의미로, 지금은 더 이상 그렇지 않은 과거의 습관이나 상태를 나타냅니다.
+
+### 페이지 42
+
+We used to go out.60 - 우리 예전에 사귀었었어/밖으로 나갔었어.
+I Used to Know Her Mind.60 - 저는 예전에 그녀의 마음을 알곤 했습니다.
+•
+I used to play with this guy.60 - 저는 예전에 이 남자애와 놀곤 했습니다.
+•
+I used to paint all the time.60 - 저는 예전에 항상 그림을 그리곤 했습니다.
+•
+We used to use parakeets.60 - 우리는 예전에 앵무새를 사용하곤 했습니다.
+•
+It used to be right there.60 - 그것은 예전에 바로 저기에 있었습니다.
+•
+My father used to come here.60 - 저의 아버지는 예전에 여기에 오곤 했습니다.
+•
+I used to throw up all the time.60 - 저는 예전에 항상 토하곤 했습니다.
+•
+We used to come here as a kid.60 - 우리는 어렸을 때 여기에 오곤 했습니다.
+•
+I used to be kind, I used to be caring.60 - 저는 예전에 친절했고, 배려심이 있었습니다.
+•
+I used always to dream of the future.60 - 저는 예전에 항상 미래를 꿈꾸곤 했습니다.
+•
+You know, I used to play football.60 - 아시다시피, 저는 예전에 축구를 하곤 했습니다.
+There used to be a trail here.60 - 예전에 여기에 오솔길이 있었습니다.
+
+### 페이지 43
+
+We used to spend every Sunday together.60 - 우리는 예전에 매주 일요일을 함께 보
+내곤 했습니다.
+•
+I used to come over to the house all the time.60 - 저는 예전에 항상 그 집에 오곤 했
+습니다.
+•
+My father used to have blackouts when he drank.60 - 저의 아버지는 술 마실 때 예전
+에 정신을 잃곤 했습니다.
+•
+That my mother used to recite to me.60 - 저의 어머니가 예전에 저에게 낭송해주곤 했
+던 것.
+•
+I used to come out here and talk to them.60 - 저는 예전에 여기에 나와서 그들과 이
+야기하곤 했습니다.
+•
+Which used to be there.60 - 예전에 저기에 있었던 것.
+•
+All the things that we used to dream about.60 - 우리가 예전에 꿈꾸곤 했던 모든 것
+들.
+•
+It used to be it was a hierarchy.60 - 예전에는 그것이 계급제였습니다.
+•
+I used to spend two weeks there almost every summer.60 - 저는 예전에 거의 매년
+여름마다 거기서 2주를 보내곤 했습니다.
+Wait, what used to be there?60 - 잠깐, 예전에 저기에 무엇이 있었어?
+
+### 페이지 44
+
+Never used to like to leave home at all.60 - 예전에는 집을 떠나는 것을 전혀 좋아하지
+않았습니다.
+•
+My wife used to fart when she was nervous.60 - 제 아내는 예전에 긴장하면 방귀를
+뀌곤 했습니다.
+•
+Remember how we used to do that?60 - 우리가 예전에 저렇게 하곤 했다는 것 기억
+나?
+•
+Do you remember that cabin that we used to rent?60 - 우리가 예전에 빌리곤 했던 그
+오두막 기억나?
+•
+Did he used to work there?60 - 그가 예전에 거기서 일했었나?
+•
+Some old cowboy guy that used to make movies.60 - 예전에 영화를 만들곤 했던 어
+떤 늙은 카우보이 아저씨.
+•
+Wanna know where I used to hide when I used to get scared?60 - 내가 무서워지면
+예전에 어디 숨곤 했었는지 알고 싶니?
+•
+You used to say this was just a job.60 - 너는 예전에 이것이 그냥 일이라고 말하곤 했
+었어.
+7. Be about to 패턴 (62,63) 'Be about to + 동사원형'은 '막 ~하려고 하다'라는 의미로,
+어떤 일이 곧 일어날 것임을 나타냅니다.
+•
+We're about to arrive.62 - 우리는 막 도착하려고 해.
+
+### 페이지 45
+
+We're about to die.62 - 우리는 막 죽으려고 해.
+I was about to go home.62 - 나는 막 집에 가려고 했었어.
+•
+We're about to publish.62 - 우리는 막 출판하려고 해.
+•
+They're about to publish.62 - 그들은 막 출판하려고 해.
+•
+I was about to cry.62 - 나는 막 울려고 했었어.
+•
+It's about to be...62 - ...가 막 되려고 해.
+•
+The ceremony is about to begin.62 - 의식이 막 시작하려고 해.
+•
+I was just about to leave.62 - 나는 막 떠나려던 참이었어.
+•
+I was just about to call you.62 - 나는 막 너에게 전화하려던 참이었어.
+•
+I'm not about to talk about this.62 - 나는 이것에 대해 이야기하지 않을 거야/이야기하
+려 하지 않아.
+•
+You're not about to use...62 - 너는 ...을 사용하지 않을 거야/사용하려 하지 않아.
+•
+We're about to have dinner.62 - 우리는 막 저녁을 먹으려고 해.
+
+### 페이지 46
+
+I heard you're about to retire.62 - 네가 막 은퇴하려고 한다는 것을 들었어.
+The girl was about to confess.62 - 그 소녀는 막 고백하려고 했어.
+•
+The ship's about to leave.62 - 배가 막 떠나려고 해.
+•
+We're about to roll stop these guys.62 - 우리는 이 사람들을 막 멈춰 세우려고 해.
+•
+Something exciting is about to happen.62 - 뭔가 신나는 일이 막 일어나려고 해.
+•
+Somebody's life's about to change.62 - 누군가의 인생이 막 바뀌려고 해.
+•
+Looks like they're about to have theirs.62 - 그들은 막 그들의 것을 가지려고 하는 것
+같아.
+•
+I can't believe I'm about to say this.62 - 내가 막 이것을 말하려고 한다는 것을 믿을
+수 없어.
+•
+I don't know, but I think it's about to attack the Enterprise.62 - 모르겠어, 하지만 내
+생각에 엔터프라이즈를 막 공격하려고 하는 것 같아.
+•
+We were about to give up when we found a house that was perfect.62 - 완벽한 집을
+찾았을 때 우리는 막 포기하려고 했었어.
+•
+When she first mentioned what's about to happen.62 - 그녀가 막 무슨 일이 일어나려
+고 하는지 처음 언급했을 때.
+
+### 페이지 47
+
+They're about to go bad.62 - 그것들은 막 상하려고 해.
+Nothing was about to happen until something happened.62 - 뭔가 일어나기 전까지
+는 아무것도 일어나려 하지 않았어.
+•
+Your results are about to come in.62 - 네 결과가 막 나오려고 해.
+•
+This one's about to go off the rails.62 - 이것은 막 통제 불능이 되려고 해.
+•
+Today's about to go off the rails.62 - 오늘은 막 통제 불능이 되려고 해.
+•
+I don't know where they're about to go.62 - 그들이 어디로 가려는지 모르겠어.
+•
+Unaware they're about to go extinct.62 - 그들이 막 멸종되려고 한다는 것을 모르고.
+•
+It's about to cross the Mississippi River.62 - 미시시피 강을 막 건너려고 해.
+•
+Well, you're about to go into the snake pit.62 - 음, 너는 막 뱀굴로 들어가려고 해.
+Serena was about to throw the mountain.62 - 세레나는 막 산을 던지려고 했어.
